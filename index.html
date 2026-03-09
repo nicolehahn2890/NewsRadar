@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NewsRadar</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0f1a;
+    --bg2: #111827;
+    --bg3: #1a2438;
+    --border: #1e3050;
+    --rose: #c98878;
+    --rose2: #dba090;
+    --text: #e8f0fc;
+    --text2: #9ab0cc;
+    --text3: #5a7090;
+    --green: #4ab880;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { height:100%; background:var(--bg); color:var(--text); font-family:'DM Sans', sans-serif; }
+
+  /* Background texture */
+  body::before {
+    content:'';
+    position:fixed;
+    inset:0;
+    background: 
+      radial-gradient(ellipse at 20% 20%, rgba(201,136,120,0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 80%, rgba(74,184,128,0.04) 0%, transparent 50%);
+    pointer-events:none;
+    z-index:0;
+  }
+
+  .container {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 24px 16px 48px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 36px;
+    padding-top: 12px;
+  }
+  .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 6px;
+  }
+  .logo span { color: var(--rose); }
+  .tagline {
+    font-size: 12px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--text3);
+  }
+  .date-badge {
+    display: inline-block;
+    margin-top: 14px;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 5px 16px;
+    font-size: 12px;
+    color: var(--text2);
+    font-family: 'DM Sans', sans-serif;
+  }
+  .date-badge span {
+    color: var(--rose);
+    font-weight: 500;
+  }
+
+  /* Section label */
+  .section-label {
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--text3);
+    margin-bottom: 14px;
+    padding-left: 4px;
+  }
+
+  /* News Cards */
+  .cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 32px;
+  }
+
+  .card {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 18px 20px;
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+  }
+  .card::before {
+    content:'';
+    position:absolute;
+    left:0; top:0; bottom:0;
+    width: 3px;
+    background: var(--accent, var(--rose));
+    border-radius: 3px 0 0 3px;
+    opacity: 0.7;
+  }
+  .card:hover, .card:active {
+    background: var(--bg3);
+    border-color: var(--accent, var(--rose));
+    transform: translateX(3px);
+  }
+
+  .card-icon {
+    font-size: 28px;
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  .card-content {
+    flex: 1;
+  }
+  .card-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    color: var(--text);
+  }
+  .card-desc {
+    font-size: 12px;
+    color: var(--text3);
+    line-height: 1.5;
+  }
+
+  .card-arrow {
+    color: var(--text3);
+    font-size: 18px;
+    flex-shrink: 0;
+    transition: transform 0.2s;
+  }
+  .card:hover .card-arrow {
+    transform: translateX(4px);
+    color: var(--accent, var(--rose));
+  }
+
+  /* Google News direct search */
+  .card[data-topic] {
+    cursor: pointer;
+  }
+
+  /* Info box */
+  .info-box {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px 20px;
+    text-align: center;
+  }
+  .info-box p {
+    font-size: 12px;
+    color: var(--text3);
+    line-height: 1.7;
+  }
+  .info-box strong {
+    color: var(--text2);
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    margin-top: 32px;
+    font-size: 11px;
+    color: var(--text3);
+    letter-spacing: 1px;
+  }
+
+  /* Animations */
+  @keyframes fadeInUp {
+    from { opacity:0; transform:translateY(16px); }
+    to { opacity:1; transform:translateY(0); }
+  }
+  .card { animation: fadeInUp 0.4s ease both; }
+  .card:nth-child(1) { animation-delay: 0.05s; }
+  .card:nth-child(2) { animation-delay: 0.10s; }
+  .card:nth-child(3) { animation-delay: 0.15s; }
+  .card:nth-child(4) { animation-delay: 0.20s; }
+  .card:nth-child(5) { animation-delay: 0.25s; }
+  .card:nth-child(6) { animation-delay: 0.30s; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="logo">News<span>Radar</span></div>
+    <div class="tagline">Dein täglicher Nachrichtenüberblick</div>
+    <div class="date-badge">Aktuell: <span id="datum"></span></div>
+  </div>
+
+  <div class="section-label">Themen — Tippe zum Öffnen</div>
+
+  <div class="cards">
+
+    <a class="card" style="--accent:#a78bfa" href="https://news.google.com/search?q=K%C3%BCnstliche+Intelligenz+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
+      <div class="card-icon">🤖</div>
+      <div class="card-content">
+        <div class="card-title">Künstliche Intelligenz</div>
+        <div class="card-desc">Neueste KI-Entwicklungen, Modelle & Unternehmen</div>
+      </div>
+      <div class="card-arrow">→</div>
+    </a>
+
+    <a class="card" style="--accent:#60a5fa" href="https://news.google.com/search?q=Technologie+Tech+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
+      <div class="card-icon">💻</div>
+      <div class="card-content">
+        <div class="card-title">Technologie</div>
+        <div class="card-desc">Tech-Trends, Silicon Valley, Startups & Innovationen</div>
+      </div>
+      <div class="card-arrow">→</div>
+    </a>
+
+    <a class="card" style="--accent:#34d399" href="https://news.google.com/search?q=B%C3%B6rse+Aktien+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
+      <div class="card-icon">📈</div>
+      <div class="card-content">
+        <div class="card-title">Börse & Märkte</div>
+        <div class="card-desc">DAX, S&P 500, Aktien & Marktbewegungen</div>
+      </div>
+      <div class="card-arrow">→</div>
+    </a>
+
+    <a class="card" style="--accent:#fb923c" href="https://news.google.com/search?q=Weltwirtschaft+Wirtschaft+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
+      <div class="card-icon">🌍</div>
+      <div class="card-content">
+        <div class="card-title">Weltwirtschaft</div>
+        <div class="card-desc">Makroökonomie, Zentralbanken & globale Trends</div>
+      </div>
+      <div class="card-arrow">→</div>
+    </a>
+
+    <a class="card" style="--accent:#4ade80" href="https://news.google.com/search?q=ETF+Fonds+Geldanlage+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
+      <div class="card-icon">💰</div>
+      <div class="card-content">
+        <div class="card-title">ETF & Geldanlage</div>
+        <div class="card-desc">ETF-News, Fonds, Sparpläne & Anlagestrategien</div>
+      </div>
+      <div class="card-arrow">→</div>
+    </a>
+
+    <a class="card" style="--accent:#fbbf24" href="https://news.google.com/search?q=Gold+Rohstoffe+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
+      <div class="card-icon">🪙</div>
+      <div class="card-content">
+        <div class="card-title">Gold & Rohstoffe</div>
+        <div class="card-desc">Goldpreis, Rohstoffmärkte & Edelmetalle</div>
+      </div>
+      <div class="card-arrow">→</div>
+    </a>
+
+  </div>
+
+  <div class="info-box">
+    <p>Alle Links öffnen <strong>Google News</strong> — immer topaktuell, stündlich aktualisiert.<br>Kein API-Key, keine Kosten, funktioniert überall.</p>
+  </div>
+
+  <div class="footer">NewsRadar · Powered by Google News</div>
+
+</div>
+
+<script>
+  const d = new Date();
+  const opts = { weekday:'long', day:'numeric', month:'long', year:'numeric' };
+  document.getElementById('datum').textContent = d.toLocaleDateString('de-DE', opts);
+</script>
+</body>
+</html>
