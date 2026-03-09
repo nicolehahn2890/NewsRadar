@@ -346,21 +346,31 @@
   const opts = { weekday:'long', day:'numeric', month:'long', year:'numeric' };
   document.getElementById('datum').textContent = d.toLocaleDateString('de-DE', opts);
 
-  const proxy = 'https://api.allorigins.win/raw?url=';
+  const PROXIES = [
+    'https://api.allorigins.win/raw?url=',
+    'https://corsproxy.io/?',
+    'https://proxy.cors.sh/'
+  ];
+
   async function fetchQ(ticker) {
-    try {
-      const url = proxy + encodeURIComponent('https://query1.finance.yahoo.com/v8/finance/chart/' + ticker + '?interval=1d&range=2d');
-      const r = await fetch(url, {signal: AbortSignal.timeout(8000)});
-      const j = await r.json();
-      const res = j.chart.result[0];
-      const price = res.meta.regularMarketPrice;
-      const prev = res.meta.chartPreviousClose || res.meta.previousClose;
-      return {price, prev};
-    } catch(e) { return null; }
+    const yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/' + ticker + '?interval=1d&range=5d';
+    for (const proxy of PROXIES) {
+      try {
+        const r = await fetch(proxy + encodeURIComponent(yahooUrl), {signal: AbortSignal.timeout(7000)});
+        if (!r.ok) continue;
+        const j = await r.json();
+        const res = j?.chart?.result?.[0];
+        if (!res) continue;
+        const price = res.meta.regularMarketPrice;
+        const prev = res.meta.chartPreviousClose || res.meta.previousClose;
+        if (price) return {price, prev};
+      } catch(e) { continue; }
+    }
+    return null;
   }
 
   function fmt(n) {
-    if(n >= 1000) return n.toLocaleString('de-DE', {minimumFractionDigits:0, maximumFractionDigits:0});
+    if(n >= 10000) return n.toLocaleString('de-DE', {minimumFractionDigits:0, maximumFractionDigits:0});
     if(n >= 100) return n.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
     return n.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
   }
@@ -374,29 +384,31 @@
     cel.className = 'markt-change ' + (up ? 'up' : 'dn');
   }
 
+  function setError(id, cid) {
+    document.getElementById(id).textContent = '—';
+    document.getElementById(cid).textContent = '';
+  }
+
   async function loadMarkets() {
-    // EUR/USD zuerst
     const fx = await fetchQ('EURUSD=X');
     const rate = fx ? fx.price : 1;
-
     if(fx) setMarkt('m-fx', 'c-fx', fx.price, fx.prev, '');
+    else setError('m-fx', 'c-fx');
 
-    const [dax, sp, gold, btc, vwce] = await Promise.all([
-      fetchQ('%5EGDAXI'),
-      fetchQ('%5EGSPC'),
-      fetchQ('GC=F'),
-      fetchQ('BTC-USD'),
-      fetchQ('VWCE.DE')
-    ]);
+    const tickers = [
+      ['%5EGDAXI', 'm-dax', 'c-dax', 1],
+      ['%5EGSPC',  'm-sp',  'c-sp',  rate],
+      ['GC=F',     'm-gold','c-gold', rate],
+      ['BTC-USD',  'm-btc', 'c-btc',  rate],
+      ['VWCE.DE',  'm-vwce','c-vwce', 1],
+    ];
 
-    if(dax) setMarkt('m-dax', 'c-dax', dax.price, dax.prev, '');
-    if(sp) setMarkt('m-sp', 'c-sp', sp.price / rate, (sp.prev||sp.price) / rate, '');
-    if(gold) setMarkt('m-gold', 'c-gold', gold.price / rate, (gold.prev||gold.price) / rate, '');
-    if(btc) setMarkt('m-btc', 'c-btc', btc.price / rate, (btc.prev||btc.price) / rate, '');
-    if(vwce) setMarkt('m-vwce', 'c-vwce', vwce.price, vwce.prev, '');
+    await Promise.all(tickers.map(async ([ticker, pid, cid, div]) => {
+      const q = await fetchQ(ticker);
+      if(q) setMarkt(pid, cid, q.price / div, q.prev / div, '');
+      else setError(pid, cid);
+    }));
   }
 
   loadMarkets();
 </script>
-</body>
-</html>
