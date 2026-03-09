@@ -187,6 +187,48 @@
     color: var(--text2);
   }
 
+  /* Markt Banner */
+  .markt-banner {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px 20px;
+    margin-bottom: 28px;
+  }
+  .markt-label {
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--text3);
+    margin-bottom: 12px;
+  }
+  .markt-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+  }
+  .markt-item {
+    background: var(--bg3);
+    border-radius: 10px;
+    padding: 10px 8px;
+    text-align: center;
+  }
+  .markt-name {
+    font-size: 10px;
+    color: var(--text3);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .markt-price {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+  }
+  .markt-change { font-size: 11px; margin-top: 2px; }
+  .up { color: #4ab880; }
+  .dn { color: #e06060; }
+
   /* Footer */
   .footer {
     text-align: center;
@@ -219,7 +261,19 @@
     <div class="date-badge">Aktuell: <span id="datum"></span></div>
   </div>
 
-  <div class="section-label">Themen — Tippe zum Öffnen</div>
+  <div class="markt-banner">
+    <div class="markt-label">&#128202; Märkte &mdash; Live in EUR</div>
+    <div class="markt-grid">
+      <div class="markt-item"><div class="markt-name">DAX</div><div class="markt-price" id="m-dax">&#8230;</div><div class="markt-change" id="c-dax">&mdash;</div></div>
+      <div class="markt-item"><div class="markt-name">S&amp;P 500</div><div class="markt-price" id="m-sp">&#8230;</div><div class="markt-change" id="c-sp">&mdash;</div></div>
+      <div class="markt-item"><div class="markt-name">Gold</div><div class="markt-price" id="m-gold">&#8230;</div><div class="markt-change" id="c-gold">&mdash;</div></div>
+      <div class="markt-item"><div class="markt-name">Bitcoin</div><div class="markt-price" id="m-btc">&#8230;</div><div class="markt-change" id="c-btc">&mdash;</div></div>
+      <div class="markt-item"><div class="markt-name">EUR/USD</div><div class="markt-price" id="m-fx">&#8230;</div><div class="markt-change" id="c-fx">&mdash;</div></div>
+      <div class="markt-item"><div class="markt-name">VWCE</div><div class="markt-price" id="m-vwce">&#8230;</div><div class="markt-change" id="c-vwce">&mdash;</div></div>
+    </div>
+  </div>
+
+  <div class="section-label">Themen &mdash; Tippe zum Öffnen</div>
 
   <div class="cards">
 
@@ -291,6 +345,58 @@
   const d = new Date();
   const opts = { weekday:'long', day:'numeric', month:'long', year:'numeric' };
   document.getElementById('datum').textContent = d.toLocaleDateString('de-DE', opts);
+
+  const proxy = 'https://api.allorigins.win/raw?url=';
+  async function fetchQ(ticker) {
+    try {
+      const url = proxy + encodeURIComponent('https://query1.finance.yahoo.com/v8/finance/chart/' + ticker + '?interval=1d&range=2d');
+      const r = await fetch(url, {signal: AbortSignal.timeout(8000)});
+      const j = await r.json();
+      const res = j.chart.result[0];
+      const price = res.meta.regularMarketPrice;
+      const prev = res.meta.chartPreviousClose || res.meta.previousClose;
+      return {price, prev};
+    } catch(e) { return null; }
+  }
+
+  function fmt(n) {
+    if(n >= 1000) return n.toLocaleString('de-DE', {minimumFractionDigits:0, maximumFractionDigits:0});
+    if(n >= 100) return n.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
+    return n.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
+  }
+
+  function setMarkt(id, cid, price, prev, suffix) {
+    const pct = prev ? ((price - prev) / prev * 100) : 0;
+    const up = pct >= 0;
+    document.getElementById(id).textContent = fmt(price) + (suffix || '');
+    const cel = document.getElementById(cid);
+    cel.textContent = (up ? '+' : '') + pct.toFixed(2) + '%';
+    cel.className = 'markt-change ' + (up ? 'up' : 'dn');
+  }
+
+  async function loadMarkets() {
+    // EUR/USD zuerst
+    const fx = await fetchQ('EURUSD=X');
+    const rate = fx ? fx.price : 1;
+
+    if(fx) setMarkt('m-fx', 'c-fx', fx.price, fx.prev, '');
+
+    const [dax, sp, gold, btc, vwce] = await Promise.all([
+      fetchQ('%5EGDAXI'),
+      fetchQ('%5EGSPC'),
+      fetchQ('GC=F'),
+      fetchQ('BTC-USD'),
+      fetchQ('VWCE.DE')
+    ]);
+
+    if(dax) setMarkt('m-dax', 'c-dax', dax.price, dax.prev, '');
+    if(sp) setMarkt('m-sp', 'c-sp', sp.price / rate, (sp.prev||sp.price) / rate, '');
+    if(gold) setMarkt('m-gold', 'c-gold', gold.price / rate, (gold.prev||gold.price) / rate, '');
+    if(btc) setMarkt('m-btc', 'c-btc', btc.price / rate, (btc.prev||btc.price) / rate, '');
+    if(vwce) setMarkt('m-vwce', 'c-vwce', vwce.price, vwce.prev, '');
+  }
+
+  loadMarkets();
 </script>
 </body>
 </html>
