@@ -61,6 +61,23 @@
     text-transform: uppercase;
     color: var(--text3);
   }
+  .rex-dino {
+    image-rendering: pixelated;
+    animation: dino-bob 1.2s ease-in-out infinite;
+    margin-left: 10px;
+    vertical-align: middle;
+    filter: drop-shadow(0 0 6px rgba(74,184,128,0.5));
+  }
+  @keyframes dino-bob {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-4px); }
+  }
+  .logo-wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+  }
   .date-badge {
     display: inline-block;
     margin-top: 14px;
@@ -256,7 +273,42 @@
 <div class="container">
 
   <div class="header">
-    <div class="logo">News<span>Radar</span></div>
+    <div class="logo-wrap">
+      <div class="logo">News<span>Radar</span></div>
+      <svg class="rex-dino" width="40" height="40" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <!-- Körper -->
+  <rect x="5" y="7" width="6" height="4" fill="#4ab880"/>
+  <rect x="4" y="8" width="1" height="3" fill="#4ab880"/>
+  <!-- Schwanz -->
+  <rect x="10" y="8" width="2" height="1" fill="#4ab880"/>
+  <rect x="11" y="9" width="2" height="1" fill="#4ab880"/>
+  <rect x="12" y="10" width="1" height="1" fill="#4ab880"/>
+  <!-- Hals -->
+  <rect x="5" y="5" width="2" height="3" fill="#4ab880"/>
+  <!-- Kopf -->
+  <rect x="3" y="3" width="4" height="3" fill="#4ab880"/>
+  <!-- Maul -->
+  <rect x="2" y="4" width="2" height="1" fill="#4ab880"/>
+  <rect x="2" y="5" width="1" height="1" fill="#c98878"/>
+  <!-- Auge -->
+  <rect x="4" y="3" width="1" height="1" fill="#0a0f1a"/>
+  <rect x="4" y="3" width="1" height="1" fill="#fff"/>
+  <rect x="4" y="3" width="1" height="1" fill="#0a0f1a"/>
+  <!-- Pupille -->
+  <rect x="4" y="4" width="1" height="1" fill="#fff" opacity="0.3"/>
+  <!-- Rücken-Stacheln -->
+  <rect x="6" y="4" width="1" height="2" fill="#3d9966"/>
+  <rect x="7" y="3" width="1" height="3" fill="#3d9966"/>
+  <rect x="8" y="5" width="1" height="2" fill="#3d9966"/>
+  <!-- Beine -->
+  <rect x="6" y="11" width="1" height="2" fill="#3d9966"/>
+  <rect x="8" y="11" width="1" height="2" fill="#3d9966"/>
+  <rect x="6" y="13" width="2" height="1" fill="#3d9966"/>
+  <rect x="8" y="13" width="2" height="1" fill="#3d9966"/>
+  <!-- Arm -->
+  <rect x="5" y="8" width="1" height="1" fill="#3d9966"/>
+</svg>
+    </div>
     <div class="tagline">Dein täglicher Nachrichtenüberblick</div>
     <div class="date-badge">Aktuell: <span id="datum"></span></div>
   </div>
