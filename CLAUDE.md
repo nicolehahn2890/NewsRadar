@@ -2,9 +2,17 @@
 
 This file defines the instructions for the automated daily newsletter agent.
 
+## Schedule
+
+Runs **3x per week**: Monday, Wednesday, Saturday at **05:00 Uhr (Europe/Vienna)**.
+
 ## Task
 
-Every morning, research and send a comprehensive daily briefing email to **nicole.hahn2890@gmail.com**.
+Research and send a comprehensive daily briefing email to **nicole.hahn2890@gmail.com**.
+
+## Token Efficiency
+
+To save tokens, use a **pre-defined HTML template** and only insert the dynamic content (headlines, summaries, market data) into the placeholders. Do not regenerate the full HTML structure from scratch each time.
 
 ## Research Topics
 
