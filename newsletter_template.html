@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"></head>
+<body style="margin:0;padding:0;background:#f4f1eb;font-family:Georgia,serif;">
+<table width="100%" cellpadding="0" cellspacing="0" style="background:#f4f1eb;">
+<tr><td align="center" style="padding:32px 16px;">
+<table width="600" cellpadding="0" cellspacing="0" style="background:#fff;max-width:600px;width:100%;border:1px solid #ddd;">
+
+  <!-- HEADER -->
+  <tr><td style="background:#0a0f1a;padding:28px 36px 16px;text-align:center;">
+    <div style="font-family:'Courier New',monospace;font-size:10px;color:#4ab880;letter-spacing:4px;margin-bottom:10px;">▓▓ NEWSRADAR ▓▓</div>
+    <div style="font-size:38px;font-weight:700;color:#fff;letter-spacing:-1px;">News<span style="color:#c98878;">Radar</span></div>
+    <div style="font-family:'Courier New',monospace;font-size:10px;color:#5a7090;letter-spacing:3px;margin-top:6px;">DEIN TÄGLICHER KI &amp; MARKT-ÜBERBLICK</div>
+    <div style="margin-top:14px;background:#111827;border:1px solid #1e3050;border-radius:20px;display:inline-block;padding:5px 18px;">
+      <span style="font-family:'Courier New',monospace;font-size:11px;color:#9ab0cc;">📅 {{DATUM}}</span>
+    </div>
+  </td></tr>
+
+  <!-- TICKER BAR -->
+  <tr><td style="background:#111827;padding:10px 36px;">
+    <table width="100%" cellpadding="0" cellspacing="0"><tr>
+      <td style="font-family:'Courier New',monospace;font-size:11px;color:#4ab880;">DAX <span style="color:{{DAX_COLOR}};">{{DAX_WERT}} {{DAX_PCT}}</span></td>
+      <td style="font-family:'Courier New',monospace;font-size:11px;color:#4ab880;text-align:center;">S&amp;P500 <span style="color:{{SP_COLOR}};">{{SP_WERT}} {{SP_PCT}}</span></td>
+      <td style="font-family:'Courier New',monospace;font-size:11px;color:#4ab880;text-align:right;">GOLD <span style="color:{{GOLD_COLOR}};">{{GOLD_WERT}} {{GOLD_PCT}}</span></td>
+    </tr></table>
+  </td></tr>
+
+  <!-- SECTION 1: KI & MODELLE -->
+  <tr><td style="padding:32px 36px 0;">
+    <div style="font-family:'Courier New',monospace;font-size:10px;letter-spacing:3px;color:#a78bfa;border-bottom:2px solid #a78bfa;padding-bottom:6px;margin-bottom:24px;">▣ SECTION 01 · KI &amp; MODELLE</div>
+
+    <!-- Story 1 -->
+    <div style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #eee;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#a78bfa;letter-spacing:2px;margin-bottom:6px;">{{KI1_TAG}}</div>
+      <div style="font-size:21px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{KI1_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{KI1_TEXT}}</div>
+      <div style="margin-top:8px;font-family:'Courier New',monospace;font-size:10px;color:#aaa;">Quelle: {{KI1_QUELLE}}</div>
+    </div>
+
+    <!-- Story 2 -->
+    <div style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #eee;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#a78bfa;letter-spacing:2px;margin-bottom:6px;">{{KI2_TAG}}</div>
+      <div style="font-size:19px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{KI2_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{KI2_TEXT}}</div>
+      <div style="margin-top:8px;font-family:'Courier New',monospace;font-size:10px;color:#aaa;">Quelle: {{KI2_QUELLE}}</div>
+    </div>
+
+    <!-- Story 3 -->
+    <div style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #eee;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#a78bfa;letter-spacing:2px;margin-bottom:6px;">{{KI3_TAG}}</div>
+      <div style="font-size:19px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{KI3_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{KI3_TEXT}}</div>
+      <div style="margin-top:8px;font-family:'Courier New',monospace;font-size:10px;color:#aaa;">Quelle: {{KI3_QUELLE}}</div>
+    </div>
+
+    <!-- Story 4 -->
+    <div style="margin-bottom:24px;padding-bottom:24px;border-bottom:1px solid #eee;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#a78bfa;letter-spacing:2px;margin-bottom:6px;">{{KI4_TAG}}</div>
+      <div style="font-size:19px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{KI4_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{KI4_TEXT}}</div>
+      <div style="margin-top:8px;font-family:'Courier New',monospace;font-size:10px;color:#aaa;">Quelle: {{KI4_QUELLE}}</div>
+    </div>
+
+    <!-- Story 5 -->
+    <div style="margin-bottom:0;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#a78bfa;letter-spacing:2px;margin-bottom:6px;">{{KI5_TAG}}</div>
+      <div style="font-size:18px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{KI5_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{KI5_TEXT}}</div>
+      <div style="margin-top:8px;font-family:'Courier New',monospace;font-size:10px;color:#aaa;">Quelle: {{KI5_QUELLE}}</div>
+    </div>
+  </td></tr>
+
+  <!-- SECTION 2: MÄRKTE -->
+  <tr><td style="padding:32px 36px 0;">
+    <div style="font-family:'Courier New',monospace;font-size:10px;letter-spacing:3px;color:#4ab880;border-bottom:2px solid #4ab880;padding-bottom:6px;margin-bottom:20px;">▣ SECTION 02 · MÄRKTE &amp; ETFs</div>
+
+    <!-- Markt-Boxen -->
+    <table width="100%" cellpadding="0" cellspacing="8" style="margin-bottom:16px;"><tr>
+      <td width="33%" style="padding:0 4px 0 0;">
+        <div style="background:#0a0f1a;border-radius:10px;padding:14px;text-align:center;">
+          <div style="font-family:'Courier New',monospace;font-size:9px;color:#5a7090;letter-spacing:2px;margin-bottom:5px;">DAX</div>
+          <div style="font-family:'Courier New',monospace;font-size:16px;color:#fff;font-weight:700;">{{DAX_WERT}}</div>
+          <div style="font-family:'Courier New',monospace;font-size:11px;color:{{DAX_COLOR}};margin-top:3px;">{{DAX_PCT}}</div>
+        </div>
+      </td>
+      <td width="33%" style="padding:0 4px;">
+        <div style="background:#0a0f1a;border-radius:10px;padding:14px;text-align:center;">
+          <div style="font-family:'Courier New',monospace;font-size:9px;color:#5a7090;letter-spacing:2px;margin-bottom:5px;">S&amp;P 500</div>
+          <div style="font-family:'Courier New',monospace;font-size:16px;color:#fff;font-weight:700;">{{SP_WERT}}</div>
+          <div style="font-family:'Courier New',monospace;font-size:11px;color:{{SP_COLOR}};margin-top:3px;">{{SP_PCT}}</div>
+        </div>
+      </td>
+      <td width="33%" style="padding:0 0 0 4px;">
+        <div style="background:#0a0f1a;border-radius:10px;padding:14px;text-align:center;">
+          <div style="font-family:'Courier New',monospace;font-size:9px;color:#5a7090;letter-spacing:2px;margin-bottom:5px;">GOLD</div>
+          <div style="font-family:'Courier New',monospace;font-size:16px;color:#fff;font-weight:700;">{{GOLD_WERT}}</div>
+          <div style="font-family:'Courier New',monospace;font-size:11px;color:{{GOLD_COLOR}};margin-top:3px;">{{GOLD_PCT}}</div>
+        </div>
+      </td>
+    </tr></table>
+
+    <!-- Markt-Kommentar (gelb = Warnung, grün = positiv) -->
+    <div style="background:{{MARKT_BOX_BG}};border-left:3px solid {{MARKT_BOX_BORDER}};padding:14px 16px;margin-bottom:14px;border-radius:0 8px 8px 0;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:{{MARKT_BOX_LABEL_COLOR}};letter-spacing:2px;margin-bottom:6px;">{{MARKT_BOX_LABEL}}</div>
+      <div style="font-size:13px;color:#555;line-height:1.65;">{{MARKT_KOMMENTAR}}</div>
+    </div>
+
+    <!-- Deine Anlagen -->
+    <div style="background:#f0fdf4;border-left:3px solid #4ab880;padding:14px 16px;border-radius:0 8px 8px 0;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#166534;letter-spacing:2px;margin-bottom:8px;">🪙 DEINE ANLAGEN — EINSCHÄTZUNG</div>
+      <div style="font-size:13px;color:#555;line-height:1.7;">{{ANLAGEN_TEXT}}</div>
+    </div>
+  </td></tr>
+
+  <!-- SECTION 3: WELTWIRTSCHAFT -->
+  <tr><td style="padding:32px 36px 0;">
+    <div style="font-family:'Courier New',monospace;font-size:10px;letter-spacing:3px;color:#fb923c;border-bottom:2px solid #fb923c;padding-bottom:6px;margin-bottom:20px;">▣ SECTION 03 · WELTWIRTSCHAFT</div>
+
+    <div style="margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #eee;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#fb923c;letter-spacing:2px;margin-bottom:6px;">{{WELT1_TAG}}</div>
+      <div style="font-size:19px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{WELT1_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{WELT1_TEXT}}</div>
+    </div>
+
+    <div>
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#fb923c;letter-spacing:2px;margin-bottom:6px;">{{WELT2_TAG}}</div>
+      <div style="font-size:19px;font-weight:700;color:#111;line-height:1.25;margin-bottom:10px;">{{WELT2_TITEL}}</div>
+      <div style="font-size:13px;color:#444;line-height:1.7;">{{WELT2_TEXT}}</div>
+    </div>
+  </td></tr>
+
+  <!-- FOOTER -->
+  <tr><td style="background:#0a0f1a;padding:28px 36px;">
+    <div style="border-top:1px solid #1e3050;padding-top:20px;text-align:center;">
+      <div style="font-family:'Courier New',monospace;font-size:10px;color:#4ab880;letter-spacing:3px;margin-bottom:8px;">▓ NEWSRADAR ▓</div>
+      <div style="font-size:11px;color:#5a7090;line-height:1.8;font-family:'Courier New',monospace;">Mo · Mi · Sa · 05:00 Uhr Vienna<br>Powered by Google News &amp; Claude AI<br>Keine Anlageberatung</div>
+    </div>
+  </td></tr>
+
+</table>
+</td></tr>
+</table>
+</body>
+</html>

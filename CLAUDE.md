@@ -12,7 +12,23 @@ Research and send a comprehensive daily briefing email to **nicole.hahn2890@gmai
 
 ## Token Efficiency
 
-To save tokens, use a **pre-defined HTML template** and only insert the dynamic content (headlines, summaries, market data) into the placeholders. Do not regenerate the full HTML structure from scratch each time.
+To save tokens, use the pre-built template in `newsletter_template.html`. Read that file and replace only the `{{PLACEHOLDERS}}` with fresh content. Do NOT regenerate the full HTML from scratch.
+
+Key placeholders:
+- `{{DATUM}}` — heutiges Datum auf Deutsch
+- `{{DAX_WERT}}`, `{{DAX_PCT}}`, `{{DAX_COLOR}}` — Kurswert, %-Änderung, Farbe (#4ab880 grün / #e06060 rot)
+- Same pattern for `SP` and `GOLD`
+- `{{KI1_TAG}}` bis `{{KI5_TAG}}` — z.B. `🟣 CLAUDE — NEUES FEATURE`
+- `{{KI1_TITEL}}` bis `{{KI5_TITEL}}` — Schlagzeile
+- `{{KI1_TEXT}}` bis `{{KI5_TEXT}}` — 2–3 Sätze Zusammenfassung
+- `{{KI1_QUELLE}}` bis `{{KI5_QUELLE}}` — Quellenangabe
+- `{{MARKT_BOX_BG}}` / `{{MARKT_BOX_BORDER}}` — `#fff8e6` / `#fbbf24` (Warnung) oder `#f0fdf4` / `#4ab880` (positiv)
+- `{{MARKT_BOX_LABEL_COLOR}}` — `#b45309` (Warnung) oder `#166534` (positiv)
+- `{{MARKT_BOX_LABEL}}` — z.B. `⚠ MÄRKTE UNTER DRUCK`
+- `{{MARKT_KOMMENTAR}}` — aktueller Marktkommentar
+- `{{ANLAGEN_TEXT}}` — Einschätzung für FTSE All World, Small Caps, Gold
+- `{{WELT1_TAG}}` / `{{WELT1_TITEL}}` / `{{WELT1_TEXT}}` — Weltwirtschaft Story 1
+- `{{WELT2_TAG}}` / `{{WELT2_TITEL}}` / `{{WELT2_TEXT}}` — Weltwirtschaft Story 2
 
 ## Research Topics
 
