@@ -1,5 +1,10 @@
 # NewsRadar – Daily Newsletter Agent
 
+## Verhaltensregeln für den Agenten
+- Behaupte nichts was du nicht weißt oder überprüft hast
+- Bei Unsicherheit: klar sagen "ich bin nicht sicher" statt etwas erfinden
+- Fakten wie Termine, Kurse, News immer aus echten Quellen belegen
+
 This file defines the instructions for the automated daily newsletter agent.
 
 ## Schedule
