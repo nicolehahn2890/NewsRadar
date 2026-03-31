@@ -80,5 +80,15 @@ Send an HTML email with this structure:
 - Max width: 600px
 
 ## Send via Gmail
-Use the gmail tools to create and send the draft to nicole.hahn2890@gmail.com.
-Subject format: `📡 NewsRadar · [Weekday], [Day]. [Month] [Year]`
+1. Use `gmail_create_draft` to create the email with full HTML content
+2. Then use `gmail_send_draft` with the returned draftId to actually **send** it — do NOT leave it as a draft
+3. Recipient: nicole.hahn2890@gmail.com
+4. Subject format: `📡 NewsRadar · [Weekday], [Day]. [Month] [Year]`
+   Example: `📡 NewsRadar · Mittwoch, 1. April 2026`
+
+## Important Notes
+- Always use today's actual date in search queries and the email subject
+- Be thorough — research at least 5–7 AI stories and all key market data
+- The email must be **sent**, not just saved as draft
+- Write everything in German
+- Never skip sections — Nicole wants a complete daily overview
