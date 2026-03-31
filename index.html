@@ -255,6 +255,124 @@
     letter-spacing: 1px;
   }
 
+  /* AI Summary Section */
+  .ai-summary {
+    background: var(--bg2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px 20px;
+    margin-bottom: 28px;
+    position: relative;
+    overflow: hidden;
+  }
+  .ai-summary::before {
+    content:'';
+    position:absolute;
+    left:0; top:0; bottom:0;
+    width: 3px;
+    background: #a78bfa;
+    border-radius: 3px 0 0 3px;
+  }
+  .ai-summary-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+  .ai-summary-label {
+    font-size: 10px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--text3);
+  }
+  .ai-summary-badge {
+    font-size: 10px;
+    background: rgba(167,139,250,0.12);
+    border: 1px solid rgba(167,139,250,0.25);
+    color: #a78bfa;
+    border-radius: 20px;
+    padding: 2px 10px;
+    letter-spacing: 1px;
+  }
+  .ai-tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .ai-tab {
+    font-size: 11px;
+    padding: 4px 12px;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: var(--bg3);
+    color: var(--text3);
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: 'DM Sans', sans-serif;
+  }
+  .ai-tab.active {
+    background: rgba(167,139,250,0.15);
+    border-color: rgba(167,139,250,0.4);
+    color: #a78bfa;
+  }
+  .ai-tab:hover:not(.active) {
+    color: var(--text2);
+    border-color: var(--text3);
+  }
+  .ai-news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .ai-news-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 9px 0;
+    border-bottom: 1px solid rgba(30,48,80,0.6);
+    text-decoration: none;
+    color: inherit;
+    transition: opacity 0.15s;
+  }
+  .ai-news-item:last-child { border-bottom: none; }
+  .ai-news-item:hover { opacity: 0.75; }
+  .ai-news-dot {
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: #a78bfa;
+    flex-shrink: 0;
+    margin-top: 6px;
+  }
+  .ai-news-title {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.4;
+    flex: 1;
+  }
+  .ai-news-source {
+    font-size: 10px;
+    color: var(--text3);
+    margin-top: 2px;
+  }
+  .ai-news-loading {
+    font-size: 12px;
+    color: var(--text3);
+    text-align: center;
+    padding: 12px 0;
+  }
+  .ai-news-error {
+    font-size: 12px;
+    color: var(--text3);
+    text-align: center;
+    padding: 12px 0;
+  }
+  .ai-news-error a {
+    color: #a78bfa;
+    text-decoration: none;
+  }
+
   /* Animations */
   @keyframes fadeInUp {
     from { opacity:0; transform:translateY(16px); }
@@ -322,6 +440,24 @@
       <div class="markt-item"><div class="markt-name">Bitcoin</div><div class="markt-price" id="m-btc">&#8230;</div><div class="markt-change" id="c-btc">&mdash;</div></div>
       <div class="markt-item"><div class="markt-name">EUR/USD</div><div class="markt-price" id="m-fx">&#8230;</div><div class="markt-change" id="c-fx">&mdash;</div></div>
       <div class="markt-item"><div class="markt-name">VWCE</div><div class="markt-price" id="m-vwce">&#8230;</div><div class="markt-change" id="c-vwce">&mdash;</div></div>
+    </div>
+  </div>
+
+  <div class="section-label">&#129302; KI-Nachrichten &mdash; Täglich aktuell</div>
+
+  <div class="ai-summary">
+    <div class="ai-summary-header">
+      <div class="ai-summary-label">&#128240; Schlagzeilen</div>
+      <div class="ai-summary-badge">Live &bull; Google News</div>
+    </div>
+    <div class="ai-tabs">
+      <button class="ai-tab active" onclick="loadAiNews('ki')" data-key="ki">🤖 KI Allgemein</button>
+      <button class="ai-tab" onclick="loadAiNews('claude')" data-key="claude">🟣 Claude</button>
+      <button class="ai-tab" onclick="loadAiNews('openai')" data-key="openai">⚪ OpenAI</button>
+      <button class="ai-tab" onclick="loadAiNews('gemini')" data-key="gemini">🔵 Gemini</button>
+    </div>
+    <div class="ai-news-list" id="ai-news-list">
+      <div class="ai-news-loading">Lade Nachrichten…</div>
     </div>
   </div>
 
@@ -463,4 +599,79 @@
   }
 
   loadMarkets();
+
+  // AI News Summary
+  const AI_QUERIES = {
+    ki:     'KI+Künstliche+Intelligenz+Anthropic+OpenAI+aktuell',
+    claude: 'Claude+Anthropic+KI+Modell',
+    openai: 'OpenAI+ChatGPT+GPT+aktuell',
+    gemini: 'Google+Gemini+KI+aktuell',
+  };
+
+  const AI_RSS_PROXIES = [
+    url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+    url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+  ];
+
+  let currentTab = 'ki';
+
+  async function fetchRSS(query) {
+    const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=de&gl=DE&ceid=DE:de`;
+    for (const makeProxy of AI_RSS_PROXIES) {
+      try {
+        const r = await fetch(makeProxy(rssUrl), { signal: AbortSignal.timeout(8000) });
+        if (!r.ok) continue;
+        const text = await r.text();
+        const doc = new DOMParser().parseFromString(text, 'text/xml');
+        const items = doc.querySelectorAll('item');
+        if (!items.length) continue;
+        const results = [];
+        items.forEach((item, i) => {
+          if (i >= 7) return;
+          const title = item.querySelector('title')?.textContent || '';
+          const link  = item.querySelector('link')?.textContent || '';
+          const src   = item.querySelector('source')?.textContent || '';
+          if (title && link) results.push({ title, link, src });
+        });
+        return results;
+      } catch(e) { continue; }
+    }
+    return null;
+  }
+
+  function renderNews(items, query) {
+    const list = document.getElementById('ai-news-list');
+    if (!items || !items.length) {
+      const fallbackUrl = `https://news.google.com/search?q=${query}&hl=de&gl=DE&ceid=DE:de`;
+      list.innerHTML = `<div class="ai-news-error">Nachrichten konnten nicht geladen werden.<br><a href="${fallbackUrl}" target="_blank">→ Direkt bei Google News öffnen</a></div>`;
+      return;
+    }
+    list.innerHTML = items.map(item => `
+      <a class="ai-news-item" href="${item.link}" target="_blank" rel="noopener">
+        <div class="ai-news-dot"></div>
+        <div>
+          <div class="ai-news-title">${item.title}</div>
+          ${item.src ? `<div class="ai-news-source">${item.src}</div>` : ''}
+        </div>
+      </a>
+    `).join('');
+  }
+
+  async function loadAiNews(key) {
+    if (key === currentTab && document.getElementById('ai-news-list').querySelector('.ai-news-item')) return;
+    currentTab = key;
+
+    // Update tabs
+    document.querySelectorAll('.ai-tab').forEach(t => {
+      t.classList.toggle('active', t.dataset.key === key);
+    });
+
+    const list = document.getElementById('ai-news-list');
+    list.innerHTML = '<div class="ai-news-loading">Lade Nachrichten…</div>';
+
+    const items = await fetchRSS(AI_QUERIES[key]);
+    renderNews(items, AI_QUERIES[key]);
+  }
+
+  loadAiNews('ki');
 </script>
