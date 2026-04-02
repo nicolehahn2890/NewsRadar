@@ -1,0 +1,59 @@
+{
+  "datum": "Mittwoch, 1. April 2026",
+  "generiert": "2026-04-01",
+  "ticker": {
+    "dax": {"wert": "22.799", "pct": "▲ +1,58%", "up": true},
+    "sp":  {"wert": "5.520",  "pct": "▲ +0,30%", "up": true},
+    "gold":{"wert": "$4.616", "pct": "▲ +2,30%", "up": true}
+  },
+  "ki_stories": [
+    {
+      "tag": "🟣 CLAUDE — NEUES MODELL",
+      "titel": "Anthropic trainiert „Claude Mythos" – das bisher leistungsfähigste KI-Modell der Welt",
+      "text": "Anthropics Ingenieure haben das Training von Claude Mythos abgeschlossen und pilotieren das Modell bereits mit ersten ausgewählten Kunden. Das Unternehmen bezeichnet es intern als „das fähigste Modell, das wir bisher gebaut haben" – leistungsfähiger und teurer als Claude Opus 4.6. Mythos soll als neue vierte Produktstufe eingeführt werden.",
+      "quelle": "SiliconANGLE / Anthropic"
+    },
+    {
+      "tag": "🟣 CLAUDE — API UPDATE",
+      "titel": "300.000 Token Output, kostenlose Code-Ausführung und Web Search jetzt allgemein verfügbar",
+      "text": "Anthropic hat das maximale Token-Output-Limit auf 300.000 in der Message Batches API erhöht. Web Search ist nun allgemein verfügbar, und Code-Ausführung ist kostenlos wenn mit Web Search kombiniert. Achtung: Claude Haiku 3 wird am 19. April 2026 eingestellt.",
+      "quelle": "Anthropic API Docs"
+    },
+    {
+      "tag": "⚪ OPENAI — GPT-5.4",
+      "titel": "OpenAI lanciert GPT-5.4 – mit Gruppen-Chats, Werbung und 100 Mio. Euro Jahresumsatz",
+      "text": "OpenAI hat GPT-5.4 veröffentlicht – das derzeit leistungsfähigste Frontier-Modell, das Coding, Reasoning und agentische Workflows vereint. Neu: Gruppen-Chat-Funktion. OpenAI verdient bereits 100 Millionen Euro pro Jahr mit Werbung in ChatGPT.",
+      "quelle": "OpenAI / Ad-hoc-News"
+    },
+    {
+      "tag": "🔵 GEMINI — GEMINI 3",
+      "titel": "Google startet Gemini-3-Serie mit Deep Think und riesigem Gemini Live Upgrade",
+      "text": "Google hat „gemini-3-pro-preview" gestartet – Googles modernstes Reasoning- und Multimodal-Modell. Für Ultra-Abonnenten gibt es „Gemini 3 Deep Think" für Mathematik und Wissenschaft. Das bisher größte Gemini Live Upgrade macht Gespräche schneller.",
+      "quelle": "Google Blog"
+    },
+    {
+      "tag": "🟡 PERPLEXITY — DATENSCHUTZ",
+      "titel": "Perplexity verklagt: Soll Nutzerdaten heimlich an Meta und Google weitergegeben haben",
+      "text": "Eine neue Sammelklage wirft Perplexity AI vor, persönliche Nutzerdaten ohne Zustimmung an Meta und Google weiterzugeben. Beim Login sollen Tracker installiert werden die vollen Zugriff auf KI-Gespräche ermöglichen. Perplexity hat sich bislang nicht geäußert.",
+      "quelle": "Bloomberg"
+    }
+  ],
+  "markt_box": {
+    "typ": "warn",
+    "label": "⚠ MÄRKTE VOLATIL — HEUTE ERHOLUNG",
+    "text": "Der DAX zeigt heute eine starke Erholung von +1,58% auf 22.799 Punkte – trotzdem liegt der Index im Monatsvergleich noch -8,59% im Minus. Gold glänzt mit +2,3% auf $4.616, Öl zieht kräftig an (+4,2% auf $119). Die Zollpolitik bleibt das zentrale Risiko."
+  },
+  "anlagen_text": "<strong>FTSE All World ETF:</strong> Profitiert heute von der breiten Erholung – MSCI World +1,2%, Nasdaq +1,8%. Langfristig solide, aber Handelszollrisiken mahnen zur Vorsicht.<br><br><strong>Small Caps ETF:</strong> Profitiert von heutiger Risk-on-Stimmung, bei weiterer Zoll-Eskalation aber besonders anfällig.<br><br><strong>Gold:</strong> Starker Tag mit +2,3% auf $4.616. Mit +18% Jahresperformance der verlässlichste Stabilisator im Portfolio.",
+  "welt_stories": [
+    {
+      "tag": "🌍 WELTHANDEL",
+      "titel": "Handelskrieg bremst Weltwirtschaft – Wachstum bricht um zwei Drittel ein, Rezessionsrisiko 45%",
+      "text": "Das globale Handelswachstum verlangsamte sich von +2% (2025) auf nur +0,6% (2026) laut Allianz Trade. Das Rezessionsrisiko wird auf 45% geschätzt falls Trumps Zölle weiter eskalieren. Der IWF hat globale Wachstumsprognosen auf 2,8% bzw. 3,0% gesenkt."
+    },
+    {
+      "tag": "⚖️ REGULIERUNG",
+      "titel": "EU AI Act 2026: KI-Entscheidungen müssen erklärbar sein – neue Pflichten für alle Anbieter",
+      "text": "Mit dem EU AI Act tritt 2026 erstmals ein umfassender Rechtsrahmen für KI in Europa verbindlich in Kraft. Bei Hochrisiko-Anwendungen müssen KI-Entscheidungen erklärbar und dokumentiert sein. Betroffen sind alle Unternehmen die KI in der EU einsetzen."
+    }
+  ]
+}

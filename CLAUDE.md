@@ -108,16 +108,43 @@ Send an HTML email with this structure:
 - All inline CSS (email client compatibility)
 - Max width: 600px
 
-## Send via Gmail
-1. Use `gmail_create_draft` to create the email with full HTML content
-2. Then use `gmail_send_draft` with the returned draftId to actually **send** it — do NOT leave it as a draft
-3. Recipient: nicole.hahn2890@gmail.com
-4. Subject format: `📡 NewsRadar · [Weekday], [Day]. [Month] [Year]`
-   Example: `📡 NewsRadar · Mittwoch, 1. April 2026`
+## Output: newsletter_latest.json
+
+Do NOT send an email. Instead, write the newsletter content to `newsletter_latest.json` in the repository root and commit + push it. The web app automatically reads and displays this file.
+
+The JSON must follow this exact structure:
+
+```json
+{
+  "datum": "Mittwoch, 1. April 2026",
+  "generiert": "2026-04-01",
+  "ticker": {
+    "dax":  {"wert": "22.799", "pct": "▲ +1,58%", "up": true},
+    "sp":   {"wert": "5.520",  "pct": "▲ +0,30%", "up": true},
+    "gold": {"wert": "$4.616", "pct": "▲ +2,30%", "up": true}
+  },
+  "ki_stories": [
+    {"tag": "🟣 CLAUDE — NEUES MODELL", "titel": "...", "text": "...", "quelle": "..."}
+  ],
+  "markt_box": {
+    "typ": "warn",
+    "label": "⚠ MÄRKTE UNTER DRUCK",
+    "text": "..."
+  },
+  "anlagen_text": "<strong>FTSE All World ETF:</strong> ...<br><br><strong>Small Caps ETF:</strong> ...<br><br><strong>Gold:</strong> ...",
+  "welt_stories": [
+    {"tag": "🌍 WELTHANDEL", "titel": "...", "text": "..."}
+  ]
+}
+```
+
+- `"up": true` = grün, `"up": false` = rot
+- `"typ": "warn"` = gelbe Box, `"typ": "gut"` = grüne Box
+- Commit message: `Newsletter [Datum]`
+- Push to main branch
 
 ## Important Notes
-- Always use today's actual date in search queries and the email subject
-- Be thorough — research at least 5–7 AI stories and all key market data
-- The email must be **sent**, not just saved as draft
+- Always use today's actual date in search queries
+- Be thorough — research at least 5 AI stories and all key market data
 - Write everything in German
-- Never skip sections — Nicole wants a complete daily overview
+- Never skip sections
