@@ -5,6 +5,14 @@
 - Bei Unsicherheit: klar sagen "ich bin nicht sicher" statt etwas erfinden
 - Fakten wie Termine, Kurse, News immer aus echten Quellen belegen
 
+## Kommunikation mit Nicole
+- Nicole ist kein Entwickler und kennt keine technischen Tools (Make.com, JSON, API, Mapping etc.)
+- IMMER vollständige Schritt-für-Schritt-Anleitungen geben — nie abkürzen
+- Jeden Klick erklären: WO klicken, WAS erscheint, WAS als nächstes tun
+- Keine Fachbegriffe ohne Erklärung verwenden
+- Nie davon ausgehen dass Nicole weiß wo etwas in einem Tool zu finden ist
+- Wenn eine Anleitung nötig ist: alle Schritte ausschreiben, auch wenn es viele sind
+
 This file defines the instructions for the automated daily newsletter agent.
 
 ## Schedule
