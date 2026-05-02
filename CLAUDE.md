@@ -125,6 +125,38 @@ Wichtigste Story jeweils zuerst.
 Schreibe das Ergebnis in `newsletter_latest.json` im Repository-Root, dann
 commit und push auf den `main` Branch.
 
+### Anführungszeichen im Text — kritisch!
+
+Innerhalb der Felder `titel` und `text` dürfen **NIEMALS** gerade
+Anführungszeichen `"` vorkommen — die brechen das JSON-Format und die Webseite
+zeigt dann gar nichts mehr an.
+
+Regel:
+- Für wörtliche Zitate im Text: einfache Anführungszeichen `'so'` benutzen.
+- Oder: das Zitat ohne Anführungszeichen umschreiben.
+- **Verboten** im Text: `"`, `„` mit `"` gemischt, `“`, `”`.
+- Erlaubt sind nur die JSON-eigenen `"` um die Feldwerte herum.
+
+Beispiel falsch (bricht JSON):
+`"text": "Powell sagte „das war meine letzte Sitzung"."`
+
+Beispiel richtig:
+`"text": "Powell sagte 'das war meine letzte Sitzung'."`
+oder
+`"text": "Powell sagte, das sei seine letzte Sitzung gewesen."`
+
+### Pflicht-Validierung vor jedem Commit
+
+Bevor du committest, **musst** du prüfen, dass die Datei gültiges JSON ist.
+Führe dazu im Repository-Root aus:
+
+```
+python3 -c "import json; json.load(open('newsletter_latest.json'))"
+```
+
+Wenn das einen Fehler wirft: erst reparieren, dann erst committen.
+**Niemals** kaputtes JSON committen.
+
 JSON-Struktur:
 
 ```json
@@ -184,10 +216,21 @@ Zusätzlich bei `unternehmen_stories`:
 **Keine `url` mehr im Output** — die Verlinkung zum Originalartikel wurde
 entfernt, weil viele paywalled Artikel ohnehin nicht aufgehen.
 
-## Commit
+## Commit & Push — kritisch!
 
+- Arbeite **direkt auf dem `main` Branch**. Nicht auf Debug-, Feature- oder
+  sonstigen Nebenbranches.
+- Wenn du auf einem anderen Branch startest: zuerst `git checkout main`,
+  dann erst die Datei schreiben und committen.
 - Commit-Message: `Newsletter [Datum]` (z.B. `Newsletter 2026-05-02`)
-- Push auf `main`
+- Push: `git push origin main`
+- **Pflicht-Check nach dem Push:** Überzeuge dich, dass `origin/main`
+  tatsächlich den neuen Commit hat — z.B. mit `git log origin/main -1`.
+  Erst dann ist die Aufgabe fertig.
+
+Hintergrund: Die Webseite (GitHub Pages) liest ausschließlich aus dem
+`main`-Branch. Pushes auf andere Branches sind für Nicole unsichtbar und
+gelten als nicht erledigt.
 
 ## Important Notes
 
