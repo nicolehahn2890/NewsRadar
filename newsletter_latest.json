@@ -3,91 +3,91 @@
   "generiert": "2026-05-02",
   "ki_stories": [
     {
-      "titel": "Anthropic präsentiert neue Generation von Claude — Fokus auf agentische Workflows",
-      "text": "Anthropic hat am 1. Mai 2026 die nächste Claude-Generation vorgestellt, die laut Unternehmen erstmals zuverlässig mehrstündige Aufgaben autonom ausführen kann. Im Zentrum stehen verbesserte Tool-Nutzung, eine deutlich höhere Erfolgsrate bei Code-Ausführung (laut Anthropic 84 Prozent gegenüber 71 Prozent beim Vorgänger) und ein neues 500.000-Token-Kontextfenster. Das Modell ist über die API ab sofort verfügbar; Pro- und Max-Abonnenten erhalten Zugang in den nächsten Wochen. Erste Enterprise-Kunden — darunter Salesforce und Deloitte — testen das Modell bereits in Produktion. Der Schritt erhöht den Druck auf OpenAI, dessen GPT-5 bei vergleichbaren agentischen Aufgaben aktuell noch hinter Claude liegt.",
+      "titel": "OpenAI stellt GPT-5.5 vor: Erste nativ omnimodale KI-Architektur",
+      "text": "OpenAI hat am 23. April 2026 GPT-5.5 veröffentlicht – ein von Grund auf neu entwickeltes Modell, das Text, Bilder, Audio und Video in einem einzigen, einheitlichen System verarbeitet, statt wie bisher in getrennten Modulen. Das Modell zeigt besonders starke Fortschritte bei agentischen Aufgaben wie autonomem Programmieren und komplexer Wissensarbeit. Auf dem Benchmark Terminal-Bench 2.0 erreicht GPT-5.5 eine Genauigkeit von 82,7 %; auf SWE-Bench Pro – dem schwierigsten Maßstab für KI-gestützte Softwareentwicklung – kommt es auf 58,6 %. OpenAI positioniert das Modell als direkten Wettbewerber zu Googles Gemini-Familie und Anthropics Claude-Reihe. Die Veröffentlichung fällt in eine Phase intensiven Wettbewerbs, in der alle großen KI-Labore ihre Modelle in rascher Folge aktualisieren.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-04-23"
+    },
+    {
+      "titel": "Pentagon lässt 8 KI-Firmen für Geheimnetze zu – Anthropic ausgeschlossen",
+      "text": "Das US-Verteidigungsministerium hat am 1. Mai 2026 Vereinbarungen mit acht Technologieunternehmen geschlossen, die deren KI-Systeme auf den höchst klassifizierten Militärnetzwerken (Impact Level 6 und 7) einsetzen dürfen: Amazon Web Services, Google, Microsoft, NVIDIA, OpenAI, SpaceX, Reflection und Oracle. Ziel ist es, die Entscheidungsfindung von Soldaten und Kommandeuren in komplexen Einsatzlagen durch KI zu beschleunigen; über 1,3 Millionen Mitarbeitende des Ministeriums nutzen bereits das KI-Portal GenAI.mil. Anthropic wurde ausdrücklich ausgeschlossen, nachdem das Unternehmen sich geweigert hatte, dem US-Militär uneingeschränkten Zugang zu Claude für „alle rechtlichen Zwecke" zu gewähren – einschließlich autonomer Waffensysteme und Massenüberwachung. Anthropic klagte daraufhin gegen die Trump-Administration; ein Bundesgericht in Kalifornien blockierte vorläufig den Versuch der Regierung, Anthropic aus bestehenden Regierungsverträgen auszuschließen. Die Deals zeigen, dass das US-Militär massiv auf private KI-Modelle setzt, und könnten den Wettbewerb der Labore um Regierungsaufträge neu ordnen.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-05-01"
+    },
+    {
+      "titel": "EU AI Act: Zweiter Trilog scheitert – Hochrisiko-Frist August 2026 rückt näher",
+      "text": "Der zweite politische Trilog zwischen EU-Parlament, Ministerrat und Kommission über die geplante Novelle des AI Act (Digital Omnibus) ist am 28. April 2026 ohne Einigung zu Ende gegangen; der nächste Gesprächstermin wurde auf den 13. Mai 2026 angesetzt. Kernstreitpunkt ist, ob KI-Systeme, die bereits in EU-regulierten Produkten wie Medizingeräten, Autos und Spielzeug eingebettet sind, von den zusätzlichen Anforderungen des AI Act ausgenommen werden sollen. Die Novelle sieht vor, die Hochrisiko-Verpflichtungen vom ursprünglichen Termin 2. August 2026 auf den 2. Dezember 2027 zu verschieben. Wenn bis zum 2. August jedoch keine formelle Einigung vorliegt, tritt das ursprüngliche Gesetz automatisch in Kraft. Für Unternehmen bedeutet dies wachsende Rechtsunsicherheit: Sie müssen möglicherweise ab August 2026 strenge Auflagen erfüllen, die die EU eigentlich zurücknehmen wollte.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-04-28"
+    },
+    {
+      "titel": "Anthropic veröffentlicht Claude Opus 4.7 – deutliche Fortschritte bei Coding",
+      "text": "Anthropic hat am 16. April 2026 Claude Opus 4.7 allgemein verfügbar gemacht – auf claude.ai, über die API sowie auf allen großen Cloud-Plattformen. Das Modell bringt spürbare Verbesserungen gegenüber Opus 4.6 (erschienen Februar 2026), besonders bei anspruchsvoller Software-Entwicklung und den schwierigsten agentischen Aufgaben. Nutzer berichten, dass sie nun komplexe Programmierarbeiten, die bisher engmaschige Aufsicht erforderten, vollständig an Opus 4.7 delegieren können. Parallel befindet sich laut internen Angaben das Modell Claude Mythos bereits in begrenzten internen Tests, was auf eine weitere Generation in naher Zukunft hindeutet. Der schnelle Modell-Takt von Anthropic – Opus 4.6 im Februar, Opus 4.7 im April – zeigt, wie stark sich der Entwicklungszyklus für Frontier-KI-Modelle beschleunigt hat.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-04-16"
+    },
+    {
+      "titel": "OpenAI-Finanzchefin: Compute-Mangel bremst Wachstum, nicht fehlende Nachfrage",
+      "text": "OpenAI-Finanzchefin Sarah Friar hat in einem Bloomberg-Interview vom 1. Mai 2026 Berichte zurückgewiesen, wonach das Unternehmen interne Umsatz- und Nutzerziele verfehlt habe. Sie räumte ein, dass einzelne Kennzahlen im Quartalsverlauf schwanken könnten, betonte aber: „Wir schlagen unseren Plan auf höchstem Niveau." Als Hauptursache für Wachstumsgrenzen nannte Friar nicht fehlende Nachfrage, sondern knappe Rechenkapazität: „Wir gehen gerade eine vertikale Wand der Nachfrage hinauf – Compute ist das, was uns manchmal bremst." Der Hintergrund: Das Wall Street Journal hatte zuvor berichtet, dass OpenAI bei einigen internen Zielen hinter den Planungen zurückgeblieben sei, was zu Spannungen zwischen Friar und CEO Sam Altman geführt habe. Das Interview unterstreicht, dass die gesamte KI-Branche derzeit weniger an fehlender Nachfrage als an unzureichender Infrastruktur leidet – OpenAIs Jahresumsatz-Laufrate wird auf rund 25 Milliarden US-Dollar geschätzt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01"
-    },
-    {
-      "titel": "OpenAI öffnet GPT-Modelle für deutlich tiefere Browser-Integration",
-      "text": "Eine neue API erlaubt Drittanbietern, ChatGPT direkt in den Browser-Workflow ihrer Nutzer einzubinden. Das Update richtet sich vor allem an Suchmaschinen-Konkurrenten und Produktivitäts-Apps. Branchenanalysten sehen darin den nächsten Schritt im Wettlauf um den KI-Assistenten-Standard.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-04-30"
-    },
-    {
-      "titel": "EU verschärft KI-Regulierung — neue Pflichten für Foundation-Model-Anbieter",
-      "text": "Die EU-Kommission hat zusätzliche Auflagen für Anbieter sehr großer KI-Modelle veröffentlicht. Betroffen sind unter anderem OpenAI, Anthropic und Google. Die Vorgaben betreffen Trainingsdaten-Transparenz und Risikobewertungen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-01"
-    },
-    {
-      "titel": "Google Gemini überholt erstmals OpenAI in einem wichtigen Reasoning-Benchmark",
-      "text": "Im aktuellen Test der Stanford-Universität liegt Gemini 3 vor GPT-5 bei mathematischen und logischen Aufgaben. Google nutzt das Ergebnis offensiv im Marketing für Cloud-Kunden. Beobachter warnen jedoch, dass Benchmarks oft schnell veralten.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-04-29"
-    },
-    {
-      "titel": "AI Supremacy: Warum 2026 das Jahr der KI-Konsolidierung wird",
-      "text": "Michael Spencer analysiert in seinem aktuellen Newsletter, warum sich der KI-Markt 2026 stark auf wenige Anbieter konzentrieren wird. Kapitalintensität und Talentknappheit sind die Haupttreiber. Kleinere Labs werden laut Spencer zunehmend übernommen oder schließen.",
-      "quelle": "AI Supremacy",
-      "datum_artikel": "2026-04-28"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA übertrifft Erwartungen — Rechenzentrumsumsatz wächst um 78 Prozent",
-      "text": "NVIDIA hat im ersten Geschäftsquartal 2026 einen Umsatz von 41,2 Milliarden Dollar gemeldet — rund 3 Milliarden über den Analystenschätzungen. Das Rechenzentrumsgeschäft, getrieben von ungebrochener KI-Nachfrage, wuchs um 78 Prozent gegenüber dem Vorjahr auf 32 Milliarden Dollar und macht damit fast 80 Prozent des Konzernumsatzes aus. Hauptkunden bleiben die Hyperscaler (Microsoft, Amazon, Google, Meta), die zusammen rund die Hälfte des Datacenter-Umsatzes ausmachen. CEO Jensen Huang nannte die Nachfrage nach den neuen Blackwell-Chips als „außergewöhnlich" und kündigte an, die Produktion in der zweiten Jahreshälfte weiter hochzufahren. Die Aktie legte nachbörslich um über 6 Prozent zu und liegt im laufenden Jahr nun mehr als 40 Prozent im Plus. Risiken bleiben China-Exportbeschränkungen und ein möglicher KI-Investitionszyklus-Höhepunkt.",
+      "titel": "Anthropic: $30 Mrd. Jahresumsatz – Amazon investiert weitere $25 Mrd.",
+      "text": "Anthropic hat seinen annualisierten Umsatz auf über 30 Milliarden US-Dollar gesteigert – Ende 2025 waren es noch rund 9 Milliarden US-Dollar. Amazon gab am 20. April 2026 bekannt, zusätzlich bis zu 25 Milliarden US-Dollar in Anthropic zu investieren, on top der bereits getätigten 8 Milliarden US-Dollar. Im Gegenzug verpflichtet sich Anthropic, in den nächsten zehn Jahren mehr als 100 Milliarden US-Dollar für AWS-Dienste auszugeben – darunter aktuelle und künftige Trainium-Chips. Zudem sicherte sich Anthropic bis zu 5 Gigawatt Rechenkapazität für das Training und den Betrieb seiner Claude-Modelle. Die Partnerschaft gilt als eine der tiefsten jemals zwischen einem Cloud-Anbieter und einem KI-Labor und festigt Amazons Position im Wettrennen um die KI-Infrastruktur.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-04-20",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Anthropic erwägt Finanzierungsrunde bei Bewertung von über $900 Mrd.",
+      "text": "Anthropic verhandelt laut Bloomberg-Bericht vom 29. April 2026 mit Investoren über eine neue Finanzierungsrunde in Höhe von 40 bis 50 Milliarden US-Dollar, die das Unternehmen bei über 900 Milliarden US-Dollar bewerten würde. Damit würde Anthropic OpenAI als wertvollstes privates KI-Unternehmen der Welt überholen – OpenAI war erst im März 2026 in einer Rekordrunde mit 852 Milliarden US-Dollar bewertet worden. Investoren sollen eine Zusagefrist von 48 Stunden haben; die finale Entscheidung wird beim nächsten Board-Meeting erwartet. Rund 80 % von Anthropics Umsatz entfallen auf Unternehmenskunden, und über 1.000 Firmen zahlen jährlich mehr als eine Million US-Dollar für Claude-Dienste. Der enorme Bewertungssprung reflektiert das rasante Umsatzwachstum und die strategischen Partnerschaften mit Amazon und Google.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-04-29",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Meta kauft Startup Assured Robot Intelligence für Humanoid-Robotik-Offensive",
+      "text": "Meta Platforms hat am 1. Mai 2026 das KI-Startup Assured Robot Intelligence (ARI) übernommen, das KI-Modelle entwickelt, die Robotern ermöglichen, menschliches Verhalten in komplexen und dynamischen Umgebungen zu verstehen, vorherzusagen und darauf zu reagieren. Das gesamte ARI-Team – einschließlich der Mitgründer – wird Metas Forschungsabteilung Superintelligence Labs beitreten. Co-Gründer Xiaolong Wang war zuvor Forscher bei NVIDIA und Professor an der UC San Diego; Co-Gründer Lerrel Pinto lehrte an der New York University und hatte zuvor Fauna Robotics mitgegründet, das Amazon im März 2026 erwarb. Die finanziellen Bedingungen der Transaktion wurden nicht bekannt gegeben. Goldman Sachs prognostiziert, dass der Markt für humanoide Robotik bis 2035 auf 38 Milliarden US-Dollar anwachsen wird; Morgan Stanley hält bis 2050 sogar 5 Billionen US-Dollar für möglich.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "OpenAI strebt Bewertung von 500 Milliarden Dollar in neuer Finanzierungsrunde an",
-      "text": "Laut mehreren Investorenquellen führt OpenAI Gespräche über eine neue Runde, die das Unternehmen mit 500 Milliarden Dollar bewerten würde. Damit wäre es das höchstbewertete Privatunternehmen der Welt. Lead-Investor soll erneut SoftBank sein.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-04-30",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Microsoft baut Azure-KI-Geschäft schneller aus als erwartet",
-      "text": "Microsofts Cloud-Sparte Azure verzeichnet weiteres Wachstum durch KI-Workloads. CEO Satya Nadella nennt KI den wichtigsten Wachstumstreiber der nächsten Jahre. Analysten heben das Kursziel auf 520 Dollar an.",
-      "quelle": "Barron's",
-      "datum_artikel": "2026-04-29",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Meta investiert weitere 20 Milliarden Dollar in eigene KI-Infrastruktur",
-      "text": "Mark Zuckerberg kündigte beim Earnings Call zusätzliche Capex-Investitionen für 2026 an. Schwerpunkt sind eigene Rechenzentren und Custom-Chips. Investoren reagierten verhalten — die Aktie verlor zunächst 3 Prozent.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-04-28",
       "unternehmen": "Meta"
     },
     {
-      "titel": "xAI sichert sich Großauftrag von Saudi-Arabien für Grok-Integration",
-      "text": "Elon Musks KI-Unternehmen xAI hat einen Mehrjahresvertrag mit dem saudischen Public Investment Fund unterzeichnet. Grok soll in nationale Plattformen integriert werden. Volumen laut Insidern: über 4 Milliarden Dollar.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-04-27",
-      "unternehmen": "xAI"
+      "titel": "Google stellt TPU 8t und 8i vor – 121 Exaflops als Antwort auf NVIDIA",
+      "text": "Google hat auf der Cloud Next-Konferenz am 22. April 2026 in Las Vegas zwei neue KI-Chips der achten Generation vorgestellt: TPU 8t (Training) und TPU 8i (Inferenz). Der TPU 8t liefert 121 FP4-Exaflops Peak-Leistung – rund dreimal mehr als der Vorgänger Ironwood – und skaliert auf bis zu 9.600 TPUs in einem einzigen Superpod mit 2 Petabyte gemeinsamem Hochband-Speicher. Der TPU 8i ist auf Ultra-Low-Latency für agentische Anwendungen optimiert und bietet 80 % besseres Preis-Leistungsverhältnis bei der Inferenz. Broadcom entwirft den TPU 8t, MediaTek den TPU 8i; beide werden von TSMC im 2-Nanometer-Prozess gefertigt. Für externe Kunden ist die Verfügbarkeit erst ab Ende 2027 geplant, intern nutzt Google die neuen Chips bereits für Gemini und andere Dienste.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-04-22",
+      "unternehmen": "Google"
+    },
+    {
+      "titel": "OpenAI verfehlt interne Ziele – WSJ-Bericht sorgt für Unruhe",
+      "text": "Das Wall Street Journal berichtete am 28. April 2026, dass OpenAI bei einigen internen Umsatz- und Nutzerwachstumszielen hinter dem Plan zurückgeblieben ist, und dass es deshalb zu Spannungen zwischen CFO Sarah Friar und CEO Sam Altman gekommen sein soll. Das Unternehmen hat diese Darstellung teilweise zurückgewiesen: Friar erklärte, OpenAI schlage seinen Plan „auf höchstem Niveau" und die Abweichungen seien auf die schwer vorhersehbare Natur eines jungen Unternehmens zurückzuführen. Erschwerend kommt hinzu, dass die Nachfrage nach Rechenkapazität die Bereitstellung neuer Kapazitäten übersteigt, was das Umsatzwachstum strukturell begrenzt. Trotz der Diskussionen liegt OpenAIs annualisierte Umsatzlaufrate Schätzungen zufolge bei rund 25 Milliarden US-Dollar. Zum Vergleich: Anthropic hat zuletzt 30 Milliarden US-Dollar Jahresumsatz gemeldet und könnte OpenAI damit erstmals überholt haben.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-04-28",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 schließt auf neuem Allzeithoch — Tech-Werte führen Rally an",
-      "text": "Der S&P 500 erreichte am Freitag, 1. Mai 2026, ein neues Rekordhoch von 6.180 Punkten und legte auf Wochensicht 2,4 Prozent zu. Treiber waren erneut KI-Werte, allen voran NVIDIA (+6,1 Prozent nach Earnings) und Microsoft (+3,2 Prozent). Der Tech-lastige Nasdaq 100 stieg um 3,1 Prozent auf ebenfalls neues Allzeithoch. Hintergrund sind sowohl starke Quartalszahlen als auch entspannte Fed-Erwartungen — die Anleihemärkte preisen aktuell zwei weitere Zinssenkungen für 2026 ein. Für FTSE-All-World-Anleger bedeutet das spürbaren Rückenwind: Der Index hat ein US-Gewicht von rund 62 Prozent, davon allein 30 Prozent in den großen Tech-Werten. Risiken: hohe Bewertungen (S&P-500-KGV bei 22,5, deutlich über dem 10-Jahres-Schnitt von 18) und mögliche Korrektur, falls KI-Capex-Zahlen enttäuschen.",
+      "titel": "S&P 500 erstmals über 7.200 Punkte – Apple-Zahlen befeuern Tech-Rally",
+      "text": "Der S&P 500 schloss am 1. Mai 2026 bei 7.230 Punkten und damit zum ersten Mal in seiner Geschichte über der Marke von 7.200 Punkten (+0,29 %). Der Nasdaq Composite legte 0,89 % zu und schloss bei 25.114 Punkten – ebenfalls ein Allzeithoch. Haupttreiber war Apple: Die Aktie stieg über 3 %, nachdem der Konzern im zweiten Fiskalquartal mit einem Gewinn je Aktie von 2,01 US-Dollar (erwartet: 1,95 US-Dollar) und einem Umsatz von 111,18 Milliarden US-Dollar (erwartet: 109,66 Milliarden) die Erwartungen klar übertraf. Laut FactSet haben inzwischen 84 % der S&P-500-Unternehmen, die für das erste Quartal berichtet haben, die Analystenschätzungen übertroffen; der Index steuert auf rund 15 % Gewinnwachstum gegenüber dem Vorjahr zu. Die Märkte scheinen damit sowohl die anhaltend hohen Zinsen als auch geopolitische Risiken (Krieg in Iran, Öl über 100 US-Dollar) einzupreisen.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-01"
     },
     {
-      "titel": "Goldpreis nähert sich 5.000-Dollar-Marke — Notenbanken kaufen weiter",
-      "text": "Gold notiert aktuell bei 4.890 Dollar je Unze, nur 2 Prozent unter dem Allzeithoch. Treiber sind anhaltende Käufe asiatischer Notenbanken sowie Sorgen um die Staatsverschuldung der USA. Analysten erwarten kurzfristig die psychologische 5.000er-Marke.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01"
+      "titel": "Fed hält Leitzins unverändert – Powell tritt ab, Kevin Warsh übernimmt am 15. Mai",
+      "text": "Die US-Notenbank Federal Reserve hat auf ihrer Sitzung vom 29. April 2026 den Leitzins erneut unverändert bei 3,5 bis 3,75 % belassen – die dritte Pause in Folge. Als Begründung nannte die Fed eine weiterhin „erhöhte" Inflation, die vor allem durch globale Energiepreise (Rohöl über 100 US-Dollar je Barrel) getrieben wird, sowie ein schwächeres Beschäftigungswachstum. Der Beschluss war ungewöhnlich umstritten: Vier Fed-Gouverneure votierten dagegen – so viel Dissens gab es seit über drei Jahrzehnten nicht mehr. Fed-Gouverneur Stephen Miran plädierte für eine Zinssenkung um 25 Basispunkte, während drei andere das Statement nicht mittragen wollten. Jerome Powell bestätigte, dass dies seine letzte Pressekonferenz als Fed-Chef war; sein Mandat endet am 15. Mai 2026, wenn Kevin Warsh das Amt übernimmt. J.P. Morgan Research erwartet, dass die Fed bis Ende 2026 keine weiteren Änderungen vornehmen wird; die nächste Bewegung könnte erst 2027 eine Zinserhöhung sein.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-04-29"
     },
     {
-      "titel": "Fed signalisiert Zinspause — Powell warnt vor neuen Inflationsrisiken",
-      "text": "Fed-Chef Jerome Powell hat in seiner Rede in Stanford klargemacht, dass weitere Zinssenkungen 2026 unwahrscheinlich sind. Grund seien anhaltende Lohndruck und steigende Energiepreise. Märkte reagierten gemischt — Anleihen unter Druck, Aktien stabil.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-04-30"
+      "titel": "Gold bei rund $4.693 – Iran-Krieg und Ölpreisschock halten Preis in enger Spanne",
+      "text": "Der Goldpreis handelt aktuell bei rund 4.693 US-Dollar je Unze (Spot), Gold-Futures liegen bei etwa 4.708 US-Dollar. Die wichtigsten Treiber bleiben geopolitisch: Der anhaltende Konflikt zwischen den USA und dem Iran hält die Energieversorgung unsicher und befeuert globale Inflationserwartungen; Rohöl notiert über 100 US-Dollar je Barrel. Solange die Fed aufgrund hoher Energiepreise keine Zinssenkungen signalisiert, bleibt der Opportunitätsvorteil von Gold begrenzt – was eine Deckelung des Preises erklärt. Die stabile Nachfrage durch Zentralbanken weltweit bildet gleichzeitig eine solide Preisuntergrenze. Analysten sehen den Goldpreis für Mai 2026 in einer Handelsspanne von 4.380 bis 5.100 US-Dollar; JPMorgan Private erwartet bis Jahresende eine Konsolidierung im Bereich von 4.000 bis 4.500 US-Dollar.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-01"
     }
   ]
 }
