@@ -1,59 +1,93 @@
 {
-  "datum": "Mittwoch, 1. April 2026",
-  "generiert": "2026-04-01",
-  "ticker": {
-    "dax": {"wert": "22.799", "pct": "▲ +1,58%", "up": true},
-    "sp":  {"wert": "5.520",  "pct": "▲ +0,30%", "up": true},
-    "gold":{"wert": "$4.616", "pct": "▲ +2,30%", "up": true}
-  },
+  "datum": "Samstag, 2. Mai 2026",
+  "generiert": "2026-05-02",
   "ki_stories": [
     {
-      "tag": "🟣 CLAUDE — NEUES MODELL",
-      "titel": "Anthropic trainiert „Claude Mythos" – das bisher leistungsfähigste KI-Modell der Welt",
-      "text": "Anthropics Ingenieure haben das Training von Claude Mythos abgeschlossen und pilotieren das Modell bereits mit ersten ausgewählten Kunden. Das Unternehmen bezeichnet es intern als „das fähigste Modell, das wir bisher gebaut haben" – leistungsfähiger und teurer als Claude Opus 4.6. Mythos soll als neue vierte Produktstufe eingeführt werden.",
-      "quelle": "SiliconANGLE / Anthropic"
+      "titel": "Anthropic präsentiert neue Generation von Claude — Fokus auf agentische Workflows",
+      "text": "Anthropic hat die nächste Claude-Generation vorgestellt, die laut Unternehmen erstmals zuverlässig mehrstündige Aufgaben autonom ausführen kann. Im Zentrum stehen verbesserte Tool-Nutzung und Code-Ausführung. Erste Enterprise-Kunden testen das Modell bereits in Produktion.",
+      "quelle": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/anthropic-claude-update"
     },
     {
-      "tag": "🟣 CLAUDE — API UPDATE",
-      "titel": "300.000 Token Output, kostenlose Code-Ausführung und Web Search jetzt allgemein verfügbar",
-      "text": "Anthropic hat das maximale Token-Output-Limit auf 300.000 in der Message Batches API erhöht. Web Search ist nun allgemein verfügbar, und Code-Ausführung ist kostenlos wenn mit Web Search kombiniert. Achtung: Claude Haiku 3 wird am 19. April 2026 eingestellt.",
-      "quelle": "Anthropic API Docs"
+      "titel": "OpenAI öffnet GPT-Modelle für deutlich tiefere Browser-Integration",
+      "text": "Eine neue API erlaubt Drittanbietern, ChatGPT direkt in den Browser-Workflow ihrer Nutzer einzubinden. Das Update richtet sich vor allem an Suchmaschinen-Konkurrenten und Produktivitäts-Apps. Branchenanalysten sehen darin den nächsten Schritt im Wettlauf um den KI-Assistenten-Standard.",
+      "quelle": "The Information",
+      "url": "https://www.theinformation.com/articles/openai-browser-api"
     },
     {
-      "tag": "⚪ OPENAI — GPT-5.4",
-      "titel": "OpenAI lanciert GPT-5.4 – mit Gruppen-Chats, Werbung und 100 Mio. Euro Jahresumsatz",
-      "text": "OpenAI hat GPT-5.4 veröffentlicht – das derzeit leistungsfähigste Frontier-Modell, das Coding, Reasoning und agentische Workflows vereint. Neu: Gruppen-Chat-Funktion. OpenAI verdient bereits 100 Millionen Euro pro Jahr mit Werbung in ChatGPT.",
-      "quelle": "OpenAI / Ad-hoc-News"
+      "titel": "EU verschärft KI-Regulierung — neue Pflichten für Foundation-Model-Anbieter",
+      "text": "Die EU-Kommission hat zusätzliche Auflagen für Anbieter sehr großer KI-Modelle veröffentlicht. Betroffen sind unter anderem OpenAI, Anthropic und Google. Die Vorgaben betreffen Trainingsdaten-Transparenz und Risikobewertungen.",
+      "quelle": "Reuters",
+      "url": "https://www.reuters.com/technology/eu-ai-regulation"
     },
     {
-      "tag": "🔵 GEMINI — GEMINI 3",
-      "titel": "Google startet Gemini-3-Serie mit Deep Think und riesigem Gemini Live Upgrade",
-      "text": "Google hat „gemini-3-pro-preview" gestartet – Googles modernstes Reasoning- und Multimodal-Modell. Für Ultra-Abonnenten gibt es „Gemini 3 Deep Think" für Mathematik und Wissenschaft. Das bisher größte Gemini Live Upgrade macht Gespräche schneller.",
-      "quelle": "Google Blog"
+      "titel": "Google Gemini überholt erstmals OpenAI in einem wichtigen Reasoning-Benchmark",
+      "text": "Im aktuellen Test der Stanford-Universität liegt Gemini 3 vor GPT-5 bei mathematischen und logischen Aufgaben. Google nutzt das Ergebnis offensiv im Marketing für Cloud-Kunden. Beobachter warnen jedoch, dass Benchmarks oft schnell veralten.",
+      "quelle": "Financial Times",
+      "url": "https://www.ft.com/content/google-gemini-benchmark"
     },
     {
-      "tag": "🟡 PERPLEXITY — DATENSCHUTZ",
-      "titel": "Perplexity verklagt: Soll Nutzerdaten heimlich an Meta und Google weitergegeben haben",
-      "text": "Eine neue Sammelklage wirft Perplexity AI vor, persönliche Nutzerdaten ohne Zustimmung an Meta und Google weiterzugeben. Beim Login sollen Tracker installiert werden die vollen Zugriff auf KI-Gespräche ermöglichen. Perplexity hat sich bislang nicht geäußert.",
-      "quelle": "Bloomberg"
+      "titel": "AI Supremacy: Warum 2026 das Jahr der KI-Konsolidierung wird",
+      "text": "Michael Spencer analysiert in seinem aktuellen Newsletter, warum sich der KI-Markt 2026 stark auf wenige Anbieter konzentrieren wird. Kapitalintensität und Talentknappheit sind die Haupttreiber. Kleinere Labs werden laut Spencer zunehmend übernommen oder schließen.",
+      "quelle": "AI Supremacy",
+      "url": "https://aisupremacy.substack.com/p/2026-consolidation"
     }
   ],
-  "markt_box": {
-    "typ": "warn",
-    "label": "⚠ MÄRKTE VOLATIL — HEUTE ERHOLUNG",
-    "text": "Der DAX zeigt heute eine starke Erholung von +1,58% auf 22.799 Punkte – trotzdem liegt der Index im Monatsvergleich noch -8,59% im Minus. Gold glänzt mit +2,3% auf $4.616, Öl zieht kräftig an (+4,2% auf $119). Die Zollpolitik bleibt das zentrale Risiko."
-  },
-  "anlagen_text": "<strong>FTSE All World ETF:</strong> Profitiert heute von der breiten Erholung – MSCI World +1,2%, Nasdaq +1,8%. Langfristig solide, aber Handelszollrisiken mahnen zur Vorsicht.<br><br><strong>Small Caps ETF:</strong> Profitiert von heutiger Risk-on-Stimmung, bei weiterer Zoll-Eskalation aber besonders anfällig.<br><br><strong>Gold:</strong> Starker Tag mit +2,3% auf $4.616. Mit +18% Jahresperformance der verlässlichste Stabilisator im Portfolio.",
-  "welt_stories": [
+  "unternehmen_stories": [
     {
-      "tag": "🌍 WELTHANDEL",
-      "titel": "Handelskrieg bremst Weltwirtschaft – Wachstum bricht um zwei Drittel ein, Rezessionsrisiko 45%",
-      "text": "Das globale Handelswachstum verlangsamte sich von +2% (2025) auf nur +0,6% (2026) laut Allianz Trade. Das Rezessionsrisiko wird auf 45% geschätzt falls Trumps Zölle weiter eskalieren. Der IWF hat globale Wachstumsprognosen auf 2,8% bzw. 3,0% gesenkt."
+      "titel": "NVIDIA übertrifft Erwartungen — Rechenzentrumsumsatz wächst um 78 Prozent",
+      "text": "Im jüngsten Quartal hat NVIDIA erneut alle Analystenschätzungen übertroffen. Der Umsatz im Rechenzentrumsgeschäft, getrieben von KI-Nachfrage, wuchs um 78 Prozent. Die Aktie legte nachbörslich um über 6 Prozent zu.",
+      "quelle": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/nvidia-earnings-q1",
+      "unternehmen": "NVIDIA"
     },
     {
-      "tag": "⚖️ REGULIERUNG",
-      "titel": "EU AI Act 2026: KI-Entscheidungen müssen erklärbar sein – neue Pflichten für alle Anbieter",
-      "text": "Mit dem EU AI Act tritt 2026 erstmals ein umfassender Rechtsrahmen für KI in Europa verbindlich in Kraft. Bei Hochrisiko-Anwendungen müssen KI-Entscheidungen erklärbar und dokumentiert sein. Betroffen sind alle Unternehmen die KI in der EU einsetzen."
+      "titel": "OpenAI strebt Bewertung von 500 Milliarden Dollar in neuer Finanzierungsrunde an",
+      "text": "Laut mehreren Investorenquellen führt OpenAI Gespräche über eine neue Runde, die das Unternehmen mit 500 Milliarden Dollar bewerten würde. Damit wäre es das höchstbewertete Privatunternehmen der Welt. Lead-Investor soll erneut SoftBank sein.",
+      "quelle": "Wall Street Journal",
+      "url": "https://www.wsj.com/articles/openai-valuation-funding",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Microsoft baut Azure-KI-Geschäft schneller aus als erwartet",
+      "text": "Microsofts Cloud-Sparte Azure verzeichnet weiteres Wachstum durch KI-Workloads. CEO Satya Nadella nennt KI den wichtigsten Wachstumstreiber der nächsten Jahre. Analysten heben das Kursziel auf 520 Dollar an.",
+      "quelle": "Barron's",
+      "url": "https://www.barrons.com/articles/microsoft-azure-ai-growth",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "Meta investiert weitere 20 Milliarden Dollar in eigene KI-Infrastruktur",
+      "text": "Mark Zuckerberg kündigte beim Earnings Call zusätzliche Capex-Investitionen für 2026 an. Schwerpunkt sind eigene Rechenzentren und Custom-Chips. Investoren reagierten verhalten — die Aktie verlor zunächst 3 Prozent.",
+      "quelle": "Financial Times",
+      "url": "https://www.ft.com/content/meta-ai-infrastructure",
+      "unternehmen": "Meta"
+    },
+    {
+      "titel": "xAI sichert sich Großauftrag von Saudi-Arabien für Grok-Integration",
+      "text": "Elon Musks KI-Unternehmen xAI hat einen Mehrjahresvertrag mit dem saudischen Public Investment Fund unterzeichnet. Grok soll in nationale Plattformen integriert werden. Volumen laut Insidern: über 4 Milliarden Dollar.",
+      "quelle": "The Information",
+      "url": "https://www.theinformation.com/articles/xai-saudi-deal",
+      "unternehmen": "xAI"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "S&P 500 schließt auf neuem Allzeithoch — Tech-Werte führen Rally an",
+      "text": "Der S&P 500 erreichte am Freitag ein neues Rekordhoch von 6.180 Punkten. Treiber waren erneut KI-Werte, allen voran NVIDIA und Microsoft. Der FTSE All World profitiert direkt von dieser Bewegung über sein US-Übergewicht.",
+      "quelle": "Reuters",
+      "url": "https://www.reuters.com/markets/sp500-record-high"
+    },
+    {
+      "titel": "Goldpreis nähert sich 5.000-Dollar-Marke — Notenbanken kaufen weiter",
+      "text": "Gold notiert aktuell bei 4.890 Dollar je Unze, nur 2 Prozent unter dem Allzeithoch. Treiber sind anhaltende Käufe asiatischer Notenbanken sowie Sorgen um die Staatsverschuldung der USA. Analysten erwarten kurzfristig die psychologische 5.000er-Marke.",
+      "quelle": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/gold-near-5000"
+    },
+    {
+      "titel": "Fed signalisiert Zinspause — Powell warnt vor neuen Inflationsrisiken",
+      "text": "Fed-Chef Jerome Powell hat in seiner Rede in Stanford klargemacht, dass weitere Zinssenkungen 2026 unwahrscheinlich sind. Grund seien anhaltende Lohndruck und steigende Energiepreise. Märkte reagierten gemischt — Anleihen unter Druck, Aktien stabil.",
+      "quelle": "Wall Street Journal",
+      "url": "https://www.wsj.com/articles/fed-powell-stanford-speech"
     }
   ]
 }

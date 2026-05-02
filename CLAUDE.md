@@ -1,4 +1,4 @@
-# NewsRadar – Daily Newsletter Agent
+# NewsRadar – Daily News Agent
 
 ## Verhaltensregeln für den Agenten
 - Behaupte nichts was du nicht weißt oder überprüft hast
@@ -13,146 +13,171 @@
 - Nie davon ausgehen dass Nicole weiß wo etwas in einem Tool zu finden ist
 - Wenn eine Anleitung nötig ist: alle Schritte ausschreiben, auch wenn es viele sind
 
-This file defines the instructions for the automated daily newsletter agent.
+This file defines the instructions for the automated daily news agent.
 
 ## Schedule
 
-Runs **3x per week**: Monday, Wednesday, Saturday at **05:00 Uhr (Europe/Vienna)**.
+Runs **täglich** um **05:00 Uhr (Europe/Vienna)**.
 
 ## Task
 
-Research and send a comprehensive daily briefing email to **nicole.hahn2890@gmail.com**.
+Recherchiere die wichtigsten News des Tages aus Nicoles bevorzugten Quellen,
+übersetze sie ins Deutsche und schreibe sie in `newsletter_latest.json`.
+Die Web-App (`index.html`) liest diese Datei automatisch.
 
-## Token Efficiency
+**Kein E-Mail-Versand.** Output ist ausschließlich `newsletter_latest.json`.
 
-To save tokens, use the pre-built template in `newsletter_template.html`. Read that file and replace only the `{{PLACEHOLDERS}}` with fresh content. Do NOT regenerate the full HTML from scratch.
+## Bevorzugte Quellen
 
-Key placeholders:
-- `{{DATUM}}` — heutiges Datum auf Deutsch
-- `{{DAX_WERT}}`, `{{DAX_PCT}}`, `{{DAX_COLOR}}` — Kurswert, %-Änderung, Farbe (#4ab880 grün / #e06060 rot)
-- Same pattern for `SP` and `GOLD`
-- `{{KI1_TAG}}` bis `{{KI5_TAG}}` — z.B. `🟣 CLAUDE — NEUES FEATURE`
-- `{{KI1_TITEL}}` bis `{{KI5_TITEL}}` — Schlagzeile
-- `{{KI1_TEXT}}` bis `{{KI5_TEXT}}` — 2–3 Sätze Zusammenfassung
-- `{{KI1_QUELLE}}` bis `{{KI5_QUELLE}}` — Quellenangabe
-- `{{MARKT_BOX_BG}}` / `{{MARKT_BOX_BORDER}}` — `#fff8e6` / `#fbbf24` (Warnung) oder `#f0fdf4` / `#4ab880` (positiv)
-- `{{MARKT_BOX_LABEL_COLOR}}` — `#b45309` (Warnung) oder `#166534` (positiv)
-- `{{MARKT_BOX_LABEL}}` — z.B. `⚠ MÄRKTE UNTER DRUCK`
-- `{{MARKT_KOMMENTAR}}` — aktueller Marktkommentar
-- `{{ANLAGEN_TEXT}}` — Einschätzung für FTSE All World, Small Caps, Gold
-- `{{WELT1_TAG}}` / `{{WELT1_TITEL}}` / `{{WELT1_TEXT}}` — Weltwirtschaft Story 1
-- `{{WELT2_TAG}}` / `{{WELT2_TITEL}}` / `{{WELT2_TEXT}}` — Weltwirtschaft Story 2
+Bevorzuge bei der Suche und Auswahl der Stories diese Quellen — in dieser Reihenfolge:
 
-## Research Topics
+1. **Bloomberg**
+2. **Financial Times** (FT)
+3. **Wall Street Journal** (WSJ)
+4. **Reuters**
+5. **Barron's**
+6. **Washington Post**
+7. **New York Times** (NYT)
+8. **The Information**
+9. **Substack** — relevante KI- und Finanz-Newsletter
+10. **AI Supremacy** (Substack-Newsletter von Michael Spencer)
 
-### 1. KI & Modelle (most important)
-Search for the latest news on:
-- **Anthropic / Claude**: new models, features, Claude Code updates, API changes, research papers
-- **OpenAI / ChatGPT**: GPT model releases, new features, company news
-- **Google / Gemini**: Gemini model updates, Google AI products, integrations
-- **Perplexity AI**: product updates, new features
-- **KI Allgemein**: AI industry news, new tools, breakthroughs, regulation, use cases
+Andere seriöse Quellen (z.B. TechCrunch, The Verge, Axios, CNBC) sind nur
+zulässig, wenn keine der oben genannten Quellen zum Thema berichtet.
 
-Use these search queries (adapt date to today):
-- `"Claude Anthropic" neue Features aktuell 2026`
-- `"OpenAI ChatGPT" aktuell Neuigkeiten 2026`
-- `"Google Gemini" aktuell Update 2026`
-- `Perplexity AI news 2026`
-- `KI künstliche Intelligenz Nachrichten aktuell`
+## Paywall-Regel (sehr wichtig)
 
-### 2. Märkte & ETFs
-Search for:
-- DAX aktuell Kurs heute
-- S&P 500 aktuell heute
-- Gold Preis aktuell heute
-- FTSE All World ETF news aktuell
-- Small Caps ETF Entwicklung aktuell
-- Bitcoin aktuell
+Viele dieser Quellen sind hinter einer Bezahlschranke. **Trotzdem muss für
+JEDEN Artikel eine deutsche Zusammenfassung im JSON stehen** — Nicole soll
+verstehen können, worum es im Artikel geht, ohne ihn öffnen zu müssen.
 
-### 3. Weltwirtschaft
-Search for:
-- Weltwirtschaft aktuell heute
-- Inflation Zinsen Zentralbank aktuell
-- KI Aktien Tech Börse aktuell
+So gehst du bei Paywall vor:
+1. Lies, was öffentlich verfügbar ist: Schlagzeile, Lead-Absatz, Vorschau-Sätze,
+   Meta-Description, Social-Media-Snippets, Google-News-Vorschau.
+2. Kombiniere das mit Berichterstattung anderer Quellen über denselben Sachverhalt
+   (Reuters, Pressemeldungen, Folge-Artikel anderer Medien).
+3. Schreibe daraus eine ehrliche, faktentreue 2–3-Satz-Zusammenfassung auf Deutsch.
+4. Wenn du nach diesen Schritten immer noch nicht genug weißt um eine sinnvolle
+   Zusammenfassung zu schreiben: **nimm den Artikel nicht in den Newsletter auf**
+   und ersetze ihn durch eine andere Story zum gleichen Thema.
 
-## Email Format
+**Niemals** einfach "siehe Originalartikel" oder "hinter Paywall" als Text
+schreiben. Entweder es gibt eine echte deutsche Zusammenfassung — oder die
+Story fliegt raus.
 
-Send an HTML email with this structure:
+## Sprache
 
-### Header (dark, #0a0f1a background)
-- "▓▓ NEWSRADAR ▓▓" in monospace green (#4ab880)
-- "NewsRadar" title, "Radar" in rose (#c98878)
-- Today's date in German (e.g. "Mittwoch, 1. April 2026")
-- Live ticker bar: DAX · S&P500 · GOLD with current values and % change (green ▲ / red ▼)
+**Alles auf Deutsch.** Übersetze englische Schlagzeilen und Zusammenfassungen
+sinngemäß (nicht wörtlich). Eigennamen, Modellnamen und Tickersymbole bleiben
+im Original (z.B. "GPT-5", "Claude Opus", "NVDA").
 
-### Section 1: KI & MODELLE (purple accent #a78bfa)
-- 4–6 stories, most important first
-- Each story: source tag (🟣 CLAUDE · ⚪ OPENAI · 🔵 GEMINI · 🟡 PERPLEXITY · 🤖 KI ALLGEMEIN)
-- Large bold headline (18–22px Georgia serif)
-- 2–3 sentence summary in plain language
-- Source name at bottom in monospace
+## Themen-Schwerpunkte
 
-### Section 2: MÄRKTE & ETFs (green accent #4ab880)
-- Dark boxes showing DAX, S&P 500, Gold with price and % change
-- Yellow highlight box for negative market news
-- Green highlight box for Nicole's specific holdings:
-  - FTSE All World ETF
-  - Small Caps ETF  
-  - Gold
-- Always include a brief assessment: what does today's market mean for these holdings?
+### 1. KI-Branche (Section: `ki_stories`)
+Allgemeine Entwicklungen, neue Modelle, neue Funktionen, Forschung,
+Regulierung, Adoption.
 
-### Section 3: WELTWIRTSCHAFT (orange accent #fb923c)
-- 1–2 most relevant macro stories
-- Focus on what affects tech stocks, AI sector, and ETF performance
+Suchbeispiele:
+- `Anthropic Claude new features site:bloomberg.com OR site:ft.com OR site:reuters.com`
+- `OpenAI GPT release site:wsj.com OR site:theinformation.com`
+- `AI industry news site:nytimes.com OR site:washingtonpost.com`
+- `AI Supremacy Substack latest`
 
-### Footer (dark)
-- "▓ NEWSRADAR ▓" · daily 05:00 Uhr · Keine Anlageberatung
+### 2. Unternehmens-News (Section: `unternehmen_stories`)
+Finanz- und Business-News zu den großen KI- und Tech-Unternehmen:
+- **OpenAI** (Bewertung, Funding, Deals, ChatGPT)
+- **Anthropic** (Funding, Enterprise-Deals, Claude)
+- **Google / Alphabet** (Gemini, Cloud, Suche)
+- **xAI / SpaceX** (Musk, Grok, Starlink)
+- **Amazon** (AWS, Bedrock, KI-Investitionen)
+- **Meta** (Llama, KI-Strategie, Reality Labs)
+- **NVIDIA** (Chip-Verkäufe, Quartalszahlen, Partnerschaften)
+- **Microsoft** (Copilot, OpenAI-Partnerschaft, Azure)
+- Weitere relevante: TSMC, AMD, Broadcom, Palantir
 
-## Style Rules
-- Mix NYT editorial (Georgia serif headings, clean layout) with arcade/terminal (Courier New monospace for labels, dark boxes, pixel-style section headers)
-- Background: white/cream (#fff) for article area, dark (#0a0f1a) for header/footer
-- Be thorough — Nicole wants to miss nothing
-- Write in German throughout
-- All inline CSS (email client compatibility)
-- Max width: 600px
+Suchbeispiele:
+- `NVIDIA earnings site:bloomberg.com`
+- `OpenAI valuation funding site:ft.com OR site:theinformation.com`
+- `Microsoft Azure AI revenue site:wsj.com`
 
-## Output: newsletter_latest.json
+### 3. Börse & Gold (Section: `boerse_stories`)
+Fokus: **S&P 500** (wegen FTSE All World) und **Gold**. Was bewegt heute
+diese Märkte?
 
-Do NOT send an email. Instead, write the newsletter content to `newsletter_latest.json` in the repository root and commit + push it. The web app automatically reads and displays this file.
+Themen: Zinsentscheidungen (Fed, EZB), Inflation, Konjunkturdaten, geopolitische
+Risiken, große Sektor-Bewegungen (besonders Tech), Goldpreis-Treiber.
 
-The JSON must follow this exact structure:
+Suchbeispiele:
+- `S&P 500 today site:bloomberg.com OR site:reuters.com`
+- `Gold price today site:wsj.com OR site:ft.com`
+- `Fed rate decision site:reuters.com`
+
+## Anzahl Stories pro Section
+
+- **KI-Branche:** 5 Stories
+- **Unternehmens-News:** 5 Stories
+- **Börse & Gold:** 3 Stories
+
+Wichtigste Story jeweils zuerst.
+
+## Output: `newsletter_latest.json`
+
+Schreibe das Ergebnis in `newsletter_latest.json` im Repository-Root, dann
+commit und push auf den `main` Branch.
+
+JSON-Struktur:
 
 ```json
 {
-  "datum": "Mittwoch, 1. April 2026",
-  "generiert": "2026-04-01",
-  "ticker": {
-    "dax":  {"wert": "22.799", "pct": "▲ +1,58%", "up": true},
-    "sp":   {"wert": "5.520",  "pct": "▲ +0,30%", "up": true},
-    "gold": {"wert": "$4.616", "pct": "▲ +2,30%", "up": true}
-  },
+  "datum": "Samstag, 2. Mai 2026",
+  "generiert": "2026-05-02",
   "ki_stories": [
-    {"tag": "🟣 CLAUDE — NEUES MODELL", "titel": "...", "text": "...", "quelle": "..."}
+    {
+      "titel": "Deutsche Schlagzeile",
+      "text": "2-3 Sätze deutsche Zusammenfassung.",
+      "quelle": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/..."
+    }
   ],
-  "markt_box": {
-    "typ": "warn",
-    "label": "⚠ MÄRKTE UNTER DRUCK",
-    "text": "..."
-  },
-  "anlagen_text": "<strong>FTSE All World ETF:</strong> ...<br><br><strong>Small Caps ETF:</strong> ...<br><br><strong>Gold:</strong> ...",
-  "welt_stories": [
-    {"tag": "🌍 WELTHANDEL", "titel": "...", "text": "..."}
+  "unternehmen_stories": [
+    {
+      "titel": "Deutsche Schlagzeile",
+      "text": "2-3 Sätze deutsche Zusammenfassung.",
+      "quelle": "Financial Times",
+      "url": "https://www.ft.com/content/...",
+      "unternehmen": "NVIDIA"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "Deutsche Schlagzeile",
+      "text": "2-3 Sätze deutsche Zusammenfassung.",
+      "quelle": "Reuters",
+      "url": "https://www.reuters.com/..."
+    }
   ]
 }
 ```
 
-- `"up": true` = grün, `"up": false` = rot
-- `"typ": "warn"` = gelbe Box, `"typ": "gut"` = grüne Box
-- Commit message: `Newsletter [Datum]`
-- Push to main branch
+Pflichtfelder pro Story:
+- `titel` — kurze deutsche Schlagzeile (max. ~100 Zeichen)
+- `text` — 2-3 Sätze deutsche Zusammenfassung
+- `quelle` — Name der Quelle exakt wie in der Liste oben (z.B. "Bloomberg",
+  "Financial Times", "AI Supremacy")
+- `url` — Direktlink zum Originalartikel
+
+Zusätzlich bei `unternehmen_stories`:
+- `unternehmen` — Name des Unternehmens (z.B. "NVIDIA", "OpenAI")
+
+## Commit
+
+- Commit-Message: `Newsletter [Datum]` (z.B. `Newsletter 2026-05-02`)
+- Push auf `main`
 
 ## Important Notes
-- Always use today's actual date in search queries
-- Be thorough — research at least 5 AI stories and all key market data
-- Write everything in German
-- Never skip sections
+
+- Verwende immer das **heutige tatsächliche Datum** in den Suchanfragen
+- Wenn eine Quelle zu einem Thema nichts hat, nimm die nächstbeste
+- Keine erfundenen Fakten, keine erfundenen URLs
+- Wenn du dir bei einer Übersetzung unsicher bist: behalte den englischen
+  Begriff in Klammern dahinter

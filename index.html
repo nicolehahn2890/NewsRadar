@@ -12,239 +12,185 @@
     --bg3: #1a2438;
     --border: #1e3050;
     --rose: #c98878;
-    --rose2: #dba090;
     --text: #e8f0fc;
     --text2: #9ab0cc;
     --text3: #5a7090;
     --green: #4ab880;
+    --purple: #a78bfa;
+    --blue: #60a5fa;
+    --gold: #fbbf24;
   }
   * { margin:0; padding:0; box-sizing:border-box; }
-  html, body { height:100%; background:var(--bg); color:var(--text); font-family:'DM Sans', sans-serif; }
+  html, body { background:var(--bg); color:var(--text); font-family:'DM Sans', sans-serif; min-height:100%; }
 
-  /* Background texture */
   body::before {
-    content:'';
-    position:fixed;
-    inset:0;
-    background: 
+    content:''; position:fixed; inset:0; pointer-events:none; z-index:0;
+    background:
       radial-gradient(ellipse at 20% 20%, rgba(201,136,120,0.06) 0%, transparent 50%),
       radial-gradient(ellipse at 80% 80%, rgba(74,184,128,0.04) 0%, transparent 50%);
-    pointer-events:none;
-    z-index:0;
   }
 
-  .container {
-    max-width: 680px;
-    margin: 0 auto;
-    padding: 24px 16px 48px;
-    position: relative;
-    z-index: 1;
-  }
+  .container { max-width:720px; margin:0 auto; padding:24px 16px 48px; position:relative; z-index:1; }
 
   /* Header */
-  .header {
-    text-align: center;
-    margin-bottom: 36px;
-    padding-top: 12px;
+  .header { text-align:center; margin-bottom:28px; padding-top:8px; }
+  .logo-wrap { display:flex; align-items:center; justify-content:center; gap:6px; }
+  .logo { font-family:'Playfair Display', serif; font-size:34px; font-weight:700; letter-spacing:-0.5px; }
+  .logo span { color:var(--rose); }
+  .tagline { font-size:11px; letter-spacing:3px; text-transform:uppercase; color:var(--text3); margin-top:6px; }
+  .date-badge {
+    display:inline-block; margin-top:14px;
+    background:var(--bg3); border:1px solid var(--border); border-radius:20px;
+    padding:5px 16px; font-size:12px; color:var(--text2);
   }
-  .logo {
-    font-family: 'Playfair Display', serif;
-    font-size: 32px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    margin-bottom: 6px;
-  }
-  .logo span { color: var(--rose); }
-  .tagline {
-    font-size: 12px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: var(--text3);
-  }
+  .date-badge span { color:var(--rose); font-weight:500; }
   .rex-dino {
-    image-rendering: pixelated;
+    image-rendering:pixelated;
     animation: dino-bob 1.2s ease-in-out infinite;
-    margin-left: 10px;
-    vertical-align: middle;
+    vertical-align:middle;
     filter: drop-shadow(0 0 6px rgba(74,184,128,0.5));
   }
   @keyframes dino-bob {
-    0%, 100% { transform: translateY(0px); }
+    0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-4px); }
   }
-  .logo-wrap {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 4px;
-  }
-  .date-badge {
-    display: inline-block;
-    margin-top: 14px;
-    background: var(--bg3);
+
+  /* Source filter */
+  .filter-wrap {
+    background: var(--bg2);
     border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 28px;
+  }
+  .filter-label {
+    font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
+    color: var(--text3); margin-bottom: 10px;
+  }
+  .filter-chips { display:flex; flex-wrap:wrap; gap:6px; }
+  .chip {
+    font-size: 11px;
+    padding: 5px 12px;
     border-radius: 20px;
-    padding: 5px 16px;
-    font-size: 12px;
+    border: 1px solid var(--border);
+    background: var(--bg3);
     color: var(--text2);
-    font-family: 'DM Sans', sans-serif;
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.15s;
   }
-  .date-badge span {
+  .chip:hover { color: var(--text); border-color: var(--text3); }
+  .chip.active {
+    background: rgba(201,136,120,0.15);
+    border-color: var(--rose);
     color: var(--rose);
-    font-weight: 500;
   }
 
-  /* Section label */
-  .section-label {
-    font-size: 10px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: var(--text3);
-    margin-bottom: 14px;
-    padding-left: 4px;
+  /* Section */
+  .section { margin-bottom: 36px; }
+  .section-header {
+    display:flex; align-items:center; gap:10px; margin-bottom: 16px; padding-left: 4px;
   }
-
-  /* News Cards */
-  .cards {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    margin-bottom: 32px;
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 700;
   }
+  .section-bar {
+    flex: 1; height: 1px; background: var(--border);
+  }
+  .section-count {
+    font-size: 11px; color: var(--text3);
+    background: var(--bg2); padding: 2px 10px; border-radius: 20px; border: 1px solid var(--border);
+  }
+  .section-ki .section-title { color: var(--purple); }
+  .section-co .section-title { color: var(--blue); }
+  .section-bo .section-title { color: var(--gold); }
 
-  .card {
+  /* Story card */
+  .stories { display:flex; flex-direction:column; gap: 12px; }
+  .story {
     background: var(--bg2);
     border: 1px solid var(--border);
     border-radius: 14px;
     padding: 18px 20px;
     text-decoration: none;
     color: inherit;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    transition: all 0.2s ease;
-    cursor: pointer;
+    display: block;
     position: relative;
     overflow: hidden;
+    transition: all 0.2s ease;
+    animation: fadeInUp 0.4s ease both;
   }
-  .card::before {
-    content:'';
-    position:absolute;
-    left:0; top:0; bottom:0;
-    width: 3px;
-    background: var(--accent, var(--rose));
-    border-radius: 3px 0 0 3px;
-    opacity: 0.7;
+  .story::before {
+    content:''; position:absolute; left:0; top:0; bottom:0;
+    width: 3px; background: var(--accent, var(--rose));
+    border-radius: 3px 0 0 3px; opacity: 0.7;
   }
-  .card:hover, .card:active {
+  .story:hover {
     background: var(--bg3);
     border-color: var(--accent, var(--rose));
     transform: translateX(3px);
   }
+  .story.hidden { display: none; }
 
-  .card-icon {
-    font-size: 28px;
-    width: 48px;
-    height: 48px;
-    border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: var(--bg3);
-    border: 1px solid var(--border);
-    flex-shrink: 0;
+  .story-meta {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 10px; margin-bottom: 8px;
   }
-
-  .card-content {
-    flex: 1;
-  }
-  .card-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 16px;
-    font-weight: 700;
-    margin-bottom: 4px;
-    color: var(--text);
-  }
-  .card-desc {
-    font-size: 12px;
-    color: var(--text3);
-    line-height: 1.5;
-  }
-
-  .card-arrow {
-    color: var(--text3);
-    font-size: 18px;
-    flex-shrink: 0;
-    transition: transform 0.2s;
-  }
-  .card:hover .card-arrow {
-    transform: translateX(4px);
-    color: var(--accent, var(--rose));
-  }
-
-  /* Google News direct search */
-  .card[data-topic] {
-    cursor: pointer;
-  }
-
-  /* Info box */
-  .info-box {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 16px 20px;
-    text-align: center;
-  }
-  .info-box p {
-    font-size: 12px;
-    color: var(--text3);
-    line-height: 1.7;
-  }
-  .info-box strong {
-    color: var(--text2);
-  }
-
-  /* Markt Banner */
-  .markt-banner {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 16px 20px;
-    margin-bottom: 28px;
-  }
-  .markt-label {
+  .story-source {
     font-size: 10px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     text-transform: uppercase;
-    color: var(--text3);
-    margin-bottom: 12px;
+    color: var(--accent, var(--rose));
+    font-weight: 500;
   }
-  .markt-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 8px;
-  }
-  .markt-item {
-    background: var(--bg3);
-    border-radius: 10px;
-    padding: 10px 8px;
-    text-align: center;
-  }
-  .markt-name {
+  .story-company {
     font-size: 10px;
-    color: var(--text3);
     letter-spacing: 1px;
     text-transform: uppercase;
-    margin-bottom: 4px;
+    color: var(--text3);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    padding: 2px 8px;
+    border-radius: 12px;
   }
-  .markt-price {
-    font-size: 13px;
-    font-weight: 500;
+  .story-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.3;
     color: var(--text);
+    margin-bottom: 8px;
   }
-  .markt-change { font-size: 11px; margin-top: 2px; }
-  .up { color: #4ab880; }
-  .dn { color: #e06060; }
+  .story-text {
+    font-size: 13px;
+    color: var(--text2);
+    line-height: 1.55;
+  }
+  .story-link {
+    margin-top: 10px;
+    font-size: 11px;
+    color: var(--text3);
+    display: flex; align-items: center; gap: 4px;
+  }
+  .story:hover .story-link { color: var(--accent, var(--rose)); }
+
+  /* States */
+  .empty {
+    text-align: center;
+    color: var(--text3);
+    font-size: 13px;
+    padding: 24px 12px;
+    border: 1px dashed var(--border);
+    border-radius: 14px;
+  }
+  .loading {
+    text-align: center;
+    color: var(--text3);
+    font-size: 13px;
+    padding: 32px;
+  }
 
   /* Footer */
   .footer {
@@ -255,136 +201,10 @@
     letter-spacing: 1px;
   }
 
-  /* AI Summary Section */
-  .ai-summary {
-    background: var(--bg2);
-    border: 1px solid var(--border);
-    border-radius: 14px;
-    padding: 16px 20px;
-    margin-bottom: 28px;
-    position: relative;
-    overflow: hidden;
-  }
-  .ai-summary::before {
-    content:'';
-    position:absolute;
-    left:0; top:0; bottom:0;
-    width: 3px;
-    background: #a78bfa;
-    border-radius: 3px 0 0 3px;
-  }
-  .ai-summary-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 12px;
-  }
-  .ai-summary-label {
-    font-size: 10px;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    color: var(--text3);
-  }
-  .ai-summary-badge {
-    font-size: 10px;
-    background: rgba(167,139,250,0.12);
-    border: 1px solid rgba(167,139,250,0.25);
-    color: #a78bfa;
-    border-radius: 20px;
-    padding: 2px 10px;
-    letter-spacing: 1px;
-  }
-  .ai-tabs {
-    display: flex;
-    gap: 6px;
-    margin-bottom: 14px;
-    flex-wrap: wrap;
-  }
-  .ai-tab {
-    font-size: 11px;
-    padding: 4px 12px;
-    border-radius: 20px;
-    border: 1px solid var(--border);
-    background: var(--bg3);
-    color: var(--text3);
-    cursor: pointer;
-    transition: all 0.2s;
-    font-family: 'DM Sans', sans-serif;
-  }
-  .ai-tab.active {
-    background: rgba(167,139,250,0.15);
-    border-color: rgba(167,139,250,0.4);
-    color: #a78bfa;
-  }
-  .ai-tab:hover:not(.active) {
-    color: var(--text2);
-    border-color: var(--text3);
-  }
-  .ai-news-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-  }
-  .ai-news-item {
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
-    padding: 9px 0;
-    border-bottom: 1px solid rgba(30,48,80,0.6);
-    text-decoration: none;
-    color: inherit;
-    transition: opacity 0.15s;
-  }
-  .ai-news-item:last-child { border-bottom: none; }
-  .ai-news-item:hover { opacity: 0.75; }
-  .ai-news-dot {
-    width: 5px;
-    height: 5px;
-    border-radius: 50%;
-    background: #a78bfa;
-    flex-shrink: 0;
-    margin-top: 6px;
-  }
-  .ai-news-title {
-    font-size: 13px;
-    color: var(--text);
-    line-height: 1.4;
-    flex: 1;
-  }
-  .ai-news-source {
-    font-size: 10px;
-    color: var(--text3);
-    margin-top: 2px;
-  }
-  .ai-news-loading {
-    font-size: 12px;
-    color: var(--text3);
-    text-align: center;
-    padding: 12px 0;
-  }
-  .ai-news-error {
-    font-size: 12px;
-    color: var(--text3);
-    text-align: center;
-    padding: 12px 0;
-  }
-  .ai-news-error a {
-    color: #a78bfa;
-    text-decoration: none;
-  }
-
-  /* Animations */
   @keyframes fadeInUp {
-    from { opacity:0; transform:translateY(16px); }
+    from { opacity:0; transform:translateY(12px); }
     to { opacity:1; transform:translateY(0); }
   }
-  .card { animation: fadeInUp 0.4s ease both; }
-  .card:nth-child(1) { animation-delay: 0.05s; }
-  .card:nth-child(2) { animation-delay: 0.10s; }
-  .card:nth-child(3) { animation-delay: 0.15s; }
-  .card:nth-child(4) { animation-delay: 0.20s; }
-  .card:nth-child(5) { animation-delay: 0.25s; }
-  .card:nth-child(6) { animation-delay: 0.30s; }
 </style>
 </head>
 <body>
@@ -394,284 +214,184 @@
     <div class="logo-wrap">
       <div class="logo">News<span>Radar</span></div>
       <svg class="rex-dino" width="40" height="40" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
-  <!-- Körper -->
-  <rect x="5" y="7" width="6" height="4" fill="#4ab880"/>
-  <rect x="4" y="8" width="1" height="3" fill="#4ab880"/>
-  <!-- Schwanz -->
-  <rect x="10" y="8" width="2" height="1" fill="#4ab880"/>
-  <rect x="11" y="9" width="2" height="1" fill="#4ab880"/>
-  <rect x="12" y="10" width="1" height="1" fill="#4ab880"/>
-  <!-- Hals -->
-  <rect x="5" y="5" width="2" height="3" fill="#4ab880"/>
-  <!-- Kopf -->
-  <rect x="3" y="3" width="4" height="3" fill="#4ab880"/>
-  <!-- Maul -->
-  <rect x="2" y="4" width="2" height="1" fill="#4ab880"/>
-  <rect x="2" y="5" width="1" height="1" fill="#c98878"/>
-  <!-- Auge -->
-  <rect x="4" y="3" width="1" height="1" fill="#0a0f1a"/>
-  <rect x="4" y="3" width="1" height="1" fill="#fff"/>
-  <rect x="4" y="3" width="1" height="1" fill="#0a0f1a"/>
-  <!-- Pupille -->
-  <rect x="4" y="4" width="1" height="1" fill="#fff" opacity="0.3"/>
-  <!-- Rücken-Stacheln -->
-  <rect x="6" y="4" width="1" height="2" fill="#3d9966"/>
-  <rect x="7" y="3" width="1" height="3" fill="#3d9966"/>
-  <rect x="8" y="5" width="1" height="2" fill="#3d9966"/>
-  <!-- Beine -->
-  <rect x="6" y="11" width="1" height="2" fill="#3d9966"/>
-  <rect x="8" y="11" width="1" height="2" fill="#3d9966"/>
-  <rect x="6" y="13" width="2" height="1" fill="#3d9966"/>
-  <rect x="8" y="13" width="2" height="1" fill="#3d9966"/>
-  <!-- Arm -->
-  <rect x="5" y="8" width="1" height="1" fill="#3d9966"/>
-</svg>
+        <rect x="5" y="7" width="6" height="4" fill="#4ab880"/>
+        <rect x="4" y="8" width="1" height="3" fill="#4ab880"/>
+        <rect x="10" y="8" width="2" height="1" fill="#4ab880"/>
+        <rect x="11" y="9" width="2" height="1" fill="#4ab880"/>
+        <rect x="12" y="10" width="1" height="1" fill="#4ab880"/>
+        <rect x="5" y="5" width="2" height="3" fill="#4ab880"/>
+        <rect x="3" y="3" width="4" height="3" fill="#4ab880"/>
+        <rect x="2" y="4" width="2" height="1" fill="#4ab880"/>
+        <rect x="2" y="5" width="1" height="1" fill="#c98878"/>
+        <rect x="4" y="3" width="1" height="1" fill="#fff"/>
+        <rect x="6" y="4" width="1" height="2" fill="#3d9966"/>
+        <rect x="7" y="3" width="1" height="3" fill="#3d9966"/>
+        <rect x="8" y="5" width="1" height="2" fill="#3d9966"/>
+        <rect x="6" y="11" width="1" height="2" fill="#3d9966"/>
+        <rect x="8" y="11" width="1" height="2" fill="#3d9966"/>
+        <rect x="6" y="13" width="2" height="1" fill="#3d9966"/>
+        <rect x="8" y="13" width="2" height="1" fill="#3d9966"/>
+        <rect x="5" y="8" width="1" height="1" fill="#3d9966"/>
+      </svg>
     </div>
-    <div class="tagline">Dein täglicher Nachrichtenüberblick</div>
-    <div class="date-badge">Aktuell: <span id="datum"></span></div>
+    <div class="tagline">KI · Unternehmen · Börse — täglich auf Deutsch</div>
+    <div class="date-badge">📅 <span id="datum">…</span></div>
   </div>
 
-  <div class="markt-banner">
-    <div class="markt-label">&#128202; Märkte &mdash; Live in EUR</div>
-    <div class="markt-grid">
-      <div class="markt-item"><div class="markt-name">DAX</div><div class="markt-price" id="m-dax">&#8230;</div><div class="markt-change" id="c-dax">&mdash;</div></div>
-      <div class="markt-item"><div class="markt-name">S&amp;P 500</div><div class="markt-price" id="m-sp">&#8230;</div><div class="markt-change" id="c-sp">&mdash;</div></div>
-      <div class="markt-item"><div class="markt-name">Gold</div><div class="markt-price" id="m-gold">&#8230;</div><div class="markt-change" id="c-gold">&mdash;</div></div>
-      <div class="markt-item"><div class="markt-name">Bitcoin</div><div class="markt-price" id="m-btc">&#8230;</div><div class="markt-change" id="c-btc">&mdash;</div></div>
-      <div class="markt-item"><div class="markt-name">EUR/USD</div><div class="markt-price" id="m-fx">&#8230;</div><div class="markt-change" id="c-fx">&mdash;</div></div>
-      <div class="markt-item"><div class="markt-name">VWCE</div><div class="markt-price" id="m-vwce">&#8230;</div><div class="markt-change" id="c-vwce">&mdash;</div></div>
+  <div class="filter-wrap">
+    <div class="filter-label">🔍 Quelle filtern</div>
+    <div class="filter-chips" id="filter-chips">
+      <button class="chip active" data-source="ALL">Alle</button>
     </div>
   </div>
 
-  <div class="section-label">&#129302; KI-Nachrichten &mdash; Täglich aktuell</div>
-
-  <div class="ai-summary">
-    <div class="ai-summary-header">
-      <div class="ai-summary-label">&#128240; Schlagzeilen</div>
-      <div class="ai-summary-badge">Live &bull; Google News</div>
-    </div>
-    <div class="ai-tabs">
-      <button class="ai-tab active" onclick="loadAiNews('ki')" data-key="ki">🤖 KI Allgemein</button>
-      <button class="ai-tab" onclick="loadAiNews('claude')" data-key="claude">🟣 Claude</button>
-      <button class="ai-tab" onclick="loadAiNews('openai')" data-key="openai">⚪ OpenAI</button>
-      <button class="ai-tab" onclick="loadAiNews('gemini')" data-key="gemini">🔵 Gemini</button>
-    </div>
-    <div class="ai-news-list" id="ai-news-list">
-      <div class="ai-news-loading">Lade Nachrichten…</div>
-    </div>
+  <div id="content">
+    <div class="loading">Lade Nachrichten…</div>
   </div>
 
-  <div class="section-label">Themen &mdash; Tippe zum Öffnen</div>
-
-  <div class="cards">
-
-    <a class="card" style="--accent:#a78bfa" href="https://news.google.com/search?q=K%C3%BCnstliche+Intelligenz+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
-      <div class="card-icon">🤖</div>
-      <div class="card-content">
-        <div class="card-title">Künstliche Intelligenz</div>
-        <div class="card-desc">Neueste KI-Entwicklungen, Modelle & Unternehmen</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <a class="card" style="--accent:#60a5fa" href="https://news.google.com/search?q=Technologie+Tech+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
-      <div class="card-icon">💻</div>
-      <div class="card-content">
-        <div class="card-title">Technologie</div>
-        <div class="card-desc">Tech-Trends, Silicon Valley, Startups & Innovationen</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <a class="card" style="--accent:#34d399" href="https://news.google.com/search?q=B%C3%B6rse+Aktien+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
-      <div class="card-icon">📈</div>
-      <div class="card-content">
-        <div class="card-title">Börse & Märkte</div>
-        <div class="card-desc">DAX, S&P 500, Aktien & Marktbewegungen</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <a class="card" style="--accent:#fb923c" href="https://news.google.com/search?q=Weltwirtschaft+Wirtschaft+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
-      <div class="card-icon">🌍</div>
-      <div class="card-content">
-        <div class="card-title">Weltwirtschaft</div>
-        <div class="card-desc">Makroökonomie, Zentralbanken & globale Trends</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <a class="card" style="--accent:#4ade80" href="https://news.google.com/search?q=ETF+Fonds+Geldanlage+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
-      <div class="card-icon">💰</div>
-      <div class="card-content">
-        <div class="card-title">ETF & Geldanlage</div>
-        <div class="card-desc">ETF-News, Fonds, Sparpläne & Anlagestrategien</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-    <a class="card" style="--accent:#fbbf24" href="https://news.google.com/search?q=Gold+Rohstoffe+aktuell&hl=de&gl=DE&ceid=DE:de" target="_blank">
-      <div class="card-icon">🪙</div>
-      <div class="card-content">
-        <div class="card-title">Gold & Rohstoffe</div>
-        <div class="card-desc">Goldpreis, Rohstoffmärkte & Edelmetalle</div>
-      </div>
-      <div class="card-arrow">→</div>
-    </a>
-
-  </div>
-
-  <div class="info-box">
-    <p>Alle Links öffnen <strong>Google News</strong> — immer topaktuell, stündlich aktualisiert.<br>Kein API-Key, keine Kosten, funktioniert überall.</p>
-  </div>
-
-  <div class="footer">NewsRadar · Powered by Google News</div>
+  <div class="footer">NewsRadar · täglich aktualisiert · Quellen: Bloomberg, FT, WSJ, Reuters, Barron's, WaPo, NYT, The Information, Substack, AI Supremacy</div>
 
 </div>
 
 <script>
-  const d = new Date();
-  const opts = { weekday:'long', day:'numeric', month:'long', year:'numeric' };
-  document.getElementById('datum').textContent = d.toLocaleDateString('de-DE', opts);
-
-  const PROXIES = [
-    'https://api.allorigins.win/raw?url=',
-    'https://corsproxy.io/?',
-    'https://proxy.cors.sh/'
+  const SECTIONS = [
+    { key: 'ki_stories',        title: '🤖 KI-Branche',        cls: 'section-ki', accent: '#a78bfa' },
+    { key: 'unternehmen_stories', title: '🏢 Unternehmens-News', cls: 'section-co', accent: '#60a5fa' },
+    { key: 'boerse_stories',    title: '📈 Börse & Gold',      cls: 'section-bo', accent: '#fbbf24' },
   ];
 
-  async function fetchQ(ticker) {
-    const yahooUrl = 'https://query1.finance.yahoo.com/v8/finance/chart/' + ticker + '?interval=1d&range=5d';
-    for (const proxy of PROXIES) {
-      try {
-        const r = await fetch(proxy + encodeURIComponent(yahooUrl), {signal: AbortSignal.timeout(7000)});
-        if (!r.ok) continue;
-        const j = await r.json();
-        const res = j?.chart?.result?.[0];
-        if (!res) continue;
-        const price = res.meta.regularMarketPrice;
-        const prev = res.meta.chartPreviousClose || res.meta.previousClose;
-        if (price) return {price, prev};
-      } catch(e) { continue; }
+  let allData = null;
+  let activeSource = 'ALL';
+
+  async function load() {
+    try {
+      const r = await fetch('newsletter_latest.json?v=' + Date.now());
+      if (!r.ok) throw new Error('fetch failed');
+      allData = await r.json();
+      render();
+    } catch (e) {
+      document.getElementById('content').innerHTML =
+        '<div class="empty">Aktuell keine Nachrichten verfügbar.<br><br>' +
+        'Die tägliche Routine läuft noch nicht — sobald sie eingerichtet ist, ' +
+        'erscheinen hier jeden Morgen frische News.</div>';
     }
-    return null;
   }
 
-  function fmt(n) {
-    if(n >= 10000) return n.toLocaleString('de-DE', {minimumFractionDigits:0, maximumFractionDigits:0});
-    if(n >= 100) return n.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
-    return n.toLocaleString('de-DE', {minimumFractionDigits:2, maximumFractionDigits:2});
+  function render() {
+    if (!allData) return;
+    document.getElementById('datum').textContent = allData.datum || '';
+
+    renderFilterChips();
+    renderSections();
   }
 
-  function setMarkt(id, cid, price, prev, suffix) {
-    const pct = prev ? ((price - prev) / prev * 100) : 0;
-    const up = pct >= 0;
-    document.getElementById(id).textContent = fmt(price) + (suffix || '');
-    const cel = document.getElementById(cid);
-    cel.textContent = (up ? '+' : '') + pct.toFixed(2) + '%';
-    cel.className = 'markt-change ' + (up ? 'up' : 'dn');
-  }
-
-  function setError(id, cid) {
-    document.getElementById(id).textContent = '—';
-    document.getElementById(cid).textContent = '';
-  }
-
-  async function loadMarkets() {
-    const fx = await fetchQ('EURUSD=X');
-    const rate = fx ? fx.price : 1;
-    if(fx) setMarkt('m-fx', 'c-fx', fx.price, fx.prev, '');
-    else setError('m-fx', 'c-fx');
-
-    const tickers = [
-      ['%5EGDAXI', 'm-dax', 'c-dax', 1],
-      ['%5EGSPC',  'm-sp',  'c-sp',  rate],
-      ['GC=F',     'm-gold','c-gold', rate],
-      ['BTC-USD',  'm-btc', 'c-btc',  rate],
-      ['VWCE.DE',  'm-vwce','c-vwce', 1],
-    ];
-
-    await Promise.all(tickers.map(async ([ticker, pid, cid, div]) => {
-      const q = await fetchQ(ticker);
-      if(q) setMarkt(pid, cid, q.price / div, q.prev / div, '');
-      else setError(pid, cid);
-    }));
-  }
-
-  loadMarkets();
-
-  // AI News Summary
-  const AI_QUERIES = {
-    ki:     'KI+Künstliche+Intelligenz+Anthropic+OpenAI+aktuell',
-    claude: 'Claude+Anthropic+KI+Modell',
-    openai: 'OpenAI+ChatGPT+GPT+aktuell',
-    gemini: 'Google+Gemini+KI+aktuell',
-  };
-
-  const AI_RSS_PROXIES = [
-    url => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
-    url => `https://corsproxy.io/?${encodeURIComponent(url)}`,
-  ];
-
-  let currentTab = 'ki';
-
-  async function fetchRSS(query) {
-    const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=de&gl=DE&ceid=DE:de`;
-    for (const makeProxy of AI_RSS_PROXIES) {
-      try {
-        const r = await fetch(makeProxy(rssUrl), { signal: AbortSignal.timeout(8000) });
-        if (!r.ok) continue;
-        const text = await r.text();
-        const doc = new DOMParser().parseFromString(text, 'text/xml');
-        const items = doc.querySelectorAll('item');
-        if (!items.length) continue;
-        const results = [];
-        items.forEach((item, i) => {
-          if (i >= 7) return;
-          const title = item.querySelector('title')?.textContent || '';
-          const link  = item.querySelector('link')?.textContent || '';
-          const src   = item.querySelector('source')?.textContent || '';
-          if (title && link) results.push({ title, link, src });
-        });
-        return results;
-      } catch(e) { continue; }
-    }
-    return null;
-  }
-
-  function renderNews(items, query) {
-    const list = document.getElementById('ai-news-list');
-    if (!items || !items.length) {
-      const fallbackUrl = `https://news.google.com/search?q=${query}&hl=de&gl=DE&ceid=DE:de`;
-      list.innerHTML = `<div class="ai-news-error">Nachrichten konnten nicht geladen werden.<br><a href="${fallbackUrl}" target="_blank">→ Direkt bei Google News öffnen</a></div>`;
-      return;
-    }
-    list.innerHTML = items.map(item => `
-      <a class="ai-news-item" href="${item.link}" target="_blank" rel="noopener">
-        <div class="ai-news-dot"></div>
-        <div>
-          <div class="ai-news-title">${item.title}</div>
-          ${item.src ? `<div class="ai-news-source">${item.src}</div>` : ''}
-        </div>
-      </a>
-    `).join('');
-  }
-
-  async function loadAiNews(key) {
-    if (key === currentTab && document.getElementById('ai-news-list').querySelector('.ai-news-item')) return;
-    currentTab = key;
-
-    // Update tabs
-    document.querySelectorAll('.ai-tab').forEach(t => {
-      t.classList.toggle('active', t.dataset.key === key);
+  function renderFilterChips() {
+    const sources = new Set();
+    SECTIONS.forEach(s => {
+      (allData[s.key] || []).forEach(story => {
+        if (story.quelle) sources.add(story.quelle);
+      });
     });
 
-    const list = document.getElementById('ai-news-list');
-    list.innerHTML = '<div class="ai-news-loading">Lade Nachrichten…</div>';
+    const chipsEl = document.getElementById('filter-chips');
+    chipsEl.innerHTML = '';
 
-    const items = await fetchRSS(AI_QUERIES[key]);
-    renderNews(items, AI_QUERIES[key]);
+    const allChip = makeChip('ALL', 'Alle');
+    chipsEl.appendChild(allChip);
+
+    Array.from(sources).sort().forEach(src => {
+      chipsEl.appendChild(makeChip(src, src));
+    });
   }
 
-  loadAiNews('ki');
+  function makeChip(value, label) {
+    const b = document.createElement('button');
+    b.className = 'chip' + (activeSource === value ? ' active' : '');
+    b.dataset.source = value;
+    b.textContent = label;
+    b.onclick = () => {
+      activeSource = value;
+      document.querySelectorAll('.chip').forEach(c => {
+        c.classList.toggle('active', c.dataset.source === value);
+      });
+      renderSections();
+    };
+    return b;
+  }
+
+  function renderSections() {
+    const content = document.getElementById('content');
+    content.innerHTML = '';
+
+    SECTIONS.forEach(sec => {
+      const stories = (allData[sec.key] || []).filter(s =>
+        activeSource === 'ALL' || s.quelle === activeSource
+      );
+
+      const section = document.createElement('div');
+      section.className = 'section ' + sec.cls;
+
+      const header = document.createElement('div');
+      header.className = 'section-header';
+      header.innerHTML =
+        '<div class="section-title">' + sec.title + '</div>' +
+        '<div class="section-bar"></div>' +
+        '<div class="section-count">' + stories.length + '</div>';
+      section.appendChild(header);
+
+      const list = document.createElement('div');
+      list.className = 'stories';
+
+      if (stories.length === 0) {
+        list.innerHTML = '<div class="empty">Keine Stories ' +
+          (activeSource === 'ALL' ? 'in dieser Kategorie' : 'von ' + activeSource) +
+          '.</div>';
+      } else {
+        stories.forEach((story, i) => {
+          list.appendChild(makeStoryCard(story, sec.accent, i));
+        });
+      }
+
+      section.appendChild(list);
+      content.appendChild(section);
+    });
+  }
+
+  function makeStoryCard(story, accent, index) {
+    const a = document.createElement('a');
+    a.className = 'story';
+    a.href = story.url || '#';
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.style.setProperty('--accent', accent);
+    a.style.animationDelay = (index * 0.05) + 's';
+
+    const company = story.unternehmen
+      ? '<span class="story-company">' + escapeHtml(story.unternehmen) + '</span>'
+      : '';
+
+    a.innerHTML =
+      '<div class="story-meta">' +
+        '<div class="story-source">' + escapeHtml(story.quelle || '') + '</div>' +
+        company +
+      '</div>' +
+      '<div class="story-title">' + escapeHtml(story.titel || '') + '</div>' +
+      '<div class="story-text">' + escapeHtml(story.text || '') + '</div>' +
+      (story.url ? '<div class="story-link">→ Originalartikel öffnen</div>' : '');
+
+    return a;
+  }
+
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  load();
 </script>
+</body>
+</html>
