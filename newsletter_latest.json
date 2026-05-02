@@ -6,31 +6,31 @@
       "titel": "Anthropic präsentiert neue Generation von Claude — Fokus auf agentische Workflows",
       "text": "Anthropic hat die nächste Claude-Generation vorgestellt, die laut Unternehmen erstmals zuverlässig mehrstündige Aufgaben autonom ausführen kann. Im Zentrum stehen verbesserte Tool-Nutzung und Code-Ausführung. Erste Enterprise-Kunden testen das Modell bereits in Produktion.",
       "quelle": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/anthropic-claude-update"
+      "datum_artikel": "2026-05-01"
     },
     {
       "titel": "OpenAI öffnet GPT-Modelle für deutlich tiefere Browser-Integration",
       "text": "Eine neue API erlaubt Drittanbietern, ChatGPT direkt in den Browser-Workflow ihrer Nutzer einzubinden. Das Update richtet sich vor allem an Suchmaschinen-Konkurrenten und Produktivitäts-Apps. Branchenanalysten sehen darin den nächsten Schritt im Wettlauf um den KI-Assistenten-Standard.",
       "quelle": "The Information",
-      "url": "https://www.theinformation.com/articles/openai-browser-api"
+      "datum_artikel": "2026-04-30"
     },
     {
       "titel": "EU verschärft KI-Regulierung — neue Pflichten für Foundation-Model-Anbieter",
       "text": "Die EU-Kommission hat zusätzliche Auflagen für Anbieter sehr großer KI-Modelle veröffentlicht. Betroffen sind unter anderem OpenAI, Anthropic und Google. Die Vorgaben betreffen Trainingsdaten-Transparenz und Risikobewertungen.",
       "quelle": "Reuters",
-      "url": "https://www.reuters.com/technology/eu-ai-regulation"
+      "datum_artikel": "2026-05-01"
     },
     {
       "titel": "Google Gemini überholt erstmals OpenAI in einem wichtigen Reasoning-Benchmark",
       "text": "Im aktuellen Test der Stanford-Universität liegt Gemini 3 vor GPT-5 bei mathematischen und logischen Aufgaben. Google nutzt das Ergebnis offensiv im Marketing für Cloud-Kunden. Beobachter warnen jedoch, dass Benchmarks oft schnell veralten.",
       "quelle": "Financial Times",
-      "url": "https://www.ft.com/content/google-gemini-benchmark"
+      "datum_artikel": "2026-04-29"
     },
     {
       "titel": "AI Supremacy: Warum 2026 das Jahr der KI-Konsolidierung wird",
       "text": "Michael Spencer analysiert in seinem aktuellen Newsletter, warum sich der KI-Markt 2026 stark auf wenige Anbieter konzentrieren wird. Kapitalintensität und Talentknappheit sind die Haupttreiber. Kleinere Labs werden laut Spencer zunehmend übernommen oder schließen.",
       "quelle": "AI Supremacy",
-      "url": "https://aisupremacy.substack.com/p/2026-consolidation"
+      "datum_artikel": "2026-04-28"
     }
   ],
   "unternehmen_stories": [
@@ -38,35 +38,35 @@
       "titel": "NVIDIA übertrifft Erwartungen — Rechenzentrumsumsatz wächst um 78 Prozent",
       "text": "Im jüngsten Quartal hat NVIDIA erneut alle Analystenschätzungen übertroffen. Der Umsatz im Rechenzentrumsgeschäft, getrieben von KI-Nachfrage, wuchs um 78 Prozent. Die Aktie legte nachbörslich um über 6 Prozent zu.",
       "quelle": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/nvidia-earnings-q1",
+      "datum_artikel": "2026-05-01",
       "unternehmen": "NVIDIA"
     },
     {
       "titel": "OpenAI strebt Bewertung von 500 Milliarden Dollar in neuer Finanzierungsrunde an",
       "text": "Laut mehreren Investorenquellen führt OpenAI Gespräche über eine neue Runde, die das Unternehmen mit 500 Milliarden Dollar bewerten würde. Damit wäre es das höchstbewertete Privatunternehmen der Welt. Lead-Investor soll erneut SoftBank sein.",
       "quelle": "Wall Street Journal",
-      "url": "https://www.wsj.com/articles/openai-valuation-funding",
+      "datum_artikel": "2026-04-30",
       "unternehmen": "OpenAI"
     },
     {
       "titel": "Microsoft baut Azure-KI-Geschäft schneller aus als erwartet",
       "text": "Microsofts Cloud-Sparte Azure verzeichnet weiteres Wachstum durch KI-Workloads. CEO Satya Nadella nennt KI den wichtigsten Wachstumstreiber der nächsten Jahre. Analysten heben das Kursziel auf 520 Dollar an.",
       "quelle": "Barron's",
-      "url": "https://www.barrons.com/articles/microsoft-azure-ai-growth",
+      "datum_artikel": "2026-04-29",
       "unternehmen": "Microsoft"
     },
     {
       "titel": "Meta investiert weitere 20 Milliarden Dollar in eigene KI-Infrastruktur",
       "text": "Mark Zuckerberg kündigte beim Earnings Call zusätzliche Capex-Investitionen für 2026 an. Schwerpunkt sind eigene Rechenzentren und Custom-Chips. Investoren reagierten verhalten — die Aktie verlor zunächst 3 Prozent.",
       "quelle": "Financial Times",
-      "url": "https://www.ft.com/content/meta-ai-infrastructure",
+      "datum_artikel": "2026-04-28",
       "unternehmen": "Meta"
     },
     {
       "titel": "xAI sichert sich Großauftrag von Saudi-Arabien für Grok-Integration",
       "text": "Elon Musks KI-Unternehmen xAI hat einen Mehrjahresvertrag mit dem saudischen Public Investment Fund unterzeichnet. Grok soll in nationale Plattformen integriert werden. Volumen laut Insidern: über 4 Milliarden Dollar.",
       "quelle": "The Information",
-      "url": "https://www.theinformation.com/articles/xai-saudi-deal",
+      "datum_artikel": "2026-04-27",
       "unternehmen": "xAI"
     }
   ],
@@ -75,19 +75,19 @@
       "titel": "S&P 500 schließt auf neuem Allzeithoch — Tech-Werte führen Rally an",
       "text": "Der S&P 500 erreichte am Freitag ein neues Rekordhoch von 6.180 Punkten. Treiber waren erneut KI-Werte, allen voran NVIDIA und Microsoft. Der FTSE All World profitiert direkt von dieser Bewegung über sein US-Übergewicht.",
       "quelle": "Reuters",
-      "url": "https://www.reuters.com/markets/sp500-record-high"
+      "datum_artikel": "2026-05-01"
     },
     {
       "titel": "Goldpreis nähert sich 5.000-Dollar-Marke — Notenbanken kaufen weiter",
       "text": "Gold notiert aktuell bei 4.890 Dollar je Unze, nur 2 Prozent unter dem Allzeithoch. Treiber sind anhaltende Käufe asiatischer Notenbanken sowie Sorgen um die Staatsverschuldung der USA. Analysten erwarten kurzfristig die psychologische 5.000er-Marke.",
       "quelle": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/gold-near-5000"
+      "datum_artikel": "2026-05-01"
     },
     {
       "titel": "Fed signalisiert Zinspause — Powell warnt vor neuen Inflationsrisiken",
       "text": "Fed-Chef Jerome Powell hat in seiner Rede in Stanford klargemacht, dass weitere Zinssenkungen 2026 unwahrscheinlich sind. Grund seien anhaltende Lohndruck und steigende Energiepreise. Märkte reagierten gemischt — Anleihen unter Druck, Aktien stabil.",
       "quelle": "Wall Street Journal",
-      "url": "https://www.wsj.com/articles/fed-powell-stanford-speech"
+      "datum_artikel": "2026-04-30"
     }
   ]
 }

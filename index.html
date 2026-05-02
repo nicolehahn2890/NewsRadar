@@ -114,23 +114,16 @@
     border: 1px solid var(--border);
     border-radius: 14px;
     padding: 18px 20px;
-    text-decoration: none;
     color: inherit;
     display: block;
     position: relative;
     overflow: hidden;
-    transition: all 0.2s ease;
     animation: fadeInUp 0.4s ease both;
   }
   .story::before {
     content:''; position:absolute; left:0; top:0; bottom:0;
     width: 3px; background: var(--accent, var(--rose));
     border-radius: 3px 0 0 3px; opacity: 0.7;
-  }
-  .story:hover {
-    background: var(--bg3);
-    border-color: var(--accent, var(--rose));
-    transform: translateX(3px);
   }
   .story.hidden { display: none; }
 
@@ -168,13 +161,12 @@
     color: var(--text2);
     line-height: 1.55;
   }
-  .story-link {
+  .story-date {
     margin-top: 10px;
     font-size: 11px;
     color: var(--text3);
-    display: flex; align-items: center; gap: 4px;
+    letter-spacing: 0.5px;
   }
-  .story:hover .story-link { color: var(--accent, var(--rose)); }
 
   /* States */
   .empty {
@@ -358,28 +350,39 @@
   }
 
   function makeStoryCard(story, accent, index) {
-    const a = document.createElement('a');
-    a.className = 'story';
-    a.href = story.url || '#';
-    a.target = '_blank';
-    a.rel = 'noopener';
-    a.style.setProperty('--accent', accent);
-    a.style.animationDelay = (index * 0.05) + 's';
+    const div = document.createElement('div');
+    div.className = 'story';
+    div.style.setProperty('--accent', accent);
+    div.style.animationDelay = (index * 0.05) + 's';
 
     const company = story.unternehmen
       ? '<span class="story-company">' + escapeHtml(story.unternehmen) + '</span>'
       : '';
 
-    a.innerHTML =
+    const datum = story.datum_artikel
+      ? '<div class="story-date">📅 ' + formatDate(story.datum_artikel) + '</div>'
+      : '';
+
+    div.innerHTML =
       '<div class="story-meta">' +
         '<div class="story-source">' + escapeHtml(story.quelle || '') + '</div>' +
         company +
       '</div>' +
       '<div class="story-title">' + escapeHtml(story.titel || '') + '</div>' +
       '<div class="story-text">' + escapeHtml(story.text || '') + '</div>' +
-      (story.url ? '<div class="story-link">→ Originalartikel öffnen</div>' : '');
+      datum;
 
-    return a;
+    return div;
+  }
+
+  function formatDate(iso) {
+    try {
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return escapeHtml(iso);
+      return d.toLocaleDateString('de-DE', { day: 'numeric', month: 'long', year: 'numeric' });
+    } catch (e) {
+      return escapeHtml(iso);
+    }
   }
 
   function escapeHtml(str) {

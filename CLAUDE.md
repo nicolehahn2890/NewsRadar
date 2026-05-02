@@ -136,7 +136,7 @@ JSON-Struktur:
       "titel": "Deutsche Schlagzeile",
       "text": "2-3 Sätze deutsche Zusammenfassung.",
       "quelle": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/..."
+      "datum_artikel": "2026-05-01"
     }
   ],
   "unternehmen_stories": [
@@ -144,7 +144,7 @@ JSON-Struktur:
       "titel": "Deutsche Schlagzeile",
       "text": "2-3 Sätze deutsche Zusammenfassung.",
       "quelle": "Financial Times",
-      "url": "https://www.ft.com/content/...",
+      "datum_artikel": "2026-05-01",
       "unternehmen": "NVIDIA"
     }
   ],
@@ -153,7 +153,7 @@ JSON-Struktur:
       "titel": "Deutsche Schlagzeile",
       "text": "2-3 Sätze deutsche Zusammenfassung.",
       "quelle": "Reuters",
-      "url": "https://www.reuters.com/..."
+      "datum_artikel": "2026-05-01"
     }
   ]
 }
@@ -164,10 +164,15 @@ Pflichtfelder pro Story:
 - `text` — 2-3 Sätze deutsche Zusammenfassung
 - `quelle` — Name der Quelle exakt wie in der Liste oben (z.B. "Bloomberg",
   "Financial Times", "AI Supremacy")
-- `url` — Direktlink zum Originalartikel
+- `datum_artikel` — Veröffentlichungsdatum des Originalartikels im Format
+  `YYYY-MM-DD` (z.B. `2026-05-01`). Wenn das genaue Datum nicht ermittelbar
+  ist: das beste verfügbare Datum nehmen, niemals erfinden.
 
 Zusätzlich bei `unternehmen_stories`:
 - `unternehmen` — Name des Unternehmens (z.B. "NVIDIA", "OpenAI")
+
+**Keine `url` mehr im Output** — die Verlinkung zum Originalartikel wurde
+entfernt, weil viele paywalled Artikel ohnehin nicht aufgehen.
 
 ## Commit
 
