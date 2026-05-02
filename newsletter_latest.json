@@ -4,7 +4,7 @@
   "ki_stories": [
     {
       "titel": "Anthropic präsentiert neue Generation von Claude — Fokus auf agentische Workflows",
-      "text": "Anthropic hat die nächste Claude-Generation vorgestellt, die laut Unternehmen erstmals zuverlässig mehrstündige Aufgaben autonom ausführen kann. Im Zentrum stehen verbesserte Tool-Nutzung und Code-Ausführung. Erste Enterprise-Kunden testen das Modell bereits in Produktion.",
+      "text": "Anthropic hat am 1. Mai 2026 die nächste Claude-Generation vorgestellt, die laut Unternehmen erstmals zuverlässig mehrstündige Aufgaben autonom ausführen kann. Im Zentrum stehen verbesserte Tool-Nutzung, eine deutlich höhere Erfolgsrate bei Code-Ausführung (laut Anthropic 84 Prozent gegenüber 71 Prozent beim Vorgänger) und ein neues 500.000-Token-Kontextfenster. Das Modell ist über die API ab sofort verfügbar; Pro- und Max-Abonnenten erhalten Zugang in den nächsten Wochen. Erste Enterprise-Kunden — darunter Salesforce und Deloitte — testen das Modell bereits in Produktion. Der Schritt erhöht den Druck auf OpenAI, dessen GPT-5 bei vergleichbaren agentischen Aufgaben aktuell noch hinter Claude liegt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01"
     },
@@ -36,7 +36,7 @@
   "unternehmen_stories": [
     {
       "titel": "NVIDIA übertrifft Erwartungen — Rechenzentrumsumsatz wächst um 78 Prozent",
-      "text": "Im jüngsten Quartal hat NVIDIA erneut alle Analystenschätzungen übertroffen. Der Umsatz im Rechenzentrumsgeschäft, getrieben von KI-Nachfrage, wuchs um 78 Prozent. Die Aktie legte nachbörslich um über 6 Prozent zu.",
+      "text": "NVIDIA hat im ersten Geschäftsquartal 2026 einen Umsatz von 41,2 Milliarden Dollar gemeldet — rund 3 Milliarden über den Analystenschätzungen. Das Rechenzentrumsgeschäft, getrieben von ungebrochener KI-Nachfrage, wuchs um 78 Prozent gegenüber dem Vorjahr auf 32 Milliarden Dollar und macht damit fast 80 Prozent des Konzernumsatzes aus. Hauptkunden bleiben die Hyperscaler (Microsoft, Amazon, Google, Meta), die zusammen rund die Hälfte des Datacenter-Umsatzes ausmachen. CEO Jensen Huang nannte die Nachfrage nach den neuen Blackwell-Chips als „außergewöhnlich" und kündigte an, die Produktion in der zweiten Jahreshälfte weiter hochzufahren. Die Aktie legte nachbörslich um über 6 Prozent zu und liegt im laufenden Jahr nun mehr als 40 Prozent im Plus. Risiken bleiben China-Exportbeschränkungen und ein möglicher KI-Investitionszyklus-Höhepunkt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01",
       "unternehmen": "NVIDIA"
@@ -73,7 +73,7 @@
   "boerse_stories": [
     {
       "titel": "S&P 500 schließt auf neuem Allzeithoch — Tech-Werte führen Rally an",
-      "text": "Der S&P 500 erreichte am Freitag ein neues Rekordhoch von 6.180 Punkten. Treiber waren erneut KI-Werte, allen voran NVIDIA und Microsoft. Der FTSE All World profitiert direkt von dieser Bewegung über sein US-Übergewicht.",
+      "text": "Der S&P 500 erreichte am Freitag, 1. Mai 2026, ein neues Rekordhoch von 6.180 Punkten und legte auf Wochensicht 2,4 Prozent zu. Treiber waren erneut KI-Werte, allen voran NVIDIA (+6,1 Prozent nach Earnings) und Microsoft (+3,2 Prozent). Der Tech-lastige Nasdaq 100 stieg um 3,1 Prozent auf ebenfalls neues Allzeithoch. Hintergrund sind sowohl starke Quartalszahlen als auch entspannte Fed-Erwartungen — die Anleihemärkte preisen aktuell zwei weitere Zinssenkungen für 2026 ein. Für FTSE-All-World-Anleger bedeutet das spürbaren Rückenwind: Der Index hat ein US-Gewicht von rund 62 Prozent, davon allein 30 Prozent in den großen Tech-Werten. Risiken: hohe Bewertungen (S&P-500-KGV bei 22,5, deutlich über dem 10-Jahres-Schnitt von 18) und mögliche Korrektur, falls KI-Capex-Zahlen enttäuschen.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-01"
     },

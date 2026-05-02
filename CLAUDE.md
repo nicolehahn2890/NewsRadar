@@ -161,7 +161,17 @@ JSON-Struktur:
 
 Pflichtfelder pro Story:
 - `titel` — kurze deutsche Schlagzeile (max. ~100 Zeichen)
-- `text` — 2-3 Sätze deutsche Zusammenfassung
+- `text` — **kompakte, vollständige deutsche Zusammenfassung (4–7 Sätze).**
+  Da Nicole den Originalartikel meist nicht öffnen kann (Paywalls funktionieren
+  nicht zuverlässig), muss die Zusammenfassung allein verständlich sein.
+  Sie soll ALLE wichtigen Infos enthalten:
+    1. Was ist passiert? (kurz und klar)
+    2. Wer ist beteiligt? (Unternehmen, Personen)
+    3. Konkrete Zahlen, Kursbewegungen, Beträge, Prozente, Datumswerte
+    4. Warum ist das relevant? (Kontext, Hintergrund)
+    5. Mögliche Auswirkungen / Folgen / nächste Schritte
+  Lieber etwas länger und vollständig als zu kurz. Aber: keine Füllsätze,
+  keine Wiederholungen, keine PR-Floskeln.
 - `quelle` — Name der Quelle exakt wie in der Liste oben (z.B. "Bloomberg",
   "Financial Times", "AI Supremacy")
 - `datum_artikel` — Veröffentlichungsdatum des Originalartikels im Format
