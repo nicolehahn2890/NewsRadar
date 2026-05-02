@@ -1,0 +1,49 @@
+name: Daily News
+
+# Laeuft taeglich um ca. 05:00 Wien (03:00 UTC im Sommer / 04:00 im Winter)
+# GitHub-Cron kennt keine Sommerzeit — daher schwankt der Startzeitpunkt
+# zwischen 04:00 und 05:00 Wien je nach Saison. Das ist okay.
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # erlaubt manuellen Start ueber den "Run workflow"-Knopf
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # noetig damit der Bot in main pushen darf
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run Claude Code
+        uses: anthropics/claude-code-base-action@beta
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          allowed_tools: "WebSearch,WebFetch,Read,Write,Edit,Bash"
+          prompt: |
+            Lies zuerst die Datei CLAUDE.md im Repository-Root.
+            Folge dann GENAU den dortigen Anweisungen, um die heutige
+            Ausgabe von newsletter_latest.json zu erzeugen.
+
+            Wichtig:
+            - Verwende WebSearch und WebFetch fuer die Recherche
+            - Bevorzuge die in CLAUDE.md gelisteten Quellen
+            - Halte die Paywall-Regel strikt ein: jede Story braucht
+              eine echte deutsche Zusammenfassung, sonst fliegt sie raus
+            - Schreibe das Ergebnis nach newsletter_latest.json
+            - Committe oder pushe NICHT selbst — das uebernimmt der
+              naechste Workflow-Schritt
+
+      - name: Commit and push
+        run: |
+          git config user.name "NewsRadar Bot"
+          git config user.email "newsradar-bot@users.noreply.github.com"
+          git add newsletter_latest.json
+          if git diff --staged --quiet; then
+            echo "Keine Aenderungen — nichts zu committen."
+          else
+            git commit -m "Newsletter $(date -u +%Y-%m-%d)"
+            git push
+          fi
