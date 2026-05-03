@@ -1,93 +1,93 @@
 {
-  "datum": "Samstag, 2. Mai 2026",
-  "generiert": "2026-05-02",
+  "datum": "Sonntag, 3. Mai 2026",
+  "generiert": "2026-05-03",
   "ki_stories": [
     {
-      "titel": "Claude Opus 4.7 bricht SWE-bench-Rekord: 87,6 % bei realen Coding-Aufgaben",
-      "text": "Anthropic hat am 16. April 2026 Claude Opus 4.7 allgemein verfügbar gemacht und damit einen neuen Branchenrekord für KI-gestützte Softwareentwicklung gesetzt. Auf SWE-bench Verified erreicht das Modell 87,6 Prozent (gegenüber 80,8 Prozent bei Opus 4.6), auf dem anspruchsvolleren SWE-bench Pro 64,3 Prozent – 6,6 Prozentpunkte vor OpenAIs GPT-5.4 mit 57,7 Prozent. Neu ist das 'xhigh'-Effort-Level, das zwischen 'high' und 'max' liegt und Entwicklern feinere Kontrolle über Rechenaufwand und Latenz gibt; dazu kommen ein /ultrareview-Kommando in Claude Code und Task Budgets als Beta-Feature. Die Bildauflösung wurde auf 2.576 Pixel verdreifacht, das Kontextfenster beträgt 1 Million Token. Das Modell ist über claude.ai, die API sowie alle großen Cloud-Plattformen zu einem unveränderten Preis von 5 Dollar je Million Input-Token verfügbar.",
-      "quelle": "Anthropic / GitHub Changelog",
-      "datum_artikel": "2026-04-16"
+      "titel": "DeepSeek veröffentlicht V4-Modell mit Huawei-Chips und 75-Prozent-Preissenkung",
+      "text": "Das chinesische KI-Start-up DeepSeek hat Ende April 2026 Vorschauversionen seines neuen Flaggschiff-Modells DeepSeek-V4 in zwei Varianten vorgestellt: V4 Flash und V4 Pro. Das Modell nutzt eine neuartige 'Hybrid Attention Architecture', die das Langzeitgedächtnis bei langen Gesprächen verbessert, und unterstützt ein Kontextfenster von einer Million Tokens – genug für ganze Codebases oder umfangreiche Dokumente als einzelnen Prompt. Strategisch bedeutsam ist die erstmalige enge Integration mit Huawei-Chips, die Chinas wachsende Unabhängigkeit von NVIDIA-Hardware demonstriert. DeepSeek senkte den Entwicklerpreis für das V4-Pro-Modell um 75 Prozent und verschärft damit den harten chinesischen KI-Preiskrieg weiter. Bloomberg wertet das Modell als technisch beeindruckend und als ernsthafte Herausforderung für OpenAI und Anthropic – auch wenn ein 'Wow-Moment' wie beim Vorjahresmodell ausbleibt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-04-27"
     },
     {
-      "titel": "Pentagon lässt 8 KI-Firmen für Geheimnetze zu – Anthropic ausgeschlossen",
-      "text": "Das US-Verteidigungsministerium hat am 1. Mai 2026 Vereinbarungen mit acht Technologieunternehmen geschlossen, die deren KI-Systeme auf höchst klassifizierten Militärnetzwerken (Impact Level 6 und 7) einsetzen dürfen: Amazon Web Services, Google, Microsoft, NVIDIA, OpenAI, SpaceX, Reflection und Oracle. Ziel ist es, die Entscheidungsfindung von Soldaten in komplexen Einsatzlagen durch KI zu beschleunigen; über 1,3 Millionen Mitarbeitende des Ministeriums nutzen bereits das KI-Portal GenAI.mil. Anthropic wurde ausdrücklich ausgeschlossen, nachdem das Unternehmen sich geweigert hatte, dem US-Militär uneingeschränkten Zugang zu Claude für alle rechtlichen Zwecke zu gewähren – einschließlich autonomer Waffensysteme und Massenüberwachung. Ein Bundesgericht in Kalifornien blockierte daraufhin vorläufig den Versuch der Trump-Administration, Anthropic aus bestehenden Regierungsverträgen auszuschließen. Die Deals gelten als Wendepunkt für die Militarisierung kommerzieller KI-Systeme und könnten den Wettbewerb der Labore um Regierungsaufträge neu ordnen.",
-      "quelle": "Washington Post / Breaking Defense",
+      "titel": "OpenAI entwickelt eigenes KI-Smartphone als Konkurrenz zum iPhone",
+      "text": "Bloomberg berichtete am 1. Mai 2026, dass OpenAI an einem eigenen Smartphone arbeitet, das statt traditioneller Apps auf KI-Agenten setzen soll. Das Gerät entsteht in Zusammenarbeit mit den Chipherstellern MediaTek und Qualcomm sowie dem Fertigungspartner Luxshare. OpenAIs Global-Affairs-Chef Chris Lehane kündigte eine erste offizielle Hardware-Ankündigung für die zweite Hälfte 2026 an, die Massenproduktion ist für 2028 geplant. Grundlage des Projekts ist die Übernahme des Designstudios von Apple-Ikone Jony Ive durch OpenAI für rund 6,5 Milliarden Dollar im Vorjahr. Ein solches Gerät würde Apples und Googles App-Store-Ökosysteme direkt herausfordern und die KI-Branche in ein neues Hardware-Zeitalter führen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01"
     },
     {
-      "titel": "GPT-5.5 und Workspace Agents: OpenAI rüstet ChatGPT für Unternehmen auf",
-      "text": "OpenAI hat am 23. April 2026 GPT-5.5 veröffentlicht – ein von Grund auf neu entwickeltes Modell, das Text, Bilder, Audio und Video in einem einzigen einheitlichen System verarbeitet. Auf dem SWE-bench Pro erzielt GPT-5.5 58,6 Prozent und positioniert sich damit knapp hinter Claude Opus 4.7 (64,3 Prozent). Parallel stellte OpenAI Workspace Agents vor: Teams können damit gemeinsame KI-Agenten erstellen, die komplexe Workflows innerhalb der von der Organisation definierten Berechtigungen übernehmen, inklusive Outlook-Mail und geteilter Kalender. Neu ist außerdem 'Advanced Account Security' – phishing-resistente Anmeldung, kürzere Sessions und automatischer Trainings-Ausschluss; ab 1. Juni 2026 wird es für Mitglieder des Trusted-Access-Programms verpflichtend. Die Neuerungen kommen zu einem Zeitpunkt, an dem OpenAI laut Wall Street Journal bei einigen internen Wachstumszielen hinter Plan liegt.",
-      "quelle": "CNBC / OpenAI",
-      "datum_artikel": "2026-04-23"
-    },
-    {
-      "titel": "EU AI Act: Trilog scheitert erneut – August-Frist rückt bedrohlich nah",
-      "text": "Der zweite politische Trilog zwischen EU-Parlament, Ministerrat und Kommission über die geplante Novelle des AI Act ist am 28. April 2026 ohne Einigung zu Ende gegangen; der nächste Termin wurde auf den 13. Mai 2026 angesetzt. Kernstreitpunkt ist, ob KI-Systeme in regulierten Produkten wie Medizingeräten, Autos und Spielzeug von den zusätzlichen Anforderungen des AI Act ausgenommen werden sollen. Die Novelle sieht eine Verschiebung der Hochrisiko-Verpflichtungen vom 2. August 2026 auf den 2. Dezember 2027 vor. Liegt bis zum 2. August jedoch keine formelle Einigung vor, tritt das ursprüngliche strenge Gesetz automatisch in Kraft. Für Unternehmen bedeutet das wachsende Rechtsunsicherheit: Sie müssen möglicherweise ab August strenge Auflagen erfüllen – mit erheblichen Investitionen in Compliance, Dokumentation und Risikobewertung.",
+      "titel": "EU-KI-Gesetz tritt am 2. August vollständig in Kraft – Unternehmen unter Zugzwang",
+      "text": "Der EU AI Act, das weltweit erste umfassende KI-Regelwerk, wird am 2. August 2026 vollständig anwendbar und betrifft alle Unternehmen, die Hochrisiko-KI-Systeme in der EU einsetzen. Diese müssen dann Konformitätsbewertungen, Transparenzpflichten und Risikomanagement-Systeme nachweisen, andernfalls drohen empfindliche Bußgelder. Jeder EU-Mitgliedstaat ist verpflichtet, bis zu diesem Datum mindestens eine nationale KI-Regulierungs-Sandbox einzurichten. Besonders betroffen sind internationale KI-Anbieter wie OpenAI, Anthropic und Google, deren Modelle in Europa weit verbreitet sind. Im Gegensatz dazu verfolgen die USA unter Präsident Trump mit dem im März 2026 veröffentlichten nationalen KI-Rahmenwerk einen stark innovationsgetriebenen Ansatz, der staatliche KI-Gesetze bundesweit harmonisieren und teilweise außer Kraft setzen soll.",
       "quelle": "Financial Times",
-      "datum_artikel": "2026-04-28"
+      "datum_artikel": "2026-05-01"
     },
     {
-      "titel": "Anthropic startet Claude Design – visuelle KI-Tools für Nicht-Designer",
-      "text": "Anthropic hat am 17. April 2026 Claude Design als neues experimentelles Produkt vorgestellt, das Nutzern ohne Designhintergrund ermöglicht, Prototypen, Präsentationen und einseitige Dokumente direkt aus dem Chat heraus zu erstellen. Das Tool wird von Claude Opus 4.7 angetrieben und richtet sich an Gründer, Produktmanager und alle, die Ideen visuell teilen möchten, ohne auf ein Design-Team angewiesen zu sein. Claude Design ist aktuell als Research Preview für Abonnenten der Pläne Pro, Max, Team und Enterprise verfügbar. Mit dem Produkt betritt Anthropic erstmals den Bereich der visuellen Erstellung und tritt damit in Konkurrenz zu OpenAIs Canvas-Feature und Googles Workspace-KI-Tools. Der Launch zeigt Anthropics Strategie, Claude von einem reinen Sprachmodell zu einer umfassenden Arbeitsplattform auszubauen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-04-17"
+      "titel": "Mistral AI bringt 128-Milliarden-Parameter-Modell und agentischen Work Mode für Le Chat",
+      "text": "Das französische KI-Unternehmen Mistral AI hat diese Woche sein neues Flaggschiffmodell mit 128 Milliarden Parametern sowie einen agentischen 'Work Mode' für seinen Assistenten Le Chat veröffentlicht. Der Work Mode ermöglicht es, komplexe mehrstufige Aufgaben – etwa das asynchrone Schreiben und Ausführen von Code in der Cloud – selbstständig und ohne ständige Nutzereingriffe zu erledigen. Mistral positioniert sich damit als europäische Alternative zu OpenAIs ChatGPT und Anthropics Claude, insbesondere für Unternehmenskunden unter EU-Datenschutzrecht. Das Unternehmen hatte zuletzt bei einer Bewertung im Milliardenbereich Kapital eingesammelt und gilt als wichtigster europäischer KI-Akteur. Der Release erhöht den Druck auf alle großen KI-Anbieter, eigene Agenten-Funktionen für Unternehmensanwendungen schneller in die Breite zu bringen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-01"
+    },
+    {
+      "titel": "McKinsey setzt KI-Agenten zur Zusammenstellung von Berater-Teams für Kunden ein",
+      "text": "Die Unternehmensberatung McKinsey & Company hat angekündigt, KI-Agenten künftig systematisch zur Zusammenstellung von Berater-Teams für Kundenprojekte einzusetzen. Dabei werden Fähigkeiten, Erfahrungen und Verfügbarkeiten von tausenden Beratern weltweit durch KI ausgewertet, um optimale Projektteams vorzuschlagen. Der Schritt gilt als deutliches Signal für die Reife der Enterprise-KI: Wenn eine der weltgrößten Beratungsfirmen ihre eigenen Personalprozesse auf KI-Agenten umstellt, zeigt das den praktischen Reifegrad der Technologie. Die KI trifft dabei keine finale Entscheidung, beschleunigt und objektiviert den Auswahlprozess aber erheblich. Analysten sehen solche Implementierungen als Vorboten einer breiten Automatisierungswelle in wissensintensiven Berufen und erwarten ähnliche Ankündigungen von anderen großen Beratungs- und Finanzfirmen.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-05-01"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic auf Bewertungskurs von 900 Mrd. Dollar – IPO rückt näher",
-      "text": "Anthropic verhandelt laut Bloomberg-Bericht vom 29. April 2026 mit Investoren über eine Finanzierungsrunde von 40 bis 50 Milliarden Dollar bei einer Unternehmensbewertung von über 900 Milliarden Dollar. Damit würde Anthropic OpenAI als wertvollstes privates KI-Unternehmen überholen – OpenAI war erst im März 2026 in einer Rekordrunde mit 852 Milliarden Dollar bewertet worden. Laut TechCrunch liegt bereits eine Reihe von 'preemptive offers' vor, und ein Abschluss soll innerhalb von zwei Wochen möglich sein. Rund 80 Prozent von Anthropics Umsatz entfallen auf Unternehmenskunden; über 1.000 Firmen zahlen mehr als eine Million Dollar jährlich für Claude-Dienste, und der annualisierte Gesamtumsatz hat die 30-Milliarden-Marke überschritten. Branchenbeobachter werten die Runde als mögliche letzte private Finanzierung vor einem Börsengang.",
-      "quelle": "Bloomberg / TechCrunch",
+      "titel": "Pentagon vergibt geheime KI-Verträge an acht Tech-Konzerne – Anthropic ausgeschlossen",
+      "text": "Das US-Verteidigungsministerium hat am 1. Mai 2026 Vereinbarungen mit acht Technologieunternehmen unterzeichnet, um KI-Systeme auf streng geheimen Netzwerken der Stufen Impact Level 6 und 7 einzusetzen: OpenAI, Google, Microsoft, Amazon Web Services, NVIDIA, SpaceX und Reflection wurden ausgewählt, Oracle kam kurz darauf als achtes Unternehmen hinzu. Ziel ist es, militärische Datensynthese, Entscheidungsprozesse und Lagebeurteilung durch KI zu verbessern und die USA als KI-führende Militärmacht zu positionieren. Anthropic wurde bewusst ausgeschlossen, nachdem das Unternehmen auf Sicherheitsauflagen für militärische KI-Anwendungen bestanden hatte und vom Pentagon als Lieferkettenrisiko eingestuft worden war. Für NVIDIA, Microsoft, Amazon und Google sind diese Verträge ein bedeutender Vertrauensbeweis im wachsenden Verteidigungsmarkt. Kritiker sehen in Anthropics Ausschluss ein Zeichen, dass KI-Sicherheitsbedenken zunehmend als Wettbewerbshindernis gewertet werden.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-05-01",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Anthropic verhandelt Finanzierungsrunde bei über 900 Milliarden Dollar Bewertung",
+      "text": "Anthropic prüft laut Bloomberg vom 29. April 2026 eine neue Finanzierungsrunde über 40 bis 50 Milliarden Dollar, die das Unternehmen bei über 900 Milliarden Dollar bewerten würde – damit würde es OpenAI als wertvollstes KI-Start-up der Welt ablösen. Die Verhandlungen befinden sich noch in einem frühen Stadium, eine finale Entscheidung soll auf einem Vorstandstreffen im Mai fallen. Investoren wurden laut Berichten mit einer 48-Stunden-Frist für Kapitalzusagen konfrontiert, was auf erheblichen Zeitdruck hindeutet. Zum Vergleich: Anthropics letzte Runde im Februar 2026 bewertete das Unternehmen bei 380 Milliarden Dollar, OpenAIs Rekord-Runde erzielte eine Bewertung von 852 Milliarden Dollar. Anthropic hat zuletzt einen Jahresumsatz von 30 Milliarden Dollar gemeldet und könnte bereits im Oktober 2026 an die Börse gehen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-04-29",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "Google und Amazon: Hälfte der Rekordgewinne stammt aus Anthropic-Beteiligung",
-      "text": "Beide Tech-Giganten meldeten Ende April 2026 beeindruckende Quartalszahlen – doch der wichtigste Treiber war nicht das operative Geschäft, sondern die gestiegene Bewertung ihrer Anthropic-Beteiligungen. Alphabets Gewinn sprang um 81 Prozent auf 62,6 Milliarden Dollar; davon entfielen rund 28,7 Milliarden Dollar auf die Neubewertung der Anthropic-Anteile, die noch nicht verkauft wurden. Bei Amazon stellte die Anthropic-Beteiligung mehr als die Hälfte des Vorsteuergewinns dar: 16,8 Milliarden Dollar aus Bewertungsgewinnen bei einer ursprünglichen Investition von 8 Milliarden Dollar, die inzwischen auf über 70 Milliarden Dollar geschätzt wird. Kritiker warnen, dass diese nicht realisierten 'Paper Gains' ein verzerrtes Bild der operativen Stärke zeichnen und bei einem Marktabschwung rasch verschwinden könnten. Analysten bei Fortune sprechen bereits von einer möglichen 'Anthropic-Bewertungsblase' als neuem systemischen Risiko im Tech-Sektor.",
-      "quelle": "Fortune / CNBC",
-      "datum_artikel": "2026-04-30",
-      "unternehmen": "Alphabet / Amazon"
-    },
-    {
-      "titel": "Meta kauft KI-Startup ARI für Humanoid-Robotik-Offensive",
-      "text": "Meta Platforms hat am 1. Mai 2026 das KI-Startup Assured Robot Intelligence (ARI) übernommen; das gesamte Team inklusive Mitgründer tritt Metas Forschungsabteilung Superintelligence Labs bei. ARI entwickelt KI-Modelle, die Robotern ermöglichen, menschliches Verhalten in komplexen Umgebungen zu verstehen, vorherzusagen und darauf zu reagieren. Co-Gründer Xiaolong Wang war zuvor Forscher bei NVIDIA und Professor an der UC San Diego; Co-Gründer Lerrel Pinto lehrte an der New York University und hatte bereits Fauna Robotics mitgegründet, das Amazon im März 2026 erwarb. Die Kaufsumme wurde nicht bekannt gegeben. Goldman Sachs prognostiziert, dass der Markt für humanoide Robotik bis 2035 auf 38 Milliarden Dollar anwächst; Morgan Stanley hält bis 2050 sogar 5 Billionen Dollar für möglich.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "Google stellt TPU 8t und 8i vor – 121 Exaflops als Antwort auf NVIDIA",
-      "text": "Google hat auf der Cloud Next-Konferenz am 22. April 2026 in Las Vegas zwei neue KI-Chips der achten Generation vorgestellt: TPU 8t (Training) und TPU 8i (Inferenz). Der TPU 8t liefert 121 FP4-Exaflops Peak-Leistung – rund dreimal mehr als der Vorgänger Ironwood – und skaliert auf bis zu 9.600 TPUs in einem einzigen Superpod mit 2 Petabyte gemeinsamem Hochband-Speicher. Der TPU 8i ist auf Ultra-Low-Latency für agentische Anwendungen optimiert und bietet 80 Prozent besseres Preis-Leistungsverhältnis bei der Inferenz. Broadcom entwirft den TPU 8t, MediaTek den TPU 8i; beide werden von TSMC im 2-Nanometer-Prozess gefertigt. Für externe Kunden ist die Verfügbarkeit erst ab Ende 2027 geplant; intern nutzt Google die neuen Chips bereits für Gemini und weitere Dienste.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-04-22",
+      "titel": "Google investiert bis zu 40 Milliarden Dollar in Anthropic",
+      "text": "Google hat angekündigt, bis zu 40 Milliarden Dollar in das KI-Unternehmen Anthropic zu investieren, mit einer sofortigen ersten Tranche von 10 Milliarden Dollar und weiteren bis zu 30 Milliarden Dollar, abhängig von vereinbarten Leistungsmeilensteinen. Dies ist Googles bisher größte externe Einzelinvestition und unterstreicht den strategischen Wert des Claude-Entwicklers für den Suchgiganten. Amazon hatte zuvor bis zu 25 Milliarden Dollar in Anthropic zugesagt und 5 Gigawatt Rechenkapazität für Training und Betrieb der Claude-Modelle bereitgestellt. Damit erreichen Google und Amazon zusammen ein gemeinsames Investitionsvolumen von bis zu 65 Milliarden Dollar in Anthropic. Bemerkenswert ist, dass Google trotz dieser massiven Investition gleichzeitig mit seinen eigenen Gemini-Modellen in direktem Wettbewerb mit Claude steht.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-04-24",
       "unternehmen": "Google"
     },
     {
-      "titel": "Amazon AWS wächst 28 %: Anthropic-Deal sichert 100 Mrd. Dollar über 10 Jahre",
-      "text": "Amazon meldete am 29. April 2026 für AWS ein Umsatzwachstum von 28 Prozent auf 37,59 Milliarden Dollar im ersten Quartal 2026 – klar über den Analystenerwartungen von 36,64 Milliarden Dollar. Parallel gab Amazon eine erweiterte Partnerschaft mit Anthropic bekannt: Das KI-Labor verpflichtet sich, in den nächsten 10 Jahren mehr als 100 Milliarden Dollar in AWS-Technologien zu investieren, darunter aktuelle und künftige Trainium-Chips sowie bis zu 5 Gigawatt Rechenkapazität. Amazons ursprüngliche Investition von 8 Milliarden Dollar in Anthropic ist inzwischen auf über 70 Milliarden Dollar angewachsen. Als Gegenleistung hat Anthropic AWS als primäre Cloud-Plattform für Training und Deployment von Claude-Modellen gewählt. Die Vereinbarung gilt als einer der tiefsten strategischen Deals zwischen einem Cloud-Anbieter und einem KI-Labor in der Geschichte der Branche.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-04-29",
-      "unternehmen": "Amazon"
+      "titel": "Apple übertrifft Quartalszahlen – Aktie steigt um mehr als 3 Prozent",
+      "text": "Apple hat im zweiten Quartal des Geschäftsjahres 2026 sowohl beim Umsatz als auch beim Gewinn die Analystenerwartungen übertroffen und damit die Aktie um mehr als 3 Prozent nach oben getrieben. Das Unternehmen profitierte von starker iPhone-Nachfrage und wachsenden Services-Einnahmen. Die starken Zahlen trugen maßgeblich dazu bei, dass der S&P 500 am 30. April und 1. Mai neue Allzeithöchststände erreichte. Apple arbeitet gleichzeitig an einer grundlegenden Überarbeitung von Siri als integriertem KI-Chatbot für iOS 27, um der wachsenden Konkurrenz durch OpenAI und Google standzuhalten. Mit der starken Quartalsbilanz zählt Apple zu den zentralen Treibern der laufenden Tech-Rally an der Wall Street.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-04-30",
+      "unternehmen": "Apple"
+    },
+    {
+      "titel": "Microsoft gibt 25 Milliarden Dollar mehr für KI-Chips aus – Big Tech bricht Investitionsrekord",
+      "text": "Microsoft hat bei der Vorlage seiner jüngsten Quartalsergebnisse bekannt gegeben, dass allein 25 Milliarden Dollar seines KI-Budgets auf gestiegene Kosten für Speicherchips und Prozessoren entfallen. Zusammen mit Google, Amazon und Meta summieren sich die Kapitalausgaben der großen US-Tech-Konzerne für KI-Infrastruktur auf einen Rekordwert von rund 725 Milliarden Dollar. Microsofts Azure-KI-Dienste verzeichneten starkes Wachstum, getrieben durch die Partnerschaft mit OpenAI und den breiten Unternehmenseinsatz von Copilot. Google Cloud erzielte im selben Quartal 20 Milliarden Dollar Umsatz, was einem Wachstum von 63 Prozent im Jahresvergleich entspricht. Microsoft ist zudem eines der acht Unternehmen, die neue Pentagon-Verträge für KI auf klassifizierten Netzwerken erhalten haben.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-01",
+      "unternehmen": "Microsoft"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 erstmals über 7.200 Punkte – Apple und KI-Aktien treiben Rekord",
-      "text": "Der S&P 500 schloss am 1. Mai 2026 bei 7.230 Punkten und damit zum ersten Mal in seiner Geschichte über der Marke von 7.200 Punkten (+0,29 Prozent). Der Nasdaq Composite legte 0,89 Prozent zu und schloss bei 25.114 Punkten – ebenfalls ein Allzeithoch. Haupttreiber war Apple: Die Aktie stieg über 3 Prozent, nachdem der Konzern im zweiten Fiskalquartal mit einem Gewinn je Aktie von 2,01 Dollar (erwartet 1,95 Dollar) und einem Umsatz von 111,18 Milliarden Dollar (erwartet 109,66 Milliarden) die Erwartungen klar übertraf. Laut FactSet haben inzwischen 84 Prozent der S&P-500-Unternehmen die Analystenschätzungen für Q1 übertroffen; der Index steuert auf rund 15 Prozent Gewinnwachstum gegenüber dem Vorjahr zu. Für FTSE-All-World-Anleger bedeutet das Rekordhoch einen direkten Portfoliogewinn, da US-Tech mit über 60 Prozent im Index gewichtet ist.",
-      "quelle": "Reuters / FactSet",
-      "datum_artikel": "2026-05-01"
-    },
-    {
-      "titel": "Fed hält Leitzins – Powell tritt ab, Kevin Warsh übernimmt am 15. Mai",
-      "text": "Die US-Notenbank Fed hat auf ihrer Sitzung vom 29. April 2026 den Leitzins erneut unverändert bei 3,50 bis 3,75 Prozent belassen – die dritte Pause in Folge. Als Begründung nannte die Fed eine weiterhin erhöhte Inflation, die vor allem durch Rohölpreise über 100 Dollar je Barrel getrieben wird, sowie schwächeres Beschäftigungswachstum. Der Beschluss war ungewöhnlich umstritten: Vier Fed-Gouverneure votierten dagegen – so viel Dissens gab es seit über drei Jahrzehnten nicht mehr. Jerome Powell bestätigte, dass dies seine letzte Pressekonferenz als Fed-Chef war; sein Mandat endet am 15. Mai 2026, wenn Kevin Warsh das Amt übernimmt. J.P. Morgan Research erwartet, dass die Fed bis Ende 2026 keine weiteren Zinsänderungen vornehmen wird – die nächste Bewegung könnte erst 2027 eine Erhöhung sein.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-04-29"
-    },
-    {
-      "titel": "Gold bei rund 4.693 Dollar – Iran-Krieg und Ölpreisschock halten Preis stabil",
-      "text": "Der Goldpreis handelt aktuell bei rund 4.693 US-Dollar je Unze (Spot), Gold-Futures liegen bei etwa 4.708 Dollar. Die wichtigsten Treiber bleiben geopolitisch: Der anhaltende Konflikt zwischen den USA und dem Iran hält die Energieversorgung unsicher und befeuert globale Inflationserwartungen; Rohöl notiert über 100 Dollar je Barrel. Solange die Fed aufgrund hoher Energiepreise keine Zinssenkungen signalisiert, bleibt der Opportunitätsvorteil von Gold begrenzt – was eine Deckelung des Preises erklärt. Die stabile Nachfrage durch Zentralbanken weltweit bildet gleichzeitig eine solide Preisuntergrenze. Analysten sehen den Goldpreis für Mai 2026 in einer Handelsspanne von 4.380 bis 5.100 Dollar; JPMorgan Private erwartet bis Jahresende eine Konsolidierung im Bereich von 4.000 bis 4.500 Dollar.",
+      "titel": "S&P 500 schließt auf neuem Allzeithoch bei 7.230 Punkten",
+      "text": "Der S&P 500 erreichte am 1. Mai 2026 ein neues Allzeithoch und schloss bei 7.230,12 Punkten, getrieben von starken Quartalsberichten der Mega-Cap-Technologiekonzerne und einem Apple-Kursanstieg von über 3 Prozent. Der Nasdaq Composite überschritt erstmals die Marke von 25.000 Punkten und schloss bei 25.114,44 – ebenfalls ein neues Allzeithoch. Über 80 Prozent der im S&P 500 enthaltenen Unternehmen haben die Gewinnerwartungen für das abgelaufene Quartal übertroffen, was auf breite fundamentale Stärke hindeutet. Der Dow Jones gab leicht um 153 Punkte auf 49.499 nach, was die insgesamt positive Marktdynamik kaum trübte. Analysten sehen die Rally als Bestätigung, dass die KI-Investitionsthese durch konkrete Unternehmensgewinne der laufenden Berichtssaison untermauert wird.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01"
+    },
+    {
+      "titel": "Bloomberg: Steckt der Aktienmarkt in einem 'Melt-Up'? Hedge Funds fließen 45 Milliarden zu",
+      "text": "Bloomberg analysierte am 2. Mai 2026, ob der aktuelle Börsenaufschwung die Merkmale eines 'Melt-Up' trägt – also eines irrationalen Kursanstiegs, bei dem Anleger aus Angst, eine Rally zu verpassen, zunehmend risikoreich agieren. Hedge-Fonds flossen allein in der vergangenen Woche rund 45 Milliarden Dollar zu, und High-Yield-Kreditspreads liegen nahe Mehrjahrestiefs. Die Rally hält trotz makroökonomischer Gegenwindes stand: Krieg im Iran, Ölpreise über 100 Dollar pro Barrel und eine Fed, die Zinsen länger hoch hält als erwartet. Privatanleger treiben aggressiv Nulltages-Optionen und Prognosemärkte. Bloomberg sieht gemischte Signale: echte fundamentale Stärke durch KI-Unternehmensgewinne steht einer überschießenden Risikobereitschaft gegenüber.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-02"
+    },
+    {
+      "titel": "Gold bei 4.600 Dollar – Fed hält Zinsen konstant, Nachfrage auf Rekordniveau",
+      "text": "Der Goldpreis notierte Anfang Mai 2026 bei knapp 4.600 Dollar je Unze, nach einem zwischenzeitlichen Höchststand von über 5.500 Dollar im Jahresverlauf. Die US-Notenbank Fed beließ den Leitzins zuletzt unverändert bei 3,50 bis 3,75 Prozent; laut CME Group rechnen 94,9 Prozent der Marktteilnehmer im Juni mit keiner Änderung. Haupttreiber des hohen Goldpreises sind anhaltende geopolitische Spannungen im Nahen Osten, insbesondere die weitgehende Schließung der Straße von Hormus. Laut World Gold Council erreichte die globale Goldnachfrage im ersten Quartal 2026 mit 1.230,9 Tonnen einen neuen Rekordwert, 2 Prozent über dem Vorjahr. Bank of America hat ein 12-Monats-Kursziel von 6.000 Dollar für Gold ausgegeben und begründet dies mit Investitionsnachfrage, US-Fiskaldefiziten und mittelfristig erwarteten Zinssenkungen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-02"
     }
   ]
 }
