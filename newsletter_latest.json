@@ -1,93 +1,93 @@
 {
-  "datum": "Sonntag, 3. Mai 2026",
-  "generiert": "2026-05-03",
+  "datum": "Montag, 4. Mai 2026",
+  "generiert": "2026-05-04",
   "ki_stories": [
     {
-      "titel": "DeepSeek veröffentlicht V4-Modell mit Huawei-Chips und 75-Prozent-Preissenkung",
-      "text": "Das chinesische KI-Start-up DeepSeek hat Ende April 2026 Vorschauversionen seines neuen Flaggschiff-Modells DeepSeek-V4 in zwei Varianten vorgestellt: V4 Flash und V4 Pro. Das Modell nutzt eine neuartige 'Hybrid Attention Architecture', die das Langzeitgedächtnis bei langen Gesprächen verbessert, und unterstützt ein Kontextfenster von einer Million Tokens – genug für ganze Codebases oder umfangreiche Dokumente als einzelnen Prompt. Strategisch bedeutsam ist die erstmalige enge Integration mit Huawei-Chips, die Chinas wachsende Unabhängigkeit von NVIDIA-Hardware demonstriert. DeepSeek senkte den Entwicklerpreis für das V4-Pro-Modell um 75 Prozent und verschärft damit den harten chinesischen KI-Preiskrieg weiter. Bloomberg wertet das Modell als technisch beeindruckend und als ernsthafte Herausforderung für OpenAI und Anthropic – auch wenn ein 'Wow-Moment' wie beim Vorjahresmodell ausbleibt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-04-27"
-    },
-    {
-      "titel": "OpenAI entwickelt eigenes KI-Smartphone als Konkurrenz zum iPhone",
-      "text": "Bloomberg berichtete am 1. Mai 2026, dass OpenAI an einem eigenen Smartphone arbeitet, das statt traditioneller Apps auf KI-Agenten setzen soll. Das Gerät entsteht in Zusammenarbeit mit den Chipherstellern MediaTek und Qualcomm sowie dem Fertigungspartner Luxshare. OpenAIs Global-Affairs-Chef Chris Lehane kündigte eine erste offizielle Hardware-Ankündigung für die zweite Hälfte 2026 an, die Massenproduktion ist für 2028 geplant. Grundlage des Projekts ist die Übernahme des Designstudios von Apple-Ikone Jony Ive durch OpenAI für rund 6,5 Milliarden Dollar im Vorjahr. Ein solches Gerät würde Apples und Googles App-Store-Ökosysteme direkt herausfordern und die KI-Branche in ein neues Hardware-Zeitalter führen.",
+      "titel": "McKinsey setzt KI-Agenten zur Personalplanung ein",
+      "text": "McKinsey & Co. plant den Einsatz von KI-Agenten, um die Zuweisung von Beratern zu Kundenprojekten zu optimieren. Bisher erledigen eigens dafür zuständige Mitarbeiter dieses sogenannte Staffing-Management — nun sollen KI-Systeme sie ergänzen. Mit fast 40.000 Angestellten sei der Zuweisungsprozess zu komplex geworden, sagte Personalchefin Wendy Miller: Die KI solle sicherstellen, dass 'die besten Leute in den richtigen Situationen' eingesetzt werden. Der Rollout startet zunächst in Lateinamerika und Nordamerika und soll bis Ende Sommer 2026 global ausgeweitet werden. Kunden werden bislang nicht darüber informiert, dass ihre Teamzusammenstellung künftig von einem KI-System mitgesteuert wird.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01"
     },
     {
-      "titel": "EU-KI-Gesetz tritt am 2. August vollständig in Kraft – Unternehmen unter Zugzwang",
-      "text": "Der EU AI Act, das weltweit erste umfassende KI-Regelwerk, wird am 2. August 2026 vollständig anwendbar und betrifft alle Unternehmen, die Hochrisiko-KI-Systeme in der EU einsetzen. Diese müssen dann Konformitätsbewertungen, Transparenzpflichten und Risikomanagement-Systeme nachweisen, andernfalls drohen empfindliche Bußgelder. Jeder EU-Mitgliedstaat ist verpflichtet, bis zu diesem Datum mindestens eine nationale KI-Regulierungs-Sandbox einzurichten. Besonders betroffen sind internationale KI-Anbieter wie OpenAI, Anthropic und Google, deren Modelle in Europa weit verbreitet sind. Im Gegensatz dazu verfolgen die USA unter Präsident Trump mit dem im März 2026 veröffentlichten nationalen KI-Rahmenwerk einen stark innovationsgetriebenen Ansatz, der staatliche KI-Gesetze bundesweit harmonisieren und teilweise außer Kraft setzen soll.",
-      "quelle": "Financial Times",
+      "titel": "Pentagon vergibt geheime KI-Verträge — Anthropic bleibt ausgeschlossen",
+      "text": "Das US-Verteidigungsministerium hat geheime KI-Vereinbarungen mit acht Technologiekonzernen unterzeichnet: OpenAI, Google, Microsoft, Amazon Web Services, NVIDIA, SpaceX, Reflection und Oracle dürfen ihre KI-Modelle auf den klassifizierten Netzwerken des Pentagons (Impact Level 6 und 7) einsetzen. Ziel ist es, Datenanalyse, Entscheidungsunterstützung und militärische Lageeinschätzung zu verbessern. Anthropic wurde bewusst ausgeschlossen, weil das Unternehmen auf Vertragsklauseln bestand, die Massenüberwachung von US-Bürgern und vollautonome Waffensysteme untersagen — ein bisheriger Vertrag über Palantirs Maven-Toolkit im Wert von rund 200 Millionen Dollar wurde damit hinfällig. Pentagon-CTO Emil Michael erklärte, man wolle nicht von einem einzigen KI-Anbieter abhängig sein. OpenAI verzeichnete nach Bekanntwerden des ersten Pentagon-Deals einen Anstieg der ChatGPT-Deinstallationen um 413 Prozent.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-01"
     },
     {
-      "titel": "Mistral AI bringt 128-Milliarden-Parameter-Modell und agentischen Work Mode für Le Chat",
-      "text": "Das französische KI-Unternehmen Mistral AI hat diese Woche sein neues Flaggschiffmodell mit 128 Milliarden Parametern sowie einen agentischen 'Work Mode' für seinen Assistenten Le Chat veröffentlicht. Der Work Mode ermöglicht es, komplexe mehrstufige Aufgaben – etwa das asynchrone Schreiben und Ausführen von Code in der Cloud – selbstständig und ohne ständige Nutzereingriffe zu erledigen. Mistral positioniert sich damit als europäische Alternative zu OpenAIs ChatGPT und Anthropics Claude, insbesondere für Unternehmenskunden unter EU-Datenschutzrecht. Das Unternehmen hatte zuletzt bei einer Bewertung im Milliardenbereich Kapital eingesammelt und gilt als wichtigster europäischer KI-Akteur. Der Release erhöht den Druck auf alle großen KI-Anbieter, eigene Agenten-Funktionen für Unternehmensanwendungen schneller in die Breite zu bringen.",
+      "titel": "KI-Boom: Big Tech zeigt Gewinner und Verlierer der KI-Wette",
+      "text": "Die Quartalszahlen der weltgrößten Technologiekonzerne bestätigen: Der KI-Boom ist real — aber Investoren selektieren immer stärker. Alphabet gewann als klarer Sieger mit einem Google-Cloud-Umsatz von 20 Milliarden Dollar (+63 Prozent) und einem Kursanstieg von 10 Prozent. Apple meldete einen Rekordumsatz von 111,2 Milliarden Dollar (+17 Prozent) und eine robuste Prognose von bis zu 110 Milliarden Dollar für das Folgequartal. Demgegenüber verlor Meta 8 Prozent, weil Investoren die schuldenfinanzierte KI-Ausgabenpolitik von CEO Mark Zuckerberg abstraft. Microsoft fiel um fast 4 Prozent, obwohl Azure beschleunigte Wachstumszahlen meldete — die angekündigten KI-Kapitalausgaben von 190 Milliarden Dollar für 2026 wecken Zweifel an der Rentabilität. Die übergreifende Botschaft der Berichtssaison: Wer aus KI-Investitionen bereits Cashflow generiert, wird belohnt — wer nur Ausgabenpläne vorlegen kann, wird abgestraft.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01"
+      "datum_artikel": "2026-05-03"
     },
     {
-      "titel": "McKinsey setzt KI-Agenten zur Zusammenstellung von Berater-Teams für Kunden ein",
-      "text": "Die Unternehmensberatung McKinsey & Company hat angekündigt, KI-Agenten künftig systematisch zur Zusammenstellung von Berater-Teams für Kundenprojekte einzusetzen. Dabei werden Fähigkeiten, Erfahrungen und Verfügbarkeiten von tausenden Beratern weltweit durch KI ausgewertet, um optimale Projektteams vorzuschlagen. Der Schritt gilt als deutliches Signal für die Reife der Enterprise-KI: Wenn eine der weltgrößten Beratungsfirmen ihre eigenen Personalprozesse auf KI-Agenten umstellt, zeigt das den praktischen Reifegrad der Technologie. Die KI trifft dabei keine finale Entscheidung, beschleunigt und objektiviert den Auswahlprozess aber erheblich. Analysten sehen solche Implementierungen als Vorboten einer breiten Automatisierungswelle in wissensintensiven Berufen und erwarten ähnliche Ankündigungen von anderen großen Beratungs- und Finanzfirmen.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-05-01"
+      "titel": "KI am Arbeitsplatz verändert Jobs und kognitive Prozesse",
+      "text": "Bloomberg beleuchtet in einem aktuellen Bericht, wie Künstliche Intelligenz nicht nur Aufgaben übernimmt, sondern auch die Art verändert, wie Menschen denken und arbeiten. Von Unternehmensberatungen wie McKinsey über Anwaltskanzleien bis zu Banken ersetzen oder ergänzen KI-Agenten zunehmend menschliche Tätigkeiten in Wissensberufen. Laut Branchenprognosen werden bis 2028 rund 33 Prozent aller Unternehmensanwendungen KI-Agenten integriert haben; im Jahr 2026 dürften sie bereits 10 bis 15 Prozent der IT-Ausgaben ausmachen. Regierungen — darunter Singapur, dessen Premierminister explizit vor sozialen KI-Verwerfungen warnte — bereiten gezielte Umschulungsprogramme vor. Experten betonen, dass KI vor allem jene Berufe trifft, die lange als immun gegen Automatisierung galten: Analysten, Juristen, Berater.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-02"
+    },
+    {
+      "titel": "EU KI-Gesetz tritt ab 2. August 2026 vollständig in Kraft",
+      "text": "Das EU KI-Gesetz (AI Act) — das weltweit erste umfassende Regulierungswerk für Künstliche Intelligenz — wird am 2. August 2026 vollständig anwendbar. Bereits seit Februar 2025 gelten Verbote für bestimmte KI-Anwendungen sowie Pflichten zur KI-Kompetenz; Governance-Regeln für allgemeine KI-Modelle (GPAI) sind seit August 2025 bindend. Ab August 2026 müssen alle Betreiber sogenannter Hochrisiko-KI-Systeme in der EU sämtliche Anforderungen erfüllen — betroffen sind Entwickler und Anwender in Bereichen wie Medizin, Bildung, kritische Infrastruktur und Personalentscheidungen. Verstöße werden mit Bußgeldern von bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes geahndet. Das Gesetz gilt als globaler Maßstab und wird von mehreren Drittstaaten als Vorlage für eigene KI-Regulierungen genutzt.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-04"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Pentagon vergibt geheime KI-Verträge an acht Tech-Konzerne – Anthropic ausgeschlossen",
-      "text": "Das US-Verteidigungsministerium hat am 1. Mai 2026 Vereinbarungen mit acht Technologieunternehmen unterzeichnet, um KI-Systeme auf streng geheimen Netzwerken der Stufen Impact Level 6 und 7 einzusetzen: OpenAI, Google, Microsoft, Amazon Web Services, NVIDIA, SpaceX und Reflection wurden ausgewählt, Oracle kam kurz darauf als achtes Unternehmen hinzu. Ziel ist es, militärische Datensynthese, Entscheidungsprozesse und Lagebeurteilung durch KI zu verbessern und die USA als KI-führende Militärmacht zu positionieren. Anthropic wurde bewusst ausgeschlossen, nachdem das Unternehmen auf Sicherheitsauflagen für militärische KI-Anwendungen bestanden hatte und vom Pentagon als Lieferkettenrisiko eingestuft worden war. Für NVIDIA, Microsoft, Amazon und Google sind diese Verträge ein bedeutender Vertrauensbeweis im wachsenden Verteidigungsmarkt. Kritiker sehen in Anthropics Ausschluss ein Zeichen, dass KI-Sicherheitsbedenken zunehmend als Wettbewerbshindernis gewertet werden.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-05-01",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Anthropic verhandelt Finanzierungsrunde bei über 900 Milliarden Dollar Bewertung",
-      "text": "Anthropic prüft laut Bloomberg vom 29. April 2026 eine neue Finanzierungsrunde über 40 bis 50 Milliarden Dollar, die das Unternehmen bei über 900 Milliarden Dollar bewerten würde – damit würde es OpenAI als wertvollstes KI-Start-up der Welt ablösen. Die Verhandlungen befinden sich noch in einem frühen Stadium, eine finale Entscheidung soll auf einem Vorstandstreffen im Mai fallen. Investoren wurden laut Berichten mit einer 48-Stunden-Frist für Kapitalzusagen konfrontiert, was auf erheblichen Zeitdruck hindeutet. Zum Vergleich: Anthropics letzte Runde im Februar 2026 bewertete das Unternehmen bei 380 Milliarden Dollar, OpenAIs Rekord-Runde erzielte eine Bewertung von 852 Milliarden Dollar. Anthropic hat zuletzt einen Jahresumsatz von 30 Milliarden Dollar gemeldet und könnte bereits im Oktober 2026 an die Börse gehen.",
+      "titel": "Alphabet: Google Cloud wächst 63 Prozent — Aktie auf Jahreshoch",
+      "text": "Alphabet hat im ersten Quartal 2026 alle Erwartungen übertroffen und gilt als klarer Gewinner unter den großen Technologiekonzernen. Googles Cloud-Sparte erzielte einen Umsatz von 20 Milliarden Dollar — ein Anstieg von 63 Prozent gegenüber dem Vorjahreszeitraum. Die Aktie legte am Berichtstag um 10 Prozent zu und ist seit Jahresbeginn um 23 Prozent gestiegen — die beste Performance unter den 'Magnificent Seven'. Google Cloud macht inzwischen 18 Prozent des gesamten Alphabet-Umsatzes aus, was die wachsende Bedeutung der Cloud- und KI-Sparte unterstreicht. Analysten werten das Ergebnis als Beweis, dass Alphabets jahrelange KI-Investitionen sich auszahlen — im Gegensatz zu Wettbewerbern, die noch auf den Ertrag ihrer massiven Ausgaben warten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-04-29",
-      "unternehmen": "Anthropic"
+      "datum_artikel": "2026-05-03",
+      "unternehmen": "Alphabet"
     },
     {
-      "titel": "Google investiert bis zu 40 Milliarden Dollar in Anthropic",
-      "text": "Google hat angekündigt, bis zu 40 Milliarden Dollar in das KI-Unternehmen Anthropic zu investieren, mit einer sofortigen ersten Tranche von 10 Milliarden Dollar und weiteren bis zu 30 Milliarden Dollar, abhängig von vereinbarten Leistungsmeilensteinen. Dies ist Googles bisher größte externe Einzelinvestition und unterstreicht den strategischen Wert des Claude-Entwicklers für den Suchgiganten. Amazon hatte zuvor bis zu 25 Milliarden Dollar in Anthropic zugesagt und 5 Gigawatt Rechenkapazität für Training und Betrieb der Claude-Modelle bereitgestellt. Damit erreichen Google und Amazon zusammen ein gemeinsames Investitionsvolumen von bis zu 65 Milliarden Dollar in Anthropic. Bemerkenswert ist, dass Google trotz dieser massiven Investition gleichzeitig mit seinen eigenen Gemini-Modellen in direktem Wettbewerb mit Claude steht.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-04-24",
-      "unternehmen": "Google"
-    },
-    {
-      "titel": "Apple übertrifft Quartalszahlen – Aktie steigt um mehr als 3 Prozent",
-      "text": "Apple hat im zweiten Quartal des Geschäftsjahres 2026 sowohl beim Umsatz als auch beim Gewinn die Analystenerwartungen übertroffen und damit die Aktie um mehr als 3 Prozent nach oben getrieben. Das Unternehmen profitierte von starker iPhone-Nachfrage und wachsenden Services-Einnahmen. Die starken Zahlen trugen maßgeblich dazu bei, dass der S&P 500 am 30. April und 1. Mai neue Allzeithöchststände erreichte. Apple arbeitet gleichzeitig an einer grundlegenden Überarbeitung von Siri als integriertem KI-Chatbot für iOS 27, um der wachsenden Konkurrenz durch OpenAI und Google standzuhalten. Mit der starken Quartalsbilanz zählt Apple zu den zentralen Treibern der laufenden Tech-Rally an der Wall Street.",
+      "titel": "Apple: Rekordumsatz von 111 Milliarden Dollar im Q2 2026",
+      "text": "Apple hat im zweiten Quartal 2026 einen Rekordumsatz von 111,2 Milliarden Dollar erzielt — ein Anstieg von 17 Prozent gegenüber dem Vorjahreszeitraum. Der Gewinn je Aktie lag bei 2,01 Dollar und übertraf die Markterwartungen deutlich. Apple-Chef Tim Cook bezeichnete das iPhone 17 als 'beliebteste Produktlinie in unserer Geschichte'; das Chinageschäft wuchs um 28 Prozent auf 20,5 Milliarden Dollar. Die Bruttomarge stieg auf 49,3 Prozent, und für das dritte Quartal 2026 erwartet Apple einen Umsatz von bis zu 110 Milliarden Dollar. Die Aktie legte nach Marktschluss um mehr als 5 Prozent zu; Analysten sehen in der bevorstehenden Einführung KI-gestützter Siri-Funktionen weiteres Wachstumspotenzial für das laufende Jahr.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-04-30",
       "unternehmen": "Apple"
     },
     {
-      "titel": "Microsoft gibt 25 Milliarden Dollar mehr für KI-Chips aus – Big Tech bricht Investitionsrekord",
-      "text": "Microsoft hat bei der Vorlage seiner jüngsten Quartalsergebnisse bekannt gegeben, dass allein 25 Milliarden Dollar seines KI-Budgets auf gestiegene Kosten für Speicherchips und Prozessoren entfallen. Zusammen mit Google, Amazon und Meta summieren sich die Kapitalausgaben der großen US-Tech-Konzerne für KI-Infrastruktur auf einen Rekordwert von rund 725 Milliarden Dollar. Microsofts Azure-KI-Dienste verzeichneten starkes Wachstum, getrieben durch die Partnerschaft mit OpenAI und den breiten Unternehmenseinsatz von Copilot. Google Cloud erzielte im selben Quartal 20 Milliarden Dollar Umsatz, was einem Wachstum von 63 Prozent im Jahresvergleich entspricht. Microsoft ist zudem eines der acht Unternehmen, die neue Pentagon-Verträge für KI auf klassifizierten Netzwerken erhalten haben.",
+      "titel": "Meta verliert 8 Prozent — schuldenfinanzierte KI-Ausgaben schrecken Investoren ab",
+      "text": "Meta Platforms verlor an einem einzigen Handelstag mehr als 8 Prozent, obwohl das Unternehmen solide Quartalsergebnisse vorgelegt hatte. Auslöser war die Kritik an CEO Mark Zuckerbergs Strategie, massive KI-Investitionen zunehmend über Schulden zu finanzieren, ohne konkrete Renditeversprechen zu machen. Bob Savage, Marktstratege bei BNY, fasste die Investorenreaktion so zusammen: 'Wer sich verschuldet, um weiter in KI-Rechenzentren zu investieren, wird bestraft.' Meta steht damit exemplarisch für eine wachsende Kluft am Markt: Unternehmen, die KI-Erträge bereits realisieren, werden belohnt — jene, die nur Ausgaben melden, werden abgestraft. Die schuldenfinanzierte Ausgabenpolitik macht Meta zudem anfälliger für Zinsänderungen in einer Phase, in der die Fed höhere Zinsen länger beibehält.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01",
+      "datum_artikel": "2026-05-03",
+      "unternehmen": "Meta"
+    },
+    {
+      "titel": "Microsoft plant 190-Milliarden-Dollar-KI-Investitionspaket — Aktie fällt 4 Prozent",
+      "text": "Microsoft hat angekündigt, im Jahr 2026 rund 190 Milliarden Dollar in KI-Infrastruktur zu investieren — vor allem in Azure-Cloud-Kapazitäten, Rechenzentren und KI-Chips. Obwohl das Unternehmen für Azure eine beschleunigte Umsatzentwicklung prognostizierte, reagierten Investoren skeptisch: Die Aktie fiel am Berichtstag um fast 4 Prozent. Kritisch sehen Marktteilnehmer das Missverhältnis zwischen dem enormen Investitionsvolumen und den noch nicht vollständig realisierten KI-Einnahmen. Microsoft-Chef Satya Nadella verwies auf die starke Nachfrage nach Copilot- und Azure-KI-Diensten als Bestätigung des eingeschlagenen Kurses. Der Fall Microsoft verdeutlicht, wie hoch die Messlatte geworden ist: Nur wer KI-Ausgaben durch konkrete Einnahmen belegen kann, gewinnt das Vertrauen der Märkte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-04-30",
       "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "OpenAI und NVIDIA sichern sich Pentagon-KI-Verträge für klassifizierte Netzwerke",
+      "text": "OpenAI und NVIDIA gehören zu den acht Technologieunternehmen, die geheime KI-Verträge mit dem US-Verteidigungsministerium abgeschlossen haben und ihre Modelle künftig auf den höchst klassifizierten Netzwerken des Pentagons einsetzen dürfen. Die Vereinbarungen sehen den Einsatz von KI zur Datenanalyse, Entscheidungsunterstützung und militärischen Lageeinschätzung vor. Für OpenAI ist der Deal trotz öffentlicher Kontroverse strategisch bedeutsam: Er festigt die Position im wachsenden KI-Verteidigungsmarkt, auch wenn das Bekanntwerden des ersten Pentagon-Abkommens einen Anstieg der ChatGPT-Deinstallationen um 413 Prozent ausgelöst hatte. NVIDIA profitiert indirekt, da alle Pentagon-KI-Partner voraussichtlich verstärkt auf NVIDIA-Hardware setzen werden. Der Schritt dürfte die Debatte über die ethischen Grenzen militärischer KI-Nutzung weiter anheizen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-01",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 schließt auf neuem Allzeithoch bei 7.230 Punkten",
-      "text": "Der S&P 500 erreichte am 1. Mai 2026 ein neues Allzeithoch und schloss bei 7.230,12 Punkten, getrieben von starken Quartalsberichten der Mega-Cap-Technologiekonzerne und einem Apple-Kursanstieg von über 3 Prozent. Der Nasdaq Composite überschritt erstmals die Marke von 25.000 Punkten und schloss bei 25.114,44 – ebenfalls ein neues Allzeithoch. Über 80 Prozent der im S&P 500 enthaltenen Unternehmen haben die Gewinnerwartungen für das abgelaufene Quartal übertroffen, was auf breite fundamentale Stärke hindeutet. Der Dow Jones gab leicht um 153 Punkte auf 49.499 nach, was die insgesamt positive Marktdynamik kaum trübte. Analysten sehen die Rally als Bestätigung, dass die KI-Investitionsthese durch konkrete Unternehmensgewinne der laufenden Berichtssaison untermauert wird.",
+      "titel": "S&P 500 und Nasdaq auf Allzeithochs — Hedgefonds-Zuflüsse bei 45 Milliarden Dollar",
+      "text": "Der S&P 500 hat am 1. Mai 2026 mit 7.272,52 Punkten ein neues Allzeithoch erreicht, der Nasdaq 100 schloss ebenfalls auf Rekordniveau. Treiber sind starke Quartalszahlen der Tech-Giganten — allen voran Alphabet (+10 Prozent) und Apple (+5 Prozent nach Börsenschluss) — sowie sinkende Ölpreise. Hedgefonds verzeichneten Nettozuflüsse von 45 Milliarden Dollar, ein Zeichen für gestiegenes institutionelles Vertrauen. Bemerkenswert: Die Rallye hält trotz des anhaltenden Iran-Kriegs, Ölpreisen über 100 Dollar je Barrel und einer US-Notenbank, die höhere Zinsen für längere Zeit signalisiert hat. Terminmärkte beginnen bereits, die Möglichkeit einer Zinserhöhung im Jahr 2027 einzupreisen — ein Risiko, das viele Anleger noch weitgehend ignorieren.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-01"
     },
     {
-      "titel": "Bloomberg: Steckt der Aktienmarkt in einem 'Melt-Up'? Hedge Funds fließen 45 Milliarden zu",
-      "text": "Bloomberg analysierte am 2. Mai 2026, ob der aktuelle Börsenaufschwung die Merkmale eines 'Melt-Up' trägt – also eines irrationalen Kursanstiegs, bei dem Anleger aus Angst, eine Rally zu verpassen, zunehmend risikoreich agieren. Hedge-Fonds flossen allein in der vergangenen Woche rund 45 Milliarden Dollar zu, und High-Yield-Kreditspreads liegen nahe Mehrjahrestiefs. Die Rally hält trotz makroökonomischer Gegenwindes stand: Krieg im Iran, Ölpreise über 100 Dollar pro Barrel und eine Fed, die Zinsen länger hoch hält als erwartet. Privatanleger treiben aggressiv Nulltages-Optionen und Prognosemärkte. Bloomberg sieht gemischte Signale: echte fundamentale Stärke durch KI-Unternehmensgewinne steht einer überschießenden Risikobereitschaft gegenüber.",
+      "titel": "Fed hält Leitzinsen stabil — wachsende Uneinigkeit unter Notenbankern",
+      "text": "Die US-Notenbank Federal Reserve hat ihre Leitzinsen erneut unverändert bei einem effektiven Satz von 3,64 Prozent belassen, wie von Märkten erwartet. Allerdings stimmten vier Mitglieder des Offenmarktausschusses (FOMC) gegen die Entscheidung — ein deutliches Signal wachsender interner Uneinigkeit über den künftigen geldpolitischen Kurs. Hintergrund ist die hartnäckige Inflation, die trotz früherer Zinserhöhungen über dem Zielwert verharrt, sowie erhöhte Unsicherheit durch den Iran-Konflikt und anhaltend hohe Energiepreise. Für Gold- und Anleihemärkte bedeutet das Signal einer länger andauernden Hochzinsphase erhöhte Volatilität. Terminmärkte preisen nun sogar die Möglichkeit einer Zinserhöhung im Jahr 2027 ein — ein Szenario, das bis vor Kurzem als unwahrscheinlich galt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-02"
     },
     {
-      "titel": "Gold bei 4.600 Dollar – Fed hält Zinsen konstant, Nachfrage auf Rekordniveau",
-      "text": "Der Goldpreis notierte Anfang Mai 2026 bei knapp 4.600 Dollar je Unze, nach einem zwischenzeitlichen Höchststand von über 5.500 Dollar im Jahresverlauf. Die US-Notenbank Fed beließ den Leitzins zuletzt unverändert bei 3,50 bis 3,75 Prozent; laut CME Group rechnen 94,9 Prozent der Marktteilnehmer im Juni mit keiner Änderung. Haupttreiber des hohen Goldpreises sind anhaltende geopolitische Spannungen im Nahen Osten, insbesondere die weitgehende Schließung der Straße von Hormus. Laut World Gold Council erreichte die globale Goldnachfrage im ersten Quartal 2026 mit 1.230,9 Tonnen einen neuen Rekordwert, 2 Prozent über dem Vorjahr. Bank of America hat ein 12-Monats-Kursziel von 6.000 Dollar für Gold ausgegeben und begründet dies mit Investitionsnachfrage, US-Fiskaldefiziten und mittelfristig erwarteten Zinssenkungen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-02"
+      "titel": "Goldpreis bei 4.620 Dollar — Rekordnachfrage und Geopolitik stützen den Kurs",
+      "text": "Gold notiert am 4. Mai 2026 bei rund 4.620 Dollar je Unze und stabilisiert sich oberhalb der Unterstützungszone bei 4.555 Dollar. Rückenwind kommt von mehreren Seiten: Die globale Goldnachfrage erreichte im ersten Quartal 2026 mit 1.230,9 Tonnen (+2 Prozent gegenüber Vorjahr) einen neuen Rekord, getragen durch Zentralbankkäufe und steigende Investmentnachfrage infolge der Nahostkrise. Die Entscheidung der Federal Reserve, die Zinsen stabil zu halten, und die Schwäche des US-Dollars liefern zusätzlichen Auftrieb. Große Banken bleiben bullish: Goldman Sachs hält an einem Jahresziel von 5.400 Dollar je Unze fest, JPMorgan sieht 5.500 Dollar und UBS hält sogar 6.000 Dollar für möglich. Für Anleger gilt Gold weiterhin als zentraler Schutz gegen Inflation und geopolitische Risiken.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-04"
     }
   ]
 }
