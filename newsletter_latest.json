@@ -1,93 +1,93 @@
 {
-  "datum": "Mittwoch, 6. Mai 2026",
-  "generiert": "2026-05-06",
+  "datum": "Donnerstag, 7. Mai 2026",
+  "generiert": "2026-05-07",
   "ki_stories": [
     {
-      "titel": "Google, Microsoft und xAI gewähren US-Behörde Vorab-Zugang zu KI-Modellen",
-      "text": "Google, Microsoft und xAI haben sich verpflichtet, dem US-Handelsministerium Vorab-Zugang zu ihren KI-Modellen zu gewähren, bevor diese öffentlich veröffentlicht werden. Damit schließen sie sich OpenAI und Anthropic an, die ihre bestehenden Vereinbarungen mit dem zuständigen Zentrum für KI-Standards und Innovation (CAISI) neu verhandelt haben. Die Unternehmen stellen ihre Modelle mit reduzierten Sicherheitsfiltern zur Verfügung, um eine gründliche Risikoprüfung zu ermöglichen. Das CAISI hat bislang mehr als 40 Bewertungen von KI-Modellen abgeschlossen, darunter auch noch unveröffentlichte Systeme. Die Vereinbarungen sollen die Sicherheit der Technologie stärken und mit dem KI-Aktionsplan der Trump-Administration in Einklang gebracht werden.",
+      "titel": "Anthropic überholt OpenAI: Erstmals 30 Mrd. Dollar Jahresumsatz erreicht",
+      "text": "Anthropic hat zum ersten Mal OpenAI beim annualisierten Jahresumsatz überholt: Das Unternehmen erzielte einen ARR von 30 Milliarden Dollar, während OpenAI bei 24 Milliarden Dollar liegt. Haupttreiber sind Unternehmenskunden, die agentenbasierte KI-Workflows auf Basis von Claude einsetzen - nicht die breite Konsumenten-Nutzung. Diese Verschiebung signalisiert einen strukturellen Wandel im KI-Markt: Enterprise-Automatisierung mit autonomen Agenten wächst schneller als der klassische Chatbot-Markt. Für die KI-Branche insgesamt zeigt dies, dass spezialisierte, auf Geschäftsprozesse ausgerichtete Modelle gegenüber allgemeinen Assistenten klar an Bedeutung gewinnen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-05"
     },
     {
-      "titel": "Pentagon vergibt KI-Verträge an 8 Tech-Konzerne – Anthropic bleibt ausgeschlossen",
-      "text": "Das US-Verteidigungsministerium hat KI-Vereinbarungen mit OpenAI, Google, Microsoft, Amazon, Oracle, NVIDIA, SpaceX und Reflection AI abgeschlossen, die den Einsatz von KI auf streng geheimen Netzwerken der Stufen Impact Level 6 und 7 ermöglichen. Die KI-Systeme sollen militärische Analysen, Logistik und Datenverarbeitung unterstützen und die Entscheidungsfähigkeit des Militärs verbessern. Anthropic wurde bewusst ausgeschlossen, nachdem das Unternehmen sich geweigert hatte, militärische Nutzungsbedingungen zu akzeptieren, die auch autonome Waffensysteme und Massenüberwachung einschlossen. Verteidigungsminister Pete Hegseth bezeichnete Anthropic-CEO Dario Amodei öffentlich als 'ideologischen Fanatiker'. Anthropic ficht die daraufhin verhängte Einstufung als Lieferketten-Risiko nun vor Gericht an.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01"
+      "titel": "Anthropic veröffentlicht Claude Opus 4.7 mit 13% Coding-Sprung",
+      "text": "Anthropic hat Claude Opus 4.7 allgemein verfügbar gemacht und setzt damit einen neuen Maßstab für KI-gestütztes Software-Engineering. Auf einem internen 93-Aufgaben-Benchmark für komplexe Code-Aufgaben löst Opus 4.7 nun 13 Prozent mehr Aufgaben als sein Vorgänger Opus 4.6. Das Modell bearbeitet lang laufende Aufgaben präziser, überprüft eigene Ergebnisse und hält Anweisungen genauer ein. Zusätzlich wurde die Bildverarbeitung erheblich verbessert: Opus 4.7 analysiert Bilder in höherer Auflösung und erstellt qualitativ hochwertigere visuelle Outputs wie Präsentationen und Dokumente. Das Modell steht sofort über alle Claude-Produkte, die API, Amazon Bedrock, Google Vertex AI und Microsoft Foundry zur Verfügung.",
+      "quelle": "Anthropic",
+      "datum_artikel": "2026-05-06"
     },
     {
-      "titel": "Anthropic bringt 10 KI-Agenten für Banken, Versicherungen und Asset Manager",
-      "text": "Anthropic hat zehn einsatzbereite KI-Agenten-Vorlagen für seine Claude-Plattform veröffentlicht, die auf Aufgaben wie Pitch-Deck-Erstellung, KYC-Prüfung, Ergebnisanalyse und Monatsabschluss zugeschnitten sind. Die Werkzeuge richten sich an Profis aus Bankwesen, Versicherung, Asset Management und Finanztechnologie und können über Claude, Claude Code oder als Managed-Agents-Vorlagen eingesetzt werden. Zusätzlich integriert Claude nun Microsoft-365-Anwendungen wie Excel, PowerPoint und Word über neue Add-ins. Finanzinstitute machen laut Anthropic rund 40 Prozent der 50 größten Kunden aus, darunter Goldman Sachs, Visa, Citi und AIG. Die Aktie von Thomson Reuters fiel trotz starker Quartalszahlen, weil Anleger die neuen Agenten als ernsthafte Bedrohung für traditionelle Finanzanalyse-Software bewerten.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAI macht GPT-5.5 Instant zum neuen Standard in ChatGPT",
+      "text": "OpenAI hat am 5. Mai 2026 GPT-5.5 Instant als neues Standardmodell für ChatGPT eingeführt und damit GPT-5.3 Instant abgelöst. In internen Tests produzierte das neue Modell 52,5 Prozent weniger fehlerhafte Faktenaussagen bei medizinischen, rechtlichen und finanziellen Fragen. Die Antworten sind im Schnitt 30 Prozent kürzer, ohne an Informationsgehalt zu verlieren. Dazu kommt eine verbesserte Personalisierung, die frühere Gespräche, hochgeladene Dateien und verknüpfte Gmail-Konten einbezieht. GPT-5.5 Instant steht sofort für Free-, Plus- und Pro-Nutzer bereit; die vollständige Personalisierungsfunktion wird schrittweise ausgerollt.",
+      "quelle": "OpenAI",
       "datum_artikel": "2026-05-05"
     },
     {
-      "titel": "Weißes Haus plant Pflicht-Review neuer KI-Modelle vor öffentlicher Freigabe",
-      "text": "Die Trump-Administration prüft laut einem Bericht der New York Times die Einführung einer staatlichen Prüfpflicht für neue KI-Modelle, bevor diese öffentlich veröffentlicht werden dürfen. Geplant ist ein Exekutivdekret, das eine branchenübergreifende KI-Arbeitsgruppe einrichten und einen formellen Bewertungsprozess für neue Modelle etablieren würde. Die Initiative steht im Zusammenhang mit einer Serie von Maßnahmen zur Stärkung der KI-Aufsicht, nachdem mehrere Tech-Konzerne bereits freiwilligen Pre-Deployment-Bewertungen zugestimmt haben. Der Schritt markiert eine deutliche Verschiebung der US-Regulierungspolitik, die bislang stark auf Selbstregulierung der Branche gesetzt hatte. Beobachter sehen darin auch eine Reaktion auf die wachsende internationale KI-Konkurrenz, insbesondere aus China.",
-      "quelle": "Bloomberg",
+      "titel": "Anthropic launcht Claude Design und Claude Security in der Beta",
+      "text": "Neben Opus 4.7 hat Anthropic gleich zwei neue Produktlinien gestartet. Claude Design, ein Produkt aus dem Anthropic Labs, ermöglicht die Zusammenarbeit mit Claude zur Erstellung visueller Outputs wie Designs, Prototypen, Präsentationen und Dokumente. Claude Security befindet sich in der Public Beta und nutzt Opus 4.7, um ganze Codebasen zu scannen, Datenflüsse zu verfolgen und Sicherheitslücken direkt innerhalb einer Claude Code-Sitzung zu patchen. Zusätzlich hat Anthropic fertige Finance-Agenten-Templates veröffentlicht, die zeitaufwändige Aufgaben im Finanzbereich wie die Erstellung von Pitchbooks und KYC-Screening automatisieren.",
+      "quelle": "Anthropic",
+      "datum_artikel": "2026-05-06"
+    },
+    {
+      "titel": "DeepSeek-V4-Flash: Frontier-KI mit minimalem Rechenaufwand aus China",
+      "text": "Das chinesische KI-Labor DeepSeek hat mit V4-Flash ein Modell mit 284 Milliarden Parametern in einer Mixture-of-Experts-Architektur veröffentlicht, das pro Verarbeitungsschritt nur 13 Milliarden Parameter aktiviert. Das ist der niedrigste Aktivierungs-Footprint unter allen Frontier-Modellen weltweit und macht das System deutlich kosteneffizienter als Wettbewerber. Trainiert auf 32 Billionen Tokens und mit einem Kontextfenster von einer Million Tokens ist V4-Flash besonders für komplexe, langfristige Agentenaufgaben geeignet. Das Modell zeigt, dass chinesische KI-Labore trotz US-Chip-Exportbeschränkungen weiterhin an der globalen Spitze konkurrieren.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-04"
-    },
-    {
-      "titel": "DeepSeek zeigt neues Flaggschiff-KI-Modell ein Jahr nach dem Silicon-Valley-Schock",
-      "text": "Das chinesische KI-Unternehmen DeepSeek hat sein neues Flaggschiff-Modell vorgestellt, genau ein Jahr nachdem sein Debüt die US-Tech-Branche in Aufruhr versetzt hatte. Das erste DeepSeek-Modell hatte Anfang 2025 die Annahme erschüttert, dass nur extrem kostspielige Hardware und Milliarden-Budgets wettbewerbsfähige KI-Systeme hervorbringen können. Das neue Modell soll die Stärken des Vorgängers weiter ausbauen und stellt eine direkte Herausforderung für führende US-Modelle dar. Die Veröffentlichung zeigt, dass China trotz US-Chip-Exportbeschränkungen weiterhin an der Weltspitze der KI-Entwicklung mithalten kann. In der US-Industrie und in Washington wird die Entwicklung mit großer Aufmerksamkeit verfolgt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-04-24"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI finalisiert 10-Milliarden-Dollar-Venture mit 19 Private-Equity-Partnern",
-      "text": "OpenAI hat ein gemeinsames Unternehmen mit einem Gesamtvolumen von 10 Milliarden Dollar abgeschlossen, an dem 19 Private-Equity-Investoren beteiligt sind, darunter TPG, Brookfield Asset Management, Advent und Bain Capital. Insgesamt wurden mehr als 4 Milliarden Dollar an frischem Kapital eingeworben. Das neue Unternehmen soll Geschäftskunden dabei helfen, OpenAIs KI-Software in ihre Prozesse zu integrieren und zu skalieren. Die Transaktion kommt knapp sechs Wochen nach OpenAIs Bekanntgabe einer Gesamtfinanzierungsrunde von 122 Milliarden Dollar bei einer Bewertung von 852 Milliarden Dollar Ende März. Mit dem Venture-Ansatz baut OpenAI sein Unternehmensgeschäft gezielt aus und erhöht den Druck auf Konkurrenten wie Anthropic.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-04",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Anthropic gründet 1,5-Milliarden-Dollar-Jointventure mit Blackstone und Goldman Sachs",
-      "text": "Anthropic hat gemeinsam mit Blackstone, Hellman & Friedman und Goldman Sachs ein neues KI-Dienstleistungsunternehmen im Volumen von 1,5 Milliarden Dollar gegründet. Anthropic, Blackstone und Hellman & Friedman tragen jeweils rund 300 Millionen Dollar bei, Goldman Sachs 150 Millionen Dollar. Das neue Unternehmen soll Claude-KI direkt in Unternehmensabläufe einbetten und als spezialisierter Implementierungspartner für große Firmen fungieren. Parallel dazu befindet sich Anthropic laut Berichten in der Schlussphase einer eigenen Finanzierungsrunde über 50 Milliarden Dollar bei einer angestrebten Gesamtbewertung von 900 Milliarden Dollar. Die Initiativen zeigen Anthropics wachsenden Fokus auf das Unternehmensgeschäft, auch als Reaktion auf den Ausschluss aus den Pentagon-Verträgen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-04",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Meta übernimmt Robotik-KI-Startup Assured Robot Intelligence",
-      "text": "Meta Platforms hat das Start-up Assured Robot Intelligence übernommen, das auf KI-Modelle für die Steuerung und Sicherheit von Robotern spezialisiert ist. Die Akquisition ist Teil von Metas groß angelegter Initiative zur Entwicklung humanoider Technologie, die im Bereich Reality Labs angesiedelt ist. Assured Robot Intelligence bringt spezialisiertes Know-how für autonome Robotersysteme mit, das Metas bisherige KI-Forschung gezielt ergänzt. Über den Kaufpreis machte Meta keine Angaben. Die Übernahme unterstreicht den zunehmenden Wettbewerb der großen Tech-Konzerne im Bereich physischer KI und Robotik, in dem auch Tesla, Google und Amazon aktiv sind.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01",
+      "titel": "Meta mit Rekordquartal: Umsatz +33%, Gewinn je Aktie +61%",
+      "text": "Meta Platforms hat im ersten Quartal 2026 einen Umsatz von 56,3 Milliarden Dollar erzielt, ein Wachstum von 33 Prozent gegenüber dem Vorjahr und eine deutliche Beschleunigung gegenüber dem Vorquartal mit 24 Prozent Wachstum. Der Gewinn je Aktie stieg um 61 Prozent auf 10,44 Dollar und übertraf damit die Erwartungen erheblich. Gleichzeitig erhöhte Meta die obere Grenze seiner Investitionsausgaben für 2026 auf 145 Milliarden Dollar, da der Konzern massiv in KI-Infrastruktur investiert. Das Ergebnis bestätigt, dass Metas KI-gestützte Werbeoptimierung auf Reels und im Feed weiterhin außergewöhnlich hohe Renditen erzielt.",
+      "quelle": "Fortune",
+      "datum_artikel": "2026-04-30",
       "unternehmen": "Meta"
     },
     {
-      "titel": "NVIDIA und Microsoft sichern sich Pentagon-Verträge für geheime KI-Netzwerke",
-      "text": "NVIDIA und Microsoft gehören zu den acht Tech-Unternehmen, die Verträge mit dem US-Verteidigungsministerium über den Einsatz von KI auf streng geheimen Netzwerken geschlossen haben. Microsoft und Amazon stellen dabei sowohl KI-Modelle als auch die notwendige Cloud-Infrastruktur innerhalb bestehender sicherer Netzwerke bereit und vermeiden so den Aufbau neuer klassifizierter Rechenumgebungen von Grund auf. Für NVIDIA bedeutet die Vereinbarung eine direkte Integration seiner Chip- und KI-Technologie in militärische Systeme und eine strategische Positionierung als unverzichtbarer KI-Infrastrukturanbieter. Das Verteidigungsministerium setzt auf die höchsten zivilen Geheimhaltungsstufen Impact Level 6 und 7. Analysten sehen die Verträge als weiteren Beleg für NVIDIAs dominante Stellung, die weit über den zivilen KI-Markt hinausreicht.",
+      "titel": "Alphabet-Aktie verdoppelt sich: KI-Umsatz steigt um fast 800%",
+      "text": "Alphabet hat mit den Q1-Ergebnissen 2026 alle Wettbewerber weit hinter sich gelassen: Die Aktie hat sich in den vergangenen zwölf Monaten mehr als verdoppelt. Der Umsatz aus Produkten auf Basis generativer KI-Modelle stieg um fast 800 Prozent. Die zahlenden Nutzer von Gemini Enterprise wuchsen im letzten Quartal um 40 Prozent. Google Cloud profitiert besonders von der starken Nachfrage nach dem Gemini 3 Modell und unternehmensweiten Agentenworkflows. Im Gegensatz zu Microsoft und Amazon konnte Alphabet Analysten klar übertreffen.",
+      "quelle": "Fortune",
+      "datum_artikel": "2026-04-30",
+      "unternehmen": "Alphabet"
+    },
+    {
+      "titel": "Microsoft enttäuscht zum dritten Mal in Folge trotz 81 Mrd. Dollar Umsatz",
+      "text": "Microsoft hat im zweiten Fiskalquartal 2026 einen Umsatz von 81,3 Milliarden Dollar gemeldet, ein Plus von 17 Prozent gegenüber dem Vorjahr. Der Cloud-Bereich steuerte 51,5 Milliarden Dollar bei. Trotzdem enttäuschte Microsoft Analysten zum dritten Quartal in Folge. Für 2026 plant der Konzern Investitionsausgaben von 190 Milliarden Dollar in KI-Infrastruktur, deutlich mehr als die von der Wall Street erwarteten 154 Milliarden Dollar. Anleger reagierten verhalten auf die Zahlen, da Konkurrenten wie Alphabet und Meta deutlich stärker abschnitten.",
+      "quelle": "Fortune",
+      "datum_artikel": "2026-04-30",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "NVIDIA erwartet Q1-Umsatz von 78,5 Mrd. Dollar - Zahlen am 20. Mai",
+      "text": "NVIDIA legt am 20. Mai 2026 seine Ergebnisse für das erste Quartal vor. Analysten erwarten einen Umsatz von 78,5 Milliarden Dollar, ein Anstieg von 78,2 Prozent gegenüber dem Vorjahreszeitraum. Der Gewinn je Aktie wird auf 1,76 Dollar geschätzt, was einer Steigerung von 116,9 Prozent entspricht. Die anhaltend starke Nachfrage nach KI-Chips und Rechenzentrumskapazitäten treibt diese Wachstumsraten. Spekulationen über noch stärkere Ergebnisse angesichts der globalen KI-Investitionswelle haben die NVIDIA-Aktie im Vorfeld der Zahlen weiter gestützt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-01",
+      "datum_artikel": "2026-05-05",
       "unternehmen": "NVIDIA"
     },
     {
-      "titel": "Thomson Reuters trotz starker Q1-Zahlen unter Druck: KI-Disruption schürt Anlegersorgen",
-      "text": "Die Aktie von Thomson Reuters geriet am 5. Mai 2026 deutlich unter Druck, obwohl das Unternehmen für das erste Quartal solide Ergebnisse gemeldet hatte. Auslöser war die gleichzeitige Ankündigung von Anthropic, zehn neue KI-Agenten für Finanzdienstleistungen zu lancieren, die direkt mit Produkten wie Westlaw oder Practical Law konkurrieren könnten. Anleger befürchten, dass auf KI spezialisierte Angebote traditionelle Informationsdienstleister langfristig unter Margendruck setzen werden. Thomson Reuters hatte zuletzt selbst stark in eigene KI-Kapazitäten investiert, wird aber von spezialisierten KI-Anbietern zunehmend herausgefordert. Der Fall illustriert, wie selbst profitable und wachsende Unternehmen vom Markt abgestraft werden, sobald neue KI-Konkurrenz auftaucht.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05",
-      "unternehmen": "Thomson Reuters"
+      "titel": "Pentagon schließt KI-Verträge mit 8 Unternehmen für klassifizierte Netze",
+      "text": "Das US-Verteidigungsministerium hat Vereinbarungen mit acht KI-Unternehmen unterzeichnet, um große Sprachmodelle auf klassifizierten Militärnetzwerken der Sicherheitsstufen IL6 und IL7 einzusetzen. Zu den zertifizierten Partnern gehören OpenAI, Google, NVIDIA, Microsoft, Amazon Web Services, SpaceX, Oracle und Reflection. Googles Gemini-Modell wurde explizit für klassifizierte Aufgaben ausgewählt. Dieser Schritt stellt die bisher tiefste Integration kommerzieller KI in das US-Militär dar und dürfte die Nachfrage nach sicherheitszertifizierten KI-Systemen erheblich ankurbeln.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-03",
+      "unternehmen": "US-Verteidigung"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 und Nasdaq im Plus, Dow schwächer: Ölpreis bei 114 Dollar durch US-Iran-Spannungen",
-      "text": "Am 6. Mai 2026 zeigte der US-Aktienmarkt ein gespaltenes Bild: Der S&P 500 stieg um rund 0,75 Prozent und der Nasdaq um 0,94 Prozent, während der Dow Jones um 0,61 Prozent nachgab. Haupttreiber waren stark steigende Ölpreise infolge eskalierender US-Iran-Spannungen, wobei Brent-Rohöl auf rund 114,50 Dollar je Barrel kletterte. Tech-Aktien profitierten von der anhaltend starken KI-Investitionsstimmung, während klassische Industriewerte unter den steigenden Energiekosten litten. Früher in der Sitzung hatte Brent-Rohöl zeitweise bei fast 119,50 Dollar gelegen, dem höchsten Stand seit vier Jahren. Geopolitische Risiken bleiben ein zentrales Marktthema: Investoren verfolgen die Lage im Nahen Osten mit Blick auf mögliche Inflationsrisiken und die Auswirkungen auf die künftige Geldpolitik der Fed.",
+      "titel": "US-Iran-Spannungen treiben DAX auf 25.115 Punkte - S&P 500 +1,12%",
+      "text": "Die globalen Aktienmärkte legten am 7. Mai 2026 deutlich zu, ausgelöst durch geopolitische Spannungen zwischen den USA und dem Iran nach einer Rede von Präsident Trump. Brent-Rohöl stieg zeitweise auf über 114,5 Dollar je Barrel. Der DAX schloss 2,93 Prozent höher bei 25.115 Punkten, der S&P 500 gewann 1,12 Prozent. Dow Jones und Nasdaq folgten ebenfalls positiv. Gleichzeitig stützten die Spannungen Sicherheitswerte wie Gold und US-Staatsanleihen. Die Lage im Nahen Osten gilt als zentrales Marktrisiko für die kommenden Wochen.",
       "quelle": "Reuters",
+      "datum_artikel": "2026-05-07"
+    },
+    {
+      "titel": "Gold auf historischem Hoch: Kurs erreicht 4.697 Dollar je Unze",
+      "text": "Gold hat sich im Mai 2026 auf einem historisch hohen Niveau gefestigt und erreichte am 6. Mai einen Kurs von 4.697 US-Dollar je Unze, ein wöchentliches Plus von 3,4 Prozent. Als Haupttreiber gelten der US-Iran-Konflikt, anhaltende Sorgen um die US-Staatsverschuldung sowie starke Nachfrage aus dem asiatischen Raum. Am 7. Mai versuchte Gold, sich von zwischenzeitlichen Rückgängen zu erholen, und stieg erneut an. Gold verzeichnet damit eine der stärksten Perioden seiner jüngeren Geschichte und bleibt die bevorzugte Absicherung gegen Marktvolatilität und geopolitische Risiken.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-06"
     },
     {
-      "titel": "Fed hält Leitzins bei 3,5 bis 3,75 Prozent: Powells letztes Meeting endet mit historischem Patt",
-      "text": "Die US-Notenbank Federal Reserve hat in ihrer Sitzung vom 29. April 2026 die Leitzinsen zum dritten Mal in Folge unverändert im Bereich von 3,5 bis 3,75 Prozent belassen. Die Entscheidung fiel mit einem ungewöhnlich engen 8:4-Votum – so viele Gegenstimmen gab es seit Oktober 1992 nicht mehr. Drei Mitglieder lehnten Formulierungen ab, die mögliche künftige Zinssenkungen andeuten, während ein viertes Mitglied, Stephen Miran, sofortige Zinssenkungen forderte. Fed-Chef Jerome Powell bestätigte, dass er nach dem Ende seiner Amtszeit am 15. Mai 2026 aus der Führungsrolle ausscheidet, aber als Governor bis 2028 im Vorstand verbleibt. Als Nachfolger ist Kevin Warsh vorgesehen, dessen Nominierung der Senatsausschuss bereits entlang der Parteilinie gebilligt hat.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-04-29"
-    },
-    {
-      "titel": "Gold bei über 4.560 Dollar je Unze: Geopolitik, Inflation und Fed-Unsicherheit treiben sichere Häfen",
-      "text": "Der Goldpreis notierte am 5. und 6. Mai 2026 im Bereich von 4.560 bis 4.577 Dollar je Unze und erholte sich damit von einem Monatstief, das Anfang der Woche erreicht worden war. Haupttreiber der Erholung sind anhaltende geopolitische Spannungen im Nahen Osten sowie Inflationssorgen, die durch den stark gestiegenen Ölpreis verstärkt werden. Auch die Unsicherheit rund um den bevorstehenden Wechsel an der Fed-Spitze stützt die Nachfrage nach sicheren Anlagen. Gold hatte im Jahr 2025 rund 48 Prozent zugelegt und die Performance des S&P 500 deutlich übertroffen; 2026 setzt sich der strukturelle Aufwärtstrend bisher fort. Analysten sehen den mittelfristigen Preiskorridor bei 4.000 bis 4.500 Dollar, getragen durch Zentralbankkäufe und anhaltende ETF-Zuflüsse.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05"
+      "titel": "Big Tech plant 700 Mrd. Dollar KI-Investitionen 2026 - ohne Ende in Sicht",
+      "text": "Amazon, Microsoft, Google und Meta wollen in diesem Jahr zusammen rund 700 Milliarden Dollar in KI-Infrastruktur investieren. Microsoft plant allein 190 Milliarden Dollar, deutlich mehr als von Analysten erwartet. Alphabet führt das Feld mit der stärksten Aktienperformance an, gefolgt von Meta und Amazon. Diese historisch beispiellosen Investitionsausgaben treiben die Nachfrage nach Rechenzentren, Hochleistungschips von NVIDIA und TSMC sowie Energie und Glasfaser. Für FTSE-All-World-ETF-Anleger bedeutet das anhaltenden Rückenwind durch den Tech-Sektor, aber auch das Risiko, falls KI-Umsätze die massiven Ausgaben langfristig nicht rechtfertigen.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-04-30"
     }
   ]
 }
