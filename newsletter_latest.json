@@ -1,93 +1,93 @@
 {
-  "datum": "Donnerstag, 7. Mai 2026",
-  "generiert": "2026-05-07",
+  "datum": "Freitag, 8. Mai 2026",
+  "generiert": "2026-05-08",
   "ki_stories": [
     {
-      "titel": "Anthropic überholt OpenAI: Erstmals 30 Mrd. Dollar Jahresumsatz erreicht",
-      "text": "Anthropic hat zum ersten Mal OpenAI beim annualisierten Jahresumsatz überholt: Das Unternehmen erzielte einen ARR von 30 Milliarden Dollar, während OpenAI bei 24 Milliarden Dollar liegt. Haupttreiber sind Unternehmenskunden, die agentenbasierte KI-Workflows auf Basis von Claude einsetzen - nicht die breite Konsumenten-Nutzung. Diese Verschiebung signalisiert einen strukturellen Wandel im KI-Markt: Enterprise-Automatisierung mit autonomen Agenten wächst schneller als der klassische Chatbot-Markt. Für die KI-Branche insgesamt zeigt dies, dass spezialisierte, auf Geschäftsprozesse ausgerichtete Modelle gegenüber allgemeinen Assistenten klar an Bedeutung gewinnen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05"
-    },
-    {
-      "titel": "Anthropic veröffentlicht Claude Opus 4.7 mit 13% Coding-Sprung",
-      "text": "Anthropic hat Claude Opus 4.7 allgemein verfügbar gemacht und setzt damit einen neuen Maßstab für KI-gestütztes Software-Engineering. Auf einem internen 93-Aufgaben-Benchmark für komplexe Code-Aufgaben löst Opus 4.7 nun 13 Prozent mehr Aufgaben als sein Vorgänger Opus 4.6. Das Modell bearbeitet lang laufende Aufgaben präziser, überprüft eigene Ergebnisse und hält Anweisungen genauer ein. Zusätzlich wurde die Bildverarbeitung erheblich verbessert: Opus 4.7 analysiert Bilder in höherer Auflösung und erstellt qualitativ hochwertigere visuelle Outputs wie Präsentationen und Dokumente. Das Modell steht sofort über alle Claude-Produkte, die API, Amazon Bedrock, Google Vertex AI und Microsoft Foundry zur Verfügung.",
-      "quelle": "Anthropic",
-      "datum_artikel": "2026-05-06"
-    },
-    {
-      "titel": "OpenAI macht GPT-5.5 Instant zum neuen Standard in ChatGPT",
-      "text": "OpenAI hat am 5. Mai 2026 GPT-5.5 Instant als neues Standardmodell für ChatGPT eingeführt und damit GPT-5.3 Instant abgelöst. In internen Tests produzierte das neue Modell 52,5 Prozent weniger fehlerhafte Faktenaussagen bei medizinischen, rechtlichen und finanziellen Fragen. Die Antworten sind im Schnitt 30 Prozent kürzer, ohne an Informationsgehalt zu verlieren. Dazu kommt eine verbesserte Personalisierung, die frühere Gespräche, hochgeladene Dateien und verknüpfte Gmail-Konten einbezieht. GPT-5.5 Instant steht sofort für Free-, Plus- und Pro-Nutzer bereit; die vollständige Personalisierungsfunktion wird schrittweise ausgerollt.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-05-05"
-    },
-    {
-      "titel": "Anthropic launcht Claude Design und Claude Security in der Beta",
-      "text": "Neben Opus 4.7 hat Anthropic gleich zwei neue Produktlinien gestartet. Claude Design, ein Produkt aus dem Anthropic Labs, ermöglicht die Zusammenarbeit mit Claude zur Erstellung visueller Outputs wie Designs, Prototypen, Präsentationen und Dokumente. Claude Security befindet sich in der Public Beta und nutzt Opus 4.7, um ganze Codebasen zu scannen, Datenflüsse zu verfolgen und Sicherheitslücken direkt innerhalb einer Claude Code-Sitzung zu patchen. Zusätzlich hat Anthropic fertige Finance-Agenten-Templates veröffentlicht, die zeitaufwändige Aufgaben im Finanzbereich wie die Erstellung von Pitchbooks und KYC-Screening automatisieren.",
-      "quelle": "Anthropic",
-      "datum_artikel": "2026-05-06"
-    },
-    {
-      "titel": "DeepSeek-V4-Flash: Frontier-KI mit minimalem Rechenaufwand aus China",
-      "text": "Das chinesische KI-Labor DeepSeek hat mit V4-Flash ein Modell mit 284 Milliarden Parametern in einer Mixture-of-Experts-Architektur veröffentlicht, das pro Verarbeitungsschritt nur 13 Milliarden Parameter aktiviert. Das ist der niedrigste Aktivierungs-Footprint unter allen Frontier-Modellen weltweit und macht das System deutlich kosteneffizienter als Wettbewerber. Trainiert auf 32 Billionen Tokens und mit einem Kontextfenster von einer Million Tokens ist V4-Flash besonders für komplexe, langfristige Agentenaufgaben geeignet. Das Modell zeigt, dass chinesische KI-Labore trotz US-Chip-Exportbeschränkungen weiterhin an der globalen Spitze konkurrieren.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-04"
-    }
-  ],
-  "unternehmen_stories": [
-    {
-      "titel": "Meta mit Rekordquartal: Umsatz +33%, Gewinn je Aktie +61%",
-      "text": "Meta Platforms hat im ersten Quartal 2026 einen Umsatz von 56,3 Milliarden Dollar erzielt, ein Wachstum von 33 Prozent gegenüber dem Vorjahr und eine deutliche Beschleunigung gegenüber dem Vorquartal mit 24 Prozent Wachstum. Der Gewinn je Aktie stieg um 61 Prozent auf 10,44 Dollar und übertraf damit die Erwartungen erheblich. Gleichzeitig erhöhte Meta die obere Grenze seiner Investitionsausgaben für 2026 auf 145 Milliarden Dollar, da der Konzern massiv in KI-Infrastruktur investiert. Das Ergebnis bestätigt, dass Metas KI-gestützte Werbeoptimierung auf Reels und im Feed weiterhin außergewöhnlich hohe Renditen erzielt.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-04-30",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "Alphabet-Aktie verdoppelt sich: KI-Umsatz steigt um fast 800%",
-      "text": "Alphabet hat mit den Q1-Ergebnissen 2026 alle Wettbewerber weit hinter sich gelassen: Die Aktie hat sich in den vergangenen zwölf Monaten mehr als verdoppelt. Der Umsatz aus Produkten auf Basis generativer KI-Modelle stieg um fast 800 Prozent. Die zahlenden Nutzer von Gemini Enterprise wuchsen im letzten Quartal um 40 Prozent. Google Cloud profitiert besonders von der starken Nachfrage nach dem Gemini 3 Modell und unternehmensweiten Agentenworkflows. Im Gegensatz zu Microsoft und Amazon konnte Alphabet Analysten klar übertreffen.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-04-30",
-      "unternehmen": "Alphabet"
-    },
-    {
-      "titel": "Microsoft enttäuscht zum dritten Mal in Folge trotz 81 Mrd. Dollar Umsatz",
-      "text": "Microsoft hat im zweiten Fiskalquartal 2026 einen Umsatz von 81,3 Milliarden Dollar gemeldet, ein Plus von 17 Prozent gegenüber dem Vorjahr. Der Cloud-Bereich steuerte 51,5 Milliarden Dollar bei. Trotzdem enttäuschte Microsoft Analysten zum dritten Quartal in Folge. Für 2026 plant der Konzern Investitionsausgaben von 190 Milliarden Dollar in KI-Infrastruktur, deutlich mehr als die von der Wall Street erwarteten 154 Milliarden Dollar. Anleger reagierten verhalten auf die Zahlen, da Konkurrenten wie Alphabet und Meta deutlich stärker abschnitten.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-04-30",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "NVIDIA erwartet Q1-Umsatz von 78,5 Mrd. Dollar - Zahlen am 20. Mai",
-      "text": "NVIDIA legt am 20. Mai 2026 seine Ergebnisse für das erste Quartal vor. Analysten erwarten einen Umsatz von 78,5 Milliarden Dollar, ein Anstieg von 78,2 Prozent gegenüber dem Vorjahreszeitraum. Der Gewinn je Aktie wird auf 1,76 Dollar geschätzt, was einer Steigerung von 116,9 Prozent entspricht. Die anhaltend starke Nachfrage nach KI-Chips und Rechenzentrumskapazitäten treibt diese Wachstumsraten. Spekulationen über noch stärkere Ergebnisse angesichts der globalen KI-Investitionswelle haben die NVIDIA-Aktie im Vorfeld der Zahlen weiter gestützt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Pentagon schließt KI-Verträge mit 8 Unternehmen für klassifizierte Netze",
-      "text": "Das US-Verteidigungsministerium hat Vereinbarungen mit acht KI-Unternehmen unterzeichnet, um große Sprachmodelle auf klassifizierten Militärnetzwerken der Sicherheitsstufen IL6 und IL7 einzusetzen. Zu den zertifizierten Partnern gehören OpenAI, Google, NVIDIA, Microsoft, Amazon Web Services, SpaceX, Oracle und Reflection. Googles Gemini-Modell wurde explizit für klassifizierte Aufgaben ausgewählt. Dieser Schritt stellt die bisher tiefste Integration kommerzieller KI in das US-Militär dar und dürfte die Nachfrage nach sicherheitszertifizierten KI-Systemen erheblich ankurbeln.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-03",
-      "unternehmen": "US-Verteidigung"
-    }
-  ],
-  "boerse_stories": [
-    {
-      "titel": "US-Iran-Spannungen treiben DAX auf 25.115 Punkte - S&P 500 +1,12%",
-      "text": "Die globalen Aktienmärkte legten am 7. Mai 2026 deutlich zu, ausgelöst durch geopolitische Spannungen zwischen den USA und dem Iran nach einer Rede von Präsident Trump. Brent-Rohöl stieg zeitweise auf über 114,5 Dollar je Barrel. Der DAX schloss 2,93 Prozent höher bei 25.115 Punkten, der S&P 500 gewann 1,12 Prozent. Dow Jones und Nasdaq folgten ebenfalls positiv. Gleichzeitig stützten die Spannungen Sicherheitswerte wie Gold und US-Staatsanleihen. Die Lage im Nahen Osten gilt als zentrales Marktrisiko für die kommenden Wochen.",
+      "titel": "Anthropic veröffentlicht 10 KI-Agenten speziell für die Finanzbranche",
+      "text": "Anthropic hat zehn vorkonfigurierte KI-Agenten für die Finanzbranche veröffentlicht, die typische Aufgaben von Investmentbanken, Vermögensverwaltern und Versicherungen automatisieren sollen. Die Agenten decken Bereiche wie Marktresearch, Risikobewertung, Compliance-Prüfung und Finanzbuchhaltung ab. Damit reagiert Anthropic auf die stark gestiegene Nachfrage aus dem Unternehmensbereich: Die Zahl der Geschäftskunden mit über einer Million Dollar Jahresumsatz verdoppelte sich zuletzt in weniger als zwei Monaten von 500 auf 1.000. Mit diesem Schritt positioniert sich Anthropic als direkter KI-Infrastrukturpartner für Finanzdienstleister und tritt in direkten Wettbewerb mit ähnlichen Enterprise-Angeboten von OpenAI und Google. Die Veröffentlichung unterstreicht den Branchentrend, dass generelle Sprachmodelle zunehmend durch branchenspezifische Agenten-Pakete ergänzt werden.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-07"
     },
     {
-      "titel": "Gold auf historischem Hoch: Kurs erreicht 4.697 Dollar je Unze",
-      "text": "Gold hat sich im Mai 2026 auf einem historisch hohen Niveau gefestigt und erreichte am 6. Mai einen Kurs von 4.697 US-Dollar je Unze, ein wöchentliches Plus von 3,4 Prozent. Als Haupttreiber gelten der US-Iran-Konflikt, anhaltende Sorgen um die US-Staatsverschuldung sowie starke Nachfrage aus dem asiatischen Raum. Am 7. Mai versuchte Gold, sich von zwischenzeitlichen Rückgängen zu erholen, und stieg erneut an. Gold verzeichnet damit eine der stärksten Perioden seiner jüngeren Geschichte und bleibt die bevorzugte Absicherung gegen Marktvolatilität und geopolitische Risiken.",
-      "quelle": "Bloomberg",
+      "titel": "US-Regierung testet KI-Modelle von Google, Microsoft und xAI vor Marktstart",
+      "text": "Das Center for AI Standards and Innovation (CAISI) des US-Handelsministeriums hat neue Vereinbarungen mit Google DeepMind, Microsoft und Elon Musks xAI geschlossen, die es der US-Regierung erlauben, KI-Modelle vor ihrer öffentlichen Veröffentlichung zu evaluieren. Die Vereinbarungen bauen auf früheren Partnerschaften mit OpenAI und Anthropic aus dem Jahr 2024 auf und wurden im Rahmen von Amerikas KI-Aktionsplan neu verhandelt. Hintergrund ist das sich verschärfende technologische Rennen mit China sowie wachsende Bedenken über die Cybersicherheitsrisiken neuer, leistungsstarker KI-Modelle. Die Behörde prüft insbesondere, ob Modelle für Cyberangriffe oder die Entwicklung von Massenvernichtungswaffen missbraucht werden könnten. Es ist das erste Mal, dass die US-Regierung ein so weitreichendes Vorabprüfungs-System für kommerzielle KI-Systeme etabliert.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-05-05"
+    },
+    {
+      "titel": "OpenAI macht GPT-5.5 Instant zum neuen ChatGPT-Standard - 52 Prozent weniger Halluzinationen",
+      "text": "OpenAI hat das Standard-Modell in ChatGPT durch GPT-5.5 Instant ersetzt, das laut internen Tests 52,5 Prozent weniger halluzinierte Aussagen bei Hochrisiko-Themen wie Medizin und Recht produziert als sein Vorgänger. Das neue Modell ist auf Geschwindigkeit und Effizienz ausgelegt und richtet sich vor allem an Unternehmenskunden mit hohem Anfragevolumen. Parallel dazu werden GPT-5.4 mini und nano verfügbar gemacht - kleinere Modelle für schnellere und kostengünstigere Einsatzszenarien. Die Verbesserung bei Halluzinationen ist für den Enterprise-Einsatz besonders bedeutsam, da fehlerhafte KI-Ausgaben in regulierten Branchen wie dem Gesundheitswesen oder der Finanzbranche erhebliche rechtliche Konsequenzen haben können. Der Modellwechsel zeigt, dass OpenAI den Fokus von reiner Leistungssteigerung auf Zuverlässigkeit und Vertrauenswürdigkeit verschiebt.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-06"
     },
     {
-      "titel": "Big Tech plant 700 Mrd. Dollar KI-Investitionen 2026 - ohne Ende in Sicht",
-      "text": "Amazon, Microsoft, Google und Meta wollen in diesem Jahr zusammen rund 700 Milliarden Dollar in KI-Infrastruktur investieren. Microsoft plant allein 190 Milliarden Dollar, deutlich mehr als von Analysten erwartet. Alphabet führt das Feld mit der stärksten Aktienperformance an, gefolgt von Meta und Amazon. Diese historisch beispiellosen Investitionsausgaben treiben die Nachfrage nach Rechenzentren, Hochleistungschips von NVIDIA und TSMC sowie Energie und Glasfaser. Für FTSE-All-World-ETF-Anleger bedeutet das anhaltenden Rückenwind durch den Tech-Sektor, aber auch das Risiko, falls KI-Umsätze die massiven Ausgaben langfristig nicht rechtfertigen.",
+      "titel": "EU KI-Verordnung: Bundesnetzagentur übernimmt Marktaufsicht in Deutschland",
+      "text": "Deutschland hat die europäische KI-Verordnung (EU AI Act) in nationales Recht überführt und die Bundesnetzagentur als zentrale Marktüberwachungsbehörde benannt. Die Behörde ist damit künftig für die Einhaltung der KI-Regulierung in Deutschland zuständig, einschließlich Aufsichts- und Bußgeldregelungen gegenüber Herstellern und Betreibern von KI-Systemen. Die EU KI-Verordnung teilt KI-Systeme nach Risikoklassen ein und legt je nach Anwendungsbereich unterschiedliche Pflichten fest - Hochrisikosysteme etwa in der Personalvermittlung, im Gesundheitswesen oder bei kritischer Infrastruktur unterliegen strengeren Anforderungen. Für Unternehmen, die KI in Deutschland einsetzen oder entwickeln, bedeutet das einen klar definierten Ansprechpartner für Compliance-Fragen, aber auch ein gestiegenes Risiko bei Verstößen mit Bußgeldern von bis zu 35 Millionen Euro. Die Bundesnetzagentur hat bereits Erfahrung mit der technischen Regulierung komplexer Systeme aus dem Telekommunikations- und Energiesektor.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-06"
+    },
+    {
+      "titel": "KI-Trend 2026: Agentische Workflows ersetzen Einzel-Anfragen als Standard",
+      "text": "Der wichtigste Technologietrend des Jahres 2026 ist der Wechsel von Einzel-Anfragen hin zu agentischen KI-Workflows, bei denen KI-Systeme komplexe Ziele selbstständig in Teilaufgaben zerlegen, über mehrere Tools hinweg ausführen und ihre eigene Arbeit kontrollieren. GPT-5.5, Claude Opus 4.6 und Gemini 3.1 Ultra liefern agentische Fähigkeiten nun als Kernfunktion ihrer Systeme aus. Gleichzeitig schreitet die multimodale Verarbeitung voran: Googles Gemini 3.1 Ultra kann Video in 60 Frames pro Sekunde verarbeiten und dabei in Echtzeit über alle Datenformate hinweg schlussfolgern. Dieser Wandel verändert die Art, wie Unternehmen KI einsetzen, fundamental - von punktuellen Assistenztools hin zu autonomen, mehrstufigen Arbeitsprozessen ohne menschliche Zwischenschritte. Analysten erwarten, dass agentische KI die Produktivität in wissensintensiven Branchen wie Recht, Finanzen und Software-Entwicklung in den nächsten 18 Monaten erheblich steigern wird.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-07"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "Pentagon unterzeichnet KI-Verträge mit 8 Tech-Firmen - Anthropic ausgeschlossen",
+      "text": "Das US-Verteidigungsministerium hat Verträge mit acht großen Technologieunternehmen abgeschlossen, um deren KI-Systeme auf klassifizierten Militärnetzwerken einzusetzen: OpenAI, Google, Microsoft, Amazon Web Services, NVIDIA, SpaceX, Reflection AI und Oracle. Die Vereinbarungen sehen den Einsatz großer Sprachmodelle auf den Netzwerkebenen Impact Level 6 und 7 der US-Streitkräfte vor, mit dem erklärten Ziel, das Militär zur 'KI-first Kampftruppe' zu machen. Anthropic wurde trotz anfänglicher Verhandlungen nicht aufgenommen, nachdem das Unternehmen auf vertraglich festgeschriebene Sicherheitsleitplanken für den militärischen Einsatz bestand - insbesondere gegen den Einsatz von Claude für autonome Waffensysteme und Massenüberwachung. Laut jüngsten Berichten haben die USA und Anthropic die Gespräche inzwischen aber wieder aufgenommen. Für NVIDIA, Microsoft und Google sind die Pentagon-Verträge ein weiterer Beleg für das stark wachsende Staatsgeschäft mit KI-Infrastruktur.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-05-01",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Anthropic überholt OpenAI beim Jahresumsatz: 30 Milliarden Dollar ARR",
+      "text": "Anthropic hat im April 2026 erstmals den annualisierten Jahresumsatz (ARR) von OpenAI übertroffen: Das Unternehmen hinter dem KI-Modell Claude liegt bei 30 Milliarden Dollar, während OpenAI bei rund 24 Milliarden Dollar verbleibt. Das Wachstum ist historisch: Im Januar 2025 lag Anthropics ARR noch bei einer Milliarde Dollar - ein Anstieg um das 30-fache in nur 15 Monaten. OpenAI bestreitet den direkten Vergleich mit dem Argument, dass Anthropic eine andere Umsatzbilanzierungsmethode verwende und der tatsächlich vergleichbare Wert bei rund 22 Milliarden Dollar liege, also unter dem eigenen. Der Sprung ist vor allem auf das starke Enterprise-Geschäft zurückzuführen: Die Zahl der Unternehmenskunden mit über einer Million Dollar Jahresumsatz verdoppelte sich in weniger als zwei Monaten von 500 auf 1.000. Marktbeobachter sehen in der Überholung ein Zeichen, dass Anthropics Fokus auf Sicherheit und Enterprise-Zuverlässigkeit am Markt zunehmend honoriert wird.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-05-03",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Big Tech KI-Ausgaben auf 725 Milliarden Dollar Rekord - Microsoft nennt Chips als Treiber",
+      "text": "Die großen Technologiekonzerne haben ihre Kapitalausgaben für KI-Infrastruktur auf einen Gesamtrekord von 725 Milliarden Dollar gesteigert, angetrieben von explodierenden Preisen für Halbleiter und Speicherbausteine. Microsoft allein gibt an, dass 25 Milliarden Dollar seines KI-Budgets auf gestiegene Speicher- und Chipkosten zurückzuführen sind - ein klares Zeichen dafür, wie stark Hardware-Engpässe die Kosten in die Höhe treiben. NVIDIA, TSMC und Broadcom profitieren als Hauptlieferanten besonders von dieser Ausgabenwelle. Analysten warnen, dass die steigenden Infrastrukturkosten den Margendruck bei Cloud-KI-Diensten erhöhen werden, während die Nachfrage weiterhin alle Erwartungen übersteigt. Für Microsoft, Google und Amazon bedeutet das kurzfristig niedrigere Margen, langfristig aber eine stärkere Marktposition durch Kapazitätsvorteile gegenüber kleineren Wettbewerbern.",
       "quelle": "Financial Times",
-      "datum_artikel": "2026-04-30"
+      "datum_artikel": "2026-05-07",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "Anthropic erweitert Partnerschaft mit Google und Broadcom für KI-Hardware",
+      "text": "Anthropic hat eine erweiterte strategische Partnerschaft mit Google Cloud und dem Chip-Designer Broadcom bekanntgegeben, um die Trainings- und Inference-Kapazitäten für seine Claude-Modelle auszubauen. Das Unternehmen setzt dabei auf ein breites Hardware-Portfolio: neben AWS Trainium und Google TPUs auch NVIDIA GPUs. Die Partnerschaft mit Broadcom zielt darauf ab, spezialisierte anwendungsspezifische Chips (ASICs) zu entwickeln, die effizienter und günstiger als Standard-GPU-Cluster sein sollen. Hintergrund ist Anthropics rapides Wachstum: Bei 30 Milliarden Dollar ARR und steigender Nachfrage wird die Rechenkapazität zum entscheidenden Engpass. Die Diversifizierung der Hardware-Partner soll die strategische Abhängigkeit von einzelnen Lieferanten reduzieren und langfristig die Kosten pro KI-Anfrage senken.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-06",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Alphabet treibt S&P-500-Rallye - JPMorgan hebt Jahresprognose auf 8.000 Punkte an",
+      "text": "JPMorgan Global Research hat seine Prognose für den S&P 500 angehoben und hält nun ein Jahresendniveau von 8.000 Punkten für möglich - das wäre ein weiterer Anstieg von rund 9 Prozent gegenüber dem aktuellen Stand von rund 7.327 Punkten. Als wichtigsten Treiber nennen die Analysten KI-bezogene Aktien, insbesondere Alphabet (GOOGL), das allein 1,27 Prozentpunkte zum bisherigen Jahresplus des Index beigetragen hat - mehr als 20 Prozent der gesamten Indexrendite seit Jahresbeginn aus einer einzigen Aktie. Hintergrund ist das starke Wachstum im Cloud-Bereich und der Erfolg von Gemini im Enterprise-Segment. Die Analyse zeigt, wie stark der gesamte Aktienmarkt von der Wachstumsdynamik weniger KI-Leitunternehmen abhängt - ein Konzentrationsrisiko, das Investoren im Blick behalten sollten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-04",
+      "unternehmen": "Alphabet"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "S&P 500 erreicht Allzeithoch 7.382 Punkte - Dow Jones erstmals über 50.000",
+      "text": "Der S&P 500 erreichte am 7. Mai 2026 ein neues Allzeithoch von 7.382 Punkten und schloss bei 7.377 Punkten - ein Plus von 5,7 Prozent seit Jahresbeginn. Gleichzeitig überschritt der Dow Jones Industrial Average erstmals in seiner Geschichte die Marke von 50.000 Punkten, getragen von starken Gewinnen bei KI-bezogenen Aktien und Tech-Werten. Zusätzlichen Rückenwind lieferten Berichte über diplomatische Fortschritte zwischen den USA und dem Iran, die den Ölpreis drückten und damit globale Inflationssorgen abschwächten. Am 8. Mai 2026 notiert der S&P 500 bei rund 7.327 Punkten, da Anleger nach dem Rekordhoch Gewinne mitnahmen. Für den weiteren Jahresverlauf bleiben die großen Wall-Street-Banken optimistisch - JPMorgan sieht das Jahresendniveau bei 8.000 Punkten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-07"
+    },
+    {
+      "titel": "Goldpreis steigt auf 4.700 Dollar pro Unze - Ölpreisrückgang stützt Rallye",
+      "text": "Der Goldpreis stieg am 7. Mai 2026 auf rund 4.700 Dollar pro Unze und legte damit zum zweiten Handelstag in Folge zu. Auslöser war der Rückgang des Ölpreises: Brent Crude fiel um 3,61 Prozent auf 97,61 Dollar pro Barrel, nachdem Berichte über mögliche diplomatische Gespräche zwischen den USA und dem Iran die Sorgen vor anhaltenden Lieferunterbrechungen abschwächten. Niedrigere Energiepreise dämpfen den Inflationsdruck und erhöhen die Wahrscheinlichkeit, dass die US-Notenbank Fed die Zinsen früher als erwartet senken könnte - ein klassisch positives Signal für Gold, das keine Zinsen abwirft. Zu Beginn der Woche hatte Gold noch bei rund 4.600 Dollar notiert. Langfristig bleibt die Stimmung bullisch: JPMorgan prognostiziert für das letzte Quartal 2026 einen Goldpreis von durchschnittlich 5.055 Dollar pro Unze.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-07"
+    },
+    {
+      "titel": "Fed hält Leitzins stabil - stärkste FOMC-Uneinigkeit seit 1992",
+      "text": "Die US-Notenbank Federal Reserve hat auf ihrer Sitzung vom 28. und 29. April 2026 die Leitzinsen unverändert bei 3,50 bis 3,75 Prozent belassen, wie allgemein erwartet. Bemerkenswert war das Ausmaß der internen Uneinigkeit: Vier Mitglieder des Federal Open Market Committee (FOMC) stimmten gegen den Beschluss - die höchste Zahl an Gegenstimmen seit 1992, was auf erhebliche Meinungsverschiedenheiten über den weiteren geldpolitischen Kurs hindeutet. Das CME FedWatch Tool zeigt derzeit eine 60-prozentige Wahrscheinlichkeit, dass die Fed die Zinsen im gesamten Jahr 2026 nicht senken wird, da der durch hohe Ölpreise angefachte Inflationsdruck einen vorzeitigen Zinsschwenk verhindert. Es war zugleich die letzte FOMC-Sitzung unter Fed-Vorsitzendem Jerome Powell. Für FTSE-All-World-Anleger bedeuten anhaltend hohe Zinsen Gegenwind bei Bewertungen, der bisher aber durch starke KI-Unternehmensgewinne überkompensiert wurde.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-04-29"
     }
   ]
 }
