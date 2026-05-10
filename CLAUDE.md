@@ -4,6 +4,8 @@
 - Behaupte nichts was du nicht weißt oder überprüft hast
 - Bei Unsicherheit: klar sagen "ich bin nicht sicher" statt etwas erfinden
 - Fakten wie Termine, Kurse, News immer aus echten Quellen belegen
+- **Frische vor Vollständigkeit:** lieber 2 frische Stories als 5 mit alten
+  oder wiederholten Inhalten. Details siehe Abschnitt "Aktualitäts-Regel".
 
 ## Kommunikation mit Nicole
 - Nicole ist kein Entwickler und kennt keine technischen Tools (Make.com, JSON, API, Mapping etc.)
@@ -114,11 +116,74 @@ Suchbeispiele:
 
 ## Anzahl Stories pro Section
 
-- **KI-Branche:** 5 Stories
-- **Unternehmens-News:** 5 Stories
-- **Börse & Gold:** 3 Stories
+**Maximalzahlen** (NICHT Mindestzahlen — lieber weniger, dafür frisch):
+
+- **KI-Branche:** bis zu 5 Stories
+- **Unternehmens-News:** bis zu 5 Stories
+- **Börse & Gold:** bis zu 3 Stories
 
 Wichtigste Story jeweils zuerst.
+
+**Lieber weniger Stories als alte oder wiederholte.** Wenn du in einer Section
+nur 2 wirklich frische, relevante Stories findest, dann nimmst du auch nur 2
+auf. Eine Section darf auch leer bleiben, wenn an einem Tag nichts Frisches
+passiert ist (z.B. an einem Sonntag bei Börse & Gold). **Niemals** mit alten
+oder thematisch wiederholten Stories auffüllen, nur um auf 5/5/3 zu kommen.
+
+## Aktualitäts-Regel (sehr wichtig)
+
+Nicole hat sich beschwert, dass im Newsletter immer wieder dieselben oder
+veraltete Stories auftauchen. Daher gilt strikt:
+
+### 48-Stunden-Regel
+Eine Story darf nur in den Newsletter, wenn der **Originalartikel maximal
+48 Stunden alt** ist (gemessen am `datum_artikel` gegenüber dem heutigen Datum,
+Europe/Vienna).
+
+- Heute = 10. Mai → erlaubt sind Artikel mit `datum_artikel` 8., 9. oder 10. Mai.
+- Artikel vom 7. Mai oder älter → **nicht aufnehmen**, auch wenn sie thematisch
+  passen würden.
+- Ausnahme: keine. Wenn ein Thema wirklich wichtig ist, aber der Artikel
+  älter als 48h ist, suche eine **aktuelle Folge-Berichterstattung** zum
+  selben Thema (Reuters, Bloomberg-Update, etc.) und nimm die.
+
+### Veröffentlichungsdatum nicht raten
+Das `datum_artikel` muss aus echten Quellen (Artikel-Header, Meta-Tags,
+URL-Datum, Google-News-Treffer) belegbar sein. **Niemals** das Datum auf
+heute setzen, nur um die 48h-Regel zu umgehen. Wenn das Datum unklar ist:
+Story nicht aufnehmen.
+
+## Wiederholungen vermeiden
+
+### Maximal 2 Stories pro Unternehmen pro Tag
+
+Über alle Sections zusammen darf **kein Unternehmen in mehr als 2 Stories**
+auftauchen, in denen es die Hauptrolle spielt. Beispiele:
+
+- Falsch: 3 Anthropic-Stories in `unternehmen_stories` plus 1 Anthropic-
+  Story in `ki_stories` → das sind 4, viel zu viele.
+- Richtig: Maximal 2 Stories, in denen Anthropic im Mittelpunkt steht.
+
+Stories, in denen ein Unternehmen nur am Rande erwähnt wird (z.B. NVIDIA in
+einer allgemeinen Chip-Markt-Story), zählen nicht voll mit.
+
+### Keine doppelten Themen
+
+Wenn dieselbe Nachricht aus zwei Blickwinkeln berichtet wird (z.B. einmal
+"Tech-Konzerne investieren 725 Mrd USD in KI" und einmal "Microsoft erhöht
+KI-Budget um 25 Mrd USD" — beides dieselbe Capex-Story), nimm nur **eine**
+Variante auf, nicht beide.
+
+### Pflicht-Check vor dem Commit
+
+Bevor du committest, gehe alle Stories einmal durch und prüfe:
+
+1. Ist jedes `datum_artikel` innerhalb der letzten 48 Stunden?
+2. Kommt kein Unternehmen in mehr als 2 Hauptrollen-Stories vor?
+3. Ist kein Thema doppelt vertreten (auch nicht in unterschiedlichen Sections)?
+
+Wenn eine dieser Prüfungen fehlschlägt: Story streichen oder durch eine
+frische, andere Story ersetzen — und lieber kürzer abgeben.
 
 ## Output: `newsletter_latest.json`
 
