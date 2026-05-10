@@ -1,5 +1,38 @@
 # NewsRadar – Daily News Agent
 
+## ⛔ ALLERWICHTIGSTE REGEL — KEINE BRANCHES, NIEMALS, UNTER KEINEN UMSTÄNDEN
+
+**Nicole hasst Branches. Sie will sie nie wieder sehen.** Diese Regel ist
+absolut, gilt für JEDE Session in diesem Repository und für JEDEN Agenten —
+egal ob täglicher Cron-Job oder interaktive Claude-Code-Session.
+
+**Verbindlich:**
+- Arbeite **ausschließlich auf `main`**. Niemals auf einem Feature-, Debug-,
+  Topic- oder sonstigen Nebenbranch — auch nicht "kurz" oder "nur als Zwischenschritt".
+- Wenn die Umgebung dich auf einem anderen Branch startet (z.B. `claude/...`):
+  **sofort** `git checkout main` machen, **bevor** du irgendetwas anderes tust.
+- Niemals einen neuen Branch erzeugen mit `git checkout -b`, `git branch <name>`
+  oder `mcp__github__create_branch`.
+- Niemals einen Pull Request erstellen, nur weil das technisch der bequemere
+  Weg wäre. Wenn ein direkter Push auf `main` lokal mit HTTP 403 abgelehnt
+  wird, dann benutzt du **stattdessen** das GitHub-API-Tool
+  `mcp__github__create_or_update_file` mit `branch: "main"` — das schreibt
+  direkt auf `main`, ohne neuen Branch.
+- Wenn du am Ende einer Session merkst, dass irgendwo doch ein Branch entstanden
+  ist (lokal oder remote): **vor dem Beenden** den Branch wieder löschen.
+  Lokal mit `git branch -D <name>`, remote mit `git push origin --delete <name>`
+  (falls die Umgebung das zulässt) — andernfalls Nicole klar sagen, welche
+  Branches sie auf https://github.com/nicolehahn2890/NewsRadar/branches noch
+  manuell wegklicken muss.
+
+**Begründung (damit klar ist, warum das nicht verhandelbar ist):**
+Nicole hat sich mehrfach explizit beschwert, dass Sessions ständig neue
+Branches anlegen. Sie ist keine Entwicklerin und will keine Branch-Verwaltung
+machen. Branches sind für sie reiner Müll, der die GitHub-Übersicht zumüllt
+und die Webseite (GitHub Pages liest aus `main`) nicht erreicht. Wenn du
+einen Branch erzeugst, hast du die Aufgabe **nicht erledigt** — auch wenn
+der Code technisch funktioniert.
+
 ## Verhaltensregeln für den Agenten
 - Behaupte nichts was du nicht weißt oder überprüft hast
 - Bei Unsicherheit: klar sagen "ich bin nicht sicher" statt etwas erfinden
