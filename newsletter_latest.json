@@ -1,93 +1,55 @@
 {
-  "datum": "Samstag, 9. Mai 2026",
-  "generiert": "2026-05-09",
+  "datum": "Sonntag, 10. Mai 2026",
+  "generiert": "2026-05-10",
   "ki_stories": [
     {
-      "titel": "Apple iOS 27: Nutzer wählen selbst zwischen ChatGPT, Gemini und Claude",
-      "text": "Apple plant für iOS 27 eine grundlegende Neuerung namens 'Extensions': Nutzer können künftig zwischen verschiedenen KI-Modellen wählen, um Apple Intelligence-Funktionen wie Siri, Schreibwerkzeuge oder die Bildgenerierung zu steuern. Neben OpenAIs ChatGPT werden Modelle von Google (Gemini) und Anthropic (Claude) integriert und derzeit getestet. Nutzer legen einmalig ihren bevorzugten KI-Anbieter fest, der dann für alle kompatiblen Funktionen auf iPhone, iPad und Mac aktiv wird. Das ist ein klarer Strategiewechsel: Apple hatte bisher fast ausschließlich auf eigene On-Device-KI und die OpenAI-Partnerschaft gesetzt. iOS 27, iPadOS 27 und macOS 27 sollen im Herbst 2026 erscheinen - und damit erstmals echte Auswahl beim KI-Anbieter auf Apple-Geräten ermöglichen.",
+      "titel": "Baidu veröffentlicht ERNIE 5.1 - Chinas günstigstes Spitzen-KI-Modell",
+      "text": "Baidu hat am 8. Mai 2026 sein neues Sprachmodell ERNIE 5.1 offiziell veröffentlicht. Das Modell erzielt seine Leistungswerte mit lediglich 6% der Vortrainingskosten vergleichbarer Konkurrenzmodelle und setzt damit einen neuen Effizienzmaßstab in der KI-Branche. ERNIE 5.1 belegt Platz 4 weltweit und Platz 1 unter chinesischen Modellen auf dem Arena-Search-Leaderboard mit einem Score von 1.223 Punkten; seine Agentenkapazitäten übertreffen jene von DeepSeek-V4-Pro. Auf dem Mathematik-Benchmark AIME26 erreicht das Modell 99,6 Punkte und liegt damit weltweit nur knapp hinter Googles Gemini 3.1 Pro. Baidu plant weitere Modell-Updates auf seiner Entwicklerkonferenz Baidu Create 2026. Das Modell ist ab sofort auf der Qianfan-Plattform und der ERNIE-Bot-Website für Unternehmen und Entwickler verfügbar.",
+      "quelle": "InfoWorld",
+      "datum_artikel": "2026-05-08"
+    },
+    {
+      "titel": "DeepSeek kurz vor Abschluss erster Finanzierungsrunde bei $50-Mrd-Bewertung",
+      "text": "Das chinesische KI-Labor DeepSeek steht laut Insidern kurz vor dem Abschluss seiner ersten externen Finanzierungsrunde und wird dabei mit bis zu 50 Milliarden US-Dollar bewertet. Als Lead-Investor gilt Chinas staatlicher Halbleiterfonds 'Big Fund III'; Tencent und das globale Investment-Unternehmen Hillhouse sind ebenfalls an Gesprächen beteiligt. Insgesamt sollen mehr als 7 Milliarden US-Dollar eingesammelt werden - die bislang größte externe Finanzierung eines chinesischen KI-Unternehmens. Gründer Liang Wenfeng gibt damit eine langjährige Strategie auf, keinerlei externe Mittel anzunehmen - ausgelöst durch verstärkte Abwerbung von Forschern durch Konkurrenten. Das Kapital soll den Ausbau von Rechenkapazitäten und die Verbesserung der Mitarbeitervergütung finanzieren.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05"
-    },
-    {
-      "titel": "Claude Mythos: Anthropics neues KI-Modell findet autonom Tausende Zero-Day-Sicherheitslücken",
-      "text": "Anthropic hat mit Claude Mythos Preview sein leistungsstärkstes Modell vorgestellt, das im Bereich Cybersicherheit außergewöhnliche Fähigkeiten zeigt. Innerhalb weniger Wochen identifizierte Mythos eigenständig Tausende Zero-Day-Sicherheitslücken in allen großen Betriebssystemen und Webbrowsern - darunter eine 17 Jahre alte Remote-Code-Execution-Lücke in FreeBSD, die vollständigen Root-Zugriff erlaubt. Im Rahmen von Anthropics neuer Initiative 'Project Glasswing' stellt das Unternehmen das Modell mit bis zu 100 Millionen Dollar Nutzungsguthaben sowie 4 Millionen Dollar Direktspenden an Open-Source-Sicherheitsorganisationen bereit. Launch-Partner sind unter anderem Amazon AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan Chase, Microsoft und NVIDIA. Ziel ist es, kritische Software-Infrastruktur in der KI-Ära aktiv abzusichern - bevor Angreifer dieselben KI-Fähigkeiten zur Attacke nutzen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-04-07"
-    },
-    {
-      "titel": "US-Regierung erhält Vorabzugang zu KI-Modellen: Google, Microsoft und xAI stimmen zu",
-      "text": "Das Center for AI Standards and Innovation (CAISI) des US-Handelsministeriums hat Vereinbarungen mit Google DeepMind, Microsoft und Elon Musks xAI geschlossen, die der Regierung erlauben, neue Frontier-KI-Modelle vor ihrer öffentlichen Veröffentlichung sicherheitstechnisch zu prüfen. CAISI wird Pre-Deployment-Bewertungen durchführen, um Fähigkeiten und Sicherheitsrisiken frühzeitig einzuschätzen und die KI-Sicherheit zu verbessern. Auslöser war unter anderem Anthropics neues Modell Mythos, das erhebliche Bedenken zur KI-Sicherheit ausgelöst hatte, sowie Berichte, dass die Trump-Administration eine Executive Order für formelle KI-Prüfprozesse erwägt. Die bereits 2024 geschlossenen Vereinbarungen mit OpenAI und Anthropic wurden im Zuge neuer Direktiven von Handelsminister Howard Lutnick überarbeitet.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05"
-    },
-    {
-      "titel": "Anthropic bringt 10 neue Claude-Agenten für Banken, Versicherungen und Asset Manager",
-      "text": "Anthropic hat zehn spezialisierte KI-Agenten für den Finanzsektor vorgestellt, die eigenständig komplexe Aufgaben übernehmen können: von der Erstellung von Pitch-Decks für Kundengespräche über die Prüfung von Jahresabschlüssen bis zur Eskalation von Compliance-Fällen. Die Agenten richten sich an Fachleute aus Bankwesen, Versicherungen, Asset Management und Finanztechnologie. Mit diesem Schritt intensiviert Anthropic seine Strategie, Claude tief in professionelle Geschäftsprozesse zu integrieren - in direkter Konkurrenz zu OpenAI, Microsoft Copilot und Google Gemini for Business. Die Zahl der Unternehmenskunden bei Anthropic mit einem Jahresumsatz über einer Million Dollar hat sich in weniger als zwei Monaten auf über 1.000 verdoppelt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05"
-    },
-    {
-      "titel": "KI-Investitionsboom: Tech-Giganten planen Rekordausgaben von 725 Milliarden Dollar in 2026",
-      "text": "Die kombinierten Kapitalausgaben von Google, Microsoft, Meta und Amazon werden 2026 voraussichtlich 725 Milliarden Dollar erreichen - ein Anstieg von 77 Prozent gegenüber dem Vorjahr und ein neuer Rekordwert. Microsoft allein hat 25 Milliarden Dollar zusätzliche Ausgaben auf gestiegene Preise für Speicherchips und KI-Hardware zurückgeführt. Treiber sind der enorme Bedarf an Rechenkapazität für KI-Training und -Inferenz sowie globale Engpässe bei High-End-Halbleitern, von denen vor allem NVIDIA als Marktführer profitiert. Die Zahlen verdeutlichen, dass KI für die großen Technologiekonzerne zur unverzichtbaren Infrastruktur geworden ist - und der Wettbewerb um Rechenkapazität weiter verschärft.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-07"
+      "datum_artikel": "2026-05-08"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI gründet 10-Milliarden-Dollar Joint Venture 'The Deployment Company' mit PE-Firmen",
-      "text": "OpenAI hat das gemeinsame Unternehmen 'The Deployment Company' mit 19 Investoren finalisiert, mit einem Gesamtkapital von 10 Milliarden Dollar. Zu den Geldgebern zählen TPG als Ankerinvestor, Brookfield Asset Management, Advent und Bain Capital, die zusammen rund 4 Milliarden Dollar einbringen; OpenAI selbst steuert 1,5 Milliarden Dollar bei. Den Finanzinvestoren wird eine garantierte jährliche Rendite von 17,5 Prozent über fünf Jahre zugesagt. Das Joint Venture wird Teams von OpenAI-Ingenieuren direkt bei Unternehmenskunden einsetzen und KI-Tools in CRM-, ERP- und interne Datensysteme integrieren - ein Modell ähnlich dem, das Palantir mit direkt bei Kunden platzierten Ingenieuren erfolgreich gemacht hat. OpenAI behält durch Super-Voting-Anteile die strategische Kontrolle.",
+      "titel": "Google investiert $40 Mrd in Anthropic - größte KI-Investition aller Zeiten",
+      "text": "Google hat am 8. Mai 2026 eine Investitionszusage von insgesamt 40 Milliarden US-Dollar in Anthropic bekanntgegeben - die größte öffentlich bekannte Einzel-KI-Investition überhaupt. Die Struktur sieht 10 Milliarden US-Dollar als Sofortzahlung vor, weitere 30 Milliarden sind an Leistungsmeilensteine geknüpft. Gleichzeitig schloss Anthropic einen Rechenkapazitäts-Deal mit SpaceX ab: Zugang zur Colossus-1-Anlage in Memphis (Tennessee) mit über 300 Megawatt und mehr als 220.000 NVIDIA-GPUs - verfügbar innerhalb eines Monats. Anthropics annualisierter Umsatz liegt inzwischen bei über 30 Milliarden US-Dollar, verglichen mit rund 9 Milliarden Ende 2025. Die neuen Kapazitäten sollen Engpässe bei Claude-Nutzungslimits beseitigen, über die Kunden zuletzt geklagt hatten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-04",
+      "datum_artikel": "2026-05-08",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "SoftBank kürzt OpenAI-Kreditlinie um 40% - Gläubiger zeigen Zurückhaltung",
+      "text": "SoftBank hat seine Pläne für eine mit OpenAI-Anteilen besicherte 10-Milliarden-Dollar-Kreditlinie deutlich reduziert. Laut Bloomberg kürzte der japanische Technologieinvestor das Vorhaben um rund 40%, nachdem Gläubiger Zurückhaltung signalisierten. Der ursprüngliche Plan sah vor, OpenAI-Anteile als Sicherheit für kurzfristige Liquidität zu nutzen. Die Kürzung kommt zu einem Zeitpunkt, an dem OpenAI nach eigenen Angaben rund 50 Milliarden US-Dollar allein in diesem Jahr in Recheninfrastruktur investieren will. Laut einem WSJ-Bericht hat OpenAI zuletzt eigene Nutzer- und Umsatzziele verfehlt, was das Vertrauen der Kreditgeber belastet haben dürfte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-08",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "Anthropic knackt 30 Milliarden Dollar Jahresumsatz - Verdreifachung seit Ende 2025",
-      "text": "Anthropics annualisierter Umsatz hat die Marke von 30 Milliarden Dollar überschritten - ein drastischer Anstieg gegenüber rund 9 Milliarden Dollar Ende 2025. Die Zahl der Unternehmenskunden mit einem Jahresumsatz über einer Million Dollar hat sich in weniger als zwei Monaten auf über 1.000 verdoppelt. Das Wachstum wird durch Enterprise-Deals für Claude-Modelle sowie den Ausbau spezialisierter KI-Agenten für Finanzdienstleistungen, Gesundheit und Technologie getrieben. Trotz des schwierigen politischen Umfelds rund um die Pentagon-Verträge festigt Anthropic damit seinen Platz als einer der am schnellsten wachsenden KI-Anbieter der Welt.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-05-03",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Pentagon schließt KI-Verträge mit 8 Tech-Firmen - Anthropic wegen Waffenklausel ausgeschlossen",
-      "text": "Das US-Verteidigungsministerium hat KI-Verträge mit acht Unternehmen abgeschlossen: OpenAI, Google, Microsoft, NVIDIA, Amazon, Oracle, SpaceX und Reflection AI - nicht jedoch mit Anthropic. Hintergrund ist ein handfester Streit: Anthropic lehnte Klauseln ab, die dem Militär den Einsatz von Claude für 'alle rechtlich zulässigen Zwecke' erlaubt hätten, einschließlich autonomer Waffen und Massenüberwachung. US-Verteidigungsminister Pete Hegseth bezeichnete Anthropic-CEO Dario Amodei im Kongress als 'ideologischen Irren'; ein Bundesgericht in Kalifornien blockierte zuletzt einen Regierungsversuch gegen Anthropic. Die verbleibenden Firmen erhalten Zugang zu klassifizierten Einsatzgebieten - Analyse, Logistik und Massendatenverarbeitung für das US-Militär.",
+      "titel": "OpenAI-Prozess: Führungsstile von Musk und Altman unter Beschuss",
+      "text": "Im Gerichtsverfahren zwischen Elon Musk und Sam Altman rund um OpenAI haben Zeugenaussagen beide Gründer scharf kritisiert. Laut Bloomberg-Berichterstattung vom 8. Mai 2026 bemängelten Zeugen Musks autoritären Führungsstil ebenso wie Altmans Managementpraktiken innerhalb des Unternehmens. Im Zentrum des Rechtsstreits steht Musks Vorwurf, OpenAI habe seinen gemeinnützigen Auftrag zugunsten kommerzieller Interessen aufgegeben. OpenAI-Mitgründer Greg Brockman sagte aus, Musks fehlendes Verständnis für KI-Technologie sei ein wesentlicher Konfliktpunkt der frühen Jahre gewesen. Der Ausgang des Verfahrens könnte Konsequenzen für OpenAIs geplante Umwandlung in eine For-Profit-Gesellschaft haben.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-04",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Microsoft: KI-Ausgaben 25 Milliarden Dollar über Plan - Chip- und Speicherpreise explodieren",
-      "text": "Microsoft hat bekanntgegeben, dass sein KI-Infrastrukturbudget um 25 Milliarden Dollar über den ursprünglichen Planungen liegt - allein aufgrund gestiegener Preise für Speicherchips und KI-Hardware. Zusammen mit Google, Meta und Amazon investieren die vier Hyperscaler 2026 rund 725 Milliarden Dollar in KI-Infrastruktur, 77 Prozent mehr als im Vorjahr. Microsoft betreibt Azure als eine der weltgrößten KI-Cloud-Plattformen und ist über seine OpenAI-Partnerschaft tief in die Entwicklung von Frontier-Modellen eingebunden. Die gestiegenen Hardwarekosten spiegeln den anhaltenden globalen Chip-Engpass wider, bei dem NVIDIA als dominierender Lieferant massiv profitiert.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-07",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Anthropic erweitert Partnerschaft mit Google und Broadcom für mehr KI-Rechenkapazität",
-      "text": "Anthropic hat seine Partnerschaft mit Google Cloud und dem Chip-Designer Broadcom ausgebaut, um die wachsende Nachfrage nach Claude-Modellen mit zusätzlicher Rechenkapazität zu bedienen. Google hatte bereits über direkte Investitionen und seinen Cloud-Dienst eine zentrale Rolle in Anthropics Infrastruktur; Broadcom liefert spezialisierte KI-Chips. Die Erweiterung kommt zu einem Zeitpunkt, an dem Anthropics annualisierter Umsatz auf über 30 Milliarden Dollar gestiegen ist und das Nutzervolumen stark wächst. Das Abkommen diversifiziert Anthropics Infrastrukturbasis und reduziert die Abhängigkeit von Amazon AWS als bisherigem Hauptcloudpartner.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-05",
-      "unternehmen": "Anthropic"
+      "datum_artikel": "2026-05-08",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 auf Allzeithoch 7.396: Starke Quartalszahlen und Nahost-Hoffnungen treiben Kursanstieg",
-      "text": "Der S&P 500 erreichte in der Woche vom 4. bis 9. Mai 2026 ein neues Allzeithoch bei rund 7.396 Punkten und legte im Wochenverlauf 0,92 Prozent zu. Hintergrund sind außergewöhnlich starke Unternehmensergebnisse aus der laufenden Berichtssaison: 84 Prozent der berichtenden Unternehmen übertrafen die Erwartungen, mit einem kombinierten Gewinnwachstum von 27,1 Prozent - weit über den ursprünglich prognostizierten 14,4 Prozent. Zusätzlich stützten Hoffnungen auf eine diplomatische Lösung im Iran-Konflikt sowie sinkende Rohölpreise die Risikobereitschaft der Anleger. Auch der US-Arbeitsmarkt überraschte positiv: Im April 2026 wurden 115.000 neue Stellen geschaffen, mehr als doppelt so viele wie die erwarteten 62.000.",
+      "titel": "S&P 500 auf Rekordhoch: 84% der US-Firmen übertreffen Q1-Gewinnerwartungen",
+      "text": "Der S&P 500 notierte am 8. Mai 2026 bei rund 7.400 Punkten auf einem neuen Allzeithoch und liegt damit rund 8% im Plus seit Jahresbeginn. Treiber ist die starke Berichtssaison: 84% der bislang berichtenden S&P-500-Unternehmen übertrafen die Gewinnerwartungen der Analysten - einer der stärksten Werte seit Jahren. RBC Capital Markets erhöhte sein 12-Monats-Kursziel für den Index auf 7.900 Punkte (zuvor: 7.750); auch JPMorgan hält ein Erreichen von 8.000 Punkten im Jahr 2026 für möglich. Neben starken Unternehmensgewinnen stützen nachlassende geopolitische Spannungen und die Erwartung eines stabilen Zinspfads die Rally.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-05-09"
+      "datum_artikel": "2026-05-08"
     },
     {
-      "titel": "Gold auf 4.725 Dollar: Nahost-Entspannung drückt Ölpreise und dämpft Inflationssorgen",
-      "text": "Der Goldpreis stieg am Freitag, 9. Mai 2026, auf 4.724,80 Dollar je Feinunze und erreichte damit den höchsten Stand seit dem 22. April 2026. Auslöser sind Hoffnungen auf eine Einigung zwischen den USA und dem Iran: Diese drückten Öl- und Rohstoffpreise und schwächten damit Inflationssorgen ab, was Gold als sicheren Hafen weiterhin attraktiv hält. Trotz eines erneuten Schusswechsels zwischen US- und iranischen Kräften gilt der Waffenstillstand als intakt - Teheran erklärte die Lage für stabilisiert, US-Präsident Trump bestätigte das Fortbestehen des Waffenstillstands. Der Goldpreis liegt seit Jahresbeginn 2026 klar im Plus, getrieben von geopolitischer Unsicherheit und anhaltend hoher Zentralbanknachfrage.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-09"
-    },
-    {
-      "titel": "Fed lässt Zinsen bei 3,5-3,75 Prozent: Energiepreisschock verzögert Zinssenkungen bis Ende 2026",
-      "text": "Die US-Notenbank Federal Reserve hat in der Sitzung vom 29. April 2026 ihren Leitzins unverändert in einer Spanne von 3,5 bis 3,75 Prozent belassen - in der letzten Sitzung unter Vorsitzendem Jerome Powell. Der Iran-Konflikt hat die Ölpreise seit Ausbruch um knapp 60 Prozent ansteigen lassen und heizt damit die Inflation wieder an, was die Notenbank in Wartestellung hält. Eine Reuters-Umfrage unter Ökonomen ergibt, dass die Fed frühestens Ende 2026 wieder die Zinsen senken wird; das Median-Szenario sieht nur eine einzige Zinssenkung um 0,25 Prozentpunkte für das Gesamtjahr vor. Für FTSE-All-World-Anleger bedeuten anhaltend hohe Zinsen weiterhin Gegenwind bei Bewertungen, der bisher durch starke KI-Unternehmensgewinne überkompensiert wird.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-04-29"
+      "titel": "Gold steigt auf $4.714 pro Unze - Inflation und Zentralbankkäufe als Treiber",
+      "text": "Der Goldpreis stieg am 10. Mai 2026 auf 4.714 US-Dollar pro Unze und damit auf den höchsten Stand seit mehreren Wochen. Als strukturelle Treiber gelten die wachsende Goldnachfrage von Zentralbanken - insbesondere aus China und Indien, die ihre Reserven weg vom US-Dollar diversifizieren - sowie anhaltende Inflationssorgen weltweit. Hohe Staatsschulden und geopolitische Unsicherheiten stärken die Attraktivität von Gold als Wertaufbewahrungsmittel. Trotz eines früheren Rückgangs von über 10% infolge von Nahost-Spannungen erholt sich der Goldpreis weiter und notiert rund 0,6% über dem Vortag. Analysten erwarten für Mai 2026 eine Handelsspanne zwischen 4.380 und 5.100 US-Dollar pro Unze.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-10"
     }
   ]
 }
