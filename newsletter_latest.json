@@ -1,54 +1,41 @@
 {
-  "datum": "Sonntag, 10. Mai 2026",
-  "generiert": "2026-05-10",
+  "datum": "Montag, 11. Mai 2026",
+  "generiert": "2026-05-11",
   "ki_stories": [
     {
-      "titel": "Baidu veröffentlicht ERNIE 5.1 - Chinas günstigstes Spitzen-KI-Modell",
-      "text": "Baidu hat am 8. Mai 2026 sein neues Sprachmodell ERNIE 5.1 offiziell veröffentlicht. Das Modell erzielt seine Leistungswerte mit lediglich 6% der Vortrainingskosten vergleichbarer Konkurrenzmodelle und setzt damit einen neuen Effizienzmaßstab in der KI-Branche. ERNIE 5.1 belegt Platz 4 weltweit und Platz 1 unter chinesischen Modellen auf dem Arena-Search-Leaderboard mit einem Score von 1.223 Punkten; seine Agentenkapazitäten übertreffen jene von DeepSeek-V4-Pro. Auf dem Mathematik-Benchmark AIME26 erreicht das Modell 99,6 Punkte und liegt damit weltweit nur knapp hinter Googles Gemini 3.1 Pro. Baidu plant weitere Modell-Updates auf seiner Entwicklerkonferenz Baidu Create 2026. Das Modell ist ab sofort auf der Qianfan-Plattform und der ERNIE-Bot-Website für Unternehmen und Entwickler verfügbar.",
-      "quelle": "InfoWorld",
-      "datum_artikel": "2026-05-08"
+      "titel": "Alphabet überholt bald NVIDIA als wertvollstes Unternehmen der Welt",
+      "text": "Alphabet hat sich binnen eines Jahres von einem KI-Nachzügler zur dominanten Kraft in nahezu allen Bereichen der Künstlichen Intelligenz entwickelt und steht kurz davor, NVIDIA als wertvollstes börsennotiertes Unternehmen der Welt abzulösen. Die Alphabet-Aktie legte in den vergangenen zwölf Monaten rund 160 Prozent zu, angetrieben von starkem Wachstum bei Google Cloud, dem KI-Modell Gemini und den hauseigenen KI-Chips (TPUs). Bloomberg zufolge ist Alphabet das einzige grosse Tech-Unternehmen mit starken Positionen in nahezu jeder Schicht des KI-Ökosystems: Modelle, Infrastruktur, Hardware und Endprodukte. Die aktuelle Marktkapitalisierung liegt knapp unterhalb der von NVIDIA, das zuletzt bei rund 5 Billionen US-Dollar gehandelt wurde. Analysten sehen in Alphabets Aufstieg einen eindeutigen Beleg dafür, dass umfassende KI-Integration sich direkt in Börsenwert übersetzt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-10"
     },
     {
-      "titel": "DeepSeek kurz vor Abschluss erster Finanzierungsrunde bei $50-Mrd-Bewertung",
-      "text": "Das chinesische KI-Labor DeepSeek steht laut Insidern kurz vor dem Abschluss seiner ersten externen Finanzierungsrunde und wird dabei mit bis zu 50 Milliarden US-Dollar bewertet. Als Lead-Investor gilt Chinas staatlicher Halbleiterfonds 'Big Fund III'; Tencent und das globale Investment-Unternehmen Hillhouse sind ebenfalls an Gesprächen beteiligt. Insgesamt sollen mehr als 7 Milliarden US-Dollar eingesammelt werden - die bislang größte externe Finanzierung eines chinesischen KI-Unternehmens. Gründer Liang Wenfeng gibt damit eine langjährige Strategie auf, keinerlei externe Mittel anzunehmen - ausgelöst durch verstärkte Abwerbung von Forschern durch Konkurrenten. Das Kapital soll den Ausbau von Rechenkapazitäten und die Verbesserung der Mitarbeitervergütung finanzieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-08"
+      "titel": "Cloudflare streicht 1.100 Stellen nach 600% Anstieg interner KI-Nutzung",
+      "text": "Cloudflare, einer der führenden Anbieter von Netzwerksicherheit und Cloud-Diensten, hat angekündigt, mehr als 1.100 Stellen zu streichen - rund 20 Prozent der gesamten Belegschaft. Als Hauptgrund nennt das Unternehmen, dass die interne Nutzung von KI-Tools binnen nur drei Monaten um über 600 Prozent gestiegen ist und damit bisher menschliche Tätigkeiten in grossem Umfang automatisiert hat. Auch Upwork und Coinbase meldeten im Mai 2026 erhebliche Entlassungswellen im Zuge KI-getriebener Restrukturierungen. Laut dem US-Personalberatungsunternehmen Challenger, Gray und Christmas war Künstliche Intelligenz im April 2026 zum zweiten Monat in Folge der meistgenannte Grund für Stellenabbau in amerikanischen Unternehmen. Experten betonen jedoch, dass Konzerne in der Regel nicht ganze Berufsfelder eliminieren, sondern Tätigkeiten umschichten - hin zu Aufgaben, die ausschliesslich Menschen erledigen können.",
+      "quelle": "CNN Business",
+      "datum_artikel": "2026-05-10"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Google investiert $40 Mrd in Anthropic - größte KI-Investition aller Zeiten",
-      "text": "Google hat am 8. Mai 2026 eine Investitionszusage von insgesamt 40 Milliarden US-Dollar in Anthropic bekanntgegeben - die größte öffentlich bekannte Einzel-KI-Investition überhaupt. Die Struktur sieht 10 Milliarden US-Dollar als Sofortzahlung vor, weitere 30 Milliarden sind an Leistungsmeilensteine geknüpft. Gleichzeitig schloss Anthropic einen Rechenkapazitäts-Deal mit SpaceX ab: Zugang zur Colossus-1-Anlage in Memphis (Tennessee) mit über 300 Megawatt und mehr als 220.000 NVIDIA-GPUs - verfügbar innerhalb eines Monats. Anthropics annualisierter Umsatz liegt inzwischen bei über 30 Milliarden US-Dollar, verglichen mit rund 9 Milliarden Ende 2025. Die neuen Kapazitäten sollen Engpässe bei Claude-Nutzungslimits beseitigen, über die Kunden zuletzt geklagt hatten.",
+      "titel": "Alphabet emittiert erstmals Yen-Anleihen und hebt KI-Budget auf 190 Mrd. USD",
+      "text": "Alphabet plant, erstmals Anleihen in japanischen Yen zu begeben, um seine massiv steigenden KI-Investitionen zu finanzieren. Der Google-Mutterkonzern hat seine Prognose für Kapitalausgaben im laufenden Jahr 2026 auf bis zu 190 Milliarden US-Dollar angehoben - bereits die zweite Korrektur nach oben von ursprünglich 185 Milliarden US-Dollar und entspricht dem Doppelten der Ausgaben im Jahr 2025. Die Yen-Emission dient der Diversifizierung der Finanzierungsquellen, da Alphabet im globalen KI-Wettrüsten seine Führungsposition weiter ausbauen will. Hauptnutzniesser der Mittel sind KI-Rechenzentren, die Entwicklung proprietärer KI-Chips (TPUs) sowie die Google Cloud-Infrastruktur. Mit seiner aktuellen Marktbewertung steht Alphabet kurz davor, NVIDIA als weltgrösstbewertetes börsennotiertes Unternehmen zu überholen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-08",
-      "unternehmen": "Anthropic"
+      "datum_artikel": "2026-05-11",
+      "unternehmen": "Alphabet"
     },
     {
-      "titel": "SoftBank kürzt OpenAI-Kreditlinie um 40% - Gläubiger zeigen Zurückhaltung",
-      "text": "SoftBank hat seine Pläne für eine mit OpenAI-Anteilen besicherte 10-Milliarden-Dollar-Kreditlinie deutlich reduziert. Laut Bloomberg kürzte der japanische Technologieinvestor das Vorhaben um rund 40%, nachdem Gläubiger Zurückhaltung signalisierten. Der ursprüngliche Plan sah vor, OpenAI-Anteile als Sicherheit für kurzfristige Liquidität zu nutzen. Die Kürzung kommt zu einem Zeitpunkt, an dem OpenAI nach eigenen Angaben rund 50 Milliarden US-Dollar allein in diesem Jahr in Recheninfrastruktur investieren will. Laut einem WSJ-Bericht hat OpenAI zuletzt eigene Nutzer- und Umsatzziele verfehlt, was das Vertrauen der Kreditgeber belastet haben dürfte.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-08",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "OpenAI-Prozess: Führungsstile von Musk und Altman unter Beschuss",
-      "text": "Im Gerichtsverfahren zwischen Elon Musk und Sam Altman rund um OpenAI haben Zeugenaussagen beide Gründer scharf kritisiert. Laut Bloomberg-Berichterstattung vom 8. Mai 2026 bemängelten Zeugen Musks autoritären Führungsstil ebenso wie Altmans Managementpraktiken innerhalb des Unternehmens. Im Zentrum des Rechtsstreits steht Musks Vorwurf, OpenAI habe seinen gemeinnützigen Auftrag zugunsten kommerzieller Interessen aufgegeben. OpenAI-Mitgründer Greg Brockman sagte aus, Musks fehlendes Verständnis für KI-Technologie sei ein wesentlicher Konfliktpunkt der frühen Jahre gewesen. Der Ausgang des Verfahrens könnte Konsequenzen für OpenAIs geplante Umwandlung in eine For-Profit-Gesellschaft haben.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-08",
-      "unternehmen": "OpenAI"
+      "titel": "NVIDIA überschreitet 40 Mrd. USD an KI-Investitionszusagen",
+      "text": "NVIDIA hat seine Strategie als direkter KI-Investor stark beschleunigt und in diesem Jahr bereits mehr als 40 Milliarden US-Dollar an Beteiligungen und Investitionszusagen angehäuft. Allein in dieser Woche sicherte sich NVIDIA das Recht, bis zu 2,1 Milliarden US-Dollar in den Rechenzentrum-Betreiber IREN zu investieren, einen Tag nachdem eine Vereinbarung mit dem Materialkonzern Corning über bis zu 3,2 Milliarden US-Dollar geschlossen wurde. NVIDIA hatte bereits im Februar 2026 rund 30 Milliarden US-Dollar in OpenAI investiert; seine frühere 5-Milliarden-Beteiligung an Intel ist mittlerweile über 25 Milliarden US-Dollar wert. Mit den für den 20. Mai erwarteten Quartalsergebnissen (Q1 Geschäftsjahr 2027) wird ein klareres Bild entstehen, wie sich diese Beteiligungen auf die Finanzkennzahlen auswirken. Analysten sehen NVIDIAs Investitionsstrategie als gezielten Aufbau eines umfassenden KI-Ökosystems, das weit über den reinen Chip-Verkauf hinausgeht.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-09",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 auf Rekordhoch: 84% der US-Firmen übertreffen Q1-Gewinnerwartungen",
-      "text": "Der S&P 500 notierte am 8. Mai 2026 bei rund 7.400 Punkten auf einem neuen Allzeithoch und liegt damit rund 8% im Plus seit Jahresbeginn. Treiber ist die starke Berichtssaison: 84% der bislang berichtenden S&P-500-Unternehmen übertrafen die Gewinnerwartungen der Analysten - einer der stärksten Werte seit Jahren. RBC Capital Markets erhöhte sein 12-Monats-Kursziel für den Index auf 7.900 Punkte (zuvor: 7.750); auch JPMorgan hält ein Erreichen von 8.000 Punkten im Jahr 2026 für möglich. Neben starken Unternehmensgewinnen stützen nachlassende geopolitische Spannungen und die Erwartung eines stabilen Zinspfads die Rally.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-08"
-    },
-    {
-      "titel": "Gold steigt auf $4.714 pro Unze - Inflation und Zentralbankkäufe als Treiber",
-      "text": "Der Goldpreis stieg am 10. Mai 2026 auf 4.714 US-Dollar pro Unze und damit auf den höchsten Stand seit mehreren Wochen. Als strukturelle Treiber gelten die wachsende Goldnachfrage von Zentralbanken - insbesondere aus China und Indien, die ihre Reserven weg vom US-Dollar diversifizieren - sowie anhaltende Inflationssorgen weltweit. Hohe Staatsschulden und geopolitische Unsicherheiten stärken die Attraktivität von Gold als Wertaufbewahrungsmittel. Trotz eines früheren Rückgangs von über 10% infolge von Nahost-Spannungen erholt sich der Goldpreis weiter und notiert rund 0,6% über dem Vortag. Analysten erwarten für Mai 2026 eine Handelsspanne zwischen 4.380 und 5.100 US-Dollar pro Unze.",
-      "quelle": "Bloomberg",
+      "titel": "Gold bei 4.715 Dollar: US-Iran-Entspannung stützt Preis vor CPI-Daten",
+      "text": "Der Goldpreis stieg am Ende der vergangenen Handelswoche auf rund 4.715 bis 4.733 US-Dollar je Feinunze und verzeichnete damit ein Wochenplus von gut 2,4 Prozent. Haupttreiber war wachsender Optimismus über mögliche Friedensgespräche zwischen den USA und dem Iran, was Inflationserwartungen dämpfte und den Druck auf die langfristigen Zinssätze verringerte. Gleichzeitig schloss der S&P 500 die Vorwoche bei 7.399 Punkten mit einem Plus von 2,3 Prozent, gestützt durch eine starke Q1-Gewinnsaison mit rund 15 Prozent Gewinnwachstum im Jahresvergleich. Im Mittelpunkt der Märkte steht diese Woche der US-Verbraucherpreisindex (CPI) für April, dessen Veröffentlichung für Dienstag, den 12. Mai geplant ist - Ökonomen erwarten eine Jahresrate von 3,7 Prozent. Je nach CPI-Ausfall könnte Gold entweder in Richtung 4.880 Dollar ausbrechen oder auf den Unterstützungsbereich um 4.580 Dollar zurückfallen; die US-Notenbank Fed hält ihren Leitzins derzeit bei 3,50 bis 3,75 Prozent stabil.",
+      "quelle": "FXEmpire",
       "datum_artikel": "2026-05-10"
     }
   ]
