@@ -1,42 +1,41 @@
 {
-  "datum": "Montag, 11. Mai 2026",
-  "generiert": "2026-05-11",
+  "datum": "Dienstag, 12. Mai 2026",
+  "generiert": "2026-05-12",
   "ki_stories": [
     {
-      "titel": "Alphabet überholt bald NVIDIA als wertvollstes Unternehmen der Welt",
-      "text": "Alphabet hat sich binnen eines Jahres von einem KI-Nachzügler zur dominanten Kraft in nahezu allen Bereichen der Künstlichen Intelligenz entwickelt und steht kurz davor, NVIDIA als wertvollstes börsennotiertes Unternehmen der Welt abzulösen. Die Alphabet-Aktie legte in den vergangenen zwölf Monaten rund 160 Prozent zu, angetrieben von starkem Wachstum bei Google Cloud, dem KI-Modell Gemini und den hauseigenen KI-Chips (TPUs). Bloomberg zufolge ist Alphabet das einzige grosse Tech-Unternehmen mit starken Positionen in nahezu jeder Schicht des KI-Ökosystems: Modelle, Infrastruktur, Hardware und Endprodukte. Die aktuelle Marktkapitalisierung liegt knapp unterhalb der von NVIDIA, das zuletzt bei rund 5 Billionen US-Dollar gehandelt wurde. Analysten sehen in Alphabets Aufstieg einen eindeutigen Beleg dafür, dass umfassende KI-Integration sich direkt in Börsenwert übersetzt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-10"
+      "titel": "IBM-Studie: Chief-AI-Officer-Rollen erreichen die Vorstandsetage",
+      "text": "Ein am 11. Mai 2026 von IBM veröffentlichter Bericht zeigt, dass die meisten Großunternehmen inzwischen dedizierte Chief-AI-Officer-Positionen besetzen oder konkret planen, dies zu tun. KI-Strategie ist damit auf der Vorstandsebene angekommen - ähnlich wie der CFO einst als Antwort auf die Komplexität moderner Finanzen entstand. Der Schritt gilt als Reaktion auf steigende regulatorische Anforderungen, ethische Fragen rund um KI-Entscheidungen und den Druck, massive KI-Investitionen strategisch zu lenken. CNBC berichtet, dass sowohl Technologiekonzerne als auch traditionelle Branchen wie Finanzdienstleistung und Gesundheitswesen CAIO-Rollen massenhaft einführen. Die Entwicklung markiert den Übergang von KI als experimentellem Werkzeug hin zu einem strategischen Kernelement der Unternehmensführung.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-11"
     },
     {
-      "titel": "Cloudflare streicht 1.100 Stellen nach 600% Anstieg interner KI-Nutzung",
-      "text": "Cloudflare, einer der führenden Anbieter von Netzwerksicherheit und Cloud-Diensten, hat angekündigt, mehr als 1.100 Stellen zu streichen - rund 20 Prozent der gesamten Belegschaft. Als Hauptgrund nennt das Unternehmen, dass die interne Nutzung von KI-Tools binnen nur drei Monaten um über 600 Prozent gestiegen ist und damit bisher menschliche Tätigkeiten in grossem Umfang automatisiert hat. Auch Upwork und Coinbase meldeten im Mai 2026 erhebliche Entlassungswellen im Zuge KI-getriebener Restrukturierungen. Laut dem US-Personalberatungsunternehmen Challenger, Gray und Christmas war Künstliche Intelligenz im April 2026 zum zweiten Monat in Folge der meistgenannte Grund für Stellenabbau in amerikanischen Unternehmen. Experten betonen jedoch, dass Konzerne in der Regel nicht ganze Berufsfelder eliminieren, sondern Tätigkeiten umschichten - hin zu Aufgaben, die ausschliesslich Menschen erledigen können.",
-      "quelle": "CNN Business",
-      "datum_artikel": "2026-05-10"
+      "titel": "Windows 11 Mai-Update: KI-Agenten erhalten eigene Taskbar-Anzeige",
+      "text": "Microsoft rollt am 12. Mai 2026 das monatliche Windows-11-Update aus, das erstmals KI-Agenten direkt in die Taskleiste integriert. Über neue offizielle KI-Agenten-APIs können Softwareentwickler das Verhalten ihrer Agenten in einer App-Vorschau in der Taskbar sichtbar und überwachbar machen - ein Schritt zu mehr Transparenz beim Einsatz von KI im Alltag. Das Update bringt außerdem Verbesserungen im Windows Explorer sowie einen neuen Xbox-Modus für Gaming-Nutzer. Da Windows auf über einer Milliarde Geräten weltweit läuft, macht diese Integration KI-Agenten zu einem Standardbestandteil des Desktop-Ökosystems. Microsoft schafft damit die technische Infrastruktur, die KI-Agenten sowohl für Entwickler als auch für Endverbraucher zugänglicher und kontrollierbarer macht.",
+      "quelle": "MSN",
+      "datum_artikel": "2026-05-12"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Alphabet emittiert erstmals Yen-Anleihen und hebt KI-Budget auf 190 Mrd. USD",
-      "text": "Alphabet plant, erstmals Anleihen in japanischen Yen zu begeben, um seine massiv steigenden KI-Investitionen zu finanzieren. Der Google-Mutterkonzern hat seine Prognose für Kapitalausgaben im laufenden Jahr 2026 auf bis zu 190 Milliarden US-Dollar angehoben - bereits die zweite Korrektur nach oben von ursprünglich 185 Milliarden US-Dollar und entspricht dem Doppelten der Ausgaben im Jahr 2025. Die Yen-Emission dient der Diversifizierung der Finanzierungsquellen, da Alphabet im globalen KI-Wettrüsten seine Führungsposition weiter ausbauen will. Hauptnutzniesser der Mittel sind KI-Rechenzentren, die Entwicklung proprietärer KI-Chips (TPUs) sowie die Google Cloud-Infrastruktur. Mit seiner aktuellen Marktbewertung steht Alphabet kurz davor, NVIDIA als weltgrösstbewertetes börsennotiertes Unternehmen zu überholen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-11",
-      "unternehmen": "Alphabet"
-    },
-    {
-      "titel": "NVIDIA überschreitet 40 Mrd. USD an KI-Investitionszusagen",
-      "text": "NVIDIA hat seine Strategie als direkter KI-Investor stark beschleunigt und in diesem Jahr bereits mehr als 40 Milliarden US-Dollar an Beteiligungen und Investitionszusagen angehäuft. Allein in dieser Woche sicherte sich NVIDIA das Recht, bis zu 2,1 Milliarden US-Dollar in den Rechenzentrum-Betreiber IREN zu investieren, einen Tag nachdem eine Vereinbarung mit dem Materialkonzern Corning über bis zu 3,2 Milliarden US-Dollar geschlossen wurde. NVIDIA hatte bereits im Februar 2026 rund 30 Milliarden US-Dollar in OpenAI investiert; seine frühere 5-Milliarden-Beteiligung an Intel ist mittlerweile über 25 Milliarden US-Dollar wert. Mit den für den 20. Mai erwarteten Quartalsergebnissen (Q1 Geschäftsjahr 2027) wird ein klareres Bild entstehen, wie sich diese Beteiligungen auf die Finanzkennzahlen auswirken. Analysten sehen NVIDIAs Investitionsstrategie als gezielten Aufbau eines umfassenden KI-Ökosystems, das weit über den reinen Chip-Verkauf hinausgeht.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-09",
-      "unternehmen": "NVIDIA"
+      "titel": "AMD-Aktie verdoppelt sich 2026: KI-Chips treiben Rekordumsatz",
+      "text": "AMD erzielte im ersten Quartal 2026 einen Rekordumsatz von 10,25 Milliarden US-Dollar, ein Plus von 38 Prozent gegenüber dem Vorjahr. Das Datenzentrum-Segment wuchs besonders stark: 5,78 Milliarden Dollar, ein Zuwachs von 57 Prozent. Für das zweite Quartal erwartet AMD rund 11,2 Milliarden Dollar Umsatz - die Wachstumsrate beschleunigt sich damit auf rund 46 Prozent. Die AMD-Aktie ist im bisherigen Jahresverlauf 2026 um rund 112 Prozent gestiegen und schlägt damit NVIDIA (plus 15 Prozent YTD) deutlich. Wichtige Kunden wie Meta und OpenAI haben große Mengen AMD-Instinct-GPUs geordert. Die Zahlen zeigen, dass AMD NVIDIA als einzigen dominanten KI-Chip-Anbieter zunehmend herausfordert und klare Marktanteile gewinnt.",
+      "quelle": "The Motley Fool",
+      "datum_artikel": "2026-05-10",
+      "unternehmen": "AMD"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Gold bei 4.715 Dollar: US-Iran-Entspannung stützt Preis vor CPI-Daten",
-      "text": "Der Goldpreis stieg am Ende der vergangenen Handelswoche auf rund 4.715 bis 4.733 US-Dollar je Feinunze und verzeichnete damit ein Wochenplus von gut 2,4 Prozent. Haupttreiber war wachsender Optimismus über mögliche Friedensgespräche zwischen den USA und dem Iran, was Inflationserwartungen dämpfte und den Druck auf die langfristigen Zinssätze verringerte. Gleichzeitig schloss der S&P 500 die Vorwoche bei 7.399 Punkten mit einem Plus von 2,3 Prozent, gestützt durch eine starke Q1-Gewinnsaison mit rund 15 Prozent Gewinnwachstum im Jahresvergleich. Im Mittelpunkt der Märkte steht diese Woche der US-Verbraucherpreisindex (CPI) für April, dessen Veröffentlichung für Dienstag, den 12. Mai geplant ist - Ökonomen erwarten eine Jahresrate von 3,7 Prozent. Je nach CPI-Ausfall könnte Gold entweder in Richtung 4.880 Dollar ausbrechen oder auf den Unterstützungsbereich um 4.580 Dollar zurückfallen; die US-Notenbank Fed hält ihren Leitzins derzeit bei 3,50 bis 3,75 Prozent stabil.",
-      "quelle": "FXEmpire",
-      "datum_artikel": "2026-05-10"
+      "titel": "S&P 500 auf Allzeithoch trotz 100-Dollar-Öl und Iran-Eskalation",
+      "text": "Der S&P 500 schloss am Montag, 11. Mai 2026, auf einem neuen Rekordstand bei 7.412,84 Punkten, ein Tagesgewinn von 0,19 Prozent. Auch der Dow Jones stieg um 95 Punkte auf 49.704 Punkte und markierte ebenfalls ein Allzeithoch. Hintergrund: Trotz eines Ölpreisanstiegs von rund 3 Prozent auf nahezu 100 US-Dollar pro Barrel stützte der starke US-Technologiesektor die Indizes. Auslöser für den Ölpreisanstieg war die Ablehnung des iranischen Friedensvorschlags durch US-Präsident Donald Trump. Marktbeobachter bei Yardeni Research haben ihr S&P-500-Jahresendziel auf 8.250 Punkte angehoben, was rund 11 Prozent über dem aktuellen Stand liegt.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-11"
+    },
+    {
+      "titel": "Gold bei 4.700 Dollar: Fed-Pause und Rekordnachfrage stützen Edelmetall",
+      "text": "Der Goldpreis notierte am 11. Mai 2026 bei rund 4.700 bis 4.730 US-Dollar pro Unze. 95,8 Prozent der Marktteilnehmer erwarten laut CME-Daten keine Zinssenkung der US-Notenbank Fed in der Juni-Sitzung, bei einem aktuellen Leitzinsniveau von 3,50 bis 3,75 Prozent. Der anhaltende US-Iran-Krieg hält die Energiepreise hoch und befeuert globale Inflationssorgen, was Gold als sicheren Hafen stützt. Der World Gold Council meldete für das erste Quartal 2026 eine Rekordnachfrage von 1.230,9 Tonnen, ein Plus von 2 Prozent gegenüber dem Vorjahr. Analysten von Societe Generale und RBC Capital sehen den Goldpreis bis Jahresende bei 5.000 bis 6.000 Dollar.",
+      "quelle": "Fortune",
+      "datum_artikel": "2026-05-11"
     }
   ]
 }
