@@ -1,41 +1,47 @@
 {
-  "datum": "Dienstag, 12. Mai 2026",
-  "generiert": "2026-05-12",
+  "datum": "Mittwoch, 13. Mai 2026",
+  "generiert": "2026-05-13",
   "ki_stories": [
     {
-      "titel": "IBM-Studie: Chief-AI-Officer-Rollen erreichen die Vorstandsetage",
-      "text": "Ein am 11. Mai 2026 von IBM veröffentlichter Bericht zeigt, dass die meisten Großunternehmen inzwischen dedizierte Chief-AI-Officer-Positionen besetzen oder konkret planen, dies zu tun. KI-Strategie ist damit auf der Vorstandsebene angekommen - ähnlich wie der CFO einst als Antwort auf die Komplexität moderner Finanzen entstand. Der Schritt gilt als Reaktion auf steigende regulatorische Anforderungen, ethische Fragen rund um KI-Entscheidungen und den Druck, massive KI-Investitionen strategisch zu lenken. CNBC berichtet, dass sowohl Technologiekonzerne als auch traditionelle Branchen wie Finanzdienstleistung und Gesundheitswesen CAIO-Rollen massenhaft einführen. Die Entwicklung markiert den Übergang von KI als experimentellem Werkzeug hin zu einem strategischen Kernelement der Unternehmensführung.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-11"
+      "titel": "Vier chinesische KI-Labore bringen neue Open-Source-Coding-Modelle auf den Markt",
+      "text": "Innerhalb von nur zwölf Tagen haben vier chinesische KI-Labore leistungsstarke Open-Source-Coding-Modelle veröffentlicht: Z.ai lancierte GLM-5.1, MiniMax brachte M2.7, Moonshot veröffentlichte Kimi K2.6, und DeepSeek stellte die vierte Generation seines Flaggschiffmodells DeepSeek V4 vor. Alle vier Modelle erreichen in Benchmarks für agentenbasiertes Software-Engineering ein vergleichbares Leistungsniveau wie westliche Spitzenmodelle – zu deutlich geringeren Inferenzkosten. Die simultane Veröffentlichung zeigt, dass chinesische Labore trotz US-Exportbeschränkungen bei Hochleistungschips ihre Entwicklungsgeschwindigkeit aufrechterhalten und beim Frontier-Modell-Wettkampf aufgeholt haben. An den Börsen löste die Nachricht am 12. Mai einen Ausverkauf bei westlichen KI-Aktien aus, weil Investoren die bisherigen Wettbewerbsvorteile US-amerikanischer KI-Anbieter neu bewerteten. Langfristig könnten günstigere, frei zugängliche Modelle aus China den globalen Markt für KI-Anwendungen neu sortieren und bestehende Preisstrategien unter Druck setzen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-12"
     },
     {
-      "titel": "Windows 11 Mai-Update: KI-Agenten erhalten eigene Taskbar-Anzeige",
-      "text": "Microsoft rollt am 12. Mai 2026 das monatliche Windows-11-Update aus, das erstmals KI-Agenten direkt in die Taskleiste integriert. Über neue offizielle KI-Agenten-APIs können Softwareentwickler das Verhalten ihrer Agenten in einer App-Vorschau in der Taskbar sichtbar und überwachbar machen - ein Schritt zu mehr Transparenz beim Einsatz von KI im Alltag. Das Update bringt außerdem Verbesserungen im Windows Explorer sowie einen neuen Xbox-Modus für Gaming-Nutzer. Da Windows auf über einer Milliarde Geräten weltweit läuft, macht diese Integration KI-Agenten zu einem Standardbestandteil des Desktop-Ökosystems. Microsoft schafft damit die technische Infrastruktur, die KI-Agenten sowohl für Entwickler als auch für Endverbraucher zugänglicher und kontrollierbarer macht.",
-      "quelle": "MSN",
-      "datum_artikel": "2026-05-12"
+      "titel": "Google warnt: Staatliche Hacker nutzen KI bereits für Cyber-Einbrüche",
+      "text": "Googles Sicherheitsteam hat eine dringende Warnung herausgegeben, nachdem staatlich geförderte Hackergruppen damit begonnen haben, KI-Werkzeuge systematisch für Einbrüche in Computersysteme einzusetzen. Die Bedrohung gilt als qualitativ neu, weil KI die Angriffsfähigkeit von Hackern erheblich steigert: Schwachstellen können schneller identifiziert, Angriffe automatisiert und Sicherheitsbarrieren effizienter umgangen werden. Google stuft die Lage als ernsthaft ein und warnt, dass die Kombination aus leistungsstarker KI und staatlichem Ressourceneinsatz eine neue Dimension der Cyberbedrohung darstellt. Erwähnt wird dabei auch Anthropics Modell Claude Mythos, das bei internen Sicherheitstests außergewöhnliche Fähigkeiten im Bereich Schwachstellenanalyse und Code-Exploitation gezeigt hatte und deshalb nur eingeschränkt freigegeben wurde. Experten fordern schärfere Zugangsbeschränkungen für leistungsstarke KI-Modelle sowie engere Zusammenarbeit zwischen Tech-Unternehmen und Behörden zur Abwehr solcher Bedrohungen.",
+      "quelle": "Fortune",
+      "datum_artikel": "2026-05-11"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "AMD-Aktie verdoppelt sich 2026: KI-Chips treiben Rekordumsatz",
-      "text": "AMD erzielte im ersten Quartal 2026 einen Rekordumsatz von 10,25 Milliarden US-Dollar, ein Plus von 38 Prozent gegenüber dem Vorjahr. Das Datenzentrum-Segment wuchs besonders stark: 5,78 Milliarden Dollar, ein Zuwachs von 57 Prozent. Für das zweite Quartal erwartet AMD rund 11,2 Milliarden Dollar Umsatz - die Wachstumsrate beschleunigt sich damit auf rund 46 Prozent. Die AMD-Aktie ist im bisherigen Jahresverlauf 2026 um rund 112 Prozent gestiegen und schlägt damit NVIDIA (plus 15 Prozent YTD) deutlich. Wichtige Kunden wie Meta und OpenAI haben große Mengen AMD-Instinct-GPUs geordert. Die Zahlen zeigen, dass AMD NVIDIA als einzigen dominanten KI-Chip-Anbieter zunehmend herausfordert und klare Marktanteile gewinnt.",
-      "quelle": "The Motley Fool",
-      "datum_artikel": "2026-05-10",
-      "unternehmen": "AMD"
+      "titel": "OpenAI gründet Deployment-Tochter mit 4 Mrd. Dollar und übernimmt Beratung Tomoro",
+      "text": "OpenAI hat am 11. Mai die OpenAI Deployment Company gegründet – eine eigene Tochtergesellschaft mit mehr als 4 Milliarden Dollar an Kapitalzusagen von OpenAI selbst und 19 externen Investoren, darunter der Beteiligungsgesellschaft TPG. Gleichzeitig wurde die Übernahme des schottischen KI-Beratungsunternehmens Tomoro bekanntgegeben, das rund 150 spezialisierte Ingenieure mitbringt und Großkunden wie Tesco, Virgin Atlantic und Supercell betreut. Ziel ist es, den größten Engpass bei der KI-Einführung in Unternehmen zu beseitigen: Laut OpenAI-Vertriebschefin Denise Dresser sei nicht mehr die Modellleistung das Hindernis, sondern die operative Integration in bestehende Geschäftsprozesse. Das Enterprise-Segment macht bereits mehr als 40 Prozent von OpenAIs Gesamtumsatz aus; bis Ende 2026 soll dieser Anteil auf Augenhöhe mit dem Verbrauchergeschäft gebracht werden. Mit der Deployment Company positioniert sich OpenAI als Vollserviceanbieter – nicht mehr nur als Modell-Lieferant, sondern auch als Implementierungs- und Integrationspartner für Konzerne.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-11",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 auf Allzeithoch trotz 100-Dollar-Öl und Iran-Eskalation",
-      "text": "Der S&P 500 schloss am Montag, 11. Mai 2026, auf einem neuen Rekordstand bei 7.412,84 Punkten, ein Tagesgewinn von 0,19 Prozent. Auch der Dow Jones stieg um 95 Punkte auf 49.704 Punkte und markierte ebenfalls ein Allzeithoch. Hintergrund: Trotz eines Ölpreisanstiegs von rund 3 Prozent auf nahezu 100 US-Dollar pro Barrel stützte der starke US-Technologiesektor die Indizes. Auslöser für den Ölpreisanstieg war die Ablehnung des iranischen Friedensvorschlags durch US-Präsident Donald Trump. Marktbeobachter bei Yardeni Research haben ihr S&P-500-Jahresendziel auf 8.250 Punkte angehoben, was rund 11 Prozent über dem aktuellen Stand liegt.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-11"
+      "titel": "US-Inflation steigt auf 3,8 Prozent – Fed-Zinssenkungen bis Jahresende ausgeschlossen",
+      "text": "Die US-Verbraucherpreise sind im April 2026 um 3,8 Prozent gegenüber dem Vorjahr gestiegen – der höchste Wert seit Mai 2023 und über der Marktprognose von 3,7 Prozent. Auch die Kerninflationsrate (ohne Energie und Nahrungsmittel) übertraf die Erwartungen mit 2,8 Prozent. Die Daten setzen die US-Notenbank Federal Reserve unter erheblichen Druck: Händler preisen nun eine Wahrscheinlichkeit von über 70 Prozent für eine Zinserhöhung bis April 2027 ein und schließen Zinssenkungen bis Jahresende 2026 faktisch aus. Der aktuelle Fed-Leitzins liegt bei 3,50 bis 3,75 Prozent. Für Anleger bedeutet das anhaltend hohe Finanzierungskosten und Druck auf zinssensitive Anlageklassen – insbesondere Wachstumsaktien im Tech- und KI-Sektor, die in der jüngsten Rally besonders stark gestiegen waren.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-13"
     },
     {
-      "titel": "Gold bei 4.700 Dollar: Fed-Pause und Rekordnachfrage stützen Edelmetall",
-      "text": "Der Goldpreis notierte am 11. Mai 2026 bei rund 4.700 bis 4.730 US-Dollar pro Unze. 95,8 Prozent der Marktteilnehmer erwarten laut CME-Daten keine Zinssenkung der US-Notenbank Fed in der Juni-Sitzung, bei einem aktuellen Leitzinsniveau von 3,50 bis 3,75 Prozent. Der anhaltende US-Iran-Krieg hält die Energiepreise hoch und befeuert globale Inflationssorgen, was Gold als sicheren Hafen stützt. Der World Gold Council meldete für das erste Quartal 2026 eine Rekordnachfrage von 1.230,9 Tonnen, ein Plus von 2 Prozent gegenüber dem Vorjahr. Analysten von Societe Generale und RBC Capital sehen den Goldpreis bis Jahresende bei 5.000 bis 6.000 Dollar.",
+      "titel": "S&P 500 weicht nach Allzeithoch vom 11. Mai zurück – KI-Aktien und Öl belasten",
+      "text": "Einen Tag nach dem neuen Allzeithoch vom 11. Mai gab der S&P 500 am 12. Mai um rund 0,4 Prozent nach. Haupttreiber waren ein breiter Abverkauf im Technologie- und KI-Sektor sowie steigende Ölpreise infolge geopolitischer Spannungen im Nahen Osten, darunter Unsicherheiten rund um den Seeweg durch die Straße von Hormus. Zusätzlich belastet die hartnäckig hohe US-Inflation die Stimmung: Zinssenkungshoffnungen, die Wachstumsaktien zuletzt beflügelt hatten, sind angesichts des aktuellen CPI-Berichts stark gedämpft. Auch in Asien gaben Märkte nach: Der südkoreanische Kospi verlor 2,3 Prozent, unter anderem wegen politischer Diskussionen über mögliche Sondersteuern auf Unternehmensgewinne aus dem KI-Bereich. Analysten sehen den Rücksetzer nach dem Rekordhoch als normale Konsolidierung, betonen aber, dass die Kombination aus Inflation, Geopolitik und Wettbewerbsdruck im KI-Sektor die Rally auch mittelfristig bremsen könnte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-12"
+    },
+    {
+      "titel": "Goldpreis fällt auf 4.680 Dollar – 18 Prozent unter dem Januar-Rekordhoch",
+      "text": "Der Goldpreis ist am 12. Mai auf rund 4.680 bis 4.715 Dollar je Feinunze gefallen und liegt damit 18 Prozent unter dem Allzeithoch von 5.589 Dollar, das im Januar 2026 erreicht wurde. Als Hauptgründe für den Rückgang gelten ein erstarkender US-Dollar sowie der anhaltende Inflationsdruck, der Erwartungen an frühe Zinssenkungen der Fed dämpft und damit einen wichtigen Goldpreistreiber schwächt. Zusätzlich belasten geopolitische Unsicherheiten und steigende Ölpreise das allgemeine Marktsentiment. Die Anlegerstruktur verschiebt sich dennoch deutlich: Im ersten Quartal 2026 fiel die Schmucknachfrage um 23 Prozent, während die Nachfrage nach Barren und Münzen um 42 Prozent auf 474 Tonnen stieg – ein Zeichen, dass institutionelle Anleger Gold zunehmend als Wertspeicher kaufen. Langfristige Prognosen bleiben optimistisch: J.P. Morgan erwartet einen Goldpreis von 5.055 Dollar im vierten Quartal 2026, Goldman Sachs sieht das Jahresendniveau bei 4.900 Dollar.",
       "quelle": "Fortune",
-      "datum_artikel": "2026-05-11"
+      "datum_artikel": "2026-05-12"
     }
   ]
 }
