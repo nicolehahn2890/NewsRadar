@@ -1,48 +1,35 @@
 {
-  "datum": "Donnerstag, 14. Mai 2026",
-  "generiert": "2026-05-14",
+  "datum": "Freitag, 15. Mai 2026",
+  "generiert": "2026-05-15",
   "ki_stories": [
     {
-      "titel": "Google deckt auf: KI-Modell gezielt für Zero-Day-Hacks eingesetzt",
-      "text": "Googles Threat Intelligence Group hat eine Hacker-Kampagne gestoppt, bei der Angreifer ein KI-Modell nutzten, um eine unbekannte Software-Schwachstelle zu finden und für Massenangriffe vorzubereiten – einer der ersten dokumentierten Fälle, in dem KI als autonomes Angriffswerkzeug in einem realen Cyberangriff zum Einsatz kam. Google warnte, dass Qualität und Geschwindigkeit der KI-unterstützten Angriffe ein neues Niveau erreicht hätten. Der Vorfall schließt an Anthropics Bekanntmachung an, dass sein Sicherheitsmodell 'Mythos' Tausende unbekannte Schwachstellen in Betriebssystemen und Browsern aufdecken könne – weshalb Anthropic es nur einem kleinen Kreis vertrauenswürdiger Organisationen zugänglich macht. KI-gestützte Angriffe stiegen laut Sicherheitsfirma CrowdStrike im Jahr 2025 um 89 Prozent. Experten schätzen, dass ähnliche Angriffsfähigkeiten innerhalb von 12 bis 18 Monaten bei weiteren KI-Laboren verfügbar sein werden, was den regulatorischen Druck auf KI-Sicherheitsstandards erhöht.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-05-12"
-    },
-    {
-      "titel": "OpenAI gründet 4-Mrd.-USD-Deployment-Tochter mit Bain, Goldman Sachs und SoftBank",
-      "text": "OpenAI hat eine neue Tochtergesellschaft namens 'OpenAI Deployment Company' gegründet, die sich auf die Einführung von KI in Unternehmen spezialisiert. Die Einheit ist mit rund 4 Milliarden USD ausgestattet und arbeitet mit 19 Investitions- und Beratungspartnern zusammen, darunter Bain & Company, Goldman Sachs und SoftBank; OpenAI hält die Mehrheit und Kontrolle. Der Schritt markiert das Ende der reinen API-Strategie: OpenAI setzt künftig auf sogenannte Forward-Deployed Engineers, die direkt bei Unternehmenskunden arbeiten. Enterprise-Kunden machen bereits über 40 Prozent von OpenAIs Umsatz aus, Tendenz steigend, und das Unternehmen peilt Parität mit dem Consumer-Segment bis Ende 2026 an. Der Schritt ist auch eine Reaktion auf wachsenden Wettbewerbsdruck – Anthropic hat laut aktuellen Ramp-Daten erstmals mehr Geschäftskunden als OpenAI.",
-      "quelle": "CNBC",
+      "titel": "USA und China starten KI-Sicherheitsgespräche nach Trump-Xi-Gipfel in Peking",
+      "text": "Nach einem Gipfeltreffen von US-Präsident Donald Trump und dem chinesischen Staatschef Xi Jinping in Peking haben die USA und China formelle Gespräche über KI-Sicherheitsstandards vereinbart. US-Finanzminister Scott Bessent bezeichnete beide Länder als die 'zwei KI-Supermächte' und kündigte an, ein gemeinsames Rahmenwerk erarbeiten zu wollen, das verhindert, dass fortschrittliche KI-Modelle in unbefugte Hände gelangen. Parallel schlug ein hochrangiger OpenAI-Vertreter wenige Stunden vor dem Gipfelbeginn die Gründung eines von den USA geführten globalen KI-Gouvernanzgremiums vor, das China als Mitglied einschliessen solle. Experten hatten zuvor gewarnt, es sei 'game over' für die globale KI-Stabilität, wenn Washington die Sicherheitsdialoge mit Peking verschlafe. Die Einigung gilt als bedeutender Durchbruch, da beide KI-Grossmächte trotz laufender Handelsstreitigkeiten und dem Iran-Konflikt einen gemeinsamen regulatorischen Rahmen anstreben. Für die gesamte KI-Branche wäre ein funktionierender US-China-Sicherheitsdialog ein wichtiges Signal geopolitischer Stabilität.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-13"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic erstmals vor OpenAI: 34,4 Prozent der Firmen zahlen für Claude",
-      "text": "Laut einer Auswertung des Fintech-Unternehmens Ramp zahlen inzwischen 34,4 Prozent der teilnehmenden Geschäftskunden für Anthropics KI-Dienste und überholen damit OpenAI (32,3 Prozent) – das erste Mal, dass Anthropic in dieser Erhebung auf Platz 1 landet. Den Aufstieg erklären Analysten mit neuen Claude-Modellen, einem starken Fokus auf Datenschutz und Compliance sowie Großpartnerschaften: Anthropic hat sich zu Ausgaben von 200 Milliarden USD bei Google Cloud über fünf Jahre verpflichtet und arbeitet mit Goldman Sachs und Blackstone an einer gemeinsamen Deployment-Plattform. Für OpenAI, das gerade eine 4-Mrd.-USD-Deployment-Tochter gegründet hat, ist der Rückstand ein klares Signal für verschiebende Kräfte im Enterprise-KI-Markt. Branchenbeobachter werten die Ramp-Daten als Beleg, dass der KI-Markt deutlich wettbewerbsintensiver ist als noch vor einem Jahr.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-05-13",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Google bringt Gemini auf Android, Chrome und vernetzte Autos – vor Apples KI-Relaunch",
-      "text": "Google nutzt den aktuellen Android-Versionszyklus, um Gemini als zentrale KI-Schicht auf Smartphones, Laptops, den Chrome-Browser und vernetzte Fahrzeuge auszurollen. Das Timing ist strategisch: Apple bereitet für später in 2026 einen umfassenden KI-Relaunch vor, bei dem KI tief in iOS, macOS und Siri integriert werden soll. Google will mit Gemini bereits etablierte Nutzerbindungen schaffen, bevor Apple seinen Schritt vollzieht. Gemini soll dabei nicht nur als Assistent fungieren, sondern als geräteübergreifende Plattform, die Kontext und Daten systemweit verknüpft. Das Rennen um die KI-Vorherrschaft auf Endgeräten gilt als eine der wichtigsten Tech-Schlachten des Jahres 2026. Alphabet-Investoren werteten die Entwicklung positiv: Die milliardenschweren KI-Investitionen in Google Cloud und Anthropic werden nun auch im Consumer-Bereich sichtbar.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-12",
-      "unternehmen": "Alphabet"
+      "titel": "OpenAI droht Apple mit Klage - ChatGPT-Partnerschaft steht vor dem Aus",
+      "text": "Die seit der Apple-Entwicklerkonferenz WWDC im Juni 2024 bestehende Partnerschaft zwischen OpenAI und Apple steht kurz vor dem Ende. OpenAI hat Anwälte beauftragt, in Zusammenarbeit mit einer externen Kanzlei rechtliche Schritte gegen Apple vorzubereiten - darunter möglicherweise eine Klageschrift wegen Vertragsbruchs. OpenAI hatte erwartet, die Integration von ChatGPT in Apples Siri und das Visual Intelligence Feature würde Milliarden an neuen Abonnements einbringen; tatsächlich blieben die Einnahmen weit dahinter zurück, weil Apple die Funktionen nach Ansicht von OpenAI zu wenig prominent platziert hat. Apple ist seinerseits verärgert über OpenAIs Datenschutzstandards sowie über das Vordringen ins Hardware-Geschäft, das von Jony Ive - dem ehemaligen Apple-Chefdesigner - angeführt wird. Ein möglicher Rechtsstreit zwischen zwei der einflussreichsten Tech-Unternehmen der Welt könnte weitreichende Folgen für die Strategie haben, KI in Konsumentengeräten zu verankern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-14",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Inflation April bei 3,8 Prozent: Fed-Zinssenkungen für 2026 vollständig ausgepreist",
-      "text": "Der US-Verbraucherpreisindex (CPI) stieg im April 2026 auf 3,8 Prozent im Jahresvergleich – über den Markterwartungen von 3,7 Prozent und der höchste Wert seit Mai 2023. Noch stärker fiel die Großhandelsinflation (PPI) aus: plus 6 Prozent im Jahresvergleich, getrieben durch höhere Handels- und Energiekosten infolge des Irankriegs und US-Zölle. Infolgedessen haben Finanzmärkte eine Fed-Zinssenkung für das restliche Jahr 2026 vollständig ausgepreist; Wahrscheinlichkeiten für eine Zinserhöhung vor Jahresende steigen. Die Bank of America erwartet den ersten Zinssenkungsschritt nun erst in der zweiten Hälfte 2027. Der S&P 500 schloss am 13. Mai dennoch nahe Allzeithoch bei 7.444 Punkten (plus 0,58 Prozent), gestützt von starken Technologiewerten – Anleger sehen KI-Aktien wie NVIDIA und Microsoft als relativen Inflationsschutz.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-12"
+      "titel": "Gold fällt auf 4.615 Dollar - Inflationsschock schürt Zinserhöhungs-Wetten",
+      "text": "Gold steuert auf seinen grössten Wochenverlust seit Monaten zu, nachdem die US-Inflation im April deutlich stärker als erwartet gestiegen ist. Der Goldpreis fiel bis auf rund 4.615 Dollar je Unze und verlor damit etwa 2 Prozent seit dem Freitag der Vorwoche. Auslöser waren zwei aufeinanderfolgende Inflationsschocks: Der Erzeugerpreisindex (PPI) stieg im April so stark wie seit 2022 nicht mehr, und der Verbraucherpreisindex (CPI) kletterte im Jahresvergleich auf 3,8 Prozent - den höchsten Wert seit Mai 2023 - angetrieben durch gestiegene Energie- und Handelskosten im Zuge des Iran-Krieges. Anleger haben Zinssenkungen der US-Notenbank Fed für dieses Jahr vollständig aus ihren Erwartungen gestrichen; stattdessen wird inzwischen eine Wahrscheinlichkeit von 36 Prozent für eine weitere Zinserhöhung eingepreist. Der stärkere US-Dollar, gestiegene Anleiherenditen (10-Jahres-Zinsen nahe 4,46 Prozent) sowie Indiens Anhebung der Goldeinfuhrzölle von 6 auf 15 Prozent belasten den Goldpreis zusätzlich.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-14"
     },
     {
-      "titel": "Gold fällt auf ~4.700 USD: Heiße US-Inflationsdaten und Indiens neue Zölle belasten",
-      "text": "Der Goldpreis gab am 12. und 13. Mai 2026 nach und sank auf rund 4.696 bis 4.709 USD je Feinunze (minus ca. 0,4 Prozent). Hauptauslöser waren die heißer als erwarteten US-Inflationsdaten für April, die Hoffnungen auf baldige Fed-Zinssenkungen weiter dämpften – höhere Zinsen erhöhen die Opportunitätskosten des zinslosen Edelmetalls und drücken typischerweise den Goldpreis. Zusätzlicher Druck kam von einem Anstieg der indischen Importzölle auf Gold: von 6 auf 15 Prozent, was die Nachfrage aus einem der größten Gold-Konsumentenländer weltweit dämpft. Institutionelle Analysten halten mittelfristig dennoch an Kurszielen von 5.000 USD je Unze fest, gestützt durch anhaltende Zentralbankkäufe und geopolitische Unsicherheiten. Kurzfristig wird Trumps laufender China-Besuch beobachtet – Handelsfortschritte könnten den Dollar stärken und Gold weiter belasten.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-05-12"
+      "titel": "S&P 500 erholt sich auf 7.501 Punkte - China-Einigung und Einzelhandel stützen Märkte",
+      "text": "Der S&P 500 erholte sich am Freitag und stieg auf 7.501,24 Punkte (plus 0,77 Prozent), nachdem er in der Wochenmitte durch die überraschend hohen Inflationsdaten unter Druck geraten war. Als wichtigster Treiber der Erholung galt der erfolgreiche Trump-Xi-Gipfel in Peking: Die USA und China einigten sich auf die Offenhaltung der Strasse von Hormuz und auf formelle KI-Sicherheitsgespräche, was Unsicherheiten an den Märkten reduzierte. Hinzu kamen stärker als erwartete US-Einzelhandelsdaten sowie solide Quartalsergebnisse des Netzwerkkonzerns Cisco. Heute endet zudem die Amtszeit von Fed-Chef Jerome Powell als Vorsitzender der US-Notenbank; Kevin Warsh soll die Nachfolge antreten, während Powell selbst als Gouverneur im Fed-Vorstand bis Januar 2028 verbleibt. Trotz der Kurserholung bleibt die Marktlage fragil, da hartnäckige Inflation Zinssenkungen für 2026 ausschliesst und das Risiko weiterer Erhöhungen unter der neuen Fed-Führung steigt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-15"
     }
   ]
 }
