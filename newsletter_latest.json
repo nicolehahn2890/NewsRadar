@@ -1,33 +1,31 @@
 {
-  "datum": "Samstag, 16. Mai 2026",
-  "generiert": "2026-05-16",
+  "datum": "Sonntag, 17. Mai 2026",
+  "generiert": "2026-05-17",
   "ki_stories": [
     {
-      "titel": "KI übertrifft PC und Internet: 53% Adoption in nur drei Jahren",
-      "text": "Der Stanford AI Index 2026, am 15. Mai im wöchentlichen KI-Branchenüberblick zusammengefasst, zeigt eine beispiellose Verbreitung: Generative KI hat in nur drei Jahren 53% der weltweiten arbeitsfähigen Bevölkerung erreicht und übertrifft damit die Adoptionsgeschwindigkeit von Personal Computer und Internet deutlich. Im ersten Quartal 2026 stieg die KI-Nutzung unter der Erwerbsbevölkerung weltweit von 16,3% auf 17,8%. Parallel dazu haben 76% der befragten Großunternehmen inzwischen eine neue Führungsposition eingerichtet – den Chief AI Officer (CAIO) – gegenüber lediglich 26% noch im Jahr 2025. Das Wachstumstempo übertrifft alle historischen Vergleiche und zeigt, wie tief KI bereits in Wirtschaft und Arbeitswelt verankert ist. Der Trend erhöht den Druck auf Regulierer, rechtliche Rahmenbedingungen rasch anzupassen, und auf Unternehmen, ihre Belegschaft entsprechend weiterzubilden.",
-      "quelle": "MarketingProfs",
-      "datum_artikel": "2026-05-15"
+      "titel": "KI-Boom benachteiligt Schwellenlaender: Indien verliert Investoren",
+      "text": "Indien gilt laut Bloomberg als einer der groessten Verlierer im globalen KI-Investitionswandel und steht vor dem Verlust seines Status als bevorzugter Schwellenmarkt. Der massive Kapitalfluss in Richtung amerikanischer und chinesischer KI-Konzerne hat Investoren dazu veranlasst, Gelder aus Indien abzuziehen, das beim Aufbau eigener KI-Industrie deutlich hinter diesen Laendern zurueckliegt. Die Folge: Der indische Aktienmarkt droht erstmals seit drei Jahren aus den fuenf groessten der Welt herauszufallen – ein scharfer Kontrast zur Hochphase 2024, als Indien noch als heissester Schwellenmarkt galt. Der KI-Strukturwandel zeigt damit exemplarisch, wie die Technologierevolution nicht nur Unternehmen, sondern ganze Volkswirtschaften umordnet und Laender ohne eigene KI-Kapazitaeten systematisch benachteiligt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-17"
     }
   ],
-  "unternehmen_stories": [
-    {
-      "titel": "KI-Chip-Aktien brechen ein: AMD -5,7%, Intel -6%, Micron -6,6%",
-      "text": "Am 15. Mai 2026 verzeichneten führende Halbleiter- und KI-Chip-Unternehmen massive Kursverluste: Intel verlor mehr als 6%, Advanced Micro Devices (AMD) 5,7% und Micron Technology 6,6%. Ausgelöst wurde der breite Ausverkauf durch das Ende des Trump-Xi-Gipfels ohne wesentliche handelspolitische Einigung, was Sorgen über anhaltende Spannungen im US-chinesischen Technologiehandel neu entfachte. Steigende US-Staatsanleiherenditen sowie ein Ölpreis von über 100 US-Dollar pro Barrel, der Inflationsängste schürte, trieben Anleger zusätzlich aus risikoreichen Technologiewerten. Der gesamte KI- und Halbleitersektor stand damit unter dem stärksten Verkaufsdruck seit Wochen und signalisiert wachsende Unsicherheit über die globale Chip-Nachfrage. Für AMD und NVIDIA, die im KI-Rechenzentrumsgeschäft stark von asiatischen Cloud-Anbietern abhängen, stellen geopolitische Spannungen ein erhebliches Geschäftsrisiko dar.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-15",
-      "unternehmen": "AMD"
-    }
-  ],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "S&P 500 fällt nach Trump-Xi-Gipfel um 1,24% auf 7.408 Punkte",
-      "text": "Der S&P 500 schloss am 15. Mai 2026 mit einem Minus von 1,24% bei 7.408,50 Punkten, nachdem das Gipfeltreffen zwischen US-Präsident Donald Trump und Chinas Staatschef Xi Jinping ohne nennenswerte handelspolitische Vereinbarungen endete. Der Dow Jones Industrial Average verlor 1,07% auf 49.526 Punkte, der Nasdaq Composite fiel um 1,54% auf 26.225 Zähler. Technologie- und Kommunikationswerte gaben am stärksten nach, da Anleger nach starken Kursgewinnen der Vorwochen Gewinne mitnahmen. Steigende US-Staatsanleiherenditen und ein Ölpreis von über 100 Dollar pro Barrel verstärkten die Inflationssorgen und belasteten die Risikobereitschaft zusätzlich. Der S&P 500 hatte zuvor in dieser Woche kurzzeitig neues Rekordhoch-Terrain berührt, bevor die Gewinnmitnahmen einsetzten.",
-      "quelle": "CNBC",
+      "titel": "US-Inflation auf Jahreshoch treibt S&P 500 ins Minus",
+      "text": "Der S&P 500 schloss am Freitag mit einem Minus von 1,24 Prozent bei 7.408,50 Punkten, nachdem neue US-Inflationsdaten die Maerkte belasteten. Die Verbraucherpreise stiegen im April auf 3,8 Prozent – der hoechste Stand seit Mai 2023 – waehrend die Grosshandelsinflation so stark zulegte wie zuletzt im Jahr 2022. Haupttreiber sind die anhaltenden Spannungen im Nahen Osten und die teilweise Sperrung der Strasse von Hormus, die globale Energielieferketten stoert und die Energiepreise in die Hoehe treibt. Zinssenkungen durch die Federal Reserve sind fuer 2026 praktisch vom Tisch; Haendler preisen laut CME FedWatch Tool mittlerweile mit rund 45 Prozent sogar eine Zinserhoehung bis Dezember ein. Fuer den S&P 500 bedeutet das erheblichen Gegenwind, da hoehere Zinsen die Bewertungen von Wachstumsaktien – vor allem im Technologiesektor – unter Druck setzen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-15"
     },
     {
-      "titel": "Gold fällt zum vierten Tag in Folge: Spotpreis sinkt 2% auf 4.558 Dollar",
-      "text": "Der Goldpreis verzeichnete am 15. Mai 2026 den vierten Verlust in Folge und sank um rund 2% auf etwa 4.558 US-Dollar pro Unze. Steigende US-Staatsanleiherenditen und ein stärkerer Dollar schwächten die Attraktivität des zinslos gehaltenen Edelmetalls, da höhere Anleiherenditen alternative Anlagen konkurrenzfähiger machen. Gleichzeitig belastete der erhöhte Ölpreis, der die Inflationssorgen hochhielt, das Sentiment an den Finanzmärkten insgesamt. Trotz der jüngsten Schwächephase halten institutionelle Prognostiker wie J.P. Morgan an ihrer Jahresendprognose von etwa 5.055 Dollar für das vierte Quartal 2026 fest. Als mittelfristige Stütze gelten anhaltende Zentralbankkäufe sowie geopolitische Risiken, insbesondere die Unsicherheit rund um den Nahen Osten und die Straße von Hormuz.",
+      "titel": "Gold verliert 4 Prozent in einer Woche – Inflationsschock belastet Edelmetall",
+      "text": "Der Goldpreis fiel am Freitag auf rund 4.530 Dollar je Unze und verzeichnete damit einen Wochenverlust von etwa vier Prozent – den staerksten Rueckgang seit mehreren Monaten. Ausloser waren dieselben US-Inflationsdaten, die auch den Aktienmarkt belasteten: Die Verbraucherpreise stiegen im April auf 3,8 Prozent, was Hoffnungen auf baldige Fed-Zinssenkungen endgueltig daempfte. Hoehere Zinsen machen das zinslose Gold weniger attraktiv, waehrend ein gleichzeitig staerker werdender Dollar das Edelmetall fuer internationale Kaeufer verteuert. Das synchrone Abverkaufen an Aktienmaerkten, Anleihemaerkten und Edelmetallen zeigt, wie stark der Inflationsschock die Maerkte trifft. Trotz des kurzfristigen Rueckgangs halten institutionelle Analysten – darunter Goldman Sachs mit einem Kursziel von 5.400 Dollar bis Ende 2026 und Bank of America mit 6.000 Dollar auf 12-Monats-Sicht – an bullischen Langfristprognosen fuer Gold fest.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-15"
+    },
+    {
+      "titel": "Kevin Warsh uebernimmt Fed-Vorsitz von Jerome Powell",
+      "text": "Am 15. Mai 2026 uebernahm Kevin Warsh den Vorsitz der US-Notenbank Federal Reserve und loeste damit Jerome Powell ab, dessen Amtszeit als Chairman an diesem Tag endete. Der US-Senat hatte Warsh am 13. Mai mit 54 zu 45 Stimmen bestaetigt – die knappe und polarisierteste Bestaetigung in der Geschichte der Federal Reserve. Powell bleibt als Gouverneur im Fed-Board bis Ende 2028 und will der Notenbank erhalten bleiben, bis laufende Untersuchungen zu einem Renovierungsprojekt am Fed-Hauptsitz abgeschlossen sind. Warsh uebernimmt zu einem heiklen Zeitpunkt: Die Inflation zieht erneut an, Zinssenkungen sind vom Tisch, und Haendler preisen bereits mit einer Wahrscheinlichkeit von 45 Prozent eine Zinserhoehung noch in diesem Jahr ein. Warsh hat angekuendigt, unabhaengig von der Regierung zu entscheiden und die Geldpolitik an den Daten auszurichten – was die Maerkte genau beobachten werden.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-15"
     }
