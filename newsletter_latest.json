@@ -1,33 +1,29 @@
 {
-  "datum": "Sonntag, 17. Mai 2026",
-  "generiert": "2026-05-17",
+  "datum": "Montag, 18. Mai 2026",
+  "generiert": "2026-05-18",
   "ki_stories": [
     {
-      "titel": "KI-Boom benachteiligt Schwellenlaender: Indien verliert Investoren",
-      "text": "Indien gilt laut Bloomberg als einer der groessten Verlierer im globalen KI-Investitionswandel und steht vor dem Verlust seines Status als bevorzugter Schwellenmarkt. Der massive Kapitalfluss in Richtung amerikanischer und chinesischer KI-Konzerne hat Investoren dazu veranlasst, Gelder aus Indien abzuziehen, das beim Aufbau eigener KI-Industrie deutlich hinter diesen Laendern zurueckliegt. Die Folge: Der indische Aktienmarkt droht erstmals seit drei Jahren aus den fuenf groessten der Welt herauszufallen – ein scharfer Kontrast zur Hochphase 2024, als Indien noch als heissester Schwellenmarkt galt. Der KI-Strukturwandel zeigt damit exemplarisch, wie die Technologierevolution nicht nur Unternehmen, sondern ganze Volkswirtschaften umordnet und Laender ohne eigene KI-Kapazitaeten systematisch benachteiligt.",
+      "titel": "Chinas Energie-Boom verschafft dem Land Vorteil im globalen KI-Rennen",
+      "text": "Im Wettbewerb um KI-Vorherrschaft zwischen den USA und China rückt die Energieversorgung als entscheidender Faktor in den Vordergrund. Bloomberg berichtete am 17. Mai, dass Chinas massive Investitionen in erneuerbare Energiequellen, Batteriespeicher und Hochspannungs-Übertragungsnetze dem Land einen strukturellen Vorteil bei der Versorgung stromhungriger KI-Rechenzentren verschaffen könnten. Ex-US-Finanzminister Hank Paulson warnte, dass die USA zwar technologisch noch führen, Stromengpässe aber zur kritischen Schwachstelle werden könnten, da der Energiebedarf von Rechenzentren weiter explodiert. Der frühere US-Botschafter in China, Nicholas Burns, betonte, dass Pekings Investitionen in die Energieinfrastruktur bereits globale Lieferketten neu formen. Elizabeth Economy vom Hoover Institute wies darauf hin, dass Chinas Strategie für saubere Energie ebenso sehr ein geopolitisches und wirtschaftliches Machtinstrument ist wie eine Klimapolitik. Analysten sehen darin eine klare Warnung: Das Rennen um KI-Dominanz wird nicht allein durch überlegene Chips und Software entschieden, sondern auch durch die Fähigkeit, genug Strom zum Betreiben der Rechenzentren bereitzustellen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-17"
     }
   ],
-  "unternehmen_stories": [],
+  "unternehmen_stories": [
+    {
+      "titel": "NVIDIA berichtet am Mittwoch - Analysten erwarten Rekordumsatz von 78,5 Mrd. USD",
+      "text": "NVIDIA legt am Mittwoch, 20. Mai 2026, die Ergebnisse des ersten Quartals des Geschäftsjahres 2027 vor - einer der meistbeachteten Unternehmensberichte des Jahres im Kontext des KI-Investitionsbooms. Analysten rechnen mit einem Gesamtumsatz von rund 78,5 Mrd. USD, wovon der Geschäftsbereich Rechenzentren etwa 72,8 Mrd. USD beitragen soll - ein Plus von rund 35% gegenüber dem Vorjahresquartal. Die NVIDIA-Aktie (NVDA) stieg im Vorfeld der Zahlen um rund 20% innerhalb eines Monats; im vierten Quartal FY2026 hatte NVIDIA den Gesamtumsatz um 73% auf 68,1 Mrd. USD gesteigert. Entscheidend für Investoren wird die Forward Guidance sein: Fließen die KI-Investitionen der großen Cloud-Konzerne weiterhin hauptsächlich in NVIDIA-Hardware, oder verlagern sich Ausgaben zunehmend zu firmeneigenen Chips von Google (TPU), Amazon (Trainium) und Microsoft (Maia)? Analysten gehen von einer Guidance von rund 87 Mrd. USD Umsatz im Folgequartal aus - übertrifft NVIDIA diesen Wert, gilt das als klares Signal, dass der Konzern weiterhin das Zentrum des KI-Infrastruktur-Booms bleibt. Zusätzlich beobachten Anleger, wie das Unternehmen zu US-Exportbeschränkungen für Hochleistungschips nach China Stellung nimmt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-17",
+      "unternehmen": "NVIDIA"
+    }
+  ],
   "boerse_stories": [
     {
-      "titel": "US-Inflation auf Jahreshoch treibt S&P 500 ins Minus",
-      "text": "Der S&P 500 schloss am Freitag mit einem Minus von 1,24 Prozent bei 7.408,50 Punkten, nachdem neue US-Inflationsdaten die Maerkte belasteten. Die Verbraucherpreise stiegen im April auf 3,8 Prozent – der hoechste Stand seit Mai 2023 – waehrend die Grosshandelsinflation so stark zulegte wie zuletzt im Jahr 2022. Haupttreiber sind die anhaltenden Spannungen im Nahen Osten und die teilweise Sperrung der Strasse von Hormus, die globale Energielieferketten stoert und die Energiepreise in die Hoehe treibt. Zinssenkungen durch die Federal Reserve sind fuer 2026 praktisch vom Tisch; Haendler preisen laut CME FedWatch Tool mittlerweile mit rund 45 Prozent sogar eine Zinserhoehung bis Dezember ein. Fuer den S&P 500 bedeutet das erheblichen Gegenwind, da hoehere Zinsen die Bewertungen von Wachstumsaktien – vor allem im Technologiesektor – unter Druck setzen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-15"
-    },
-    {
-      "titel": "Gold verliert 4 Prozent in einer Woche – Inflationsschock belastet Edelmetall",
-      "text": "Der Goldpreis fiel am Freitag auf rund 4.530 Dollar je Unze und verzeichnete damit einen Wochenverlust von etwa vier Prozent – den staerksten Rueckgang seit mehreren Monaten. Ausloser waren dieselben US-Inflationsdaten, die auch den Aktienmarkt belasteten: Die Verbraucherpreise stiegen im April auf 3,8 Prozent, was Hoffnungen auf baldige Fed-Zinssenkungen endgueltig daempfte. Hoehere Zinsen machen das zinslose Gold weniger attraktiv, waehrend ein gleichzeitig staerker werdender Dollar das Edelmetall fuer internationale Kaeufer verteuert. Das synchrone Abverkaufen an Aktienmaerkten, Anleihemaerkten und Edelmetallen zeigt, wie stark der Inflationsschock die Maerkte trifft. Trotz des kurzfristigen Rueckgangs halten institutionelle Analysten – darunter Goldman Sachs mit einem Kursziel von 5.400 Dollar bis Ende 2026 und Bank of America mit 6.000 Dollar auf 12-Monats-Sicht – an bullischen Langfristprognosen fuer Gold fest.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-15"
-    },
-    {
-      "titel": "Kevin Warsh uebernimmt Fed-Vorsitz von Jerome Powell",
-      "text": "Am 15. Mai 2026 uebernahm Kevin Warsh den Vorsitz der US-Notenbank Federal Reserve und loeste damit Jerome Powell ab, dessen Amtszeit als Chairman an diesem Tag endete. Der US-Senat hatte Warsh am 13. Mai mit 54 zu 45 Stimmen bestaetigt – die knappe und polarisierteste Bestaetigung in der Geschichte der Federal Reserve. Powell bleibt als Gouverneur im Fed-Board bis Ende 2028 und will der Notenbank erhalten bleiben, bis laufende Untersuchungen zu einem Renovierungsprojekt am Fed-Hauptsitz abgeschlossen sind. Warsh uebernimmt zu einem heiklen Zeitpunkt: Die Inflation zieht erneut an, Zinssenkungen sind vom Tisch, und Haendler preisen bereits mit einer Wahrscheinlichkeit von 45 Prozent eine Zinserhoehung noch in diesem Jahr ein. Warsh hat angekuendigt, unabhaengig von der Regierung zu entscheiden und die Geldpolitik an den Daten auszurichten – was die Maerkte genau beobachten werden.",
+      "titel": "US-Börsen starten schwach - Inflation, Iran-Krise und NVIDIA-Zahlen im Fokus",
+      "text": "Zum Auftakt der Handelswoche vom 18. Mai gaben US-Aktien-Futures nach, da Anleger vor mehreren wichtigen Kurstreibern in Wartestellung blieben. Im Mittelpunkt stehen die NVIDIA-Quartalszahlen am Mittwoch sowie Einzelhandelsergebnisse von Walmart und Target, die Aufschluss geben sollen, wie stark durch den Nahost-Konflikt angeheizte Energiepreise den US-Konsum belasten. Hartnäckige Inflationsdaten drücken weiter auf die Stimmung: Die US-Erzeugerpreise (PPI) stiegen im April so stark wie seit 2022 nicht mehr, die Verbraucherpreise (CPI) verzeichneten den stärksten Jahresanstieg seit 2023. Märkte haben Fed-Zinssenkungen für 2026 vollständig ausgepreist; ein wachsender Teil der Händler preist inzwischen eine Zinserhöhung bis Dezember 2026 ein. Die anhaltende Bedrohung der Straße von Hormuz durch den Iran-Konflikt hält Öl- und Gaspreise hoch und verstärkt den importierten Inflationsdruck in den USA. Gold, das in der Vorwoche rund 4% verloren hatte und zeitweise bei 4.483 USD je Unze notierte - dem niedrigsten Stand seit März 2026 -, kämpft weiterhin mit dem Gegenwind steigender Realrenditen und eines festen US-Dollars.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-05-15"
+      "datum_artikel": "2026-05-18"
     }
   ]
 }
