@@ -1,27 +1,52 @@
 {
-  "datum": "Montag, 18. Mai 2026",
-  "generiert": "2026-05-18",
+  "datum": "Dienstag, 19. Mai 2026",
+  "generiert": "2026-05-19",
   "ki_stories": [
     {
-      "titel": "Chinas Energie-Boom verschafft dem Land Vorteil im globalen KI-Rennen",
-      "text": "Im Wettbewerb um KI-Vorherrschaft zwischen den USA und China rückt die Energieversorgung als entscheidender Faktor in den Vordergrund. Bloomberg berichtete am 17. Mai, dass Chinas massive Investitionen in erneuerbare Energiequellen, Batteriespeicher und Hochspannungs-Übertragungsnetze dem Land einen strukturellen Vorteil bei der Versorgung stromhungriger KI-Rechenzentren verschaffen könnten. Ex-US-Finanzminister Hank Paulson warnte, dass die USA zwar technologisch noch führen, Stromengpässe aber zur kritischen Schwachstelle werden könnten, da der Energiebedarf von Rechenzentren weiter explodiert. Der frühere US-Botschafter in China, Nicholas Burns, betonte, dass Pekings Investitionen in die Energieinfrastruktur bereits globale Lieferketten neu formen. Elizabeth Economy vom Hoover Institute wies darauf hin, dass Chinas Strategie für saubere Energie ebenso sehr ein geopolitisches und wirtschaftliches Machtinstrument ist wie eine Klimapolitik. Analysten sehen darin eine klare Warnung: Das Rennen um KI-Dominanz wird nicht allein durch überlegene Chips und Software entschieden, sondern auch durch die Fähigkeit, genug Strom zum Betreiben der Rechenzentren bereitzustellen.",
+      "titel": "Google I/O 2026: Gemini 3.1 Flash-Lite gestartet, Gemini 4.0 erwartet",
+      "text": "Google hat zum Auftakt seines Entwicklerkongresses Google I/O am 19. Mai 2026 in Mountain View das neue Effizienzmodell Gemini 3.1 Flash-Lite vorgestellt. Das Modell liefert laut Google 2,5-mal schnellere Antworten und 45 Prozent höhere Ausgabegeschwindigkeit im Vergleich zu früheren Versionen, bei einem Preis von nur 0,25 US-Dollar pro Million Input-Token - damit richtet es sich an Entwickler mit hohem Volumen und Kostenbewusstsein. Auf der Keynote wird eine Ankündigung von Gemini 4.0 erwartet, die Branchen-Beobachter als nächsten großen Schritt im KI-Modell-Wettbewerb mit OpenAI und Anthropic einstufen. Google hat zudem Hardwarepartnerschaften mit Samsung, Warby Parker, Gentle Monster und XREAL für Android-XR-Brillen bekanntgegeben. Google I/O gilt als der wichtigste KI-Event des Jahres und findet im Shoreline Amphitheatre statt.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-19"
+    },
+    {
+      "titel": "OpenAI startet persönliche Finanzberatungs-Funktion in ChatGPT",
+      "text": "OpenAI hat am 18. Mai 2026 eine neue Funktion für persönliche Finanzplanung innerhalb von ChatGPT eingeführt. Nutzer können damit Budgets analysieren, Ausgaben planen und Finanzfragen direkt im Chatbot klären. Der Schritt ist Teil von OpenAIs Strategie, ChatGPT zu einem umfassenden persönlichen Assistenten weiterzuentwickeln, der über das reine Textgespräch hinausgeht. Gleichzeitig zeigt das Unternehmen, dass es seinen Umsatz diversifizieren will: Derzeit macht das Unternehmensgeschäft über 40 Prozent des OpenAI-Umsatzes aus, und das Unternehmen plant, diesen Anteil bis Jahresende mit dem Verbrauchergeschäft gleichzuziehen. Die Finanz-Funktion erweitert gezielt die Relevanz von ChatGPT im Alltag der Nutzer.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-18"
+    },
+    {
+      "titel": "Meta verschiebt neues Flaggschiff-KI-Modell 'Avocado' auf Ende Juni",
+      "text": "Metas nächstes großes KI-Modell, intern unter dem Codenamen 'Avocado' bekannt, wird sich verzögern: Ursprünglich für Mai oder Anfang Juni 2026 erwartet, ist nun laut Insider-Berichten Ende Juni das wahrscheinlichste Veröffentlichungsfenster. Meta steht unter erheblichem Druck, nach Milliarden-Investitionen in KI-Infrastruktur und dem umstrittenen 14-Milliarden-Dollar-Deal mit Scale-AI-Gründer Alexandr Wang ein leistungsstarkes Modell zu liefern. Die Verzögerung kommt zu einem kritischen Zeitpunkt: Google und OpenAI veröffentlichen laufend neue Modelle und Funktionen. Analysten beobachten, ob Meta mit 'Avocado' bei der Benchmark-Performance aufholen kann, um langfristig im KI-Rennen wettbewerbsfähig zu bleiben.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-17"
+      "datum_artikel": "2026-05-18"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA berichtet am Mittwoch - Analysten erwarten Rekordumsatz von 78,5 Mrd. USD",
-      "text": "NVIDIA legt am Mittwoch, 20. Mai 2026, die Ergebnisse des ersten Quartals des Geschäftsjahres 2027 vor - einer der meistbeachteten Unternehmensberichte des Jahres im Kontext des KI-Investitionsbooms. Analysten rechnen mit einem Gesamtumsatz von rund 78,5 Mrd. USD, wovon der Geschäftsbereich Rechenzentren etwa 72,8 Mrd. USD beitragen soll - ein Plus von rund 35% gegenüber dem Vorjahresquartal. Die NVIDIA-Aktie (NVDA) stieg im Vorfeld der Zahlen um rund 20% innerhalb eines Monats; im vierten Quartal FY2026 hatte NVIDIA den Gesamtumsatz um 73% auf 68,1 Mrd. USD gesteigert. Entscheidend für Investoren wird die Forward Guidance sein: Fließen die KI-Investitionen der großen Cloud-Konzerne weiterhin hauptsächlich in NVIDIA-Hardware, oder verlagern sich Ausgaben zunehmend zu firmeneigenen Chips von Google (TPU), Amazon (Trainium) und Microsoft (Maia)? Analysten gehen von einer Guidance von rund 87 Mrd. USD Umsatz im Folgequartal aus - übertrifft NVIDIA diesen Wert, gilt das als klares Signal, dass der Konzern weiterhin das Zentrum des KI-Infrastruktur-Booms bleibt. Zusätzlich beobachten Anleger, wie das Unternehmen zu US-Exportbeschränkungen für Hochleistungschips nach China Stellung nimmt.",
+      "titel": "OpenAI und NVIDIA vereinbaren 10-Gigawatt-Infrastrukturpartnerschaft",
+      "text": "OpenAI und NVIDIA haben eine strategische Partnerschaft angekündigt, die als eines der größten KI-Infrastruktur-Abkommen der Geschichte gilt. NVIDIA plant, schrittweise bis zu 100 Milliarden US-Dollar in OpenAI zu investieren und dabei mindestens 10 Gigawatt eigener Systeme für OpenAIs Rechenbedarf bereitzustellen. Das erste Gigawatt soll noch im zweiten Halbjahr 2026 auf NVIDIAs neuer Vera-Rubin-Plattform in Betrieb gehen und dient dem Training und Betrieb der nächsten Generation von OpenAI-Modellen auf dem Weg zur Superintelligenz. Für NVIDIA sichert die Partnerschaft langfristig gesicherte Chip-Nachfrage und strategische Bindung an einen der wichtigsten KI-Akteure weltweit. Analysten werten den Deal als Reaktion auf den wachsenden Wettbewerb durch alternative KI-Chips von AMD, Google und Amazon.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-17",
+      "datum_artikel": "2026-05-19",
       "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "Anthropic verhandelt über 30-Milliarden-Finanzierungsrunde bei 900-Milliarden-Bewertung",
+      "text": "Anthropic befindet sich laut Berichten vom 18. Mai 2026 in fortgeschrittenen Verhandlungen über eine neue Finanzierungsrunde in Höhe von 30 Milliarden US-Dollar, die das Unternehmen mit über 900 Milliarden US-Dollar bewerten würde. Als Basis dient Anthropics rapides Umsatzwachstum: Im ersten Quartal 2026 überstieg der jährlich wiederkehrende Umsatz bereits 44 Milliarden US-Dollar, ein 80-facher Anstieg gegenüber dem Vorjahr. Mehr als 1.000 Kunden geben inzwischen über eine Million Dollar pro Jahr für Anthropic-Produkte aus. Sollte die Runde erfolgreich abgeschlossen werden, würde Anthropic zu einem der wertvollsten Privatunternehmen der Welt aufsteigen. Bereits in der Vergangenheit hatten Amazon und Google Milliarden in das Unternehmen investiert.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-18",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Börsen starten schwach - Inflation, Iran-Krise und NVIDIA-Zahlen im Fokus",
-      "text": "Zum Auftakt der Handelswoche vom 18. Mai gaben US-Aktien-Futures nach, da Anleger vor mehreren wichtigen Kurstreibern in Wartestellung blieben. Im Mittelpunkt stehen die NVIDIA-Quartalszahlen am Mittwoch sowie Einzelhandelsergebnisse von Walmart und Target, die Aufschluss geben sollen, wie stark durch den Nahost-Konflikt angeheizte Energiepreise den US-Konsum belasten. Hartnäckige Inflationsdaten drücken weiter auf die Stimmung: Die US-Erzeugerpreise (PPI) stiegen im April so stark wie seit 2022 nicht mehr, die Verbraucherpreise (CPI) verzeichneten den stärksten Jahresanstieg seit 2023. Märkte haben Fed-Zinssenkungen für 2026 vollständig ausgepreist; ein wachsender Teil der Händler preist inzwischen eine Zinserhöhung bis Dezember 2026 ein. Die anhaltende Bedrohung der Straße von Hormuz durch den Iran-Konflikt hält Öl- und Gaspreise hoch und verstärkt den importierten Inflationsdruck in den USA. Gold, das in der Vorwoche rund 4% verloren hatte und zeitweise bei 4.483 USD je Unze notierte - dem niedrigsten Stand seit März 2026 -, kämpft weiterhin mit dem Gegenwind steigender Realrenditen und eines festen US-Dollars.",
+      "titel": "Goldpreis fällt unter 4.550 Dollar - Fed-Zinspolitik und Inflationsdruck belasten",
+      "text": "Der Goldpreis ist zum Wochenstart am 18. Mai 2026 unter 4.550 US-Dollar pro Unze gefallen und notierte bei 4.549,20 Dollar, ein Minus von 0,28 Prozent. Gold hatte in der Vorwoche bereits fast 4 Prozent verloren. Als Haupttreiber gilt die jüngste Entscheidung der US-Notenbank Fed: Die Zinsen wurden unverändert bei 3,50 bis 3,75 Prozent belassen, während der neue Dot-Plot für 2026 nur noch eine einzige Zinssenkung anzeigt statt wie zuvor zwei. Hinzu kommen ein stärkerer US-Dollar und steigende Anleiherenditen nach überraschend hohen US-Inflationsdaten. Der Nahost-Konflikt und die Blockade der Straße von Hormuz treiben Energiepreise an, was die Inflation weiter anfacht und Spekulationen über einen möglichen Zinsanstieg vor Jahresende verstärkt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-18"
+    },
+    {
+      "titel": "S&P 500 gibt zu Wochenbeginn nach - Iran-Konflikt und steigende Ölpreise belasten",
+      "text": "Der US-Aktienmarkt startete die Handelswoche mit Verlusten: Der S&P 500 fiel am 18. Mai 2026 um 0,20 Prozent, der Nasdaq gab ebenfalls nach. Auslöser war eine Rede von US-Präsident Trump zum Iran-Konflikt, die Bedenken über Versorgungsunterbrechungen am globalen Ölmarkt verstärkte. West Texas Intermediate (WTI) stieg um 0,85 Prozent auf 106,30 Dollar je Barrel, Brent-Rohöl legte um 0,89 Prozent auf 110,20 Dollar zu. Die zehnjährige US-Staatsanleiherendite erreichte ein Jahreshoch und setzte damit besonders Technologiewerte unter Druck. Anleger navigieren zwischen den Rekordstaenden der Vorwoche und zunehmendem geopolitischem sowie wirtschaftlichem Gegenwind - steigende Energiepreise koennten die Inflation weiter anfachen und Fed-Zinssenkungen weiter verzoegern.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-18"
     }
