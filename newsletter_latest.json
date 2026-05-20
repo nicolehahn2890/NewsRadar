@@ -1,52 +1,39 @@
 {
-  "datum": "Dienstag, 19. Mai 2026",
-  "generiert": "2026-05-19",
+  "datum": "Mittwoch, 20. Mai 2026",
+  "generiert": "2026-05-20",
   "ki_stories": [
     {
-      "titel": "Google I/O 2026: Gemini 3.1 Flash-Lite gestartet, Gemini 4.0 erwartet",
-      "text": "Google hat zum Auftakt seines Entwicklerkongresses Google I/O am 19. Mai 2026 in Mountain View das neue Effizienzmodell Gemini 3.1 Flash-Lite vorgestellt. Das Modell liefert laut Google 2,5-mal schnellere Antworten und 45 Prozent höhere Ausgabegeschwindigkeit im Vergleich zu früheren Versionen, bei einem Preis von nur 0,25 US-Dollar pro Million Input-Token - damit richtet es sich an Entwickler mit hohem Volumen und Kostenbewusstsein. Auf der Keynote wird eine Ankündigung von Gemini 4.0 erwartet, die Branchen-Beobachter als nächsten großen Schritt im KI-Modell-Wettbewerb mit OpenAI und Anthropic einstufen. Google hat zudem Hardwarepartnerschaften mit Samsung, Warby Parker, Gentle Monster und XREAL für Android-XR-Brillen bekanntgegeben. Google I/O gilt als der wichtigste KI-Event des Jahres und findet im Shoreline Amphitheatre statt.",
-      "quelle": "Reuters",
+      "titel": "Google I/O 2026: Gemini 3.5 Flash und KI-Agent Gemini Spark vorgestellt",
+      "text": "Google hat auf seiner Entwicklerkonferenz I/O 2026 mehrere neue KI-Produkte angekündigt. Das neue Modell Gemini 3.5 Flash übertrifft laut Unternehmensangaben den Vorgänger Gemini 3.1 Pro bei Coding-, Agentic- und Multimodal-Benchmarks und ist viermal schneller als vergleichbare Frontier-Modelle; es steht ab sofort in der Gemini-App, der Suche und der Gemini API bereit. Neu ist außerdem Gemini Spark, ein persönlicher KI-Agent, der eigenständig Aufgaben im digitalen Alltag erledigen soll und ab nächster Woche für Google AI Ultra-Abonnenten in den USA verfügbar wird. Google kündigte darüber hinaus Android-XR-Smartglasses in Partnerschaft mit Samsung, Verbesserungen für Google Flow und YouTube sowie einen neuen Gemini-for-Science-Dienst für Forscher an. Das leistungsstärkere Modell Gemini 3.5 Pro befindet sich noch in der Testphase und soll nächsten Monat erscheinen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-19"
     },
     {
-      "titel": "OpenAI startet persönliche Finanzberatungs-Funktion in ChatGPT",
-      "text": "OpenAI hat am 18. Mai 2026 eine neue Funktion für persönliche Finanzplanung innerhalb von ChatGPT eingeführt. Nutzer können damit Budgets analysieren, Ausgaben planen und Finanzfragen direkt im Chatbot klären. Der Schritt ist Teil von OpenAIs Strategie, ChatGPT zu einem umfassenden persönlichen Assistenten weiterzuentwickeln, der über das reine Textgespräch hinausgeht. Gleichzeitig zeigt das Unternehmen, dass es seinen Umsatz diversifizieren will: Derzeit macht das Unternehmensgeschäft über 40 Prozent des OpenAI-Umsatzes aus, und das Unternehmen plant, diesen Anteil bis Jahresende mit dem Verbrauchergeschäft gleichzuziehen. Die Finanz-Funktion erweitert gezielt die Relevanz von ChatGPT im Alltag der Nutzer.",
+      "titel": "Standard Chartered kündigt 7.800 Stellenabbau durch KI an",
+      "text": "Die britische Großbank Standard Chartered hat bei ihrem Investorentag in Hongkong am 19. Mai angekündigt, bis 2030 rund 7.800 Stellen zu streichen — das entspricht mehr als 15 Prozent aller konzernweiten Supportfunktionen. CEO Bill Winters begründete den Schritt damit, man ersetze 'menschliches Kapital mit geringerem Wertbeitrag' durch Investitionskapital in KI und Automatisierung. Betroffen sind vor allem die Bereiche Human Resources, Risiko und Compliance. Als Ziele nannte Winters ein um 20 Prozent höheres Einkommen pro Mitarbeiter bis 2028 sowie eine Eigenkapitalrendite (ROTE) von 15 Prozent bis 2028 und 18 Prozent bis 2030, verglichen mit rund 12 Prozent in 2025. Die Bank beschäftigt weltweit rund 82.000 Mitarbeiter und will versuchen, einen Teil der Betroffenen intern umzusetzen, ohne konkrete Zahlen zu nennen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-05-18"
-    },
-    {
-      "titel": "Meta verschiebt neues Flaggschiff-KI-Modell 'Avocado' auf Ende Juni",
-      "text": "Metas nächstes großes KI-Modell, intern unter dem Codenamen 'Avocado' bekannt, wird sich verzögern: Ursprünglich für Mai oder Anfang Juni 2026 erwartet, ist nun laut Insider-Berichten Ende Juni das wahrscheinlichste Veröffentlichungsfenster. Meta steht unter erheblichem Druck, nach Milliarden-Investitionen in KI-Infrastruktur und dem umstrittenen 14-Milliarden-Dollar-Deal mit Scale-AI-Gründer Alexandr Wang ein leistungsstarkes Modell zu liefern. Die Verzögerung kommt zu einem kritischen Zeitpunkt: Google und OpenAI veröffentlichen laufend neue Modelle und Funktionen. Analysten beobachten, ob Meta mit 'Avocado' bei der Benchmark-Performance aufholen kann, um langfristig im KI-Rennen wettbewerbsfähig zu bleiben.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-18"
+      "datum_artikel": "2026-05-19"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI und NVIDIA vereinbaren 10-Gigawatt-Infrastrukturpartnerschaft",
-      "text": "OpenAI und NVIDIA haben eine strategische Partnerschaft angekündigt, die als eines der größten KI-Infrastruktur-Abkommen der Geschichte gilt. NVIDIA plant, schrittweise bis zu 100 Milliarden US-Dollar in OpenAI zu investieren und dabei mindestens 10 Gigawatt eigener Systeme für OpenAIs Rechenbedarf bereitzustellen. Das erste Gigawatt soll noch im zweiten Halbjahr 2026 auf NVIDIAs neuer Vera-Rubin-Plattform in Betrieb gehen und dient dem Training und Betrieb der nächsten Generation von OpenAI-Modellen auf dem Weg zur Superintelligenz. Für NVIDIA sichert die Partnerschaft langfristig gesicherte Chip-Nachfrage und strategische Bindung an einen der wichtigsten KI-Akteure weltweit. Analysten werten den Deal als Reaktion auf den wachsenden Wettbewerb durch alternative KI-Chips von AMD, Google und Amazon.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-19",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Anthropic verhandelt über 30-Milliarden-Finanzierungsrunde bei 900-Milliarden-Bewertung",
-      "text": "Anthropic befindet sich laut Berichten vom 18. Mai 2026 in fortgeschrittenen Verhandlungen über eine neue Finanzierungsrunde in Höhe von 30 Milliarden US-Dollar, die das Unternehmen mit über 900 Milliarden US-Dollar bewerten würde. Als Basis dient Anthropics rapides Umsatzwachstum: Im ersten Quartal 2026 überstieg der jährlich wiederkehrende Umsatz bereits 44 Milliarden US-Dollar, ein 80-facher Anstieg gegenüber dem Vorjahr. Mehr als 1.000 Kunden geben inzwischen über eine Million Dollar pro Jahr für Anthropic-Produkte aus. Sollte die Runde erfolgreich abgeschlossen werden, würde Anthropic zu einem der wertvollsten Privatunternehmen der Welt aufsteigen. Bereits in der Vergangenheit hatten Amazon und Google Milliarden in das Unternehmen investiert.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAI und Dell bringen Codex-Agenten in Unternehmensinfrastrukturen",
+      "text": "OpenAI und Dell Technologies haben bei der Dell Technologies World-Konferenz in Las Vegas am 18. Mai eine Partnerschaft bekanntgegeben, die es Unternehmen ermöglichen soll, den KI-Programmieragenten Codex in eigenen On-Premises- und Hybrid-Cloud-Umgebungen zu betreiben. Codex soll in Dells AI Data Platform integriert werden, mit der Firmen interne Daten sicher verwalten — und ermöglicht damit den Einsatz ohne Pflicht zur Public Cloud. Laut OpenAI nutzen bereits vier Millionen Entwickler wöchentlich Codex für Aufgaben wie Code-Review, Testabdeckung und Fehlersuche. Die Partnerschaft soll den Einsatz von Codex-Agenten weit über Softwareentwicklung hinaus ausdehnen: Reports erstellen, Kundenfeedback auswerten und Vertriebsprozesse automatisieren sollen künftig ebenfalls möglich sein. Für OpenAI ist der Deal ein wichtiger Schritt im Wettbewerb mit Microsoft GitHub Copilot und Google Gemini im Enterprise-Markt.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-05-18",
-      "unternehmen": "Anthropic"
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Goldpreis fällt unter 4.550 Dollar - Fed-Zinspolitik und Inflationsdruck belasten",
-      "text": "Der Goldpreis ist zum Wochenstart am 18. Mai 2026 unter 4.550 US-Dollar pro Unze gefallen und notierte bei 4.549,20 Dollar, ein Minus von 0,28 Prozent. Gold hatte in der Vorwoche bereits fast 4 Prozent verloren. Als Haupttreiber gilt die jüngste Entscheidung der US-Notenbank Fed: Die Zinsen wurden unverändert bei 3,50 bis 3,75 Prozent belassen, während der neue Dot-Plot für 2026 nur noch eine einzige Zinssenkung anzeigt statt wie zuvor zwei. Hinzu kommen ein stärkerer US-Dollar und steigende Anleiherenditen nach überraschend hohen US-Inflationsdaten. Der Nahost-Konflikt und die Blockade der Straße von Hormuz treiben Energiepreise an, was die Inflation weiter anfacht und Spekulationen über einen möglichen Zinsanstieg vor Jahresende verstärkt.",
+      "titel": "S&P 500 fällt zum dritten Mal in Folge — US-Anleiherenditen auf 19-Jahres-Hoch",
+      "text": "Der S&P 500 schloss am Dienstag, 19. Mai, mit einem Minus von 0,67 Prozent bei rund 7.354 Punkten und damit zum dritten Tag in Folge im Minus. Gleichzeitig kletterte die Rendite 30-jähriger US-Staatsanleihen kurzzeitig auf über 5,19 Prozent — der höchste Stand seit fast 19 Jahren. Ausgelöst wurde der Ausverkauf durch hartnäckig hohe Inflationsdaten: Die Erzeugerpreise stiegen auf Jahresbasis um 6 Prozent, der Kern-CPI liegt deutlich über dem Fed-Ziel von 2 Prozent. Investoren rechnen inzwischen kaum noch mit Zinssenkungen der Federal Reserve in diesem Jahr; einzelne Marktteilnehmer preisen sogar eine weitere Erhöhung ein. Zusätzlich belastet Rohöl über 108 Dollar pro Barrel die Stimmung, da steigende Energiepreise die Inflation weiter antreiben könnten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-18"
+      "datum_artikel": "2026-05-19"
     },
     {
-      "titel": "S&P 500 gibt zu Wochenbeginn nach - Iran-Konflikt und steigende Ölpreise belasten",
-      "text": "Der US-Aktienmarkt startete die Handelswoche mit Verlusten: Der S&P 500 fiel am 18. Mai 2026 um 0,20 Prozent, der Nasdaq gab ebenfalls nach. Auslöser war eine Rede von US-Präsident Trump zum Iran-Konflikt, die Bedenken über Versorgungsunterbrechungen am globalen Ölmarkt verstärkte. West Texas Intermediate (WTI) stieg um 0,85 Prozent auf 106,30 Dollar je Barrel, Brent-Rohöl legte um 0,89 Prozent auf 110,20 Dollar zu. Die zehnjährige US-Staatsanleiherendite erreichte ein Jahreshoch und setzte damit besonders Technologiewerte unter Druck. Anleger navigieren zwischen den Rekordstaenden der Vorwoche und zunehmendem geopolitischem sowie wirtschaftlichem Gegenwind - steigende Energiepreise koennten die Inflation weiter anfachen und Fed-Zinssenkungen weiter verzoegern.",
+      "titel": "Gold verliert trotz Inflation und Iran-Konflikt — steigende Renditen bremsen Edelmetall",
+      "text": "Gold handelte am Montag, 18. Mai, bei rund 4.542 US-Dollar je Feinunze und verlor damit in den vergangenen vier Wochen rund 5,8 Prozent — obwohl der Preis im Jahresvergleich noch immer rund 41 Prozent höher liegt. Paradoxerweise drücken Faktoren, die Gold normalerweise befeuern — hohe Inflation und geopolitische Risiken durch den Iran-Konflikt und die blockierte Straße von Hormuz — diesmal den Preis, weil gleichzeitig die US-Staatsanleiherenditen stark steigen und Gold als zinslose Anlage dadurch relativ unattraktiver wird. US-Präsident Trump forderte den Iran auf, ein Abkommen zu schließen, während Teheran laut iranischen Medienberichten bisher 'keine greifbaren Zugeständnisse' von Washington sieht. Institutionelle Prognostiker erwarten dennoch mehrheitlich, dass Gold bis Ende 2026 wieder steigt, mit Kurszielen von bis zu 5.000 Dollar je Unze.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-18"
     }
