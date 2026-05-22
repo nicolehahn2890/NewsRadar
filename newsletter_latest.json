@@ -1,54 +1,40 @@
 {
-  "datum": "Donnerstag, 21. Mai 2026",
-  "generiert": "2026-05-21",
+  "datum": "Freitag, 22. Mai 2026",
+  "generiert": "2026-05-22",
   "ki_stories": [
     {
-      "titel": "OpenAI-Modell widerlegt 80 Jahre alte Vermutung aus der Geometrie",
-      "text": "Ein neues allgemeines Reasoning-Modell von OpenAI hat eine seit Jahrzehnten ungelöste Vermutung aus der diskreten Geometrie widerlegt. Die sogenannte Unit-Distance-Vermutung besagte, dass bestimmte Gitterkonstruktionen nahezu optimal für die Maximierung einheitlicher Abstände seien - das Modell lieferte eine unendliche Familie von Gegenbeispielen und bewies damit eine polynomielle Verbesserung. Externe Mathematiker prüften den Beweis unabhängig und bestätigten ihn in einem Begleitpapier; TechCrunch bezeichnete das Ergebnis als einen der überzeugendsten KI-Mathe-Durchbrüche bisher. Bemerkenswert ist, dass der Beweis von einem Allzweck-Sprachmodell stammt und nicht von einem speziell auf Mathematik ausgerichteten System. Der Durchbruch gilt als weiterer Beleg dafür, dass aktuelle KI-Systeme beginnen, eigenständige wissenschaftliche Beiträge zu leisten.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-05-20"
+      "titel": "Pentagon testet OpenAI und Google als Ersatz für Anthropic",
+      "text": "Das US-Verteidigungsministerium testet KI-Modelle von OpenAI, Google und xAI, um Anthropics Claude aus dem Militärbetrieb zu verdrängen. Verteidigungsminister Pete Hegseth erklärte Anthropic im März 2026 zum 'Supply-Chain-Risiko', weil das Unternehmen auf Sicherheitsschranken besteht und sein Modell weder für Massenüberwachung noch für autonome Waffensysteme freigeben will. Die Tests laufen seit Anfang März mit 25 Pentagon-Nutzern, die ermitteln sollen, welches Alternativmodell ihre Arbeit am besten unterstützt. Anthropic kämpft gegen die Einstufung vor Gericht - sie könnte das Unternehmen Milliarden US-Dollar an Einnahmen kosten, nachdem es im Juli 2025 noch einen Vertrag über bis zu 200 Millionen US-Dollar für die Integration von Claude in klassifizierte Militärnetzwerke erhalten hatte. Intern gilt Anthropics neues Mythos-Modell als führend bei Cybersicherheitsfähigkeiten, wird aber aus Sicherheitsbedenken derzeit nur einem kleinen Kreis zugelassener Organisationen zugänglich gemacht.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-21"
     },
     {
-      "titel": "Bloomberg: Fünf-Billionen-Dollar-KI-Boom birgt wachsende Schuldenrisiken",
-      "text": "Bloomberg analysierte am 19. Mai den rasant wachsenden Schulden-Boom zur Finanzierung des globalen KI-Infrastrukturausbaus, der insgesamt rund fünf Billionen Dollar umfasst. Tech-Konzerne und KI-Unternehmen finanzieren Rechenzentren, Chips und Cloud-Kapazitäten zunehmend über Anleihen und Kredite - und Investoren kaufen trotz steigender Zinsen weiterhin bereitwillig. Bloomberg warnte vor versteckten Refinanzierungsrisiken: Viele Anleihen laufen 2027 und 2028 aus, möglicherweise in einem Umfeld anhaltend hoher Zinsen, da die Fed Zinssenkungen immer weiter nach hinten schiebt. Der Boom reflektiert starkes Vertrauen der Kapitalmärkte in künftige KI-Erträge, birgt aber systemische Risiken, falls die erwarteten Einnahmen hinter dem massiven Kapitaleinsatz zurückbleiben. Analysten bezeichnen die Entwicklung als eine der größten koordinierten Investitionswellen in der Geschichte der Technologiebranche.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-19"
+      "titel": "Google nach I/O: Gemini Spark als KI-Assistent rund um die Uhr",
+      "text": "Nach der Google I/O-Konferenz 2026 beschreiben Führungskräfte von Google, OpenAI und Anthropic das KI-Wettrennen als faktisch gleichauf - mit unterschiedlichen Strategien bei Kosten, Geschwindigkeit und Rechenkapazität. Google setzt mit dem neuen Gemini 3.5 Flash auf schnellere und günstigere Modelle statt auf ein weiteres Flaggschiff-Modell. Highlight der Konferenz war Gemini Spark, ein neuer persönlicher KI-Assistent, der rund um die Uhr im Hintergrund läuft und tief in Gmail sowie Google Docs integriert ist. Spark kann mehrstufige Aufgaben eigenständig ausführen - etwa Newsletter auswerten, Reisen planen oder Inventare verwalten - benötigt aber bei wichtigen Entscheidungen weiterhin die Zustimmung des Nutzers. Der Beta-Rollout startet zunächst mit ausgewählten Testern und soll in der kommenden Woche für Google AI Ultra-Abonnenten in den USA verfügbar sein.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-05-21"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA: Rekordumsatz 81,6 Mrd. Dollar - Nachfrage laut CEO parabolisch",
-      "text": "NVIDIA veröffentlichte am 20. Mai die Ergebnisse für das erste Quartal des Geschäftsjahres 2027 (Quartal bis Ende April 2026) mit einem Rekordumsatz von 81,62 Milliarden Dollar - ein Plus von 85 Prozent im Jahresvergleich und 20 Prozent gegenüber dem Vorquartal. Der Gewinn je Aktie betrug 1,87 Dollar und übertraf die Analystenschätzung von 1,78 Dollar deutlich. Das Datenzentrum-Segment steuerte allein 75 Milliarden Dollar bei (plus 92 Prozent YoY), angetrieben von der Nachfrage nach der Blackwell-Architektur. CEO Jensen Huang kommentierte: 'Die Nachfrage ist parabolisch geworden - der Grund ist einfach: Das agentische KI-Zeitalter ist angebrochen.' Das Management deutete an, dass Blackwell und die kommende Rubin-Plattform gemeinsam bis 2027 kumuliert eine Billion Dollar Umsatz erzielen könnten.",
+      "titel": "NVIDIA: Rekordumsatz 81,6 Mrd. USD im Q1 - Datacenter wächst 92 Prozent",
+      "text": "NVIDIA hat für das erste Quartal des Geschäftsjahres 2027 (Quartal bis Ende April 2026) mit einem Umsatz von 81,6 Milliarden US-Dollar ein neues Allzeithoch erzielt - ein Plus von 85 Prozent gegenüber dem Vorjahreszeitraum und 20 Prozent gegenüber dem Vorquartal. Das Datacenter-Segment allein erzielte 75,2 Milliarden US-Dollar Umsatz, ein Jahreswachstum von 92 Prozent, getrieben durch anhaltend starke Nachfrage nach KI-Beschleunigern der Blackwell-Architektur. Der Gewinn je Aktie lag bei 1,87 US-Dollar (non-GAAP) und übertraf die Wall-Street-Erwartung von 1,78 US-Dollar. NVIDIA kündigte zudem ein neues Aktienrückkaufprogramm über 80 Milliarden US-Dollar an und erhöhte die Quartalsdividende drastisch von 0,01 auf 0,25 US-Dollar pro Aktie. Die Zahlen bestätigen, dass der globale Boom bei KI-Infrastruktur trotz geopolitischer Unsicherheiten ungebrochen stark ist.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-20",
       "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "WSJ: OpenAI reicht IPO-Prospekt vertraulich ein - Börsengang September angepeilt",
-      "text": "Das Wall Street Journal berichtete, dass OpenAI mit den Investmentbanken Goldman Sachs und Morgan Stanley an einem Börsenprospekt arbeitet und diesen noch diese Woche (um den 22. Mai) vertraulich bei der US-Börsenaufsicht SEC einreichen will. Ein öffentliches Börsendebüt ist für September 2026 angestrebt, bei einer angestrebten Bewertung von rund einer Billion Dollar. OpenAI erzielt derzeit annualisiert 25 Milliarden Dollar Umsatz und wächst schnell, verzeichnet laut Prognosen aber 2026 noch Verluste von rund 14 Milliarden Dollar. Der Börsengang würde einer der größten US-IPOs aller Zeiten werden und OpenAI weiteres Kapital für den globalen KI-Wettbewerb verschaffen. Der Schritt kommt, nachdem Amazon zuletzt bis zu 50 Milliarden Dollar in OpenAI investiert hat und das Unternehmen seine Unternehmenskundschaft zuletzt auf über zwei Millionen Firmen erweiterte.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-05-21",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Google und Blackstone gründen KI-Cloud-Firma als Konkurrenz zu CoreWeave",
-      "text": "Alphabet-Tochter Google und der Finanzinvestor Blackstone vereinbarten laut Bloomberg vom 19. Mai die Gründung eines gemeinsamen KI-Cloud-Unternehmens, das direkt mit dem Rechenzentrumsanbieter CoreWeave konkurrieren soll. Das neue Unternehmen soll Googles hauseigene KI-Chips mit Blackstones Kapital und Expertise in der Infrastrukturfinanzierung kombinieren. Ziel ist der Aufbau großer Rechenzentrumskapazitäten speziell für KI-Workloads, die als externer Cloud-Dienst vermarktet werden. Für Google ist das Vorhaben ein Weg, die eigene Chip- und Infrastrukturkompetenz auch außerhalb von Google Cloud zu monetarisieren und neue Einnahmen im boomenden Markt für KI-Rechenleistung zu erschließen. Das Joint Venture spiegelt den globalen Wettlauf um KI-Kapazitäten wider, an dem sich Microsoft, Amazon und NVIDIA ebenfalls mit Milliardeninvestitionen beteiligen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-19",
-      "unternehmen": "Google"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 steigt 0,93 % auf 7.422 Punkte - NVIDIA-Zahlen stützen nachbörslich",
-      "text": "Der S&P 500 schloss am 20. Mai 2026 um 0,93 Prozent höher bei 7.421,71 Punkten; Nasdaq und Dow Jones legten 1,36 bzw. 0,98 Prozent zu. Als Treiber galten sinkende Energiepreise nach Signalen von Präsident Trump über einen möglichen Iran-Deal sowie die Vorfreude auf NVIDIAs Quartalszahlen. Nach Börsenschluss meldete NVIDIA tatsächlich einen Rekordumsatz von 81,6 Milliarden Dollar (plus 85 Prozent YoY), was US-Aktien auch im nachbörslichen Handel stützte - NVDA legte nachbörslich nochmals über 0,5 Prozent zu. NVIDIA trägt allein fast ein Fünftel des gesamten S&P-500-Jahresgewinns von über 8 Prozent, was die marktdominierende Rolle des Chipkonzerns unterstreicht. Für das Gesamtjahr bleibt die Marktentwicklung durch KI-Optimismus und restriktive Fed-Geldpolitik geprägt.",
-      "quelle": "Bloomberg",
+      "titel": "Fed-Protokoll: Mehrheit der Notenbanker hält Zinserhöhung für möglich",
+      "text": "Das Protokoll der Federal-Reserve-Sitzung vom 29. April 2026, am 20. Mai veröffentlicht, zeigt eine ungewöhnlich gespaltene Notenbank: Acht von zwölf stimmberechtigten Mitgliedern stimmten für eine Zinspause bei 3,50 bis 3,75 Prozent, vier dagegen - so viele Gegenstimmen wie seit 1992 nicht mehr. Eine Mehrheit der Mitglieder hält eine Zinserhöhung für notwendig, falls die Inflation durch den anhaltenden Iran-Krieg und steigende Energiepreise hoch bleiben sollte. Im April stieg die US-Großhandelsinflation auf eine Jahresrate von 6 Prozent. Terminmärkte preisen nun eine erste Zinserhöhung bis Ende 2026 oder Anfang 2027 ein, und die Renditen von US-Staatsanleihen erreichten den höchsten Stand seit 19 Jahren. Für Aktienanleger im S&P 500 und im FTSE All World bedeutet das erhöhte Unsicherheit über den weiteren Kurs der US-Geldpolitik.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-20"
     },
     {
-      "titel": "Gold bei 4.544 Dollar: Fed hält Zinsen, Hormuz-Krise stützt Edelmetall",
-      "text": "Gold notierte am 21. Mai 2026 bei rund 4.544 Dollar je Feinunze, ein Plus von 0,73 Prozent gegenüber dem Vortag, nach einer Phase leichter Schwäche im Wochenverlauf. Die Federal Reserve hält ihren Leitzins stabil bei 3,50 bis 3,75 Prozent; laut CME FedWatch-Tool liegt die Wahrscheinlichkeit für keine Zinssenkung im Juni bei 97,4 Prozent. Haupttreiber des Goldpreises bleiben der anhaltende Nahost-Konflikt und die Blockade der Straße von Hormuz, die Öl- und Frachtkosten erhöht und die US-Großhandelsinflation auf den höchsten Stand seit 2022 getrieben hat. Der Weltgoldrat meldete für Q1 2026 mit 1.230,9 Tonnen eine Rekordnachfrage (plus 2 Prozent YoY), was das strukturell starke Kaufinteresse von Zentralbanken und Investoren unterstreicht. Trotz eines monatlichen Rückgangs von rund 4,6 Prozent liegt Gold noch 35 Prozent über dem Vorjahresniveau; institutionelle Prognosen sehen Potenzial bis 5.000 Dollar.",
-      "quelle": "Bloomberg",
+      "titel": "Gold fällt auf 4.500 USD: Iran-Atomverhandlungen stocken erneut",
+      "text": "Der Goldpreis sank am 22. Mai 2026 in Richtung 4.500 US-Dollar je Unze und verlor 0,42 Prozent, nachdem er am Vortag noch über dieser Marke gehalten hatte. Auslöser war das Scheitern von Hoffnungen auf ein schnelles US-Iran-Abkommen: Irans Oberste Führung erließ eine Direktive, wonach das angereicherte Uran des Landes auf iranischem Boden verbleiben müsse - was den Bedingungen widerspricht, die israelische Verhandlungsführer als Voraussetzung für ein Abkommen fordern. Ein anhaltender Konflikt hält die Ölpreise nahe Vierjahrshochs und heizt die Inflationssorgen weiter an. Zusätzlicher Druck auf Gold kommt vom stärkeren US-Dollar sowie von den Fed-Signalen zu möglichen Zinserhöhungen, die Gold als zinsloses Asset weniger attraktiv machen. Trotz des jüngsten Rückgangs hat Gold im Jahresvergleich rund 35 Prozent an Wert gewonnen.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-21"
     }
   ]
