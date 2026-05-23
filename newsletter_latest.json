@@ -1,39 +1,33 @@
 {
-  "datum": "Freitag, 22. Mai 2026",
-  "generiert": "2026-05-22",
+  "datum": "Samstag, 23. Mai 2026",
+  "generiert": "2026-05-23",
   "ki_stories": [
     {
-      "titel": "Pentagon testet OpenAI und Google als Ersatz für Anthropic",
-      "text": "Das US-Verteidigungsministerium testet KI-Modelle von OpenAI, Google und xAI, um Anthropics Claude aus dem Militärbetrieb zu verdrängen. Verteidigungsminister Pete Hegseth erklärte Anthropic im März 2026 zum 'Supply-Chain-Risiko', weil das Unternehmen auf Sicherheitsschranken besteht und sein Modell weder für Massenüberwachung noch für autonome Waffensysteme freigeben will. Die Tests laufen seit Anfang März mit 25 Pentagon-Nutzern, die ermitteln sollen, welches Alternativmodell ihre Arbeit am besten unterstützt. Anthropic kämpft gegen die Einstufung vor Gericht - sie könnte das Unternehmen Milliarden US-Dollar an Einnahmen kosten, nachdem es im Juli 2025 noch einen Vertrag über bis zu 200 Millionen US-Dollar für die Integration von Claude in klassifizierte Militärnetzwerke erhalten hatte. Intern gilt Anthropics neues Mythos-Modell als führend bei Cybersicherheitsfähigkeiten, wird aber aus Sicherheitsbedenken derzeit nur einem kleinen Kreis zugelassener Organisationen zugänglich gemacht.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-21"
-    },
-    {
-      "titel": "Google nach I/O: Gemini Spark als KI-Assistent rund um die Uhr",
-      "text": "Nach der Google I/O-Konferenz 2026 beschreiben Führungskräfte von Google, OpenAI und Anthropic das KI-Wettrennen als faktisch gleichauf - mit unterschiedlichen Strategien bei Kosten, Geschwindigkeit und Rechenkapazität. Google setzt mit dem neuen Gemini 3.5 Flash auf schnellere und günstigere Modelle statt auf ein weiteres Flaggschiff-Modell. Highlight der Konferenz war Gemini Spark, ein neuer persönlicher KI-Assistent, der rund um die Uhr im Hintergrund läuft und tief in Gmail sowie Google Docs integriert ist. Spark kann mehrstufige Aufgaben eigenständig ausführen - etwa Newsletter auswerten, Reisen planen oder Inventare verwalten - benötigt aber bei wichtigen Entscheidungen weiterhin die Zustimmung des Nutzers. Der Beta-Rollout startet zunächst mit ausgewählten Testern und soll in der kommenden Woche für Google AI Ultra-Abonnenten in den USA verfügbar sein.",
+      "titel": "Googles Plan im KI-Wettkampf: Gemini-Familie gegen OpenAI und Anthropic",
+      "text": "Axios analysierte am 21. Mai, wie Google im eskalierende KI-Rennen die Oberhand gewinnen will. Statt auf ein einzelnes Flaggschiff-Modell setzt Google auf eine breite Familie: Gemini 3.5 Flash als schnelles und guenstiges Arbeitsmodell (1,50 Dollar pro Million Input-Token, laut Google viermal schneller als vergleichbare Konkurrenzmodelle) sowie den neuen persoenlichen KI-Agenten Gemini Spark, der rund um die Uhr laeuft und tief in Gmail, Calendar und Docs integriert ist. Laut Insidern beschreiben Fuehrungskraefte aller drei Unternehmen - Google, OpenAI und Anthropic - das Rennen als praktisch 'gleichauf', mit unterschiedlichen Abwaegungen bei Kosten, Geschwindigkeit und Rechenkapazitaet. Googles Trumpfkarte ist die bestehende Milliarden-Nutzerbasis bei Search, YouTube und Android, ueber die es neue Modelle sofort verteilen kann. Als naechstes plant Google die Veroeffentlichung von Gemini 3.5 Pro, das intern bereits im Einsatz ist und noch im Juni 2026 externen Nutzern bereitstehen soll.",
       "quelle": "Axios",
       "datum_artikel": "2026-05-21"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA: Rekordumsatz 81,6 Mrd. USD im Q1 - Datacenter wächst 92 Prozent",
-      "text": "NVIDIA hat für das erste Quartal des Geschäftsjahres 2027 (Quartal bis Ende April 2026) mit einem Umsatz von 81,6 Milliarden US-Dollar ein neues Allzeithoch erzielt - ein Plus von 85 Prozent gegenüber dem Vorjahreszeitraum und 20 Prozent gegenüber dem Vorquartal. Das Datacenter-Segment allein erzielte 75,2 Milliarden US-Dollar Umsatz, ein Jahreswachstum von 92 Prozent, getrieben durch anhaltend starke Nachfrage nach KI-Beschleunigern der Blackwell-Architektur. Der Gewinn je Aktie lag bei 1,87 US-Dollar (non-GAAP) und übertraf die Wall-Street-Erwartung von 1,78 US-Dollar. NVIDIA kündigte zudem ein neues Aktienrückkaufprogramm über 80 Milliarden US-Dollar an und erhöhte die Quartalsdividende drastisch von 0,01 auf 0,25 US-Dollar pro Aktie. Die Zahlen bestätigen, dass der globale Boom bei KI-Infrastruktur trotz geopolitischer Unsicherheiten ungebrochen stark ist.",
+      "titel": "Anthropic schliesst $30-Mrd-Runde noch naechste Woche - Bewertung ueber $900 Mrd",
+      "text": "Laut Bloomberg vom 22. Mai steht Anthropic unmittelbar vor dem Abschluss seiner bisher groessten Finanzierungsrunde ueber mehr als 30 Milliarden US-Dollar, die bereits in der Woche ab dem 25. Mai vollzogen werden soll. Die damit implizierte Bewertung von ueber 900 Milliarden Dollar uebersteigt jene von OpenAI und bringt Anthropic in die Naehe der Billionen-Dollar-Schwelle. Angefuehrt wird die Runde von Sequoia Capital, Dragoneer Investment Group, Altimeter Capital und Greenoaks Capital Partners, wobei jedes Unternehmen rund 2 Milliarden Dollar investieren will. Treiber dieser Bewertung ist ein explosives Umsatzwachstum: Anthropics annualisierter Jahresumsatz stieg von 9 Milliarden Dollar Ende 2025 auf ueber 44 Milliarden Dollar im Fruehling 2026, hauptsaechlich dank Grossunternehmen wie KPMG und PwC, die Claude flaechendeckend einsetzen. Ein Boersengang von Anthropic wird noch fuer 2026 oder Anfang 2027 erwartet.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-20",
-      "unternehmen": "NVIDIA"
+      "datum_artikel": "2026-05-22",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Fed-Protokoll: Mehrheit der Notenbanker hält Zinserhöhung für möglich",
-      "text": "Das Protokoll der Federal-Reserve-Sitzung vom 29. April 2026, am 20. Mai veröffentlicht, zeigt eine ungewöhnlich gespaltene Notenbank: Acht von zwölf stimmberechtigten Mitgliedern stimmten für eine Zinspause bei 3,50 bis 3,75 Prozent, vier dagegen - so viele Gegenstimmen wie seit 1992 nicht mehr. Eine Mehrheit der Mitglieder hält eine Zinserhöhung für notwendig, falls die Inflation durch den anhaltenden Iran-Krieg und steigende Energiepreise hoch bleiben sollte. Im April stieg die US-Großhandelsinflation auf eine Jahresrate von 6 Prozent. Terminmärkte preisen nun eine erste Zinserhöhung bis Ende 2026 oder Anfang 2027 ein, und die Renditen von US-Staatsanleihen erreichten den höchsten Stand seit 19 Jahren. Für Aktienanleger im S&P 500 und im FTSE All World bedeutet das erhöhte Unsicherheit über den weiteren Kurs der US-Geldpolitik.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-20"
+      "titel": "S&P 500 beendet achte Gewinnwoche in Folge - laengste Serie seit 2023",
+      "text": "Der S&P 500 stieg am Freitag, 22. Mai 2026, um 0,37 Prozent auf 7.473 Punkte und schloss damit seine achte Gewinnwoche hintereinander ab - die laengste positive Wochenserie seit Ende 2023. Ueber die gesamte Woche betrug der Zuwachs 0,9 Prozent. Treiber waren sinkende Renditen bei zehnjaehrigen US-Staatsanleihen sowie leicht nachgebende Oelpreise zum Wochenschluss. Der Dow Jones setzte am Freitag mit einem Plus von 294 Punkten ein neues Rekordhoch. Staerkste Sektoren waren Gesundheitswesen (+1,19 Prozent) und Technologie (+1,02 Prozent); lediglich Kommunikationsdienste schlossen im Minus (-0,54 Prozent). Da in den USA am darauffolgenden Montag der Feiertag Memorial Day gilt, bleiben die Maerkte am 25. Mai geschlossen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-22"
     },
     {
-      "titel": "Gold fällt auf 4.500 USD: Iran-Atomverhandlungen stocken erneut",
-      "text": "Der Goldpreis sank am 22. Mai 2026 in Richtung 4.500 US-Dollar je Unze und verlor 0,42 Prozent, nachdem er am Vortag noch über dieser Marke gehalten hatte. Auslöser war das Scheitern von Hoffnungen auf ein schnelles US-Iran-Abkommen: Irans Oberste Führung erließ eine Direktive, wonach das angereicherte Uran des Landes auf iranischem Boden verbleiben müsse - was den Bedingungen widerspricht, die israelische Verhandlungsführer als Voraussetzung für ein Abkommen fordern. Ein anhaltender Konflikt hält die Ölpreise nahe Vierjahrshochs und heizt die Inflationssorgen weiter an. Zusätzlicher Druck auf Gold kommt vom stärkeren US-Dollar sowie von den Fed-Signalen zu möglichen Zinserhöhungen, die Gold als zinsloses Asset weniger attraktiv machen. Trotz des jüngsten Rückgangs hat Gold im Jahresvergleich rund 35 Prozent an Wert gewonnen.",
+      "titel": "Gold faellt auf 4.510 Dollar - Iran-Atomgespraeche scheitern erneut",
+      "text": "Gold verlor am Donnerstag, 21. Mai 2026, 0,70 Prozent und fiel auf 4.510 Dollar je Unze, nachdem Hoffnungen auf ein US-Iran-Abkommen zerplatzt waren. Berichten zufolge erliess Irans Oberster Fuehrer eine Direktive, wonach das iranische Uran im Land verbleiben muesse - was den Kernforderungen der Verhandlungspartner widerspricht und die Gespraeche praktisch blockiert. Die anhaltende geopolitische Spannung trieb gleichzeitig die Oelpreise in Richtung Vierjahreshochs, was Inflationserwartungen anheizte und Spekulationen ueber weitere Zinserhohungen der Notenbanken neu entfachte. Fuer Gold als zinsloses Asset ist ein Umfeld steigender Zinsen tendenziell negativ, weshalb auch der staerkere US-Dollar zusaetzlich belastete. Ueber die vergangenen zwoelf Monate bis Mitte Mai erzielte Gold dennoch eine Gesamtrendite von 42,2 Prozent und uebertraf damit den S&P 500 mit 25,7 Prozent deutlich.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-21"
     }
