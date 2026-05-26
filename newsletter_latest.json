@@ -1,39 +1,31 @@
 {
-  "datum": "Montag, 25. Mai 2026",
-  "generiert": "2026-05-25",
+  "datum": "Dienstag, 26. Mai 2026",
+  "generiert": "2026-05-26",
   "ki_stories": [
     {
-      "titel": "Google kündigt größtes Such-Update seit 25 Jahren an: KI generiert Grafiken und Mini-Apps",
-      "text": "Google hat angekündigt, die Internetsuche grundlegend zu verändern und präsentiert das umfangreichste Update der Suchmaschine seit 25 Jahren. Künftig soll KI auf Suchanfragen hin automatisch eigene visuelle Inhalte, interaktive Grafiken und kleine Anwendungen direkt auf der Ergebnisseite generieren, statt nur Links zu externen Webseiten aufzulisten. Im Hintergrund arbeiten Googles Gemini-Modelle, die den Inhalt in Echtzeit erstellen. Das Unternehmen will damit KI-Assistenten wie ChatGPT und Perplexity entgegentreten, die zunehmend Suchmaschinenverkehr abziehen. Analysten warnen, dass das Update erhebliche Folgen für Verlage und Werbekunden haben könnte, da weniger Nutzer auf externe Websites klicken dürften, wenn Antworten bereits vollständig in der Suche erscheinen.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-05-23"
-    },
-    {
-      "titel": "Anthropic und Gates Foundation: $200-Mio.-Partnerschaft für KI in Gesundheit und Bildung",
-      "text": "Anthropic hat eine vierjährige Kooperation im Wert von 200 Millionen Dollar mit der Bill und Melinda Gates Foundation bekanntgegeben. Ziel ist die Entwicklung von KI-Werkzeugen für Gesundheitsversorgung, Bildung, Landwirtschaft und wirtschaftliche Entwicklung in einkommensschwachen Regionen, vor allem im globalen Süden. Konkret sollen Claude-Modelle an die spezifischen Bedürfnisse humanitärer und Entwicklungsprojekte angepasst werden, etwa zur Unterstützung von Gesundheitspersonal ohne ausreichende medizinische Infrastruktur. Für Anthropic ist die Partnerschaft ein wichtiges Signal, dass KI-Technologie gesellschaftlichen Mehrwert jenseits kommerzieller Anwendungen schafft. Die Gates Foundation erhofft sich, durch den KI-Einsatz jahrelange Fortschritte in der globalen Gesundheits- und Bildungsversorgung deutlich zu beschleunigen.",
+      "titel": "Papst Leo XIV veröffentlicht erste KI-Enzyklika 'Magnifica Humanitas'",
+      "text": "Papst Leo XIV hat am 25. Mai 2026 seine erste Enzyklika unter dem Titel 'Magnifica Humanitas' ('Herrliche Menschlichkeit') veröffentlicht - das erste päpstliche Lehrschreiben überhaupt, das sich ausschließlich der Künstlichen Intelligenz widmet. Das Dokument warnt vor dem Einsatz von KI in der Kriegsführung und vor unkontrollierter Machtkonzentration bei Technologiekonzernen und bezeichnet KI als Entwicklung mit 'noch größeren Konsequenzen als die Industrielle Revolution'. Bei der Präsentation saß Anthropic-Mitgründer Christopher Olah neben dem Papst und Kurialkardinälen - ein bewusstes Signal des Vatikans, Anthropic als glaubwürdigen Partner für KI-Sicherheit anzuerkennen. Olah forderte eine globale Partnerschaft zwischen Kirche und Technologiebranche, damit die Vorteile der KI weltweit geteilt werden und nicht nur bei wenigen Nationen und Konzernen verbleiben. Die Enzyklika dürfte die internationale Debatte um KI-Regulierung, Ethik und gesellschaftliche Verantwortung deutlich verstärken.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-05-23"
+      "datum_artikel": "2026-05-25"
     }
   ],
-  "unternehmen_stories": [
-    {
-      "titel": "Anthropic vor Rekordbewertung: $30-Mrd.-Finanzierungsrunde setzt Unternehmenswert auf $900 Mrd.",
-      "text": "Anthropic, der Hersteller der KI-Assistenten Claude, steht kurz vor dem Abschluss einer neuen Finanzierungsrunde von mehr als 30 Milliarden Dollar, die das Unternehmen mit rund 900 Milliarden Dollar bewerten würde. Das wäre mehr als die aktuelle Bewertung von OpenAI und würde Anthropic zum wertvollsten privaten KI-Unternehmen der Welt machen. Parallel dazu erwartet Anthropic im zweiten Quartal 2026 einen Umsatz von rund 10,9 Milliarden Dollar sowie einen operativen Gewinn von etwa 559 Millionen Dollar, was das erste profitable Quartal in der Unternehmensgeschichte wäre. Haupttreiber des Wachstums ist Claude Code, das Entwicklerwerkzeug von Anthropic, das allein einen annualisierten Umsatz von über 2,5 Milliarden Dollar erreicht hat. Der Abschluss der Runde wird laut Berichten noch in der Woche ab dem 26. Mai 2026 erwartet, was die Dynamik im KI-Finanzierungsmarkt weiter befeuern dürfte.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-05-23",
-      "unternehmen": "Anthropic"
-    }
-  ],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "Gold bei rund $4.500: Inflationsdaten und Iran-Signale prägen aktuelle Handelswoche",
-      "text": "Der Goldpreis handelt in der Woche des 25. Mai bei rund 4.500 bis 4.580 Dollar je Feinunze und lag zuletzt bei etwa 4.523 Dollar, einem leichten Minus von 0,42 Prozent gegenüber dem Vortag. Marktbeobachter richten ihren Blick auf neue US-Konjunkturdaten dieser Woche, darunter BIP-Zahlen zum ersten Quartal 2026 und Erstanträge auf Arbeitslosenhilfe, die Hinweise auf den weiteren Zinspfad der Federal Reserve geben sollen. Positive Signale aus den Verhandlungen über einen US-iranischen Waffenstillstand hatten zuletzt die Risikobereitschaft gestärkt und Gold unter leichten Abgabedruck gesetzt. Indien hat zudem die Importzölle auf Gold von 6 auf 15 Prozent angehoben, was die dortige Nachfrage um schätzungsweise 50 bis 60 Tonnen oder rund 10 Prozent drücken dürfte. Gold bleibt trotzdem in einem übergeordneten Aufwärtstrend und hat seit Jahresbeginn erheblich zugelegt.",
+      "titel": "KI-Boom treibt globale Momentum-Aktien auf Rekord-Outperformance",
+      "text": "Die durch Künstliche Intelligenz befeuerte Aktienrallye hat den globalen MSCI-Momentum-Index seit Ende März um 17 Prozentpunkte gegenüber dem MSCI All Country World übertreffen lassen - die stärkste zweimonatige Outperformance in der Geschichte dieses Index, wie Bloomberg am 25. Mai berichtete. Der S&P 500 verzeichnete zuletzt acht Gewinnwochen in Folge, die längste Siegesserie seit Dezember 2023, und legte in 2026 bisher rund 8,5 Prozent zu. Getrieben wird die Rallye von der enormen Nachfrage nach KI-Infrastruktur: Hyperscaler wie Microsoft, Amazon, Google und Meta planen in diesem Jahr gemeinsam rund 725 Milliarden US-Dollar in KI zu investieren. Momentum-Investoren, die stark in Tech- und KI-Werte exponiert sind, verbuchen damit ihre besten Renditen seit Jahrzehnten. Analysten warnen, dass solche Sektorkonzentrationen im Falle einer Korrektur schnell zu starken Verlusten führen können.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-25"
     },
     {
-      "titel": "US-Aktienmarkt mit achter Gewinnwoche in Folge: S&P 500 und Dow Jones an Allzeithochs",
-      "text": "Der US-Aktienmarkt geht mit starkem Rückenwind in die neue Handelswoche ab dem 25. Mai: Der S&P 500 hat acht Wochen in Folge Kursgewinne verbucht, die längste derartige Serie seit 2023, und der Dow Jones Industrial Average kletterte auf neue Rekordhochs oberhalb von 50.500 Punkten. Diese Woche stehen wichtige Datenpunkte an: BIP-Zahlen zum ersten Quartal 2026, Inflationsdaten sowie neue Beschäftigungsdaten werden erwartet und könnten die Richtung vorgeben. Die Märkte preisen eine Zinssenkung der Fed im Juni mit nur 2,6 Prozent Wahrscheinlichkeit ein, da die US-Kerninflation im April bei 3,8 Prozent im Jahresvergleich lag und damit deutlich über dem 2-Prozent-Ziel der Notenbank. Stützend wirkten bislang robuste Unternehmensgewinne, starke KI-Investitionen der großen Technologiekonzerne und die Entspannung im internationalen Handelskonflikt.",
+      "titel": "Goldpreis auf Kurs zur zweiten Verlustwoche - Fed-Zinserhöhung rückt näher",
+      "text": "Gold notierte am 25. Mai 2026 bei rund 4.562 USD je Feinunze und steuerte damit auf die zweite Verlustwoche in Folge zu. Haupttreiber des Rückgangs sind steigende Ölpreise, die Inflationssorgen schüren: Die US-Inflationsrate lag im April 2026 bei 3,8 Prozent, dem höchsten Stand seit Mitte 2023. Der Markt preist inzwischen eine rund 55-prozentige Wahrscheinlichkeit für mindestens eine Fed-Zinserhöhung um 25 Basispunkte bis Oktober 2026 ein, was Gold als unverzinsliches Anlagegut belastet. Trotz der kurzfristigen Schwäche liegt der Goldpreis noch rund 37 Prozent über dem Vorjahresniveau; Prognosen von J.P. Morgan sehen Gold auf dem Weg Richtung 5.000 USD je Unze bis zum vierten Quartal 2026. Geopolitische Risiken und anhaltende Zentralbankkäufe bleiben die wichtigsten Unterstützungsfaktoren.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-25"
+    },
+    {
+      "titel": "US-Iran-Annäherung befeuert Aktienfutures - Dell und HP springen auf Rekordhoch",
+      "text": "Berichte über Fortschritte bei US-Iran-Friedensgesprächen und die mögliche Wiedereröffnung der Straße von Hormuz trieben am 25. Mai 2026 die US-Aktienfutures nach oben und verbesserten die globale Marktstimmung deutlich. Im Technologiesektor kletterte Dell Technologies auf ein Rekordhoch; HP Inc. legte über 15 Prozent zu, nachdem starke Quartalszahlen von Chinas Lenovo Group dem gesamten PC-Hardware-Sektor Auftrieb gaben. Workday stieg um 5,2 Prozent, nachdem der Softwareanbieter die Q1-Gewinnerwartungen übertraf. Anleger beobachten die Iran-Verhandlungen genau, da eine Entspannung im Ölmarkt den Inflationsdruck senken und die Chancen auf spätere Fed-Zinssenkungen erhöhen würde. Eine Einigung könnte zudem die globalen Energiepreise stabilisieren und Konjunktursorgen in Europa und Asien dämpfen.",
       "quelle": "Reuters",
       "datum_artikel": "2026-05-25"
     }
