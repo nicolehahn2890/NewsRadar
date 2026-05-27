@@ -1,33 +1,48 @@
 {
-  "datum": "Dienstag, 26. Mai 2026",
-  "generiert": "2026-05-26",
+  "datum": "Mittwoch, 27. Mai 2026",
+  "generiert": "2026-05-27",
   "ki_stories": [
     {
-      "titel": "Papst Leo XIV veröffentlicht erste KI-Enzyklika 'Magnifica Humanitas'",
-      "text": "Papst Leo XIV hat am 25. Mai 2026 seine erste Enzyklika unter dem Titel 'Magnifica Humanitas' ('Herrliche Menschlichkeit') veröffentlicht - das erste päpstliche Lehrschreiben überhaupt, das sich ausschließlich der Künstlichen Intelligenz widmet. Das Dokument warnt vor dem Einsatz von KI in der Kriegsführung und vor unkontrollierter Machtkonzentration bei Technologiekonzernen und bezeichnet KI als Entwicklung mit 'noch größeren Konsequenzen als die Industrielle Revolution'. Bei der Präsentation saß Anthropic-Mitgründer Christopher Olah neben dem Papst und Kurialkardinälen - ein bewusstes Signal des Vatikans, Anthropic als glaubwürdigen Partner für KI-Sicherheit anzuerkennen. Olah forderte eine globale Partnerschaft zwischen Kirche und Technologiebranche, damit die Vorteile der KI weltweit geteilt werden und nicht nur bei wenigen Nationen und Konzernen verbleiben. Die Enzyklika dürfte die internationale Debatte um KI-Regulierung, Ethik und gesellschaftliche Verantwortung deutlich verstärken.",
-      "quelle": "Reuters",
+      "titel": "China verhängt Reisebeschränkungen für KI-Spitzentalente bei Alibaba und DeepSeek",
+      "text": "China hat seine Reisebeschränkungen auf hochrangige KI-Fachkräfte in privaten Unternehmen ausgeweitet und trifft damit Beschäftigte bei Alibaba, DeepSeek und anderen strategisch wichtigen Firmen. Regierungsbehörden stufen Forscher, Startup-Gründer und Führungskräfte, die für KI-Projekte als national bedeutsam gelten, fortan ein und verlangen ihre Genehmigung vor Auslandsreisen. Bisher galten solche Einschränkungen vor allem für staatliche Unternehmen und Behörden - die Ausweitung auf den Privatsektor ist ein klares Signal, dass Peking KI-Talente als nationale strategische Ressource betrachtet. Hintergrund ist die scharfe Konkurrenz zwischen China und den USA im KI-Bereich: Peking will Wissensabfluss und mögliche Abwerbung durch ausländische Konzerne unterbinden. Bereits zuvor waren Reisebeschränkungen gegen einzelne DeepSeek-Manager und Manus-Mitgründer bekannt geworden; die neue Maßnahme wirkt nun deutlich flächendeckender und systematischer als bisher.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-26"
+    },
+    {
+      "titel": "Anthropic plant Freigabe von Mythos-Klasse-Modellen - sobald Sicherheit es erlaubt",
+      "text": "Anthropic hat angekündigt, Modelle mit den Fähigkeiten seines internen Mythos-Systems in Zukunft öffentlich zugänglich machen zu wollen - sobald ausreichend starke Sicherheitsmechanismen entwickelt sind. Mythos ist so leistungsfähig beim Aufspüren von Sicherheitslücken in Programmcode, dass das Unternehmen den Zugang bisher nur ausgewählten Organisationen über das Programm 'Project Glasswing' gewährt. Anthropic warnt offen, dass unkontrollierter Zugang Kriminellen ermöglichen würde, Software-Schwachstellen schnell und systematisch zu finden und auszunutzen. Das Unternehmen räumt ein, dass derzeit kein Konzern - einschließlich Anthropic selbst - über ausreichende Schutzmechanismen für einen sicheren Breiteneinsatz verfüge. Die Ankündigung löste neue Debatten über Mindeststandards für KI-Sicherheit vor öffentlichen Modell-Releases aus.",
+      "quelle": "The Register",
       "datum_artikel": "2026-05-25"
     }
   ],
-  "unternehmen_stories": [],
+  "unternehmen_stories": [
+    {
+      "titel": "Qualcomm schließt großen KI-Chip-Lieferdeal mit ByteDance - Aktie auf Allzeithoch",
+      "text": "Qualcomm hat mit ByteDance, dem Mutterkonzern von TikTok, einen Vertrag zur Lieferung von KI-Chips für Rechenzentren abgeschlossen - ein wichtiger Erfolg für Qualcomms Expansion in den KI-Infrastrukturmarkt jenseits seines Kerngeschäfts mit Smartphone-Prozessoren. ByteDance wird Millionen von Qualcomm-Chips in Form anwendungsspezifischer integrierter Schaltkreise (ASICs) beziehen, die ByteDances KI-Agenten-Software unterstützen sollen. Qualcomm hilft ByteDance außerdem, einen eigenen fertigen Chip-Entwurf durch den Produktionsprozess zu führen; als Fertigungspartner ist TSMC vorgesehen. Die Transaktion liegt laut Analysten innerhalb der aktuellen US-Exportkontrollgrenzen und setzt TSMC keinem regulatorischen Risiko aus. Die Qualcomm-Aktie stieg nach Bekanntgabe des Deals um bis zu 8,3 Prozent auf ein neues Allzeithoch.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-26",
+      "unternehmen": "Qualcomm"
+    },
+    {
+      "titel": "SoftBank Aktie auf Rekordhoch - OpenAI bereitet Börsengang für Herbst 2026 vor",
+      "text": "Die Aktie der japanischen SoftBank Group erreichte am Montag ein neues Allzeithoch und legte 4,6 Prozent zu, nachdem bekannt wurde, dass OpenAI und SB Energy Corp. Börsengänge in den USA vorbereiten. Insgesamt stiegen SoftBank-Aktien seit dem 20. Mai um rund 40 Prozent; der Börsenwert des Unternehmens überschritt damit erstmals die Marke von 40 Billionen Yen (umgerechnet rund 252 Milliarden US-Dollar). OpenAI bereitet sich laut Insidern darauf vor, in den kommenden Wochen seinen IPO-Antrag einzureichen, mit einem geplanten Börsenstart im Herbst 2026. SoftBank ist einer der größten Anteilseigner von OpenAI und würde von einem erfolgreichen Börsengang erheblich profitieren; das Unternehmen hält außerdem eine Beteiligung an SB Energy Corp., die ebenfalls an die Börse gehen soll.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-25",
+      "unternehmen": "SoftBank"
+    }
+  ],
   "boerse_stories": [
     {
-      "titel": "KI-Boom treibt globale Momentum-Aktien auf Rekord-Outperformance",
-      "text": "Die durch Künstliche Intelligenz befeuerte Aktienrallye hat den globalen MSCI-Momentum-Index seit Ende März um 17 Prozentpunkte gegenüber dem MSCI All Country World übertreffen lassen - die stärkste zweimonatige Outperformance in der Geschichte dieses Index, wie Bloomberg am 25. Mai berichtete. Der S&P 500 verzeichnete zuletzt acht Gewinnwochen in Folge, die längste Siegesserie seit Dezember 2023, und legte in 2026 bisher rund 8,5 Prozent zu. Getrieben wird die Rallye von der enormen Nachfrage nach KI-Infrastruktur: Hyperscaler wie Microsoft, Amazon, Google und Meta planen in diesem Jahr gemeinsam rund 725 Milliarden US-Dollar in KI zu investieren. Momentum-Investoren, die stark in Tech- und KI-Werte exponiert sind, verbuchen damit ihre besten Renditen seit Jahrzehnten. Analysten warnen, dass solche Sektorkonzentrationen im Falle einer Korrektur schnell zu starken Verlusten führen können.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-25"
+      "titel": "S&P 500 auf neuem Allzeithoch bei 7.519 - Iran-Friedenshoffnung treibt Tech",
+      "text": "Der S&P 500 legte am 26. Mai 0,61 Prozent zu und schloss bei 7.519 Punkten - ein neues Allzeithoch. Die technologielastige Nasdaq stieg um 1,19 Prozent auf 26.656 Punkte, angetrieben von wachsendem Optimismus über eine mögliche US-Iran-Friedenseinigung zur Beendigung des Kriegs. US-Präsident Trump schrieb, die Gespräche liefen 'sehr gut', warnte aber, es müsse ein 'großer Deal für alle' sein oder gar keine Einigung. Ein Waffenstillstand würde die Ölpreise senken und Lieferkettenrisiken im Nahen Osten dämpfen, was gut für Unternehmensgewinne und Inflation wäre. Der Dow Jones verlor dagegen 118 Punkte (0,23 Prozent) auf 50.462 Zähler; Technologiewerte dominierten die Kursgewinne.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-26"
     },
     {
-      "titel": "Goldpreis auf Kurs zur zweiten Verlustwoche - Fed-Zinserhöhung rückt näher",
-      "text": "Gold notierte am 25. Mai 2026 bei rund 4.562 USD je Feinunze und steuerte damit auf die zweite Verlustwoche in Folge zu. Haupttreiber des Rückgangs sind steigende Ölpreise, die Inflationssorgen schüren: Die US-Inflationsrate lag im April 2026 bei 3,8 Prozent, dem höchsten Stand seit Mitte 2023. Der Markt preist inzwischen eine rund 55-prozentige Wahrscheinlichkeit für mindestens eine Fed-Zinserhöhung um 25 Basispunkte bis Oktober 2026 ein, was Gold als unverzinsliches Anlagegut belastet. Trotz der kurzfristigen Schwäche liegt der Goldpreis noch rund 37 Prozent über dem Vorjahresniveau; Prognosen von J.P. Morgan sehen Gold auf dem Weg Richtung 5.000 USD je Unze bis zum vierten Quartal 2026. Geopolitische Risiken und anhaltende Zentralbankkäufe bleiben die wichtigsten Unterstützungsfaktoren.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-25"
-    },
-    {
-      "titel": "US-Iran-Annäherung befeuert Aktienfutures - Dell und HP springen auf Rekordhoch",
-      "text": "Berichte über Fortschritte bei US-Iran-Friedensgesprächen und die mögliche Wiedereröffnung der Straße von Hormuz trieben am 25. Mai 2026 die US-Aktienfutures nach oben und verbesserten die globale Marktstimmung deutlich. Im Technologiesektor kletterte Dell Technologies auf ein Rekordhoch; HP Inc. legte über 15 Prozent zu, nachdem starke Quartalszahlen von Chinas Lenovo Group dem gesamten PC-Hardware-Sektor Auftrieb gaben. Workday stieg um 5,2 Prozent, nachdem der Softwareanbieter die Q1-Gewinnerwartungen übertraf. Anleger beobachten die Iran-Verhandlungen genau, da eine Entspannung im Ölmarkt den Inflationsdruck senken und die Chancen auf spätere Fed-Zinssenkungen erhöhen würde. Eine Einigung könnte zudem die globalen Energiepreise stabilisieren und Konjunktursorgen in Europa und Asien dämpfen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-25"
+      "titel": "Gold rutscht unter 4.550 Dollar - US-Inflation droht auf bis zu 6% zu steigen",
+      "text": "Der Goldpreis fiel am 26. Mai auf rund 4.494 bis 4.532 US-Dollar pro Unze und rutschte damit unter die psychologisch wichtige Marke von 4.550 Dollar. Die US-Jahresinflation lag zuletzt bei 3,8 Prozent (April-Daten), und Ökonomen aus dem Prognosegremium der Philadelphia Fed projizieren, dass sie im zweiten Quartal 2026 auf bis zu 6 Prozent klettern könnte - angetrieben durch verzögerte Kosteneffekte des Iran-Kriegs bei Transport und Produktion. Die Geldmärkte preisen derzeit nahezu keine Wahrscheinlichkeit für Zinssenkungen der Fed in diesem Jahr ein; eine Wahrscheinlichkeit von rund 50 Prozent für eine Zinserhöhung im Dezember wird bereits eingepreist. Für Gold bedeutet anhaltend hohe Inflation grundsätzlich Rückenwind als Wertspeicher, aber die Unsicherheit über den Verlauf der Iran-Verhandlungen erzeugt kurzfristige Schwankungen.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-26"
     }
   ]
 }
