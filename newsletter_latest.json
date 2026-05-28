@@ -1,48 +1,41 @@
 {
-  "datum": "Mittwoch, 27. Mai 2026",
-  "generiert": "2026-05-27",
+  "datum": "Donnerstag, 28. Mai 2026",
+  "generiert": "2026-05-28",
   "ki_stories": [
     {
-      "titel": "China verhängt Reisebeschränkungen für KI-Spitzentalente bei Alibaba und DeepSeek",
-      "text": "China hat seine Reisebeschränkungen auf hochrangige KI-Fachkräfte in privaten Unternehmen ausgeweitet und trifft damit Beschäftigte bei Alibaba, DeepSeek und anderen strategisch wichtigen Firmen. Regierungsbehörden stufen Forscher, Startup-Gründer und Führungskräfte, die für KI-Projekte als national bedeutsam gelten, fortan ein und verlangen ihre Genehmigung vor Auslandsreisen. Bisher galten solche Einschränkungen vor allem für staatliche Unternehmen und Behörden - die Ausweitung auf den Privatsektor ist ein klares Signal, dass Peking KI-Talente als nationale strategische Ressource betrachtet. Hintergrund ist die scharfe Konkurrenz zwischen China und den USA im KI-Bereich: Peking will Wissensabfluss und mögliche Abwerbung durch ausländische Konzerne unterbinden. Bereits zuvor waren Reisebeschränkungen gegen einzelne DeepSeek-Manager und Manus-Mitgründer bekannt geworden; die neue Maßnahme wirkt nun deutlich flächendeckender und systematischer als bisher.",
-      "quelle": "Bloomberg",
+      "titel": "KI-Schutzfilter bei offenen Modellen in Minuten umgehbar",
+      "text": "Die Financial Times untersuchte gemeinsam mit der KI-Sicherheitsorganisation Alice, wie leicht Sicherheitsschranken bei weit verbreiteten Open-Source-KI-Modellen ausgehebelt werden können. Mit dem kostenlos verfügbaren Tool 'Heretic' gelang es Testern, die Guardrails von Metas Llama 3.3 in weniger als zehn Minuten ohne Spezialhardware zu entfernen. Das veränderte Modell beantwortete danach ungefiltert Anfragen zu biologischen Waffen, Schadsoftware und weiteren verbotenen Inhalten. Auch Googles offenes Modell Gemma 3 ließ sich so manipulieren, dass es Anleitungen zur Verbreitung von Chlorgas in Menschenmengen lieferte und Code für Kreditkartenbetrug generierte. Die Technik, bekannt als 'Abliteration', greift bei proprietären Modellen wie Anthropics Claude oder OpenAIs ChatGPT nicht, da deren Quellcode nicht öffentlich zugänglich ist. Das Tool Heretic wurde laut Entwicklerangaben bereits für über 3.500 zensurfreie Modellvarianten eingesetzt, die zusammen 13 Millionen Mal heruntergeladen wurden.",
+      "quelle": "Financial Times",
       "datum_artikel": "2026-05-26"
     },
     {
-      "titel": "Anthropic plant Freigabe von Mythos-Klasse-Modellen - sobald Sicherheit es erlaubt",
-      "text": "Anthropic hat angekündigt, Modelle mit den Fähigkeiten seines internen Mythos-Systems in Zukunft öffentlich zugänglich machen zu wollen - sobald ausreichend starke Sicherheitsmechanismen entwickelt sind. Mythos ist so leistungsfähig beim Aufspüren von Sicherheitslücken in Programmcode, dass das Unternehmen den Zugang bisher nur ausgewählten Organisationen über das Programm 'Project Glasswing' gewährt. Anthropic warnt offen, dass unkontrollierter Zugang Kriminellen ermöglichen würde, Software-Schwachstellen schnell und systematisch zu finden und auszunutzen. Das Unternehmen räumt ein, dass derzeit kein Konzern - einschließlich Anthropic selbst - über ausreichende Schutzmechanismen für einen sicheren Breiteneinsatz verfüge. Die Ankündigung löste neue Debatten über Mindeststandards für KI-Sicherheit vor öffentlichen Modell-Releases aus.",
-      "quelle": "The Register",
-      "datum_artikel": "2026-05-25"
+      "titel": "Nobel-Ökonom: KI-Automatisierung bedroht Arbeitsmärkte stärker als gedacht",
+      "text": "Beim UBS Insight Kongress in London diskutierte MIT-Professor Simon Johnson, Wirtschafts-Nobelpreisträger, die gesellschaftlichen und wirtschaftlichen Folgen der KI-Automatisierung. Johnson warnte, KI könne Arbeitsmärkte fundamentaler verändern als frühere Technologiewellen, wenn Umschulung und politische Maßnahmen nicht Schritt halten. Bloomberg zeigte in einem Videobeitrag die wachsende Kluft zwischen Tech-Industrie und unabhängigen Ökonomen: Während Unternehmen KI als Produktivitätsverstärker vermarkten, fordern Wissenschaftler strukturelle Antworten auf Jobverluste. Johnson verwies auf historische Muster, bei denen technologischer Wandel zwar langfristig neue Jobs schuf, kurzfristig jedoch ganze Berufsgruppen verdrängte. Die Debatte gewinnt an Schärfe, da laut aktuellen Branchendaten erste Segmente wie Callcenter bereits messbare Beschäftigungsrückgänge verzeichnen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-27"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Qualcomm schließt großen KI-Chip-Lieferdeal mit ByteDance - Aktie auf Allzeithoch",
-      "text": "Qualcomm hat mit ByteDance, dem Mutterkonzern von TikTok, einen Vertrag zur Lieferung von KI-Chips für Rechenzentren abgeschlossen - ein wichtiger Erfolg für Qualcomms Expansion in den KI-Infrastrukturmarkt jenseits seines Kerngeschäfts mit Smartphone-Prozessoren. ByteDance wird Millionen von Qualcomm-Chips in Form anwendungsspezifischer integrierter Schaltkreise (ASICs) beziehen, die ByteDances KI-Agenten-Software unterstützen sollen. Qualcomm hilft ByteDance außerdem, einen eigenen fertigen Chip-Entwurf durch den Produktionsprozess zu führen; als Fertigungspartner ist TSMC vorgesehen. Die Transaktion liegt laut Analysten innerhalb der aktuellen US-Exportkontrollgrenzen und setzt TSMC keinem regulatorischen Risiko aus. Die Qualcomm-Aktie stieg nach Bekanntgabe des Deals um bis zu 8,3 Prozent auf ein neues Allzeithoch.",
+      "titel": "OpenAI-CEO Altman revidiert Warnung vor KI-bedingter Massenarbeitslosigkeit",
+      "text": "OpenAI-CEO Sam Altman revidierte bei einem Auftritt in Sydney am 26. Mai öffentlich seine frühere Einschätzung über KI-bedingte Arbeitslosigkeit. Altman erklärte, ein breites Wegfallen von Bürojobs sei unwahrscheinlich, räumte aber ein, dass bestimmte Bereiche wie Kundendienst 'weitgehend wegfallen' dürften. Diese Kehrtwende ist bemerkenswert: Altman gehörte in den Vorjahren selbst zu den führenden Warnern vor einem KI-bedingten Jobverlust bei Wissensarbeitern. OpenAI steht unter erheblichem wirtschaftlichem Druck - der ChatGPT-Hersteller verliert laut Berichten mehr als 1,20 Dollar je Dollar Umsatz und bereitet gleichzeitig vertraulich seinen Börsengang bei der US-Börsenaufsicht SEC vor, begleitet von Goldman Sachs und Morgan Stanley. Die betont beruhigende Botschaft dürfte auch strategisch motiviert sein, da regulatorische Aufmerksamkeit für KI-Auswirkungen auf den Arbeitsmarkt weltweit zunimmt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-05-26",
-      "unternehmen": "Qualcomm"
-    },
-    {
-      "titel": "SoftBank Aktie auf Rekordhoch - OpenAI bereitet Börsengang für Herbst 2026 vor",
-      "text": "Die Aktie der japanischen SoftBank Group erreichte am Montag ein neues Allzeithoch und legte 4,6 Prozent zu, nachdem bekannt wurde, dass OpenAI und SB Energy Corp. Börsengänge in den USA vorbereiten. Insgesamt stiegen SoftBank-Aktien seit dem 20. Mai um rund 40 Prozent; der Börsenwert des Unternehmens überschritt damit erstmals die Marke von 40 Billionen Yen (umgerechnet rund 252 Milliarden US-Dollar). OpenAI bereitet sich laut Insidern darauf vor, in den kommenden Wochen seinen IPO-Antrag einzureichen, mit einem geplanten Börsenstart im Herbst 2026. SoftBank ist einer der größten Anteilseigner von OpenAI und würde von einem erfolgreichen Börsengang erheblich profitieren; das Unternehmen hält außerdem eine Beteiligung an SB Energy Corp., die ebenfalls an die Börse gehen soll.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-25",
-      "unternehmen": "SoftBank"
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 auf neuem Allzeithoch bei 7.519 - Iran-Friedenshoffnung treibt Tech",
-      "text": "Der S&P 500 legte am 26. Mai 0,61 Prozent zu und schloss bei 7.519 Punkten - ein neues Allzeithoch. Die technologielastige Nasdaq stieg um 1,19 Prozent auf 26.656 Punkte, angetrieben von wachsendem Optimismus über eine mögliche US-Iran-Friedenseinigung zur Beendigung des Kriegs. US-Präsident Trump schrieb, die Gespräche liefen 'sehr gut', warnte aber, es müsse ein 'großer Deal für alle' sein oder gar keine Einigung. Ein Waffenstillstand würde die Ölpreise senken und Lieferkettenrisiken im Nahen Osten dämpfen, was gut für Unternehmensgewinne und Inflation wäre. Der Dow Jones verlor dagegen 118 Punkte (0,23 Prozent) auf 50.462 Zähler; Technologiewerte dominierten die Kursgewinne.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-26"
+      "titel": "PCE-Inflationsdaten und BIP-Zweitschätzung: Signal für Fed-Entscheid im Juni",
+      "text": "Am 28. Mai 2026 veröffentlichte das US Bureau of Economic Analysis gleichzeitig die April-PCE-Inflationsdaten und die zweite Schätzung des US-Wirtschaftswachstums im ersten Quartal 2026. Der Core-PCE-Index, das bevorzugte Inflationsmaß der US-Notenbank Fed, wird von Ökonomen bei rund 3,3% im Jahresvergleich erwartet - deutlich über dem Fed-Ziel von 2%. Die Erstschätzung für das erste Quartal 2026 hatte ein annualisiertes BIP-Wachstum von +2,0% ergeben; die Zweitschätzung bringt aktuellere Daten zu Außenhandel, Dienstleistungskonsum und Unternehmensvorräten. Diese Zahlen gelten als letztes großes Inflationssignal vor dem FOMC-Meeting am 16. und 17. Juni - dem ersten unter dem neuen Fed-Chef Kevin Warsh. Der Leitzins liegt derzeit bei 3,50% bis 3,75%, und die Märkte erwarten für 2026 allenfalls eine einzige Zinssenkung, da die Inflation hartnäckig über dem Ziel bleibt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-28"
     },
     {
-      "titel": "Gold rutscht unter 4.550 Dollar - US-Inflation droht auf bis zu 6% zu steigen",
-      "text": "Der Goldpreis fiel am 26. Mai auf rund 4.494 bis 4.532 US-Dollar pro Unze und rutschte damit unter die psychologisch wichtige Marke von 4.550 Dollar. Die US-Jahresinflation lag zuletzt bei 3,8 Prozent (April-Daten), und Ökonomen aus dem Prognosegremium der Philadelphia Fed projizieren, dass sie im zweiten Quartal 2026 auf bis zu 6 Prozent klettern könnte - angetrieben durch verzögerte Kosteneffekte des Iran-Kriegs bei Transport und Produktion. Die Geldmärkte preisen derzeit nahezu keine Wahrscheinlichkeit für Zinssenkungen der Fed in diesem Jahr ein; eine Wahrscheinlichkeit von rund 50 Prozent für eine Zinserhöhung im Dezember wird bereits eingepreist. Für Gold bedeutet anhaltend hohe Inflation grundsätzlich Rückenwind als Wertspeicher, aber die Unsicherheit über den Verlauf der Iran-Verhandlungen erzeugt kurzfristige Schwankungen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-26"
+      "titel": "Gold fällt auf 2-Monatstief: US-Iran-Annäherung dämpft Safe-Haven-Nachfrage",
+      "text": "Der Goldpreis gab am Mittwoch, 27. Mai 2026, um rund 2% auf etwa 4.400 US-Dollar je Feinunze nach und markierte damit den tiefsten Stand seit fast zwei Monaten. Haupttreiber war eine nachlassende geopolitische Risikoprämie im Zuge von Fortschritten bei US-iranischen Friedensgesprächen, die die klassische Nachfrage nach sicheren Anlagehäfen reduziert haben. Zusätzlich drückten fallende Ölpreise die Inflationserwartungen und damit einen zentralen Goldpreistreiber. Am Donnerstag, 28. Mai, stabilisierte sich der Preis bei rund 4.456 US-Dollar pro Unze. Gold hatte in diesem Jahr bei über 4.500 Dollar neue Allzeithochs markiert, getrieben von Fed-Zinssenkungserwartungen, robusten Zentralbankkäufen und erhöhter globaler Risikoaversion - der aktuelle Rückgang ist eine erste spürbare Korrektur.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-27"
     }
   ]
 }
