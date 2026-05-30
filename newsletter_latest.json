@@ -1,48 +1,42 @@
 {
-  "datum": "Freitag, 29. Mai 2026",
-  "generiert": "2026-05-29",
+  "datum": "Samstag, 30. Mai 2026",
+  "generiert": "2026-05-30",
   "ki_stories": [
     {
-      "titel": "Fireworks AI strebt Finanzierung bei 15-Milliarden-Dollar-Bewertung an",
-      "text": "Das KI-Infrastruktur-Startup Fireworks AI verhandelt über eine neue Finanzierungsrunde, die das Unternehmen mit 15 Milliarden US-Dollar bewerten würde - fast das Vierfache der 4-Milliarden-Dollar-Bewertung aus dem Oktober 2025. Index Ventures, das zuvor schon in Fireworks investiert hatte, soll die Runde gemeinsam führen; die Verhandlungen sind noch nicht abgeschlossen. Fireworks AI spezialisiert sich auf KI-Inferenz: Das Unternehmen hilft anderen Firmen dabei, bereits trainierte KI-Modelle schnell und kosteneffizient in eigenen Systemen zu betreiben, ohne eigene Modelle entwickeln zu müssen. Die rasante Bewertungssteigerung von 4 auf 15 Milliarden Dollar innerhalb von sieben Monaten zeigt, wie stark die Investorennachfrage nach KI-Infrastrukturanbietern gestiegen ist. Für Anleger gilt Fireworks als Beispiel dafür, dass der KI-Boom nicht nur Modellentwickler begünstigt, sondern auch die Infrastrukturschicht darunter.",
+      "titel": "Milliarden-Dollar-Wettlauf um selbstverbessernde KI",
+      "text": "Eine wachsende Zahl von KI-Forschern und Unternehmen setzt auf einen neuen, risikoreichen Ansatz: sogenannte 'rekursive Selbstverbesserung', bei der KI-Systeme ihre eigene Weiterentwicklung automatisch vorantreiben sollen. Bloomberg widmet diesem Trend eine ausfuhrliche Analyse und beschreibt milliardenschwere Investitionen in diesen technisch noch unerprobten Forschungszweig. Exemplarisch steht das Startup Recursive AI, das zuletzt mit 4,65 Milliarden Dollar bewertet wurde und Geldgeber wie Google Ventures, Nvidia und AMD Ventures angezogen hat. Beführworter versprechen sich exponentielle Leistungssteigerungen, wahrend Sicherheitsexperten vor schwer kontrollierbaren Risiken warnen. Der Wettlauf um selbstverbessernde Systeme konnte die nachste grosse Trennlinie in der KI-Entwicklung werden.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-27"
-    },
-    {
-      "titel": "Anthropic veröffentlicht Claude Opus 4.8 - übertrifft GPT-5.5 in Benchmarks",
-      "text": "Anthropic hat Claude Opus 4.8 als neues Flagschiff-Modell veröffentlicht, das laut synthetischen Benchmarks GPT-5.5 von OpenAI und Gemini 3.1 Pro von Google übertrifft. Das Modell bringt zwei neue Hauptfunktionen: Dynamische Workflow-Fähigkeiten ermöglichen die Zusammenarbeit mehrerer KI-Agenten bei komplexen Aufgaben, und einstellbare 'Engagement-Level' erlauben es Nutzern, Ausführungsgeschwindigkeit und Kosten selbst zu steuern. Opus 4.8 setzt zudem auf verbesserte Zuverlässigkeit und meldet Unsicherheiten proaktiv, statt falsche Antworten zu generieren. Der Preis bleibt gegenüber dem Vorgänger stabil bei 5 Dollar pro Million Input-Token und 25 Dollar pro Million Output-Token; im Fast-Modus werden 10 bzw. 50 Dollar berechnet. Mit diesem Release verschärft Anthropic die Rivalität mit OpenAI und Google im Segment der leistungsstärksten KI-Modelle.",
-      "quelle": "TechCrunch",
       "datum_artikel": "2026-05-28"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic zahlt xAI 1,25 Mrd. Dollar monatlich - Deal läuft nur 6 Monate",
-      "text": "Elon Musk hat klargestellt, dass Anthropics Rechenleistungsvertrag mit xAI/SpaceX zunächst nur eine Laufzeit von 180 Tagen hat - frühere Berichte über eine mehrjährige Verpflichtung von fast 45 Milliarden Dollar über drei Jahre waren irreführend. Anthropic zahlt 1,25 Milliarden Dollar pro Monat für über 300 Megawatt Rechenkapazität im Colossus-1-Rechenzentrum in Memphis, Tennessee. Nach der sechsmonatigen Erstlaufzeit können beide Parteien den Vertrag mit einer 90-tägigen Frist kündigen. Für Anthropic sichert die Vereinbarung kurzfristig dringend benötigte Rechenkapazität für die Entwicklung seiner Claude-Modelle; für xAI bedeutet dies Milliardeneinnahmen und zeigt, dass die Colossus-Infrastruktur externe Kunden anzieht. Die Unsicherheit über die tatsächliche Vertragslaufzeit hat laut Analysten Auswirkungen darauf, wie verlässlich Anthropics Kapazitätsplanung eingeschätzt werden kann.",
-      "quelle": "TechCrunch",
+      "titel": "Anthropic uberholt OpenAI: Bewertung nahert sich einer Billion Dollar",
+      "text": "Anthropic hat in einer Series-H-Finanzierungsrunde 65 Milliarden Dollar eingesammelt und ist damit zum wertvollsten KI-Startup der Welt aufgestiegen, noch vor dem Rivalen OpenAI. Die Post-Money-Bewertung betragt 965 Milliarden Dollar und ubertrifft OpenAIs jungste Bewertung von 852 Milliarden Dollar erstmals. Angefuhrt wurde die Runde von Altimeter Capital, Dragoneer, Greenoaks und Sequoia Capital; die 5 Milliarden Dollar von Amazon inklusive 100 Milliarden Dollar AWS-Guthaben sind darin enthalten. Anthropic gab zudem bekannt, dass der annualisierte Umsatz im Mai die 47-Milliarden-Dollar-Marke uberschritten hat. Die Runde gilt als mogliche letzte vor einem lange erwarteten Borsenganz des Unternehmens.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-28",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "NVIDIA: Rekordumsatz 81,6 Mrd. Dollar - Aktie unter Druck wegen China-Risiko",
-      "text": "NVIDIA erzielte im ersten Quartal des Geschäftsjahres 2027 (bis Ende April 2026) einen Rekordumsatz von 81,6 Milliarden Dollar, ein Plus von 85 Prozent gegenüber dem Vorjahr. Der Rechenzentrums-Bereich - Kern des KI-Chip-Geschäfts - wuchs um 92 Prozent auf 75,2 Milliarden Dollar, getragen von anhaltend starker Nachfrage nach Hopper- und Blackwell-Beschleunigern. Trotz dieser historisch starken Zahlen steht die Aktie bei rund 215 Dollar unter Druck, da Analysten auf wachsende Risiken durch US-Exportbeschränkungen für fortschrittliche KI-Chips nach China hinweisen. NVIDIA kündigte außerdem ein neues Aktienrückkaufprogramm über 80 Milliarden Dollar sowie eine Erhöhung der Quartalsdividende von 0,01 auf 0,25 Dollar je Aktie an. Der Chipmacher bleibt der dominante Lieferant für KI-Rechenleistung, sieht sich aber zunehmend mit politisch bedingten Marktbeschränkungen konfrontiert.",
-      "quelle": "CNBC",
+      "titel": "Meta startet KI-Abonnements; OpenAI und xAI greifen Werbemarkt an",
+      "text": "Meta hat ein Abonnementmodell fur seinen KI-Assistenten eingefuhrt und erschliesst damit eine neue Einnahmequelle abseits des traditionellen Werbegeschafts. Gleichzeitig arbeiten die Konkurrenten OpenAI und xAI (Elon Musk) an eigenen Werbeplattformen, die direkt auf Metas Kernerträge abzielen, berichtet Bloomberg. Meta steht damit unter doppeltem Druck: Nutzer konnten zum kostenpflichtigen KI-Abo wechseln, wahrend Werbeeinnahmen durch neue Konkurrenzplattformen schrumpfen. Fur die gesamte Plattformbranche signalisiert diese Entwicklung, dass KI zunehmend nicht nur als Werkzeug, sondern als eigenstandiges Geschaftsfeld und direkte Konkurrenz zu bestehenden Erlosmodellen positioniert wird.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-28",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 und Nasdaq auf Allzeithoch trotz höchster PCE-Inflation seit fast drei Jahren",
-      "text": "Der S&P 500 schloss am 28. Mai auf einem neuen Allzeithoch von rund 7.563 Punkten (plus 0,42 Prozent), der Nasdaq stieg um 0,51 Prozent - trotz enttäuschender Inflationsdaten. Der PCE-Preisindex für April, das bevorzugte Inflationsmaß der US-Notenbank Fed, stieg auf 3,8 Prozent im Jahresvergleich, den höchsten Wert seit fast drei Jahren; im März hatte er noch 3,5 Prozent betragen. Ausschlaggebend für die Kursgewinne war die Hoffnung auf ein 60-tägiges US-Iran-Memorandum zur Verlängerung eines Waffenstillstands, das die Risikobereitschaft der Märkte spürbar erhöhte. Zinssenkungen der Fed gelten nach diesen Daten für 2026 als unwahrscheinlich; einzelne Marktbeobachter schließen weitere Erhöhungen nicht mehr aus. Der Technologiesektor führte die Rally an - eine klare Wette der Märkte darauf, dass KI-Investitionen höher gewichtet werden als Inflationssorgen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-28"
+      "titel": "S&P 500 neunte Woche in Folge im Plus - Dow erstmals uber 51.000",
+      "text": "Der S&P 500 schloss am 29. Mai bei 7.580 Punkten und buchte damit seine neunte Woche in Folge mit Kursgewinnen - die langste Gewinnsträhne seit Jahren. Der Dow Jones durchbrach erstmals in seiner Geschichte die Marke von 51.000 Punkten. Der technologiegetriebene Nasdaq stieg im Mai 2026 um rund 8 Prozent und erzielte ebenfalls ein neues Allzeithoch. Belastungsfaktor bleibt der US-PCE-Preisindex fur April 2026, der den starksten Anstieg seit fast drei Jahren verzeichnete und Hoffnungen auf baldige Zinssenkungen dampft. Technologieaktien fuhrten die Rally an, getrieben vom anhaltenden KI-Investitionsboom.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-05-29"
     },
     {
-      "titel": "Goldpreis nahe 4.400 Dollar - Iran-Entspannung dämpft Sicherheitshafen-Nachfrage",
-      "text": "Gold notierte am 28. Mai bei rund 4.404 Dollar je Unze und damit deutlich unter dem jüngsten Hoch von über 4.500 Dollar. Die Hoffnung auf ein US-iranisches Memorandum zur vorübergehenden Beilegung des Atomstreits reduzierte die geopolitische Risikoprämie im Goldpreis und dämpfte die Nachfrage nach dem klassischen sicheren Hafen. Gleichzeitig stützt die hartnäckig hohe US-Inflation (PCE 3,8 Prozent) die Goldnachfrage als Absicherung gegen Geldentwertung. Fed-Gouverneurin Lisa Cook signalisierte, die Zinsen vorerst stabil zu halten, während Fed-Präsident John Williams vor einem möglichen Anstieg der Gesamtinflation auf bis zu 4 Prozent warnte. Unter diesen gemischten Einflüssen bleibt Gold in einem volatilen Korridor zwischen rund 4.400 und 4.580 Dollar je Unze.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-28"
+      "titel": "Gold bei 4.500 Dollar - rund 20 Prozent unter Allzeithoch",
+      "text": "Der Goldpreis pendelte am 28. und 29. Mai zwischen 4.430 und 4.580 Dollar pro Unze und liegt damit rund 20 Prozent unter dem Allzeithoch vom 28. Januar 2026 von 5.602 Dollar. Berichte uber eine vorlaufige Einigung zwischen den USA und Iran sorgten kurzzeitig fur Erholung auf 4.580 Dollar, weil ein Waffenstillstand die Risikoprämie im Markt verringert hatte; US-Prasident Trump hat den Entwurf jedoch noch nicht gebilligt. Gegenwind bleibt die US-Zinspolitik: Die Fed halt ihren Leitzins weiterhin bei 3,50 bis 3,75 Prozent, und die Bank of America erwartet nun keine Senkungen mehr vor Juli 2027. Im laufenden Monat Mai verbucht Gold ein Minus von rund 0,8 Prozent.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-29"
     }
   ]
 }
