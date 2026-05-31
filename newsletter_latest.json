@@ -1,41 +1,34 @@
 {
-  "datum": "Samstag, 30. Mai 2026",
-  "generiert": "2026-05-30",
+  "datum": "Sonntag, 31. Mai 2026",
+  "generiert": "2026-05-31",
   "ki_stories": [
     {
-      "titel": "Milliarden-Dollar-Wettlauf um selbstverbessernde KI",
-      "text": "Eine wachsende Zahl von KI-Forschern und Unternehmen setzt auf einen neuen, risikoreichen Ansatz: sogenannte 'rekursive Selbstverbesserung', bei der KI-Systeme ihre eigene Weiterentwicklung automatisch vorantreiben sollen. Bloomberg widmet diesem Trend eine ausfuhrliche Analyse und beschreibt milliardenschwere Investitionen in diesen technisch noch unerprobten Forschungszweig. Exemplarisch steht das Startup Recursive AI, das zuletzt mit 4,65 Milliarden Dollar bewertet wurde und Geldgeber wie Google Ventures, Nvidia und AMD Ventures angezogen hat. Beführworter versprechen sich exponentielle Leistungssteigerungen, wahrend Sicherheitsexperten vor schwer kontrollierbaren Risiken warnen. Der Wettlauf um selbstverbessernde Systeme konnte die nachste grosse Trennlinie in der KI-Entwicklung werden.",
+      "titel": "SoftBank investiert 75 Milliarden Euro in KI-Rechenzentren in Frankreich",
+      "text": "Der japanische Technologiekonzern SoftBank Group kuendigte am 30. Mai an, bis zu 75 Milliarden Euro (rund 87 Milliarden Dollar) in den Aufbau von KI-Rechenzentren in Frankreich zu investieren - die bisher groesste KI-Infrastrukturinvestition von SoftBank in Europa. Die Ankuendigung erfolgte beim 'Choose France'-Wirtschaftsgipfel von Praesident Emmanuel Macron in Paris. In der ersten Phase sollen bis 2031 rund 45 Milliarden Euro in 3,1 Gigawatt Rechenkapazitaet fliessen, verteilt auf Standorte in Dunkirk, Bosquel und Bouchain in der Region Hauts-de-France. Das Gesamtprojekt sieht insgesamt 5 Gigawatt KI-Kapazitaet vor. SoftBank-CEO Masayoshi Son hatte zuletzt bereits in den USA, Japan und Indien milliardenschwere KI-Investitionen angekuendigt - Frankreich ist nun der naechste Schritt seiner globalen KI-Infrastrukturstrategie.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-28"
+      "datum_artikel": "2026-05-30"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic uberholt OpenAI: Bewertung nahert sich einer Billion Dollar",
-      "text": "Anthropic hat in einer Series-H-Finanzierungsrunde 65 Milliarden Dollar eingesammelt und ist damit zum wertvollsten KI-Startup der Welt aufgestiegen, noch vor dem Rivalen OpenAI. Die Post-Money-Bewertung betragt 965 Milliarden Dollar und ubertrifft OpenAIs jungste Bewertung von 852 Milliarden Dollar erstmals. Angefuhrt wurde die Runde von Altimeter Capital, Dragoneer, Greenoaks und Sequoia Capital; die 5 Milliarden Dollar von Amazon inklusive 100 Milliarden Dollar AWS-Guthaben sind darin enthalten. Anthropic gab zudem bekannt, dass der annualisierte Umsatz im Mai die 47-Milliarden-Dollar-Marke uberschritten hat. Die Runde gilt als mogliche letzte vor einem lange erwarteten Borsenganz des Unternehmens.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-28",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Meta startet KI-Abonnements; OpenAI und xAI greifen Werbemarkt an",
-      "text": "Meta hat ein Abonnementmodell fur seinen KI-Assistenten eingefuhrt und erschliesst damit eine neue Einnahmequelle abseits des traditionellen Werbegeschafts. Gleichzeitig arbeiten die Konkurrenten OpenAI und xAI (Elon Musk) an eigenen Werbeplattformen, die direkt auf Metas Kernerträge abzielen, berichtet Bloomberg. Meta steht damit unter doppeltem Druck: Nutzer konnten zum kostenpflichtigen KI-Abo wechseln, wahrend Werbeeinnahmen durch neue Konkurrenzplattformen schrumpfen. Fur die gesamte Plattformbranche signalisiert diese Entwicklung, dass KI zunehmend nicht nur als Werkzeug, sondern als eigenstandiges Geschaftsfeld und direkte Konkurrenz zu bestehenden Erlosmodellen positioniert wird.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-28",
+      "titel": "Meta entwickelt KI-Anhaenger und plant Wearables-Geschaeftsabo",
+      "text": "Laut einem Bericht von The Information vom 30. Mai entwickelt Meta einen KI-gestuetzten Anhaenger, den Nutzer als Clip oder Halskette tragen koennen, um Gespraeche automatisch aufzuzeichnen und auszuwerten. Das Geraet basiert auf der Technologie von Limitless, einem KI-Startup, das Meta Ende 2025 uebernahm - dessen Kernprodukt 'Pendant' wandelte Unterhaltungen in durchsuchbare Zusammenfassungen und Erinnerungen um. Parallel plant Meta ein Business-Abonnement namens 'Wearables for Work' fuer seine KI-Brillen-Linie und weitere Geraete. Fuer das zweite Halbjahr 2026 strebt Meta den Verkauf von 10 Millionen Wearables an und will dafuer neue Produkte einfuehren sowie bestehende Geraete in mehr Laender bringen. Meta baut damit sein KI-Hardware-Oekosystem weit ueber die bekannten Ray-Ban-Smartbrillen hinaus aus.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-05-30",
       "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 neunte Woche in Folge im Plus - Dow erstmals uber 51.000",
-      "text": "Der S&P 500 schloss am 29. Mai bei 7.580 Punkten und buchte damit seine neunte Woche in Folge mit Kursgewinnen - die langste Gewinnsträhne seit Jahren. Der Dow Jones durchbrach erstmals in seiner Geschichte die Marke von 51.000 Punkten. Der technologiegetriebene Nasdaq stieg im Mai 2026 um rund 8 Prozent und erzielte ebenfalls ein neues Allzeithoch. Belastungsfaktor bleibt der US-PCE-Preisindex fur April 2026, der den starksten Anstieg seit fast drei Jahren verzeichnete und Hoffnungen auf baldige Zinssenkungen dampft. Technologieaktien fuhrten die Rally an, getrieben vom anhaltenden KI-Investitionsboom.",
-      "quelle": "Reuters",
+      "titel": "Gold bei rund 4.500 Dollar - Iran-Hoffnungen kaempfen gegen Inflationsdruck",
+      "text": "Der Goldpreis pendelte Ende Mai 2026 bei rund 4.430 bis 4.580 Dollar je Unze und liegt damit rund 20 Prozent unter dem Allzeithoch vom Januar 2026 bei 5.602 Dollar. Stuetzend wirkten Berichte ueber eine vorlaeufige Einigung zwischen den USA und Iran auf einen 60-taegigen Waffenstillstand sowie beginnende Gespraeche ueber das iranische Atomprogramm, die den Risikoaufschlag im Markt reduzierten. Gegen Gold spricht weiterhin die anhaltend hohe US-Inflation: Der PCE-Preisindex stieg im April auf 3,5 Prozent gegenueber dem Vorjahr - der staerkste Anstieg seit fast drei Jahren - und ein erstarkter US-Dollar bremst den in Dollar notierten Rohstoff. Die Fed haelt ihren Leitzins weiterhin stabil bei 3,50 bis 3,75 Prozent; Marktteilnehmer erwarten keine Zinssenkung vor 2027. Analysten von J.P. Morgan sehen das Jahresend-Ziel fuer Gold dennoch bei rund 5.000 Dollar.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-05-29"
     },
     {
-      "titel": "Gold bei 4.500 Dollar - rund 20 Prozent unter Allzeithoch",
-      "text": "Der Goldpreis pendelte am 28. und 29. Mai zwischen 4.430 und 4.580 Dollar pro Unze und liegt damit rund 20 Prozent unter dem Allzeithoch vom 28. Januar 2026 von 5.602 Dollar. Berichte uber eine vorlaufige Einigung zwischen den USA und Iran sorgten kurzzeitig fur Erholung auf 4.580 Dollar, weil ein Waffenstillstand die Risikoprämie im Markt verringert hatte; US-Prasident Trump hat den Entwurf jedoch noch nicht gebilligt. Gegenwind bleibt die US-Zinspolitik: Die Fed halt ihren Leitzins weiterhin bei 3,50 bis 3,75 Prozent, und die Bank of America erwartet nun keine Senkungen mehr vor Juli 2027. Im laufenden Monat Mai verbucht Gold ein Minus von rund 0,8 Prozent.",
-      "quelle": "Bloomberg",
+      "titel": "S&P 500 neunte Woche in Folge im Plus - Dow erstmals ueber 51.000 Punkten",
+      "text": "Der S&P 500 schloss am Freitag, dem 29. Mai, bei 7.580 Punkten und verzeichnete damit seine neunte Woche in Folge mit Kursgewinnen - die laengste Gewinnstrecke seit Jahren. Erstmals in seiner Geschichte durchbrach der Dow Jones die Marke von 51.000 Punkten. Der technologiegetriebene Nasdaq stieg im Mai 2026 um rund 8 Prozent und erreichte ebenfalls ein neues Allzeithoch. Technologieaktien fuehrten die Rallye an, getrieben vom anhaltenden KI-Investitionsboom; der PHLX Semiconductor Index legte im bisherigen Jahresverlauf um rund 70 Prozent zu. Belastungsfaktor bleibt der US-PCE-Preisindex fuer April 2026, der den staerksten Anstieg seit fast drei Jahren verzeichnete und Hoffnungen auf baldige Fed-Zinssenkungen daempft.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-29"
     }
   ]
