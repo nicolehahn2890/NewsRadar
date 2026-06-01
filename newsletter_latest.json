@@ -1,35 +1,48 @@
 {
-  "datum": "Sonntag, 31. Mai 2026",
-  "generiert": "2026-05-31",
+  "datum": "Montag, 1. Juni 2026",
+  "generiert": "2026-06-01",
   "ki_stories": [
     {
-      "titel": "SoftBank investiert 75 Milliarden Euro in KI-Rechenzentren in Frankreich",
-      "text": "Der japanische Technologiekonzern SoftBank Group kuendigte am 30. Mai an, bis zu 75 Milliarden Euro (rund 87 Milliarden Dollar) in den Aufbau von KI-Rechenzentren in Frankreich zu investieren - die bisher groesste KI-Infrastrukturinvestition von SoftBank in Europa. Die Ankuendigung erfolgte beim 'Choose France'-Wirtschaftsgipfel von Praesident Emmanuel Macron in Paris. In der ersten Phase sollen bis 2031 rund 45 Milliarden Euro in 3,1 Gigawatt Rechenkapazitaet fliessen, verteilt auf Standorte in Dunkirk, Bosquel und Bouchain in der Region Hauts-de-France. Das Gesamtprojekt sieht insgesamt 5 Gigawatt KI-Kapazitaet vor. SoftBank-CEO Masayoshi Son hatte zuletzt bereits in den USA, Japan und Indien milliardenschwere KI-Investitionen angekuendigt - Frankreich ist nun der naechste Schritt seiner globalen KI-Infrastrukturstrategie.",
-      "quelle": "Bloomberg",
+      "titel": "DeepMind-CEO Hassabis: AGI könnte schon 2029 Realität werden",
+      "text": "Google-DeepMind-Chef Demis Hassabis hat erneut davor gewarnt, dass die Gesellschaft kaum ausreichend auf das Zeitalter der künstlichen allgemeinen Intelligenz (AGI) vorbereitet ist. In einem Interview äußerte Hassabis, dass 2029 inzwischen als plausibler Zeithorizont für AGI gilt - Systeme also, die in allen kognitiven Bereichen mindestens auf menschlichem Niveau agieren. Er bezeichnete aktuelle KI-Agenten als 'Probelauf' für deutlich leistungsfähigere Systeme, die in wenigen Jahren folgen werden. Regierungen, Ökonomen und die breite Öffentlichkeit müssten die Vorbereitung dringend beschleunigen - bestehende Regulierungsrahmen wie der EU AI Act kämen schlicht zu langsam voran. Hassabis rief Gesetzgeber weltweit auf, verbindliche AGI-Governance-Strukturen zu erarbeiten, bevor die Technologie tatsächlich verfügbar sei. Die Äußerungen verstärken die Forderung nach einem globalen Koordinationsrahmen, ähnlich wie er für Kernwaffen und Biowaffenrisiken existiert.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-05-30"
+    },
+    {
+      "titel": "DuckDuckGo verzeichnet 18% mehr App-Installationen nach Googles KI-Such-Ankündigung",
+      "text": "Die datenschutzorientierte Suchmaschine DuckDuckGo meldet einen deutlichen Nutzerschub, nachdem Google angekündigt hatte, dass KI-Agenten traditionelle Suchergebnisse künftig zunehmend ersetzen sollen. Die wöchentlichen App-Installationen von DuckDuckGo in den USA stiegen im Schnitt um mehr als 18 Prozent. Viele Nutzer zeigen sich besorgt über eine KI-dominierte Suche, bei der Quellentransparenz und Kontrolle über die angezeigten Inhalte abnehmen. DuckDuckGo profitiert von der Skepsis gegenüber KI-generierten Suchergebnissen, die für gelegentliche Halluzinationen und intransparente Rankingsignale bekannt sind. Das Wachstum illustriert, dass Googles Strategie, KI-Suche als Standard zu etablieren, zwar den Markt umformen will, dabei aber datenschutzbewusste Nutzer zu Alternativen treibt. Analysten sehen darin einen frühen Hinweis auf eine mögliche Diversifizierung des lange von Google dominierten Suchmaschinenmarkts.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-05-30"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Meta entwickelt KI-Anhaenger und plant Wearables-Geschaeftsabo",
-      "text": "Laut einem Bericht von The Information vom 30. Mai entwickelt Meta einen KI-gestuetzten Anhaenger, den Nutzer als Clip oder Halskette tragen koennen, um Gespraeche automatisch aufzuzeichnen und auszuwerten. Das Geraet basiert auf der Technologie von Limitless, einem KI-Startup, das Meta Ende 2025 uebernahm - dessen Kernprodukt 'Pendant' wandelte Unterhaltungen in durchsuchbare Zusammenfassungen und Erinnerungen um. Parallel plant Meta ein Business-Abonnement namens 'Wearables for Work' fuer seine KI-Brillen-Linie und weitere Geraete. Fuer das zweite Halbjahr 2026 strebt Meta den Verkauf von 10 Millionen Wearables an und will dafuer neue Produkte einfuehren sowie bestehende Geraete in mehr Laender bringen. Meta baut damit sein KI-Hardware-Oekosystem weit ueber die bekannten Ray-Ban-Smartbrillen hinaus aus.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-05-30",
-      "unternehmen": "Meta"
+      "titel": "Microsoft: GitHub Copilot wechselt ab heute auf verbrauchsbasiertes AI-Credit-Modell",
+      "text": "Microsoft hat GitHub Copilot ab dem 1. Juni 2026 auf ein verbrauchsbasiertes Abrechnungsmodell umgestellt und dazu eine virtuelle Währung namens 'GitHub AI Credits' eingeführt, die zu je 0,01 US-Dollar erhältlich sind. Entwickler zahlen damit künftig exakt für das, was sie verbrauchen, anstatt pauschal für ein monatliches Nutzungskontingent. Microsoft erhofft sich davon eine flexiblere Monetarisierung des inzwischen von Millionen Entwicklern weltweit eingesetzten KI-Coding-Assistenten. Für Enterprise-Kunden mit intensiver Nutzung bedeutet das Modell potenziell höhere Gesamtkosten, bietet aber deutlich mehr Kostentransparenz. Der Schritt passt zu Microsofts übergeordneter Strategie, KI-Dienste als hochmargige Infrastrukturleistungen zu positionieren und damit direkt am Produktivitätszuwachs der Nutzer zu partizipieren. Copilot gilt als einer der wachstumsstärksten Umsatztreiber im Microsoft-Ökosystem seit der Integration in Azure und Microsoft 365.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-01",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "SpaceX korrigiert Bewertung auf 1,8 Billionen Dollar - weltgrößter Börsengang in Vorbereitung",
+      "text": "SpaceX hat seine interne Bewertung auf rund 1,8 Billionen US-Dollar nach unten angepasst, nachdem das Raumfahrtunternehmen von Elon Musk zuletzt auf bis zu 2 Billionen Dollar taxiert worden war. Trotz der Korrektur wäre ein SpaceX-Börsengang bei dieser Bewertung der größte der Börsengeschichte und würde den bisherigen Rekord von Saudi Aramco (rund 25,6 Mrd. USD Emissionserlös in 2019) deutlich übertreffen. Die Bewertungsanpassung spiegelt laut Insidern veränderte Marktbedingungen sowie eine konservativere Einschätzung der Umsatzprognosen für die Starlink-Satelliten-Sparte wider. Ein konkreter IPO-Zeitpunkt ist noch nicht bekannt; Beobachter rechnen mit einer Entscheidung innerhalb der nächsten ein bis zwei Quartale. Für Anleger wäre ein SpaceX-Börsengang auch ein indirekter Zugang zu Musks KI-Aktivitäten, da SpaceX und xAI bei Rechenkapazitäten und Infrastruktur eng zusammenarbeiten. Das Rennen um den weltweit größten Börsengang dürfte die Finanzmärkte in den kommenden Monaten stark beschäftigen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-05-31",
+      "unternehmen": "SpaceX"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Gold bei rund 4.500 Dollar - Iran-Hoffnungen kaempfen gegen Inflationsdruck",
-      "text": "Der Goldpreis pendelte Ende Mai 2026 bei rund 4.430 bis 4.580 Dollar je Unze und liegt damit rund 20 Prozent unter dem Allzeithoch vom Januar 2026 bei 5.602 Dollar. Stuetzend wirkten Berichte ueber eine vorlaeufige Einigung zwischen den USA und Iran auf einen 60-taegigen Waffenstillstand sowie beginnende Gespraeche ueber das iranische Atomprogramm, die den Risikoaufschlag im Markt reduzierten. Gegen Gold spricht weiterhin die anhaltend hohe US-Inflation: Der PCE-Preisindex stieg im April auf 3,5 Prozent gegenueber dem Vorjahr - der staerkste Anstieg seit fast drei Jahren - und ein erstarkter US-Dollar bremst den in Dollar notierten Rohstoff. Die Fed haelt ihren Leitzins weiterhin stabil bei 3,50 bis 3,75 Prozent; Marktteilnehmer erwarten keine Zinssenkung vor 2027. Analysten von J.P. Morgan sehen das Jahresend-Ziel fuer Gold dennoch bei rund 5.000 Dollar.",
+      "titel": "S&P 500 startet mit Kursgewinnen in den Juni - KI-Rally setzt sich fort",
+      "text": "Der S&P 500 hat den ersten Handelstag des Junis mit einem Stand von rund 7.580 Punkten (+0,22%) aufgenommen und setzt damit die starke Entwicklung des Vormonats fort. Im Mai hatte der Index rund 5 Prozent zugelegt, während der technologielastige Nasdaq sogar mehr als 8 Prozent gewann - getragen von der anhaltenden KI-Investitionseuphorie. Halbleiterwerte lieferten die stärksten Einzelbeiträge: Micron Technologies legte im Mai mehr als 80 Prozent zu, AMD und SanDisk jeweils über 40 Prozent. Dell Technologies stieg nach einem Quartalsbericht über den Erwartungen um rund 33 Prozent und verzeichnete damit einen historischen Rekordtag. Gegenläufig wirken die Inflationssorgen: Der US-PCE-Preisindex zeigte im Mai den stärksten Preisanstieg seit drei Jahren, was Erwartungen an baldige Fed-Zinssenkungen weiter dämpft. Marktstrategen beobachten, ob die geopolitische Unsicherheit rund um den US-Iran-Konflikt die Aufwärtsbewegung bremsen kann.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-29"
+      "datum_artikel": "2026-06-01"
     },
     {
-      "titel": "S&P 500 neunte Woche in Folge im Plus - Dow erstmals ueber 51.000 Punkten",
-      "text": "Der S&P 500 schloss am Freitag, dem 29. Mai, bei 7.580 Punkten und verzeichnete damit seine neunte Woche in Folge mit Kursgewinnen - die laengste Gewinnstrecke seit Jahren. Erstmals in seiner Geschichte durchbrach der Dow Jones die Marke von 51.000 Punkten. Der technologiegetriebene Nasdaq stieg im Mai 2026 um rund 8 Prozent und erreichte ebenfalls ein neues Allzeithoch. Technologieaktien fuehrten die Rallye an, getrieben vom anhaltenden KI-Investitionsboom; der PHLX Semiconductor Index legte im bisherigen Jahresverlauf um rund 70 Prozent zu. Belastungsfaktor bleibt der US-PCE-Preisindex fuer April 2026, der den staerksten Anstieg seit fast drei Jahren verzeichnete und Hoffnungen auf baldige Fed-Zinssenkungen daempft.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-29"
+      "titel": "Gold bei $4.593: Hoffnungen auf Iran-Waffenstillstandsverlängerung treiben Edelmetallpreis",
+      "text": "Der Goldpreis ist zu Wochenbeginn auf $4.593 je Unze gestiegen (+1,34%) und profitiert von Berichten über eine mögliche 60-tägige Verlängerung des Waffenstillstands zwischen den USA und dem Iran. Präsident Trump beendete eine zweistündige Entscheidungssitzung ohne klares Ergebnis, signalisierte aber grundsätzliche Offenheit für eine Einigung - was die Märkte in gespannter Erwartung hält. Trotz des Tagesgewinns verzeichnete Gold im Mai insgesamt einen leichten Monatsverlust von rund 0,8 Prozent, belastet durch steigende US-Anleiherenditen. Die 30-jährigen US-Staatsanleihen rentierten zuletzt erstmals seit zwei Jahrzehnten über 5 Prozent und stellen damit einen direkten Konkurrenten für zinsloses Gold dar. Inflationssorgen infolge gestiegener Energiepreise - ausgelöst durch Störungen der Öl-Infrastruktur am Persischen Golf - senden jedoch gegenläufig preisunterstützende Signale. Für langfristig orientierte Anleger bleibt Gold in diesem Umfeld aus Diversifikations- und Sicherheitsgründen gefragt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-01"
     }
   ]
 }
