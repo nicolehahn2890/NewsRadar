@@ -1,47 +1,40 @@
 {
-  "datum": "Montag, 1. Juni 2026",
-  "generiert": "2026-06-01",
+  "datum": "Dienstag, 2. Juni 2026",
+  "generiert": "2026-06-02",
   "ki_stories": [
     {
-      "titel": "DeepMind-CEO Hassabis: AGI könnte schon 2029 Realität werden",
-      "text": "Google-DeepMind-Chef Demis Hassabis hat erneut davor gewarnt, dass die Gesellschaft kaum ausreichend auf das Zeitalter der künstlichen allgemeinen Intelligenz (AGI) vorbereitet ist. In einem Interview äußerte Hassabis, dass 2029 inzwischen als plausibler Zeithorizont für AGI gilt - Systeme also, die in allen kognitiven Bereichen mindestens auf menschlichem Niveau agieren. Er bezeichnete aktuelle KI-Agenten als 'Probelauf' für deutlich leistungsfähigere Systeme, die in wenigen Jahren folgen werden. Regierungen, Ökonomen und die breite Öffentlichkeit müssten die Vorbereitung dringend beschleunigen - bestehende Regulierungsrahmen wie der EU AI Act kämen schlicht zu langsam voran. Hassabis rief Gesetzgeber weltweit auf, verbindliche AGI-Governance-Strukturen zu erarbeiten, bevor die Technologie tatsächlich verfügbar sei. Die Äußerungen verstärken die Forderung nach einem globalen Koordinationsrahmen, ähnlich wie er für Kernwaffen und Biowaffenrisiken existiert.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-05-30"
-    },
-    {
-      "titel": "DuckDuckGo verzeichnet 18% mehr App-Installationen nach Googles KI-Such-Ankündigung",
-      "text": "Die datenschutzorientierte Suchmaschine DuckDuckGo meldet einen deutlichen Nutzerschub, nachdem Google angekündigt hatte, dass KI-Agenten traditionelle Suchergebnisse künftig zunehmend ersetzen sollen. Die wöchentlichen App-Installationen von DuckDuckGo in den USA stiegen im Schnitt um mehr als 18 Prozent. Viele Nutzer zeigen sich besorgt über eine KI-dominierte Suche, bei der Quellentransparenz und Kontrolle über die angezeigten Inhalte abnehmen. DuckDuckGo profitiert von der Skepsis gegenüber KI-generierten Suchergebnissen, die für gelegentliche Halluzinationen und intransparente Rankingsignale bekannt sind. Das Wachstum illustriert, dass Googles Strategie, KI-Suche als Standard zu etablieren, zwar den Markt umformen will, dabei aber datenschutzbewusste Nutzer zu Alternativen treibt. Analysten sehen darin einen frühen Hinweis auf eine mögliche Diversifizierung des lange von Google dominierten Suchmaschinenmarkts.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-05-30"
-    }
-  ],
-  "unternehmen_stories": [
-    {
-      "titel": "Microsoft: GitHub Copilot wechselt ab heute auf verbrauchsbasiertes AI-Credit-Modell",
-      "text": "Microsoft hat GitHub Copilot ab dem 1. Juni 2026 auf ein verbrauchsbasiertes Abrechnungsmodell umgestellt und dazu eine virtuelle Währung namens 'GitHub AI Credits' eingeführt, die zu je 0,01 US-Dollar erhältlich sind. Entwickler zahlen damit künftig exakt für das, was sie verbrauchen, anstatt pauschal für ein monatliches Nutzungskontingent. Microsoft erhofft sich davon eine flexiblere Monetarisierung des inzwischen von Millionen Entwicklern weltweit eingesetzten KI-Coding-Assistenten. Für Enterprise-Kunden mit intensiver Nutzung bedeutet das Modell potenziell höhere Gesamtkosten, bietet aber deutlich mehr Kostentransparenz. Der Schritt passt zu Microsofts übergeordneter Strategie, KI-Dienste als hochmargige Infrastrukturleistungen zu positionieren und damit direkt am Produktivitätszuwachs der Nutzer zu partizipieren. Copilot gilt als einer der wachstumsstärksten Umsatztreiber im Microsoft-Ökosystem seit der Integration in Azure und Microsoft 365.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-01",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "SpaceX korrigiert Bewertung auf 1,8 Billionen Dollar - weltgrößter Börsengang in Vorbereitung",
-      "text": "SpaceX hat seine interne Bewertung auf rund 1,8 Billionen US-Dollar nach unten angepasst, nachdem das Raumfahrtunternehmen von Elon Musk zuletzt auf bis zu 2 Billionen Dollar taxiert worden war. Trotz der Korrektur wäre ein SpaceX-Börsengang bei dieser Bewertung der größte der Börsengeschichte und würde den bisherigen Rekord von Saudi Aramco (rund 25,6 Mrd. USD Emissionserlös in 2019) deutlich übertreffen. Die Bewertungsanpassung spiegelt laut Insidern veränderte Marktbedingungen sowie eine konservativere Einschätzung der Umsatzprognosen für die Starlink-Satelliten-Sparte wider. Ein konkreter IPO-Zeitpunkt ist noch nicht bekannt; Beobachter rechnen mit einer Entscheidung innerhalb der nächsten ein bis zwei Quartale. Für Anleger wäre ein SpaceX-Börsengang auch ein indirekter Zugang zu Musks KI-Aktivitäten, da SpaceX und xAI bei Rechenkapazitäten und Infrastruktur eng zusammenarbeiten. Das Rennen um den weltweit größten Börsengang dürfte die Finanzmärkte in den kommenden Monaten stark beschäftigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-05-31",
-      "unternehmen": "SpaceX"
-    }
-  ],
-  "boerse_stories": [
-    {
-      "titel": "S&P 500 startet mit Kursgewinnen in den Juni - KI-Rally setzt sich fort",
-      "text": "Der S&P 500 hat den ersten Handelstag des Junis mit einem Stand von rund 7.580 Punkten (+0,22%) aufgenommen und setzt damit die starke Entwicklung des Vormonats fort. Im Mai hatte der Index rund 5 Prozent zugelegt, während der technologielastige Nasdaq sogar mehr als 8 Prozent gewann - getragen von der anhaltenden KI-Investitionseuphorie. Halbleiterwerte lieferten die stärksten Einzelbeiträge: Micron Technologies legte im Mai mehr als 80 Prozent zu, AMD und SanDisk jeweils über 40 Prozent. Dell Technologies stieg nach einem Quartalsbericht über den Erwartungen um rund 33 Prozent und verzeichnete damit einen historischen Rekordtag. Gegenläufig wirken die Inflationssorgen: Der US-PCE-Preisindex zeigte im Mai den stärksten Preisanstieg seit drei Jahren, was Erwartungen an baldige Fed-Zinssenkungen weiter dämpft. Marktstrategen beobachten, ob die geopolitische Unsicherheit rund um den US-Iran-Konflikt die Aufwärtsbewegung bremsen kann.",
+      "titel": "NVIDIA Vera CPU: Erster KI-Agenten-Prozessor — OpenAI und Anthropic als Erstkunden",
+      "text": "NVIDIA-Chef Jensen Huang stellte auf dem Computex in Taipeh den Vera CPU vor, NVIDIAs ersten dedizierten Rechenzentrumsprozessor speziell für Agenten-KI. Noch vor der Messe lieferte das Unternehmen die ersten Systeme persönlich an Anthropic, OpenAI und SpaceX aus. Der Chip verfügt über 88 maßgeschneiderte Olympus-Kerne, eine Speicherbandbreite von 1,2 TB/s und ist laut NVIDIA 50 Prozent schneller pro Kern als bisherige Lösungen. Die Vollproduktion startet im dritten Quartal 2026. Mit dem Vera CPU tritt NVIDIA erstmals direkt gegen Intels Xeon-, AMDs EPYC-Prozessoren und Amazons hauseigenen Graviton-Chip an und erschließt damit einen neuen Milliarden-Dollar-Markt jenseits seiner bisherigen GPU-Domäne.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-01"
     },
     {
-      "titel": "Gold bei $4.593: Hoffnungen auf Iran-Waffenstillstandsverlängerung treiben Edelmetallpreis",
-      "text": "Der Goldpreis ist zu Wochenbeginn auf $4.593 je Unze gestiegen (+1,34%) und profitiert von Berichten über eine mögliche 60-tägige Verlängerung des Waffenstillstands zwischen den USA und dem Iran. Präsident Trump beendete eine zweistündige Entscheidungssitzung ohne klares Ergebnis, signalisierte aber grundsätzliche Offenheit für eine Einigung - was die Märkte in gespannter Erwartung hält. Trotz des Tagesgewinns verzeichnete Gold im Mai insgesamt einen leichten Monatsverlust von rund 0,8 Prozent, belastet durch steigende US-Anleiherenditen. Die 30-jährigen US-Staatsanleihen rentierten zuletzt erstmals seit zwei Jahrzehnten über 5 Prozent und stellen damit einen direkten Konkurrenten für zinsloses Gold dar. Inflationssorgen infolge gestiegener Energiepreise - ausgelöst durch Störungen der Öl-Infrastruktur am Persischen Golf - senden jedoch gegenläufig preisunterstützende Signale. Für langfristig orientierte Anleger bleibt Gold in diesem Umfeld aus Diversifikations- und Sicherheitsgründen gefragt.",
-      "quelle": "Bloomberg",
+      "titel": "GitHub Copilot auf Token-Billing umgestellt: Entwickler berichten von Preisanstieg",
+      "text": "Microsoft-Tochter GitHub hat Copilot am 1. Juni 2026 von einem Flatrate-Modell auf nutzungsbasiertes Token-Billing umgestellt. Statt fester Monatspreise zahlen Nutzer nun nach verbrauchten KI-Tokens: Copilot Pro+ kostet 39 US-Dollar pro Monat inklusive 39 Dollar an KI-Credits, bei Überschreitung fallen Zusatzkosten an. Copilot Business (19 Dollar) und Enterprise (39 Dollar pro Nutzer und Monat) behalten ihre Basispreise, enthalten jedoch ebenfalls Token-Budgets. Einfache Code-Vervollständigungen bleiben gratis und verbrauchen keine Credits. In Entwicklerforen und auf Social Media formiert sich deutliche Kritik: Viele Nutzer berichten von erheblich höheren Monatsrechnungen. Der Wechsel gilt als Signal für einen breiteren Branchentrend weg von Pauschalpreisen für KI-Assistenten.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-06-01"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "NVIDIA dringt in PC-Markt vor: Arm-Chip debütiert in Laptops von Dell, HP und Microsoft",
+      "text": "Parallel zur Vera-CPU-Ankündigung für Rechenzentren präsentierte NVIDIA auf dem Computex seinen ersten Arm-basierten Prozessor für Verbraucher-PCs. Der neue Chip debütiert in Laptop-Modellen von Dell Technologies, HP und Microsoft und markiert NVIDIAs Eintritt in den von Intel und AMD dominierten klassischen PC-Prozessormarkt. Die Märkte reagierten unmittelbar: Dell-Aktien stiegen am 31. Mai um über 10 Prozent, HP legte mehr als 8 Prozent zu, NVIDIA selbst kletterte um über 6 Prozent. Kombiniert mit der Vera-CPU-Offensive im Rechenzentrumsmarkt positioniert sich NVIDIA nun als vollständiger Prozessoranbieter über alle Marktsegmente hinweg — ein strategischer Kurswechsel mit erheblicher Tragweite für die gesamte Chip-Branche.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-31",
+      "unternehmen": "NVIDIA"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "S&P 500 auf Allzeithoch zum Junibeginn: Tech-Rally dank NVIDIA-Ankündigungen",
+      "text": "Der S&P 500 schloss am 31. Mai 2026 mit einem Plus von 0,26 Prozent auf dem Rekordstand von 7.599,96 Punkten und eröffnete damit den Monat Juni mit einem neuen Allzeithoch. Alle drei großen US-Indizes — S&P 500, Nasdaq und Dow Jones — erreichten gleichzeitig neue Intraday-Bestmarken. Haupttreiber war der Technologiesektor, angeführt von NVIDIA nach den Computex-Ankündigungen zu KI-Prozessoren und PC-Chips. Im 12-Monats-Vergleich hat der S&P 500 rund 28 Prozent zugelegt; NVIDIA selbst liegt im bisherigen Jahresverlauf 2026 rund 20 Prozent im Plus. Analysten sehen in der anhaltenden KI-Investitionsbereitschaft der Grosskonzerne weiterhin einen zentralen Stützpfeiler für den breiten Markt.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-05-31"
+    },
+    {
+      "titel": "Gold stabil über 4.500 US-Dollar: Iran-Krise und Zinsunsicherheit stützen Preis",
+      "text": "Der Goldpreis notiert Anfang Juni 2026 im Bereich von 4.465 bis 4.500 US-Dollar pro Unze. Haupttreiber sind die anhaltenden Spannungen zwischen den USA und dem Iran sowie die weitgehende Blockade der Strasse von Hormus, die Ölpreise hochtreibt und Inflationssorgen verstärkt. Die gestiegenen Inflationserwartungen haben Zinssenkungshoffnungen für 2026 vollständig ausgepreist; einzelne Marktteilnehmer wetten bereits auf eine Zinserhöhung noch vor Jahresende. Obwohl höhere Zinsen Gold normalerweise belasten, stützt die starke Zentralbanknachfrage den Preis: Private Anleger kauften allein im ersten Quartal 2026 rund 535 Tonnen Gold — ein Plus von 50 Prozent gegenüber dem Vorjahreszeitraum. Analysten erwarten für Juni eine Handelsspanne zwischen 4.400 und 4.800 US-Dollar.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-06-01"
     }
   ]
