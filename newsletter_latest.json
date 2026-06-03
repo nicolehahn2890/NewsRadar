@@ -1,41 +1,48 @@
 {
-  "datum": "Dienstag, 2. Juni 2026",
-  "generiert": "2026-06-02",
+  "datum": "Mittwoch, 3. Juni 2026",
+  "generiert": "2026-06-03",
   "ki_stories": [
     {
-      "titel": "NVIDIA Vera CPU: Erster KI-Agenten-Prozessor — OpenAI und Anthropic als Erstkunden",
-      "text": "NVIDIA-Chef Jensen Huang stellte auf dem Computex in Taipeh den Vera CPU vor, NVIDIAs ersten dedizierten Rechenzentrumsprozessor speziell für Agenten-KI. Noch vor der Messe lieferte das Unternehmen die ersten Systeme persönlich an Anthropic, OpenAI und SpaceX aus. Der Chip verfügt über 88 maßgeschneiderte Olympus-Kerne, eine Speicherbandbreite von 1,2 TB/s und ist laut NVIDIA 50 Prozent schneller pro Kern als bisherige Lösungen. Die Vollproduktion startet im dritten Quartal 2026. Mit dem Vera CPU tritt NVIDIA erstmals direkt gegen Intels Xeon-, AMDs EPYC-Prozessoren und Amazons hauseigenen Graviton-Chip an und erschließt damit einen neuen Milliarden-Dollar-Markt jenseits seiner bisherigen GPU-Domäne.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-01"
+      "titel": "Trump unterzeichnet KI-Dekret: Regierung bekommt 30-Tage-Vorschau auf Frontier-Modelle",
+      "text": "US-Präsident Donald Trump hat am 2. Juni 2026 eine Verfügung unterzeichnet, die KI-Unternehmen auffordert, der Bundesregierung bis zu 30 Tage vor der öffentlichen Veröffentlichung Zugang zu ihren leistungsfähigsten Modellen zu gewähren. Das Weiße Haus will in diesem Zeitraum nationale Sicherheitsrisiken bewerten. Eine frühere, schärfere Version der Verfügung war nach Widerstand der Industrie zurückgezogen worden. Der neue Entwurf ist freiwilliger und weniger belastend — Unternehmen können der 30-tägigen Prüfung widersprechen. Experten werten das Dekret als ersten echten Regulierungsrahmen der Trump-Administration für KI und sehen darin eine wichtige Verschiebung gegenüber dem früheren laissez-faire-Kurs.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-06-02"
     },
     {
-      "titel": "GitHub Copilot auf Token-Billing umgestellt: Entwickler berichten von Preisanstieg",
-      "text": "Microsoft-Tochter GitHub hat Copilot am 1. Juni 2026 von einem Flatrate-Modell auf nutzungsbasiertes Token-Billing umgestellt. Statt fester Monatspreise zahlen Nutzer nun nach verbrauchten KI-Tokens: Copilot Pro+ kostet 39 US-Dollar pro Monat inklusive 39 Dollar an KI-Credits, bei Überschreitung fallen Zusatzkosten an. Copilot Business (19 Dollar) und Enterprise (39 Dollar pro Nutzer und Monat) behalten ihre Basispreise, enthalten jedoch ebenfalls Token-Budgets. Einfache Code-Vervollständigungen bleiben gratis und verbrauchen keine Credits. In Entwicklerforen und auf Social Media formiert sich deutliche Kritik: Viele Nutzer berichten von erheblich höheren Monatsrechnungen. Der Wechsel gilt als Signal für einen breiteren Branchentrend weg von Pauschalpreisen für KI-Assistenten.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-06-01"
+      "titel": "Microsoft bringt eigenes KI-Coding-Modell 'MAI-Code-1-Flash' auf den Markt",
+      "text": "Auf der Build-Konferenz vom 2. bis 3. Juni in San Francisco stellte Microsoft sein intern entwickeltes KI-Modell MAI-Code-1-Flash vor. Das Modell basiert auf einer Mixture-of-Experts-Architektur und verbraucht bei schwierigen Programmieraufgaben 60 Prozent weniger Token als vergleichbare Modelle — es ist bereits live im Copilot-Modell-Picker verfügbar. Ab August 2026 soll MAI-Code-1-Flash GPT-4 Turbo als Standard für alle GitHub-Copilot-Abonnenten ersetzen, mit einer optionalen Rückfall-Option für drei Monate. Microsofts Schritt kommt Monate nach dem Ende der exklusiven Partnerschaft mit OpenAI im April 2026 und signalisiert, dass der Konzern die Kontrolle über seinen KI-Stack selbst übernehmen will.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-02"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA dringt in PC-Markt vor: Arm-Chip debütiert in Laptops von Dell, HP und Microsoft",
-      "text": "Parallel zur Vera-CPU-Ankündigung für Rechenzentren präsentierte NVIDIA auf dem Computex seinen ersten Arm-basierten Prozessor für Verbraucher-PCs. Der neue Chip debütiert in Laptop-Modellen von Dell Technologies, HP und Microsoft und markiert NVIDIAs Eintritt in den von Intel und AMD dominierten klassischen PC-Prozessormarkt. Die Märkte reagierten unmittelbar: Dell-Aktien stiegen am 31. Mai um über 10 Prozent, HP legte mehr als 8 Prozent zu, NVIDIA selbst kletterte um über 6 Prozent. Kombiniert mit der Vera-CPU-Offensive im Rechenzentrumsmarkt positioniert sich NVIDIA nun als vollständiger Prozessoranbieter über alle Marktsegmente hinweg — ein strategischer Kurswechsel mit erheblicher Tragweite für die gesamte Chip-Branche.",
+      "titel": "Anthropic reicht vertraulichen IPO-Antrag ein — Bewertung bei 965 Mrd. USD",
+      "text": "Anthropic hat am 1. Juni 2026 vertraulich einen S-1-Prospekt bei der US-Börsenaufsicht SEC eingereicht und damit den Weg für einen Börsengang noch in diesem Herbst geebnet. Zuvor schloss das Unternehmen eine Finanzierungsrunde über 65 Mrd. USD ab, die es mit 965 Mrd. USD bewertet — damit überflügelt Anthropic erstmals den Rivalen OpenAI (852 Mrd. USD). Die Runde wurde von Altimeter Capital, Dragoneer, Greenoaks und Sequoia Capital angeführt und verdreifacht fast die Bewertung vom Februar 2026 (380 Mrd. USD). Der Umsatz-Run-Rate lag im Mai 2026 bei rund 47 Mrd. USD, gegenüber etwa 10 Mrd. USD im Vorjahr. Für Q2 2026 erwartet Anthropic einen Umsatz von 10,9 Mrd. USD — mehr als doppelt so viel wie in Q1 (4,8 Mrd. USD).",
       "quelle": "CNBC",
-      "datum_artikel": "2026-05-31",
-      "unternehmen": "NVIDIA"
+      "datum_artikel": "2026-06-01",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Microsoft kündigt Claude-Code-Lizenzen — GitHub Copilot wechselt auf Nutzungsabrechnung",
+      "text": "Microsoft-Tochter GitHub hat am 1. Juni 2026 angekündigt, auf nutzungsbasierte Abrechnung für GitHub Copilot umzustellen. Gleichzeitig wurde bekannt, dass Microsoft begonnen hat, Claude-Code-Lizenzen für eigene Mitarbeiter zu kündigen und stattdessen auf den hauseigenen GitHub-Copilot-CLI zu setzen. Der Schritt fällt mit der Build-Konferenz zusammen, auf der Microsoft seine eigenen KI-Coding-Modelle vorstellte. Er gilt als klares Signal, dass der Konzern die Abhängigkeit von externen KI-Anbietern wie Anthropic und OpenAI schrittweise reduzieren will.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-01",
+      "unternehmen": "Microsoft"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 auf Allzeithoch zum Junibeginn: Tech-Rally dank NVIDIA-Ankündigungen",
-      "text": "Der S&P 500 schloss am 31. Mai 2026 mit einem Plus von 0,26 Prozent auf dem Rekordstand von 7.599,96 Punkten und eröffnete damit den Monat Juni mit einem neuen Allzeithoch. Alle drei großen US-Indizes — S&P 500, Nasdaq und Dow Jones — erreichten gleichzeitig neue Intraday-Bestmarken. Haupttreiber war der Technologiesektor, angeführt von NVIDIA nach den Computex-Ankündigungen zu KI-Prozessoren und PC-Chips. Im 12-Monats-Vergleich hat der S&P 500 rund 28 Prozent zugelegt; NVIDIA selbst liegt im bisherigen Jahresverlauf 2026 rund 20 Prozent im Plus. Analysten sehen in der anhaltenden KI-Investitionsbereitschaft der Grosskonzerne weiterhin einen zentralen Stützpfeiler für den breiten Markt.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-05-31"
+      "titel": "Gold erholt sich über 4.500 USD — Märkte warten auf US-Arbeitsmarktbericht am Freitag",
+      "text": "Gold hat sich am Dienstag, 3. Juni, über die Marke von 4.500 USD je Unze erholt, nachdem der Preis in der Vorsitzung nachgegeben hatte. Rückläufige Ölpreise halfen, Inflationssorgen zu dämpfen. US-Daten zeigten, dass die offenen Stellen im April auf den höchsten Stand seit fast zwei Jahren gestiegen sind und die Entlassungen zurückgingen — ein Zeichen für einen robusten Arbeitsmarkt. Alle Augen richten sich auf Freitag, 5. Juni, wenn das US-Arbeitsministerium die Nonfarm-Payrolls für Mai veröffentlicht. Die Konsenserwartung liegt bei 85.000 bis 96.000 neuen Stellen, nach 115.000 im April.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-03"
     },
     {
-      "titel": "Gold stabil über 4.500 US-Dollar: Iran-Krise und Zinsunsicherheit stützen Preis",
-      "text": "Der Goldpreis notiert Anfang Juni 2026 im Bereich von 4.465 bis 4.500 US-Dollar pro Unze. Haupttreiber sind die anhaltenden Spannungen zwischen den USA und dem Iran sowie die weitgehende Blockade der Strasse von Hormus, die Ölpreise hochtreibt und Inflationssorgen verstärkt. Die gestiegenen Inflationserwartungen haben Zinssenkungshoffnungen für 2026 vollständig ausgepreist; einzelne Marktteilnehmer wetten bereits auf eine Zinserhöhung noch vor Jahresende. Obwohl höhere Zinsen Gold normalerweise belasten, stützt die starke Zentralbanknachfrage den Preis: Private Anleger kauften allein im ersten Quartal 2026 rund 535 Tonnen Gold — ein Plus von 50 Prozent gegenüber dem Vorjahreszeitraum. Analysten erwarten für Juni eine Handelsspanne zwischen 4.400 und 4.800 US-Dollar.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-01"
+      "titel": "S&P 500 stabil bei rund 7.600 Punkten — Fed-Zinspause gilt als sicher",
+      "text": "Der S&P 500 notierte Anfang Juni 2026 bei rund 7.600 Punkten und zeigte sich robust. Laut CME-Group-Daten liegt die Wahrscheinlichkeit, dass die US-Notenbank Fed ihre Zinsen im Juni unverändert bei 3,50 bis 3,75 Prozent belässt, bei 99,4 Prozent. Laufende Unsicherheiten rund um die US-Iran-Friedensverhandlungen trieben den Ölpreis zeitweise höher, was Inflationsbedenken schürte und den Spielraum der Fed für baldige Zinssenkungen weiter einengte. Entscheidend für die kurzfristige Marktrichtung bleibt der Nonfarm-Payrolls-Bericht am Freitag.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-03"
     }
   ]
 }
