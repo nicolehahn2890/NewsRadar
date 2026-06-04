@@ -1,48 +1,61 @@
 {
-  "datum": "Mittwoch, 3. Juni 2026",
-  "generiert": "2026-06-03",
+  "datum": "Donnerstag, 4. Juni 2026",
+  "generiert": "2026-06-04",
   "ki_stories": [
     {
-      "titel": "Trump unterzeichnet KI-Dekret: Regierung bekommt 30-Tage-Vorschau auf Frontier-Modelle",
-      "text": "US-Präsident Donald Trump hat am 2. Juni 2026 eine Verfügung unterzeichnet, die KI-Unternehmen auffordert, der Bundesregierung bis zu 30 Tage vor der öffentlichen Veröffentlichung Zugang zu ihren leistungsfähigsten Modellen zu gewähren. Das Weiße Haus will in diesem Zeitraum nationale Sicherheitsrisiken bewerten. Eine frühere, schärfere Version der Verfügung war nach Widerstand der Industrie zurückgezogen worden. Der neue Entwurf ist freiwilliger und weniger belastend — Unternehmen können der 30-tägigen Prüfung widersprechen. Experten werten das Dekret als ersten echten Regulierungsrahmen der Trump-Administration für KI und sehen darin eine wichtige Verschiebung gegenüber dem früheren laissez-faire-Kurs.",
-      "quelle": "Washington Post",
+      "titel": "Brookfield startet 50-Mrd-Dollar-Fonds fuer KI-Infrastruktur",
+      "text": "Brookfield Asset Management legt einen neuen Infrastrukturfonds mit einem Zielvolumen von 50 Milliarden US-Dollar auf, der ausschliesslich auf KI-Infrastruktur ausgerichtet ist. Als erste Investition stellt Brookfield bis zu 5 Milliarden Dollar bereit, um Brennstoffzellen des Unternehmens Bloom Energy in Datenzentren zu betreiben, die grosse KI-Modelle ausrechnen. Der Fonds soll ausserdem in Stromnetze, Transportverbindungen und physische Gebaeude investieren. Das Vorhaben gilt als eines der groessten privaten KI-Infrastrukturprogramme weltweit und zeigt, wie stark institutionelles Kapital in die Energieversorgung von Datenzentren stroemt. Hintergrund: Grosse KI-Modelle wie GPT oder Claude benoetigen enorme Mengen Strom, und die bestehende Infrastruktur stoss seit Jahren an ihre Grenzen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-03"
+    },
+    {
+      "titel": "EU-KI-Gigafabriken: 20-Mrd-Euro-Plan droht zu scheitern",
+      "text": "Der Plan der Europaeischen Union, fuenf grosse KI-Datenzentren (sogenannte Gigafabriken) mit 20 Milliarden Euro zu foerdern, geriet im Juni 2026 in ernsthafte Schieflage. Die Ausschreibung wurde von Mai auf Juli verschoben, und das Interesse potenzieller Partner ist eingebrochen: Von anfaenglich rund 70 Interessenten erwaegen nur noch etwa 10 Unternehmen eine Bewerbung, mindestens zwei Konsortien haben sich bereits zurueckgezogen. Als Hauptproblem gilt die Foerderstruktur: Die Mittel fliessen erst 2028 und 2030 und kommen damit Jahre zu spaet fuer die benoetigt Infrastruktur. Zum Vergleich: SoftBank allein hat fuer Frankreich bis zu 75 Milliarden Euro an privatem Kapital angekuendigt, mehr als das Dreifache des gesamten EU-Programms. Experten warnen, die EU koennte im globalen KI-Infrastrukturwettbewerb weiter zurueckfallen, wenn das Programm nicht grundlegend ueberarbeitet wird.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-02"
     },
     {
-      "titel": "Microsoft bringt eigenes KI-Coding-Modell 'MAI-Code-1-Flash' auf den Markt",
-      "text": "Auf der Build-Konferenz vom 2. bis 3. Juni in San Francisco stellte Microsoft sein intern entwickeltes KI-Modell MAI-Code-1-Flash vor. Das Modell basiert auf einer Mixture-of-Experts-Architektur und verbraucht bei schwierigen Programmieraufgaben 60 Prozent weniger Token als vergleichbare Modelle — es ist bereits live im Copilot-Modell-Picker verfügbar. Ab August 2026 soll MAI-Code-1-Flash GPT-4 Turbo als Standard für alle GitHub-Copilot-Abonnenten ersetzen, mit einer optionalen Rückfall-Option für drei Monate. Microsofts Schritt kommt Monate nach dem Ende der exklusiven Partnerschaft mit OpenAI im April 2026 und signalisiert, dass der Konzern die Kontrolle über seinen KI-Stack selbst übernehmen will.",
-      "quelle": "CNBC",
+      "titel": "Uber deckelt Claude Code auf 1.500 Dollar pro Monat nach Budget-Blowout",
+      "text": "Uber hat alle Mitarbeiter auf maximal 1.500 US-Dollar monatliche Token-Ausgaben pro KI-Coding-Tool beschraenkt, nachdem das Unternehmen sein gesamtes 2026-Budget fuer diese Tools bereits in den ersten vier Monaten des Jahres verbraucht hatte. Betroffen sind agentenbasierte Coding-Programme wie Cursor oder Anthropics Claude Code. Vor der Deckelung verursachten einzelne Ingenieure monatliche Kosten zwischen 500 und 2.000 Dollar. Uber verfolgt die Ausgaben nun auf einem internen Dashboard; wer mehr ausgeben will, braucht eine Sondergenehmigung. Die Kehrtwende ist bemerkenswert: Noch vor wenigen Monaten hatte Uber die Nutzung dieser Tools aktiv gefuerdert und Mitarbeiter auf internen Nutzungs-Ranglisten bewertet. Der Fall gilt als Warnsignal fuer die gesamte Branche, dass KI-Agenten-Tools bei starker Nutzung schnell zu unkontrollierten Kostentreibern werden koennen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-02"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic reicht vertraulichen IPO-Antrag ein — Bewertung bei 965 Mrd. USD",
-      "text": "Anthropic hat am 1. Juni 2026 vertraulich einen S-1-Prospekt bei der US-Börsenaufsicht SEC eingereicht und damit den Weg für einen Börsengang noch in diesem Herbst geebnet. Zuvor schloss das Unternehmen eine Finanzierungsrunde über 65 Mrd. USD ab, die es mit 965 Mrd. USD bewertet — damit überflügelt Anthropic erstmals den Rivalen OpenAI (852 Mrd. USD). Die Runde wurde von Altimeter Capital, Dragoneer, Greenoaks und Sequoia Capital angeführt und verdreifacht fast die Bewertung vom Februar 2026 (380 Mrd. USD). Der Umsatz-Run-Rate lag im Mai 2026 bei rund 47 Mrd. USD, gegenüber etwa 10 Mrd. USD im Vorjahr. Für Q2 2026 erwartet Anthropic einen Umsatz von 10,9 Mrd. USD — mehr als doppelt so viel wie in Q1 (4,8 Mrd. USD).",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-06-01",
-      "unternehmen": "Anthropic"
+      "titel": "Alphabet stockt KI-Kapitalerhoehung auf 85 Mrd Dollar auf",
+      "text": "Google-Mutter Alphabet hat ihre Aktienausgabe zur Finanzierung von Kuenstlicher Intelligenz auf 84,75 Milliarden US-Dollar aufgestockt, nachdem die urspruenglich geplanten 80 Milliarden sofort ueberzeichnet waren. Es ist die erste Neuausgabe von Aktien durch Alphabet seit dem Jahr 2005. Warren Buffetts Berkshire Hathaway beteiligt sich mit 10 Milliarden Dollar. Nahezu das gesamte Kapital soll in KI-Infrastruktur und Rechenleistung fliessen. CEO Sundar Pichai bestaetigt die Ueberzeichnung via X. Mit dieser Summe positioniert sich Alphabet als einer der groessten Einzelinvestoren in KI-Infrastruktur weltweit und signalisiert, die Ausgaben im Wettbewerb mit Microsoft, Amazon und Meta weiter zu beschleunigen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-03",
+      "unternehmen": "Alphabet"
     },
     {
-      "titel": "Microsoft kündigt Claude-Code-Lizenzen — GitHub Copilot wechselt auf Nutzungsabrechnung",
-      "text": "Microsoft-Tochter GitHub hat am 1. Juni 2026 angekündigt, auf nutzungsbasierte Abrechnung für GitHub Copilot umzustellen. Gleichzeitig wurde bekannt, dass Microsoft begonnen hat, Claude-Code-Lizenzen für eigene Mitarbeiter zu kündigen und stattdessen auf den hauseigenen GitHub-Copilot-CLI zu setzen. Der Schritt fällt mit der Build-Konferenz zusammen, auf der Microsoft seine eigenen KI-Coding-Modelle vorstellte. Er gilt als klares Signal, dass der Konzern die Abhängigkeit von externen KI-Anbietern wie Anthropic und OpenAI schrittweise reduzieren will.",
+      "titel": "OpenAI bringt Codex-Plugins fuer Finanz- und Rechtsbranche",
+      "text": "OpenAI hat seinen KI-Agenten Codex deutlich erweitert und stellt nun neue Plugins fuer Branchen ausserhalb der Softwareentwicklung vor. Konkret vorgestellt wurden Tools fuer Aktienanalyse, Investmentbanking und Vertrieb; weitere Funktionen fuer Unternehmensrecht und Corporate Finance sind angekuendigt. Codex kann damit komplexe Fachaufgaben fuer Finanzanalysten und Bankberater uebernehmen. OpenAI konkurriert dabei direkt mit Anthropic, das mit Claude ebenfalls um Unternehmenskunden in diesen Sektoren wirbt. Die Erweiterung kommt zu einem Zeitpunkt, an dem OpenAI mit einer Bewertung von rund 852 Milliarden Dollar seinen Boersenbgang vorbereitet und den Umsatz ueber Unternehmenslizenzen steigern will.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-02",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "NVIDIA stellt RTX Spark Superchip fuer KI-Windows-PCs vor",
+      "text": "NVIDIA-CEO Jensen Huang hat auf der Computex 2026 in Taipei den RTX Spark Superchip vorgestellt, der leistungsstarke KI-Agenten erstmals direkt auf Windows-Laptops und Desktop-PCs bringen soll. Der Chip vereint bis zu 20 Arm-CPU-Kerne, eine Blackwell-GPU mit 6.144 CUDA-Kernen, 128 Gigabyte einheitlichen LPDDR5X-Arbeitsspeicher und eine Speicherbandbreite von 300 Gigabyte pro Sekunde. Huang bezeichnete RTX Spark als Neuerfindung des PCs fuer das Zeitalter der KI-Agenten. Partner wie Microsoft, Dell, HP und ASUS planen, ab Herbst 2026 erste Geraete anzubieten. Mit dem Einstieg in den PC-Markt will NVIDIA die gesamte KI-Wertschoepfungskette kontrollieren, von Rechenzentren und Cloud bis hin zum Endgeraet.",
       "quelle": "CNBC",
-      "datum_artikel": "2026-06-01",
-      "unternehmen": "Microsoft"
+      "datum_artikel": "2026-06-02",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Gold erholt sich über 4.500 USD — Märkte warten auf US-Arbeitsmarktbericht am Freitag",
-      "text": "Gold hat sich am Dienstag, 3. Juni, über die Marke von 4.500 USD je Unze erholt, nachdem der Preis in der Vorsitzung nachgegeben hatte. Rückläufige Ölpreise halfen, Inflationssorgen zu dämpfen. US-Daten zeigten, dass die offenen Stellen im April auf den höchsten Stand seit fast zwei Jahren gestiegen sind und die Entlassungen zurückgingen — ein Zeichen für einen robusten Arbeitsmarkt. Alle Augen richten sich auf Freitag, 5. Juni, wenn das US-Arbeitsministerium die Nonfarm-Payrolls für Mai veröffentlicht. Die Konsenserwartung liegt bei 85.000 bis 96.000 neuen Stellen, nach 115.000 im April.",
-      "quelle": "Reuters",
+      "titel": "S&P 500 bricht Rekordserie – Iran-Konflikt treibt Oel auf 96 Dollar",
+      "text": "Der S&P 500 hat am Mittwoch (3. Juni) seine neuntaegige Gewinnserie beendet und fiel um rund 0,4 Prozent. Ausloser waren neue US-Militaerschlaege gegen den Iran, die die Oelpreise stark anhoben: WTI-Rohoel stieg auf rund 96 Dollar pro Barrel, Brent-Rohoel naeherte sich 98 Dollar. Der S&P 500 hatte erst am Dienstag (2. Juni) erstmals ueber 7.600 Punkte geschlossen. Der Oelpreisanstieg schuerrt Inflationssorgen und reduziert den Spielraum der US-Notenbank Fed fuer Zinssenkungen. Reise- und Fluggesellschaftsaktien verzeichneten besonders starke Verluste. Investoren warten auf den Nonfarm-Payrolls-Bericht am Freitag (5. Juni), der weitere Hinweise auf die kuenftige Geldpolitik liefern soll.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-03"
     },
     {
-      "titel": "S&P 500 stabil bei rund 7.600 Punkten — Fed-Zinspause gilt als sicher",
-      "text": "Der S&P 500 notierte Anfang Juni 2026 bei rund 7.600 Punkten und zeigte sich robust. Laut CME-Group-Daten liegt die Wahrscheinlichkeit, dass die US-Notenbank Fed ihre Zinsen im Juni unverändert bei 3,50 bis 3,75 Prozent belässt, bei 99,4 Prozent. Laufende Unsicherheiten rund um die US-Iran-Friedensverhandlungen trieben den Ölpreis zeitweise höher, was Inflationsbedenken schürte und den Spielraum der Fed für baldige Zinssenkungen weiter einengte. Entscheidend für die kurzfristige Marktrichtung bleibt der Nonfarm-Payrolls-Bericht am Freitag.",
+      "titel": "Gold faellt unter 4.500 Dollar – Jobmarkt verstaerkt Zinserhoehngserwartungen",
+      "text": "Der Goldpreis ist unter 4.500 US-Dollar pro Unze gefallen und bewegt sich im Bereich 4.441 bis 4.510 Dollar. Ausloser sind ueberraschend starke US-Arbeitsmarktdaten: Die offenen Stellen stiegen im April auf den hoechsten Stand seit fast zwei Jahren, waehrend Entlassungen zurueckgingen. Das verringert die Hoffnung auf Zinssenkungen durch Fed-Chef Kevin Warsh erheblich. Da Gold keine Zinsen abwirft, verliert es gegenueber verzinslichen Anlagen an Attraktivitaet, wenn Zinsen hoch bleiben oder weiter steigen. Zinsterminmaerkte preisen inzwischen eine Wahrscheinlichkeit von ueber 99 Prozent ein, dass die Fed ihre Zinsen im Juni unveraendert bei 3,50 bis 3,75 Prozent haelt. Langfristig sind Analysten von JPMorgan bullish und prognostizieren einen Goldpreis von 6.300 Dollar bis Ende 2026.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-03"
+      "datum_artikel": "2026-06-04"
     }
   ]
 }
