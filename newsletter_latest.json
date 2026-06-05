@@ -1,61 +1,68 @@
 {
-  "datum": "Donnerstag, 4. Juni 2026",
-  "generiert": "2026-06-04",
+  "datum": "Freitag, 5. Juni 2026",
+  "generiert": "2026-06-05",
   "ki_stories": [
     {
-      "titel": "Brookfield startet 50-Mrd-Dollar-Fonds fuer KI-Infrastruktur",
-      "text": "Brookfield Asset Management legt einen neuen Infrastrukturfonds mit einem Zielvolumen von 50 Milliarden US-Dollar auf, der ausschliesslich auf KI-Infrastruktur ausgerichtet ist. Als erste Investition stellt Brookfield bis zu 5 Milliarden Dollar bereit, um Brennstoffzellen des Unternehmens Bloom Energy in Datenzentren zu betreiben, die grosse KI-Modelle ausrechnen. Der Fonds soll ausserdem in Stromnetze, Transportverbindungen und physische Gebaeude investieren. Das Vorhaben gilt als eines der groessten privaten KI-Infrastrukturprogramme weltweit und zeigt, wie stark institutionelles Kapital in die Energieversorgung von Datenzentren stroemt. Hintergrund: Grosse KI-Modelle wie GPT oder Claude benoetigen enorme Mengen Strom, und die bestehende Infrastruktur stoss seit Jahren an ihre Grenzen.",
+      "titel": "Brookfield startet 50-Milliarden-Dollar-Fonds fuer KI-Infrastruktur",
+      "text": "Der Vermoegensverwaltungskonzern Brookfield Asset Management hat seinen neuen KI-Infrastrukturfonds vorgestellt und ein Zielvolumen von bis zu 50 Milliarden US-Dollar ausgerufen. Als erste konkrete Wette verpflichtet sich Brookfield, bis zu 5 Milliarden Dollar einzusetzen, um Brennstoffzellen des Unternehmens Bloom Energy in energiehungrigen KI-Rechenzentren zu installieren. Der Fonds soll darueber hinaus in Stromnetze, Transportinfrastruktur und physische Bauten investieren, die die KI-getriebene Wirtschaft stuetzen. Hintergrund ist der enorme Strombedarf moderner KI-Modelle, der bestehende Netze an ihre Kapazitaetsgrenzen bringt und neue Energiequellen direkt vor Ort erfordert. Damit signalisieren grosse institutionelle Infrastrukturinvestoren, dass KI-Infrastruktur als eigenstaendige Anlageklasse auf dem Niveau klassischer Energie- und Verkehrsprojekte angekommen ist.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-03"
     },
     {
-      "titel": "EU-KI-Gigafabriken: 20-Mrd-Euro-Plan droht zu scheitern",
-      "text": "Der Plan der Europaeischen Union, fuenf grosse KI-Datenzentren (sogenannte Gigafabriken) mit 20 Milliarden Euro zu foerdern, geriet im Juni 2026 in ernsthafte Schieflage. Die Ausschreibung wurde von Mai auf Juli verschoben, und das Interesse potenzieller Partner ist eingebrochen: Von anfaenglich rund 70 Interessenten erwaegen nur noch etwa 10 Unternehmen eine Bewerbung, mindestens zwei Konsortien haben sich bereits zurueckgezogen. Als Hauptproblem gilt die Foerderstruktur: Die Mittel fliessen erst 2028 und 2030 und kommen damit Jahre zu spaet fuer die benoetigt Infrastruktur. Zum Vergleich: SoftBank allein hat fuer Frankreich bis zu 75 Milliarden Euro an privatem Kapital angekuendigt, mehr als das Dreifache des gesamten EU-Programms. Experten warnen, die EU koennte im globalen KI-Infrastrukturwettbewerb weiter zurueckfallen, wenn das Programm nicht grundlegend ueberarbeitet wird.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-02"
-    },
-    {
-      "titel": "Uber deckelt Claude Code auf 1.500 Dollar pro Monat nach Budget-Blowout",
-      "text": "Uber hat alle Mitarbeiter auf maximal 1.500 US-Dollar monatliche Token-Ausgaben pro KI-Coding-Tool beschraenkt, nachdem das Unternehmen sein gesamtes 2026-Budget fuer diese Tools bereits in den ersten vier Monaten des Jahres verbraucht hatte. Betroffen sind agentenbasierte Coding-Programme wie Cursor oder Anthropics Claude Code. Vor der Deckelung verursachten einzelne Ingenieure monatliche Kosten zwischen 500 und 2.000 Dollar. Uber verfolgt die Ausgaben nun auf einem internen Dashboard; wer mehr ausgeben will, braucht eine Sondergenehmigung. Die Kehrtwende ist bemerkenswert: Noch vor wenigen Monaten hatte Uber die Nutzung dieser Tools aktiv gefuerdert und Mitarbeiter auf internen Nutzungs-Ranglisten bewertet. Der Fall gilt als Warnsignal fuer die gesamte Branche, dass KI-Agenten-Tools bei starker Nutzung schnell zu unkontrollierten Kostentreibern werden koennen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-02"
+      "titel": "USA: Welle neuer KI-Gesetze in mehreren Bundesstaaten gleichzeitig",
+      "text": "In den USA beschleunigt sich die KI-Regulierung auf Bundesstaatenebene: Vermont hat Chatbots, die als Therapeuten auftreten, verboten, Illinois leitete fuenf KI-Gesetzentwuerfe ans Parlament weiter, und in Kalifornien wurden 30 KI-Gesetze in parlamentarische Ausschuesse weitergeleitet. Ein bundesweit beachtetes Gesetz zum Schutz von Kindern vor unsicheren KI-Begleit-Apps stand am 4. Juni in Kalifornien auf der Tagesordnung. Die gleichzeitige Regulierungsaktivitaet in mehreren grossen Bundesstaaten verstaerkt den Druck auf KI-Anbieter, die ihre Produkte nun an immer staerker zersplitterten regionalen Rechtslagen ausrichten muessen. Beobachter sehen darin den Beginn einer laengerfristigen Fragmentierung der KI-Compliance-Landschaft innerhalb der USA, aehnlich wie es bei Datenschutzgesetzen nach dem Vorbild von Kaliforniens CCPA geschah.",
+      "quelle": "Transparency Coalition",
+      "datum_artikel": "2026-06-05"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Alphabet stockt KI-Kapitalerhoehung auf 85 Mrd Dollar auf",
-      "text": "Google-Mutter Alphabet hat ihre Aktienausgabe zur Finanzierung von Kuenstlicher Intelligenz auf 84,75 Milliarden US-Dollar aufgestockt, nachdem die urspruenglich geplanten 80 Milliarden sofort ueberzeichnet waren. Es ist die erste Neuausgabe von Aktien durch Alphabet seit dem Jahr 2005. Warren Buffetts Berkshire Hathaway beteiligt sich mit 10 Milliarden Dollar. Nahezu das gesamte Kapital soll in KI-Infrastruktur und Rechenleistung fliessen. CEO Sundar Pichai bestaetigt die Ueberzeichnung via X. Mit dieser Summe positioniert sich Alphabet als einer der groessten Einzelinvestoren in KI-Infrastruktur weltweit und signalisiert, die Ausgaben im Wettbewerb mit Microsoft, Amazon und Meta weiter zu beschleunigen.",
+      "titel": "Alphabet sammelt 80 Mrd. Dollar ein - Warren Buffetts Berkshire investiert 10 Mrd.",
+      "text": "Google-Mutterkonzern Alphabet hat ein Kapitalerhoeungspaket im Gesamtvolumen von 80 Milliarden US-Dollar angekuendigt, das erstmals ein direktes Investment von Warren Buffetts Berkshire Hathaway in Hoehe von 10 Milliarden Dollar enthaelt. Das Gesamtpaket setzt sich zusammen aus einem 40-Milliarden-At-the-Market-Programm ab dem dritten Quartal 2026, 30 Milliarden Dollar in Aktien und Wandelpapieren sowie dem Berkshire-Deal. Die gesamten Einnahmen sollen in den weiteren KI-Ausbau fliessen. Analysten werten Berkshires Einstieg als historisches Signal: Buffett gilt traditionell als KI-Skeptiker, und sein Schritt zeigt, dass der KI-Investitionszyklus nun vollstaendig vom Risikokapital in den breiten oeffentlichen Aktienmarkt uebergegangen ist. Fuer Alphabet bedeutet das eine erhebliche Verstaerkung seiner Finanzposition im Wettbewerb mit Microsoft und Amazon um KI-Infrastruktur.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-03",
       "unternehmen": "Alphabet"
     },
     {
-      "titel": "OpenAI bringt Codex-Plugins fuer Finanz- und Rechtsbranche",
-      "text": "OpenAI hat seinen KI-Agenten Codex deutlich erweitert und stellt nun neue Plugins fuer Branchen ausserhalb der Softwareentwicklung vor. Konkret vorgestellt wurden Tools fuer Aktienanalyse, Investmentbanking und Vertrieb; weitere Funktionen fuer Unternehmensrecht und Corporate Finance sind angekuendigt. Codex kann damit komplexe Fachaufgaben fuer Finanzanalysten und Bankberater uebernehmen. OpenAI konkurriert dabei direkt mit Anthropic, das mit Claude ebenfalls um Unternehmenskunden in diesen Sektoren wirbt. Die Erweiterung kommt zu einem Zeitpunkt, an dem OpenAI mit einer Bewertung von rund 852 Milliarden Dollar seinen Boersenbgang vorbereitet und den Umsatz ueber Unternehmenslizenzen steigern will.",
+      "titel": "Anthropic reicht vertraulich IPO-Unterlagen ein - Bewertung nahe einer Billion Dollar",
+      "text": "Anthropic, der Entwickler des Claude-Sprachmodells, hat vertraulich eine IPO-Anmeldung bei der US-Boersenaufsicht SEC eingereicht und ist damit schneller als Konkurrent OpenAI. Ende Mai hatte das Unternehmen frisches Kapital bei einer Nachgeld-Bewertung von knapp 965 Milliarden Dollar eingesammelt - die hoechste Bewertung eines privaten KI-Startups weltweit. Ein Boersengang wird fuer den Herbst 2026 erwartet. Bloomberg berichtet, Anthropic wolle seinen Erstmovervorteil gegenueber OpenAI nutzen: Wer zuerst boersennotiert ist, sichert sich guenstigere Konditionen und oeffentliche Kapitalbeschaffung fuer weiteres Wachstum. Sollten Anthropic, OpenAI und SpaceX wie geplant alle noch 2026 an die Boerse gehen, koennte laut Goldman Sachs das US-IPO-Erloes-Volumen auf ein Rekordniveau von 160 Milliarden Dollar klettern.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-02",
-      "unternehmen": "OpenAI"
+      "datum_artikel": "2026-06-04",
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "NVIDIA stellt RTX Spark Superchip fuer KI-Windows-PCs vor",
-      "text": "NVIDIA-CEO Jensen Huang hat auf der Computex 2026 in Taipei den RTX Spark Superchip vorgestellt, der leistungsstarke KI-Agenten erstmals direkt auf Windows-Laptops und Desktop-PCs bringen soll. Der Chip vereint bis zu 20 Arm-CPU-Kerne, eine Blackwell-GPU mit 6.144 CUDA-Kernen, 128 Gigabyte einheitlichen LPDDR5X-Arbeitsspeicher und eine Speicherbandbreite von 300 Gigabyte pro Sekunde. Huang bezeichnete RTX Spark als Neuerfindung des PCs fuer das Zeitalter der KI-Agenten. Partner wie Microsoft, Dell, HP und ASUS planen, ab Herbst 2026 erste Geraete anzubieten. Mit dem Einstieg in den PC-Markt will NVIDIA die gesamte KI-Wertschoepfungskette kontrollieren, von Rechenzentren und Cloud bis hin zum Endgeraet.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-06-02",
-      "unternehmen": "NVIDIA"
+      "titel": "SpaceX startet IPO-Roadshow - koennte groessten Boersengang der Geschichte werden",
+      "text": "SpaceX hat mit seiner IPO-Roadshow begonnen und peilt bei einer Unternehmensbewertung von rund 1,75 Billionen Dollar Emissionseinnahmen von circa 75 Milliarden US-Dollar an. Gelingt das, wuerde SpaceX Saudi Aramcos Rekordboersengang von 2019 deutlich uebertreffen und zum groessten IPO der Geschichte werden. Bloomberg beschreibt SpaceX als den 'defining IPO' des aktuellen KI-Investitionszyklus, da das Starlink-Satellitennetz eng mit dem Datenhunger der KI-Industrie verknuepft ist. CEO Elon Musk leitet gleichzeitig xAI und das Grok-Sprachmodell, was SpaceX fuer viele Investoren als indirektes KI-Investment positioniert. Der Boersengang ist Teil einer beispiellosen Welle aus SpaceX, Anthropic und OpenAI, die zusammen den US-Kapitalmarkt im zweiten Halbjahr 2026 praegende Impulse geben duerfte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-04",
+      "unternehmen": "SpaceX"
+    },
+    {
+      "titel": "Broadcom enttaeuscht: KI-Chip-Prognose bleibt unveraendert, Halbleiteraktien fallen",
+      "text": "Nach Vorlage der Quartalszahlen von Broadcom gaben Halbleiteraktien breit nach, weil das Unternehmen seine Umsatzprognose fuer KI-Chips im laufenden Jahr nicht angehoben hat. Aktien von Micron, AMD und Qualcomm zaehlen zu den groessten Verlierern im Tech-Sektor. Investoren hatten auf eine erneute Erhoehung des KI-Ausblicks gehofft, da Broadcom als einer der wichtigsten Lieferanten von massgeschneiderten KI-Chips fuer Google und Meta gilt. Das Ausbleiben einer Prognoseheraufsetzung naehrt Zweifel, ob das Tempo der KI-Chip-Nachfrage im zweiten Halbjahr 2026 tatsaechlich weiter anzieht. Auch NVIDIA-Aktionaere zeigten sich nervoes - obwohl NVIDIA selbst keine negativen Meldungen veroeffentlicht hat, setzt der Sektorabverkauf den gesamten Chipmarkt unter Druck.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-04",
+      "unternehmen": "Broadcom"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 bricht Rekordserie – Iran-Konflikt treibt Oel auf 96 Dollar",
-      "text": "Der S&P 500 hat am Mittwoch (3. Juni) seine neuntaegige Gewinnserie beendet und fiel um rund 0,4 Prozent. Ausloser waren neue US-Militaerschlaege gegen den Iran, die die Oelpreise stark anhoben: WTI-Rohoel stieg auf rund 96 Dollar pro Barrel, Brent-Rohoel naeherte sich 98 Dollar. Der S&P 500 hatte erst am Dienstag (2. Juni) erstmals ueber 7.600 Punkte geschlossen. Der Oelpreisanstieg schuerrt Inflationssorgen und reduziert den Spielraum der US-Notenbank Fed fuer Zinssenkungen. Reise- und Fluggesellschaftsaktien verzeichneten besonders starke Verluste. Investoren warten auf den Nonfarm-Payrolls-Bericht am Freitag (5. Juni), der weitere Hinweise auf die kuenftige Geldpolitik liefern soll.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-03"
-    },
-    {
-      "titel": "Gold faellt unter 4.500 Dollar – Jobmarkt verstaerkt Zinserhoehngserwartungen",
-      "text": "Der Goldpreis ist unter 4.500 US-Dollar pro Unze gefallen und bewegt sich im Bereich 4.441 bis 4.510 Dollar. Ausloser sind ueberraschend starke US-Arbeitsmarktdaten: Die offenen Stellen stiegen im April auf den hoechsten Stand seit fast zwei Jahren, waehrend Entlassungen zurueckgingen. Das verringert die Hoffnung auf Zinssenkungen durch Fed-Chef Kevin Warsh erheblich. Da Gold keine Zinsen abwirft, verliert es gegenueber verzinslichen Anlagen an Attraktivitaet, wenn Zinsen hoch bleiben oder weiter steigen. Zinsterminmaerkte preisen inzwischen eine Wahrscheinlichkeit von ueber 99 Prozent ein, dass die Fed ihre Zinsen im Juni unveraendert bei 3,50 bis 3,75 Prozent haelt. Langfristig sind Analysten von JPMorgan bullish und prognostizieren einen Goldpreis von 6.300 Dollar bis Ende 2026.",
+      "titel": "S&P 500 gibt nach Chip-Abverkauf nach - Rekordniveau unter Druck",
+      "text": "Der S&P 500, der zu Wochenbeginn erstmals die Marke von 7.600 Punkten ueberschritten und ein neues Allzeithoch markiert hatte, geriet durch den breiten Abverkauf bei Halbleiteraktien nach den Broadcom-Zahlen unter Druck. Index-Futures handelten in einer Zone von rund 7.529 bis 7.617 Punkten, waehrend Kaeufer jeden Ruecksetzer verteidigten. Der Tech-Sektor, der den Index in den vergangenen Monaten angetrieben hatte, steht nun vor der Frage, ob der KI-Chip-Nachfragezyklus das erwartete Tempo aufrechterhalten kann. Hinzu kommt Verunsicherung durch den Nahostkonflikt und die damit verbundene Energiepreisinflation, die eine erneute Zinserhoehung der Fed wahrscheinlicher macht. Investoren warten auf den am Freitag erwarteten US-Arbeitsmarktbericht (Nonfarm Payrolls), der die Richtung fuer die Fed-Sitzung im Juni vorgeben wird.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-04"
+    },
+    {
+      "titel": "Gold faellt auf 4.450 Dollar je Unze - Zinserhoehungsangst belastet Edelmetall",
+      "text": "Gold handelte am Donnerstag bei rund 4.450 US-Dollar pro Unze und verlor auf Wochensicht knapp 2 Prozent. Als Hauptbelastungsfaktor gelten wachsende Erwartungen, dass die Fed die Leitzinsen bald erhoehen koennte, um den durch den Nahostkonflikt ausgeloesten Energiepreisschock zu bekaempfen. Nachdem Hoffnungen auf einen Waffenstillstand geschwunden sind und US-amerikanische sowie iranische Kraefte Gegenschlaege ausgefuehrt haben, bleibt die Strasse von Hormuz weitgehend blockiert, was Oelpreise hochhaelt und die Inflation antreibt. Gold leidet in Phasen erwarteter Zinserhoehungen, weil zinstragende Anlagen dann relativ attraktiver werden. Auf mittelfristige Sicht bleibt der Goldpreis weit ueber dem Niveau der Vorjahre, gestuetzt durch anhaltende Zentralbankkaufe und geopolitische Risikoaufschlaege.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-04"
+    },
+    {
+      "titel": "Cleveland-Fed-Praesidentin Hammack: Zinserhoehung koennte bald notwendig sein",
+      "text": "Cleveland-Fed-Praesidentin Beth Hammack hat oeffentlich gewarnt, dass die US-Notenbank die Leitzinsen erhoehen koennte, falls der Inflationsdruck weiter zunimmt. Zuletzt hatte die Fed ihren Leitzins bei der April-Sitzung unveraendert bei 3,5 bis 3,75 Prozent belassen - bereits die dritte Pause in Folge. Hammacks Aussagen kommen zu einem Zeitpunkt, an dem steigende Energiepreise infolge des Nahostkonflikts die Inflation ueber das 2-Prozent-Ziel der Fed treiben, waehrend der Arbeitsmarkt insgesamt stabil bleibt. Maerkte preisen nun eine deutlich hoehere Wahrscheinlichkeit fuer eine Zinserhoehung ein als noch vor einigen Wochen. Der am Freitag erwartete Nonfarm-Payrolls-Bericht gilt als entscheidend dafuer, ob die Fed bei der Juni-Sitzung tatsaechlich die Zinsen anhebt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-05"
     }
   ]
 }
