@@ -1,67 +1,47 @@
 {
-  "datum": "Freitag, 5. Juni 2026",
-  "generiert": "2026-06-05",
+  "datum": "Samstag, 6. Juni 2026",
+  "generiert": "2026-06-06",
   "ki_stories": [
     {
-      "titel": "Brookfield startet 50-Milliarden-Dollar-Fonds fuer KI-Infrastruktur",
-      "text": "Der Vermoegensverwaltungskonzern Brookfield Asset Management hat seinen neuen KI-Infrastrukturfonds vorgestellt und ein Zielvolumen von bis zu 50 Milliarden US-Dollar ausgerufen. Als erste konkrete Wette verpflichtet sich Brookfield, bis zu 5 Milliarden Dollar einzusetzen, um Brennstoffzellen des Unternehmens Bloom Energy in energiehungrigen KI-Rechenzentren zu installieren. Der Fonds soll darueber hinaus in Stromnetze, Transportinfrastruktur und physische Bauten investieren, die die KI-getriebene Wirtschaft stuetzen. Hintergrund ist der enorme Strombedarf moderner KI-Modelle, der bestehende Netze an ihre Kapazitaetsgrenzen bringt und neue Energiequellen direkt vor Ort erfordert. Damit signalisieren grosse institutionelle Infrastrukturinvestoren, dass KI-Infrastruktur als eigenstaendige Anlageklasse auf dem Niveau klassischer Energie- und Verkehrsprojekte angekommen ist.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-03"
+      "titel": "OpenAI rollt neue Dreaming-V3-Gedächtnisarchitektur für ChatGPT aus",
+      "text": "OpenAI hat am 4. Juni 2026 begonnen, die neue Gedächtnisarchitektur Dreaming V3 für ChatGPT-Plus- und Pro-Nutzer in den USA auszurollen. Das System analysiert Gespräche automatisch im Hintergrund und erstellt kontinuierlich aktualisierte Nutzerprofile, ohne dass Nutzer explizit Merke-dir-das-Befehle eingeben müssen. Damit verbessert OpenAI die Langzeit-Personalisierung deutlich: ChatGPT soll Präferenzen, Interessen und Arbeitsgewohnheiten der Nutzer eigenständig erkennen und in künftigen Antworten berücksichtigen. Der Rollout erfolgt zunächst in den USA und soll schrittweise auf weitere Regionen und Abo-Stufen ausgeweitet werden. Mit Dreaming V3 reagiert OpenAI auf den Konkurrenzdruck von Google Gemini und Anthropic Claude, die ebenfalls Langzeitgedächtnisfunktionen anbieten.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-04"
     },
     {
-      "titel": "USA: Welle neuer KI-Gesetze in mehreren Bundesstaaten gleichzeitig",
-      "text": "In den USA beschleunigt sich die KI-Regulierung auf Bundesstaatenebene: Vermont hat Chatbots, die als Therapeuten auftreten, verboten, Illinois leitete fuenf KI-Gesetzentwuerfe ans Parlament weiter, und in Kalifornien wurden 30 KI-Gesetze in parlamentarische Ausschuesse weitergeleitet. Ein bundesweit beachtetes Gesetz zum Schutz von Kindern vor unsicheren KI-Begleit-Apps stand am 4. Juni in Kalifornien auf der Tagesordnung. Die gleichzeitige Regulierungsaktivitaet in mehreren grossen Bundesstaaten verstaerkt den Druck auf KI-Anbieter, die ihre Produkte nun an immer staerker zersplitterten regionalen Rechtslagen ausrichten muessen. Beobachter sehen darin den Beginn einer laengerfristigen Fragmentierung der KI-Compliance-Landschaft innerhalb der USA, aehnlich wie es bei Datenschutzgesetzen nach dem Vorbild von Kaliforniens CCPA geschah.",
-      "quelle": "Transparency Coalition",
+      "titel": "Meta-KI-Chef: Gesundheitsfeatures als Schlüssel-Differenzierungsmerkmal",
+      "text": "Metas KI-Leiter erklärte am 5. Juni 2026 gegenüber Bloomberg, dass zukünftige KI-Modelle des Unternehmens sich vor allem durch Verbrauchergesundheitsfunktionen von der Konkurrenz abheben sollen. Meta sieht medizinische Beratung und Gesundheits-Coaching als strategische Wachstumschance in einem Segment, das Konkurrenten wie OpenAI und Google bislang aus Haftungsgründen weitgehend meiden. Das Unternehmen plant, seine KI-Produkte enger mit Gesundheitsdaten zu verknüpfen, um eine loyale Nutzerbasis aufzubauen. Diese Strategie birgt erhebliche regulatorische Risiken, insbesondere im Hinblick auf Datenschutzgesetze und den Zulassungsrahmen für medizinische Anwendungen. Gelingt der Ansatz, könnte Meta seinen Rückstand gegenüber OpenAI und Google im KI-Wettbewerb aufholen und ein milliardenschweres Gesundheits-KI-Segment erschließen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-05"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Alphabet sammelt 80 Mrd. Dollar ein - Warren Buffetts Berkshire investiert 10 Mrd.",
-      "text": "Google-Mutterkonzern Alphabet hat ein Kapitalerhoeungspaket im Gesamtvolumen von 80 Milliarden US-Dollar angekuendigt, das erstmals ein direktes Investment von Warren Buffetts Berkshire Hathaway in Hoehe von 10 Milliarden Dollar enthaelt. Das Gesamtpaket setzt sich zusammen aus einem 40-Milliarden-At-the-Market-Programm ab dem dritten Quartal 2026, 30 Milliarden Dollar in Aktien und Wandelpapieren sowie dem Berkshire-Deal. Die gesamten Einnahmen sollen in den weiteren KI-Ausbau fliessen. Analysten werten Berkshires Einstieg als historisches Signal: Buffett gilt traditionell als KI-Skeptiker, und sein Schritt zeigt, dass der KI-Investitionszyklus nun vollstaendig vom Risikokapital in den breiten oeffentlichen Aktienmarkt uebergegangen ist. Fuer Alphabet bedeutet das eine erhebliche Verstaerkung seiner Finanzposition im Wettbewerb mit Microsoft und Amazon um KI-Infrastruktur.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-03",
-      "unternehmen": "Alphabet"
-    },
-    {
-      "titel": "Anthropic reicht vertraulich IPO-Unterlagen ein - Bewertung nahe einer Billion Dollar",
-      "text": "Anthropic, der Entwickler des Claude-Sprachmodells, hat vertraulich eine IPO-Anmeldung bei der US-Boersenaufsicht SEC eingereicht und ist damit schneller als Konkurrent OpenAI. Ende Mai hatte das Unternehmen frisches Kapital bei einer Nachgeld-Bewertung von knapp 965 Milliarden Dollar eingesammelt - die hoechste Bewertung eines privaten KI-Startups weltweit. Ein Boersengang wird fuer den Herbst 2026 erwartet. Bloomberg berichtet, Anthropic wolle seinen Erstmovervorteil gegenueber OpenAI nutzen: Wer zuerst boersennotiert ist, sichert sich guenstigere Konditionen und oeffentliche Kapitalbeschaffung fuer weiteres Wachstum. Sollten Anthropic, OpenAI und SpaceX wie geplant alle noch 2026 an die Boerse gehen, koennte laut Goldman Sachs das US-IPO-Erloes-Volumen auf ein Rekordniveau von 160 Milliarden Dollar klettern.",
+      "titel": "Microsoft-KI-Chef Suleyman: Anthropic-Modelle zu teuer – Microsoft baut eigene KI aus",
+      "text": "Microsoft-KI-Chef Mustafa Suleyman erklärte am 4. Juni 2026 gegenüber Bloomberg, Anthropics Sprachmodelle seien 'extrem teuer' und viele Unternehmen suchten dringend nach günstigeren Alternativen. Suleyman betonte, Microsoft zahle derzeit erhebliche Summen für den Einsatz von Anthropic-Modellen und wolle diese Kosten langfristig auf null senken. Auf der Build-Konferenz stellte Microsoft sieben neue hauseigene KI-Modelle vor, darunter MAI-Thinking-1 – ein Denkmodell, das auf wichtigen Coding-Benchmarks mit Anthropics Claude Opus 4.6 gleichziehen soll, aber zu einem deutlich niedrigeren Preis. Die Ankündigung fällt in eine Zeit unmittelbar nach Anthropics vertraulichem IPO-Antrag beim US-Wertpapieraufseher SEC und einer Bewertung von 965 Milliarden US-Dollar. Microsofts Kurs zeigt, dass selbst strategische Technologiepartner von KI-Startups zunehmend eigene Modelle entwickeln, um sich von teuren Drittlizenzen zu befreien.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-04",
-      "unternehmen": "Anthropic"
+      "unternehmen": "Microsoft"
     },
     {
-      "titel": "SpaceX startet IPO-Roadshow - koennte groessten Boersengang der Geschichte werden",
-      "text": "SpaceX hat mit seiner IPO-Roadshow begonnen und peilt bei einer Unternehmensbewertung von rund 1,75 Billionen Dollar Emissionseinnahmen von circa 75 Milliarden US-Dollar an. Gelingt das, wuerde SpaceX Saudi Aramcos Rekordboersengang von 2019 deutlich uebertreffen und zum groessten IPO der Geschichte werden. Bloomberg beschreibt SpaceX als den 'defining IPO' des aktuellen KI-Investitionszyklus, da das Starlink-Satellitennetz eng mit dem Datenhunger der KI-Industrie verknuepft ist. CEO Elon Musk leitet gleichzeitig xAI und das Grok-Sprachmodell, was SpaceX fuer viele Investoren als indirektes KI-Investment positioniert. Der Boersengang ist Teil einer beispiellosen Welle aus SpaceX, Anthropic und OpenAI, die zusammen den US-Kapitalmarkt im zweiten Halbjahr 2026 praegende Impulse geben duerfte.",
+      "titel": "Ex-OpenAI-CTO Murati: ChatGPT-Maker wäre ohne Altmans Rückkehr kollabiert",
+      "text": "Mira Murati, ehemalige Technologiechefin von OpenAI, bestätigte am 5. Juni 2026 gegenüber Bloomberg, dass OpenAI ohne Sam Altmans Rückkehr als CEO im Herbst 2023 höchstwahrscheinlich implodiert wäre. Murati war eine der Schlüsselfiguren, die Altmans Wiedereinsetzung nach seinem kurzzeitigen Rauswurf durch den Aufsichtsrat vorantrieben. Die Aussage ist bemerkenswert, weil Murati OpenAI 2024 verlassen hat, um ihr eigenes KI-Unternehmen Thinking Machines Lab zu gründen, und nun erstmals öffentlich über die Krise spricht. OpenAI bereitet sich auf einen eigenen Börsengang vor und steht im direkten Wettbewerb mit Anthropic, das zuletzt eine Bewertung von 965 Milliarden US-Dollar erreichte und einen IPO-Antrag beim SEC eingereicht hat. Muratis Aussagen verdeutlichen, wie sehr der Erfolg der führenden KI-Unternehmen in ihrer Frühphase von einzelnen Führungspersönlichkeiten abhing.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-04",
-      "unternehmen": "SpaceX"
-    },
-    {
-      "titel": "Broadcom enttaeuscht: KI-Chip-Prognose bleibt unveraendert, Halbleiteraktien fallen",
-      "text": "Nach Vorlage der Quartalszahlen von Broadcom gaben Halbleiteraktien breit nach, weil das Unternehmen seine Umsatzprognose fuer KI-Chips im laufenden Jahr nicht angehoben hat. Aktien von Micron, AMD und Qualcomm zaehlen zu den groessten Verlierern im Tech-Sektor. Investoren hatten auf eine erneute Erhoehung des KI-Ausblicks gehofft, da Broadcom als einer der wichtigsten Lieferanten von massgeschneiderten KI-Chips fuer Google und Meta gilt. Das Ausbleiben einer Prognoseheraufsetzung naehrt Zweifel, ob das Tempo der KI-Chip-Nachfrage im zweiten Halbjahr 2026 tatsaechlich weiter anzieht. Auch NVIDIA-Aktionaere zeigten sich nervoes - obwohl NVIDIA selbst keine negativen Meldungen veroeffentlicht hat, setzt der Sektorabverkauf den gesamten Chipmarkt unter Druck.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-04",
-      "unternehmen": "Broadcom"
+      "datum_artikel": "2026-06-05",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 gibt nach Chip-Abverkauf nach - Rekordniveau unter Druck",
-      "text": "Der S&P 500, der zu Wochenbeginn erstmals die Marke von 7.600 Punkten ueberschritten und ein neues Allzeithoch markiert hatte, geriet durch den breiten Abverkauf bei Halbleiteraktien nach den Broadcom-Zahlen unter Druck. Index-Futures handelten in einer Zone von rund 7.529 bis 7.617 Punkten, waehrend Kaeufer jeden Ruecksetzer verteidigten. Der Tech-Sektor, der den Index in den vergangenen Monaten angetrieben hatte, steht nun vor der Frage, ob der KI-Chip-Nachfragezyklus das erwartete Tempo aufrechterhalten kann. Hinzu kommt Verunsicherung durch den Nahostkonflikt und die damit verbundene Energiepreisinflation, die eine erneute Zinserhoehung der Fed wahrscheinlicher macht. Investoren warten auf den am Freitag erwarteten US-Arbeitsmarktbericht (Nonfarm Payrolls), der die Richtung fuer die Fed-Sitzung im Juni vorgeben wird.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-04"
-    },
-    {
-      "titel": "Gold faellt auf 4.450 Dollar je Unze - Zinserhoehungsangst belastet Edelmetall",
-      "text": "Gold handelte am Donnerstag bei rund 4.450 US-Dollar pro Unze und verlor auf Wochensicht knapp 2 Prozent. Als Hauptbelastungsfaktor gelten wachsende Erwartungen, dass die Fed die Leitzinsen bald erhoehen koennte, um den durch den Nahostkonflikt ausgeloesten Energiepreisschock zu bekaempfen. Nachdem Hoffnungen auf einen Waffenstillstand geschwunden sind und US-amerikanische sowie iranische Kraefte Gegenschlaege ausgefuehrt haben, bleibt die Strasse von Hormuz weitgehend blockiert, was Oelpreise hochhaelt und die Inflation antreibt. Gold leidet in Phasen erwarteter Zinserhoehungen, weil zinstragende Anlagen dann relativ attraktiver werden. Auf mittelfristige Sicht bleibt der Goldpreis weit ueber dem Niveau der Vorjahre, gestuetzt durch anhaltende Zentralbankkaufe und geopolitische Risikoaufschlaege.",
+      "titel": "Starker US-Jobsmarkt löst massiven Ausverkauf an der Wall Street aus",
+      "text": "An der Wall Street kam es am 5. Juni 2026 zu einem scharfen Kurseinbruch, nachdem der US-Arbeitsmarktbericht für Mai mit 172.000 neuen Stellen die Markterwartung von rund 88.000 Jobs fast verdoppelt hatte. Der S&P 500 verlor 2,6 Prozent, der Nasdaq brach um 4,1 Prozent ein und der Dow Jones fiel um 1,3 Prozent. Besonders hart traf es Halbleiterwerte: Im Chip-Sektor wurden laut Analysten rund eine Billion US-Dollar an Marktkapitalisierung vernichtet. Die unerwartet robuste Wirtschaftslage erhöht die Wahrscheinlichkeit einer Fed-Leitzinserhöhung bis Jahresende auf rund 70 Prozent, nachdem Hoffnungen auf baldige Zinssenkungen sich damit zerschlugen. Die Rendite der 10-jährigen US-Staatsanleihe stieg auf 4,54 Prozent – ein Niveau, das Anleihen gegenüber Aktien wieder attraktiver macht und den Tech-Ausverkauf weiter befeuerte.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-04"
+      "datum_artikel": "2026-06-05"
     },
     {
-      "titel": "Cleveland-Fed-Praesidentin Hammack: Zinserhoehung koennte bald notwendig sein",
-      "text": "Cleveland-Fed-Praesidentin Beth Hammack hat oeffentlich gewarnt, dass die US-Notenbank die Leitzinsen erhoehen koennte, falls der Inflationsdruck weiter zunimmt. Zuletzt hatte die Fed ihren Leitzins bei der April-Sitzung unveraendert bei 3,5 bis 3,75 Prozent belassen - bereits die dritte Pause in Folge. Hammacks Aussagen kommen zu einem Zeitpunkt, an dem steigende Energiepreise infolge des Nahostkonflikts die Inflation ueber das 2-Prozent-Ziel der Fed treiben, waehrend der Arbeitsmarkt insgesamt stabil bleibt. Maerkte preisen nun eine deutlich hoehere Wahrscheinlichkeit fuer eine Zinserhoehung ein als noch vor einigen Wochen. Der am Freitag erwartete Nonfarm-Payrolls-Bericht gilt als entscheidend dafuer, ob die Fed bei der Juni-Sitzung tatsaechlich die Zinsen anhebt.",
-      "quelle": "Bloomberg",
+      "titel": "Gold fällt auf Jahrestief 2026 – Fed-Zinssorgen nach starkem Jobsbericht",
+      "text": "Der Goldpreis ist am 5. Juni 2026 unter 4.370 US-Dollar pro Unze gefallen und hat damit alle Gewinne des bisherigen Jahres 2026 abgegeben – das niedrigste Niveau seit Jahresbeginn. Auslöser war der überraschend kräftige US-Arbeitsmarktbericht, der Hoffnungen auf baldige Zinssenkungen der Federal Reserve zunichte machte und stattdessen Spekulationen über eine Zinserhöhung entfachte. Gold, das selbst keine Zinsen abwirft, verliert gegenüber festverzinslichen Anlagen an Attraktivität, sobald höhere Zinsen wahrscheinlicher werden. Auf Wochenbasis verlor das Edelmetall fast 4 Prozent seines Wertes – einer der stärksten Wochenverluste in 2026. Langfristig sehen Analysten wie J.P. Morgan den Goldpreis weiterhin auf dem Weg über 5.000 US-Dollar bis Ende 2026, erwarten aber kurzfristig anhaltenden Druck durch die veränderten Zinserwartungen.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-06-05"
     }
   ]
