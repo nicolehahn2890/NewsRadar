@@ -1,46 +1,64 @@
 {
-  "datum": "Samstag, 6. Juni 2026",
-  "generiert": "2026-06-06",
+  "datum": "Sonntag, 7. Juni 2026",
+  "generiert": "2026-06-07",
   "ki_stories": [
     {
-      "titel": "OpenAI rollt neue Dreaming-V3-Gedächtnisarchitektur für ChatGPT aus",
-      "text": "OpenAI hat am 4. Juni 2026 begonnen, die neue Gedächtnisarchitektur Dreaming V3 für ChatGPT-Plus- und Pro-Nutzer in den USA auszurollen. Das System analysiert Gespräche automatisch im Hintergrund und erstellt kontinuierlich aktualisierte Nutzerprofile, ohne dass Nutzer explizit Merke-dir-das-Befehle eingeben müssen. Damit verbessert OpenAI die Langzeit-Personalisierung deutlich: ChatGPT soll Präferenzen, Interessen und Arbeitsgewohnheiten der Nutzer eigenständig erkennen und in künftigen Antworten berücksichtigen. Der Rollout erfolgt zunächst in den USA und soll schrittweise auf weitere Regionen und Abo-Stufen ausgeweitet werden. Mit Dreaming V3 reagiert OpenAI auf den Konkurrenzdruck von Google Gemini und Anthropic Claude, die ebenfalls Langzeitgedächtnisfunktionen anbieten.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-06-04"
+      "titel": "Trump unterzeichnet Dekret zur Stärkung der US-KI-Führung",
+      "text": "US-Präsident Donald Trump hat am 6. Juni 2026 ein Exekutivdekret mit dem Titel 'Promoting Advanced Artificial Intelligence Innovation and Security' unterzeichnet. Es verpflichtet Bundesbehörden, KI-Systeme für kritische Infrastrukturen einzusetzen und zu testen, und sieht beschleunigte Genehmigungsverfahren für KI-Rechenzentren sowie neue Sicherheitsstandards für staatliche KI-Anwendungen vor. Washington will damit die internationale Führungsposition der USA gegenüber China, das massiv in eigene KI-Kapazitäten investiert, absichern. Das Dekret ermöglicht außerdem neue Public-Private-Partnerships zwischen Regierung und KI-Unternehmen und verpflichtet Behörden, KI zur Stärkung der Cybersicherheit einzusetzen. Es ist Trumps bisher deutlichstes politisches Signal an die KI-Industrie und dürfte den Handlungsrahmen für Modellentwickler wie OpenAI, Anthropic und Google weiter beeinflussen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-06"
     },
     {
-      "titel": "Meta-KI-Chef: Gesundheitsfeatures als Schlüssel-Differenzierungsmerkmal",
-      "text": "Metas KI-Leiter erklärte am 5. Juni 2026 gegenüber Bloomberg, dass zukünftige KI-Modelle des Unternehmens sich vor allem durch Verbrauchergesundheitsfunktionen von der Konkurrenz abheben sollen. Meta sieht medizinische Beratung und Gesundheits-Coaching als strategische Wachstumschance in einem Segment, das Konkurrenten wie OpenAI und Google bislang aus Haftungsgründen weitgehend meiden. Das Unternehmen plant, seine KI-Produkte enger mit Gesundheitsdaten zu verknüpfen, um eine loyale Nutzerbasis aufzubauen. Diese Strategie birgt erhebliche regulatorische Risiken, insbesondere im Hinblick auf Datenschutzgesetze und den Zulassungsrahmen für medizinische Anwendungen. Gelingt der Ansatz, könnte Meta seinen Rückstand gegenüber OpenAI und Google im KI-Wettbewerb aufholen und ein milliardenschweres Gesundheits-KI-Segment erschließen.",
+      "titel": "US-Kongress legt 269-seitigen KI-Gesetzentwurf vor",
+      "text": "Die Abgeordneten Jay Obernolte (Republikaner, Kalifornien) und Lori Trahan (Demokratin, Massachusetts) haben am 6. Juni 2026 den Diskussionsentwurf für den 'Great American Artificial Intelligence Act' vorgestellt. Mit 269 Seiten ist es der bislang umfangreichste biparteiische Versuch, auf US-Bundesebene einen einheitlichen gesetzlichen Rahmen für Künstliche Intelligenz zu schaffen. Der Entwurf enthält Regelungen zu Haftung, Transparenz, Datenschutz und Sicherheitsanforderungen für KI-Systeme. Bisher haben nur einzelne US-Bundesstaaten eigene Gesetze verabschiedet; Colorado tritt am 30. Juni 2026 mit dem ersten umfassenden staatlichen KI-Verbraucherschutzgesetz in Kraft. Ein nationales Gesetz würde erstmals einheitliche Standards für alle 50 Bundesstaaten schaffen und hätte erhebliche Auswirkungen auf die gesamte KI-Industrie.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-05"
+      "datum_artikel": "2026-06-06"
+    },
+    {
+      "titel": "ChatGPT überschreitet die Marke von einer Milliarde monatlicher Nutzer",
+      "text": "OpenAIs ChatGPT hat nach Berichten vom 6. Juni 2026 die symbolisch bedeutsame Grenze von einer Milliarde monatlich aktiver Nutzerinnen und Nutzer überschritten. Das entspricht etwa einem Achtel der Weltbevölkerung und unterstreicht die beispiellose globale Verbreitung von KI-Assistenten. Zum Vergleich: Facebook benötigte rund acht Jahre, um dieselbe Marke zu erreichen; ChatGPT schaffte es in unter drei Jahren seit dem Launch im November 2022. Das Wachstum wird vor allem durch die Expansion in Schwellenländer, erweiterte Sprachunterstützung und den Ausbau von Unternehmenslizenzen getrieben. Für OpenAI bestätigt die Zahl den klaren Vorsprung gegenüber Wettbewerbern wie Google Gemini und Anthropic Claude bei der breiten Nutzeradoption.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-06"
+    },
+    {
+      "titel": "Google Gemini 3.5 Flash ab sofort allgemein verfügbar",
+      "text": "Google hat Gemini 3.5 Flash am 6. Juni 2026 offiziell für alle Entwickler und Unternehmen freigegeben. Das Modell bietet laut Google KI-Fähigkeiten auf Frontier-Niveau bei vierfacher Geschwindigkeit gegenüber ähnlich starken Modellen, zu einem Preis von 1,50 US-Dollar pro Million Input-Token und 9 US-Dollar pro Million Output-Token. Damit positioniert Google Gemini 3.5 Flash als leistungsstarke und kosteneffiziente Alternative zu OpenAI GPT-5 und Anthropic Claude, besonders für latenzempfindliche Unternehmensanwendungen. Das Modell ist über die Google AI API und Google Cloud Vertex AI verfügbar und unterstützt multimodale Eingaben. Die Freigabe fällt in eine Phase intensiver Preiskonkurrenz, in der auch chinesische Anbieter mit deutlich günstigeren Modellen Druck auf westliche KI-Firmen ausüben.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-06"
+    },
+    {
+      "titel": "Chinesisches Qwen 3.7 Max verschärft KI-Preiskonkurrenz massiv",
+      "text": "Alibabas neues KI-Modell Qwen 3.7 Max erzielt auf agentenbasierten Benchmarks vergleichbare Ergebnisse wie Anthropics Claude Opus 4.7, kostet aber nur rund 1,50 US-Dollar pro Million Input-Token und 6 US-Dollar pro Million Output-Token - also etwa halb so viel beim Input und ein Viertel beim Output im Vergleich zu Claude Opus. Gleichzeitig bietet der chinesische Anbieter MiniMax mit seinem Modell M2.7 noch aggressivere Preise von 0,30 US-Dollar (Input) und 1,20 US-Dollar (Output) pro Million Token. Diese Preisoffensive setzt etablierte US-KI-Unternehmen unter Druck, entweder die eigenen Preise zu senken oder die Überlegenheit ihrer Modelle in spezifischen Bereichen klar zu belegen. Analysten sehen darin eine strukturelle Verschiebung im globalen KI-Markt, die langfristig Margen und Geschäftsmodelle aller großen Anbieter verändern könnte. Für Unternehmen, die KI-Dienste nutzen, bedeutet die wachsende Konkurrenz sinkende Kosten und mehr Auswahl.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-06"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Microsoft-KI-Chef Suleyman: Anthropic-Modelle zu teuer – Microsoft baut eigene KI aus",
-      "text": "Microsoft-KI-Chef Mustafa Suleyman erklärte am 4. Juni 2026 gegenüber Bloomberg, Anthropics Sprachmodelle seien 'extrem teuer' und viele Unternehmen suchten dringend nach günstigeren Alternativen. Suleyman betonte, Microsoft zahle derzeit erhebliche Summen für den Einsatz von Anthropic-Modellen und wolle diese Kosten langfristig auf null senken. Auf der Build-Konferenz stellte Microsoft sieben neue hauseigene KI-Modelle vor, darunter MAI-Thinking-1 – ein Denkmodell, das auf wichtigen Coding-Benchmarks mit Anthropics Claude Opus 4.6 gleichziehen soll, aber zu einem deutlich niedrigeren Preis. Die Ankündigung fällt in eine Zeit unmittelbar nach Anthropics vertraulichem IPO-Antrag beim US-Wertpapieraufseher SEC und einer Bewertung von 965 Milliarden US-Dollar. Microsofts Kurs zeigt, dass selbst strategische Technologiepartner von KI-Startups zunehmend eigene Modelle entwickeln, um sich von teuren Drittlizenzen zu befreien.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-04",
-      "unternehmen": "Microsoft"
+      "titel": "OpenAI bringt KI-Sicherheitsmodell in die EU und neue ChatGPT-Features",
+      "text": "OpenAI hat angekündigt, EU-Behörden, Cybersicherheitsfirmen und EU-Institutionen einschließlich des EU-AI-Office Zugang zu GPT-5.5-Cyber zu gewähren, einer auf Sicherheitsanwendungen spezialisierten Variante seines neuesten Flagship-Modells. Die Freigabe erfolgt zunächst als limitierte Vorschau für geprüfte Cybersecurity-Teams und soll Europas digitale Widerstandsfähigkeit stärken. Parallel rollte OpenAI neue ChatGPT-Funktionen aus: 'Dreaming V3' aktualisiert automatisch gespeicherte Nutzer-Erinnerungen über die Zeit, während Codex um rollenspezifische Plugins und eine neue 'Sites'-Funktion zum Teilen interaktiver Web-Apps erweitert wurde. Zudem erhielt das für Life-Sciences-Forschung optimierte Modell GPT-Rosalind ein Update mit stärkeren Fähigkeiten für Wirkstoffforschung, Genomik und Bioinformatik. Diese Schritte unterstreichen OpenAIs Strategie, gezielt spezialisierte Märkte zu bedienen - von Cybersicherheit über Wissenschaft bis zu Unternehmensproduktivität.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-06",
+      "unternehmen": "OpenAI"
     },
     {
-      "titel": "Ex-OpenAI-CTO Murati: ChatGPT-Maker wäre ohne Altmans Rückkehr kollabiert",
-      "text": "Mira Murati, ehemalige Technologiechefin von OpenAI, bestätigte am 5. Juni 2026 gegenüber Bloomberg, dass OpenAI ohne Sam Altmans Rückkehr als CEO im Herbst 2023 höchstwahrscheinlich implodiert wäre. Murati war eine der Schlüsselfiguren, die Altmans Wiedereinsetzung nach seinem kurzzeitigen Rauswurf durch den Aufsichtsrat vorantrieben. Die Aussage ist bemerkenswert, weil Murati OpenAI 2024 verlassen hat, um ihr eigenes KI-Unternehmen Thinking Machines Lab zu gründen, und nun erstmals öffentlich über die Krise spricht. OpenAI bereitet sich auf einen eigenen Börsengang vor und steht im direkten Wettbewerb mit Anthropic, das zuletzt eine Bewertung von 965 Milliarden US-Dollar erreichte und einen IPO-Antrag beim SEC eingereicht hat. Muratis Aussagen verdeutlichen, wie sehr der Erfolg der führenden KI-Unternehmen in ihrer Frühphase von einzelnen Führungspersönlichkeiten abhing.",
+      "titel": "Broadcom verfehlt KI-Chip-Erwartungen und reißt Halbleitersektor mit",
+      "text": "Der Chipkonzern Broadcom (AVGO) hat am 5. Juni 2026 mit seinem schwachen Ausblick auf die KI-Chip-Nachfrage die Erwartungen der Analysten deutlich verfehlt und einen Kurssturz von mehr als 7 Prozent ausgelöst. Der enttäuschende Forecast zog den gesamten Halbleitersektor mit nach unten: Marvell Technology und Micron Technology verloren jeweils rund 16 beziehungsweise 13 Prozent, Intel und AMD gaben je etwa 11 Prozent nach. Branchenbeobachter interpretierten Broadcoms Warnung als Signal, dass der bisherige KI-Investitionsboom bei Rechenzentrum-Chips zumindest vorübergehend an Dynamik verliert. In Kombination mit einem starken US-Arbeitsmarktbericht belastete der Chip-Sektor-Ausverkauf den gesamten Nasdaq-Index, der am selben Tag 4,2 Prozent verlor. Für Investoren im Bereich KI-Infrastruktur stellt sich nun die Frage, ob Broadcoms Warnzeichen ein unternehmensspezifisches Phänomen oder ein frühes Signal einer breiteren Abschwächung des KI-Hardware-Zyklus ist.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-05",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Broadcom"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Starker US-Jobsmarkt löst massiven Ausverkauf an der Wall Street aus",
-      "text": "An der Wall Street kam es am 5. Juni 2026 zu einem scharfen Kurseinbruch, nachdem der US-Arbeitsmarktbericht für Mai mit 172.000 neuen Stellen die Markterwartung von rund 88.000 Jobs fast verdoppelt hatte. Der S&P 500 verlor 2,6 Prozent, der Nasdaq brach um 4,1 Prozent ein und der Dow Jones fiel um 1,3 Prozent. Besonders hart traf es Halbleiterwerte: Im Chip-Sektor wurden laut Analysten rund eine Billion US-Dollar an Marktkapitalisierung vernichtet. Die unerwartet robuste Wirtschaftslage erhöht die Wahrscheinlichkeit einer Fed-Leitzinserhöhung bis Jahresende auf rund 70 Prozent, nachdem Hoffnungen auf baldige Zinssenkungen sich damit zerschlugen. Die Rendite der 10-jährigen US-Staatsanleihe stieg auf 4,54 Prozent – ein Niveau, das Anleihen gegenüber Aktien wieder attraktiver macht und den Tech-Ausverkauf weiter befeuerte.",
-      "quelle": "Reuters",
+      "titel": "S&P 500 -2,6% und Nasdaq -4,2%: Schwerster Börsentag seit April 2025",
+      "text": "Der S&P 500 verlor am Freitag, 5. Juni 2026, rund 2,6 Prozent und schloss bei 7.383 Punkten, während der Nasdaq-Index mit minus 4,2 Prozent den schwersten Tagesverlust seit April 2025 verzeichnete; der Dow Jones sank um 1,4 Prozent auf 50.867 Punkte. Hauptauslöser war der US-Arbeitsmarktbericht für Mai mit 172.000 neu geschaffenen Stellen - mehr als doppelt so viele wie die prognostizierten 85.000. Die starken Jobsdaten ließen Zinserhöhungserwartungen für die Federal Reserve (Fed) sprunghaft ansteigen: Märkte preisen nun eine Wahrscheinlichkeit von rund 42 Prozent für eine Fed-Zinserhöhung im Dezember 2026 ein, und die Rendite zehnjähriger US-Staatsanleihen stieg über 4,5 Prozent. Zusätzlich belastete die enttäuschende Guidance des Chipkonzerns Broadcom den Technologiesektor, der den breiteren Markt mit nach unten zog. Für den S&P 500, der für FTSE All World-Investoren besonders relevant ist, bedeutet der Wochenverlust von mehr als 2 Prozent eine merkliche Eintrübung der Jahresbilanz.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-05"
     },
     {
-      "titel": "Gold fällt auf Jahrestief 2026 – Fed-Zinssorgen nach starkem Jobsbericht",
-      "text": "Der Goldpreis ist am 5. Juni 2026 unter 4.370 US-Dollar pro Unze gefallen und hat damit alle Gewinne des bisherigen Jahres 2026 abgegeben – das niedrigste Niveau seit Jahresbeginn. Auslöser war der überraschend kräftige US-Arbeitsmarktbericht, der Hoffnungen auf baldige Zinssenkungen der Federal Reserve zunichte machte und stattdessen Spekulationen über eine Zinserhöhung entfachte. Gold, das selbst keine Zinsen abwirft, verliert gegenüber festverzinslichen Anlagen an Attraktivität, sobald höhere Zinsen wahrscheinlicher werden. Auf Wochenbasis verlor das Edelmetall fast 4 Prozent seines Wertes – einer der stärksten Wochenverluste in 2026. Langfristig sehen Analysten wie J.P. Morgan den Goldpreis weiterhin auf dem Weg über 5.000 US-Dollar bis Ende 2026, erwarten aber kurzfristig anhaltenden Druck durch die veränderten Zinserwartungen.",
+      "titel": "Gold fällt auf Jahrestief 2026: Starke US-Jobsdaten tilgen alle Jahresgewinne",
+      "text": "Der Goldpreis ist am 5. Juni 2026 auf rund 4.370 US-Dollar pro Unze gefallen und hat damit den tiefsten Stand des Jahres 2026 markiert - und alle Jahresgewinne vollständig abgegeben. Der Tagesverlust lag bei rund 3,2 Prozent, was einem Wochenminus von knapp 4 Prozent entspricht. Auslöser war derselbe starke US-Arbeitsmarktbericht, der auch den Aktienmarkt belastete: Mit 172.000 neu geschaffenen Stellen im Mai lagen die Zahlen weit über den erwarteten 85.000. Steigende Zinserwartungen wirken traditionell negativ auf Gold, weil das Edelmetall keine Verzinsung bietet und im Vergleich zu Anleihen unattraktiver wird. Analysten von Bullion Vault wiesen darauf hin, dass Märkte nun einen Fed-Zinsschritt im Dezember als reale Möglichkeit einpreisen, was den säkularen Goldaufwärtstrend kurzfristig bremsen dürfte.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-05"
     }
