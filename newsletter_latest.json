@@ -1,34 +1,33 @@
 {
-  "datum": "Montag, 8. Juni 2026",
-  "generiert": "2026-06-08",
+  "datum": "Dienstag, 9. Juni 2026",
+  "generiert": "2026-06-09",
   "ki_stories": [
     {
-      "titel": "Apple WWDC 2026: Siri wird komplett neu gebaut - Google Gemini als KI-Kern",
-      "text": "Apple hat heute mit seiner Entwicklerkonferenz WWDC 2026 den bislang größten Umbau von Siri angekündigt. Als neues KI-Herzstück dient ein von Google lizenziertes Gemini-Modell mit 1,2 Billionen Parametern, für das Apple laut Berichten rund 1 Milliarde US-Dollar jährlich zahlen soll. Mit einem neuen 'Extensions'-System können Nutzer künftig selbst wählen, ob ihre KI-Anfragen über ChatGPT, Google Gemini oder Anthropics Claude abgewickelt werden - Apple öffnet sein Ökosystem erstmals für konkurrierende KI-Modelle. iOS 27 bringt dazu ein neues 'Liquid Glass'-Design und KI-gestützte Fotobearbeitungswerkzeuge. Es ist das letzte WWDC unter CEO Tim Cook, der am 1. September 2026 in den Ruhestand tritt und von Apple-Hardware-Chef John Ternus abgelöst wird. Der Schritt belegt eindrucksvoll: Selbst Apple verlässt sich lieber auf externe Frontier-Modelle als auf eigene KI-Entwicklungen und gibt damit Google, OpenAI und Anthropic Zugang zu Hunderten Millionen Geräten.",
-      "quelle": "TechTimes",
-      "datum_artikel": "2026-06-06"
+      "titel": "Apple WWDC 2026: iOS 27 mit neuer KI-Siri, Claude und Gemini als Erweiterungen",
+      "text": "Apple hat am 8. Juni auf der WWDC 2026 in San Jose iOS 27 mit dem bislang größten KI-Umbau in der iPhone-Geschichte präsentiert. Die neue Plattform 'Apple Intelligence' basiert auf Googles Gemini-Technologie und erhält ein 'Extensions'-System, das es Drittanbietern wie Anthropics Claude oder Googles Gemini ermöglicht, Siri-Anfragen direkt zu beantworten. Nutzer sollen künftig einstellen können, welche KI-Stimme für welche Art von Anfragen zuständig ist. Erste Markteinschätzungen stufen Apple Intelligence als vergleichbar mit Googles Gemini auf Android ein, was Analysten eher als Aufholjagd denn als technischen Vorsprung werten. Zusätzlich kündigte Apple das neue Mac-Betriebssystem 'macOS Golden Gate' an. Trotz der Ankündigungen fiel die Apple-Aktie (AAPL) am Tag der WWDC um 1,89 Prozent auf 301,54 US-Dollar, ein typisches 'Sell the News'-Muster.",
+      "quelle": "NPR",
+      "datum_artikel": "2026-06-08"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "US-Militär rollt Elon Musks Grok in 3 Millionen Dienststellen aus",
-      "text": "Das US-Verteidigungsministerium (Department of War) hat Grok-Modelle von Elon Musks KI-Unternehmen xAI in seine interne Plattform GenAI.mil integriert, berichteten GovConWire und Fox News am 7. Juni 2026. Rund 3 Millionen Militär- und Zivilbedienstete erhalten damit auf dem Sicherheitslevel DOW IL5 Zugang zu xAI-Technologie für klassifizierte Workflows. Das DOD-Chief-Digital-and-AI-Office vergab darüber hinaus Verträge mit je 200 Millionen US-Dollar Deckelungswert an xAI und drei weitere Frontier-KI-Unternehmen für agentische KI-Systeme in militärischen Missionsbereichen. Für xAI bedeutet das einen erheblichen Umsatzsprung und stärkt Grok 4 als Behördenplattform erheblich. Der Deal ist politisch brisant: Musk war zeitgleich als Regierungsberater im DOGE-Umfeld tätig, was in Washington Fragen über Interessenkonflikte aufgeworfen hat.",
-      "quelle": "Fox News",
-      "datum_artikel": "2026-06-07",
-      "unternehmen": "xAI"
-    },
-    {
-      "titel": "OpenAI finalisiert Börsenpapiere - Rennen mit Anthropic um Wall-Street-Erstnotiz",
-      "text": "OpenAI hat laut Berichten vom 7. Juni die Vorbereitungen für seinen Börsengang konkretisiert und arbeitet an der Fertigstellung der SEC-Unterlagen, mit dem Ziel, im September 2026 bei einer Bewertung von über 1 Billion US-Dollar an die Börse zu gehen. Goldman Sachs und Morgan Stanley sollen als Konsortialführer fungieren. OpenAI befindet sich dabei in einem Rennen mit Rivale Anthropic, der am 1. Juni einen vertraulichen S-1-Entwurf bei der US-Börsenaufsicht eingereicht hatte - nach einer Series-H-Runde, die Anthropic mit rund 965 Milliarden US-Dollar bewertete. Beide Börsengänge zusammen würden den KI-Sektor mit einem kombinierten Börsenwert nahe 2 Billionen US-Dollar erstmals breit an öffentliche Investoren bringen - ein historisches Ereignis für die Technologiebranche.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-06-07",
-      "unternehmen": "OpenAI"
+      "titel": "Google/Alphabet sichert sich mit Apple-Deal Zugang zu über einer Milliarde iPhones",
+      "text": "Googles Gemini-Modell bildet laut Bestätigung vom 8. Juni 2026 die technische Grundlage für Apples neue 'Apple Intelligence'-Plattform in iOS 27. Das bedeutet für Alphabet einen strategischen Großerfolg: Apple betreibt über eine Milliarde aktiver Geräte weltweit, und die Partnerschaft bringt Gemini tief in das bisher streng kontrollierte Apple-Ökosystem. Finanzielle Details der Vereinbarung wurden nicht bekanntgegeben. Analysten werten den Deal als bedeutenden Vorteil für Google gegenüber Microsoft und OpenAI, die keine vergleichbare Integration in eine mobile Massenplattform vorweisen können. Die Partnerschaft ergänzt den bestehenden Google-Apple-Vertrag über die Standard-Suchmaschine auf iPhones, der aktuell Gegenstand eines US-Kartellverfahrens ist.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-08",
+      "unternehmen": "Alphabet"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Fed-Meeting am 16. Juni im Fokus: Zinspause trotz heißem Arbeitsmarkt erwartet",
-      "text": "Die Finanzmärkte richten ihren Blick zu Wochenbeginn (8. Juni) auf das nächste Fed-Meeting am 16. und 17. Juni. Trotz des stark ausgefallenen US-Arbeitsmarktberichts für Mai (172.000 neue Stellen statt prognostizierten 85.000) und einer April-Inflation von 3,8 Prozent - dem höchsten Stand seit Mai 2023 - preisen die Märkte praktisch keine Zinsänderung für das Juni-Meeting ein. Der effektive Leitzins liegt bei 3,62 Prozent (Zielkorridor 3,50-3,75 Prozent). Entscheidend wird sein, wie Fed-Chef Jerome Powell in seiner Pressekonferenz den weiteren Kurs signalisiert: Angesichts der markanten Kehrtwende zu Jahresbeginn - damals wurden zwei Zinssenkungen erwartet, nun preisen Märkte eher eine Erhöhung bis Jahresende ein - dürfte jedes Signal zu Inflation und Wachstum stark auf den S&P 500 und den Goldpreis wirken.",
+      "titel": "Gold fällt auf Zweimonatstief: US-Jobsboom treibt Zinserhöhungserwartungen auf 72 Prozent",
+      "text": "Der Goldpreis sank am 8. Juni 2026 auf rund 4.314 US-Dollar je Unze, den tiefsten Stand seit über zwei Monaten, und hat damit alle Jahresgewinne 2026 abgegeben. Auslöser war der US-Arbeitsmarktbericht für Mai: Mit 172.000 neuen Stellen außerhalb der Landwirtschaft (Nonfarm Payrolls) lag der Wert doppelt so hoch wie der Konsens von 85.000 erwarteten Stellen. Die CME-FedWatch-Wahrscheinlichkeit für eine Fed-Zinserhöhung im Dezember stieg daraufhin auf 72 Prozent, nach rund 45 Prozent in der Vorwoche. Steigende US-Anleiherenditen und ein festerer Dollar erhöhten die Opportunitätskosten für das zinslose Edelmetall. Nachlassende Geopolitikängste nach Entspannungssignalen zwischen Israel und Iran reduzierten zudem die Nachfrage nach Gold als sicheren Hafen. Nächster großer Test sind die US-CPI-Daten für Mai am Mittwoch, 10. Juni: Der Markt rechnet mit einem Anstieg der Jahresinflation auf 4,2 Prozent (April-Wert: 3,8 Prozent).",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-08"
+    },
+    {
+      "titel": "S&P 500 leicht im Plus: Markt trotzt Zinsdruck, CPI am Mittwoch entscheidend",
+      "text": "Der S&P 500 schloss am 8. Juni 2026 mit einem Plus von 0,30 Prozent bei 7.405,73 Punkten und behauptete sich damit trotz des überraschend starken US-Arbeitsmarktberichts für Mai. Stabile Unternehmensgewinne und robuste Fundamentaldaten stützten den breiteren Markt, während Tech-Aktien gemischt tendierten: Apple verlor nach dem WWDC-Event 1,89 Prozent. Die Wahrscheinlichkeit einer Fed-Zinserhöhung noch 2026 ist auf über 40 Prozent gestiegen, was die Investitionsstimmung zunehmend belastet. Besonders im Fokus steht nun der US-CPI-Bericht für Mai am Mittwoch, 10. Juni: Sollte die Jahresrate die erwarteten 4,2 Prozent übertreffen, könnte eine aggressive Neubewertung der Geldpolitik die Märkte unter stärkeren Druck bringen.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-08"
     }
