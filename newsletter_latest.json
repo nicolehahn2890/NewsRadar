@@ -1,35 +1,47 @@
 {
-  "datum": "Dienstag, 9. Juni 2026",
-  "generiert": "2026-06-09",
+  "datum": "Mittwoch, 10. Juni 2026",
+  "generiert": "2026-06-10",
   "ki_stories": [
     {
-      "titel": "Apple WWDC 2026: iOS 27 mit neuer KI-Siri, Claude und Gemini als Erweiterungen",
-      "text": "Apple hat am 8. Juni auf der WWDC 2026 in San Jose iOS 27 mit dem bislang größten KI-Umbau in der iPhone-Geschichte präsentiert. Die neue Plattform 'Apple Intelligence' basiert auf Googles Gemini-Technologie und erhält ein 'Extensions'-System, das es Drittanbietern wie Anthropics Claude oder Googles Gemini ermöglicht, Siri-Anfragen direkt zu beantworten. Nutzer sollen künftig einstellen können, welche KI-Stimme für welche Art von Anfragen zuständig ist. Erste Markteinschätzungen stufen Apple Intelligence als vergleichbar mit Googles Gemini auf Android ein, was Analysten eher als Aufholjagd denn als technischen Vorsprung werten. Zusätzlich kündigte Apple das neue Mac-Betriebssystem 'macOS Golden Gate' an. Trotz der Ankündigungen fiel die Apple-Aktie (AAPL) am Tag der WWDC um 1,89 Prozent auf 301,54 US-Dollar, ein typisches 'Sell the News'-Muster.",
-      "quelle": "NPR",
+      "titel": "Apple präsentiert auf WWDC 2026 lang erwartetes KI-Update für Siri",
+      "text": "Apple hat auf seiner Entwicklerkonferenz WWDC 2026 am 8. Juni ein umfassendes KI-Update für den Sprachassistenten Siri sowie tiefgreifende KI-Integrationen in iOS und macOS vorgestellt. Siri erhält deutlich verbesserte Sprachverarbeitungs- und Kontextverständnisfähigkeiten, mit denen Apple nach jahrelangem Rückstand gegenüber ChatGPT und Google Assistant aufholen will. Die neuen Funktionen sollen mit den nächsten Betriebssystem-Versionen auf Hunderte Millionen iPhones, iPads und Macs ausgerollt werden. In der EU verzögert Apple die neuen Siri-KI-Funktionen vorerst weiterhin, da EU-Regulierungsbehörden bislang keine Einigung mit Apple erzielt haben. Mit einer Basis von weit über einer Milliarde aktiver Apple-Geräte weltweit könnte Apples KI-Offensive den Wettbewerb im Assistenten-Markt erheblich verschieben.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-08"
+    },
+    {
+      "titel": "Google veröffentlicht Gemini 3.5 Flash allgemein verfügbar",
+      "text": "Google hat sein neues Sprachmodell Gemini 3.5 Flash ab sofort für alle Nutzer und Entwickler freigeschaltet. Das Modell bietet nach Unternehmensangaben Frontier-Niveau-Intelligenz bei vierfacher Geschwindigkeit vergleichbarer Modelle und ist zu Preisen von 1,50 Dollar bzw. 9 Dollar pro Million Token erhältlich. Gemini 3.5 Flash unterstützt ein Kontextfenster von einer Million Token und erzielt 76,2 Prozent auf dem Terminal-Bench-2.1-Benchmark - damit übertrifft es seinen Vorgänger Gemini 3.1 Pro bei Coding- und Agenten-Aufgaben deutlich. Das Modell steht in direkter Konkurrenz zu OpenAIs und Anthropics neueren Versionen im wachsenden Markt für KI-Agenten. Gemini 3.5 Flash ist das erste allgemein verfügbare Modell aus der neuen Generation, die Google im Rahmen der 'agentischen Gemini-Ära' auf Google I/O im Mai 2026 angekündigt hatte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-09"
+    },
+    {
+      "titel": "OpenAI verbessert ChatGPT-Gedächtnis und startet Wirtschaftsforschungsplattform",
+      "text": "OpenAI hat das Gedächtnissystem von ChatGPT grundlegend überarbeitet: Das aktualisierte System trägt Nutzerpräferenzen und Gesprächskontext zuverlässiger weiter und bleibt über lange Zeiträume aktuell. Neu ist eine übersichtliche Zusammenfassungsseite, auf der Nutzer ihre gespeicherten Erinnerungen einsehen und verwalten können; das Update wird zunächst an zahlende Plus- und Pro-Abonnenten in den USA ausgerollt. Parallel dazu gründete OpenAI den 'OpenAI Economic Research Exchange', eine Plattform, die externe Forscher einlädt, mit OpenAI-Daten zu untersuchen, wie KI Wirtschaft, Arbeitswelt und Unternehmen verändert. Ausgewählte Forscher können dabei strukturierte, datenschutzkonforme Kooperationen mit OpenAI vorschlagen. Beide Schritte zeigen, dass OpenAI kurz vor dem geplanten Börsengang sowohl das Nutzererlebnis als auch seine gesellschaftliche Legitimation stärken will.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-09"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Google/Alphabet sichert sich mit Apple-Deal Zugang zu über einer Milliarde iPhones",
-      "text": "Googles Gemini-Modell bildet laut Bestätigung vom 8. Juni 2026 die technische Grundlage für Apples neue 'Apple Intelligence'-Plattform in iOS 27. Das bedeutet für Alphabet einen strategischen Großerfolg: Apple betreibt über eine Milliarde aktiver Geräte weltweit, und die Partnerschaft bringt Gemini tief in das bisher streng kontrollierte Apple-Ökosystem. Finanzielle Details der Vereinbarung wurden nicht bekanntgegeben. Analysten werten den Deal als bedeutenden Vorteil für Google gegenüber Microsoft und OpenAI, die keine vergleichbare Integration in eine mobile Massenplattform vorweisen können. Die Partnerschaft ergänzt den bestehenden Google-Apple-Vertrag über die Standard-Suchmaschine auf iPhones, der aktuell Gegenstand eines US-Kartellverfahrens ist.",
-      "quelle": "CNBC",
+      "titel": "OpenAI reicht Börsengangsantrag ein - Bewertung bis über 2 Billionen Dollar angepeilt",
+      "text": "OpenAI hat am 8. Juni vertraulich einen IPO-Antrag bei der US-Börsenaufsicht eingereicht und ist damit der dritte große KI-Entwickler, der den Weg an die öffentlichen Kapitalmärkte anpeilt, berichtet Bloomberg. Das Unternehmen strebt laut Bloomberg und Reuters eine Bewertung von 1,75 bis über 2 Billionen Dollar an und plant, dabei bis zu 75 Milliarden Dollar einzusammeln. Als Berater wurden Goldman Sachs und Morgan Stanley mandatiert; ein Börsenstart ist frühestens für September 2026 geplant, vorbehaltlich behördlicher Prüfung und Marktlage. OpenAI wurde zuletzt im März 2026 mit 852 Milliarden Dollar bewertet und zählt rund 900 Millionen wöchentlich aktive Nutzer sowie 50 Millionen zahlende Abonnenten bei einem Jahresumsatz von über 20 Milliarden Dollar. Zusammen mit dem IPO-Vorhaben von Anthropic beziffert Bloomberg den Gesamtwert der KI-IPO-Pipeline nun auf 3,6 Billionen Dollar.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-08",
-      "unternehmen": "Alphabet"
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Gold fällt auf Zweimonatstief: US-Jobsboom treibt Zinserhöhungserwartungen auf 72 Prozent",
-      "text": "Der Goldpreis sank am 8. Juni 2026 auf rund 4.314 US-Dollar je Unze, den tiefsten Stand seit über zwei Monaten, und hat damit alle Jahresgewinne 2026 abgegeben. Auslöser war der US-Arbeitsmarktbericht für Mai: Mit 172.000 neuen Stellen außerhalb der Landwirtschaft (Nonfarm Payrolls) lag der Wert doppelt so hoch wie der Konsens von 85.000 erwarteten Stellen. Die CME-FedWatch-Wahrscheinlichkeit für eine Fed-Zinserhöhung im Dezember stieg daraufhin auf 72 Prozent, nach rund 45 Prozent in der Vorwoche. Steigende US-Anleiherenditen und ein festerer Dollar erhöhten die Opportunitätskosten für das zinslose Edelmetall. Nachlassende Geopolitikängste nach Entspannungssignalen zwischen Israel und Iran reduzierten zudem die Nachfrage nach Gold als sicheren Hafen. Nächster großer Test sind die US-CPI-Daten für Mai am Mittwoch, 10. Juni: Der Markt rechnet mit einem Anstieg der Jahresinflation auf 4,2 Prozent (April-Wert: 3,8 Prozent).",
+      "titel": "Tech-Aktien fallen erneut - Märkte warten auf US-Inflationsdaten",
+      "text": "S&P 500 und Nasdaq verzeichneten am Dienstag (9. Juni) erneut Verluste von rund 1 Prozent bzw. 2 Prozent, da der Abverkauf im Tech- und KI-Sektor anhielt. Vorausgegangen war am Freitag (5. Juni) der schlimmste Handelstag des Jahres mit einem S&P-Minus von 2,64 Prozent und einem Nasdaq-Einbruch von 4,18 Prozent - ausgelöst durch starke US-Jobdaten, die Fed-Zinserhöhungserwartungen stark anheizten. Der US-Arbeitsmarktbericht für Mai wies 172.000 neue Stellen aus, deutlich über den Erwartungen; Händler preisen nun eine rund 70-prozentige Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember ein, gegenüber 45 Prozent eine Woche zuvor. Am heutigen Mittwoch werden die US-Verbraucherpreisdaten (CPI) für Mai veröffentlicht; Analysten erwarten einen Anstieg der Inflationsrate auf 4,2 Prozent - das wäre der höchste Wert seit fast drei Jahren. Je stärker der CPI-Wert ausfällt, desto mehr Druck dürfte auf KI- und Tech-Wachstumstiteln im S&P 500 entstehen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-08"
+      "datum_artikel": "2026-06-09"
     },
     {
-      "titel": "S&P 500 leicht im Plus: Markt trotzt Zinsdruck, CPI am Mittwoch entscheidend",
-      "text": "Der S&P 500 schloss am 8. Juni 2026 mit einem Plus von 0,30 Prozent bei 7.405,73 Punkten und behauptete sich damit trotz des überraschend starken US-Arbeitsmarktberichts für Mai. Stabile Unternehmensgewinne und robuste Fundamentaldaten stützten den breiteren Markt, während Tech-Aktien gemischt tendierten: Apple verlor nach dem WWDC-Event 1,89 Prozent. Die Wahrscheinlichkeit einer Fed-Zinserhöhung noch 2026 ist auf über 40 Prozent gestiegen, was die Investitionsstimmung zunehmend belastet. Besonders im Fokus steht nun der US-CPI-Bericht für Mai am Mittwoch, 10. Juni: Sollte die Jahresrate die erwarteten 4,2 Prozent übertreffen, könnte eine aggressive Neubewertung der Geldpolitik die Märkte unter stärkeren Druck bringen.",
+      "titel": "Gold fällt auf 4.300 Dollar - Steigende Zinserwartungen und CPI-Daten belasten",
+      "text": "Der Goldpreis fiel am Dienstag (9. Juni) auf rund 4.300 Dollar je Unze und kehrte damit auf das Niveau von Dezember 2025 zurück. Auslöser ist der starke Anstieg der US-Zinserhöhungserwartungen: Nach den starken Jobdaten preisen Händler nun eine rund 70-prozentige Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember ein, was die Opportunitätskosten für das zinslose Edelmetall deutlich erhöht. Die Einigung zwischen Iran und Israel auf eine Feuerpause - nach Vermittlung durch US-Präsident Trump - drückte zudem die Ölpreise und reduzierte den geopolitischen Risikoaufschlag, der Gold zuletzt gestützt hatte. Gold hatte im Jahresverlauf 2026 zeitweise über 4.900 Dollar notiert und war im Verhältnis zu US-Staatsanleihen auf den höchsten Stand seit 1983 gestiegen. Entscheidend für die weitere Richtung sind die CPI-Daten vom heutigen Mittwoch: Ein hoher Inflationswert könnte weitere Zinserhöhungserwartungen stärken und Gold weiter unter Druck setzen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-08"
+      "datum_artikel": "2026-06-09"
     }
   ]
 }
