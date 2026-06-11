@@ -1,47 +1,54 @@
 {
-  "datum": "Mittwoch, 10. Juni 2026",
-  "generiert": "2026-06-10",
+  "datum": "Donnerstag, 11. Juni 2026",
+  "generiert": "2026-06-11",
   "ki_stories": [
     {
-      "titel": "Apple präsentiert auf WWDC 2026 lang erwartetes KI-Update für Siri",
-      "text": "Apple hat auf seiner Entwicklerkonferenz WWDC 2026 am 8. Juni ein umfassendes KI-Update für den Sprachassistenten Siri sowie tiefgreifende KI-Integrationen in iOS und macOS vorgestellt. Siri erhält deutlich verbesserte Sprachverarbeitungs- und Kontextverständnisfähigkeiten, mit denen Apple nach jahrelangem Rückstand gegenüber ChatGPT und Google Assistant aufholen will. Die neuen Funktionen sollen mit den nächsten Betriebssystem-Versionen auf Hunderte Millionen iPhones, iPads und Macs ausgerollt werden. In der EU verzögert Apple die neuen Siri-KI-Funktionen vorerst weiterhin, da EU-Regulierungsbehörden bislang keine Einigung mit Apple erzielt haben. Mit einer Basis von weit über einer Milliarde aktiver Apple-Geräte weltweit könnte Apples KI-Offensive den Wettbewerb im Assistenten-Markt erheblich verschieben.",
+      "titel": "Anthropic bringt Claude Fable 5 und Mythos 5 auf AWS – neue Preistruktur",
+      "text": "Anthropic hat am 10. Juni seine neuesten KI-Modelle Claude Fable 5 und Mythos 5 auf Amazon Web Services (AWS) veröffentlicht und dabei eine neue Preistruktur bekanntgegeben: 10 Dollar pro einer Million Input-Token und 50 Dollar pro einer Million Output-Token. Fable 5 wurde als Hochleistungsmodell für kreative und anspruchsvolle Aufgaben konzipiert; Mythos 5 ergänzt das Portfolio als eigenständige Variante für spezifische Einsatzbereiche. Die AWS-Integration erlaubt Unternehmenskunden, die neuen Modelle direkt in die Amazon-Cloud-Infrastruktur einzubinden, ohne eigene Server betreiben zu müssen. Die Markteinführung kommt kurz nach Anthropics vertraulicher IPO-Anmeldung bei der SEC – das Unternehmen wurde zuletzt nach einer Series-H-Runde mit knapp 965 Milliarden Dollar bewertet. Im boomenden Markt für KI-Coding-Assistenten hat Claude Code bereits eine Führungsposition erarbeitet; mit den neuen Modellen will Anthropic seine Stellung im Premium-Segment weiter ausbauen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-08"
+      "datum_artikel": "2026-06-10"
     },
     {
-      "titel": "Google veröffentlicht Gemini 3.5 Flash allgemein verfügbar",
-      "text": "Google hat sein neues Sprachmodell Gemini 3.5 Flash ab sofort für alle Nutzer und Entwickler freigeschaltet. Das Modell bietet nach Unternehmensangaben Frontier-Niveau-Intelligenz bei vierfacher Geschwindigkeit vergleichbarer Modelle und ist zu Preisen von 1,50 Dollar bzw. 9 Dollar pro Million Token erhältlich. Gemini 3.5 Flash unterstützt ein Kontextfenster von einer Million Token und erzielt 76,2 Prozent auf dem Terminal-Bench-2.1-Benchmark - damit übertrifft es seinen Vorgänger Gemini 3.1 Pro bei Coding- und Agenten-Aufgaben deutlich. Das Modell steht in direkter Konkurrenz zu OpenAIs und Anthropics neueren Versionen im wachsenden Markt für KI-Agenten. Gemini 3.5 Flash ist das erste allgemein verfügbare Modell aus der neuen Generation, die Google im Rahmen der 'agentischen Gemini-Ära' auf Google I/O im Mai 2026 angekündigt hatte.",
+      "titel": "China kündigt 295-Milliarden-Dollar-Staatsfonds für KI-Infrastruktur an",
+      "text": "China hat am 9. Juni 2026 einen staatlich gesteuerten Investitionsplan in Höhe von 295 Milliarden Dollar für den landesweiten Aufbau von KI-Infrastruktur angekündigt. Das Programm sieht den massiven Ausbau von KI-Rechenzentren, die Förderung heimischer Halbleiterproduktion sowie die Unterstützung von Modell-Training auf nationalem Niveau vor. China will damit den technologischen Rückstand gegenüber den USA im Bereich KI-Infrastruktur verringern und die eigene KI-Industrie dauerhaft stärken. Der Fonds zählt zu den bislang größten staatlichen KI-Investitionsprogrammen weltweit und unterstreicht Pekings Entschlossenheit, im globalen KI-Rennen an vorderster Front mitzuspielen. Für westliche Chip- und Infrastrukturunternehmen könnte das Programm mittelfristig den Wettbewerbsdruck erhöhen, da China damit seine heimische Lieferkette unabhängiger von ausländischen Zulieferern machen will.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-09"
     },
     {
-      "titel": "OpenAI verbessert ChatGPT-Gedächtnis und startet Wirtschaftsforschungsplattform",
-      "text": "OpenAI hat das Gedächtnissystem von ChatGPT grundlegend überarbeitet: Das aktualisierte System trägt Nutzerpräferenzen und Gesprächskontext zuverlässiger weiter und bleibt über lange Zeiträume aktuell. Neu ist eine übersichtliche Zusammenfassungsseite, auf der Nutzer ihre gespeicherten Erinnerungen einsehen und verwalten können; das Update wird zunächst an zahlende Plus- und Pro-Abonnenten in den USA ausgerollt. Parallel dazu gründete OpenAI den 'OpenAI Economic Research Exchange', eine Plattform, die externe Forscher einlädt, mit OpenAI-Daten zu untersuchen, wie KI Wirtschaft, Arbeitswelt und Unternehmen verändert. Ausgewählte Forscher können dabei strukturierte, datenschutzkonforme Kooperationen mit OpenAI vorschlagen. Beide Schritte zeigen, dass OpenAI kurz vor dem geplanten Börsengang sowohl das Nutzererlebnis als auch seine gesellschaftliche Legitimation stärken will.",
-      "quelle": "Reuters",
+      "titel": "Robotik-Startup Standard Bots sammelt 200 Millionen Dollar für US-Fertigung",
+      "text": "Das US-amerikanische Robotik-Startup Standard Bots hat am 9. Juni eine Finanzierungsrunde über 200 Millionen Dollar abgeschlossen, um seine KI-gesteuerten Industrieroboter künftig vollständig in den USA zu fertigen. Standard Bots entwickelt Roboterarme, die durch KI in der Lage sind, sich selbstständig an neue Aufgaben anzupassen, ohne manuelle Neuprogrammierung zu benötigen. Mit den frischen Mitteln soll eine eigene US-Produktionsstätte aufgebaut werden – ein Schritt, der auch auf die wachsenden politischen Anreize für heimische Fertigung unter der Trump-Administration reagiert. Das Unternehmen positioniert sich in einem Markt, der durch die KI-Welle stark wächst: Industriebetriebe suchen zunehmend nach flexiblen Automatisierungslösungen, die sich rasch an veränderte Produktionsbedingungen anpassen können. Standard Bots tritt damit in direkten Wettbewerb mit etablierten Robotikherstellern wie FANUC, ABB und Kuka, setzt jedoch auf seinen KI-First-Ansatz als entscheidendes Differenzierungsmerkmal.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-09"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI reicht Börsengangsantrag ein - Bewertung bis über 2 Billionen Dollar angepeilt",
-      "text": "OpenAI hat am 8. Juni vertraulich einen IPO-Antrag bei der US-Börsenaufsicht eingereicht und ist damit der dritte große KI-Entwickler, der den Weg an die öffentlichen Kapitalmärkte anpeilt, berichtet Bloomberg. Das Unternehmen strebt laut Bloomberg und Reuters eine Bewertung von 1,75 bis über 2 Billionen Dollar an und plant, dabei bis zu 75 Milliarden Dollar einzusammeln. Als Berater wurden Goldman Sachs und Morgan Stanley mandatiert; ein Börsenstart ist frühestens für September 2026 geplant, vorbehaltlich behördlicher Prüfung und Marktlage. OpenAI wurde zuletzt im März 2026 mit 852 Milliarden Dollar bewertet und zählt rund 900 Millionen wöchentlich aktive Nutzer sowie 50 Millionen zahlende Abonnenten bei einem Jahresumsatz von über 20 Milliarden Dollar. Zusammen mit dem IPO-Vorhaben von Anthropic beziffert Bloomberg den Gesamtwert der KI-IPO-Pipeline nun auf 3,6 Billionen Dollar.",
+      "titel": "OpenAI peilt IPO-Bewertung von bis zu 2 Billionen Dollar an",
+      "text": "OpenAI bereitet einen Börsengang für September 2026 vor und peilt laut Bloomberg und Reuters eine Bewertung zwischen 1,75 und 2 Billionen Dollar an – was zu einem der wertvollsten Börsengänge der Geschichte werden würde. Als Underwriter wurden Goldman Sachs und Morgan Stanley mandatiert; zudem soll JPMorgan Chase eingebunden sein. OpenAI erzielte 2025 einen Jahresumsatz von geschätzten 13,1 Milliarden Dollar, mit einer annualisierten Run-Rate von rund 20 Milliarden Dollar per Jahresende, wie CFO Sarah Friar im Januar 2026 bekanntgegeben hatte. Das Unternehmen zählt rund 900 Millionen wöchentlich aktive Nutzer und 50 Millionen zahlende Abonnenten. Ein öffentliches Listing würde OpenAI Zugang zu einem deutlich breiteren Investorenkreis verschaffen und Kapital für den weiteren Ausbau von Rechenkapazitäten bereitstellen. Auch Konkurrent Anthropic hat Anfang Juni vertraulich IPO-Unterlagen eingereicht – die beiden führenden KI-Labore könnten damit nahezu zeitgleich an die Börse gehen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-08",
+      "datum_artikel": "2026-06-09",
       "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Anthropic und OpenAI erhöhen H-1B-Anträge massiv – Tech-Giganten kürzen",
+      "text": "Anthropic, OpenAI und NVIDIA haben ihre Anträge für H-1B-Arbeitsvisa im zweiten Quartal des Geschäftsjahres 2026 kräftig erhöht, während Technologieriesen wie Google, Amazon und Microsoft ihre Anträge deutlich reduzierten, wie aus Daten der US-Einwanderungsbehörde USCIS hervorgeht. Anthropic verzeichnete den stärksten prozentualen Zuwachs: Die Zahl der genehmigten Anträge stieg von 10 auf 59 – ein Plus von 490 Prozent gegenüber dem Vorjahresquartal. OpenAI und NVIDIA legten ebenfalls signifikant zu. H-1B-Visa sind das wichtigste Instrument für US-Technologieunternehmen, um hochqualifizierte Fachkräfte aus dem Ausland einzustellen – vor allem aus Indien und China. Das starke Wachstum bei KI-Startups spiegelt den akuten Fachkräftemangel in den Bereichen Modellentwicklung, Infrastruktur und KI-Forschung wider. Die Schere zwischen aufstrebenden KI-Unternehmen und etablierten Technologiekonzernen bei der Rekrutierung internationaler Spitzenkräfte dürfte sich in den kommenden Quartalen weiter öffnen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-10",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Tech-Aktien fallen erneut - Märkte warten auf US-Inflationsdaten",
-      "text": "S&P 500 und Nasdaq verzeichneten am Dienstag (9. Juni) erneut Verluste von rund 1 Prozent bzw. 2 Prozent, da der Abverkauf im Tech- und KI-Sektor anhielt. Vorausgegangen war am Freitag (5. Juni) der schlimmste Handelstag des Jahres mit einem S&P-Minus von 2,64 Prozent und einem Nasdaq-Einbruch von 4,18 Prozent - ausgelöst durch starke US-Jobdaten, die Fed-Zinserhöhungserwartungen stark anheizten. Der US-Arbeitsmarktbericht für Mai wies 172.000 neue Stellen aus, deutlich über den Erwartungen; Händler preisen nun eine rund 70-prozentige Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember ein, gegenüber 45 Prozent eine Woche zuvor. Am heutigen Mittwoch werden die US-Verbraucherpreisdaten (CPI) für Mai veröffentlicht; Analysten erwarten einen Anstieg der Inflationsrate auf 4,2 Prozent - das wäre der höchste Wert seit fast drei Jahren. Je stärker der CPI-Wert ausfällt, desto mehr Druck dürfte auf KI- und Tech-Wachstumstiteln im S&P 500 entstehen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-09"
+      "titel": "S&P 500 fällt 1,6 Prozent: Inflationsschock und Iran-Krise drücken Dow um 900 Punkte",
+      "text": "Der S&P 500 fiel am 10. Juni 2026 um 1,62 Prozent auf 7.266,99 Punkte, nachdem neue Inflationsdaten die Märkte erschütterten und der Dow Jones um rund 900 Punkte einbrach. Die US-Verbraucherpreise (CPI) stiegen im Mai auf 4,2 Prozent im Jahresvergleich – der höchste Stand seit drei Jahren – befeuert vor allem durch steigende Energiekosten infolge des anhaltenden US-Iran-Konflikts. Besonders stark traf es den Industriesektor mit einem Tagesverlust von über drei Prozent sowie den Technologie- und Materialsektor mit jeweils mehr als zwei Prozent. Die heißen Inflationsdaten verschärfen das Dilemma der US-Notenbank Federal Reserve: Einerseits besteht Druck, die Zinsen weiter zu erhöhen; andererseits drückt das geopolitische Umfeld auf das Wirtschaftswachstum. Da das Mandat von Fed-Chef Jerome Powell im Mai 2026 auslief und ein Nachfolger noch nicht bestätigt wurde, herrscht an den Märkten zusätzliche Unsicherheit über die künftige Ausrichtung der US-Geldpolitik.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-10"
     },
     {
-      "titel": "Gold fällt auf 4.300 Dollar - Steigende Zinserwartungen und CPI-Daten belasten",
-      "text": "Der Goldpreis fiel am Dienstag (9. Juni) auf rund 4.300 Dollar je Unze und kehrte damit auf das Niveau von Dezember 2025 zurück. Auslöser ist der starke Anstieg der US-Zinserhöhungserwartungen: Nach den starken Jobdaten preisen Händler nun eine rund 70-prozentige Wahrscheinlichkeit einer Fed-Zinserhöhung im Dezember ein, was die Opportunitätskosten für das zinslose Edelmetall deutlich erhöht. Die Einigung zwischen Iran und Israel auf eine Feuerpause - nach Vermittlung durch US-Präsident Trump - drückte zudem die Ölpreise und reduzierte den geopolitischen Risikoaufschlag, der Gold zuletzt gestützt hatte. Gold hatte im Jahresverlauf 2026 zeitweise über 4.900 Dollar notiert und war im Verhältnis zu US-Staatsanleihen auf den höchsten Stand seit 1983 gestiegen. Entscheidend für die weitere Richtung sind die CPI-Daten vom heutigen Mittwoch: Ein hoher Inflationswert könnte weitere Zinserhöhungserwartungen stärken und Gold weiter unter Druck setzen.",
+      "titel": "Gold stabilisiert sich bei 4.092 Dollar nach Ende der US-Angriffe auf den Iran",
+      "text": "Der Goldpreis stabilisierte sich am 11. Juni 2026 bei rund 4.092 Dollar je Feinunze und legte 0,5 Prozent zu, nachdem die USA bekanntgegeben hatten, ihre jüngste Angriffsserie gegen den Iran abgeschlossen zu haben. Die Hoffnung auf eine Wiederaufnahme von Friedensverhandlungen zwischen Washington und Teheran dämpfte die Risikoprämie im Goldpreis vorübergehend. Trotz der kurzfristigen Stabilisierung hat Gold im vergangenen Monat rund 13 Prozent an Wert verloren – notiert aber noch immer mehr als 20 Prozent über dem Niveau des Vorjahres. Seit Ausbruch des US-Iran-Konflikts treiben steigende Energiekosten und die weitgehende Schließung der Straße von Hormuz die Inflation in die Höhe, was Erwartungen an Fed-Zinssenkungen deutlich gedämpft hat. Anleger beobachten nun, ob der vorläufige Rückgang bei den Militäraktionen zu einem formellen Waffenstillstand führt – was den Goldpreis kurzfristig belasten, mittelfristig aber die Inflationserwartungen senken und die Märkte beruhigen könnte.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-09"
+      "datum_artikel": "2026-06-11"
     }
   ]
 }
