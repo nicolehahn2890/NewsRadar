@@ -67,4 +67,21 @@ for y, row in enumerate(rows):
 
 icon.save(os.path.join(REPO_ROOT, "apple-touch-icon.png"), optimize=True)
 icon.resize((540, 540), Image.NEAREST).save("/tmp/icon_preview2.png")
+
+# SVG-Rechtecke für den Seitenkopf in index.html ausgeben (gleicher Rex!)
+# Wenn sich das rows-Raster ändert, diese Ausgabe in das <svg class="rex-dino">
+# in index.html übernehmen (viewBox="0 0 19 18").
+print("\nSVG-Rects für index.html:")
+for y, row in enumerate(rows):
+    x = 0
+    while x < len(row):
+        if row[x] == ".":
+            x += 1
+            continue
+        x2 = x
+        while x2 < len(row) and row[x2] == row[x]:
+            x2 += 1
+        color = "#4ab880" if row[x] == "G" else "#fff"
+        print(f'<rect x="{x}" y="{y}" width="{x2 - x}" height="1" fill="{color}"/>')
+        x = x2
 print("done")

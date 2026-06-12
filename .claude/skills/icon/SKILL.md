@@ -35,6 +35,17 @@ eine große Vorschau nach `/tmp/icon_preview2.png`.
 - Keine Schrift im Icon. iOS rundet die Ecken selbst ab, also Quadrat
   voll ausnutzen, nichts Wichtiges in die Ecken.
 
+## Der Rex steht an ZWEI Stellen
+
+Derselbe Pixel-Rex existiert zweimal — bei Motiv-Änderungen **beide** anpassen:
+
+1. `apple-touch-icon.png` — wird von `make_icon.py` erzeugt.
+2. Das Inline-SVG `<svg class="rex-dino" viewBox="0 0 19 18">` im Header von
+   `index.html` (mit animiertem Radar-Ping drumherum).
+
+`make_icon.py` druckt nach dem Generieren die fertigen `<rect>`-Zeilen für
+das SVG — diese einfach in `index.html` übernehmen.
+
 ## Nach jeder Änderung — Pflichtschritte
 
 1. Vorschau selbst ansehen (Read auf `/tmp/icon_preview2.png`) und prüfen,
