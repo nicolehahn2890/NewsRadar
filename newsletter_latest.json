@@ -1,52 +1,39 @@
 {
-  "datum": "Donnerstag, 11. Juni 2026",
-  "generiert": "2026-06-11",
+  "datum": "Freitag, 12. Juni 2026",
+  "generiert": "2026-06-12",
   "ki_stories": [
     {
-      "titel": "Anthropic bringt Claude Fable 5 und Mythos 5 auf AWS – neue Preistruktur",
-      "text": "Anthropic hat am 10. Juni seine neuesten KI-Modelle Claude Fable 5 und Mythos 5 auf Amazon Web Services (AWS) veröffentlicht und dabei eine neue Preistruktur bekanntgegeben: 10 Dollar pro einer Million Input-Token und 50 Dollar pro einer Million Output-Token. Fable 5 wurde als Hochleistungsmodell für kreative und anspruchsvolle Aufgaben konzipiert; Mythos 5 ergänzt das Portfolio als eigenständige Variante für spezifische Einsatzbereiche. Die AWS-Integration erlaubt Unternehmenskunden, die neuen Modelle direkt in die Amazon-Cloud-Infrastruktur einzubinden, ohne eigene Server betreiben zu müssen. Die Markteinführung kommt kurz nach Anthropics vertraulicher IPO-Anmeldung bei der SEC – das Unternehmen wurde zuletzt nach einer Series-H-Runde mit knapp 965 Milliarden Dollar bewertet. Im boomenden Markt für KI-Coding-Assistenten hat Claude Code bereits eine Führungsposition erarbeitet; mit den neuen Modellen will Anthropic seine Stellung im Premium-Segment weiter ausbauen.",
+      "titel": "Goldman Sachs: Hyperscaler-Ausgaben für KI 2027 werden massiv unterschätzt",
+      "text": "Goldman Sachs Strategen warnen, dass Analysten die KI-Ausgaben der großen Cloud-Anbieter für 2027 deutlich zu konservativ einschätzen. Das Team um Ryan Hammond erwartet, dass Amazon, Microsoft, Google und Meta zusammen bis zu 1,4 Billionen Dollar für KI-Infrastruktur ausgeben werden - der aktuelle Marktkonsens liegt lediglich bei rund 920 Milliarden Dollar. Als Haupttreiber nennt Goldman starke Cashflows der Konzerne sowie ihre Fähigkeit, sich günstig über Investment-Grade-Anleihen zu finanzieren. Die Analysten vergleichen die KI-Investitionswelle mit historischen Infrastrukturbooms bei Eisenbahnen und Elektrifizierung, die Spitzenwerte von zwei bis drei Prozent des BIP erreichten - KI-Ausgaben lagen 2026 bereits bei etwa 1,5 Prozent des BIP. Für Anleger in KI-nahe Aktien liefert der Bericht einen klar positiven Ausblick.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-10"
+      "datum_artikel": "2026-06-11"
     },
     {
-      "titel": "China kündigt 295-Milliarden-Dollar-Staatsfonds für KI-Infrastruktur an",
-      "text": "China hat am 9. Juni 2026 einen staatlich gesteuerten Investitionsplan in Höhe von 295 Milliarden Dollar für den landesweiten Aufbau von KI-Infrastruktur angekündigt. Das Programm sieht den massiven Ausbau von KI-Rechenzentren, die Förderung heimischer Halbleiterproduktion sowie die Unterstützung von Modell-Training auf nationalem Niveau vor. China will damit den technologischen Rückstand gegenüber den USA im Bereich KI-Infrastruktur verringern und die eigene KI-Industrie dauerhaft stärken. Der Fonds zählt zu den bislang größten staatlichen KI-Investitionsprogrammen weltweit und unterstreicht Pekings Entschlossenheit, im globalen KI-Rennen an vorderster Front mitzuspielen. Für westliche Chip- und Infrastrukturunternehmen könnte das Programm mittelfristig den Wettbewerbsdruck erhöhen, da China damit seine heimische Lieferkette unabhängiger von ausländischen Zulieferern machen will.",
+      "titel": "OpenAI und Oracle: Enterprise-Kunden können KI-Modelle direkt über Oracle Universal Credits nutzen",
+      "text": "OpenAI hat am 11. Juni bekanntgegeben, dass Unternehmenskunden ab sofort auf die Frontier-KI-Modelle von OpenAI sowie auf Codex über bestehende Oracle Universal Credits zugreifen können. Damit entfällt für Oracle Cloud Infrastructure-Kunden ein separater Beschaffungskanal für OpenAI-Dienste - ein wichtiger Schritt zur Vereinfachung der KI-Beschaffung im Enterprise-Segment. Die Partnerschaft ist Teil von OpenAIs wachsender Multi-Cloud-Strategie, nachdem das Unternehmen im April 2026 seine Exklusivbindung an Microsoft Azure gelockert hatte. Neben Microsoft Azure und AWS erweitert Oracle damit den Kreis der Cloud-Partner, über die OpenAI-Modelle direkt in Unternehmensumgebungen eingebunden werden können. Die vollständige Verfügbarkeit soll in den kommenden Wochen live gehen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-09"
-    },
-    {
-      "titel": "Robotik-Startup Standard Bots sammelt 200 Millionen Dollar für US-Fertigung",
-      "text": "Das US-amerikanische Robotik-Startup Standard Bots hat am 9. Juni eine Finanzierungsrunde über 200 Millionen Dollar abgeschlossen, um seine KI-gesteuerten Industrieroboter künftig vollständig in den USA zu fertigen. Standard Bots entwickelt Roboterarme, die durch KI in der Lage sind, sich selbstständig an neue Aufgaben anzupassen, ohne manuelle Neuprogrammierung zu benötigen. Mit den frischen Mitteln soll eine eigene US-Produktionsstätte aufgebaut werden – ein Schritt, der auch auf die wachsenden politischen Anreize für heimische Fertigung unter der Trump-Administration reagiert. Das Unternehmen positioniert sich in einem Markt, der durch die KI-Welle stark wächst: Industriebetriebe suchen zunehmend nach flexiblen Automatisierungslösungen, die sich rasch an veränderte Produktionsbedingungen anpassen können. Standard Bots tritt damit in direkten Wettbewerb mit etablierten Robotikherstellern wie FANUC, ABB und Kuka, setzt jedoch auf seinen KI-First-Ansatz als entscheidendes Differenzierungsmerkmal.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-09"
+      "datum_artikel": "2026-06-11"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI peilt IPO-Bewertung von bis zu 2 Billionen Dollar an",
-      "text": "OpenAI bereitet einen Börsengang für September 2026 vor und peilt laut Bloomberg und Reuters eine Bewertung zwischen 1,75 und 2 Billionen Dollar an – was zu einem der wertvollsten Börsengänge der Geschichte werden würde. Als Underwriter wurden Goldman Sachs und Morgan Stanley mandatiert; zudem soll JPMorgan Chase eingebunden sein. OpenAI erzielte 2025 einen Jahresumsatz von geschätzten 13,1 Milliarden Dollar, mit einer annualisierten Run-Rate von rund 20 Milliarden Dollar per Jahresende, wie CFO Sarah Friar im Januar 2026 bekanntgegeben hatte. Das Unternehmen zählt rund 900 Millionen wöchentlich aktive Nutzer und 50 Millionen zahlende Abonnenten. Ein öffentliches Listing würde OpenAI Zugang zu einem deutlich breiteren Investorenkreis verschaffen und Kapital für den weiteren Ausbau von Rechenkapazitäten bereitstellen. Auch Konkurrent Anthropic hat Anfang Juni vertraulich IPO-Unterlagen eingereicht – die beiden führenden KI-Labore könnten damit nahezu zeitgleich an die Börse gehen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-09",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Anthropic und OpenAI erhöhen H-1B-Anträge massiv – Tech-Giganten kürzen",
-      "text": "Anthropic, OpenAI und NVIDIA haben ihre Anträge für H-1B-Arbeitsvisa im zweiten Quartal des Geschäftsjahres 2026 kräftig erhöht, während Technologieriesen wie Google, Amazon und Microsoft ihre Anträge deutlich reduzierten, wie aus Daten der US-Einwanderungsbehörde USCIS hervorgeht. Anthropic verzeichnete den stärksten prozentualen Zuwachs: Die Zahl der genehmigten Anträge stieg von 10 auf 59 – ein Plus von 490 Prozent gegenüber dem Vorjahresquartal. OpenAI und NVIDIA legten ebenfalls signifikant zu. H-1B-Visa sind das wichtigste Instrument für US-Technologieunternehmen, um hochqualifizierte Fachkräfte aus dem Ausland einzustellen – vor allem aus Indien und China. Das starke Wachstum bei KI-Startups spiegelt den akuten Fachkräftemangel in den Bereichen Modellentwicklung, Infrastruktur und KI-Forschung wider. Die Schere zwischen aufstrebenden KI-Unternehmen und etablierten Technologiekonzernen bei der Rekrutierung internationaler Spitzenkräfte dürfte sich in den kommenden Quartalen weiter öffnen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-10",
-      "unternehmen": "Anthropic"
+      "titel": "SpaceX startet an der Nasdaq: Größtes IPO der Geschichte bei 1,77 Billionen Dollar Bewertung",
+      "text": "SpaceX hat heute seinen Börsengang an der Nasdaq vollzogen und wird unter dem Ticker SPCX zu einem Ausgabepreis von 135 Dollar je Aktie gehandelt. Die daraus resultierende Bewertung von 1,77 Billionen Dollar macht SpaceX zum siebtgrößten US-Unternehmen nach Marktkapitalisierung und übertrifft damit sogar Tesla mit rund 1,6 Billionen Dollar. Mit einem Emissionsvolumen von rund 75 Milliarden Dollar übertrifft der Börsengang von Elon Musks Raumfahrtunternehmen das bisherige Rekord-IPO von Alibaba aus 2014 um mehr als das Dreifache. Die Nachfrage war außergewöhnlich hoch: Gesamtnachfrage überstieg 250 Milliarden Dollar, das Angebot war rund 3,5-fach überzeichnet. SpaceX reservierte rund 30 Prozent der Aktien - etwa 22,5 Milliarden Dollar - für Privatanleger, dreimal mehr als in der Branche üblich.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-12",
+      "unternehmen": "SpaceX"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 fällt 1,6 Prozent: Inflationsschock und Iran-Krise drücken Dow um 900 Punkte",
-      "text": "Der S&P 500 fiel am 10. Juni 2026 um 1,62 Prozent auf 7.266,99 Punkte, nachdem neue Inflationsdaten die Märkte erschütterten und der Dow Jones um rund 900 Punkte einbrach. Die US-Verbraucherpreise (CPI) stiegen im Mai auf 4,2 Prozent im Jahresvergleich – der höchste Stand seit drei Jahren – befeuert vor allem durch steigende Energiekosten infolge des anhaltenden US-Iran-Konflikts. Besonders stark traf es den Industriesektor mit einem Tagesverlust von über drei Prozent sowie den Technologie- und Materialsektor mit jeweils mehr als zwei Prozent. Die heißen Inflationsdaten verschärfen das Dilemma der US-Notenbank Federal Reserve: Einerseits besteht Druck, die Zinsen weiter zu erhöhen; andererseits drückt das geopolitische Umfeld auf das Wirtschaftswachstum. Da das Mandat von Fed-Chef Jerome Powell im Mai 2026 auslief und ein Nachfolger noch nicht bestätigt wurde, herrscht an den Märkten zusätzliche Unsicherheit über die künftige Ausrichtung der US-Geldpolitik.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-10"
+      "titel": "S&P 500 erholt sich um 1,75% nach Trump-Signal für Iran-Deal",
+      "text": "Der S&P 500 hat am Donnerstag um 1,75 Prozent zugelegt, nachdem US-Präsident Trump Luftangriffe auf den Iran gestoppt und deutliche Signale für eine mögliche diplomatische Einigung gesendet hatte. Tech-, Industrie- und Materialwerte führten die Erholung an, während Energie, Basiskonsumgüter und Immobilien zurückblieben. Die Rallye folgt auf massive Verluste vom Vortag, als der Dow Jones um rund 900 Punkte eingebrochen war und der Nasdaq seinen schlechtesten Tag des Jahres verbucht hatte. Im Hintergrund bleibt die Inflationslage angespannt: Der US-Erzeugerpreisindex (PPI) stieg im Mai um 1,1 Prozent monatlich und 6,5 Prozent im Jahresvergleich - weit über den Markterwartungen von 0,7 Prozent und der höchste Stand seit November 2022. Nächste Woche tagt die Fed erstmals unter dem neuen Chairman Kevin Warsh; Marktteilnehmer rechnen mit keiner Zinsänderung, aber mit frischen wirtschaftlichen Projektionen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-11"
     },
     {
-      "titel": "Gold stabilisiert sich bei 4.092 Dollar nach Ende der US-Angriffe auf den Iran",
-      "text": "Der Goldpreis stabilisierte sich am 11. Juni 2026 bei rund 4.092 Dollar je Feinunze und legte 0,5 Prozent zu, nachdem die USA bekanntgegeben hatten, ihre jüngste Angriffsserie gegen den Iran abgeschlossen zu haben. Die Hoffnung auf eine Wiederaufnahme von Friedensverhandlungen zwischen Washington und Teheran dämpfte die Risikoprämie im Goldpreis vorübergehend. Trotz der kurzfristigen Stabilisierung hat Gold im vergangenen Monat rund 13 Prozent an Wert verloren – notiert aber noch immer mehr als 20 Prozent über dem Niveau des Vorjahres. Seit Ausbruch des US-Iran-Konflikts treiben steigende Energiekosten und die weitgehende Schließung der Straße von Hormuz die Inflation in die Höhe, was Erwartungen an Fed-Zinssenkungen deutlich gedämpft hat. Anleger beobachten nun, ob der vorläufige Rückgang bei den Militäraktionen zu einem formellen Waffenstillstand führt – was den Goldpreis kurzfristig belasten, mittelfristig aber die Inflationserwartungen senken und die Märkte beruhigen könnte.",
+      "titel": "US-Erzeugerpreise auf höchstem Stand seit 2022 - Gold und Anleihen unter Druck",
+      "text": "Der US-Erzeugerpreisindex (PPI) überraschte im Mai mit einem monatlichen Anstieg von 1,1 Prozent und einer Jahresrate von 6,5 Prozent - der höchste Stand seit November 2022 und deutlich über den Erwartungen von 0,7 Prozent. Getrieben wird die Großhandelsinflation vor allem durch gestiegene Energiekosten infolge des US-Iran-Konflikts und anhaltende Lieferkettenprobleme. Die heißen Daten verstärken den Druck auf die Fed, die Zinsen länger hoch zu halten oder erneut zu erhöhen, was Anleihen und den Goldpreis belastet - Gold notiert nach einem Rückgang in den vergangenen Tagen um rund 4.092 Dollar je Unze. Für FTSE-All-World-Anleger, die auch in Gold diversifizieren, ist das kurzfristig ein erschwerendes Umfeld: Hohe Realzinsen senken die Attraktivität des Edelmetalls gegenüber verzinslichen Anlagen. Erst eine klare Kurskorrektur der Fed oder eine Entspannung der Energiepreise dürfte den Druck auf Gold spürbar nehmen.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-11"
     }
