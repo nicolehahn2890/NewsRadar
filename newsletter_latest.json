@@ -1,41 +1,55 @@
 {
-  "datum": "Freitag, 12. Juni 2026",
-  "generiert": "2026-06-12",
+  "datum": "Samstag, 13. Juni 2026",
+  "generiert": "2026-06-13",
   "ki_stories": [
     {
-      "titel": "Goldman Sachs: Hyperscaler-Ausgaben für KI 2027 werden massiv unterschätzt",
-      "text": "Goldman Sachs Strategen warnen, dass Analysten die KI-Ausgaben der großen Cloud-Anbieter für 2027 deutlich zu konservativ einschätzen. Das Team um Ryan Hammond erwartet, dass Amazon, Microsoft, Google und Meta zusammen bis zu 1,4 Billionen Dollar für KI-Infrastruktur ausgeben werden - der aktuelle Marktkonsens liegt lediglich bei rund 920 Milliarden Dollar. Als Haupttreiber nennt Goldman starke Cashflows der Konzerne sowie ihre Fähigkeit, sich günstig über Investment-Grade-Anleihen zu finanzieren. Die Analysten vergleichen die KI-Investitionswelle mit historischen Infrastrukturbooms bei Eisenbahnen und Elektrifizierung, die Spitzenwerte von zwei bis drei Prozent des BIP erreichten - KI-Ausgaben lagen 2026 bereits bei etwa 1,5 Prozent des BIP. Für Anleger in KI-nahe Aktien liefert der Bericht einen klar positiven Ausblick.",
+      "titel": "OpenAI entdeckt chinesische Einfluss-Kampagne gegen US-KI-Datenzentren",
+      "text": "OpenAI hat nach eigenen Angaben eine koordinierte Desinformationskampagne aufgedeckt, hinter der mutmaßlich in China ansässige Akteure stecken sollen. Die Kampagne nutzte ChatGPT, um Inhalte zu generieren, die in sozialen Medien gezielt die US-amerikanische Debatte über den Bau neuer KI-Datenzentren beeinflussen sollten. OpenAI sperrte eine Gruppe von Accounts, die versuchten, legitimen lokalen Widerstand gegen geplante Rechenzentren in den USA durch extern produzierte Propaganda zu verstärken und zu manipulieren. Das Unternehmen wertet dies als Teil eines staatlich gesteuerten Musters, das gezielt technologiepolitische Diskussionen in den USA angreift. Hintergrund ist der milliardenschwere Ausbau der US-KI-Infrastruktur, der inzwischen als strategischer Wettbewerbsvorteil gegenüber China gilt. Die Enthüllung erhöht den Druck auf US-Gesetzgeber, KI-gestützte Einflussnahme aus dem Ausland als sicherheitspolitisches Risiko einzustufen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-11"
     },
     {
-      "titel": "OpenAI und Oracle: Enterprise-Kunden können KI-Modelle direkt über Oracle Universal Credits nutzen",
-      "text": "OpenAI hat am 11. Juni bekanntgegeben, dass Unternehmenskunden ab sofort auf die Frontier-KI-Modelle von OpenAI sowie auf Codex über bestehende Oracle Universal Credits zugreifen können. Damit entfällt für Oracle Cloud Infrastructure-Kunden ein separater Beschaffungskanal für OpenAI-Dienste - ein wichtiger Schritt zur Vereinfachung der KI-Beschaffung im Enterprise-Segment. Die Partnerschaft ist Teil von OpenAIs wachsender Multi-Cloud-Strategie, nachdem das Unternehmen im April 2026 seine Exklusivbindung an Microsoft Azure gelockert hatte. Neben Microsoft Azure und AWS erweitert Oracle damit den Kreis der Cloud-Partner, über die OpenAI-Modelle direkt in Unternehmensumgebungen eingebunden werden können. Die vollständige Verfügbarkeit soll in den kommenden Wochen live gehen.",
+      "titel": "NVIDIA beschleunigt Googles DiffusionGemma für lokale KI-Inferenz auf GPUs",
+      "text": "NVIDIA hat angekündigt, das Open-Source-Modell DiffusionGemma von Google DeepMind für die Ausführung auf lokalen NVIDIA-GPUs zu optimieren und in den RTX AI Garage Workflow zu integrieren. DiffusionGemma ist ein 26-Milliarden-Parameter-Modell mit Mixture-of-Experts-Architektur, das Text in parallelen Blöcken statt sequenziell erzeugt und damit bis zu 1.000 Token pro Sekunde auf NVIDIA-Hardware erreicht — rund viermal schneller als vergleichbare autoregressive Modelle. Aktiv genutzt werden dabei nur 3,8 Milliarden der 26 Milliarden Parameter, was den Energiebedarf erheblich senkt. Das Modell ist unter der Apache-2.0-Lizenz frei verfügbar und gilt als erstes bedeutendes Open-Source-Textdiffusionsmodell überhaupt. Die Kooperation unterstreicht den wachsenden Trend zur lokalen KI-Inferenz als datenschutzfreundliche und kosteneffiziente Alternative zu Cloud-Diensten. Für NVIDIA ist es ein weiterer Schachzug, Googles KI-Ökosystem eng an die eigene GPU-Plattform zu binden.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-11"
+      "datum_artikel": "2026-06-12"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX startet an der Nasdaq: Größtes IPO der Geschichte bei 1,77 Billionen Dollar Bewertung",
-      "text": "SpaceX hat heute seinen Börsengang an der Nasdaq vollzogen und wird unter dem Ticker SPCX zu einem Ausgabepreis von 135 Dollar je Aktie gehandelt. Die daraus resultierende Bewertung von 1,77 Billionen Dollar macht SpaceX zum siebtgrößten US-Unternehmen nach Marktkapitalisierung und übertrifft damit sogar Tesla mit rund 1,6 Billionen Dollar. Mit einem Emissionsvolumen von rund 75 Milliarden Dollar übertrifft der Börsengang von Elon Musks Raumfahrtunternehmen das bisherige Rekord-IPO von Alibaba aus 2014 um mehr als das Dreifache. Die Nachfrage war außergewöhnlich hoch: Gesamtnachfrage überstieg 250 Milliarden Dollar, das Angebot war rund 3,5-fach überzeichnet. SpaceX reservierte rund 30 Prozent der Aktien - etwa 22,5 Milliarden Dollar - für Privatanleger, dreimal mehr als in der Branche üblich.",
-      "quelle": "CNBC",
+      "titel": "SpaceX startet als SPCX an der Nasdaq: Größter Börsengang der US-Geschichte",
+      "text": "Elon Musks Raumfahrtunternehmen SpaceX hat am 12. Juni 2026 unter dem Ticker SPCX seinen Handel an der Nasdaq aufgenommen und damit den größten Börsengang in der Geschichte der USA vollzogen. Der IPO-Preis lag bei 135 US-Dollar je Aktie bei einem Emissionsvolumen von rund 555,6 Millionen Aktien, was einen Emissionserlös von 75 Milliarden US-Dollar generierte. Die Aktie schloss am ersten Handelstag bei rund 161 US-Dollar — ein Plus von rund 19 Prozent gegenüber dem Ausgabepreis — und bewertete SpaceX damit bei über 1,75 Billionen US-Dollar. Goldman Sachs leitete ein 21-köpfiges Bankenkonsortium; 30 Prozent des Free Floats wurden über Robinhood, Fidelity und Charles Schwab direkt an Privatanleger vergeben. SpaceX ist neben dem Starlink-Satellitennetz und Raketenprogrammen (Falcon 9, Starship) zunehmend auch im Bereich physischer KI und industrieller Robotik aktiv. Der Börsengang markiert eine neue Phase für Musks Unternehmensportfolio und sendete starke Signale an den gesamten Tech-Markt.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-12",
       "unternehmen": "SpaceX"
+    },
+    {
+      "titel": "OpenAI übernimmt Cloud-Startup Ona zur Stärkung der KI-Agenten-Infrastruktur",
+      "text": "OpenAI hat am 12. Juni 2026 die Übernahme des Cloud-Startups Ona bekanntgegeben, um die technische Infrastruktur für seine KI-Agenten weiterzuentwickeln. Ona hat sich auf cloud-native Architekturen spezialisiert, die für den effizienten Betrieb von autonomen KI-Agenten ausgelegt sind. Mit dem Deal stärkt OpenAI seine Position im wachsenden Markt für Agentic AI — also KI-Systeme, die eigenständig Aufgaben planen und ausführen, ohne ständige menschliche Steuerung. Die finanzielle Höhe der Transaktion wurde nicht veröffentlicht. OpenAI befindet sich aktuell in einer Phase rasanter Expansion: Das Unternehmen hat Anfang Juni vertraulich einen S-1-IPO-Antrag bei der SEC eingereicht und strebt dabei eine Bewertung von rund 852 Milliarden US-Dollar an. Die Ona-Akquisition passt zu OpenAIs Strategie, die gesamte Wertschöpfungskette von der Modellentwicklung bis hin zur Agenten-Laufzeitinfrastruktur intern zu kontrollieren.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-12",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Oracle öffnet Enterprise-Kunden direkten Zugang zu OpenAI-Frontier-Modellen",
+      "text": "Oracle hat angekündigt, dass Enterprise-Kunden ab sofort über ihre bestehenden Oracle Universal Credits Zugang zu den Frontier-KI-Modellen von OpenAI sowie zu Codex erhalten können. Damit entfällt für Oracle Cloud Infrastructure (OCI)-Kunden die Notwendigkeit, eine separate Vertragsbeziehung mit OpenAI aufzubauen — die KI-Modelle lassen sich direkt über bestehende OCI-Verträge abrufen und abrechnen. Oracle hatte erst kurz zuvor mit einem Rekord-KI-Auftragsbestand von 638 Milliarden US-Dollar seine Bedeutung als KI-Cloud-Infrastrukturplayer unterstrichen, was einem Jahresvergleichsanstieg von 363 Prozent entspricht. Die Partnerschaft dürfte vor allem großen Unternehmenskunden zugutekommen, die ihre bestehenden Oracle-Umgebungen mit KI-Fähigkeiten erweitern wollen, ohne die Beschaffungsprozesse zu verdoppeln. Für OpenAI eröffnet die Kooperation einen wichtigen neuen Vertriebskanal neben Microsoft Azure, AWS und den eigenen API-Diensten. Analysten sehen in solchen Cloud-Distributionspartnerschaften eine zentrale Wachstumsstrategie für KI-Modellanbieter im Enterprise-Markt.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-11",
+      "unternehmen": "Oracle"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 erholt sich um 1,75% nach Trump-Signal für Iran-Deal",
-      "text": "Der S&P 500 hat am Donnerstag um 1,75 Prozent zugelegt, nachdem US-Präsident Trump Luftangriffe auf den Iran gestoppt und deutliche Signale für eine mögliche diplomatische Einigung gesendet hatte. Tech-, Industrie- und Materialwerte führten die Erholung an, während Energie, Basiskonsumgüter und Immobilien zurückblieben. Die Rallye folgt auf massive Verluste vom Vortag, als der Dow Jones um rund 900 Punkte eingebrochen war und der Nasdaq seinen schlechtesten Tag des Jahres verbucht hatte. Im Hintergrund bleibt die Inflationslage angespannt: Der US-Erzeugerpreisindex (PPI) stieg im Mai um 1,1 Prozent monatlich und 6,5 Prozent im Jahresvergleich - weit über den Markterwartungen von 0,7 Prozent und der höchste Stand seit November 2022. Nächste Woche tagt die Fed erstmals unter dem neuen Chairman Kevin Warsh; Marktteilnehmer rechnen mit keiner Zinsänderung, aber mit frischen wirtschaftlichen Projektionen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-11"
+      "titel": "S&P 500 gewinnt 0,5% auf 7.431 Punkte: SpaceX-IPO und Iran-Friedenshoffnung",
+      "text": "Der S&P 500 schloss am Freitag, dem 12. Juni 2026, mit einem Plus von 0,5 Prozent bei 7.431,46 Punkten, angetrieben vom erfolgreichen Börsenstart von SpaceX sowie wachsenden Hoffnungen auf ein baldiges Friedensabkommen zwischen den USA und dem Iran. Der Nasdaq Composite legte 0,31 Prozent auf 25.888,84 Punkte zu. SpaceX-Aktien (SPCX) stiegen am ersten Handelstag um rund 19 Prozent auf rund 161 US-Dollar und sorgten für positive Marktstimmung im gesamten Tech-Sektor. Zur Geopolitik: US-Vertreter sprachen von einem fast fertigen Entwurf für ein Friedensabkommen mit dem Iran, Pakistans Premierminister bestätigte einen 'finalen, vereinbarten Text' — Teheran zeigte sich jedoch zurückhaltender. Ein möglicher Waffenstillstand würde den Ölpreis senken und die seit Monaten durch den Iran-Konflikt angeheizte US-Inflationsdynamik dämpfen. Die FOMC-Sitzung vom 16. bis 17. Juni — die erste unter dem neuen Fed-Chef Kevin Warsh — bleibt für Anleger die entscheidende kurzfristige Unbekannte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-12"
     },
     {
-      "titel": "US-Erzeugerpreise auf höchstem Stand seit 2022 - Gold und Anleihen unter Druck",
-      "text": "Der US-Erzeugerpreisindex (PPI) überraschte im Mai mit einem monatlichen Anstieg von 1,1 Prozent und einer Jahresrate von 6,5 Prozent - der höchste Stand seit November 2022 und deutlich über den Erwartungen von 0,7 Prozent. Getrieben wird die Großhandelsinflation vor allem durch gestiegene Energiekosten infolge des US-Iran-Konflikts und anhaltende Lieferkettenprobleme. Die heißen Daten verstärken den Druck auf die Fed, die Zinsen länger hoch zu halten oder erneut zu erhöhen, was Anleihen und den Goldpreis belastet - Gold notiert nach einem Rückgang in den vergangenen Tagen um rund 4.092 Dollar je Unze. Für FTSE-All-World-Anleger, die auch in Gold diversifizieren, ist das kurzfristig ein erschwerendes Umfeld: Hohe Realzinsen senken die Attraktivität des Edelmetalls gegenüber verzinslichen Anlagen. Erst eine klare Kurskorrektur der Fed oder eine Entspannung der Energiepreise dürfte den Druck auf Gold spürbar nehmen.",
+      "titel": "Gold pendelt bei 4.200 USD: CPI-Inflationsdruck und Iran-Deeskalation im Widerstreit",
+      "text": "Der Goldpreis bewegte sich am 12. Juni 2026 um die Marke von 4.200 US-Dollar je Feinunze, eingeklemmt zwischen zwei gegenläufigen Kräften. Einerseits drückte der überraschend hohe US-Verbraucherpreisindex (CPI) für Mai 2026 — plus 4,2 Prozent im Jahresvergleich, der höchste Wert seit April 2023 — auf den Goldkurs, weil er die Erwartung von Fed-Zinserhöhungen befeuert; höhere Zinsen verteuern das Halten von Gold. Andererseits stützten der anhaltende Iran-Konflikt und geopolitische Unsicherheiten den Goldkurs als klassischen sicheren Hafen. Kurzfristig dominierte am Freitag die Hoffnung auf einen baldigen US-Iran-Friedensschluss die Stimmung, was tendenziell gegen Gold wirkt und den Preis zeitweise unter 4.200 USD drückte. Der Producer Price Index (PPI) stieg im Mai um 6,5 Prozent im Jahresvergleich — der höchste Wert seit November 2022 — und signalisiert anhaltenden Kostendruck in den Lieferketten. Analysten sehen Gold weiterhin als wichtigen Puffer in einem Umfeld, in dem Inflation, Geopolitik und eine unklare Fed-Politik gleichzeitig auf die Märkte einwirken.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-11"
+      "datum_artikel": "2026-06-12"
     }
   ]
 }
