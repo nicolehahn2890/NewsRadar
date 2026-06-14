@@ -9,25 +9,53 @@ Die ganze App ist eine einzige Datei: `index.html` im Repository-Root.
 Sie lädt `newsletter_latest.json` und zeigt die News an. Gehostet über
 GitHub Pages, gelesen wird **ausschließlich vom `main`-Branch**.
 
-## Design-System (Stand: Glow-up Juni 2026, von Nicole abgenommen)
+## Design-System (Stand: Liquid-Glass-Redesign Juni 2026, von Nicole abgenommen)
 
-- **Farben** (CSS-Variablen in `:root`): Hintergrund `#0a0f1a`/`#111827`,
-  Akzent-Rosé `#c98878`, Rex-Grün `#4ab880`, Sektionsfarben:
-  KI = Lila `#a78bfa`, Unternehmen = Blau `#60a5fa`, Börse = Gold `#fbbf24`.
-- **Schriften:** Playfair Display (Überschriften/Logo), DM Sans (Fließtext),
-  via Google Fonts.
-- **Markenelemente:** Pixel-Rex im Header (SVG, viewBox 0 0 19 18, identisch
-  mit dem App-Icon — siehe Skill `icon`) mit Radar-Ping-Animation und
-  Bob-Animation; dunkle Karten mit 3px-Akzentlinie links, Glow-Punkt neben
-  der Quelle, dezenter Farbschimmer oben rechts pro Karte.
-- **Features:** Quellen-Filter-Chips, grünes "Heute"-Badge bei Artikeln vom
-  aktuellen Tag, Skeleton-Shimmer beim Laden, "Stand:"-Zeile im Footer,
+Das komplette Design steckt **inline im `<style>`-Block von `index.html`**
+(die Design-Tokens + die `.nr-*`-Glass-Klassen). Vorlage war das von Nicole
+mit Claude Design erstellte Paket „NewsRadar Design System (Liquid Glass)".
+
+- **Zwei Themes**, umgeschaltet über `data-theme` am `<html>`-Tag:
+  `light` (Standard) und `dark`. Die Auswahl wird in `localStorage`
+  (`nr-theme`) gespeichert und schon im `<head>` per Inline-Script gesetzt,
+  damit beim Laden nichts aufblitzt. `<meta name="theme-color">` wird per JS
+  passend mitgeschaltet (`#eaf0f7` hell / `#0b1020` dunkel).
+- **Marken-/Kategorie-Farben** (theme-unabhängige CSS-Variablen):
+  `--nr-violet #8b7cf0` (Marke + KI-Branche), `--nr-blue #5b8def`
+  (Unternehmen), `--nr-teal #2bb6c4` (Börse & Gold), `--nr-green #34c08a`
+  (Rex + „Heute"/frisch). Hintergrund-Basis hell `#eaf0f7` / dunkel `#0b1020`.
+- **Glas-Material:** durchscheinende Flächen mit `backdrop-filter: blur`,
+  iridiszierender Rand (`--glass-bevel`) und farbigem Schlagschatten. Genutzt
+  über die Utility-Klassen — Komponenten kombinieren sie statt eigenes CSS:
+  - `.nr-glass` = Grund-Glasfläche; Radius-Varianten `--pill` / `--lg` / `--sm`.
+  - `.nr-glass--frosted` = blickdichter (für textlastige Story-Karten, damit
+    die langen deutschen Zusammenfassungen lesbar bleiben).
+  - `.nr-glass--interactive` = Hover-Lift + Press-Scale (Chips).
+  - `.nr-glass--sheen` + ein `<span class="nr-sheen"></span>` als erstes Kind
+    = feiner Lichtschimmer an der Oberkante.
+  - `.nr-glass--tint` (Farbglas, `--tint` inline) — aktuell ungenutzt, bereit.
+- **Schriften:** Playfair Display (Logo, Section-Titel, Story-Überschriften),
+  DM Sans (Fließtext) — per `@import` im `<style>`.
+- **Markenelemente:** Wortmarke „News**Radar**", wobei „Radar" über
+  `.nr-prism-text` einen Regenbogen-Verlauf trägt; Pixel-Rex im Header
+  (SVG, viewBox 0 0 19 18, identisch mit dem App-Icon — siehe Skill `icon`,
+  Farbe `#34c08a`) mit Radar-Ping (`.nr-radar`) und Bob-Animation; pro Section
+  ein farbiges Glas-Icon-Chip (Lucide-Style-SVGs: sparkles / building / trending-up).
+- **Features:** Hell/Dunkel-Umschalter (Glas-Segmented-Control oben),
+  Quellen-Filter-Chips, grünes „Heute"-Badge bei Artikeln vom aktuellen Tag,
+  Skeleton-Shimmer beim Laden, „Stand:"-Zeile im Footer,
   `prefers-reduced-motion` wird respektiert.
-- `<meta name="theme-color" content="#0a0f1a">` hält die Safari-Leiste dunkel.
+
+Die Original-Design-Referenz (`newsradar-glass.css`, `newsradar-glass-reference.html`,
+README mit Mapping-Tabelle) lag im ZIP, das Nicole hochgeladen hat — sie ist
+**nicht** im Repo eingecheckt. Die maßgebliche Umsetzung ist `index.html`.
 
 ## Stilregeln
 
-- Eleganter, dunkler Look beibehalten — kein grelles Redesign.
+- Eleganter Glas-Look beibehalten — kein grelles Redesign. Standard ist das
+  **helle** Theme; Dunkel ist über den Umschalter erreichbar.
+- Beide Themes immer mitdenken: Farben/Schatten über die `--glass-*`- und
+  Text-Variablen lösen, nie hart kodieren, sonst bricht eines der Themes.
 - Mobile first: Nicole nutzt die Seite auf dem iPhone (Safari), max-width 720px.
 - Alle Texte der Oberfläche auf Deutsch.
 - **Kein** `apple-mobile-web-app-capable` / Standalone-Modus einbauen
@@ -50,11 +78,16 @@ In dieser Umgebung gibt es **keinen Browser/Screenshots** (Download von
 Headless-Browsern ist von der Netzwerk-Policy gesperrt, `pip`/`npm` gehen).
 Stattdessen:
 
-1. JS-Syntax: `<script>`-Block extrahieren und `node --check` laufen lassen.
-2. Funktionstest mit jsdom (`npm install jsdom` in /tmp): `index.html` laden,
-   `fetch` mit der echten `newsletter_latest.json` stubben, dann prüfen:
-   Datum-Badge, Filter-Chips, Anzahl Story-Karten pro Section, Klick auf
-   einen Quellen-Chip filtert korrekt.
+1. JS-Syntax: **beide** `<script>`-Blöcke extrahieren (das frühe Theme-Script
+   im `<head>` + das App-Script am Ende) und je `node --check` laufen lassen.
+2. Funktionstest mit jsdom (`npm install jsdom` in /tmp): `index.html` laden.
+   Wichtig: `fetch` über die `beforeParse(window){…}`-Option setzen (nicht
+   nachträglich), weil `load()` sofort beim Parsen feuert; `fetch` gibt die
+   echte `newsletter_latest.json` zurück. Dann prüfen: Datum-Badge,
+   Filter-Chips (inkl. Glas-Klassen), Anzahl Story-Karten pro Section, Klick
+   auf einen Quellen-Chip filtert korrekt, und der Hell/Dunkel-Umschalter
+   ändert `data-theme`, die `theme-color`-Meta und `localStorage('nr-theme')`.
+   `localStorage` stellt jsdom selbst bereit — nicht überschreiben.
 3. `python3 -c "import json; json.load(open('newsletter_latest.json'))"`.
 
 ## Veröffentlichen
