@@ -7,34 +7,36 @@ S = 180   # final icon size
 SS = 4
 B = S * SS
 
-# ---- background: deep navy (#0b1020) + Liquid-Glass aura tints + ONE ring ----
-# Passend zum neuen Glass-Design der Webseite: dunkles Navy mit dezentem
-# Violett/Teal/Pink-Schimmer (wie die Aura im Hintergrund der App), dahinter
-# ein grüner Halo, der den grünen Rex strahlen lässt.
-bg = Image.new("RGB", (B, B), (11, 16, 32))   # #0b1020
+# ---- background: helles Lavendel/Lila + Liquid-Glass-Schimmer + ONE ring ----
+# Nach Nicoles Wunsch heller und lila-dominant — der grüne Rex hebt sich auf
+# dem hellen Lila klar ab. Sanfter Verlauf von hellem Lavendel nach kräftigerem
+# Violett unten, dazu dezente Schimmer (Violett, Pink, Blau) wie die Aura der App.
+bg = Image.new("RGB", (B, B), (206, 198, 244))   # helles Lavendel #cec6f4
 d = ImageDraw.Draw(bg)
 for y in range(B):
     t = y / B
-    d.line([(0, y), (B, y)], fill=(int(11 + 9 * t), int(16 + 11 * t), int(32 + 16 * t)))
+    d.line([(0, y), (B, y)], fill=(int(206 - 36 * t), int(198 - 40 * t), int(244 - 28 * t)))
 
-# Mehrfarbige Aura-Tints (sehr dezent, additiv) — Marken-Violett oben links,
-# Teal unten rechts, ein Hauch Pink, plus grüner Halo hinter dem Rex.
-def soft_glow(cx_f, cy_f, rad_f, color, blur_f=0.16):
-    g = Image.new("RGB", (B, B), (0, 0, 0))
-    gd = ImageDraw.Draw(g)
-    gd.ellipse([B * (cx_f - rad_f), B * (cy_f - rad_f),
-                B * (cx_f + rad_f), B * (cy_f + rad_f)], fill=color)
-    return g.filter(ImageFilter.GaussianBlur(B * blur_f))
+# Farbige Aura-Tints — auf hellem Grund per Alpha-Komposit (nicht additiv,
+# sonst würde der helle Hintergrund ausbleichen).
+def soft_glow(base, cx_f, cy_f, rad_f, color, alpha, blur_f=0.18):
+    mask = Image.new("L", (B, B), 0)
+    md = ImageDraw.Draw(mask)
+    md.ellipse([B * (cx_f - rad_f), B * (cy_f - rad_f),
+                B * (cx_f + rad_f), B * (cy_f + rad_f)], fill=alpha)
+    mask = mask.filter(ImageFilter.GaussianBlur(B * blur_f))
+    layer = Image.new("RGB", (B, B), color)
+    return Image.composite(layer, base, mask)
 
-bg = ImageChops.add(bg, soft_glow(0.18, 0.16, 0.42, (30, 24, 60)))   # violet  #8b7cf0
-bg = ImageChops.add(bg, soft_glow(0.86, 0.88, 0.40, (8, 36, 42)))    # teal    #2bb6c4
-bg = ImageChops.add(bg, soft_glow(0.88, 0.16, 0.34, (40, 18, 32)))   # pink    #ffb0d2
-bg = ImageChops.add(bg, soft_glow(0.50, 0.52, 0.40, (10, 34, 24), 0.12))  # green halo
+bg = soft_glow(bg, 0.16, 0.14, 0.46, (150, 120, 238), 130)  # Violett oben links
+bg = soft_glow(bg, 0.88, 0.18, 0.38, (244, 180, 222), 95)   # Pink oben rechts
+bg = soft_glow(bg, 0.14, 0.90, 0.40, (150, 180, 246), 90)   # Blau unten links
+bg = soft_glow(bg, 0.88, 0.90, 0.40, (140, 110, 230), 115)  # Violett unten rechts
 
 d = ImageDraw.Draw(bg)
 cx = cy = B // 2
 r = int(B * 0.44)
-d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(96, 86, 168), width=SS)  # violet ring #8b7cf0
+d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(124, 92, 240), width=SS)  # kräftiger Violett-Ring #7c5cf0
 
 icon = bg.resize((S, S), Image.LANCZOS)
 
