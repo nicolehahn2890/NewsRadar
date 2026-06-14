@@ -7,28 +7,39 @@ S = 180   # final icon size
 SS = 4
 B = S * SS
 
-# ---- background: dark navy gradient + soft green glow, ONE faint ring ----
-bg = Image.new("RGB", (B, B), (10, 15, 26))
+# ---- background: deep navy (#0b1020) + Liquid-Glass aura tints + ONE ring ----
+# Passend zum neuen Glass-Design der Webseite: dunkles Navy mit dezentem
+# Violett/Teal/Pink-Schimmer (wie die Aura im Hintergrund der App), dahinter
+# ein grüner Halo, der den grünen Rex strahlen lässt.
+bg = Image.new("RGB", (B, B), (11, 16, 32))   # #0b1020
 d = ImageDraw.Draw(bg)
 for y in range(B):
     t = y / B
-    d.line([(0, y), (B, y)], fill=(int(10 + 7 * t), int(15 + 9 * t), int(26 + 13 * t)))
+    d.line([(0, y), (B, y)], fill=(int(11 + 9 * t), int(16 + 11 * t), int(32 + 16 * t)))
 
-glow = Image.new("RGB", (B, B), (0, 0, 0))
-gd = ImageDraw.Draw(glow)
-gd.ellipse([B * 0.12, B * 0.10, B * 0.88, B * 0.90], fill=(10, 30, 19))
-glow = glow.filter(ImageFilter.GaussianBlur(B * 0.10))
-bg = ImageChops.add(bg, glow)
+# Mehrfarbige Aura-Tints (sehr dezent, additiv) — Marken-Violett oben links,
+# Teal unten rechts, ein Hauch Pink, plus grüner Halo hinter dem Rex.
+def soft_glow(cx_f, cy_f, rad_f, color, blur_f=0.16):
+    g = Image.new("RGB", (B, B), (0, 0, 0))
+    gd = ImageDraw.Draw(g)
+    gd.ellipse([B * (cx_f - rad_f), B * (cy_f - rad_f),
+                B * (cx_f + rad_f), B * (cy_f + rad_f)], fill=color)
+    return g.filter(ImageFilter.GaussianBlur(B * blur_f))
+
+bg = ImageChops.add(bg, soft_glow(0.18, 0.16, 0.42, (30, 24, 60)))   # violet  #8b7cf0
+bg = ImageChops.add(bg, soft_glow(0.86, 0.88, 0.40, (8, 36, 42)))    # teal    #2bb6c4
+bg = ImageChops.add(bg, soft_glow(0.88, 0.16, 0.34, (40, 18, 32)))   # pink    #ffb0d2
+bg = ImageChops.add(bg, soft_glow(0.50, 0.52, 0.40, (10, 34, 24), 0.12))  # green halo
 
 d = ImageDraw.Draw(bg)
 cx = cy = B // 2
 r = int(B * 0.44)
-d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(34, 52, 84), width=SS)
+d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(96, 86, 168), width=SS)  # violet ring #8b7cf0
 
 icon = bg.resize((S, S), Image.LANCZOS)
 
 # ---- big clear pixel T-Rex (chrome-dino style, facing right) ----
-G = (74, 184, 128)    # body green  #4ab880
+G = (52, 192, 138)    # body green  #34c08a
 W = (255, 255, 255)   # eye + teeth
 rows = [
     ".........GGGGGGGGGG",  # r0  head top
@@ -81,7 +92,7 @@ for y, row in enumerate(rows):
         x2 = x
         while x2 < len(row) and row[x2] == row[x]:
             x2 += 1
-        color = "#4ab880" if row[x] == "G" else "#fff"
+        color = "#34c08a" if row[x] == "G" else "#fff"
         print(f'<rect x="{x}" y="{y}" width="{x2 - x}" height="1" fill="{color}"/>')
         x = x2
 print("done")
