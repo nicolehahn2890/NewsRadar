@@ -7,18 +7,18 @@ S = 180   # final icon size
 SS = 4
 B = S * SS
 
-# ---- background: helles Lavendel/Lila + Liquid-Glass-Schimmer + ONE ring ----
-# Nach Nicoles Wunsch heller und lila-dominant — der grüne Rex hebt sich auf
-# dem hellen Lila klar ab. Sanfter Verlauf von hellem Lavendel nach kräftigerem
-# Violett unten, dazu dezente Schimmer (Violett, Pink, Blau) wie die Aura der App.
-bg = Image.new("RGB", (B, B), (206, 198, 244))   # helles Lavendel #cec6f4
+# ---- background: dunkles, sattes Lila + Liquid-Glass-Schimmer + ONE ring ----
+# Mittel-dunkles Violett, damit sich der grüne Rex klar absetzt. Sanfter
+# Verlauf von etwas hellerem Violett oben zu tieferem Lila unten, dazu dezente
+# Schimmer (Violett, Magenta, Blau-Violett) wie die Aura der App.
+bg = Image.new("RGB", (B, B), (66, 48, 128))   # sattes Violett #423080
 d = ImageDraw.Draw(bg)
 for y in range(B):
     t = y / B
-    d.line([(0, y), (B, y)], fill=(int(206 - 36 * t), int(198 - 40 * t), int(244 - 28 * t)))
+    d.line([(0, y), (B, y)], fill=(int(66 - 26 * t), int(48 - 20 * t), int(128 - 44 * t)))
 
-# Farbige Aura-Tints — auf hellem Grund per Alpha-Komposit (nicht additiv,
-# sonst würde der helle Hintergrund ausbleichen).
+# Farbige Aura-Tints per Alpha-Komposit — heben den dunklen Lila-Grund an,
+# ohne ihn auszubleichen (Rex bleibt klar abgesetzt).
 def soft_glow(base, cx_f, cy_f, rad_f, color, alpha, blur_f=0.18):
     mask = Image.new("L", (B, B), 0)
     md = ImageDraw.Draw(mask)
@@ -28,15 +28,15 @@ def soft_glow(base, cx_f, cy_f, rad_f, color, alpha, blur_f=0.18):
     layer = Image.new("RGB", (B, B), color)
     return Image.composite(layer, base, mask)
 
-bg = soft_glow(bg, 0.16, 0.14, 0.46, (150, 120, 238), 130)  # Violett oben links
-bg = soft_glow(bg, 0.88, 0.18, 0.38, (244, 180, 222), 95)   # Pink oben rechts
-bg = soft_glow(bg, 0.14, 0.90, 0.40, (150, 180, 246), 90)   # Blau unten links
-bg = soft_glow(bg, 0.88, 0.90, 0.40, (140, 110, 230), 115)  # Violett unten rechts
+bg = soft_glow(bg, 0.16, 0.14, 0.46, (132, 102, 226), 120)  # helleres Violett oben links
+bg = soft_glow(bg, 0.88, 0.18, 0.36, (160, 86, 184), 85)    # Magenta oben rechts
+bg = soft_glow(bg, 0.14, 0.90, 0.40, (104, 118, 228), 80)   # Blau-Violett unten links
+bg = soft_glow(bg, 0.88, 0.90, 0.40, (120, 88, 214), 100)   # Violett unten rechts
 
 d = ImageDraw.Draw(bg)
 cx = cy = B // 2
 r = int(B * 0.44)
-d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(124, 92, 240), width=SS)  # kräftiger Violett-Ring #7c5cf0
+d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(176, 154, 255), width=SS)  # heller Violett-Ring
 
 icon = bg.resize((S, S), Image.LANCZOS)
 
