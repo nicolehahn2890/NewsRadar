@@ -1,247 +1,380 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="de" data-theme="light">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#0a0f1a">
+<meta name="theme-color" content="#eaf0f7">
 <title>NewsRadar</title>
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png?v=2">
 <link rel="icon" type="image/png" href="apple-touch-icon.png?v=2">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<script>
+  // Theme so früh wie möglich setzen, damit es beim Laden nicht kurz aufblitzt.
+  (function () {
+    try {
+      var t = localStorage.getItem('nr-theme') || 'light';
+      document.documentElement.setAttribute('data-theme', t);
+    } catch (e) {}
+  })();
+</script>
 <style>
+  /* ============================================================
+     NewsRadar — Liquid Glass Design System (consolidated)
+     ============================================================ */
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;700&display=swap');
+
+  /* ===== Color & theme tokens ===== */
   :root {
-    --bg: #0a0f1a;
-    --bg2: #111827;
-    --bg3: #1a2438;
-    --border: #1e3050;
-    --rose: #c98878;
-    --text: #e8f0fc;
-    --text2: #9ab0cc;
-    --text3: #5a7090;
-    --green: #4ab880;
-    --purple: #a78bfa;
-    --blue: #60a5fa;
-    --gold: #fbbf24;
+    /* ---- Brand hues (constant) ---- */
+    --nr-violet:  #8b7cf0;
+    --nr-purple:  #7c5cf0;
+    --nr-green:   #34c08a;
+    --nr-blue:    #5b8def;
+    --nr-teal:    #2bb6c4;
+    --nr-amber:   #8b7cf0;
+
+    /* ---- Category / accent aliases ---- */
+    --accent-brand:    var(--nr-violet);
+    --accent-fresh:    var(--nr-green);
+    --cat-ki:          var(--nr-violet);
+    --cat-unternehmen: var(--nr-blue);
+    --cat-boerse:      var(--nr-teal);
   }
-  * { margin:0; padding:0; box-sizing:border-box; }
-  html { color-scheme: dark; }
-  html, body { background:var(--bg); color:var(--text); font-family:'DM Sans', sans-serif; min-height:100%; }
 
-  ::selection { background: rgba(201,136,120,0.35); }
+  /* ============ LIGHT THEME (default) ============ */
+  :root,
+  [data-theme="light"] {
+    color-scheme: light;
 
-  body::before {
-    content:''; position:fixed; inset:0; pointer-events:none; z-index:0;
+    --bg-base:   #eaf0f7;
+    --bg-tint-1: rgba(110,170,250,0.42);
+    --bg-tint-2: rgba(86,206,214,0.34);
+    --bg-tint-3: rgba(255,176,210,0.38);
+    --bg-tint-4: rgba(160,150,245,0.30);
+
+    --text-primary:   #1c2436;
+    --text-secondary: #44506a;
+    --text-muted:     #6c7890;
+    --text-on-tint:   #ffffff;
+
+    --surface-page:   var(--bg-base);
+    --surface-raised: rgba(255,255,255,0.62);
+    --surface-inset:  rgba(255,255,255,0.40);
+    --border-default: rgba(255,255,255,0.70);
+  }
+
+  /* ============ DARK THEME ============ */
+  [data-theme="dark"] {
+    color-scheme: dark;
+
+    --bg-base:   #0b1020;
+    --bg-tint-1: rgba(139,124,240,0.30);
+    --bg-tint-2: rgba(91,141,239,0.26);
+    --bg-tint-3: rgba(43,182,196,0.20);
+    --bg-tint-4: rgba(150,110,210,0.22);
+
+    --text-primary:   #eaf1fd;
+    --text-secondary: #a6b9d6;
+    --text-muted:     #6a82a6;
+    --text-on-tint:   #ffffff;
+
+    --surface-page:   var(--bg-base);
+    --surface-raised: rgba(40,55,92,0.45);
+    --surface-inset:  rgba(26,36,56,0.40);
+    --border-default: rgba(150,180,230,0.30);
+  }
+
+  /* ===== Glass material tokens ===== */
+  :root {
+    --glass-radius:      24px;
+    --glass-radius-lg:   30px;
+    --glass-radius-sm:   18px;
+    --glass-radius-pill: 999px;
+    --glass-blur:        7px;
+    --glass-blur-strong: 14px;
+    --glass-saturate:    190%;
+    --glass-brightness:  1.02;
+    --glass-border-w:    1px;
+
+    --ease-glass: cubic-bezier(0.22, 1, 0.36, 1);
+    --dur-fast:   0.16s;
+    --dur-glass:  0.28s;
+    --press-scale: 0.97;
+  }
+
+  /* ============ LIGHT material ============ */
+  :root,
+  [data-theme="light"] {
+    --glass-fill:        linear-gradient(135deg, rgba(125,215,255,0.13), rgba(190,175,255,0.05) 42%, rgba(255,165,220,0.11) 72%, rgba(150,255,215,0.09));
+    --glass-fill-solid:  rgba(255,255,255,0.12);
+    --glass-frost:       linear-gradient(135deg, rgba(226,244,255,0.86), rgba(250,246,255,0.80) 45%, rgba(255,240,250,0.84));
+    --glass-border:      rgba(255,255,255,0.60);
+    --glass-bevel:
+        inset 1.6px 1.6px 1px rgba(255,255,255,0.92),
+        inset 5px 5px 10px -5px rgba(108,205,255,0.55),
+        inset -5px -5px 11px -5px rgba(255,150,220,0.50),
+        inset -5px 5px 11px -6px rgba(150,160,255,0.42),
+        inset 5px -5px 11px -6px rgba(135,255,210,0.40);
+    --glass-edge-top:    rgba(255,255,255,0.92);
+    --glass-edge-bot:    rgba(255,255,255,0.28);
+    --glass-shadow:
+        0 32px 50px -20px rgba(124,92,240,0.40),
+        0 26px 44px -22px rgba(91,141,239,0.30),
+        0 10px 20px -12px rgba(40,40,80,0.16);
+    --glass-shadow-sm:   0 18px 34px -18px rgba(124,92,240,0.32);
+    --glass-shadow-hover:
+        0 46px 70px -22px rgba(124,92,240,0.46),
+        0 30px 52px -24px rgba(91,141,239,0.32),
+        0 14px 26px -14px rgba(40,40,80,0.18);
+    --glass-specular:    rgba(255,255,255,0.55);
+  }
+
+  /* ============ DARK material ============ */
+  [data-theme="dark"] {
+    --glass-fill:        linear-gradient(135deg, rgba(108,200,255,0.24), rgba(120,110,210,0.12) 45%, rgba(255,140,210,0.18) 75%, rgba(120,240,200,0.15));
+    --glass-fill-solid:  rgba(48,64,104,0.30);
+    --glass-frost:       linear-gradient(135deg, rgba(44,64,108,0.88), rgba(30,40,72,0.80) 45%, rgba(60,46,100,0.85));
+    --glass-border:      rgba(180,205,255,0.42);
+    --glass-bevel:
+        inset 1.6px 1.6px 1px rgba(220,235,255,0.60),
+        inset 5px 5px 11px -5px rgba(108,205,255,0.44),
+        inset -5px -5px 12px -5px rgba(255,150,220,0.40),
+        inset -5px 5px 12px -6px rgba(150,160,255,0.36),
+        inset 5px -5px 12px -6px rgba(120,255,210,0.32);
+    --glass-edge-top:    rgba(200,222,255,0.55);
+    --glass-edge-bot:    rgba(120,150,210,0.12);
+    --glass-shadow:
+        0 20px 40px -12px rgba(0,0,0,0.60),
+        0 6px 14px -8px rgba(0,0,0,0.46);
+    --glass-shadow-sm:   0 10px 24px -10px rgba(0,0,0,0.50);
+    --glass-shadow-hover:
+        0 32px 58px -14px rgba(0,0,0,0.68),
+        0 10px 22px -8px rgba(0,0,0,0.48);
+    --glass-specular:    rgba(210,228,255,0.40);
+  }
+
+  /* ===== Typography & spacing tokens ===== */
+  :root {
+    --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --font-sans:    'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  }
+
+  /* ============================================================
+     Base layer
+     ============================================================ */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { -webkit-text-size-adjust: 100%; }
+
+  body.nr-app {
+    min-height: 100vh;
+    font-family: var(--font-sans);
+    font-weight: 400;
+    color: var(--text-primary);
+    background: var(--bg-base);
+    -webkit-font-smoothing: antialiased;
+    transition: background var(--dur-glass) var(--ease-glass), color var(--dur-glass) var(--ease-glass);
+  }
+
+  ::selection { background: color-mix(in srgb, var(--accent-brand) 35%, transparent); }
+
+  /* ---- Themed ambient backdrop ---- */
+  .nr-aura { position: relative; }
+  .nr-aura::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
     background:
-      radial-gradient(ellipse at 20% 15%, rgba(201,136,120,0.07) 0%, transparent 50%),
-      radial-gradient(ellipse at 85% 25%, rgba(167,139,250,0.05) 0%, transparent 45%),
-      radial-gradient(ellipse at 80% 85%, rgba(74,184,128,0.05) 0%, transparent 50%);
+      radial-gradient(60% 58% at 4% 4%, var(--bg-tint-1) 0%, transparent 66%),
+      radial-gradient(60% 56% at 100% 2%, var(--bg-tint-4) 0%, transparent 64%),
+      radial-gradient(66% 62% at 100% 100%, var(--bg-tint-3) 0%, transparent 68%),
+      radial-gradient(62% 58% at 0% 100%, var(--bg-tint-2) 0%, transparent 66%),
+      linear-gradient(var(--bg-base), var(--bg-base));
+  }
+  .nr-aura > * { position: relative; z-index: 1; }
+
+  /* ============================================================
+     GLASS MATERIAL
+     ============================================================ */
+  .nr-glass {
+    position: relative;
+    background: var(--glass-fill);
+    -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate)) brightness(var(--glass-brightness));
+    backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate)) brightness(var(--glass-brightness));
+    border: var(--glass-border-w) solid var(--glass-border);
+    border-radius: var(--glass-radius);
+    box-shadow:
+      var(--glass-shadow),
+      var(--glass-bevel);
+    color: var(--text-primary);
   }
 
-  .container { max-width:720px; margin:0 auto; padding:28px 16px 48px; position:relative; z-index:1; }
+  .nr-glass--pill { border-radius: var(--glass-radius-pill); }
+  .nr-glass--lg   { border-radius: var(--glass-radius-lg); }
+  .nr-glass--sm   { border-radius: var(--glass-radius-sm); }
+
+  .nr-glass--frosted { background: var(--glass-frost); }
+
+  .nr-prism-text {
+    background: linear-gradient(120deg, #3cb6ff 0%, #6a7cff 26%, #b15cff 50%, #ff5fb8 74%, #25cfa0 100%);
+    -webkit-background-clip: text;
+            background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+
+  .nr-glass--tint {
+    background:
+      linear-gradient(150deg,
+        color-mix(in srgb, var(--tint, var(--nr-amber)) 70%, transparent),
+        color-mix(in srgb, var(--tint, var(--nr-amber)) 38%, transparent));
+    border-color: color-mix(in srgb, #ffffff 70%, var(--tint, var(--nr-amber)));
+    color: var(--text-on-tint);
+    box-shadow:
+      var(--glass-shadow),
+      0 8px 22px -6px color-mix(in srgb, var(--tint, var(--nr-amber)) 50%, transparent),
+      inset 1.5px 2px 3px rgba(255,255,255,0.85),
+      inset -1.5px -2px 6px color-mix(in srgb, var(--tint, var(--nr-amber)) 35%, transparent),
+      inset 0 0 16px rgba(255,255,255,0.22);
+  }
+
+  .nr-glass--interactive {
+    cursor: pointer;
+    transition:
+      transform var(--dur-fast) var(--ease-glass),
+      box-shadow var(--dur-glass) var(--ease-glass),
+      border-color var(--dur-glass) var(--ease-glass);
+  }
+  .nr-glass--interactive:hover {
+    transform: translateY(-2px);
+    box-shadow:
+      var(--glass-shadow-hover),
+      var(--glass-bevel);
+  }
+  .nr-glass--interactive:active { transform: translateY(0) scale(var(--press-scale)); }
+
+  /* ---- Top specular sheen ---- */
+  .nr-glass--sheen > .nr-sheen,
+  .nr-sheen {
+    position: absolute;
+    left: 7%; right: 7%; top: 0; height: 16%;
+    border-radius: inherit;
+    background: linear-gradient(to bottom, var(--glass-specular), transparent);
+    pointer-events: none;
+    opacity: 0.6;
+    filter: blur(1px);
+  }
+
+  /* ============================================================
+     Rex mascot + radar
+     ============================================================ */
+  .nr-radar { position: relative; flex: 0 0 auto; }
+  .nr-radar::before,
+  .nr-radar::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    border: 1px solid color-mix(in srgb, var(--accent-fresh) 55%, transparent);
+    animation: nr-radar-ping 2.6s ease-out infinite;
+  }
+  .nr-radar::after { animation-delay: 1.3s; }
+
+  @keyframes nr-radar-ping {
+    0%   { transform: scale(0.55); opacity: 0.8; }
+    80%  { transform: scale(1.5);  opacity: 0;   }
+    100% { transform: scale(1.5);  opacity: 0;   }
+  }
+  @keyframes nr-dino-bob {
+    0%, 100% { transform: translateY(0); }
+    50%      { transform: translateY(-4px); }
+  }
+  @keyframes nr-fade-in-up {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ============================================================
+     Page layout
+     ============================================================ */
+  .container { max-width: 720px; margin: 0 auto; padding: 28px 16px 48px; position: relative; z-index: 1; }
+
+  /* Theme toggle (glass segmented control) */
+  .toggle { display: flex; justify-content: center; margin-bottom: 24px; }
+  .toggle .seg { display: inline-flex; padding: 4px; gap: 4px; }
+  .toggle button { border: none; background: transparent; cursor: pointer; border-radius: 999px;
+    padding: 8px 18px; font: inherit; font-size: 14px; color: var(--text-secondary);
+    transition: color var(--dur-glass) var(--ease-glass); }
+  .toggle button.on { color: var(--text-on-tint); font-weight: 500;
+    background: linear-gradient(150deg, color-mix(in srgb, var(--accent-brand) 78%, transparent), color-mix(in srgb, var(--accent-brand) 46%, transparent));
+    box-shadow: 0 4px 12px rgba(0,0,0,0.16), inset 0 1px 1px rgba(255,255,255,0.6); }
 
   /* Header */
-  .header { text-align:center; margin-bottom:30px; padding-top:8px; }
-  .logo-wrap { display:flex; align-items:center; justify-content:center; gap:10px; }
-  .logo {
-    font-family:'Playfair Display', serif; font-size:36px; font-weight:700;
-    letter-spacing:-0.5px;
-  }
-  .logo span { color:var(--rose); }
-  .tagline { font-size:11px; letter-spacing:3px; text-transform:uppercase; color:var(--text3); margin-top:8px; }
-  .date-badge {
-    display:inline-block; margin-top:16px;
-    background:linear-gradient(135deg, var(--bg3), var(--bg2));
-    border:1px solid var(--border); border-radius:20px;
-    padding:6px 18px; font-size:12px; color:var(--text2);
-    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
-  }
-  .date-badge span { color:var(--rose); font-weight:500; }
-
-  /* Rex with radar ping */
-  .rex-wrap { position:relative; width:46px; height:46px; flex:0 0 auto; }
-  .rex-wrap::before, .rex-wrap::after {
-    content:''; position:absolute; inset:0; border-radius:50%;
-    border:1px solid rgba(74,184,128,0.5);
-    animation: radar-ping 2.6s ease-out infinite;
-  }
-  .rex-wrap::after { animation-delay: 1.3s; }
-  .rex-dino {
-    position:relative; z-index:1; width:100%; height:100%;
-    image-rendering:pixelated;
-    animation: dino-bob 1.2s ease-in-out infinite;
-    filter: drop-shadow(0 0 8px rgba(74,184,128,0.45));
-  }
-  @keyframes radar-ping {
-    0%   { transform:scale(0.55); opacity:0.8; }
-    80%  { transform:scale(1.5);  opacity:0; }
-    100% { transform:scale(1.5);  opacity:0; }
-  }
-  @keyframes dino-bob {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-4px); }
-  }
+  .header { text-align: center; margin-bottom: 26px; padding-top: 8px; }
+  .logo-wrap { display: flex; align-items: center; justify-content: center; gap: 16px; }
+  .logo { font-family: var(--font-display); font-size: 38px; font-weight: 700; letter-spacing: -0.5px; color: var(--text-primary); }
+  .rex-wrap { width: 60px; height: 60px; }
+  .rex-dino { width: 100%; height: 100%; image-rendering: pixelated; position: relative; z-index: 1;
+    filter: drop-shadow(0 0 8px rgba(52,192,138,0.5)); animation: nr-dino-bob 1.2s ease-in-out infinite; }
+  .tagline { font-size: 11px; letter-spacing: 3px; text-transform: uppercase; color: var(--text-muted); margin-top: 8px; }
+  .date-badge { display: inline-flex; align-items: center; gap: 7px; margin-top: 16px; padding: 7px 18px;
+    font-size: 12px; color: var(--text-secondary); }
+  .date-badge b { color: var(--accent-brand); font-weight: 500; }
 
   /* Source filter */
-  .filter-wrap {
-    background: linear-gradient(135deg, var(--bg2), #131c2e);
-    border: 1px solid var(--border);
-    border-radius: 16px;
-    padding: 14px 16px;
-    margin-bottom: 30px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.25);
-  }
-  .filter-label {
-    font-size: 10px; letter-spacing: 3px; text-transform: uppercase;
-    color: var(--text3); margin-bottom: 10px;
-  }
-  .filter-chips { display:flex; flex-wrap:wrap; gap:6px; }
-  .chip {
-    font-size: 11px;
-    padding: 6px 13px;
-    border-radius: 20px;
-    border: 1px solid var(--border);
-    background: var(--bg3);
-    color: var(--text2);
-    cursor: pointer;
-    font-family: inherit;
-    transition: all 0.15s;
-  }
-  .chip:hover { color: var(--text); border-color: var(--text3); transform: translateY(-1px); }
-  .chip.active {
-    background: rgba(201,136,120,0.16);
-    border-color: var(--rose);
-    color: var(--rose);
-    box-shadow: 0 0 12px rgba(201,136,120,0.18);
-  }
+  .filter-wrap { padding: 16px 18px; margin-bottom: 30px; }
+  .filter-label { display:flex; align-items:center; gap:7px; font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 12px; }
+  .filter-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { padding: 7px 15px; border: none; font: inherit; font-size: 11px; cursor: pointer; color: var(--text-secondary); }
+  .chip.active { color: var(--text-on-tint);
+    background: linear-gradient(150deg, color-mix(in srgb, var(--accent-brand) 78%, transparent), color-mix(in srgb, var(--accent-brand) 46%, transparent)); }
 
   /* Section */
   .section { margin-bottom: 38px; }
-  .section-header {
-    display:flex; align-items:center; gap:10px; margin-bottom: 16px; padding-left: 4px;
-  }
-  .section-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 22px;
-    font-weight: 700;
-  }
-  .section-bar {
-    flex:1; height:1px;
-    background: linear-gradient(90deg, var(--border), transparent);
-  }
-  .section-count {
-    font-size: 11px; color: var(--text3);
-    background: var(--bg2); padding: 2px 10px; border-radius: 20px; border: 1px solid var(--border);
-  }
-  .section-ki .section-title { color: var(--purple); }
-  .section-co .section-title { color: var(--blue); }
-  .section-bo .section-title { color: var(--gold); }
-  .section-ki .section-count { color: var(--purple); border-color: rgba(167,139,250,0.3); }
-  .section-co .section-count { color: var(--blue); border-color: rgba(96,165,250,0.3); }
-  .section-bo .section-count { color: var(--gold); border-color: rgba(251,191,36,0.3); }
+  .section-header { display: flex; align-items: center; gap: 11px; margin-bottom: 16px; padding-left: 2px; }
+  .section-icon { width: 34px; height: 34px; display: grid; place-items: center; flex: 0 0 auto; }
+  .section-title { font-family: var(--font-display); font-size: 22px; font-weight: 700; color: var(--text-primary); }
+  .section-bar { flex: 1; height: 1px; background: linear-gradient(90deg, var(--glass-border), transparent); }
+  .section-count { padding: 3px 11px; font-size: 11px; font-weight: 500; }
 
   /* Story card */
-  .stories { display:flex; flex-direction:column; gap: 12px; }
-  .story {
-    background: linear-gradient(160deg, var(--bg2), #0f1626);
-    border: 1px solid var(--border);
-    border-radius: 16px;
-    padding: 18px 20px;
-    color: inherit;
-    display: block;
-    position: relative;
-    overflow: hidden;
-    animation: fadeInUp 0.4s ease both;
-    transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
-  }
-  .story:hover {
-    transform: translateY(-2px);
-    border-color: color-mix(in srgb, var(--accent, var(--rose)) 50%, var(--border));
-    box-shadow: 0 8px 28px rgba(0,0,0,0.35);
-  }
-  .story::before {
-    content:''; position:absolute; left:0; top:0; bottom:0;
-    width: 3px; background: var(--accent, var(--rose));
-    border-radius: 3px 0 0 3px; opacity: 0.75;
-  }
-  .story::after {
-    content:''; position:absolute; right:-40px; top:-40px; width:120px; height:120px;
-    border-radius:50%; pointer-events:none;
-    background: radial-gradient(circle, var(--accent, var(--rose)) 0%, transparent 70%);
-    opacity: 0.06;
-  }
-
-  .story-meta {
-    display: flex; align-items: center; justify-content: space-between;
-    gap: 10px; margin-bottom: 9px;
-  }
-  .story-source {
-    font-size: 10px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: var(--accent, var(--rose));
-    font-weight: 500;
-    display: flex; align-items: center; gap: 6px;
-  }
-  .story-source::before {
-    content:''; width:5px; height:5px; border-radius:50%;
-    background: var(--accent, var(--rose));
-    box-shadow: 0 0 6px var(--accent, var(--rose));
-  }
-  .story-company {
-    font-size: 10px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: var(--text3);
-    background: var(--bg3);
-    border: 1px solid var(--border);
-    padding: 2px 8px;
-    border-radius: 12px;
-    white-space: nowrap;
-  }
-  .story-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 17.5px;
-    font-weight: 700;
-    line-height: 1.32;
-    color: var(--text);
-    margin-bottom: 8px;
-  }
-  .story-text {
-    font-size: 13.5px;
-    color: var(--text2);
-    line-height: 1.6;
-  }
-  .story-date {
-    margin-top: 11px;
-    font-size: 11px;
-    color: var(--text3);
-    letter-spacing: 0.5px;
-    display: flex; align-items: center; gap: 8px;
-  }
-  .badge-heute {
-    font-size: 9px; font-weight: 500;
-    letter-spacing: 1.5px; text-transform: uppercase;
-    color: var(--green);
-    background: rgba(74,184,128,0.12);
-    border: 1px solid rgba(74,184,128,0.35);
-    padding: 2px 8px; border-radius: 10px;
-  }
+  .stories { display: flex; flex-direction: column; gap: 14px; }
+  .story { padding: 18px 20px; position: relative; overflow: hidden; animation: nr-fade-in-up 0.4s ease both; }
+  .story-meta { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 9px; }
+  .story-source { font-size: 10px; letter-spacing: 2px; text-transform: uppercase; font-weight: 500; display: flex; align-items: center; gap: 6px; }
+  .story-source::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: currentColor; box-shadow: 0 0 6px currentColor; }
+  .story-company { font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted);
+    background: var(--glass-fill-solid); border: 1px solid var(--glass-border); padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+  .story-title { font-family: var(--font-display); font-size: 17.5px; font-weight: 700; line-height: 1.32; color: var(--text-primary); margin-bottom: 8px; text-wrap: pretty; }
+  .story-text { font-size: 13.5px; color: var(--text-secondary); line-height: 1.6; text-wrap: pretty; }
+  .story-date { margin-top: 11px; font-size: 11px; color: var(--text-muted); display: flex; align-items: center; gap: 8px; }
+  .badge-heute { font-size: 9px; font-weight: 500; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-on-tint);
+    padding: 3px 9px; border-radius: 999px;
+    background: linear-gradient(150deg, color-mix(in srgb, var(--accent-fresh) 80%, transparent), color-mix(in srgb, var(--accent-fresh) 50%, transparent)); }
 
   /* States */
   .empty {
     text-align: center;
-    color: var(--text3);
+    color: var(--text-secondary);
     font-size: 13px;
-    padding: 24px 12px;
-    border: 1px dashed var(--border);
-    border-radius: 16px;
+    padding: 24px 16px;
+    line-height: 1.6;
   }
   .skeleton {
-    border-radius: 16px;
-    border: 1px solid var(--border);
+    border-radius: var(--glass-radius);
     height: 110px;
-    margin-bottom: 12px;
-    background: linear-gradient(100deg, var(--bg2) 40%, var(--bg3) 50%, var(--bg2) 60%);
+    margin-bottom: 14px;
+    position: relative;
+    overflow: hidden;
+    background: var(--glass-frost);
+    border: 1px solid var(--glass-border);
+    box-shadow: var(--glass-shadow-sm), var(--glass-bevel);
+  }
+  .skeleton::after {
+    content: ''; position: absolute; inset: 0;
+    background: linear-gradient(100deg, transparent 38%, var(--glass-specular) 50%, transparent 62%);
     background-size: 200% 100%;
     animation: shimmer 1.4s infinite linear;
   }
@@ -255,73 +388,80 @@
     text-align: center;
     margin-top: 36px;
     padding-top: 20px;
-    border-top: 1px solid var(--border);
+    border-top: 1px solid var(--glass-border);
     font-size: 11px;
-    color: var(--text3);
+    color: var(--text-secondary);
     letter-spacing: 1px;
     line-height: 2;
   }
-  .footer .stand { color: var(--text2); }
-
-  @keyframes fadeInUp {
-    from { opacity:0; transform:translateY(12px); }
-    to { opacity:1; transform:translateY(0); }
-  }
+  .footer .stand { color: var(--text-muted); }
 
   @media (prefers-reduced-motion: reduce) {
-    .rex-dino, .rex-wrap::before, .rex-wrap::after, .story, .skeleton { animation: none; }
+    .nr-radar::before, .nr-radar::after,
+    .rex-dino, .story, .skeleton::after,
+    .nr-glass--interactive { animation: none; transition: none; }
   }
 </style>
 </head>
-<body>
+<body class="nr-app nr-aura">
 <div class="container">
+
+  <!-- Theme toggle (glass segmented control) -->
+  <div class="toggle">
+    <div class="seg nr-glass nr-glass--pill nr-glass--sheen">
+      <span class="nr-sheen"></span>
+      <button data-theme-btn="light">Hell</button>
+      <button data-theme-btn="dark">Dunkel</button>
+    </div>
+  </div>
 
   <div class="header">
     <div class="logo-wrap">
-      <div class="logo">News<span>Radar</span></div>
-      <div class="rex-wrap">
+      <div class="logo">News<span class="nr-prism-text">Radar</span></div>
+      <div class="rex-wrap nr-radar">
         <svg class="rex-dino" viewBox="0 0 19 18" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" aria-label="Rex">
-          <rect x="9" y="0" width="10" height="1" fill="#4ab880"/>
-          <rect x="8" y="1" width="2" height="1" fill="#4ab880"/>
+          <rect x="9" y="0" width="10" height="1" fill="#34c08a"/>
+          <rect x="8" y="1" width="2" height="1" fill="#34c08a"/>
           <rect x="10" y="1" width="1" height="1" fill="#fff"/>
-          <rect x="11" y="1" width="8" height="1" fill="#4ab880"/>
-          <rect x="8" y="2" width="11" height="1" fill="#4ab880"/>
-          <rect x="8" y="3" width="4" height="1" fill="#4ab880"/>
+          <rect x="11" y="1" width="8" height="1" fill="#34c08a"/>
+          <rect x="8" y="2" width="11" height="1" fill="#34c08a"/>
+          <rect x="8" y="3" width="4" height="1" fill="#34c08a"/>
           <rect x="13" y="3" width="1" height="1" fill="#fff"/>
           <rect x="15" y="3" width="1" height="1" fill="#fff"/>
-          <rect x="8" y="4" width="9" height="1" fill="#4ab880"/>
-          <rect x="8" y="5" width="4" height="1" fill="#4ab880"/>
-          <rect x="0" y="6" width="1" height="1" fill="#4ab880"/>
-          <rect x="7" y="6" width="5" height="1" fill="#4ab880"/>
-          <rect x="0" y="7" width="2" height="1" fill="#4ab880"/>
-          <rect x="6" y="7" width="7" height="1" fill="#4ab880"/>
-          <rect x="0" y="8" width="3" height="1" fill="#4ab880"/>
-          <rect x="5" y="8" width="9" height="1" fill="#4ab880"/>
-          <rect x="0" y="9" width="16" height="1" fill="#4ab880"/>
-          <rect x="1" y="10" width="12" height="1" fill="#4ab880"/>
-          <rect x="15" y="10" width="1" height="1" fill="#4ab880"/>
-          <rect x="2" y="11" width="10" height="1" fill="#4ab880"/>
-          <rect x="3" y="12" width="9" height="1" fill="#4ab880"/>
-          <rect x="4" y="13" width="7" height="1" fill="#4ab880"/>
-          <rect x="5" y="14" width="2" height="1" fill="#4ab880"/>
-          <rect x="9" y="14" width="2" height="1" fill="#4ab880"/>
-          <rect x="5" y="15" width="2" height="1" fill="#4ab880"/>
-          <rect x="9" y="15" width="2" height="1" fill="#4ab880"/>
-          <rect x="5" y="16" width="2" height="1" fill="#4ab880"/>
-          <rect x="9" y="16" width="2" height="1" fill="#4ab880"/>
-          <rect x="5" y="17" width="3" height="1" fill="#4ab880"/>
-          <rect x="10" y="17" width="3" height="1" fill="#4ab880"/>
+          <rect x="8" y="4" width="9" height="1" fill="#34c08a"/>
+          <rect x="8" y="5" width="4" height="1" fill="#34c08a"/>
+          <rect x="0" y="6" width="1" height="1" fill="#34c08a"/>
+          <rect x="7" y="6" width="5" height="1" fill="#34c08a"/>
+          <rect x="0" y="7" width="2" height="1" fill="#34c08a"/>
+          <rect x="6" y="7" width="7" height="1" fill="#34c08a"/>
+          <rect x="0" y="8" width="3" height="1" fill="#34c08a"/>
+          <rect x="5" y="8" width="9" height="1" fill="#34c08a"/>
+          <rect x="0" y="9" width="16" height="1" fill="#34c08a"/>
+          <rect x="1" y="10" width="12" height="1" fill="#34c08a"/>
+          <rect x="15" y="10" width="1" height="1" fill="#34c08a"/>
+          <rect x="2" y="11" width="10" height="1" fill="#34c08a"/>
+          <rect x="3" y="12" width="9" height="1" fill="#34c08a"/>
+          <rect x="4" y="13" width="7" height="1" fill="#34c08a"/>
+          <rect x="5" y="14" width="2" height="1" fill="#34c08a"/>
+          <rect x="9" y="14" width="2" height="1" fill="#34c08a"/>
+          <rect x="5" y="15" width="2" height="1" fill="#34c08a"/>
+          <rect x="9" y="15" width="2" height="1" fill="#34c08a"/>
+          <rect x="5" y="16" width="2" height="1" fill="#34c08a"/>
+          <rect x="9" y="16" width="2" height="1" fill="#34c08a"/>
+          <rect x="5" y="17" width="3" height="1" fill="#34c08a"/>
+          <rect x="10" y="17" width="3" height="1" fill="#34c08a"/>
         </svg>
       </div>
     </div>
     <div class="tagline">Tägliches Briefing: KI, Wirtschaft, Märkte</div>
-    <div class="date-badge">📅 <span id="datum">…</span></div>
+    <div class="date-badge nr-glass nr-glass--pill nr-glass--sheen"><span class="nr-sheen"></span>📅 <b id="datum">…</b></div>
   </div>
 
-  <div class="filter-wrap">
+  <div class="filter-wrap nr-glass nr-glass--sheen">
+    <span class="nr-sheen"></span>
     <div class="filter-label">🔍 Quelle filtern</div>
     <div class="filter-chips" id="filter-chips">
-      <button class="chip active" data-source="ALL">Alle</button>
+      <button class="chip nr-glass nr-glass--pill nr-glass--interactive active" data-source="ALL">Alle</button>
     </div>
   </div>
 
@@ -340,13 +480,50 @@
 
 <script>
   const SECTIONS = [
-    { key: 'ki_stories',        title: '🤖 KI-Branche',        cls: 'section-ki', accent: '#a78bfa' },
-    { key: 'unternehmen_stories', title: '🏢 Unternehmens-News', cls: 'section-co', accent: '#60a5fa' },
-    { key: 'boerse_stories',    title: '📈 Börse & Gold',      cls: 'section-bo', accent: '#fbbf24' },
+    {
+      key: 'ki_stories',
+      title: 'KI-Branche',
+      accent: 'var(--cat-ki)',
+      icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.94 14.06a4 4 0 0 1 0-4.12"/><path d="m12 3-1.9 5.8a2 2 0 0 1-1.3 1.3L3 12l5.8 1.9a2 2 0 0 1 1.3 1.3L12 21l1.9-5.8a2 2 0 0 1 1.3-1.3L21 12l-5.8-1.9a2 2 0 0 1-1.3-1.3z"/></svg>'
+    },
+    {
+      key: 'unternehmen_stories',
+      title: 'Unternehmens-News',
+      accent: 'var(--cat-unternehmen)',
+      icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/><path d="M10 6h4M10 10h4M10 14h4M10 18h4"/></svg>'
+    },
+    {
+      key: 'boerse_stories',
+      title: 'Börse & Gold',
+      accent: 'var(--cat-boerse)',
+      icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 7h6v6"/><path d="m22 7-8.5 8.5-5-5L2 17"/></svg>'
+    },
   ];
 
   let allData = null;
   let activeSource = 'ALL';
+
+  // ---- Theme toggle (Hell / Dunkel), Auswahl bleibt erhalten ----
+  function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    document.querySelectorAll('[data-theme-btn]').forEach(b => {
+      b.classList.toggle('on', b.dataset.themeBtn === theme);
+    });
+    const meta = document.querySelector('meta[name="theme-color"]');
+    if (meta) meta.setAttribute('content', theme === 'dark' ? '#0b1020' : '#eaf0f7');
+  }
+  function initTheme() {
+    let theme = 'light';
+    try { theme = localStorage.getItem('nr-theme') || 'light'; } catch (e) {}
+    applyTheme(theme);
+    document.querySelectorAll('[data-theme-btn]').forEach(b => {
+      b.onclick = () => {
+        const t = b.dataset.themeBtn;
+        try { localStorage.setItem('nr-theme', t); } catch (e) {}
+        applyTheme(t);
+      };
+    });
+  }
 
   async function load() {
     try {
@@ -356,7 +533,7 @@
       render();
     } catch (e) {
       document.getElementById('content').innerHTML =
-        '<div class="empty">🦖 Aktuell keine Nachrichten verfügbar.<br><br>' +
+        '<div class="empty nr-glass nr-glass--frosted">🦖 Aktuell keine Nachrichten verfügbar.<br><br>' +
         'Sobald die tägliche Routine läuft, erscheinen hier jeden Morgen frische News.</div>';
     }
   }
@@ -383,8 +560,7 @@
     const chipsEl = document.getElementById('filter-chips');
     chipsEl.innerHTML = '';
 
-    const allChip = makeChip('ALL', 'Alle');
-    chipsEl.appendChild(allChip);
+    chipsEl.appendChild(makeChip('ALL', 'Alle'));
 
     Array.from(sources).sort().forEach(src => {
       chipsEl.appendChild(makeChip(src, src));
@@ -393,7 +569,7 @@
 
   function makeChip(value, label) {
     const b = document.createElement('button');
-    b.className = 'chip' + (activeSource === value ? ' active' : '');
+    b.className = 'chip nr-glass nr-glass--pill nr-glass--interactive' + (activeSource === value ? ' active' : '');
     b.dataset.source = value;
     b.textContent = label;
     b.onclick = () => {
@@ -416,22 +592,23 @@
       );
 
       const section = document.createElement('div');
-      section.className = 'section ' + sec.cls;
+      section.className = 'section';
 
       const header = document.createElement('div');
       header.className = 'section-header';
       header.innerHTML =
-        '<div class="section-title">' + sec.title + '</div>' +
-        '<div class="section-bar"></div>' +
-        '<div class="section-count">' + stories.length + '</div>';
+        '<span class="section-icon nr-glass nr-glass--sm" style="color:' + sec.accent + '">' + sec.icon + '</span>' +
+        '<span class="section-title">' + sec.title + '</span>' +
+        '<span class="section-bar"></span>' +
+        '<span class="section-count nr-glass nr-glass--pill" style="color:' + sec.accent + '">' + stories.length + '</span>';
       section.appendChild(header);
 
       const list = document.createElement('div');
       list.className = 'stories';
 
       if (stories.length === 0) {
-        list.innerHTML = '<div class="empty">Keine Stories ' +
-          (activeSource === 'ALL' ? 'in dieser Kategorie' : 'von ' + activeSource) +
+        list.innerHTML = '<div class="empty nr-glass nr-glass--frosted">Keine Stories ' +
+          (activeSource === 'ALL' ? 'in dieser Kategorie' : 'von ' + escapeHtml(activeSource)) +
           '.</div>';
       } else {
         stories.forEach((story, i) => {
@@ -453,8 +630,7 @@
 
   function makeStoryCard(story, accent, index) {
     const div = document.createElement('div');
-    div.className = 'story';
-    div.style.setProperty('--accent', accent);
+    div.className = 'story nr-glass nr-glass--frosted nr-glass--sheen';
     div.style.animationDelay = (index * 0.05) + 's';
 
     const company = story.unternehmen
@@ -470,8 +646,9 @@
       : '';
 
     div.innerHTML =
+      '<span class="nr-sheen"></span>' +
       '<div class="story-meta">' +
-        '<div class="story-source">' + escapeHtml(story.quelle || '') + '</div>' +
+        '<div class="story-source" style="color:' + accent + '">' + escapeHtml(story.quelle || '') + '</div>' +
         company +
       '</div>' +
       '<div class="story-title">' + escapeHtml(story.titel || '') + '</div>' +
@@ -502,6 +679,7 @@
       .replace(/'/g, '&#039;');
   }
 
+  initTheme();
   load();
 </script>
 </body>
