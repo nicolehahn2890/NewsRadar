@@ -1,54 +1,47 @@
 {
-  "datum": "Samstag, 13. Juni 2026",
-  "generiert": "2026-06-13",
+  "datum": "Sonntag, 14. Juni 2026",
+  "generiert": "2026-06-14",
   "ki_stories": [
     {
-      "titel": "OpenAI entdeckt chinesische Einfluss-Kampagne gegen US-KI-Datenzentren",
-      "text": "OpenAI hat nach eigenen Angaben eine koordinierte Desinformationskampagne aufgedeckt, hinter der mutmaßlich in China ansässige Akteure stecken sollen. Die Kampagne nutzte ChatGPT, um Inhalte zu generieren, die in sozialen Medien gezielt die US-amerikanische Debatte über den Bau neuer KI-Datenzentren beeinflussen sollten. OpenAI sperrte eine Gruppe von Accounts, die versuchten, legitimen lokalen Widerstand gegen geplante Rechenzentren in den USA durch extern produzierte Propaganda zu verstärken und zu manipulieren. Das Unternehmen wertet dies als Teil eines staatlich gesteuerten Musters, das gezielt technologiepolitische Diskussionen in den USA angreift. Hintergrund ist der milliardenschwere Ausbau der US-KI-Infrastruktur, der inzwischen als strategischer Wettbewerbsvorteil gegenüber China gilt. Die Enthüllung erhöht den Druck auf US-Gesetzgeber, KI-gestützte Einflussnahme aus dem Ausland als sicherheitspolitisches Risiko einzustufen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-11"
-    },
-    {
-      "titel": "NVIDIA beschleunigt Googles DiffusionGemma für lokale KI-Inferenz auf GPUs",
-      "text": "NVIDIA hat angekündigt, das Open-Source-Modell DiffusionGemma von Google DeepMind für die Ausführung auf lokalen NVIDIA-GPUs zu optimieren und in den RTX AI Garage Workflow zu integrieren. DiffusionGemma ist ein 26-Milliarden-Parameter-Modell mit Mixture-of-Experts-Architektur, das Text in parallelen Blöcken statt sequenziell erzeugt und damit bis zu 1.000 Token pro Sekunde auf NVIDIA-Hardware erreicht — rund viermal schneller als vergleichbare autoregressive Modelle. Aktiv genutzt werden dabei nur 3,8 Milliarden der 26 Milliarden Parameter, was den Energiebedarf erheblich senkt. Das Modell ist unter der Apache-2.0-Lizenz frei verfügbar und gilt als erstes bedeutendes Open-Source-Textdiffusionsmodell überhaupt. Die Kooperation unterstreicht den wachsenden Trend zur lokalen KI-Inferenz als datenschutzfreundliche und kosteneffiziente Alternative zu Cloud-Diensten. Für NVIDIA ist es ein weiterer Schachzug, Googles KI-Ökosystem eng an die eigene GPU-Plattform zu binden.",
+      "titel": "Anthropic überholt OpenAI erstmals bei US-Unternehmensnutzung",
+      "text": "Laut dem aktuell veröffentlichten Ramp AI Index hat Anthropic OpenAI bei der tatsächlichen Nutzung durch US-Unternehmen erstmals überholt. Der Index misst, welche KI-Modelle amerikanische Firmen im Arbeitsalltag einsetzen, und zeigt: Claude-Modelle werden nun häufiger genutzt als GPT-Modelle im Unternehmensbereich. Als wichtigster Treiber gilt Claude Code, Anthropics KI-Codierassistent, der bei Entwicklungsteams stark nachgefragt wird. Parallel dazu warnt eine separate IDC-Studie, dass der Vorsprung fragil sei: Hohe Rechenkosten, Kapazitätsengpässe und das tokenbasierte Preismodell könnten Anthropics Führungsposition unter Druck setzen. Für OpenAI ist das Ergebnis ein Signal, den Fokus stärker auf Enterprise-Kunden auszurichten - ähnlich wie es bereits mit dem Codex-Angebot geschieht.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-12"
+      "datum_artikel": "2026-06-13"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX startet als SPCX an der Nasdaq: Größter Börsengang der US-Geschichte",
-      "text": "Elon Musks Raumfahrtunternehmen SpaceX hat am 12. Juni 2026 unter dem Ticker SPCX seinen Handel an der Nasdaq aufgenommen und damit den größten Börsengang in der Geschichte der USA vollzogen. Der IPO-Preis lag bei 135 US-Dollar je Aktie bei einem Emissionsvolumen von rund 555,6 Millionen Aktien, was einen Emissionserlös von 75 Milliarden US-Dollar generierte. Die Aktie schloss am ersten Handelstag bei rund 161 US-Dollar — ein Plus von rund 19 Prozent gegenüber dem Ausgabepreis — und bewertete SpaceX damit bei über 1,75 Billionen US-Dollar. Goldman Sachs leitete ein 21-köpfiges Bankenkonsortium; 30 Prozent des Free Floats wurden über Robinhood, Fidelity und Charles Schwab direkt an Privatanleger vergeben. SpaceX ist neben dem Starlink-Satellitennetz und Raketenprogrammen (Falcon 9, Starship) zunehmend auch im Bereich physischer KI und industrieller Robotik aktiv. Der Börsengang markiert eine neue Phase für Musks Unternehmensportfolio und sendete starke Signale an den gesamten Tech-Markt.",
+      "titel": "SpaceX feiert Börsenstart: Aktie legt am ersten Handelstag 25% zu",
+      "text": "SpaceX startete am 12. Juni 2026 den Handel an der Nasdaq unter dem Ticker SPCX und schloss den ersten Handelstag mit einem Kursplus von rund 25 Prozent gegenüber dem Ausgabepreis. Das Unternehmen hatte beim Börsengang eine Bewertung von über 1,75 Billionen US-Dollar angestrebt, was diesen zu einem der größten Börsengänge der Geschichte machen würde. Die Emission zielte auf eine Kapitalaufnahme von 75 Milliarden US-Dollar ab - noch vor den geplanten Börsengängen von Anthropic und OpenAI, die beide im Herbst 2026 an den Markt kommen wollen. Das starke Debüt bestätigt die hohen Bewertungsannahmen rund um KI-Infrastruktur und gibt den Investoren Zuversicht für die kommende IPO-Welle. SpaceX-Management hatte bei der Emission besonders auf eine breite Beteiligung von Privatanlegern gesetzt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-12",
       "unternehmen": "SpaceX"
     },
     {
-      "titel": "OpenAI übernimmt Cloud-Startup Ona zur Stärkung der KI-Agenten-Infrastruktur",
-      "text": "OpenAI hat am 12. Juni 2026 die Übernahme des Cloud-Startups Ona bekanntgegeben, um die technische Infrastruktur für seine KI-Agenten weiterzuentwickeln. Ona hat sich auf cloud-native Architekturen spezialisiert, die für den effizienten Betrieb von autonomen KI-Agenten ausgelegt sind. Mit dem Deal stärkt OpenAI seine Position im wachsenden Markt für Agentic AI — also KI-Systeme, die eigenständig Aufgaben planen und ausführen, ohne ständige menschliche Steuerung. Die finanzielle Höhe der Transaktion wurde nicht veröffentlicht. OpenAI befindet sich aktuell in einer Phase rasanter Expansion: Das Unternehmen hat Anfang Juni vertraulich einen S-1-IPO-Antrag bei der SEC eingereicht und strebt dabei eine Bewertung von rund 852 Milliarden US-Dollar an. Die Ona-Akquisition passt zu OpenAIs Strategie, die gesamte Wertschöpfungskette von der Modellentwicklung bis hin zur Agenten-Laufzeitinfrastruktur intern zu kontrollieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-12",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Oracle öffnet Enterprise-Kunden direkten Zugang zu OpenAI-Frontier-Modellen",
-      "text": "Oracle hat angekündigt, dass Enterprise-Kunden ab sofort über ihre bestehenden Oracle Universal Credits Zugang zu den Frontier-KI-Modellen von OpenAI sowie zu Codex erhalten können. Damit entfällt für Oracle Cloud Infrastructure (OCI)-Kunden die Notwendigkeit, eine separate Vertragsbeziehung mit OpenAI aufzubauen — die KI-Modelle lassen sich direkt über bestehende OCI-Verträge abrufen und abrechnen. Oracle hatte erst kurz zuvor mit einem Rekord-KI-Auftragsbestand von 638 Milliarden US-Dollar seine Bedeutung als KI-Cloud-Infrastrukturplayer unterstrichen, was einem Jahresvergleichsanstieg von 363 Prozent entspricht. Die Partnerschaft dürfte vor allem großen Unternehmenskunden zugutekommen, die ihre bestehenden Oracle-Umgebungen mit KI-Fähigkeiten erweitern wollen, ohne die Beschaffungsprozesse zu verdoppeln. Für OpenAI eröffnet die Kooperation einen wichtigen neuen Vertriebskanal neben Microsoft Azure, AWS und den eigenen API-Diensten. Analysten sehen in solchen Cloud-Distributionspartnerschaften eine zentrale Wachstumsstrategie für KI-Modellanbieter im Enterprise-Markt.",
+      "titel": "NVIDIA und SK Hynix schließen mehrjährige KI-Speicherpartnerschaft",
+      "text": "NVIDIA und der südkoreanische Speicherchip-Hersteller SK Hynix haben eine mehrjährige Technologiepartnerschaft zur gemeinsamen Entwicklung von Hochleistungsspeichern für KI-Systeme angekündigt. Die Kooperation umfasst NVIDIAs gesamte KI-Produktpalette: Vera Rubin KI-Supercomputer, Vera-CPUs, RTX Spark PCs sowie die Jetson Thor Robotikplattform. SK Hynix ist einer der drei weltweit führenden Hersteller von HBM-Speicher (High Bandwidth Memory), der für den Betrieb großer KI-Beschleuniger unerlässlich ist. Die Partnerschaft sichert NVIDIA langfristigen Zugang zu knappen Schlüsselkomponenten und gibt SK Hynix Planungssicherheit für milliardenschwere Investitionen in die nächste Speichergeneration. Analysten sehen darin eine strategische Antwort auf anhaltende Lieferkettenrisiken in der KI-Chipbranche.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-11",
-      "unternehmen": "Oracle"
+      "datum_artikel": "2026-06-13",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 gewinnt 0,5% auf 7.431 Punkte: SpaceX-IPO und Iran-Friedenshoffnung",
-      "text": "Der S&P 500 schloss am Freitag, dem 12. Juni 2026, mit einem Plus von 0,5 Prozent bei 7.431,46 Punkten, angetrieben vom erfolgreichen Börsenstart von SpaceX sowie wachsenden Hoffnungen auf ein baldiges Friedensabkommen zwischen den USA und dem Iran. Der Nasdaq Composite legte 0,31 Prozent auf 25.888,84 Punkte zu. SpaceX-Aktien (SPCX) stiegen am ersten Handelstag um rund 19 Prozent auf rund 161 US-Dollar und sorgten für positive Marktstimmung im gesamten Tech-Sektor. Zur Geopolitik: US-Vertreter sprachen von einem fast fertigen Entwurf für ein Friedensabkommen mit dem Iran, Pakistans Premierminister bestätigte einen 'finalen, vereinbarten Text' — Teheran zeigte sich jedoch zurückhaltender. Ein möglicher Waffenstillstand würde den Ölpreis senken und die seit Monaten durch den Iran-Konflikt angeheizte US-Inflationsdynamik dämpfen. Die FOMC-Sitzung vom 16. bis 17. Juni — die erste unter dem neuen Fed-Chef Kevin Warsh — bleibt für Anleger die entscheidende kurzfristige Unbekannte.",
-      "quelle": "Bloomberg",
+      "titel": "US-Inflation steigt auf 4,2% im Mai - höchster Wert seit April 2023",
+      "text": "Die US-Verbraucherpreise stiegen im Mai 2026 um 4,2 Prozent im Jahresvergleich und damit auf den höchsten Stand seit April 2023. Haupttreiber war ein Energiepreisanstieg von 23,5 Prozent, verursacht vor allem durch den Iran-Konflikt und dessen Auswirkungen auf die Ölmärkte. Die Daten überraschten die Märkte negativ: Erwartet wurde ein Anstieg auf rund 4,0 Prozent nach 3,8 Prozent im April 2026. Der unerwartet starke Inflationsanstieg erhöht den Druck auf die US-Notenbank Fed, die Zinsen länger auf erhöhtem Niveau zu halten oder sogar eine weitere Zinserhöhung in Betracht zu ziehen - obwohl die Fed zuletzt signalisiert hatte, die Zinsen bei 3,75 Prozent zu belassen. Für Anleger bedeutet das eine anhaltend restriktive Geldpolitik, die insbesondere Wachstumswerte und Gold belasten könnte.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-06-12"
     },
     {
-      "titel": "Gold pendelt bei 4.200 USD: CPI-Inflationsdruck und Iran-Deeskalation im Widerstreit",
-      "text": "Der Goldpreis bewegte sich am 12. Juni 2026 um die Marke von 4.200 US-Dollar je Feinunze, eingeklemmt zwischen zwei gegenläufigen Kräften. Einerseits drückte der überraschend hohe US-Verbraucherpreisindex (CPI) für Mai 2026 — plus 4,2 Prozent im Jahresvergleich, der höchste Wert seit April 2023 — auf den Goldkurs, weil er die Erwartung von Fed-Zinserhöhungen befeuert; höhere Zinsen verteuern das Halten von Gold. Andererseits stützten der anhaltende Iran-Konflikt und geopolitische Unsicherheiten den Goldkurs als klassischen sicheren Hafen. Kurzfristig dominierte am Freitag die Hoffnung auf einen baldigen US-Iran-Friedensschluss die Stimmung, was tendenziell gegen Gold wirkt und den Preis zeitweise unter 4.200 USD drückte. Der Producer Price Index (PPI) stieg im Mai um 6,5 Prozent im Jahresvergleich — der höchste Wert seit November 2022 — und signalisiert anhaltenden Kostendruck in den Lieferketten. Analysten sehen Gold weiterhin als wichtigen Puffer in einem Umfeld, in dem Inflation, Geopolitik und eine unklare Fed-Politik gleichzeitig auf die Märkte einwirken.",
+      "titel": "S&P 500 schließt positive Woche ab - Iran-Friedenshoffnung stützt Märkte",
+      "text": "Der S&P 500 verzeichnete in der Woche zum 12. Juni 2026 eine positive Performance und schloss am Freitag bei 7.431 Punkten, ein Plus von 0,50 Prozent auf Tagesbasis. Haupttreiber der Kursgewinne waren Berichte über mögliche Fortschritte bei Friedensverhandlungen rund um den Iran-Konflikt, woraufhin der Ölpreis um rund 2 Prozent auf etwa 85 US-Dollar je Barrel fiel. Sinkende Energiepreise wirken für Unternehmen und Konsumenten entlastend und könnten perspektivisch den Inflationsdruck dämpfen. Tech-Werte profitierten überproportional von der verbesserten Risikobereitschaft am Markt. Damit bleibt der breite US-Aktienmarkt trotz des schwierigen Makroumfelds mit hoher Inflation und unsicherer Geldpolitik nahe seinen historischen Höchstständen.",
       "quelle": "Reuters",
+      "datum_artikel": "2026-06-12"
+    },
+    {
+      "titel": "Gold bei 4.222 USD: Zweite Verlustwoche in Folge wegen Zinspessimismus",
+      "text": "Der Goldpreis notierte am 12. Juni 2026 bei rund 4.222 US-Dollar je Feinunze und verzeichnete damit die zweite negative Handelswoche in Folge. Belastet wird das Edelmetall vor allem von gestiegenen Erwartungen, dass die US-Notenbank Fed die Zinsen angesichts der auf 4,2 Prozent gestiegenen Inflation länger hoch halten oder sogar anheben könnte. Höhere Zinsen machen zinslose Anlagen wie Gold im Vergleich zu Anleihen relativ unattraktiver, was Kapital aus dem Goldmarkt abzieht. Gleichzeitig begrenzt die weiterhin hohe strukturelle Nachfrage von Zentralbanken weltweit den Rückgang. Analysten sehen den Goldpreis kurzfristig in einem Spannungsfeld zwischen Zinsdruck und anhaltender geopolitischer Unsicherheit im Nahen Osten.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-12"
     }
   ]
