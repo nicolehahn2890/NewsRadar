@@ -1,48 +1,35 @@
 {
-  "datum": "Sonntag, 14. Juni 2026",
-  "generiert": "2026-06-14",
+  "datum": "Montag, 15. Juni 2026",
+  "generiert": "2026-06-15",
   "ki_stories": [
     {
-      "titel": "Anthropic überholt OpenAI erstmals bei US-Unternehmensnutzung",
-      "text": "Laut dem aktuell veröffentlichten Ramp AI Index hat Anthropic OpenAI bei der tatsächlichen Nutzung durch US-Unternehmen erstmals überholt. Der Index misst, welche KI-Modelle amerikanische Firmen im Arbeitsalltag einsetzen, und zeigt: Claude-Modelle werden nun häufiger genutzt als GPT-Modelle im Unternehmensbereich. Als wichtigster Treiber gilt Claude Code, Anthropics KI-Codierassistent, der bei Entwicklungsteams stark nachgefragt wird. Parallel dazu warnt eine separate IDC-Studie, dass der Vorsprung fragil sei: Hohe Rechenkosten, Kapazitätsengpässe und das tokenbasierte Preismodell könnten Anthropics Führungsposition unter Druck setzen. Für OpenAI ist das Ergebnis ein Signal, den Fokus stärker auf Enterprise-Kunden auszurichten - ähnlich wie es bereits mit dem Codex-Angebot geschieht.",
-      "quelle": "Reuters",
+      "titel": "42 US-Staatsanwälte leiten Untersuchung gegen OpenAI ein",
+      "text": "Eine Koalition aus 42 amerikanischen Generalstaatsanwälten hat am 13. Juni 2026 eine formelle Untersuchung gegen OpenAI eingeleitet. Der Staat New York stellte eine Vorladung aus und fordert Dokumente zu Werbepraktiken, Nutzer-Engagement, Datenschutz, Umgang mit Gesundheitsdaten sowie zum Schutz von Minderjährigen und Senioren. Ebenfalls unter der Lupe: das Phänomen der sogenannten Modell-Sycophancy, also die Tendenz von KI-Systemen, Nutzern nach dem Mund zu reden statt objektiv zu antworten. OpenAI erklärte, man nehme die Bedenken ernst und werde konstruktiv mit den Staatsanwaltschaften kooperieren. Die breite Staatskoalition markiert eine neue Phase staatlicher Aufsicht über KI-Unternehmen in den USA und kommt zu einem heiklen Zeitpunkt: OpenAI bereitet sich auf einen Börsengang bei einer Bewertung von über 850 Milliarden US-Dollar vor.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-13"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX feiert Börsenstart: Aktie legt am ersten Handelstag 25% zu",
-      "text": "SpaceX startete am 12. Juni 2026 den Handel an der Nasdaq unter dem Ticker SPCX und schloss den ersten Handelstag mit einem Kursplus von rund 25 Prozent gegenüber dem Ausgabepreis. Das Unternehmen hatte beim Börsengang eine Bewertung von über 1,75 Billionen US-Dollar angestrebt, was diesen zu einem der größten Börsengänge der Geschichte machen würde. Die Emission zielte auf eine Kapitalaufnahme von 75 Milliarden US-Dollar ab - noch vor den geplanten Börsengängen von Anthropic und OpenAI, die beide im Herbst 2026 an den Markt kommen wollen. Das starke Debüt bestätigt die hohen Bewertungsannahmen rund um KI-Infrastruktur und gibt den Investoren Zuversicht für die kommende IPO-Welle. SpaceX-Management hatte bei der Emission besonders auf eine breite Beteiligung von Privatanlegern gesetzt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-12",
-      "unternehmen": "SpaceX"
-    },
-    {
-      "titel": "NVIDIA und SK Hynix schließen mehrjährige KI-Speicherpartnerschaft",
-      "text": "NVIDIA und der südkoreanische Speicherchip-Hersteller SK Hynix haben eine mehrjährige Technologiepartnerschaft zur gemeinsamen Entwicklung von Hochleistungsspeichern für KI-Systeme angekündigt. Die Kooperation umfasst NVIDIAs gesamte KI-Produktpalette: Vera Rubin KI-Supercomputer, Vera-CPUs, RTX Spark PCs sowie die Jetson Thor Robotikplattform. SK Hynix ist einer der drei weltweit führenden Hersteller von HBM-Speicher (High Bandwidth Memory), der für den Betrieb großer KI-Beschleuniger unerlässlich ist. Die Partnerschaft sichert NVIDIA langfristigen Zugang zu knappen Schlüsselkomponenten und gibt SK Hynix Planungssicherheit für milliardenschwere Investitionen in die nächste Speichergeneration. Analysten sehen darin eine strategische Antwort auf anhaltende Lieferkettenrisiken in der KI-Chipbranche.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-13",
-      "unternehmen": "NVIDIA"
+      "titel": "Anthropic führt neues Abrechnungssystem für Entwickler ein",
+      "text": "Ab dem 15. Juni 2026 trennt Anthropic die Abrechnung für programmatische Claude-Nutzung von den regulären Chat-Abonnements. Entwickler, die Claude Code, den Agent SDK oder GitHub Actions verwenden, erhalten nun monatliche API-Guthaben: Pro-Nutzer 20 US-Dollar, Max-5x-Nutzer 100 Dollar und Max-20x-Nutzer 200 Dollar. Gleichzeitig werden mit sofortiger Wirkung die ursprünglichen Claude-4-Modelle claude-sonnet-4-20250514 und claude-opus-4-20250514 aus der API zurückgezogen - ohne jede Übergangsfrist, was bedeutet, dass bestehende Anfragen an diese Modelle sofort fehlschlagen. Anthropic empfiehlt die Migration zu Claude Sonnet 4.6 bzw. Claude Opus 4.8. Die Änderungen signalisieren eine konsequente Monetarisierungsstrategie des Unternehmens, das zuletzt bei einer Bewertung von knapp einer Billion US-Dollar vertraulich einen Börsengang eingereicht hatte.",
+      "quelle": "The Register",
+      "datum_artikel": "2026-06-15",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Inflation steigt auf 4,2% im Mai - höchster Wert seit April 2023",
-      "text": "Die US-Verbraucherpreise stiegen im Mai 2026 um 4,2 Prozent im Jahresvergleich und damit auf den höchsten Stand seit April 2023. Haupttreiber war ein Energiepreisanstieg von 23,5 Prozent, verursacht vor allem durch den Iran-Konflikt und dessen Auswirkungen auf die Ölmärkte. Die Daten überraschten die Märkte negativ: Erwartet wurde ein Anstieg auf rund 4,0 Prozent nach 3,8 Prozent im April 2026. Der unerwartet starke Inflationsanstieg erhöht den Druck auf die US-Notenbank Fed, die Zinsen länger auf erhöhtem Niveau zu halten oder sogar eine weitere Zinserhöhung in Betracht zu ziehen - obwohl die Fed zuletzt signalisiert hatte, die Zinsen bei 3,75 Prozent zu belassen. Für Anleger bedeutet das eine anhaltend restriktive Geldpolitik, die insbesondere Wachstumswerte und Gold belasten könnte.",
+      "titel": "FOMC-Sitzung morgen: Anleger erwarten Zinspause unter neuem Fed-Chef Warsh",
+      "text": "Am 16. und 17. Juni 2026 tagt die US-Notenbank Federal Reserve zur regulären FOMC-Sitzung - es ist die erste unter dem neuen Fed-Vorsitzenden Kevin Warsh. Die Märkte erwarten mit einer Wahrscheinlichkeit von 97 Prozent keine Zinsänderung. Besondere Aufmerksamkeit gilt dem neuen Dot Plot (den Zinsprognosen der Fed-Mitglieder) und Warshs erster Pressekonferenz als Notenbankchef. Der starke US-Arbeitsmarktbericht für Mai mit 172.000 neuen Stellen (Prognose: rund 80.000) hatte Hoffnungen auf baldige Zinssenkungen zuletzt deutlich gedämpft. Goldman Sachs strich alle erwarteten Zinssenkungen für 2026 aus seiner Prognose und rechnet erst ab 2027 mit einer geldpolitischen Lockerung.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-12"
+      "datum_artikel": "2026-06-14"
     },
     {
-      "titel": "S&P 500 schließt positive Woche ab - Iran-Friedenshoffnung stützt Märkte",
-      "text": "Der S&P 500 verzeichnete in der Woche zum 12. Juni 2026 eine positive Performance und schloss am Freitag bei 7.431 Punkten, ein Plus von 0,50 Prozent auf Tagesbasis. Haupttreiber der Kursgewinne waren Berichte über mögliche Fortschritte bei Friedensverhandlungen rund um den Iran-Konflikt, woraufhin der Ölpreis um rund 2 Prozent auf etwa 85 US-Dollar je Barrel fiel. Sinkende Energiepreise wirken für Unternehmen und Konsumenten entlastend und könnten perspektivisch den Inflationsdruck dämpfen. Tech-Werte profitierten überproportional von der verbesserten Risikobereitschaft am Markt. Damit bleibt der breite US-Aktienmarkt trotz des schwierigen Makroumfelds mit hoher Inflation und unsicherer Geldpolitik nahe seinen historischen Höchstständen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-12"
-    },
-    {
-      "titel": "Gold bei 4.222 USD: Zweite Verlustwoche in Folge wegen Zinspessimismus",
-      "text": "Der Goldpreis notierte am 12. Juni 2026 bei rund 4.222 US-Dollar je Feinunze und verzeichnete damit die zweite negative Handelswoche in Folge. Belastet wird das Edelmetall vor allem von gestiegenen Erwartungen, dass die US-Notenbank Fed die Zinsen angesichts der auf 4,2 Prozent gestiegenen Inflation länger hoch halten oder sogar anheben könnte. Höhere Zinsen machen zinslose Anlagen wie Gold im Vergleich zu Anleihen relativ unattraktiver, was Kapital aus dem Goldmarkt abzieht. Gleichzeitig begrenzt die weiterhin hohe strukturelle Nachfrage von Zentralbanken weltweit den Rückgang. Analysten sehen den Goldpreis kurzfristig in einem Spannungsfeld zwischen Zinsdruck und anhaltender geopolitischer Unsicherheit im Nahen Osten.",
+      "titel": "Gold fällt auf 4.216 Dollar: Zinswetten und starker Jobsmarkt belasten",
+      "text": "Der Goldpreis notiert am Montag bei 4.216 US-Dollar je Unze und liegt damit deutlich unter dem Rekordhoch von 4.383,76 Dollar, das zuletzt bei starken Zinssenkungserwartungen erreicht worden war. Der überraschend robuste US-Beschäftigungsbericht für Mai hat die Zinssenkungshoffnungen der Märkte zunichte gemacht und den Goldpreis unter Druck gesetzt. Anleger warten nun gespannt auf Signale der Fed aus der morgigen FOMC-Sitzung. Der S&P 500 schloss am Freitag bei 7.431 Punkten und hält sich damit auf hohem Niveau, doch die Frage bleibt, ob Tech- und KI-Aktien die Kursgewinne ohne baldige Zinssenkungen halten können. Goldman Sachs und andere Großbanken haben ihre langfristigen Goldpreis-Ziele von 5.000 Dollar und mehr für Ende 2026 dennoch nicht zurückgezogen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-12"
+      "datum_artikel": "2026-06-15"
     }
   ]
 }
