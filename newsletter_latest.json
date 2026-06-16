@@ -1,35 +1,41 @@
 {
-  "datum": "Montag, 15. Juni 2026",
-  "generiert": "2026-06-15",
+  "datum": "Dienstag, 16. Juni 2026",
+  "generiert": "2026-06-16",
   "ki_stories": [
     {
-      "titel": "42 US-Staatsanwälte leiten Untersuchung gegen OpenAI ein",
-      "text": "Eine Koalition aus 42 amerikanischen Generalstaatsanwälten hat am 13. Juni 2026 eine formelle Untersuchung gegen OpenAI eingeleitet. Der Staat New York stellte eine Vorladung aus und fordert Dokumente zu Werbepraktiken, Nutzer-Engagement, Datenschutz, Umgang mit Gesundheitsdaten sowie zum Schutz von Minderjährigen und Senioren. Ebenfalls unter der Lupe: das Phänomen der sogenannten Modell-Sycophancy, also die Tendenz von KI-Systemen, Nutzern nach dem Mund zu reden statt objektiv zu antworten. OpenAI erklärte, man nehme die Bedenken ernst und werde konstruktiv mit den Staatsanwaltschaften kooperieren. Die breite Staatskoalition markiert eine neue Phase staatlicher Aufsicht über KI-Unternehmen in den USA und kommt zu einem heiklen Zeitpunkt: OpenAI bereitet sich auf einen Börsengang bei einer Bewertung von über 850 Milliarden US-Dollar vor.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-13"
+      "titel": "OpenAI Academy: Drei neue Kurse für KI-Einsatz am Arbeitsplatz",
+      "text": "Am 14. Juni 2026 hat OpenAI drei neue Kurse auf seiner Academy-Plattform veröffentlicht: 'AI Foundations', 'Applied AI Foundations' und 'Agents and Workflows'. Die Kurse bieten Unternehmens-Teams einen strukturierten Lernpfad - von den Grundlagen künstlicher Intelligenz über die praktische Gestaltung von KI-Workflows bis hin zu vollständig automatisierten, mehrstufigen Agenten-Systemen. 'Applied AI Foundations' zeigt, wie einzelne Prompts zu strukturierten, wiederholbaren Arbeitsabläufen werden, während 'Agents and Workflows' den Schritt zu komplexen, durch KI-Agenten gesteuerten Prozessen beschreibt. OpenAI reagiert damit auf die wachsende Nachfrage aus Unternehmen, die ihre Mitarbeiter über einfaches Prompten hinaus für den produktiven Einsatz von KI qualifizieren wollen. Die Kurse sind über die OpenAI Academy für alle registrierten Nutzer zugänglich.",
+      "quelle": "OpenAI",
+      "datum_artikel": "2026-06-14"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic führt neues Abrechnungssystem für Entwickler ein",
-      "text": "Ab dem 15. Juni 2026 trennt Anthropic die Abrechnung für programmatische Claude-Nutzung von den regulären Chat-Abonnements. Entwickler, die Claude Code, den Agent SDK oder GitHub Actions verwenden, erhalten nun monatliche API-Guthaben: Pro-Nutzer 20 US-Dollar, Max-5x-Nutzer 100 Dollar und Max-20x-Nutzer 200 Dollar. Gleichzeitig werden mit sofortiger Wirkung die ursprünglichen Claude-4-Modelle claude-sonnet-4-20250514 und claude-opus-4-20250514 aus der API zurückgezogen - ohne jede Übergangsfrist, was bedeutet, dass bestehende Anfragen an diese Modelle sofort fehlschlagen. Anthropic empfiehlt die Migration zu Claude Sonnet 4.6 bzw. Claude Opus 4.8. Die Änderungen signalisieren eine konsequente Monetarisierungsstrategie des Unternehmens, das zuletzt bei einer Bewertung von knapp einer Billion US-Dollar vertraulich einen Börsengang eingereicht hatte.",
-      "quelle": "The Register",
-      "datum_artikel": "2026-06-15",
-      "unternehmen": "Anthropic"
+      "titel": "SpaceX-Aktie (SPCX) legt am Montag weitere 19% zu",
+      "text": "Am 16. Juni 2026 stieg die SpaceX-Aktie (Ticker: SPCX) an der Nasdaq um weitere rund 19% und setzte damit die Rally nach dem Börsendebüt vom 12. Juni fort. SpaceX hatte beim IPO 555 Millionen Class-A-Aktien zu einem Preis von 135 US-Dollar je Stück ausgegeben und damit rund 75 Milliarden US-Dollar eingenommen - der größte Börsengang der Geschichte, mit einer Erstbewertung von 1,75 Billionen US-Dollar. Bereits am Debüttag schloss die Aktie bei rund 161 US-Dollar, einem Plus von knapp 20% über den Ausgabepreis. Die weiteren 19% Kursgewinn am Montag wurden durch eine breite Marktralley begünstigt, die nach dem US-Iran-Friedensabkommen einsetzte und vor allem Tech- und Raumfahrtwerte beflügelte. Die anhaltenden Kursgewinne über mehrere Handelstage machen SpaceX zu einer der meistbeachteten Neuemissionen des Jahres 2026.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-16",
+      "unternehmen": "SpaceX"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "FOMC-Sitzung morgen: Anleger erwarten Zinspause unter neuem Fed-Chef Warsh",
-      "text": "Am 16. und 17. Juni 2026 tagt die US-Notenbank Federal Reserve zur regulären FOMC-Sitzung - es ist die erste unter dem neuen Fed-Vorsitzenden Kevin Warsh. Die Märkte erwarten mit einer Wahrscheinlichkeit von 97 Prozent keine Zinsänderung. Besondere Aufmerksamkeit gilt dem neuen Dot Plot (den Zinsprognosen der Fed-Mitglieder) und Warshs erster Pressekonferenz als Notenbankchef. Der starke US-Arbeitsmarktbericht für Mai mit 172.000 neuen Stellen (Prognose: rund 80.000) hatte Hoffnungen auf baldige Zinssenkungen zuletzt deutlich gedämpft. Goldman Sachs strich alle erwarteten Zinssenkungen für 2026 aus seiner Prognose und rechnet erst ab 2027 mit einer geldpolitischen Lockerung.",
+      "titel": "S&P 500 +1,7%, Nasdaq +3,1%: Iran-Friedensdeal beflügelt US-Märkte",
+      "text": "Am 16. Juni 2026 legten die US-Aktienmärkte deutlich zu, nachdem die USA und der Iran am 14. Juni ein vorläufiges Abkommen zur Wiedereröffnung der Straße von Hormus unterzeichnet hatten. Der S&P 500 gewann 1,7%, der Dow Jones stieg um 469 Punkte auf ein neues Rekordhoch, und der Nasdaq legte 3,1% zu - der stärkste Tagesgewinn seit dem 31. März 2026. Der Ölpreis fiel um rund 5% auf knapp über 80 US-Dollar je Barrel, da die Meerenge - zuvor Durchfuhrroute für rund ein Fünftel der weltweiten Öllieferungen - schrittweise wiedereröffnet wird. Tech-Werte führten den Anstieg an: NVIDIA gewann 3,4%, Amazon 3,1% und Boeing 4,7%; auch Fluglinien und Kreuzfahrtaktien profitierten stark vom fallenden Ölpreis. Investoren werteten die Einigung als Signal für sinkende Energiepreise und nachlassenden Inflationsdruck - beides wichtige Impulse für einen breit aufgestellten Index wie den FTSE All World.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-14"
+      "datum_artikel": "2026-06-16"
     },
     {
-      "titel": "Gold fällt auf 4.216 Dollar: Zinswetten und starker Jobsmarkt belasten",
-      "text": "Der Goldpreis notiert am Montag bei 4.216 US-Dollar je Unze und liegt damit deutlich unter dem Rekordhoch von 4.383,76 Dollar, das zuletzt bei starken Zinssenkungserwartungen erreicht worden war. Der überraschend robuste US-Beschäftigungsbericht für Mai hat die Zinssenkungshoffnungen der Märkte zunichte gemacht und den Goldpreis unter Druck gesetzt. Anleger warten nun gespannt auf Signale der Fed aus der morgigen FOMC-Sitzung. Der S&P 500 schloss am Freitag bei 7.431 Punkten und hält sich damit auf hohem Niveau, doch die Frage bleibt, ob Tech- und KI-Aktien die Kursgewinne ohne baldige Zinssenkungen halten können. Goldman Sachs und andere Großbanken haben ihre langfristigen Goldpreis-Ziele von 5.000 Dollar und mehr für Ende 2026 dennoch nicht zurückgezogen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-15"
+      "titel": "Gold klettert auf 4.353 USD je Feinunze - dritter Anstieg in Folge",
+      "text": "Der Goldpreis stieg am 15. und 16. Juni 2026 auf rund 4.353 US-Dollar je Feinunze und verzeichnete damit den dritten Handelstag in Folge mit Kursgewinnen, wobei der Tagesanstieg am 16. Juni rund 3,2% betrug. Das US-Iran-Abkommen zur Wiedereröffnung der Straße von Hormus ließ die Energiepreise sinken und dämpfte die Inflationserwartungen - niedrigere Inflation reduziert den Druck auf die Fed, die Zinsen weiter zu erhöhen, was Gold als zinsloses Anlagegut stärkt. Gleichzeitig hält die Unsicherheit über den künftigen geldpolitischen Kurs unter dem neuen Fed-Vorsitzenden Kevin Warsh die Nachfrage nach Gold als sicherem Hafen hoch. Im laufenden Jahr 2026 liegt Gold damit deutlich vor dem S&P 500 in der Jahresperformance und hat sich als zentrales Absicherungsinstrument gegen geopolitische Unsicherheit etabliert. Bemerkenswert: Noch gestern notierte Gold bei 4.216 Dollar - die 137-Dollar-Bewegung binnen 24 Stunden zeigt, wie stark geopolitische Ereignisse diesen Markt bewegen.",
+      "quelle": "FXStreet",
+      "datum_artikel": "2026-06-16"
+    },
+    {
+      "titel": "Erste Fed-Sitzung unter Kevin Warsh: Zinsen bleiben wohl unverändert",
+      "text": "Am 16. Juni 2026 begann die zweitägige FOMC-Sitzung der US-Notenbank - die erste unter dem neuen Vorsitzenden Kevin Warsh, der Jerome Powell abgelöst hat. Rund 97,4% der Marktteilnehmer erwarten laut CME FedWatch unveränderte Zinsen; ein Reuters-Konsens von 102 Ökonomen bestätigt diese Erwartung. Das geldpolitische Bild hat sich durch das US-Iran-Abkommen verändert: Die Inflation lag zuletzt bei 4,2% - ein Niveau, das durch fallende Energiepreise nach der Hormus-Einigung nun sinken könnte, was den Druck auf die Fed etwas mindert. Warsh gilt als Falke, bekannt für seine Kritik an quantitativer Lockerung und seinen Wunsch, die Fed-Bilanz zu verkleinern; Investoren achten daher nicht nur auf die Zinsentscheidung am 17. Juni, sondern vor allem auf den neuen Ton und die aktualisierten Zinsprojektionen (Dot Plot). Ein unerwartet hawkischer Kurs unter Warsh könnte die heutige Marktralley rasch wieder einbremsen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-16"
     }
   ]
 }
