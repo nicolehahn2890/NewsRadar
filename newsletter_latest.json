@@ -1,41 +1,48 @@
 {
-  "datum": "Dienstag, 16. Juni 2026",
-  "generiert": "2026-06-16",
+  "datum": "Mittwoch, 17. Juni 2026",
+  "generiert": "2026-06-17",
   "ki_stories": [
     {
-      "titel": "OpenAI Academy: Drei neue Kurse für KI-Einsatz am Arbeitsplatz",
-      "text": "Am 14. Juni 2026 hat OpenAI drei neue Kurse auf seiner Academy-Plattform veröffentlicht: 'AI Foundations', 'Applied AI Foundations' und 'Agents and Workflows'. Die Kurse bieten Unternehmens-Teams einen strukturierten Lernpfad - von den Grundlagen künstlicher Intelligenz über die praktische Gestaltung von KI-Workflows bis hin zu vollständig automatisierten, mehrstufigen Agenten-Systemen. 'Applied AI Foundations' zeigt, wie einzelne Prompts zu strukturierten, wiederholbaren Arbeitsabläufen werden, während 'Agents and Workflows' den Schritt zu komplexen, durch KI-Agenten gesteuerten Prozessen beschreibt. OpenAI reagiert damit auf die wachsende Nachfrage aus Unternehmen, die ihre Mitarbeiter über einfaches Prompten hinaus für den produktiven Einsatz von KI qualifizieren wollen. Die Kurse sind über die OpenAI Academy für alle registrierten Nutzer zugänglich.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-06-14"
+      "titel": "USA verhängt Zugangssperre für Anthropics Frontier-KI-Modelle",
+      "text": "Die US-Regierung hat Anthropic per Exportkontroll-Direktive angewiesen, Staatsangehörigen anderer Länder den Zugang zu Claude Fable 5 und Claude Mythos 5 zu sperren - den leistungsfähigsten Modellen des Unternehmens. Auslöser war ein Sicherheitsproblem: Forscher von Amazon hatten eine Methode gefunden, die Sicherheitsschranken des Modells zu umgehen, woraufhin Washington eine chinesische Ausnutzung der Lücke befürchtete. Anthropic erhielt die Direktive am Freitagnachmittag mit einer Frist von nur 90 Minuten und kam ihr nach, obwohl das Unternehmen die Schwere des Vorfalls bestreitet. Nach einem turbulenten Wochenende mit Telefonaten auf Regierungsebene - unter anderem mit Handelsminister Howard Lutnick und dem nationalen Cyber-Direktor Sean Cairncross - flogen Anthropics Sicherheits- und Forschungsexperten am Montag nach Washington zu ersten persönlichen Gesprächen. Anthropic warnt, dass ein solcher Standard faktisch alle künftigen Frontier-Modell-Releases der gesamten KI-Branche blockieren würde - der Fall gilt als erster direkter regulatorischer Konflikt zwischen einem großen KI-Unternehmen und der US-Regierung.",
+      "quelle": "Foreign Policy",
+      "datum_artikel": "2026-06-16"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX-Aktie (SPCX) legt am Montag weitere 19% zu",
-      "text": "Am 16. Juni 2026 stieg die SpaceX-Aktie (Ticker: SPCX) an der Nasdaq um weitere rund 19% und setzte damit die Rally nach dem Börsendebüt vom 12. Juni fort. SpaceX hatte beim IPO 555 Millionen Class-A-Aktien zu einem Preis von 135 US-Dollar je Stück ausgegeben und damit rund 75 Milliarden US-Dollar eingenommen - der größte Börsengang der Geschichte, mit einer Erstbewertung von 1,75 Billionen US-Dollar. Bereits am Debüttag schloss die Aktie bei rund 161 US-Dollar, einem Plus von knapp 20% über den Ausgabepreis. Die weiteren 19% Kursgewinn am Montag wurden durch eine breite Marktralley begünstigt, die nach dem US-Iran-Friedensabkommen einsetzte und vor allem Tech- und Raumfahrtwerte beflügelte. Die anhaltenden Kursgewinne über mehrere Handelstage machen SpaceX zu einer der meistbeachteten Neuemissionen des Jahres 2026.",
+      "titel": "SpaceX-Aktie (SPCX) legt weitere 19% zu - Post-IPO-Rally hält an",
+      "text": "Die SpaceX-Aktie (Ticker: SPCX) legte am Montag, dem 16. Juni, an der Nasdaq um weitere rund 19% zu und setzte damit die Kursrally nach dem Börsengang vom 12. Juni fort. SpaceX hatte beim IPO 555 Millionen Class-A-Aktien zu je 135 US-Dollar ausgegeben und dabei rund 75 Milliarden US-Dollar eingenommen - der größte Börsengang der Geschichte mit einer Erstbewertung von 1,75 Billionen US-Dollar. Bereits am Debüttag schloss die Aktie bei rund 161 US-Dollar; das gestrige Plus von 19% entspricht einem weiteren erheblichen Kursanstieg über den Ausgabepreis hinaus. Begünstigt wurde der Anstieg durch die breite Marktralley infolge des US-Iran-Friedensabkommens, das vor allem Tech- und Raumfahrtwerte beflügelte. Mit der anhaltenden Post-IPO-Stärke gilt SpaceX als eine der meistbeachteten Neuemissionen des Jahres 2026.",
       "quelle": "CNBC",
       "datum_artikel": "2026-06-16",
       "unternehmen": "SpaceX"
+    },
+    {
+      "titel": "OpenAI startet globales Partner-Netzwerk mit 150 Mio. USD Investition",
+      "text": "OpenAI hat am 15. Juni 2026 sein erstes offizielles Partner-Programm gestartet und stellt dafür 150 Millionen US-Dollar bereit. Ziel ist es, bis Ende 2026 rund 300.000 zertifizierte KI-Berater auszubilden, die Unternehmen weltweit bei der Implementierung von OpenAI-Diensten unterstützen. Das Netzwerk ist in drei Stufen gegliedert - Select, Advanced und Elite - mit Spezialisierungsoptionen in Bereichen wie Codex, Cybersicherheit, API-Entwicklung und Agenten-Transformation. Ein Forward Deployed Experts-Programm ermöglicht es ausgewählten Partnern, direkt mit OpenAIs eigenen Engineering-Teams an komplexen Unternehmens-Deployments zu arbeiten. Der Launch signalisiert eine strategische Wende: OpenAI entwickelt sich vom reinen Modell-Anbieter zu einem umfassenden Enterprise-Ökosystem - auch als Reaktion auf den wachsenden Wettbewerb von Anthropic im Unternehmensbereich.",
+      "quelle": "Dataconomy",
+      "datum_artikel": "2026-06-15",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "S&P 500 +1,7%, Nasdaq +3,1%: Iran-Friedensdeal beflügelt US-Märkte",
-      "text": "Am 16. Juni 2026 legten die US-Aktienmärkte deutlich zu, nachdem die USA und der Iran am 14. Juni ein vorläufiges Abkommen zur Wiedereröffnung der Straße von Hormus unterzeichnet hatten. Der S&P 500 gewann 1,7%, der Dow Jones stieg um 469 Punkte auf ein neues Rekordhoch, und der Nasdaq legte 3,1% zu - der stärkste Tagesgewinn seit dem 31. März 2026. Der Ölpreis fiel um rund 5% auf knapp über 80 US-Dollar je Barrel, da die Meerenge - zuvor Durchfuhrroute für rund ein Fünftel der weltweiten Öllieferungen - schrittweise wiedereröffnet wird. Tech-Werte führten den Anstieg an: NVIDIA gewann 3,4%, Amazon 3,1% und Boeing 4,7%; auch Fluglinien und Kreuzfahrtaktien profitierten stark vom fallenden Ölpreis. Investoren werteten die Einigung als Signal für sinkende Energiepreise und nachlassenden Inflationsdruck - beides wichtige Impulse für einen breit aufgestellten Index wie den FTSE All World.",
+      "titel": "Fed hält Leitzins stabil - erster Auftritt von Chair Kevin Warsh",
+      "text": "Die US-Notenbank hat auf ihrer FOMC-Sitzung am 17. Juni den Leitzins erwartungsgemäß unverändert in der Zielspanne von 3,50 bis 3,75 Prozent belassen - Märkte hatten mit 97-prozentiger Wahrscheinlichkeit eine Pause eingepreist. Es ist die erste geldpolitische Entscheidung unter dem neuen Fed-Vorsitzenden Kevin Warsh, der um 14:30 Uhr ET seine erste Pressekonferenz abhält. Im Mittelpunkt steht der sogenannte Dot Plot: Bleibt der Median-Prognosepfad auf Halten, dürften Gold und Risikoassets profitieren; zeigt er eine Erhöhung bis Dezember, dürfte kurzfristiger Druck auf Anleihen und Rohstoffe entstehen. Hintergrund: Die US-Inflation stieg im Mai 2026 auf 4,2 Prozent zum Vorjahr - der höchste Wert seit April 2023 - getrieben von einem Energiepreisanstieg von 23,5 Prozent infolge des Iran-Konflikts. Wie Warsh Disinflations-Absichten mit dem Konjunkturausblick kommuniziert, wird als zentrales Signal für die zweite Jahreshälfte 2026 gewertet.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-16"
+      "datum_artikel": "2026-06-17"
     },
     {
-      "titel": "Gold klettert auf 4.353 USD je Feinunze - dritter Anstieg in Folge",
-      "text": "Der Goldpreis stieg am 15. und 16. Juni 2026 auf rund 4.353 US-Dollar je Feinunze und verzeichnete damit den dritten Handelstag in Folge mit Kursgewinnen, wobei der Tagesanstieg am 16. Juni rund 3,2% betrug. Das US-Iran-Abkommen zur Wiedereröffnung der Straße von Hormus ließ die Energiepreise sinken und dämpfte die Inflationserwartungen - niedrigere Inflation reduziert den Druck auf die Fed, die Zinsen weiter zu erhöhen, was Gold als zinsloses Anlagegut stärkt. Gleichzeitig hält die Unsicherheit über den künftigen geldpolitischen Kurs unter dem neuen Fed-Vorsitzenden Kevin Warsh die Nachfrage nach Gold als sicherem Hafen hoch. Im laufenden Jahr 2026 liegt Gold damit deutlich vor dem S&P 500 in der Jahresperformance und hat sich als zentrales Absicherungsinstrument gegen geopolitische Unsicherheit etabliert. Bemerkenswert: Noch gestern notierte Gold bei 4.216 Dollar - die 137-Dollar-Bewegung binnen 24 Stunden zeigt, wie stark geopolitische Ereignisse diesen Markt bewegen.",
-      "quelle": "FXStreet",
-      "datum_artikel": "2026-06-16"
+      "titel": "S&P 500 +1,9% auf 7.573 Punkte - Nasdaq steigt 3% durch Iran-Friedenshoffnungen",
+      "text": "Der US-Aktienmarkt verzeichnete am Mittwoch kräftige Gewinne: Der S&P 500 stieg um 1,9 Prozent auf 7.573 Punkte, der Dow Jones Industrial Average legte 1,0 Prozent auf 51.928 Punkte zu, und der Nasdaq Composite gewann 3,0 Prozent auf 26.667 Punkte. Haupttreiber der Rally sind wachsende Hoffnungen auf einen US-Iran-Friedensdeal: Ein Abkommen soll am 19. Juni in der Schweiz unterzeichnet werden und Sanktionserleichterungen für Iran sowie eine Aufhebung von Seeblockaden beinhalten. Besonders Tech- und KI-Aktien profitierten, da ein Friedensschluss die Energiepreise und damit die Inflationserwartungen dämpfen würde. Der S&P 500 nähert sich damit dem Jahreszielkurs von 7.700 Punkten, den mehrere Großbanken für 2026 ausgegeben haben. Marktbeobachter blicken zudem auf den heutigen Fed-Dot-Plot, der die geldpolitische Richtung für das zweite Halbjahr signalisieren wird.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-17"
     },
     {
-      "titel": "Erste Fed-Sitzung unter Kevin Warsh: Zinsen bleiben wohl unverändert",
-      "text": "Am 16. Juni 2026 begann die zweitägige FOMC-Sitzung der US-Notenbank - die erste unter dem neuen Vorsitzenden Kevin Warsh, der Jerome Powell abgelöst hat. Rund 97,4% der Marktteilnehmer erwarten laut CME FedWatch unveränderte Zinsen; ein Reuters-Konsens von 102 Ökonomen bestätigt diese Erwartung. Das geldpolitische Bild hat sich durch das US-Iran-Abkommen verändert: Die Inflation lag zuletzt bei 4,2% - ein Niveau, das durch fallende Energiepreise nach der Hormus-Einigung nun sinken könnte, was den Druck auf die Fed etwas mindert. Warsh gilt als Falke, bekannt für seine Kritik an quantitativer Lockerung und seinen Wunsch, die Fed-Bilanz zu verkleinern; Investoren achten daher nicht nur auf die Zinsentscheidung am 17. Juni, sondern vor allem auf den neuen Ton und die aktualisierten Zinsprojektionen (Dot Plot). Ein unerwartet hawkischer Kurs unter Warsh könnte die heutige Marktralley rasch wieder einbremsen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-16"
+      "titel": "Gold bei 4.317 USD - Iran-Deal dämpft Geopolitik-Prämie, Fed-Dot-Plot im Fokus",
+      "text": "Der Goldpreis notiert am Mittwoch bei rund 4.317 US-Dollar je Unze, da der bevorstehende US-Iran-Friedensdeal die Geopolitik-Risikoprämie des Edelmetalls drückt. Gold hat seit seinem Allzeithoch von 5.589 USD am 28. Januar 2026 rund 23 Prozent nachgegeben. Fundamental bleibt die Nachfrage stark: Zentralbanken kauften im ersten Quartal 2026 netto 244 Tonnen Gold, und China stockte seine Reserven bereits 18 Monate in Folge auf. Entscheidend für den weiteren Kursverlauf ist der heutige Fed Dot Plot - bleibt der Median auf Halten, könnten Anleger in Gold rotieren; signalisiert er eine Dezember-Erhöhung, dürfte kurzfristiger Druck auf den Goldpreis entstehen. Die US-Inflation von 4,2 Prozent im Mai 2026 hält das fundamentale Argument für Gold als Inflationsschutz grundsätzlich intakt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-17"
     }
   ]
 }
