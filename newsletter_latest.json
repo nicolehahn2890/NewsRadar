@@ -1,46 +1,39 @@
 {
-  "datum": "Mittwoch, 17. Juni 2026",
-  "generiert": "2026-06-17",
+  "datum": "Donnerstag, 18. Juni 2026",
+  "generiert": "2026-06-18",
   "ki_stories": [
     {
-      "titel": "USA verhängt Zugangssperre für Anthropics Frontier-KI-Modelle",
-      "text": "Die US-Regierung hat Anthropic per Exportkontroll-Direktive angewiesen, Staatsangehörigen anderer Länder den Zugang zu Claude Fable 5 und Claude Mythos 5 zu sperren - den leistungsfähigsten Modellen des Unternehmens. Auslöser war ein Sicherheitsproblem: Forscher von Amazon hatten eine Methode gefunden, die Sicherheitsschranken des Modells zu umgehen, woraufhin Washington eine chinesische Ausnutzung der Lücke befürchtete. Anthropic erhielt die Direktive am Freitagnachmittag mit einer Frist von nur 90 Minuten und kam ihr nach, obwohl das Unternehmen die Schwere des Vorfalls bestreitet. Nach einem turbulenten Wochenende mit Telefonaten auf Regierungsebene - unter anderem mit Handelsminister Howard Lutnick und dem nationalen Cyber-Direktor Sean Cairncross - flogen Anthropics Sicherheits- und Forschungsexperten am Montag nach Washington zu ersten persönlichen Gesprächen. Anthropic warnt, dass ein solcher Standard faktisch alle künftigen Frontier-Modell-Releases der gesamten KI-Branche blockieren würde - der Fall gilt als erster direkter regulatorischer Konflikt zwischen einem großen KI-Unternehmen und der US-Regierung.",
-      "quelle": "Foreign Policy",
+      "titel": "EZB-Chefin Lagarde warnt: Künstliche Intelligenz gefährdet globale Finanzstabilität",
+      "text": "EZB-Präsidentin Christine Lagarde hat KI am 17. Juni als potenziell destabilisierende Kraft für das globale Finanzsystem bezeichnet. In einer Rede warnte sie, unkontrollierter KI-Einsatz in Finanzmärkten könne systemische Krisen auslösen – insbesondere durch KI-gesteuerte Herdenbewegungen und undurchsichtige automatisierte Handelssysteme, die bei Marktstress unkontrollierbare Kaskadeneffekte auslösen könnten. Lagarde betonte, die EZB wolle KI nicht verbieten: 'Wir können KI nicht aufhalten, auch nicht mit soliden Regulierungen – aber wir können uns so vorbereiten, dass unsere Bürger davon profitieren und gleichzeitig geschützt sind.' Die EZB arbeite daher an einem Regulierungsrahmen, der Innovation ermöglicht und zugleich Finanzmarktstabilität sichert. Die Aussagen signalisieren, dass europäische Aufsichtsbehörden den rasant zunehmenden KI-Einsatz im Bankensektor und an den Börsen als systemrelevantes Risiko einzustufen beginnen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-17"
+    },
+    {
+      "titel": "OpenAI testet neue KI-Modelle vor Marktstart mit historischen Nutzerdialogen",
+      "text": "OpenAI stellte am 16. Juni eine neue Qualitätssicherungsmethode namens 'Deployment Simulation' vor, die die Sicherheit beim Einführen neuer KI-Modelle erhöhen soll. Das System spielt vergangene Nutzerdialoge automatisch durch das neue Kandidatenmodell, bevor es veröffentlicht wird, und erkennt so unerwünschte Verhaltensänderungen gegenüber dem Vorgängermodell frühzeitig. Hintergrund ist wiederholte Kritik, dass neue Modelle in bekannten Situationen gelegentlich schlechter abschneiden als die Version, die sie ersetzen. OpenAI will damit den Qualitätssicherungsprozess systematisieren und die Zuverlässigkeit häufiger Modellwechsel für Nutzer und Unternehmenskunden verbessern. Die Methode gilt in der Branche als Schritt hin zu reiferen und transparenteren Deployment-Praktiken.",
+      "quelle": "OpenAI",
       "datum_artikel": "2026-06-16"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX-Aktie (SPCX) legt weitere 19% zu - Post-IPO-Rally hält an",
-      "text": "Die SpaceX-Aktie (Ticker: SPCX) legte am Montag, dem 16. Juni, an der Nasdaq um weitere rund 19% zu und setzte damit die Kursrally nach dem Börsengang vom 12. Juni fort. SpaceX hatte beim IPO 555 Millionen Class-A-Aktien zu je 135 US-Dollar ausgegeben und dabei rund 75 Milliarden US-Dollar eingenommen - der größte Börsengang der Geschichte mit einer Erstbewertung von 1,75 Billionen US-Dollar. Bereits am Debüttag schloss die Aktie bei rund 161 US-Dollar; das gestrige Plus von 19% entspricht einem weiteren erheblichen Kursanstieg über den Ausgabepreis hinaus. Begünstigt wurde der Anstieg durch die breite Marktralley infolge des US-Iran-Friedensabkommens, das vor allem Tech- und Raumfahrtwerte beflügelte. Mit der anhaltenden Post-IPO-Stärke gilt SpaceX als eine der meistbeachteten Neuemissionen des Jahres 2026.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-06-16",
-      "unternehmen": "SpaceX"
-    },
-    {
-      "titel": "OpenAI startet globales Partner-Netzwerk mit 150 Mio. USD Investition",
-      "text": "OpenAI hat am 15. Juni 2026 sein erstes offizielles Partner-Programm gestartet und stellt dafür 150 Millionen US-Dollar bereit. Ziel ist es, bis Ende 2026 rund 300.000 zertifizierte KI-Berater auszubilden, die Unternehmen weltweit bei der Implementierung von OpenAI-Diensten unterstützen. Das Netzwerk ist in drei Stufen gegliedert - Select, Advanced und Elite - mit Spezialisierungsoptionen in Bereichen wie Codex, Cybersicherheit, API-Entwicklung und Agenten-Transformation. Ein Forward Deployed Experts-Programm ermöglicht es ausgewählten Partnern, direkt mit OpenAIs eigenen Engineering-Teams an komplexen Unternehmens-Deployments zu arbeiten. Der Launch signalisiert eine strategische Wende: OpenAI entwickelt sich vom reinen Modell-Anbieter zu einem umfassenden Enterprise-Ökosystem - auch als Reaktion auf den wachsenden Wettbewerb von Anthropic im Unternehmensbereich.",
-      "quelle": "Dataconomy",
-      "datum_artikel": "2026-06-15",
-      "unternehmen": "OpenAI"
+      "titel": "Anthropic erneuert Claude Design: Design-Systeme importierbar, Übergabe an Claude Code möglich",
+      "text": "Anthropic hat am 17. Juni ein umfassendes Update für sein KI-Design-Tool Claude Design veröffentlicht, rund zwei Monate nach dem ersten Preview. Kernneuerung ist der direkte Import eigener Design-Systeme aus GitHub-Repositories, Figma-Dateien oder lokalen Uploads: Claude Design baut fortan ausschließlich mit diesen Komponenten, prüft seine Ausgabe automatisch dagegen und korrigiert Abweichungen eigenständig, bevor der Nutzer das Ergebnis sieht. Eine neue Integration mit dem Coding-Assistenten Claude Code ermöglicht es, fertige Designs nahtlos zur Implementierung zu übergeben, ohne von vorne beginnen zu müssen. Zusätzlich wurde die Token-Effizienz deutlich verbessert: Claude Design teilt nun das Nutzungskontingent mit anderen Anthropic-Produkten, was Token-Fehler merklich reduziert. Das Update gilt als wichtiger Reifesprung für den professionellen Einsatz von Claude Design in Entwickler- und Designteams.",
+      "quelle": "VentureBeat",
+      "datum_artikel": "2026-06-17",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Fed hält Leitzins stabil - erster Auftritt von Chair Kevin Warsh",
-      "text": "Die US-Notenbank hat auf ihrer FOMC-Sitzung am 17. Juni den Leitzins erwartungsgemäß unverändert in der Zielspanne von 3,50 bis 3,75 Prozent belassen - Märkte hatten mit 97-prozentiger Wahrscheinlichkeit eine Pause eingepreist. Es ist die erste geldpolitische Entscheidung unter dem neuen Fed-Vorsitzenden Kevin Warsh, der um 14:30 Uhr ET seine erste Pressekonferenz abhält. Im Mittelpunkt steht der sogenannte Dot Plot: Bleibt der Median-Prognosepfad auf Halten, dürften Gold und Risikoassets profitieren; zeigt er eine Erhöhung bis Dezember, dürfte kurzfristiger Druck auf Anleihen und Rohstoffe entstehen. Hintergrund: Die US-Inflation stieg im Mai 2026 auf 4,2 Prozent zum Vorjahr - der höchste Wert seit April 2023 - getrieben von einem Energiepreisanstieg von 23,5 Prozent infolge des Iran-Konflikts. Wie Warsh Disinflations-Absichten mit dem Konjunkturausblick kommuniziert, wird als zentrales Signal für die zweite Jahreshälfte 2026 gewertet.",
+      "titel": "Fed-Chef Warsh überrascht mit hawkischem Dot Plot – S&P 500 und Nasdaq brechen ein",
+      "text": "Die US-Notenbank ließ den Leitzins bei ihrer FOMC-Sitzung am 17. Juni einstimmig (12:0) im Bereich von 3,5 bis 3,75 Prozent unverändert – doch der Dot Plot überraschte die Märkte negativ: Neun von 18 Ausschussmitgliedern rechnen nun mit mindestens einer Zinserhöhung um 0,25 Prozentpunkte bis Ende 2026, was eine deutliche Kehrtwende gegenüber der März-Prognose darstellt, als die Mehrheit noch eine Senkung erwartet hatte. Fed-Chef Kevin Warsh brach zudem mit der Tradition und gab keinen eigenen Dot-Plot-Wert ab; er kürzte auch das geldpolitische Statement auf prägnantere Formulierungen. Treiber des hawkischen Ausblicks ist die wieder anziehende Inflation: Die US-Verbraucherpreise lagen im Mai bei 4,2 Prozent im Jahresvergleich – der höchste Wert seit April 2023, mitverursacht durch Energiepreisanstieg infolge des Iran-Krieges. S&P 500 und Nasdaq gaben nach der Entscheidung deutlich nach, nachdem die Indizes zuvor noch auf dem Tageshoch notierten.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-17"
     },
     {
-      "titel": "S&P 500 +1,9% auf 7.573 Punkte - Nasdaq steigt 3% durch Iran-Friedenshoffnungen",
-      "text": "Der US-Aktienmarkt verzeichnete am Mittwoch kräftige Gewinne: Der S&P 500 stieg um 1,9 Prozent auf 7.573 Punkte, der Dow Jones Industrial Average legte 1,0 Prozent auf 51.928 Punkte zu, und der Nasdaq Composite gewann 3,0 Prozent auf 26.667 Punkte. Haupttreiber der Rally sind wachsende Hoffnungen auf einen US-Iran-Friedensdeal: Ein Abkommen soll am 19. Juni in der Schweiz unterzeichnet werden und Sanktionserleichterungen für Iran sowie eine Aufhebung von Seeblockaden beinhalten. Besonders Tech- und KI-Aktien profitierten, da ein Friedensschluss die Energiepreise und damit die Inflationserwartungen dämpfen würde. Der S&P 500 nähert sich damit dem Jahreszielkurs von 7.700 Punkten, den mehrere Großbanken für 2026 ausgegeben haben. Marktbeobachter blicken zudem auf den heutigen Fed-Dot-Plot, der die geldpolitische Richtung für das zweite Halbjahr signalisieren wird.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-17"
-    },
-    {
-      "titel": "Gold bei 4.317 USD - Iran-Deal dämpft Geopolitik-Prämie, Fed-Dot-Plot im Fokus",
-      "text": "Der Goldpreis notiert am Mittwoch bei rund 4.317 US-Dollar je Unze, da der bevorstehende US-Iran-Friedensdeal die Geopolitik-Risikoprämie des Edelmetalls drückt. Gold hat seit seinem Allzeithoch von 5.589 USD am 28. Januar 2026 rund 23 Prozent nachgegeben. Fundamental bleibt die Nachfrage stark: Zentralbanken kauften im ersten Quartal 2026 netto 244 Tonnen Gold, und China stockte seine Reserven bereits 18 Monate in Folge auf. Entscheidend für den weiteren Kursverlauf ist der heutige Fed Dot Plot - bleibt der Median auf Halten, könnten Anleger in Gold rotieren; signalisiert er eine Dezember-Erhöhung, dürfte kurzfristiger Druck auf den Goldpreis entstehen. Die US-Inflation von 4,2 Prozent im Mai 2026 hält das fundamentale Argument für Gold als Inflationsschutz grundsätzlich intakt.",
+      "titel": "Gold klettert auf 4.352 USD je Unze – Iran-Entspannung und Fed-Unsicherheit als Treiber",
+      "text": "Gold verteuerte sich am 17. Juni auf rund 4.352 USD je Unze, ein Plus von etwa 0,47 Prozent gegenüber dem Vortag; Bloomberg notierte den Kurs zeitweise sogar bei 4.374 USD. Zwei Faktoren wirken gleichzeitig: Das US-Iran-Friedensabkommen, das die Wiedereröffnung der Straße von Hormus in Aussicht stellt, entschärft zwar die unmittelbare Ölpreis-Panik, erhöht aber die Nachfrage nach Gold als Absicherung gegen verbleibende geopolitische Restrisiken. Gleichzeitig schürt der unerwartet hawkische Fed-Dot-Plot unter neuem Chef Warsh Konjunkturunsicherheit, was das Edelmetall als Inflationsschutz zusätzlich attraktiver macht. Zum Vergleich: Jahresbeginn 2026 lag der Goldpreis noch unter 3.000 USD je Unze – der aktuelle Stand von über 4.300 USD markiert historische Höchststände.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-17"
     }
