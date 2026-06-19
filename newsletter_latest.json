@@ -1,41 +1,54 @@
 {
-  "datum": "Donnerstag, 18. Juni 2026",
-  "generiert": "2026-06-18",
+  "datum": "Freitag, 19. Juni 2026",
+  "generiert": "2026-06-19",
   "ki_stories": [
     {
-      "titel": "EZB-Chefin Lagarde warnt: Künstliche Intelligenz gefährdet globale Finanzstabilität",
-      "text": "EZB-Präsidentin Christine Lagarde hat KI am 17. Juni als potenziell destabilisierende Kraft für das globale Finanzsystem bezeichnet. In einer Rede warnte sie, unkontrollierter KI-Einsatz in Finanzmärkten könne systemische Krisen auslösen – insbesondere durch KI-gesteuerte Herdenbewegungen und undurchsichtige automatisierte Handelssysteme, die bei Marktstress unkontrollierbare Kaskadeneffekte auslösen könnten. Lagarde betonte, die EZB wolle KI nicht verbieten: 'Wir können KI nicht aufhalten, auch nicht mit soliden Regulierungen – aber wir können uns so vorbereiten, dass unsere Bürger davon profitieren und gleichzeitig geschützt sind.' Die EZB arbeite daher an einem Regulierungsrahmen, der Innovation ermöglicht und zugleich Finanzmarktstabilität sichert. Die Aussagen signalisieren, dass europäische Aufsichtsbehörden den rasant zunehmenden KI-Einsatz im Bankensektor und an den Börsen als systemrelevantes Risiko einzustufen beginnen.",
+      "titel": "Big Tech kauft kaum noch eigene Aktien zurück – KI-Ausgaben fressen Kapital",
+      "text": "Die vier größten KI-Investoren unter den US-Technologiekonzernen – Alphabet, Microsoft, Meta und Amazon – haben ihre Aktienrückkäufe drastisch eingeschränkt, weil das Kapital in KI-Infrastruktur fließt. Im ersten Quartal 2026 war Microsoft als einziger dieser vier überhaupt mit Rückkäufen aktiv – für lediglich 3,4 Mrd. USD, den niedrigsten Wert seit fast zehn Jahren. Alphabet kaufte zum ersten Mal seit fast einem Jahrzehnt keine eigenen Aktien zurück, obwohl im Vorjahreszeitraum noch über 15 Mrd. USD in Rückkäufe geflossen waren. Die vier Hyperscaler steuern auf Gesamtausgaben von über 650 Mrd. USD für KI-Investitionen in 2026 zu. Einzige Ausnahme ist Apple: Der iPhone-Konzern setzt bei KI auf Partnerschaften statt eigene Infrastruktur und autorisierte im April ein 100-Mrd.-USD-Rückkaufprogramm. Der Trend zeigt, wie stark die KI-Ausgabenrunde die klassischen Kapitalrückgabe-Mechanismen bei Big Tech verdrängt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-17"
+      "datum_artikel": "2026-06-18"
     },
     {
-      "titel": "OpenAI testet neue KI-Modelle vor Marktstart mit historischen Nutzerdialogen",
-      "text": "OpenAI stellte am 16. Juni eine neue Qualitätssicherungsmethode namens 'Deployment Simulation' vor, die die Sicherheit beim Einführen neuer KI-Modelle erhöhen soll. Das System spielt vergangene Nutzerdialoge automatisch durch das neue Kandidatenmodell, bevor es veröffentlicht wird, und erkennt so unerwünschte Verhaltensänderungen gegenüber dem Vorgängermodell frühzeitig. Hintergrund ist wiederholte Kritik, dass neue Modelle in bekannten Situationen gelegentlich schlechter abschneiden als die Version, die sie ersetzen. OpenAI will damit den Qualitätssicherungsprozess systematisieren und die Zuverlässigkeit häufiger Modellwechsel für Nutzer und Unternehmenskunden verbessern. Die Methode gilt in der Branche als Schritt hin zu reiferen und transparenteren Deployment-Praktiken.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-06-16"
+      "titel": "EU schränkt KI-Rechenzentrums-Ambitionen ein: Kleinere Ausschreibung als geplant",
+      "text": "Die Europäische Union hat ihre ursprünglich ambitionierten Pläne für KI-Rechenzentren deutlich reduziert und eine Ausschreibung veröffentlicht, die weit hinter dem ursprünglichen Ziel zurückbleibt. In der ersten Phase werden Angebote für vier Rechenzentren mit mindestens 25.000 GPUs und drei Standorte mit mindestens 40.000 Prozessoren gesucht. Das ist ein erheblicher Rückschritt gegenüber dem ursprünglichen EU-Plan, der fünf massive KI-Rechenzentren im Rahmen eines 20-Mrd.-Euro-Investitionsprogramms vorsah. Dieses frühere Vorhaben scheiterte an Finanzierungslücken, nationalen Interessenkonflikten und Zeitverzögerungen. Europa riskiert damit, im globalen KI-Infrastrukturwettbewerb mit den USA und China weiter zurückzufallen – zumal hohe Energiepreise zusätzliche Hürden für den Rechenzentrum-Ausbau darstellen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-18"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic erneuert Claude Design: Design-Systeme importierbar, Übergabe an Claude Code möglich",
-      "text": "Anthropic hat am 17. Juni ein umfassendes Update für sein KI-Design-Tool Claude Design veröffentlicht, rund zwei Monate nach dem ersten Preview. Kernneuerung ist der direkte Import eigener Design-Systeme aus GitHub-Repositories, Figma-Dateien oder lokalen Uploads: Claude Design baut fortan ausschließlich mit diesen Komponenten, prüft seine Ausgabe automatisch dagegen und korrigiert Abweichungen eigenständig, bevor der Nutzer das Ergebnis sieht. Eine neue Integration mit dem Coding-Assistenten Claude Code ermöglicht es, fertige Designs nahtlos zur Implementierung zu übergeben, ohne von vorne beginnen zu müssen. Zusätzlich wurde die Token-Effizienz deutlich verbessert: Claude Design teilt nun das Nutzungskontingent mit anderen Anthropic-Produkten, was Token-Fehler merklich reduziert. Das Update gilt als wichtiger Reifesprung für den professionellen Einsatz von Claude Design in Entwickler- und Designteams.",
-      "quelle": "VentureBeat",
+      "titel": "SpaceX übernimmt KI-Coding-Tool Cursor für 60 Mrd. USD",
+      "text": "SpaceX hat die 60-Milliarden-Dollar-Übernahme des KI-Coding-Startups Anysphere – bekannt unter dem Namen Cursor – nur zwei Handelstage nach dem rekordverdächtigen SpaceX-Börsengang offiziell bestätigt. Die Transaktion erfolgt vollständig in SpaceX-Aktien und gilt als die größte Übernahme eines Venture-Capital-finanzierten Startups in der Geschichte. Cursor erwirtschaftet aktuell rund 2,6 Mrd. USD annualisierten Jahresumsatz mit starkem Wachstum im Enterprise-Segment. Elon Musk will SpaceX damit direkt gegen die führenden KI-Coding-Anbieter Anthropic und OpenAI positionieren und die bisherige Schwäche seines KI-Unternehmens xAI in diesem Segment aufholen. Die vier MIT-Mitgründer von Cursor, alle Mitte zwanzig, werden durch den Deal zu Multimilliardären. Der Abschluss der Transaktion wird für das dritte Quartal 2026 erwartet, vorbehaltlich behördlicher Genehmigungen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-17",
-      "unternehmen": "Anthropic"
+      "unternehmen": "SpaceX"
+    },
+    {
+      "titel": "Amazon will eigene KI-Chips an externe Unternehmen verkaufen",
+      "text": "Amazon führt Gespräche, seine selbst entwickelten KI-Chips – darunter den Trainium-Prozessor – künftig auch an Drittunternehmen außerhalb der eigenen AWS-Cloud zu verkaufen. Amazon-KI-Chef Peter DeSantis bestätigte gegenüber Bloomberg, dass erste Sondierungsgespräche mit potenziellen Kunden laufen, ohne konkrete Namen zu nennen. Bisher waren die Amazon-Chips exklusiv für die eigene Cloud-Infrastruktur entwickelt worden – der neue Kurs markiert damit eine bedeutende strategische Wende. Ziel ist es, die Marktdominanz von Nvidia im KI-Chip-Segment direkt anzugreifen; Nvidia hält derzeit rund 85 Prozent Marktanteil im KI-Chip-Bereich und generiert etwa 90 Prozent seines Umsatzes aus dem Rechenzentrum-Geschäft. Sollten Amazon-Chips breit am Markt erhältlich werden, könnten sie den Preisdruck auf Nvidia erhöhen und die Abhängigkeit der Tech-Branche von einem einzigen Chip-Anbieter reduzieren.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-18",
+      "unternehmen": "Amazon"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Fed-Chef Warsh überrascht mit hawkischem Dot Plot – S&P 500 und Nasdaq brechen ein",
-      "text": "Die US-Notenbank ließ den Leitzins bei ihrer FOMC-Sitzung am 17. Juni einstimmig (12:0) im Bereich von 3,5 bis 3,75 Prozent unverändert – doch der Dot Plot überraschte die Märkte negativ: Neun von 18 Ausschussmitgliedern rechnen nun mit mindestens einer Zinserhöhung um 0,25 Prozentpunkte bis Ende 2026, was eine deutliche Kehrtwende gegenüber der März-Prognose darstellt, als die Mehrheit noch eine Senkung erwartet hatte. Fed-Chef Kevin Warsh brach zudem mit der Tradition und gab keinen eigenen Dot-Plot-Wert ab; er kürzte auch das geldpolitische Statement auf prägnantere Formulierungen. Treiber des hawkischen Ausblicks ist die wieder anziehende Inflation: Die US-Verbraucherpreise lagen im Mai bei 4,2 Prozent im Jahresvergleich – der höchste Wert seit April 2023, mitverursacht durch Energiepreisanstieg infolge des Iran-Krieges. S&P 500 und Nasdaq gaben nach der Entscheidung deutlich nach, nachdem die Indizes zuvor noch auf dem Tageshoch notierten.",
+      "titel": "Fed-Chef Warsh hawkisch: S&P 500 mit historischem Einbruch beim ersten Entscheid",
+      "text": "In seiner ersten Sitzung als US-Notenbankchef hat Kevin Warsh am Mittwoch, 17. Juni 2026, die Leitzinsen einstimmig bei 3,50 bis 3,75 Prozent belassen, aber ein klar restriktiveres Signal gesendet. Die aktualisierten Prognosen (Dot Plot) zeigen, dass der Median der FOMC-Mitglieder nun für Ende 2026 höhere Zinsen als heute erwartet – eine Kehrtwende gegenüber dem März-Signal, das noch eine Zinssenkung in Aussicht gestellt hatte. 17 von 18 Mitgliedern sehen die Inflationsrisiken nach oben gerichtet. Die Marktreaktion war historisch: Der S&P 500 verlor 1,21 Prozent und schloss bei 7.420 Punkten – die schwächste Performance je an einem ersten Entscheidungs-Tag unter einem neuen Fed-Chef, schlechter als 1994. Die 2-jährige US-Staatsanleiherendite stieg um 14 Basispunkte auf 4,187 Prozent, die 10-jährige Rendite kletterte um 7 Basispunkte auf 4,487 Prozent.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-17"
     },
     {
-      "titel": "Gold klettert auf 4.352 USD je Unze – Iran-Entspannung und Fed-Unsicherheit als Treiber",
-      "text": "Gold verteuerte sich am 17. Juni auf rund 4.352 USD je Unze, ein Plus von etwa 0,47 Prozent gegenüber dem Vortag; Bloomberg notierte den Kurs zeitweise sogar bei 4.374 USD. Zwei Faktoren wirken gleichzeitig: Das US-Iran-Friedensabkommen, das die Wiedereröffnung der Straße von Hormus in Aussicht stellt, entschärft zwar die unmittelbare Ölpreis-Panik, erhöht aber die Nachfrage nach Gold als Absicherung gegen verbleibende geopolitische Restrisiken. Gleichzeitig schürt der unerwartet hawkische Fed-Dot-Plot unter neuem Chef Warsh Konjunkturunsicherheit, was das Edelmetall als Inflationsschutz zusätzlich attraktiver macht. Zum Vergleich: Jahresbeginn 2026 lag der Goldpreis noch unter 3.000 USD je Unze – der aktuelle Stand von über 4.300 USD markiert historische Höchststände.",
+      "titel": "Märkte erholen sich am Donnerstag – US-Börsen heute wegen Juneteenth geschlossen",
+      "text": "Nach dem historischen Sell-off am Mittwoch haben sich die US-Aktienmärkte am Donnerstag, dem 18. Juni, spürbar erholt. Der Russell 2000 legte 2,12 Prozent zu, die Nasdaq gewann 1,91 Prozent und der S&P 500 stieg 1,08 Prozent. Unterstützend wirkten neben technischen Gegenbewegungen auch die Meldung, dass die USA die Iran-Blockade offiziell für beendet erklärt haben, was geopolitische Risikoprämien an den Märkten minderte. Am heutigen Freitag, dem 19. Juni, sind die US-Börsen wegen des Juneteenth-Nationalfeiertags geschlossen. In der kommenden Woche werden Investoren intensiv beobachten, ob die hawkischen Fed-Signale unter Warsh zu einer dauerhaften Neubewertung von Zinspfad und Aktienbewertungen führen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-17"
+      "datum_artikel": "2026-06-18"
+    },
+    {
+      "titel": "Gold unter Druck: Hawkische Fed-Signale drücken Preis auf rund 4.300 USD",
+      "text": "Der Goldpreis steht nach der hawkischen Haltung der US-Notenbank unter spürbarem Druck und notiert am 18. Juni bei rund 4.200 bis 4.305 USD je Unze. Die Haupttreiber sind steigende Anleiherenditen – die 2-jährige US-Rendite kletterte auf 4,19 Prozent – und ein stärkerer US-Dollar, die das zinslose Edelmetall weniger attraktiv machen. Gold hatte in den vergangenen Wochen noch über 4.350 USD notiert und von geopolitischen Unsicherheiten profitiert; der hawkische Schwenk unter Fed-Chef Kevin Warsh hat diese Rally jedoch gestoppt. Viele Analysten hatten für 2026 deutlich höhere Goldpreise erwartet, unter der Annahme sinkender US-Zinsen – dieses Szenario ist nun unter Druck geraten. Sollte die Fed die Zinsen tatsächlich anheben, dürfte Gold kurzfristig weiter schwächeln.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-18"
     }
   ]
 }
