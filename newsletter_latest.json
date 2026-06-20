@@ -1,54 +1,42 @@
 {
-  "datum": "Freitag, 19. Juni 2026",
-  "generiert": "2026-06-19",
+  "datum": "Samstag, 20. Juni 2026",
+  "generiert": "2026-06-20",
   "ki_stories": [
     {
-      "titel": "Big Tech kauft kaum noch eigene Aktien zurück – KI-Ausgaben fressen Kapital",
-      "text": "Die vier größten KI-Investoren unter den US-Technologiekonzernen – Alphabet, Microsoft, Meta und Amazon – haben ihre Aktienrückkäufe drastisch eingeschränkt, weil das Kapital in KI-Infrastruktur fließt. Im ersten Quartal 2026 war Microsoft als einziger dieser vier überhaupt mit Rückkäufen aktiv – für lediglich 3,4 Mrd. USD, den niedrigsten Wert seit fast zehn Jahren. Alphabet kaufte zum ersten Mal seit fast einem Jahrzehnt keine eigenen Aktien zurück, obwohl im Vorjahreszeitraum noch über 15 Mrd. USD in Rückkäufe geflossen waren. Die vier Hyperscaler steuern auf Gesamtausgaben von über 650 Mrd. USD für KI-Investitionen in 2026 zu. Einzige Ausnahme ist Apple: Der iPhone-Konzern setzt bei KI auf Partnerschaften statt eigene Infrastruktur und autorisierte im April ein 100-Mrd.-USD-Rückkaufprogramm. Der Trend zeigt, wie stark die KI-Ausgabenrunde die klassischen Kapitalrückgabe-Mechanismen bei Big Tech verdrängt.",
-      "quelle": "Bloomberg",
+      "titel": "NVIDIA RTX Spark: Neuer Superchip verwandelt Windows-PCs in KI-Agenten-Plattformen",
+      "text": "NVIDIA hat den RTX Spark Superchip vorgestellt, der Windows-PCs grundlegend zu persönlichen KI-Agenten-Plattformen umgestalten soll. In Partnerschaft mit Microsoft werden neue Windows-Sicherheitsmechanismen und der NVIDIA OpenShell-Runtime eingeführt, damit KI-Agenten sicher und vollständig unter Nutzerkontrolle laufen. Der Chip vereint laut NVIDIA 30 Jahre Chip-Entwicklung in einem Baustein und zielt auf schlanke Laptops mit ganztägiger Akkulaufzeit sowie effiziente Desktop-PCs ab. Für Nutzer bedeutet das: Komplexe KI-Aufgaben sollen künftig lokal auf dem eigenen Gerät ablaufen, ohne Daten in die Cloud senden zu müssen. Microsoft integriert den RTX Spark direkt in die Windows-Plattform und schafft damit eine neue Kategorie lokaler KI-Anwendungen. Analysten sehen in der Ankündigung die Eröffnung eines neuen Massenmarkts für KI-Hardware im Consumer-Bereich neben dem bisherigen Schwerpunkt auf Rechenzentren.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-06-18"
     },
     {
-      "titel": "EU schränkt KI-Rechenzentrums-Ambitionen ein: Kleinere Ausschreibung als geplant",
-      "text": "Die Europäische Union hat ihre ursprünglich ambitionierten Pläne für KI-Rechenzentren deutlich reduziert und eine Ausschreibung veröffentlicht, die weit hinter dem ursprünglichen Ziel zurückbleibt. In der ersten Phase werden Angebote für vier Rechenzentren mit mindestens 25.000 GPUs und drei Standorte mit mindestens 40.000 Prozessoren gesucht. Das ist ein erheblicher Rückschritt gegenüber dem ursprünglichen EU-Plan, der fünf massive KI-Rechenzentren im Rahmen eines 20-Mrd.-Euro-Investitionsprogramms vorsah. Dieses frühere Vorhaben scheiterte an Finanzierungslücken, nationalen Interessenkonflikten und Zeitverzögerungen. Europa riskiert damit, im globalen KI-Infrastrukturwettbewerb mit den USA und China weiter zurückzufallen – zumal hohe Energiepreise zusätzliche Hürden für den Rechenzentrum-Ausbau darstellen.",
+      "titel": "OpenAI: Kostenlose ChatGPT-Nutzer erhalten Frontier-Qualität bei Gesundheitsfragen",
+      "text": "OpenAI hat bekanntgegeben, dass GPT-5.5 Instant, das Standardmodell für kostenlose ChatGPT-Nutzer, bei Gesundheitsfragen nun vergleichbar gut abschneidet wie die teureren Frontier-Thinking-Modelle des Unternehmens. Das bedeutet, dass Millionen Nutzer ohne Abo medizinische Informationen in derselben Qualität erhalten wie zahlende Pro-Nutzer. Gleichzeitig fügte ChatGPT neue Funktionen hinzu, darunter Aussprache-Hilfen, Fußball-WM-Gesprächsvorschläge und eine verbesserte Kontrolle über verknüpfte Apps. OpenAI reagiert damit auf wachsenden Wettbewerbsdruck durch Anthropic, das zuletzt fast 25 Prozent Marktanteil im Business-KI-Abonnementmarkt gewonnen hat. Die Strategie, kostenlose Nutzer mit Frontier-Qualität zu versorgen, soll die Nutzerbasis halten und weiter ausbauen. Mittelfristig dürfte die Verbesserung bei Gesundheitsantworten auch regulatorische Aufmerksamkeit auf sich ziehen, da KI-gestützte medizinische Beratung zunehmend an Bedeutung gewinnt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-18"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX übernimmt KI-Coding-Tool Cursor für 60 Mrd. USD",
-      "text": "SpaceX hat die 60-Milliarden-Dollar-Übernahme des KI-Coding-Startups Anysphere – bekannt unter dem Namen Cursor – nur zwei Handelstage nach dem rekordverdächtigen SpaceX-Börsengang offiziell bestätigt. Die Transaktion erfolgt vollständig in SpaceX-Aktien und gilt als die größte Übernahme eines Venture-Capital-finanzierten Startups in der Geschichte. Cursor erwirtschaftet aktuell rund 2,6 Mrd. USD annualisierten Jahresumsatz mit starkem Wachstum im Enterprise-Segment. Elon Musk will SpaceX damit direkt gegen die führenden KI-Coding-Anbieter Anthropic und OpenAI positionieren und die bisherige Schwäche seines KI-Unternehmens xAI in diesem Segment aufholen. Die vier MIT-Mitgründer von Cursor, alle Mitte zwanzig, werden durch den Deal zu Multimilliardären. Der Abschluss der Transaktion wird für das dritte Quartal 2026 erwartet, vorbehaltlich behördlicher Genehmigungen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-17",
-      "unternehmen": "SpaceX"
+      "titel": "NVIDIA und Dell: NemoClaw-Chip für autonome KI-Agenten in Unternehmen vorgestellt",
+      "text": "Bei der Dell TechWorld in Las Vegas präsentierten NVIDIA-Chef Jensen Huang und Dell-Chairman Michael Dell gemeinsam den NemoClaw-Chip, der autonome KI-Agenten vollständig im eigenen Unternehmens-Rechenzentrum betreiben soll, ohne externe Cloud-Dienste zu benötigen. Die Lösung ist Teil der Dell AI Factory with NVIDIA und richtet sich an Branchen wie Finanzwesen, Gesundheit und Behörden, die KI-Workloads aus Datenschutz- oder Compliance-Gründen intern halten müssen. Auf der Messe wurden auch physische KI-Roboter vorgeführt, die NemoClaw in realen Industrie-Szenarien einsetzen. Die Partnerschaft zwischen NVIDIA und Dell vertieft sich damit erheblich: Dell ist einer der wichtigsten Vertriebskanäle von NVIDIA-Hardware im Enterprise-Markt. Für NVIDIA ist der Schritt strategisch bedeutsam, da der On-Premises-KI-Markt neben Cloud-Rechenzentren als zweite Wachstumssäule aufgebaut werden soll. Mit NemoClaw tritt NVIDIA in direkte Konkurrenz zu Custom-Chips von Amazon (Trainium) und Google (TPU), die ebenfalls in Unternehmensumgebungen drängen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-18",
+      "unternehmen": "NVIDIA"
     },
     {
-      "titel": "Amazon will eigene KI-Chips an externe Unternehmen verkaufen",
-      "text": "Amazon führt Gespräche, seine selbst entwickelten KI-Chips – darunter den Trainium-Prozessor – künftig auch an Drittunternehmen außerhalb der eigenen AWS-Cloud zu verkaufen. Amazon-KI-Chef Peter DeSantis bestätigte gegenüber Bloomberg, dass erste Sondierungsgespräche mit potenziellen Kunden laufen, ohne konkrete Namen zu nennen. Bisher waren die Amazon-Chips exklusiv für die eigene Cloud-Infrastruktur entwickelt worden – der neue Kurs markiert damit eine bedeutende strategische Wende. Ziel ist es, die Marktdominanz von Nvidia im KI-Chip-Segment direkt anzugreifen; Nvidia hält derzeit rund 85 Prozent Marktanteil im KI-Chip-Bereich und generiert etwa 90 Prozent seines Umsatzes aus dem Rechenzentrum-Geschäft. Sollten Amazon-Chips breit am Markt erhältlich werden, könnten sie den Preisdruck auf Nvidia erhöhen und die Abhängigkeit der Tech-Branche von einem einzigen Chip-Anbieter reduzieren.",
+      "titel": "OpenAI startet Partner-Netzwerk zur Sicherung des Unternehmens-Ökosystems",
+      "text": "OpenAI hat offiziell das OpenAI Partner Network gestartet, eine strukturierte Plattform für Unternehmenspartnerschaften, Systemintegratoren und KI-Dienstleister weltweit. Das Netzwerk bietet zertifizierten Partnern Zugang zu bevorzugtem Support, frühen Modell-Previews und gemeinsamen Vertriebsressourcen. Der Start fällt in eine Phase, in der Anthropic mit fast 25 Prozent Marktanteil im Business-KI-Abonnementmarkt stark auf OpenAI drängt und die Führungsposition des Unternehmens herausfordert. Mit dem Partnernetzwerk will OpenAI Wechselhürden für Unternehmenskunden aufbauen und sein Ökosystem langfristig absichern. Das Netzwerk soll schrittweise global ausgerollt werden und noch im dritten Quartal 2026 eine dreistellige Zahl zertifizierter Partnerunternehmen erreichen. Analysten sehen den Schritt als notwendige Reaktion, um die Marktstellung im lukrativen Enterprise-Segment gegenüber Anthropic und Google zu verteidigen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-18",
-      "unternehmen": "Amazon"
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Fed-Chef Warsh hawkisch: S&P 500 mit historischem Einbruch beim ersten Entscheid",
-      "text": "In seiner ersten Sitzung als US-Notenbankchef hat Kevin Warsh am Mittwoch, 17. Juni 2026, die Leitzinsen einstimmig bei 3,50 bis 3,75 Prozent belassen, aber ein klar restriktiveres Signal gesendet. Die aktualisierten Prognosen (Dot Plot) zeigen, dass der Median der FOMC-Mitglieder nun für Ende 2026 höhere Zinsen als heute erwartet – eine Kehrtwende gegenüber dem März-Signal, das noch eine Zinssenkung in Aussicht gestellt hatte. 17 von 18 Mitgliedern sehen die Inflationsrisiken nach oben gerichtet. Die Marktreaktion war historisch: Der S&P 500 verlor 1,21 Prozent und schloss bei 7.420 Punkten – die schwächste Performance je an einem ersten Entscheidungs-Tag unter einem neuen Fed-Chef, schlechter als 1994. Die 2-jährige US-Staatsanleiherendite stieg um 14 Basispunkte auf 4,187 Prozent, die 10-jährige Rendite kletterte um 7 Basispunkte auf 4,487 Prozent.",
+      "titel": "Goldpreis fällt am Freitag auf $4.150: Goldman Sachs senkt Jahresendprognose",
+      "text": "Der Goldpreis ist am Freitag, dem 19. Juni, unter die Marke von 4.200 Dollar je Unze gefallen und notierte zuletzt bei rund 4.150 Dollar, dem niedrigsten Stand seit dem 11. Juni. Damit verzeichnete Gold die dritte Woche in Folge Verluste, getrieben von einem stärkeren US-Dollar und gestiegenen Erwartungen an eine straffere US-Geldpolitik nach den hawkischen Signalen der Fed unter dem neuen Notenbankchef Kevin Warsh. Goldman Sachs senkte daraufhin seine Goldpreis-Jahresendprognose deutlich von 5.400 Dollar auf 4.900 Dollar je Unze. Gold gilt als zinssensitiv: Höhere Zinsen stärken den Dollar und machen das zinslose Edelmetall als Anlage weniger attraktiv, wie es aktuell die steigenden Anleiherenditen zeigen. US-Aktienmärkte blieben gestern wegen des Juneteenth-Nationalfeiertags geschlossen; die letzte Handelssitzung am Donnerstag hatte noch ein Plus von 1,08 Prozent beim S&P 500 gezeigt. Kurzfristig dominieren die Abwärtsrisiken bei Gold, solange keine geopolitischen Schocks oder eine erhöhte Risikoaversion erneut Kaufdruck erzeugen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-17"
-    },
-    {
-      "titel": "Märkte erholen sich am Donnerstag – US-Börsen heute wegen Juneteenth geschlossen",
-      "text": "Nach dem historischen Sell-off am Mittwoch haben sich die US-Aktienmärkte am Donnerstag, dem 18. Juni, spürbar erholt. Der Russell 2000 legte 2,12 Prozent zu, die Nasdaq gewann 1,91 Prozent und der S&P 500 stieg 1,08 Prozent. Unterstützend wirkten neben technischen Gegenbewegungen auch die Meldung, dass die USA die Iran-Blockade offiziell für beendet erklärt haben, was geopolitische Risikoprämien an den Märkten minderte. Am heutigen Freitag, dem 19. Juni, sind die US-Börsen wegen des Juneteenth-Nationalfeiertags geschlossen. In der kommenden Woche werden Investoren intensiv beobachten, ob die hawkischen Fed-Signale unter Warsh zu einer dauerhaften Neubewertung von Zinspfad und Aktienbewertungen führen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-18"
-    },
-    {
-      "titel": "Gold unter Druck: Hawkische Fed-Signale drücken Preis auf rund 4.300 USD",
-      "text": "Der Goldpreis steht nach der hawkischen Haltung der US-Notenbank unter spürbarem Druck und notiert am 18. Juni bei rund 4.200 bis 4.305 USD je Unze. Die Haupttreiber sind steigende Anleiherenditen – die 2-jährige US-Rendite kletterte auf 4,19 Prozent – und ein stärkerer US-Dollar, die das zinslose Edelmetall weniger attraktiv machen. Gold hatte in den vergangenen Wochen noch über 4.350 USD notiert und von geopolitischen Unsicherheiten profitiert; der hawkische Schwenk unter Fed-Chef Kevin Warsh hat diese Rally jedoch gestoppt. Viele Analysten hatten für 2026 deutlich höhere Goldpreise erwartet, unter der Annahme sinkender US-Zinsen – dieses Szenario ist nun unter Druck geraten. Sollte die Fed die Zinsen tatsächlich anheben, dürfte Gold kurzfristig weiter schwächeln.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-18"
+      "datum_artikel": "2026-06-19"
     }
   ]
 }
