@@ -1,41 +1,19 @@
 {
-  "datum": "Samstag, 20. Juni 2026",
-  "generiert": "2026-06-20",
-  "ki_stories": [
-    {
-      "titel": "NVIDIA RTX Spark: Neuer Superchip verwandelt Windows-PCs in KI-Agenten-Plattformen",
-      "text": "NVIDIA hat den RTX Spark Superchip vorgestellt, der Windows-PCs grundlegend zu persönlichen KI-Agenten-Plattformen umgestalten soll. In Partnerschaft mit Microsoft werden neue Windows-Sicherheitsmechanismen und der NVIDIA OpenShell-Runtime eingeführt, damit KI-Agenten sicher und vollständig unter Nutzerkontrolle laufen. Der Chip vereint laut NVIDIA 30 Jahre Chip-Entwicklung in einem Baustein und zielt auf schlanke Laptops mit ganztägiger Akkulaufzeit sowie effiziente Desktop-PCs ab. Für Nutzer bedeutet das: Komplexe KI-Aufgaben sollen künftig lokal auf dem eigenen Gerät ablaufen, ohne Daten in die Cloud senden zu müssen. Microsoft integriert den RTX Spark direkt in die Windows-Plattform und schafft damit eine neue Kategorie lokaler KI-Anwendungen. Analysten sehen in der Ankündigung die Eröffnung eines neuen Massenmarkts für KI-Hardware im Consumer-Bereich neben dem bisherigen Schwerpunkt auf Rechenzentren.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-18"
-    },
-    {
-      "titel": "OpenAI: Kostenlose ChatGPT-Nutzer erhalten Frontier-Qualität bei Gesundheitsfragen",
-      "text": "OpenAI hat bekanntgegeben, dass GPT-5.5 Instant, das Standardmodell für kostenlose ChatGPT-Nutzer, bei Gesundheitsfragen nun vergleichbar gut abschneidet wie die teureren Frontier-Thinking-Modelle des Unternehmens. Das bedeutet, dass Millionen Nutzer ohne Abo medizinische Informationen in derselben Qualität erhalten wie zahlende Pro-Nutzer. Gleichzeitig fügte ChatGPT neue Funktionen hinzu, darunter Aussprache-Hilfen, Fußball-WM-Gesprächsvorschläge und eine verbesserte Kontrolle über verknüpfte Apps. OpenAI reagiert damit auf wachsenden Wettbewerbsdruck durch Anthropic, das zuletzt fast 25 Prozent Marktanteil im Business-KI-Abonnementmarkt gewonnen hat. Die Strategie, kostenlose Nutzer mit Frontier-Qualität zu versorgen, soll die Nutzerbasis halten und weiter ausbauen. Mittelfristig dürfte die Verbesserung bei Gesundheitsantworten auch regulatorische Aufmerksamkeit auf sich ziehen, da KI-gestützte medizinische Beratung zunehmend an Bedeutung gewinnt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-18"
-    }
-  ],
-  "unternehmen_stories": [
-    {
-      "titel": "NVIDIA und Dell: NemoClaw-Chip für autonome KI-Agenten in Unternehmen vorgestellt",
-      "text": "Bei der Dell TechWorld in Las Vegas präsentierten NVIDIA-Chef Jensen Huang und Dell-Chairman Michael Dell gemeinsam den NemoClaw-Chip, der autonome KI-Agenten vollständig im eigenen Unternehmens-Rechenzentrum betreiben soll, ohne externe Cloud-Dienste zu benötigen. Die Lösung ist Teil der Dell AI Factory with NVIDIA und richtet sich an Branchen wie Finanzwesen, Gesundheit und Behörden, die KI-Workloads aus Datenschutz- oder Compliance-Gründen intern halten müssen. Auf der Messe wurden auch physische KI-Roboter vorgeführt, die NemoClaw in realen Industrie-Szenarien einsetzen. Die Partnerschaft zwischen NVIDIA und Dell vertieft sich damit erheblich: Dell ist einer der wichtigsten Vertriebskanäle von NVIDIA-Hardware im Enterprise-Markt. Für NVIDIA ist der Schritt strategisch bedeutsam, da der On-Premises-KI-Markt neben Cloud-Rechenzentren als zweite Wachstumssäule aufgebaut werden soll. Mit NemoClaw tritt NVIDIA in direkte Konkurrenz zu Custom-Chips von Amazon (Trainium) und Google (TPU), die ebenfalls in Unternehmensumgebungen drängen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-18",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "OpenAI startet Partner-Netzwerk zur Sicherung des Unternehmens-Ökosystems",
-      "text": "OpenAI hat offiziell das OpenAI Partner Network gestartet, eine strukturierte Plattform für Unternehmenspartnerschaften, Systemintegratoren und KI-Dienstleister weltweit. Das Netzwerk bietet zertifizierten Partnern Zugang zu bevorzugtem Support, frühen Modell-Previews und gemeinsamen Vertriebsressourcen. Der Start fällt in eine Phase, in der Anthropic mit fast 25 Prozent Marktanteil im Business-KI-Abonnementmarkt stark auf OpenAI drängt und die Führungsposition des Unternehmens herausfordert. Mit dem Partnernetzwerk will OpenAI Wechselhürden für Unternehmenskunden aufbauen und sein Ökosystem langfristig absichern. Das Netzwerk soll schrittweise global ausgerollt werden und noch im dritten Quartal 2026 eine dreistellige Zahl zertifizierter Partnerunternehmen erreichen. Analysten sehen den Schritt als notwendige Reaktion, um die Marktstellung im lukrativen Enterprise-Segment gegenüber Anthropic und Google zu verteidigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-18",
-      "unternehmen": "OpenAI"
-    }
-  ],
+  "datum": "Sonntag, 21. Juni 2026",
+  "generiert": "2026-06-21",
+  "ki_stories": [],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "Goldpreis fällt am Freitag auf $4.150: Goldman Sachs senkt Jahresendprognose",
-      "text": "Der Goldpreis ist am Freitag, dem 19. Juni, unter die Marke von 4.200 Dollar je Unze gefallen und notierte zuletzt bei rund 4.150 Dollar, dem niedrigsten Stand seit dem 11. Juni. Damit verzeichnete Gold die dritte Woche in Folge Verluste, getrieben von einem stärkeren US-Dollar und gestiegenen Erwartungen an eine straffere US-Geldpolitik nach den hawkischen Signalen der Fed unter dem neuen Notenbankchef Kevin Warsh. Goldman Sachs senkte daraufhin seine Goldpreis-Jahresendprognose deutlich von 5.400 Dollar auf 4.900 Dollar je Unze. Gold gilt als zinssensitiv: Höhere Zinsen stärken den Dollar und machen das zinslose Edelmetall als Anlage weniger attraktiv, wie es aktuell die steigenden Anleiherenditen zeigen. US-Aktienmärkte blieben gestern wegen des Juneteenth-Nationalfeiertags geschlossen; die letzte Handelssitzung am Donnerstag hatte noch ein Plus von 1,08 Prozent beim S&P 500 gezeigt. Kurzfristig dominieren die Abwärtsrisiken bei Gold, solange keine geopolitischen Schocks oder eine erhöhte Risikoaversion erneut Kaufdruck erzeugen.",
+      "titel": "S&P 500 schließt Juneteenth-Woche mit Wochengewinn von 0,9 Prozent",
+      "text": "Der S&P 500 beendete die durch den Juneteenth-Feiertag (19. Juni) verkürzte Handelswoche mit einem Wochengewinn von 0,9 Prozent. Am letzten Handelstag Donnerstag (18. Juni) stieg der Index um 1,1 Prozent, der Nasdaq legte noch stärker zu und wurde von Chip-Werten und Technologieaktien angeführt. Haupttreiber des Kursanstiegs waren der von US-Präsident Trump unterzeichnete Waffenstillstand mit dem Iran, der eine Wiederöffnung der Straße von Hormuz einleitet und damit Ölpreissorgen dämpft, sowie eine überraschende Chipfertigungs-Vereinbarung zwischen Intel und Apple. Die Erholung kam, nachdem die Märkte zuvor nach einem unerwartet hawkischen Fed-Beschluss unter Druck geraten waren: Die US-Notenbank unter neuem Vorsitzenden Kevin Warsh hielt den Leitzins bei 3,50 bis 3,75 Prozent, neun von 19 FOMC-Mitgliedern signalisierten jedoch einen weiteren Zinsschritt noch in diesem Jahr. Für Investoren im FTSE All World ist der S&P 500 als mit Abstand größter Baustein ein wichtiger Taktgeber.",
       "quelle": "Reuters",
+      "datum_artikel": "2026-06-20"
+    },
+    {
+      "titel": "Gold fällt auf Zwei-Wochen-Tief — Goldman Sachs senkt Jahresendprognose auf 4.900 Dollar",
+      "text": "Der Goldpreis sank am Freitag (19. Juni) auf rund 4.150 US-Dollar je Unze und markierte damit den tiefsten Stand seit dem 11. Juni — der dritte Wochenverlust in Folge für das Edelmetall. Goldman Sachs reagierte und senkte seine Goldpreis-Jahresendprognose deutlich von 5.400 Dollar auf 4.900 Dollar je Unze. Belastet wird Gold durch den starken US-Dollar, der nach dem hawkischen Signal der Fed anzog, sowie durch gestiegene Zinserwartungen am Terminmarkt. Fed-Chef Kevin Warsh hielt zwar den Leitzins bei 3,50 bis 3,75 Prozent, doch neun von 19 FOMC-Mitgliedern erwarten noch in diesem Jahr eine weitere Anhebung — ein Umfeld, das das zinslose Edelmetall unter Druck setzt. Der US-Verbraucherpreisindex (CPI) war im Mai um 4,2 Prozent im Jahresvergleich gestiegen, der höchste Wert seit April 2023, was die Tauben in der Notenbank weiter in die Defensive drängt.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-19"
     }
   ]
