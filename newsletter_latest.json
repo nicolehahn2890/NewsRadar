@@ -1,20 +1,14 @@
 {
-  "datum": "Sonntag, 21. Juni 2026",
-  "generiert": "2026-06-21",
-  "ki_stories": [],
-  "unternehmen_stories": [],
-  "boerse_stories": [
+  "datum": "Montag, 22. Juni 2026",
+  "generiert": "2026-06-22",
+  "ki_stories": [
     {
-      "titel": "S&P 500 schließt Juneteenth-Woche mit Wochengewinn von 0,9 Prozent",
-      "text": "Der S&P 500 beendete die durch den Juneteenth-Feiertag (19. Juni) verkürzte Handelswoche mit einem Wochengewinn von 0,9 Prozent. Am letzten Handelstag Donnerstag (18. Juni) stieg der Index um 1,1 Prozent, der Nasdaq legte noch stärker zu und wurde von Chip-Werten und Technologieaktien angeführt. Haupttreiber des Kursanstiegs waren der von US-Präsident Trump unterzeichnete Waffenstillstand mit dem Iran, der eine Wiederöffnung der Straße von Hormuz einleitet und damit Ölpreissorgen dämpft, sowie eine überraschende Chipfertigungs-Vereinbarung zwischen Intel und Apple. Die Erholung kam, nachdem die Märkte zuvor nach einem unerwartet hawkischen Fed-Beschluss unter Druck geraten waren: Die US-Notenbank unter neuem Vorsitzenden Kevin Warsh hielt den Leitzins bei 3,50 bis 3,75 Prozent, neun von 19 FOMC-Mitgliedern signalisierten jedoch einen weiteren Zinsschritt noch in diesem Jahr. Für Investoren im FTSE All World ist der S&P 500 als mit Abstand größter Baustein ein wichtiger Taktgeber.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-20"
-    },
-    {
-      "titel": "Gold fällt auf Zwei-Wochen-Tief — Goldman Sachs senkt Jahresendprognose auf 4.900 Dollar",
-      "text": "Der Goldpreis sank am Freitag (19. Juni) auf rund 4.150 US-Dollar je Unze und markierte damit den tiefsten Stand seit dem 11. Juni — der dritte Wochenverlust in Folge für das Edelmetall. Goldman Sachs reagierte und senkte seine Goldpreis-Jahresendprognose deutlich von 5.400 Dollar auf 4.900 Dollar je Unze. Belastet wird Gold durch den starken US-Dollar, der nach dem hawkischen Signal der Fed anzog, sowie durch gestiegene Zinserwartungen am Terminmarkt. Fed-Chef Kevin Warsh hielt zwar den Leitzins bei 3,50 bis 3,75 Prozent, doch neun von 19 FOMC-Mitgliedern erwarten noch in diesem Jahr eine weitere Anhebung — ein Umfeld, das das zinslose Edelmetall unter Druck setzt. Der US-Verbraucherpreisindex (CPI) war im Mai um 4,2 Prozent im Jahresvergleich gestiegen, der höchste Wert seit April 2023, was die Tauben in der Notenbank weiter in die Defensive drängt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-19"
+      "titel": "Anthropics Fable 5 und Mythos 5 nach US-Exportkontroll-Direktive weiter offline",
+      "text": "Seit dem 12. Juni sind Anthropics leistungsstärkste KI-Modelle Fable 5 und Mythos 5 weltweit abgeschaltet, nachdem das US-Handelsministerium per Exportkontroll-Direktive den Zugang für alle ausländischen Staatsangehörigen gesperrt hatte – einschließlich ausländischer Anthropic-Mitarbeiter. Als Auslöser gilt eine gemeldete Jailbreak-Schwachstelle in Mythos 5, die laut Berichten von Amazon an die US-Behörden weitergegeben wurde – bemerkenswert, da Amazon mit 8 Milliarden Dollar Beteiligung zu den größten Anthropic-Investoren zählt. Da Anthropic keine technisch zuverlässige Nationalitätsprüfung umsetzen konnte, schaltete das Unternehmen beide Modelle global für alle Nutzer ab. Am Rande des G7-Gipfels in Évian-les-Bains traf Anthropic-CEO Dario Amodei am 17. Juni US-Präsident Trump; dieser erklärte anschließend in einem Interview, Anthropic sei 'kein nationales Sicherheitsrisiko mehr'. Trotz dieser Signale sind Fable 5 und Mythos 5 laut Stand vom 21. Juni weiterhin offline; die kostenlose Testphase für zahlende Claude-Abonnenten lief am 22. Juni planmäßig aus. Anthropic und die Trump-Administration sollen kurz vor einer Vereinbarung zur Wiederherstellung des Zugangs stehen.",
+      "quelle": "CNN",
+      "datum_artikel": "2026-06-21"
     }
-  ]
+  ],
+  "unternehmen_stories": [],
+  "boerse_stories": []
 }
