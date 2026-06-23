@@ -1,8 +1,29 @@
 {
   "datum": "Dienstag, 23. Juni 2026",
   "generiert": "2026-06-23",
-  "ki_stories": [],
-  "unternehmen_stories": [],
+  "ki_stories": [
+    {
+      "titel": "OpenAI- und Anthropic-nahe Gruppen pumpen Millionen in US-Vorwahlkampf",
+      "text": "Im Umfeld der beiden führenden KI-Unternehmen OpenAI und Anthropic haben politische Gruppen vor den US-Vorwahlen am 23. Juni 2026 zusammen mehr als 15 Millionen US-Dollar für Werbung, Mailings und SMS-Kampagnen ausgegeben. Das geht aus Unterlagen der US-Wahlbehörde FEC hervor, über die NPR am 22. Juni berichtete. Hintergrund ist der Streit um die künftige Regulierung von künstlicher Intelligenz: Die Gruppen werben teils für, teils gegen strengere KI-Gesetze und versuchen, in einem unübersichtlichen Kandidatenfeld Profil für ihre Positionen aufzubauen. Beobachter werten den Geldfluss als Zeichen dafür, wie massiv die KI-Branche inzwischen versucht, politisch Einfluss auf die Rahmenbedingungen zu nehmen. Die Regeln, die hier mitentschieden werden, betreffen direkt, wie Firmen wie OpenAI und Anthropic künftig Modelle entwickeln und veröffentlichen dürfen.",
+      "quelle": "NPR",
+      "datum_artikel": "2026-06-22"
+    },
+    {
+      "titel": "xAI bringt autonomen /goal-Modus in Grok Build",
+      "text": "Elon Musks KI-Firma xAI hat am 22. Juni 2026 in seiner Entwicklungsumgebung Grok Build eine neue Funktion namens /goal vorgestellt. Damit kann Grok mehrstufige Programmieraufgaben über längere Zeit selbstständig ausführen und prüft die Ergebnisse mit einer eingebauten Verifikation so lange, bis die Aufgabe vollständig erledigt ist. Ziel ist, komplexe Coding-Aufträge ohne ständiges Eingreifen des Nutzers abzuarbeiten. Damit reiht sich xAI in den Wettlauf um sogenannte agentische KI ein, bei der Modelle eigenständig ganze Arbeitsabläufe übernehmen - ein Feld, in dem auch OpenAI mit Codex und Anthropic mit Claude stark investieren. Die Funktion richtet sich vor allem an Entwickler und zeigt, wie schnell sich der Markt für KI-gestützte Softwareentwicklung derzeit bewegt.",
+      "quelle": "MarkTechPost",
+      "datum_artikel": "2026-06-22"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "Chinas 295-Mrd-Dollar-KI-Plan sperrt Nvidia mit Mandat für heimische Chips aus",
+      "text": "Neue Berichte vom 22. Juni 2026 konkretisieren Chinas staatlichen Plan, über fünf Jahre rund 295 Milliarden US-Dollar in ein landesweites Netz von KI-Rechenzentren zu investieren. Kernpunkt ist eine Vorgabe, wonach mindestens 80 Prozent der eingesetzten Technologie - einschließlich der KI-Beschleuniger-Chips - von chinesischen Anbietern stammen müssen. Das würde US-Hersteller wie Nvidia und AMD faktisch vom Aufbau dieser Infrastruktur ausschließen. Betrieben werden sollen die vernetzten Rechenzentren überwiegend von staatlichen Konzernen wie China Mobile und China Telecom; die Planung liegt bei Behörden wie der Reformkommission NDRC. Für Nvidia ist das ein weiterer Rückschlag im wichtigen chinesischen Markt, der ohnehin durch US-Exportkontrollen belastet ist. Mittelfristig könnte der Vorstoß Chinas Bemühungen beschleunigen, eine eigene, von westlicher Chiptechnik unabhängige KI-Lieferkette aufzubauen.",
+      "quelle": "TechTimes",
+      "datum_artikel": "2026-06-22",
+      "unternehmen": "NVIDIA"
+    }
+  ],
   "boerse_stories": [
     {
       "titel": "Russell 2000 erstmals über 3.000 Punkte - breite Marktrally am Montag",
