@@ -1,14 +1,20 @@
 {
-  "datum": "Montag, 22. Juni 2026",
-  "generiert": "2026-06-22",
-  "ki_stories": [
-    {
-      "titel": "Anthropics Fable 5 und Mythos 5 nach US-Exportkontroll-Direktive weiter offline",
-      "text": "Seit dem 12. Juni sind Anthropics leistungsstärkste KI-Modelle Fable 5 und Mythos 5 weltweit abgeschaltet, nachdem das US-Handelsministerium per Exportkontroll-Direktive den Zugang für alle ausländischen Staatsangehörigen gesperrt hatte – einschließlich ausländischer Anthropic-Mitarbeiter. Als Auslöser gilt eine gemeldete Jailbreak-Schwachstelle in Mythos 5, die laut Berichten von Amazon an die US-Behörden weitergegeben wurde – bemerkenswert, da Amazon mit 8 Milliarden Dollar Beteiligung zu den größten Anthropic-Investoren zählt. Da Anthropic keine technisch zuverlässige Nationalitätsprüfung umsetzen konnte, schaltete das Unternehmen beide Modelle global für alle Nutzer ab. Am Rande des G7-Gipfels in Évian-les-Bains traf Anthropic-CEO Dario Amodei am 17. Juni US-Präsident Trump; dieser erklärte anschließend in einem Interview, Anthropic sei 'kein nationales Sicherheitsrisiko mehr'. Trotz dieser Signale sind Fable 5 und Mythos 5 laut Stand vom 21. Juni weiterhin offline; die kostenlose Testphase für zahlende Claude-Abonnenten lief am 22. Juni planmäßig aus. Anthropic und die Trump-Administration sollen kurz vor einer Vereinbarung zur Wiederherstellung des Zugangs stehen.",
-      "quelle": "CNN",
-      "datum_artikel": "2026-06-21"
-    }
-  ],
+  "datum": "Dienstag, 23. Juni 2026",
+  "generiert": "2026-06-23",
+  "ki_stories": [],
   "unternehmen_stories": [],
-  "boerse_stories": []
+  "boerse_stories": [
+    {
+      "titel": "Russell 2000 erstmals über 3.000 Punkte - breite Marktrally am Montag",
+      "text": "Der Russell 2000 Small-Cap-Index schloss am Montag, dem 22. Juni 2026 erstmals in seiner Geschichte über der Marke von 3.000 Punkten und verzeichnete dabei ein Plus von 2,12 Prozent. Auch der S&P 500 legte 0,12 Prozent zu und notierte bei rund 7.545 Punkten, während der Dow Jones Industrial Average 0,44 Prozent gewann; lediglich der Nasdaq gab leicht um 0,27 Prozent nach. Als Kurstreiber gelten nachlassende Rezessionssorgen sowie anhaltende Zuversicht im Technologiesektor. Die laufende Woche steht im Zeichen wichtiger US-Wirtschaftsdaten: Am Dienstag werden die S&P Global Flash PMIs veröffentlicht, am Mittwoch folgen die Daten zu neuen Hausverkäufen, und am Donnerstag erscheinen die PCE-Inflationsdaten für Mai - das bevorzugte Inflationsmaß der Federal Reserve, das die Markterwartungen zur künftigen Zinspolitik maßgeblich beeinflussen dürfte.",
+      "quelle": "TheStreet",
+      "datum_artikel": "2026-06-22"
+    },
+    {
+      "titel": "Gold fällt unter 4.150 Dollar - US-Iran-Verhandlungen sorgen für Unsicherheit",
+      "text": "Der Goldpreis gab am Montag, dem 22. Juni 2026 auf unter 4.150 US-Dollar pro Unze nach und notierte damit deutlich unter dem jüngsten Hoch von rund 4.207 Dollar. Ausgelöst wurde der Rückgang durch neue Turbulenzen bei den US-Iran-Verhandlungen: Obwohl beide Seiten am 18. Juni ein vorläufiges Memorandum of Understanding unterzeichnet hatten - mit sofortiger Waffenruhe und Wiedereröffnung der Straße von Hormus - drohte US-Präsident Trump danach erneut mit Militärmassnahmen, falls der Libanon Angriffe auf Israel fortsetze. Iranische Medien berichteten zeitweise vom Abbruch der Gespräche; Insider betonten jedoch, die Verhandlungen liefen weiter. Zusätzlichen Gegenwind liefert die hawkische Haltung der Federal Reserve: Neun von 19 Fed-Mitgliedern erwarten mindestens eine weitere Zinserhöhung in diesem Jahr, und die Märkte preisen eine Erhöhung bereits für September 2026 ein - was Gold als zinsloses Asset unter Druck setzt.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-06-22"
+    }
+  ]
 }
