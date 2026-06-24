@@ -1,41 +1,48 @@
 {
-  "datum": "Dienstag, 23. Juni 2026",
-  "generiert": "2026-06-23",
+  "datum": "Mittwoch, 24. Juni 2026",
+  "generiert": "2026-06-24",
   "ki_stories": [
     {
-      "titel": "OpenAI- und Anthropic-nahe Gruppen pumpen Millionen in US-Vorwahlkampf",
-      "text": "Im Umfeld der beiden führenden KI-Unternehmen OpenAI und Anthropic haben politische Gruppen vor den US-Vorwahlen am 23. Juni 2026 zusammen mehr als 15 Millionen US-Dollar für Werbung, Mailings und SMS-Kampagnen ausgegeben. Das geht aus Unterlagen der US-Wahlbehörde FEC hervor, über die NPR am 22. Juni berichtete. Hintergrund ist der Streit um die künftige Regulierung von künstlicher Intelligenz: Die Gruppen werben teils für, teils gegen strengere KI-Gesetze und versuchen, in einem unübersichtlichen Kandidatenfeld Profil für ihre Positionen aufzubauen. Beobachter werten den Geldfluss als Zeichen dafür, wie massiv die KI-Branche inzwischen versucht, politisch Einfluss auf die Rahmenbedingungen zu nehmen. Die Regeln, die hier mitentschieden werden, betreffen direkt, wie Firmen wie OpenAI und Anthropic künftig Modelle entwickeln und veröffentlichen dürfen.",
-      "quelle": "NPR",
+      "titel": "Transformer-Miterfinder Noam Shazeer wechselt von Google zu OpenAI",
+      "text": "Noam Shazeer, Co-Autor der wegweisenden 2017-Veröffentlichung 'Attention Is All You Need', die die Transformer-Architektur und damit die Grundlage moderner KI-Sprachmodelle begründete, verlässt Google DeepMind und wechselt zu OpenAI. Shazeer übernimmt dort die Rolle des Lead für Architekturforschung und ist damit für die Strukturen der neuronalen Netze verantwortlich, auf denen alle OpenAI-Modelle aufbauen. Dieser Wechsel gilt als strategischer Coup für OpenAI im globalen Rennen um die besten KI-Forscher. Shazeer hatte Google bereits 2021 verlassen, um das KI-Unternehmen Character.AI mitzugründen, kehrte danach jedoch zu Google zurück. Sein erneuter Abgang in Richtung OpenAI wird als Signal gewertet, dass der Talentkampf in der KI-Branche weiter eskaliert.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-22"
     },
     {
-      "titel": "xAI bringt autonomen /goal-Modus in Grok Build",
-      "text": "Elon Musks KI-Firma xAI hat am 22. Juni 2026 in seiner Entwicklungsumgebung Grok Build eine neue Funktion namens /goal vorgestellt. Damit kann Grok mehrstufige Programmieraufgaben über längere Zeit selbstständig ausführen und prüft die Ergebnisse mit einer eingebauten Verifikation so lange, bis die Aufgabe vollständig erledigt ist. Ziel ist, komplexe Coding-Aufträge ohne ständiges Eingreifen des Nutzers abzuarbeiten. Damit reiht sich xAI in den Wettlauf um sogenannte agentische KI ein, bei der Modelle eigenständig ganze Arbeitsabläufe übernehmen - ein Feld, in dem auch OpenAI mit Codex und Anthropic mit Claude stark investieren. Die Funktion richtet sich vor allem an Entwickler und zeigt, wie schnell sich der Markt für KI-gestützte Softwareentwicklung derzeit bewegt.",
-      "quelle": "MarkTechPost",
+      "titel": "NVIDIA Vera Rubin: TOP500-Supercomputer-Leistung in einem einzigen Rack",
+      "text": "NVIDIA hat auf der Supercomputing-Konferenz ISC High Performance 2026 in Hamburg die Vera Rubin Plattform vorgestellt, die erstmals die Leistung eines TOP500-Supercomputers in einem einzigen Rack vereint. Das System erreicht über 7 Exaflops KI-Rechenleistung sowie 5 Petaflops FP64-Präzision für wissenschaftliche Anwendungen und setzt auf neuem HBM4-Speicher mit dreifacher Bandbreite gegenüber dem Vorgänger. Gleichzeitig gab NVIDIA bekannt, dass 35 neue KI-Supercomputer in 23 europäischen Ländern in Entwicklung oder Bau sind. Hersteller wie Dell, HPE und Supermicro haben individuelle Vera Rubin Systeme mit bis zu 144 GPUs pro Rack angekündigt; Lieferungen sind für das vierte Quartal 2026 geplant. Die Plattform festigt NVIDIAs Dominanz im wissenschaftlichen Hochleistungsrechnen: Die Technologie des Unternehmens treibt bereits 81 Prozent der TOP500-Systeme weltweit an.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-06-22"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Chinas 295-Mrd-Dollar-KI-Plan sperrt Nvidia mit Mandat für heimische Chips aus",
-      "text": "Neue Berichte vom 22. Juni 2026 konkretisieren Chinas staatlichen Plan, über fünf Jahre rund 295 Milliarden US-Dollar in ein landesweites Netz von KI-Rechenzentren zu investieren. Kernpunkt ist eine Vorgabe, wonach mindestens 80 Prozent der eingesetzten Technologie - einschließlich der KI-Beschleuniger-Chips - von chinesischen Anbietern stammen müssen. Das würde US-Hersteller wie Nvidia und AMD faktisch vom Aufbau dieser Infrastruktur ausschließen. Betrieben werden sollen die vernetzten Rechenzentren überwiegend von staatlichen Konzernen wie China Mobile und China Telecom; die Planung liegt bei Behörden wie der Reformkommission NDRC. Für Nvidia ist das ein weiterer Rückschlag im wichtigen chinesischen Markt, der ohnehin durch US-Exportkontrollen belastet ist. Mittelfristig könnte der Vorstoß Chinas Bemühungen beschleunigen, eine eigene, von westlicher Chiptechnik unabhängige KI-Lieferkette aufzubauen.",
-      "quelle": "TechTimes",
+      "titel": "Oracle baut 21.000 Stellen ab - Jahresbericht nennt KI als Haupttreiber",
+      "text": "Der Softwarekonzern Oracle hat laut seinem am 22. Juni 2026 eingereichten Jahresbericht seine globale Belegschaft um rund 21.000 Stellen auf 141.000 Mitarbeitende reduziert - ein Rückgang von etwa 13 Prozent innerhalb eines Jahres. Als wesentlicher Treiber wurde offiziell die Einführung und der Einsatz von KI-Technologien in den Betriebsabläufen genannt, mit der Warnung, dass weitere Stellenabbauten folgen könnten. Für Abfindungen und Restrukturierungskosten fielen im Geschäftsjahr 2026 insgesamt 1,84 Milliarden US-Dollar an. Gleichzeitig expandiert Oracle massiv im KI-Infrastrukturbereich und hat grosse Rechenzentrumsverträge mit OpenAI und Meta unterzeichnet, um im Cloud-Markt gegen Amazon und Microsoft zu bestehen. Der Fall Oracle gilt als frühes, weitreichendes Beispiel dafür, wie ein globaler Konzern KI intern zur Rationalisierung einsetzt und gleichzeitig externe KI-Infrastruktur als neues Wachstumsfeld erschliesst.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-06-22",
+      "unternehmen": "Oracle"
+    },
+    {
+      "titel": "NVIDIA-Aktie fällt 4%: Hawkische Fed und KI-Ausgaben-Bedenken belasten Kurs",
+      "text": "Die NVIDIA-Aktie verlor am 23. Juni 2026 rund 4 Prozent, als Investoren aus Technologie- und Halbleiteraktien ausstigen und in defensive Werte rotierten. Auslöser war das unerwartet restriktive Auftreten des neuen Fed-Vorsitzenden Kevin Warsh: Händler preisen nun eine zweite Zinserhöhung bis Dezember 2026 ein, was die Finanzierungskosten für kapitalintensive KI-Projekte erhöht. Gleichzeitig wachsen Bedenken, ob die gigantischen KI-Kapitalausgaben der Tech-Konzerne - zusammen rund 725 Milliarden US-Dollar in 2026 - dauerhaft finanzierbar sind, da der freie Cashflow der Gruppe unter Druck gerät. Am 24. Juni hielt NVIDIA seine Jahreshauptversammlung ab; im Mittelpunkt standen die Produktionsanlauf-Pläne für die neuen Blackwell- und Vera-Chip-Generationen sowie die Kapitalrückgabepolitik. NVIDIA bleibt trotz des Tagesverlusts der dominierende Anbieter im KI-Chip-Markt.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-23",
       "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Russell 2000 erstmals über 3.000 Punkte - breite Marktrally am Montag",
-      "text": "Der Russell 2000 Small-Cap-Index schloss am Montag, dem 22. Juni 2026 erstmals in seiner Geschichte über der Marke von 3.000 Punkten und verzeichnete dabei ein Plus von 2,12 Prozent. Auch der S&P 500 legte 0,12 Prozent zu und notierte bei rund 7.545 Punkten, während der Dow Jones Industrial Average 0,44 Prozent gewann; lediglich der Nasdaq gab leicht um 0,27 Prozent nach. Als Kurstreiber gelten nachlassende Rezessionssorgen sowie anhaltende Zuversicht im Technologiesektor. Die laufende Woche steht im Zeichen wichtiger US-Wirtschaftsdaten: Am Dienstag werden die S&P Global Flash PMIs veröffentlicht, am Mittwoch folgen die Daten zu neuen Hausverkäufen, und am Donnerstag erscheinen die PCE-Inflationsdaten für Mai - das bevorzugte Inflationsmaß der Federal Reserve, das die Markterwartungen zur künftigen Zinspolitik maßgeblich beeinflussen dürfte.",
-      "quelle": "TheStreet",
-      "datum_artikel": "2026-06-22"
+      "titel": "Tech-Ausverkauf: S&P 500 und Nasdaq fallen durch hawkische Fed-Signale",
+      "text": "Der S&P 500 und der Nasdaq fielen am 23. Juni 2026 auf Wochentiefststände, getrieben durch einen breiten Ausverkauf bei Halbleiter- und Technologieaktien. Auslöser waren die hawkischen Signale des neuen Fed-Vorsitzenden Kevin Warsh, der Zinssenkungen vorerst ausschloss und damit Zinserhöhungserwartungen anheizte. Händler preisen nun zwei Zinserhöhungen bis Dezember 2026 ein, verglichen mit nur einer erwarteten Erhöhung noch zwei Wochen zuvor. AMD fiel bis zu 9 Prozent, die Speicherchiphersteller Micron und SanDisk brachen um 11 bzw. 12,6 Prozent ein; sechs der elf S&P-500-Sektoren stiegen hingegen - besonders defensive Konsumtitel (+1,9%), was eine Rotation aus Wachstums- in Defensivwerte signalisiert. Im Fokus steht nun der PCE-Inflationsbericht, der noch in dieser Woche erwartet wird und als bevorzugter Fed-Inflationsindikator weitere Hinweise auf den Zinspfad liefern soll.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-23"
     },
     {
-      "titel": "Gold fällt unter 4.150 Dollar - US-Iran-Verhandlungen sorgen für Unsicherheit",
-      "text": "Der Goldpreis gab am Montag, dem 22. Juni 2026 auf unter 4.150 US-Dollar pro Unze nach und notierte damit deutlich unter dem jüngsten Hoch von rund 4.207 Dollar. Ausgelöst wurde der Rückgang durch neue Turbulenzen bei den US-Iran-Verhandlungen: Obwohl beide Seiten am 18. Juni ein vorläufiges Memorandum of Understanding unterzeichnet hatten - mit sofortiger Waffenruhe und Wiedereröffnung der Straße von Hormus - drohte US-Präsident Trump danach erneut mit Militärmassnahmen, falls der Libanon Angriffe auf Israel fortsetze. Iranische Medien berichteten zeitweise vom Abbruch der Gespräche; Insider betonten jedoch, die Verhandlungen liefen weiter. Zusätzlichen Gegenwind liefert die hawkische Haltung der Federal Reserve: Neun von 19 Fed-Mitgliedern erwarten mindestens eine weitere Zinserhöhung in diesem Jahr, und die Märkte preisen eine Erhöhung bereits für September 2026 ein - was Gold als zinsloses Asset unter Druck setzt.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-06-22"
+      "titel": "Goldpreis fällt auf 4.129 USD: Fed-Zinssorgen überwiegen Iran-Deal-Optimismus",
+      "text": "Der Goldpreis sank am 23. Juni 2026 auf 4.129,07 US-Dollar pro Feinunze, ein Tagesverlust von 1,49 Prozent. Damit gab Gold die Kursgewinne vom Vortag wieder ab, als der Preis auf fast 4.200 Dollar gestiegen war - angetrieben durch Berichte, dass die USA und der Iran eine Roadmap zu einem Friedensabkommen innerhalb von 60 Tagen vereinbart hatten. Am Dienstag übertrafen hawkische Fed-Signale die geopolitische Entspannungswirkung: Neun der stimmberechtigten Fed-Mitglieder befürworten laut aktuellen Projektionen mindestens eine Zinserhöhung noch 2026, was Gold als zinsloses Anlagegut belastet. Trotzdem halten grosse Banken an ihren bullischen Goldprognosen fest: Goldman Sachs sieht das Jahresendziel bei 5.400 USD, JPMorgan sogar bei rund 6.000 USD. Der PCE-Bericht dieser Woche dürfte neue Impulse für den Goldmarkt liefern.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-23"
     }
   ]
 }
