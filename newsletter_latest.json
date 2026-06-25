@@ -1,48 +1,74 @@
 {
-  "datum": "Mittwoch, 24. Juni 2026",
-  "generiert": "2026-06-24",
+  "datum": "Donnerstag, 25. Juni 2026",
+  "generiert": "2026-06-25",
   "ki_stories": [
     {
-      "titel": "Transformer-Miterfinder Noam Shazeer wechselt von Google zu OpenAI",
-      "text": "Noam Shazeer, Co-Autor der wegweisenden 2017-Veröffentlichung 'Attention Is All You Need', die die Transformer-Architektur und damit die Grundlage moderner KI-Sprachmodelle begründete, verlässt Google DeepMind und wechselt zu OpenAI. Shazeer übernimmt dort die Rolle des Lead für Architekturforschung und ist damit für die Strukturen der neuronalen Netze verantwortlich, auf denen alle OpenAI-Modelle aufbauen. Dieser Wechsel gilt als strategischer Coup für OpenAI im globalen Rennen um die besten KI-Forscher. Shazeer hatte Google bereits 2021 verlassen, um das KI-Unternehmen Character.AI mitzugründen, kehrte danach jedoch zu Google zurück. Sein erneuter Abgang in Richtung OpenAI wird als Signal gewertet, dass der Talentkampf in der KI-Branche weiter eskaliert.",
+      "titel": "Google verliert zwei KI-Spitzenforscher an Anthropic",
+      "text": "Zwei hochrangige KI-Forscher von Google, Jonas Adler und Alexander Pritzel, planen laut Bloomberg den Wechsel zu Anthropic, dem Hersteller des Claude-Modells. Beide gelten intern als Schlüsselfiguren hinter Googles Gemini-KI und waren maßgeblich an der Modellentwicklung beteiligt. Der Abgang reiht sich in eine anhaltende Welle von Talentabgängen ein, die Google im Wettbewerb um die besten KI-Forscher zunehmend unter Druck setzt. Anthropic und OpenAI locken Wissenschaftler mit sehr hohen Vergütungen und der Aussicht, an der Forschungsfront zu arbeiten. Für Google ist der Verlust besonders schmerzhaft, da Gemini der zentrale Konkurrent zu Claude und GPT-5 ist und jeder Forscherverlust direkt die Entwicklungskapazitäten schwächt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-22"
+      "datum_artikel": "2026-06-24"
     },
     {
-      "titel": "NVIDIA Vera Rubin: TOP500-Supercomputer-Leistung in einem einzigen Rack",
-      "text": "NVIDIA hat auf der Supercomputing-Konferenz ISC High Performance 2026 in Hamburg die Vera Rubin Plattform vorgestellt, die erstmals die Leistung eines TOP500-Supercomputers in einem einzigen Rack vereint. Das System erreicht über 7 Exaflops KI-Rechenleistung sowie 5 Petaflops FP64-Präzision für wissenschaftliche Anwendungen und setzt auf neuem HBM4-Speicher mit dreifacher Bandbreite gegenüber dem Vorgänger. Gleichzeitig gab NVIDIA bekannt, dass 35 neue KI-Supercomputer in 23 europäischen Ländern in Entwicklung oder Bau sind. Hersteller wie Dell, HPE und Supermicro haben individuelle Vera Rubin Systeme mit bis zu 144 GPUs pro Rack angekündigt; Lieferungen sind für das vierte Quartal 2026 geplant. Die Plattform festigt NVIDIAs Dominanz im wissenschaftlichen Hochleistungsrechnen: Die Technologie des Unternehmens treibt bereits 81 Prozent der TOP500-Systeme weltweit an.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-22"
+      "titel": "KI-Milliardäre gewinnen 29-Millionen-Dollar-Proxy-Fight in New York",
+      "text": "KI-Industrie-Größen wie Risikokapitalgeber Marc Andreessen und OpenAI-Präsident Greg Brockman haben laut Bloomberg einen teuer erkauften politischen Sieg in New York City errungen. In einem Kongresswahl-Vorwahlkampf wurden insgesamt 29 Millionen Dollar investiert, was dem Rennen den Charakter eines Proxy-Fights über die Zukunft der KI-Regulierung in den USA gab. Die von der KI-Lobby unterstützten Kandidaten setzten sich durch und signalisierten damit den wachsenden politischen Einfluss von Tech-Milliardären auf US-Wahlkämpfe. Beobachter werten das Ergebnis als Beweis, dass die KI-Branche aktiv versucht, regulatorische Rahmenbedingungen zu ihren Gunsten zu gestalten. Dieser Trend dürfte entscheidend dafür sein, wie künftige KI-Gesetze und -Vorschriften in den USA aussehen werden.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-24"
+    },
+    {
+      "titel": "GPT-5 löst 3-jähriges Forschungsrätsel eines US-Immunologen",
+      "text": "OpenAI veröffentlichte einen Fallbericht, in dem GPT-5 dem US-Immunologen Derya Unutmaz dabei half, ein medizinisches Forschungsproblem zu lösen, an dem er drei Jahre lang gearbeitet hatte. Das KI-Modell analysierte komplexe biologische Daten und lieferte Hypothesen, die der Wissenschaftler zuvor nicht in Betracht gezogen hatte. Dieser konkrete Anwendungsfall zeigt, wie Frontier-Modelle wissenschaftliche Entdeckungen beschleunigen können - weit über Textgenerierung und Coding hinaus. OpenAI nutzt solche Berichte, um den praktischen Nutzen von GPT-5 in Hochrisikobereichen wie Medizin und Biologie zu belegen. Das Beispiel reiht sich in eine wachsende Zahl von KI-Anwendungen in der Pharmaforschung ein und signalisiert, dass KI zunehmend als aktiver Forschungspartner eingesetzt wird.",
+      "quelle": "OpenAI",
+      "datum_artikel": "2026-06-24"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Oracle baut 21.000 Stellen ab - Jahresbericht nennt KI als Haupttreiber",
-      "text": "Der Softwarekonzern Oracle hat laut seinem am 22. Juni 2026 eingereichten Jahresbericht seine globale Belegschaft um rund 21.000 Stellen auf 141.000 Mitarbeitende reduziert - ein Rückgang von etwa 13 Prozent innerhalb eines Jahres. Als wesentlicher Treiber wurde offiziell die Einführung und der Einsatz von KI-Technologien in den Betriebsabläufen genannt, mit der Warnung, dass weitere Stellenabbauten folgen könnten. Für Abfindungen und Restrukturierungskosten fielen im Geschäftsjahr 2026 insgesamt 1,84 Milliarden US-Dollar an. Gleichzeitig expandiert Oracle massiv im KI-Infrastrukturbereich und hat grosse Rechenzentrumsverträge mit OpenAI und Meta unterzeichnet, um im Cloud-Markt gegen Amazon und Microsoft zu bestehen. Der Fall Oracle gilt als frühes, weitreichendes Beispiel dafür, wie ein globaler Konzern KI intern zur Rationalisierung einsetzt und gleichzeitig externe KI-Infrastruktur als neues Wachstumsfeld erschliesst.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-22",
-      "unternehmen": "Oracle"
+      "titel": "Micron übertrifft Q3-Erwartungen deutlich - KI-Nachfrage als Treiber",
+      "text": "Micron Technology meldete am 24. Juni herausragende Zahlen für das dritte Fiskalquartal 2026: Der Gewinn je Aktie lag bei 25,11 Dollar und übertraf damit die Analystenerwartungen von 21,39 Dollar um rund 17 Prozent. Der Umsatz erreichte 41,46 Milliarden Dollar - 13 Prozent über der Konsensschätzung von 36,72 Milliarden Dollar. Das starke Ergebnis überraschte umso mehr, als der gesamte Halbleitersektor in dieser Woche unter erheblichem Verkaufsdruck stand und Microns Aktie intraday zweistellig verloren hatte. Nach Börsenschluss sorgten die Zahlen für eine deutliche Kurserholung im nachbörslichen Handel. Die Nachfrage nach Microns Speicherchips für KI-Rechenzentren ist der zentrale Wachstumstreiber und zeigt, dass der KI-Infrastruktur-Boom trotz Aktienmarktvolatilität unvermindert anhält.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-24",
+      "unternehmen": "Micron"
     },
     {
-      "titel": "NVIDIA-Aktie fällt 4%: Hawkische Fed und KI-Ausgaben-Bedenken belasten Kurs",
-      "text": "Die NVIDIA-Aktie verlor am 23. Juni 2026 rund 4 Prozent, als Investoren aus Technologie- und Halbleiteraktien ausstigen und in defensive Werte rotierten. Auslöser war das unerwartet restriktive Auftreten des neuen Fed-Vorsitzenden Kevin Warsh: Händler preisen nun eine zweite Zinserhöhung bis Dezember 2026 ein, was die Finanzierungskosten für kapitalintensive KI-Projekte erhöht. Gleichzeitig wachsen Bedenken, ob die gigantischen KI-Kapitalausgaben der Tech-Konzerne - zusammen rund 725 Milliarden US-Dollar in 2026 - dauerhaft finanzierbar sind, da der freie Cashflow der Gruppe unter Druck gerät. Am 24. Juni hielt NVIDIA seine Jahreshauptversammlung ab; im Mittelpunkt standen die Produktionsanlauf-Pläne für die neuen Blackwell- und Vera-Chip-Generationen sowie die Kapitalrückgabepolitik. NVIDIA bleibt trotz des Tagesverlusts der dominierende Anbieter im KI-Chip-Markt.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-23",
-      "unternehmen": "NVIDIA"
+      "titel": "OpenAI übernimmt Python-Tool-Startup Astral",
+      "text": "OpenAI hat das Entwicklerwerkzeug-Unternehmen Astral übernommen, das im Python-Ökosystem besonders unter KI-Entwicklern weit verbreitet ist. Mit der Übernahme vertikalisiert OpenAI seine Entwicklerplattform und sichert sich Kontrolle über kritische Infrastruktur für Python-basierte KI-Entwicklung. Die Transaktion passt zur Strategie, die gesamte KI-Entwickler-Toolchain - von Modellen über APIs bis zu Entwicklungsumgebungen - unter einem Dach zu vereinen. Finanzielle Details der Übernahme wurden zunächst nicht bekannt gegeben. Der Deal signalisiert OpenAIs Ambitionen, nicht nur das führende KI-Modell bereitzustellen, sondern das gesamte Entwickler-Ökosystem rund um KI zu dominieren.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-06-25",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "SpaceX kauft KI-Code-Editor Cursor für 60 Milliarden Dollar",
+      "text": "SpaceX hat den KI-gestützten Code-Editor Cursor für 60 Milliarden Dollar übernommen - eine der größten Startup-Akquisitionen in der Geschichte der Tech-Branche. Cursor hat sich als führendes KI-Coding-Tool unter Entwicklern etabliert und konkurriert direkt mit GitHub Copilot von Microsoft. Die stratosphärische Bewertung unterstreicht, dass KI-Entwicklerwerkzeuge inzwischen als fundamentale Infrastruktur der Software-Industrie gelten. Mit der Akquisition erweitert SpaceX, das parallel sein KI-Compute-Geschäft massiv ausbaut, sein Portfolio um einen zentralen Bereich der Entwickler-Toolchain. Der Deal ist ein klares Signal: Elon Musks Unternehmensimperium setzt zunehmend auf KI als strategisches Wachstumsfeld jenseits von Raumfahrt und Automobil.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-25",
+      "unternehmen": "SpaceX"
+    },
+    {
+      "titel": "xAI veröffentlicht Grok Imagine Video 1.5 für alle Plattformen",
+      "text": "xAI, das KI-Unternehmen von Elon Musk, hat Grok Imagine Video 1.5 als allgemeinen Release für alle Nutzer veröffentlicht. Die neue Version bringt deutlich verbesserte Bild-zu-Video-Generierung, schnellere Erstellungszeiten sowie neue Workflow-Funktionen wie eine Projects-Funktion und Unterstützung für mehrere parallele Agenten. Das Tool ist nun auf grok.com/imagine, über die Grok Imagine API sowie als iOS- und Android-App erhältlich. xAI positioniert sich damit als ernstzunehmender Wettbewerber im Markt für KI-Videogenerierung, in dem OpenAI mit Sora und Google mit Veo die Vorreiter sind. Der Release zeigt xAIs Ambitionen, das Grok-Ökosystem von Textmodellen auf kreative KI-Anwendungen auszuweiten.",
+      "quelle": "xAI",
+      "datum_artikel": "2026-06-25",
+      "unternehmen": "xAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Tech-Ausverkauf: S&P 500 und Nasdaq fallen durch hawkische Fed-Signale",
-      "text": "Der S&P 500 und der Nasdaq fielen am 23. Juni 2026 auf Wochentiefststände, getrieben durch einen breiten Ausverkauf bei Halbleiter- und Technologieaktien. Auslöser waren die hawkischen Signale des neuen Fed-Vorsitzenden Kevin Warsh, der Zinssenkungen vorerst ausschloss und damit Zinserhöhungserwartungen anheizte. Händler preisen nun zwei Zinserhöhungen bis Dezember 2026 ein, verglichen mit nur einer erwarteten Erhöhung noch zwei Wochen zuvor. AMD fiel bis zu 9 Prozent, die Speicherchiphersteller Micron und SanDisk brachen um 11 bzw. 12,6 Prozent ein; sechs der elf S&P-500-Sektoren stiegen hingegen - besonders defensive Konsumtitel (+1,9%), was eine Rotation aus Wachstums- in Defensivwerte signalisiert. Im Fokus steht nun der PCE-Inflationsbericht, der noch in dieser Woche erwartet wird und als bevorzugter Fed-Inflationsindikator weitere Hinweise auf den Zinspfad liefern soll.",
-      "quelle": "Reuters",
+      "titel": "Tech-Ausverkauf drückt Nasdaq um 2,21 Prozent - S&P 500 verliert 1,44 Prozent",
+      "text": "Der US-Aktienmarkt erlebte am 23. Juni einen breiten Tech-Ausverkauf: Der Nasdaq verlor 2,21 Prozent, der S&P 500 fiel um 1,44 Prozent und schloss am 24. Juni bei 7.358 Punkten. Schwergewichte wie Alphabet verloren 5 Prozent, Amazon 4,8 Prozent, Meta 2,3 Prozent und Microsoft 3 Prozent. Treiber waren Sorgen um überstreckte Bewertungen im KI-Sektor sowie ein globaler Chip-Ausverkauf, der Taiwan Semiconductor (TSM) um 5,2 Prozent drückte. Der Dow Jones konnte sich mit einem Plus von 0,35 Prozent auf 51.849 Punkte behaupten, was auf eine Rotation aus Tech in traditionelle Sektoren hindeutet. Für Anleger im FTSE All World ist die Tech-Schwäche direkt relevant, da US-Technologiewerte einen erheblichen Teil des Index ausmachen.",
+      "quelle": "Washington Post",
       "datum_artikel": "2026-06-23"
     },
     {
-      "titel": "Goldpreis fällt auf 4.129 USD: Fed-Zinssorgen überwiegen Iran-Deal-Optimismus",
-      "text": "Der Goldpreis sank am 23. Juni 2026 auf 4.129,07 US-Dollar pro Feinunze, ein Tagesverlust von 1,49 Prozent. Damit gab Gold die Kursgewinne vom Vortag wieder ab, als der Preis auf fast 4.200 Dollar gestiegen war - angetrieben durch Berichte, dass die USA und der Iran eine Roadmap zu einem Friedensabkommen innerhalb von 60 Tagen vereinbart hatten. Am Dienstag übertrafen hawkische Fed-Signale die geopolitische Entspannungswirkung: Neun der stimmberechtigten Fed-Mitglieder befürworten laut aktuellen Projektionen mindestens eine Zinserhöhung noch 2026, was Gold als zinsloses Anlagegut belastet. Trotzdem halten grosse Banken an ihren bullischen Goldprognosen fest: Goldman Sachs sieht das Jahresendziel bei 5.400 USD, JPMorgan sogar bei rund 6.000 USD. Der PCE-Bericht dieser Woche dürfte neue Impulse für den Goldmarkt liefern.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-06-23"
+      "titel": "Gold fällt erstmals seit November 2025 unter 4.000 Dollar",
+      "text": "Der Goldpreis ist am 24. Juni unter die psychologisch wichtige Marke von 4.000 Dollar je Feinunze gefallen und notierte bei 3.998,71 Dollar - ein Tagesverlust von 2,79 Prozent. Seit seinem Hoch von 4.332 Dollar am 8. Juni hat Gold damit innerhalb von zwei Wochen rund 7,7 Prozent verloren. Haupttreiber sind Erwartungen an eine restriktivere US-Notenbank Fed sowie die Stärke des US-Dollars, der Gold für internationale Käufer verteuert. Goldman Sachs hat sein Jahresendziel für Gold von 5.400 auf 4.900 Dollar gesenkt. Gleichzeitig brach auch der breitere Rohstoffmarkt ein: Brent-Rohöl verlor 4,33 Prozent auf 73,74 Dollar je Barrel, Silber büßte 5 Prozent ein - Geopolitik-Risikoprämien schmelzen ab, während steigende Zinserwartungen nicht-verzinsliche Assets unter Druck setzen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-24"
+    },
+    {
+      "titel": "Bloomberg: Risse im KI-Narrativ - überhebelte Chip-ETFs schüren Absturzrisiko",
+      "text": "Bloomberg warnte am 24. Juni, dass 'die Risse im KI-Narrativ diesmal ernster wirken': KI-bezogene Aktienpositionierungen zeigen extreme Überdehnungen, und gehebelte ETFs auf Chip-Aktien stehen unter hohem Druck. Die Optionsabsicherungsaktivität hat sprunghaft zugenommen, während Halbleiterwerte zweistellige Tagesverluste verzeichneten - Nvidia (NVDA) verlor 3,2 Prozent, TSMC 5,2 Prozent. Analysten sehen das Risiko, dass die Volatilität sich zu einem breiteren Markteinbruch ausweitet, da viele institutionelle Anleger stark auf KI-Aktien konzentriert sind. Das langfristige KI-Narrativ gelte als intakt, aber die unmittelbare Lage sei 'beträchtlich undurchsichtig', so Bloomberg. Für FTSE-All-World-Anleger bedeutet dies erhöhte Volatilität in dem Segment, das den Großteil der S&P-500-Renditen der letzten zwei Jahre getrieben hat.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-24"
     }
   ]
 }
