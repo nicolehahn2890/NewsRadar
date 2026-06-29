@@ -1,60 +1,35 @@
 {
-  "datum": "Sonntag, 28. Juni 2026",
-  "generiert": "2026-06-28",
+  "datum": "Montag, 29. Juni 2026",
+  "generiert": "2026-06-29",
   "ki_stories": [
     {
-      "titel": "Anthropic Mythos 5: USA geben mächtiges KI-Modell für über 100 Institutionen frei",
-      "text": "Die US-Regierung hat Anthropic am 26. Juni 2026 grünes Licht gegeben, das KI-Modell Claude Mythos 5 an mehr als 100 US-Institutionen freizugeben, darunter Unternehmen und Behörden. Handelsminister Howard Lutnick teilte dem Unternehmen mit, Anthropic habe 'bedeutende Fortschritte' bei der Risikominimierung erzielt, weshalb das Modell nun 'bestimmten vertrauenswürdigen Partnern' zur Verfügung gestellt werden dürfe. Die Freigabe erfolgt knapp zwei Wochen nach einer US-Exportkontroll-Direktive vom 12. Juni, die den weltweiten Zugang zu Claude Fable 5 und Mythos 5 vollständig ausgesetzt hatte — mit Verweis auf potenzielle nationale Sicherheitsrisiken. Anthropic hatte zuvor öffentlich gewarnt, das Verbot könnte dem Unternehmen Milliarden kosten und seine Pentagon-Partnerschaft gefährden. Die Teillösung gilt vorerst nur für US-Institutionen; ob und wann internationale Nutzer wieder Zugang erhalten, bleibt offen. Mythos 5 gilt laut Benchmark-Tests als eines der leistungsfähigsten KI-Modelle weltweit.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-26"
-    },
-    {
-      "titel": "KI-Branche im Stimmungswandel: Stromrechnungen und Widerstand gegen Datenzentren wachsen",
-      "text": "Laut einer Bloomberg-Analyse vom 26. Juni 2026 zeichnet sich in der KI-Branche ein signifikanter Stimmungswandel ab. Steigende Stromrechnungen in den USA lösen bei Verbrauchern und Kommunen zunehmend Unmut aus, während Datenzentrum-Projekte vielerorts auf Widerstand von Behörden und Anwohnern stoßen. Wall-Street-Profis beginnen, öffentlichen Widerstand gegen die KI-Technologie als wachsendes Risiko für die Aktienrally einzustufen. Mehrere US-Bundesstaaten prüfen regulatorische Maßnahmen gegen Rechenzentren, die lokale Stromnetze überlasten. Beobachter sehen darin eine strukturelle Herausforderung: Der Energiehunger der KI-Branche stößt zunehmend an gesellschaftliche und infrastrukturelle Grenzen. Analysten warnen, dass fehlende gesellschaftliche Akzeptanz langfristig den weiteren Ausbau von KI-Infrastruktur in den USA verlangsamen könnte.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-26"
-    },
-    {
-      "titel": "KI-Energieboom: Stromunternehmen sammeln Rekordsummen an der Börse ein",
-      "text": "Der anhaltende Boom beim Bau von KI-Rechenzentren treibt eine Rekordzahl von Energieunternehmen an die Börse. Laut Bloomberg haben allein 2026 bisher mindestens zehn Strom- und Clean-Tech-Firmen ihr Börsendebüt gegeben — darunter Fervo Energy — und dabei zusammen über 11,6 Milliarden Dollar eingesammelt, so viel wie noch nie zuvor in diesem Sektor. Wall Street setzt darauf, dass der gewaltige Strombedarf von KI-Hyperscalern wie Amazon, Microsoft und Google Energieversorger zu einem der attraktivsten Investitionssektoren der nächsten Jahre macht. Gleichzeitig wächst die Spannung zwischen dem Datenzentrum-Strombedarf und begrenzten Netzkapazitäten, was Experten zufolge zu regulatorischen Konflikten und steigenden Preisen für Endverbraucher führen dürfte. Die Kombination aus KI-Nachfrage und Dekarbonisierungszielen gilt als struktureller Langzeit-Treiber für die Energiebranche.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAI erwaegt massive Preissenkungen im Wettbewerb gegen Anthropic",
+      "text": "OpenAI prueft laut Wall Street Journal weitreichende Preissenkungen fuer seine KI-API-Dienste, um dem wachsenden Konkurrrenzdruck durch Anthropic standzuhalten. Hintergrund ist der Aufstieg von Anthropic: Nach einem Rekordumsatz-Sprint - ausgeloest durch den Erfolg von Claude Code bei Softwareentwicklern - ueberholte Anthropic OpenAI kurzzeitig in der Privatmarkt-Bewertung und kletterte auf rund 965 Milliarden US-Dollar. OpenAI CEO Sam Altman raeumte ein, dass die KI-Kosten fuer Unternehmenskunden 'ein grosses Problem' geworden seien. Ein Preiskampf kaeme fuer beide Unternehmen zu einem heiklen Zeitpunkt: Sowohl OpenAI (zuletzt bewertet mit rund 852 Milliarden Dollar) als auch Anthropic haben bereits vertraulich Boersengang-Unterlagen bei der SEC eingereicht - aggressive Preissenkungen wuerden die ohnehin schon schwachen Margen weiter belasten. Analysten sehen darin ein strukturelles Dilemma der KI-Branche: technologische Fuehrerschaft und wirtschaftliche Nachhaltigkeit sind schwer gleichzeitig zu erreichen.",
+      "quelle": "Wall Street Journal",
       "datum_artikel": "2026-06-27"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI plant Börsengang erst 2027 — nach erwartetem Anthropic-IPO",
-      "text": "OpenAI erwägt laut Bloomberg-Bericht vom 26. Juni 2026 einen Börsengang im Jahr 2027 und damit erst nach seinem KI-Rivalen Anthropic, der möglicherweise schon im Herbst 2026 an die Börse geht. Beide Unternehmen haben bereits vertraulich bei der US-Börsenaufsicht SEC eingereicht; Anthropic wurde zuletzt mit fast einer Billion Dollar bewertet. OpenAI orientierte sich ursprünglich an einem Herbst-2026-Listing, sieht sich nun aber durch volatile KI-Aktien und das enttäuschende Börsendebüt von SpaceX veranlasst, den Zeitplan zu verschieben. Die OpenAI-Führung erhofft sich durch das spätere Timing eine gestärkte Finanzposition und eine Bewertung nahe einer Billion Dollar. Bisher erzielte OpenAI mit über 300 Milliarden Dollar die höchste Privatmarkt-Bewertung unter allen KI-Unternehmen weltweit. Die sich abzeichnende Reihenfolge — Anthropic zuerst, OpenAI danach — könnte den IPO-Markt für KI-Unternehmen insgesamt prägen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-26",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Apple und Microsoft erhöhen Preise: KI-Chip-Krise trifft Verbraucher",
-      "text": "Apple und Microsoft haben Ende Juni 2026 deutliche Preiserhöhungen für ihre Endgeräte angekündigt und begründen dies mit einem massiven Engpass bei Speicherchips, ausgelöst durch den KI-Boom. Apple hob die Preise für MacBooks um bis zu 300 Dollar an (Beispiel: MacBook Air von 1.099 auf 1.299 USD; iPad Air von 599 auf 749 USD; iPad Pro von 999 auf 1.199 USD). Microsoft erhöhte Xbox-Konsolenpreise um 100 bis 150 Dollar je nach Modell. Die Preise für Konsolenspeicher und Arbeitsspeicher sind in Microsofts Beschaffung bereits um mehr als das 2,5-Fache gestiegen; das Unternehmen rechnet bis Herbst 2027 mit einer erneuten Verdopplung der Chip-Kosten. Für kleinere Hardware-Hersteller sei die Lage laut CNBC sogar 'existenzbedrohend'. Die Preiserhöhungen treffen Verbraucher unmittelbar und dürften die kritische Stimmung gegenüber der KI-Branche weiter verschärfen.",
+      "titel": "Alphabet verliert rund $269 Mrd. Boersenwert: KI-Talentabgang und Capex-Angst belasten Google",
+      "text": "Die Alphabet-Aktie (GOOGL) schloss die vergangene Woche bei rund 337 US-Dollar - ein Rueckgang von etwa 17 Prozent gegenueber dem Allzeithoch von 408,61 Dollar vom 18. Mai 2026. Allein in dieser Woche verlor Alphabets Boersenwert rund 269 Milliarden US-Dollar - die schlimmste Woche fuer das Unternehmen seit Jahren. Ausgeloest wurde der Absturz durch hochkaraetiger KI-Personalabgaenge: Nobelpreistraeger John Jumper wechselte von Google DeepMind zu Anthropic, waehrend Gemini-Mitarchitekt Noam Shazeer - Co-Autor des einflussreichen 'Attention Is All You Need'-Papers von 2017 - zu OpenAI uebertrat. Hinzu kommt wachsende Investorenangst vor einer KI-Capex-Blase: Die vier groessten US-Tech-Konzerne Alphabet, Microsoft, Amazon und Meta haben ihre kombinierten Investitionsbudgets fuer 2026 auf ueber 452 Milliarden Dollar hochgeschraubt, ohne klaren Beleg entsprechender Renditen. Alphabets eigene Kapitalerhoehung von rund 84,75 Milliarden Dollar im Juni verscharfte die Sorgen weiter. Google Cloud waechst zwar mit 63 Prozent Jahresrate stark, doch der Talentschwund wirft ernsthafte Fragen ueber Alphabets langfristige KI-Fuehrerschaft auf.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-06-27",
-      "unternehmen": "Microsoft"
+      "unternehmen": "Alphabet"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "KI-Crash: Nasdaq verliert 4,6 % — Wall Streets 270-Mrd.-Spekulationsmaschine bricht ein",
-      "text": "Ein heftiger Ausverkauf bei KI-Chip-Aktien hat in der Woche zum 26. Juni 2026 ein rund 270 Milliarden Dollar schweres Netzwerk aus gehebelten und spekulativen Positionen aufgedeckt und teilweise zum Kollaps gebracht. Der S&P 500 verlor auf Wochensicht knapp 2 Prozent und schloss am Freitag bei 7.354 Punkten, der Nasdaq 100 büßte 4,6 Prozent ein — der schlechteste Wochenverlauf seit April 2025. Auslöser waren Einzelinvestoren mit 2x- und 3x-gehebelten KI-Chip-ETFs: Das tägliche Rebalancing dieser Produkte verstärkte Verluste und löste Nachschusspflichten aus, die weitere Zwangsverkäufe nach sich zogen. Südkoreas Kospi-Index brach zwischenzeitlich um 10 Prozent ein, auch Kryptomärkte gerieten unter Druck. Belastend wirkten Berichte über ein verzögertes OpenAI-IPO, steigende US-Anleiherenditen sowie die Aussicht auf weitere Fed-Zinserhöhungen im Herbst.",
+      "titel": "Gold notiert am Montag bei $4.068 - Fed-Haltung und Dollarstaerke bleiben Belastung",
+      "text": "Der Goldpreis notiert am heutigen Montag bei rund 4.068 US-Dollar je Feinunze, leicht unter dem Sonntags-Niveau von 4.073 Dollar. Gold hatte in der vergangenen Woche zeitweise die 4.000-Dollar-Marke unterschritten - erstmals seit November 2025 - und erholte sich erst am Freitag nach PCE-Inflationsdaten fuer Mai, die mit 4,1 Prozent im Jahresvergleich zwar ueber der Fed-Prognose von 3,6 Prozent lagen, aber im Rahmen der Markterwartungen blieben. Fundamentale Belastung bleibt die hawkische Haltung von Fed-Chef Kevin Warsh, der trotz politischem Druck aus dem Weissen Haus auf Inflationsbekaempfung beharrt. Die Maerkte preisen drei Zinserhoehungen fuer 2026 ein; die Wahrscheinlichkeit einer ersten Anhebung im September liegt bei rund 62 Prozent. Ein starker US-Dollar und steigende Realrenditen halten Gold - das am 28. Januar 2026 mit 5.602 Dollar ein Allzeithoch erreicht hatte - weiterhin unter Druck.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-26"
+      "datum_artikel": "2026-06-29"
     },
     {
-      "titel": "Gold erholt sich auf 4.040 USD nach US-Inflationsdaten — Fed-Risiko bleibt",
-      "text": "Gold hat am Freitag, 26. Juni 2026, leicht auf rund 4.040 Dollar pro Unze zugelegt — ein Plus für den zweiten Tag in Folge, nachdem der US-PCE-Inflationsbericht für Mai 2026 die Markterwartungen weitgehend erfüllte. Die Kern-PCE-Rate lag bei 3,4 Prozent (Gesamt-PCE: 4,1 %), was Investoren dazu veranlasste, ihre Wetten auf rasche weitere Fed-Zinserhöhungen leicht zurückzunehmen. Zuvor war Gold am 25. Juni erstmals seit November 2025 unter die Marke von 4.000 Dollar gefallen — belastet durch hawkische Signale von Fed-Chef Kevin Warsh und einen starken US-Dollar. Der Markt preist derzeit drei Zinserhöhungen für 2026 ein; die Wahrscheinlichkeit einer September-Erhöhung liegt bei rund 62 Prozent. Das Allzeithoch von Gold wurde am 28. Januar 2026 bei 5.602 Dollar markiert — aktuell liegt der Preis rund 28 Prozent darunter. Analysten sehen weiterhin Abwärtsrisiken durch steigende Realrenditen und Dollar-Stärke.",
+      "titel": "S&P 500 startet schwach in den Montag: KI-Abverkauf setzt sich fort",
+      "text": "Der S&P 500 geht nach einem Wochenverlust von rund 2 Prozent (Freitagsschluss: 7.354,02 Punkte) mit schwacher Stimmung in den Handel am Montag. Der Nasdaq Composite hatte in der vergangenen Woche 4,6 Prozent verloren und seine fuenfte aufeinanderfolgende Verlustsitzung verzeichnet - der schlechteste Wochenverlauf seit mehr als einem Jahr. Haupttreiber bleibt der breite Abverkauf von KI- und Technologieaktien, da Investoren angesichts von ueber 452 Milliarden Dollar an geplantem Jahres-Capex der vier groessten US-Technologiekonzerne zunehmend Rendite-Beweise einfordern. Fuer heute (Montag, 29. Juni) sind keine bedeutenden Konjunkturdaten oder Quartalsergebnisse terminiert, weshalb die Stimmung vom Vorwochentrend dominiert werden duerfte. Nicht-Tech-Sektoren hatten in der Vorwoche zugelegt, was auf eine fortgesetzte Rotation in defensivere Bereiche hindeutet.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-06-26"
-    },
-    {
-      "titel": "160 Mrd. USD an Aktienemissionen im Juni: KI-Investitionsboom schürt Schuldenängste",
-      "text": "Massive Kapitalerhöhungen rund um KI-Investitionen schüren laut Bloomberg vom 27. Juni 2026 wachsende Sorgen an den Kreditmärkten. Allein im Juni 2026 führte Alphabet eine der größten Aktienemissionen der Unternehmensgeschichte durch — rund 85 Milliarden Dollar — und SpaceX vollzog ein Rekord-IPO von 75 Milliarden Dollar; zusammen rund 160 Milliarden Dollar in einem einzigen Monat. Kreditanalysten warnen, dass die Kapitalausgaben der Hyperscaler (Microsoft, Amazon, Google, Meta) jährlich um rund 70 Prozent wachsen, während die operativen Cashflows nur etwa 23 Prozent zulegen — was das aggregierte Free Cashflow im Sektor voraussichtlich bereits im dritten Quartal 2026 ins Minus drücken wird. Dieses strukturelle Ungleichgewicht zwischen Ausgaben und Einnahmen erhöht das Risiko einer Überbewertung im KI-Sektor. Investoren reagierten mit einem Anstieg der Risikoprämien für Tech-Unternehmensanleihen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-27"
+      "datum_artikel": "2026-06-29"
     }
   ]
 }
