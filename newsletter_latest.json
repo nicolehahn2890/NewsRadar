@@ -1,33 +1,46 @@
 {
-  "datum": "Montag, 29. Juni 2026",
-  "generiert": "2026-06-29",
+  "datum": "Dienstag, 30. Juni 2026",
+  "generiert": "2026-06-30",
   "ki_stories": [
     {
-      "titel": "OpenAI erwaegt massive Preissenkungen im Wettbewerb gegen Anthropic",
-      "text": "OpenAI prueft laut Wall Street Journal weitreichende Preissenkungen fuer seine KI-API-Dienste, um dem wachsenden Konkurrrenzdruck durch Anthropic standzuhalten. Hintergrund ist der Aufstieg von Anthropic: Nach einem Rekordumsatz-Sprint - ausgeloest durch den Erfolg von Claude Code bei Softwareentwicklern - ueberholte Anthropic OpenAI kurzzeitig in der Privatmarkt-Bewertung und kletterte auf rund 965 Milliarden US-Dollar. OpenAI CEO Sam Altman raeumte ein, dass die KI-Kosten fuer Unternehmenskunden 'ein grosses Problem' geworden seien. Ein Preiskampf kaeme fuer beide Unternehmen zu einem heiklen Zeitpunkt: Sowohl OpenAI (zuletzt bewertet mit rund 852 Milliarden Dollar) als auch Anthropic haben bereits vertraulich Boersengang-Unterlagen bei der SEC eingereicht - aggressive Preissenkungen wuerden die ohnehin schon schwachen Margen weiter belasten. Analysten sehen darin ein strukturelles Dilemma der KI-Branche: technologische Fuehrerschaft und wirtschaftliche Nachhaltigkeit sind schwer gleichzeitig zu erreichen.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-06-27"
+      "titel": "Google Cloud: Wissenschaftliche KI-Modelle von SandboxAQ jetzt verfügbar",
+      "text": "Google hat angekündigt, die sogenannten 'Large Quantitative Models' (LQM) des KI-Unternehmens SandboxAQ in den Google Cloud Marketplace aufzunehmen. Im Gegensatz zu Sprachmodellen, die auf Textdaten trainiert sind, wurden LQMs mit wissenschaftlichen Gleichungen und Labordaten trainiert und sollen komplexe Probleme in Chemie, Biologie und Physik lösen. Zwei erste Modelle stehen bereit: AQCat für die Materialforschung und Halbleiterproduktion sowie AQPotency für die Wirkstoffforschung bei der Entwicklung von Medikamenten. Die Partnerschaft ermöglicht es Forschern, Googles Gemini-Sprachmodelle mit SandboxAQs wissenschaftlichen KI-Systemen zu kombinieren. SandboxAQ, ein Ableger von Alphabet, hatte zuvor 500 Millionen USD aus dem US-CHIPS-Programm für KI-Modelle in der Halbleiterfertigung erhalten. Der Deal markiert Googles Bestreben, KI-Anwendungen tiefer in die Naturwissenschaften zu verankern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-29"
+    },
+    {
+      "titel": "China macht KI-Unterricht an allen Schulen verpflichtend",
+      "text": "China hat einen formalen Plan angekündigt, Künstliche Intelligenz in alle Schulstufen zu integrieren — von der Grundschule bis zur Universität. Die Initiative ist Teil von Präsident Xi Jinpings Strategieplan, in Schlüsseltechnologien die globale Führungsrolle zu übernehmen. Die Maßnahme soll eine Generation von Absolventen hervorbringen, die von Grund auf mit KI-Werkzeugen vertraut ist. China sieht die frühe KI-Bildung als entscheidenden Faktor im technologischen Wettbewerb mit den USA. Konkrete Curricula und Zeitpläne für die Umsetzung sollen von den Bildungsbehörden der Provinzen ausgearbeitet werden. Die Ankündigung fällt in eine Phase, in der chinesische KI-Modelle wie DeepSeek weltweit rasant an Bedeutung gewinnen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-06-29"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Alphabet verliert rund $269 Mrd. Boersenwert: KI-Talentabgang und Capex-Angst belasten Google",
-      "text": "Die Alphabet-Aktie (GOOGL) schloss die vergangene Woche bei rund 337 US-Dollar - ein Rueckgang von etwa 17 Prozent gegenueber dem Allzeithoch von 408,61 Dollar vom 18. Mai 2026. Allein in dieser Woche verlor Alphabets Boersenwert rund 269 Milliarden US-Dollar - die schlimmste Woche fuer das Unternehmen seit Jahren. Ausgeloest wurde der Absturz durch hochkaraetiger KI-Personalabgaenge: Nobelpreistraeger John Jumper wechselte von Google DeepMind zu Anthropic, waehrend Gemini-Mitarchitekt Noam Shazeer - Co-Autor des einflussreichen 'Attention Is All You Need'-Papers von 2017 - zu OpenAI uebertrat. Hinzu kommt wachsende Investorenangst vor einer KI-Capex-Blase: Die vier groessten US-Tech-Konzerne Alphabet, Microsoft, Amazon und Meta haben ihre kombinierten Investitionsbudgets fuer 2026 auf ueber 452 Milliarden Dollar hochgeschraubt, ohne klaren Beleg entsprechender Renditen. Alphabets eigene Kapitalerhoehung von rund 84,75 Milliarden Dollar im Juni verscharfte die Sorgen weiter. Google Cloud waechst zwar mit 63 Prozent Jahresrate stark, doch der Talentschwund wirft ernsthafte Fragen ueber Alphabets langfristige KI-Fuehrerschaft auf.",
+      "titel": "Südkorea plant 880-Mrd.-USD-Investition in KI-Chips und Rechenzentren",
+      "text": "Südkorea hat ein nationales KI-Investitionsprogramm im Volumen von 1.350 Billionen Won (rund 880 Milliarden USD) angekündigt. Samsung Electronics und SK Hynix, die zusammen rund zwei Drittel der weltweiten Speicherchips produzieren, werden gemeinsam 800 Billionen Won (518 Milliarden USD) in ein neues Chipfertigungs-Zentrum im Südwesten des Landes investieren und jeweils zwei neue Fertigungswerke errichten. Weitere 550 Billionen Won sollen von Unternehmen wie dem Internetkonzern Naver in KI-Rechenzentren mit einer Gesamtkapazität von 8,4 Gigawatt bis 2029 fließen. Zentraler Treiber ist der stark wachsende Bedarf an Hochbandbreitenspeicher (HBM), dem spezialisierten Chip, der KI-Server antreibt. Südkoreas Präsident Lee Jae Myung bezeichnete die Führungskräfte von Samsung und SK Hynix als 'Nationalhelden' und sagte staatliche Unterstützung zu. Die Investitionen unterstreichen, wie stark der globale KI-Wettbewerb die Halbleiterbranche verändert.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-27",
+      "datum_artikel": "2026-06-28",
+      "unternehmen": "Samsung"
+    },
+    {
+      "titel": "Alphabet tritt dem Dow Jones Industrial Average bei — Aktie legt 4,96% zu",
+      "text": "Alphabet, die Muttergesellschaft von Google, ist am 29. Juni 2026 offiziell in den Dow Jones Industrial Average (DJIA) aufgenommen worden und ersetzt damit den Telekommunikationskonzern Verizon. S&P Global begründete die Entscheidung damit, dass Alphabet den Index an dynamische Wachstumsbereiche wie Künstliche Intelligenz, digitale Werbung und Cloud-Infrastruktur heranführe. Am ersten Handelstag als DJIA-Mitglied stiegen die Alphabet-Aktien um 4,96% auf rund 350 USD. Es ist die erste Zusammensetzungsänderung im DJIA seit 2024, als NVIDIA und Sherwin-Williams aufgenommen wurden. Mit Alphabet sind nun fünf der sieben 'Magnificent Seven'-Tech-Konzerne im Dow Jones vertreten: neben Alphabet auch NVIDIA, Amazon, Apple und Microsoft. Der DJIA stieg am selben Tag auf 52.182 Punkte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-06-29",
       "unternehmen": "Alphabet"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Gold notiert am Montag bei $4.068 - Fed-Haltung und Dollarstaerke bleiben Belastung",
-      "text": "Der Goldpreis notiert am heutigen Montag bei rund 4.068 US-Dollar je Feinunze, leicht unter dem Sonntags-Niveau von 4.073 Dollar. Gold hatte in der vergangenen Woche zeitweise die 4.000-Dollar-Marke unterschritten - erstmals seit November 2025 - und erholte sich erst am Freitag nach PCE-Inflationsdaten fuer Mai, die mit 4,1 Prozent im Jahresvergleich zwar ueber der Fed-Prognose von 3,6 Prozent lagen, aber im Rahmen der Markterwartungen blieben. Fundamentale Belastung bleibt die hawkische Haltung von Fed-Chef Kevin Warsh, der trotz politischem Druck aus dem Weissen Haus auf Inflationsbekaempfung beharrt. Die Maerkte preisen drei Zinserhoehungen fuer 2026 ein; die Wahrscheinlichkeit einer ersten Anhebung im September liegt bei rund 62 Prozent. Ein starker US-Dollar und steigende Realrenditen halten Gold - das am 28. Januar 2026 mit 5.602 Dollar ein Allzeithoch erreicht hatte - weiterhin unter Druck.",
-      "quelle": "Bloomberg",
+      "titel": "S&P 500 und Nasdaq brechen 5-tägige Verlustserie — Tech-Werte erholen sich",
+      "text": "Der S&P 500 stieg am 29. Juni um 0,84% auf 7.440 Punkte, nachdem der Index fünf Handelstage in Folge gefallen war. Der technologielastige Nasdaq legte sogar 2,25% zu und verzeichnete damit seinen stärksten Tagesgewinn seit Wochen. Besonders stark erholten sich Schwergewichte wie Alphabet (+4,96%), Tesla (+8,45%), Amazon (+3,18%) und Meta (+2,2%), die nach dem jüngsten KI-Sektor-Ausverkauf als unterbewertet galten. Im Hintergrund bleibt die Skepsis vieler Anleger gegenüber den massiven KI-Kapitalausgaben der Technologiekonzerne, die 2026 kumuliert auf über 452 Milliarden USD gestiegen sind. Der S&P 500 notiert damit seit Jahresbeginn 2026 rund 9% im Plus. Die Erholung kommt inmitten laufender US-Iran-Verhandlungen, die weiterhin für Unsicherheit an den Märkten sorgen.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-06-29"
     },
     {
-      "titel": "S&P 500 startet schwach in den Montag: KI-Abverkauf setzt sich fort",
-      "text": "Der S&P 500 geht nach einem Wochenverlust von rund 2 Prozent (Freitagsschluss: 7.354,02 Punkte) mit schwacher Stimmung in den Handel am Montag. Der Nasdaq Composite hatte in der vergangenen Woche 4,6 Prozent verloren und seine fuenfte aufeinanderfolgende Verlustsitzung verzeichnet - der schlechteste Wochenverlauf seit mehr als einem Jahr. Haupttreiber bleibt der breite Abverkauf von KI- und Technologieaktien, da Investoren angesichts von ueber 452 Milliarden Dollar an geplantem Jahres-Capex der vier groessten US-Technologiekonzerne zunehmend Rendite-Beweise einfordern. Fuer heute (Montag, 29. Juni) sind keine bedeutenden Konjunkturdaten oder Quartalsergebnisse terminiert, weshalb die Stimmung vom Vorwochentrend dominiert werden duerfte. Nicht-Tech-Sektoren hatten in der Vorwoche zugelegt, was auf eine fortgesetzte Rotation in defensivere Bereiche hindeutet.",
+      "titel": "Gold steuert auf schlimmsten Quartalseinbruch aller Zeiten zu: minus 14%",
+      "text": "Der Goldpreis fiel am 29. Juni auf rund 4.030 USD je Unze und liegt damit im zweiten Quartal 2026 rund 14% im Minus — der stärkste Quartalsverlust in der Geschichte des Edelmetalls. Vom Jahreshoch von 5.303 USD am 28. Januar hat Gold damit mehr als 1.200 USD verloren und befindet sich auf dem Weg zum vierten Monatsverlust in Folge. Zwei Haupttreiber belasten den Kurs: erstens die nachlassenden geopolitischen Spannungen rund um den US-Iran-Konflikt, der Gold zuvor als sicheren Hafen gestärkt hatte; zweitens die wachsende Erwartung, dass die US-Notenbank Fed unter Vorsitzendem Kevin Warsh die Zinsen noch dreimal anheben könnte, mit der ersten Erhöhung voraussichtlich im September. Da Gold in US-Dollar bewertet wird, übt ein stärkerer Dollar zusätzlichen Preisdruck aus. Die Märkte preisen derzeit eine rund 60-prozentige Wahrscheinlichkeit einer Zinserhöhung im September ein.",
       "quelle": "Reuters",
       "datum_artikel": "2026-06-29"
     }
