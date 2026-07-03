@@ -1,67 +1,69 @@
 {
-  "datum": "Donnerstag, 2. Juli 2026",
-  "generiert": "2026-07-02",
+  "datum": "Freitag, 3. Juli 2026",
+  "generiert": "2026-07-03",
   "ki_stories": [
     {
-      "titel": "Anthropic startet Claude Science fuer automatisierte Forschung",
-      "text": "Anthropic hat am 30. Juni ein neues Produkt namens Claude Science vorgestellt, das Wissenschaftlerinnen und Wissenschaftlern bei Forschungsarbeiten helfen soll - aehnlich wie Claude Code bei der Softwareentwicklung. Die Anwendung bringt mehr als 60 wissenschaftliche Datenbanken zusammen und kann eigenstaendig Aufgaben wie Proteinstruktur-Vorhersagen oder Literaturrecherchen uebernehmen. Claude Science laeuft auf dem Modell Claude Opus 4.8 und ist ab sofort im Beta-Status fuer alle zahlenden Claude-Abonnenten (Pro, Max, Team, Enterprise) verfuegbar, ohne separate Freischaltung. Anthropic bietet zudem bis zu 50 Forschungsprojekten aus Biologie und Biomedizin Rechenzeit-Guthaben von bis zu 30.000 US-Dollar an, Bewerbungen sind bis 15. Juli moeglich. Der Schritt zeigt, wie Anthropic ueber die Softwareentwicklung hinaus in wissenschaftliche Anwendungsfelder wie die Medikamentenforschung vordringt und damit auch Konkurrenten wie OpenAI unter Zugzwang setzt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-06-30"
-    },
-    {
-      "titel": "USA heben Exportbeschraenkungen fuer Anthropics Fable 5 auf",
-      "text": "Das US-Handelsministerium hat die am 12. Juni verhaengten Exportbeschraenkungen fuer Anthropics KI-Modell Fable 5 aufgehoben, nachdem Amazon-Forscher zuvor eine Sicherheitsluecke gemeldet hatten, die einen sogenannten Jailbreak ermoeglichte. Anthropic hat als Reaktion einen neuen Sicherheits-Klassifikator trainiert, der die gemeldete Umgehungstechnik nach eigenen Angaben in mehr als 99 Prozent der Faelle blockiert. Fable 5 steht seit 1. Juli wieder global auf der Claude-Plattform, Claude.ai, Claude Code und Claude Cowork zur Verfuegung, Pro-, Max-, Team- und ausgewaehlte Enterprise-Kunden erhalten es bis 7. Juli innerhalb der regulaeren Nutzungslimits. Das staerkere Modell Mythos 5 bleibt fuer internationale Nutzer weiterhin gesperrt, hier laufen die Gespraeche mit der US-Regierung ueber das Projekt Glasswing weiter. Parallel dazu haben Anthropic, Amazon, Microsoft und Google ein branchenweites Bewertungsraster fuer die Schwere von Jailbreaks vorgeschlagen, das nach dem Vorbild des CVSS-Standards fuer Software-Sicherheitsluecken funktionieren soll. Der Vorfall zeigt, wie eng KI-Sicherheit und nationale Exportkontrollen inzwischen verzahnt sind.",
-      "quelle": "Bloomberg",
+      "titel": "UN-Wissenschaftsgremium warnt: Regulierung hinkt KI-Fortschritt hinterher",
+      "text": "Ein vorläufiger Bericht des unabhängigen internationalen Wissenschaftsgremiums für Künstliche Intelligenz der UN warnt, dass die Fähigkeiten von KI-Systemen sowohl das wissenschaftliche Verständnis als auch die Anpassungsfähigkeit der Regierungen überholen. Ko-Vorsitzender Yoshua Bengio, der gemeinsam mit rund 40 Experten aus verschiedenen Weltregionen an dem Bericht mitwirkte, betonte, Politiker bräuchten belastbare Evidenz für gute Regulierung, doch diese halte mit dem Tempo der Technologie nicht Schritt. Der Bericht wurde am 1. Juli vorgestellt und bildet die Grundlage für den ersten UN-Weltdialog zur KI-Governance am 6. und 7. Juli in Genf im Rahmen des AI for Good Summit. UN-Generalsekretär António Guterres begrüßte den Bericht als wichtigen Schritt hin zu evidenzbasierter globaler KI-Politik. Die Veranstaltung soll Regierungen und weitere Interessengruppen erstmals zusammenbringen, um gemeinsam auf die Erkenntnisse des Gremiums zu reagieren.",
+      "quelle": "UN News",
       "datum_artikel": "2026-07-01"
     },
     {
-      "titel": "Google bringt guenstigeres Bildgenerierungs-Modell Nano Banana 2 Lite",
-      "text": "Google hat am 30. Juni ein neues, kostenguenstigeres KI-Bildmodell namens Nano Banana 2 Lite vorgestellt, intern als Gemini 3.1 Flash Lite Image bezeichnet. Das Modell erzeugt ein Bild in rund vier Sekunden bei einem Preis von etwa 0,034 US-Dollar pro 1.000 Bilder und ist damit deutlich schneller und billiger als der Vorgaenger. Es steht ab sofort in Google AI Studio, der Gemini API und der Gemini Enterprise Agent Platform bereit und soll schrittweise auch in Verbraucherprodukten wie der Google-Suche, der Gemini-App, Google Fotos und Google Ads integriert werden. Mit dem guenstigeren Modell reagiert Google auf wachsende Konkurrenz bei generativer Bildbearbeitung, unter anderem von OpenAI und Adobe. Fuer Unternehmen senkt das die Kosten fuer automatisierte Bildproduktion in grossem Massstab deutlich.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-06-30"
-    },
-    {
-      "titel": "KI-Boom laesst Stellenabbau in Tech- und Finanzbranche steigen",
-      "text": "In den Sektoren Technologie und Finanzdienstleistungen, wo die KI-Einfuehrung am schnellsten voranschreitet, hat sich der Stellenabbau 2026 laut US-Regierungsdaten beschleunigt und liegt inzwischen bei durchschnittlich 28.000 gestrichenen Stellen pro Monat. Bloomberg berichtete am 1. Juli, dass KI in diesem Jahr bereits als Grund fuer rund 27.600 Stellenstreichungen genannt wurde, das sind etwa 13 Prozent aller angekuendigten Jobkuerzungen. Konzerne wie Oracle haben in einer Pflichtmitteilung an die US-Boersenaufsicht SEC vom 22. Juni erstmals offen eingeraeumt, dass der Einsatz von KI-Technologien zu Personalabbau im eigenen Unternehmen fuehrt und weiter fuehren koennte. Beobachter sind sich uneinig, ob KI direkt Arbeitsplaetze ersetzt oder eher als Begruendung fuer ohnehin geplante Kostensenkungen dient, waehrend Konzerne ihre Investitionen von Personal hin zu Rechenzentren und Hardware verschieben. Die Zahlen naehren die Debatte, ob der aktuelle KI-Investitionsboom am Arbeitsmarkt bereits messbare Spuren hinterlaesst.",
+      "titel": "Analysten sehen KI-Untergangsszenario für Software-Aktien als übertrieben an",
+      "text": "Die Investmentbank Guggenheim hat am 1. Juli die Softwarefirmen Salesforce, ServiceNow und Check Point Software auf Kaufen hochgestuft und damit die verbreitete Sorge zurückgewiesen, generative und agentische KI werde klassische Software-Abo-Geschäftsmodelle langfristig überflüssig machen. Analyst John DiFucci bezeichnete die These, wonach viele Softwarefirmen wegen KI dauerhaft schrumpfen müssten, als Halluzination der Marktteilnehmer und verwies auf weiterhin robuste Kundennachfrage. Auslöser der Debatte war die sogenannte SaaSpocalypse: die Angst, dass KI-Agenten klassische, nutzerbasierte Softwarelizenzen verdrängen und Anbietern damit die Preissetzungsmacht nehmen könnten. Salesforce-Aktien, die seit Jahresbeginn rund 40 Prozent verloren hatten, legten nach der Hochstufung um knapp 4 Prozent zu, ServiceNow-Aktien stiegen um mehr als 5 Prozent. Guggenheim gab für Salesforce ein Kursziel von 228 US-Dollar aus. Die Entwicklung zeigt, wie stark die Debatte über KI-bedingte Verdrängungseffekte inzwischen ganze Aktiensektoren bewegt, ohne dass bislang harte Umsatzzahlen einen dramatischen Einbruch bei den betroffenen Unternehmen belegen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-01"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Meta plant eigenes Cloud-Geschaeft fuer KI-Rechenleistung",
-      "text": "Meta baut laut einem Bloomberg-Bericht vom 1. Juli ein neues Cloud-Geschaeft auf, um ueberschuessige KI-Rechenkapazitaeten und eigene Modelle an externe Kunden zu verkaufen. Damit tritt Meta erstmals in direkte Konkurrenz zu Amazon Web Services, Microsoft Azure und Google Cloud. Erwogen werden zwei Modelle: das Hosting von KI-Modellen fuer Entwickler nach Vorbild von Amazons Bedrock-Dienst sowie die Vermietung roher Rechenkapazitaet nach dem Vorbild des Anbieters CoreWeave. Meta hatte fuer 2026 Investitionsausgaben in KI-Infrastruktur von 125 bis 145 Milliarden US-Dollar in Aussicht gestellt, was zuletzt Fragen nach der Rendite dieser Investitionen aufgeworfen hatte. Die Meta-Aktie stieg nach Bekanntwerden der Plaene im vorboerslichen Handel um rund 7 Prozent. Der Vorstoss zeigt, wie Tech-Konzerne versuchen, ihre milliardenschweren Rechenzentren-Investitionen ueber neue Erloesquellen zu refinanzieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-01",
-      "unternehmen": "Meta"
+      "titel": "OpenAI bietet US-Regierung offenbar 5-Prozent-Beteiligung an",
+      "text": "OpenAI hat laut Financial Times erste informelle Gespräche mit der US-Regierung über eine mögliche 5-Prozent-Beteiligung Washingtons am Unternehmen aufgenommen. Bei der zuletzt im März festgelegten Bewertung von 852 Milliarden US-Dollar wäre ein solcher Anteil rund 42,6 Milliarden US-Dollar wert. CEO Sam Altman schlägt laut Bericht vor, dass alle führenden US-KI-Entwickler, darunter auch Anthropic sowie die börsennotierten Google und Meta, einen vergleichbaren Anteil in einen Fonds nach Vorbild des Alaska Permanent Fund einbringen, der Bürgern jährliche Dividenden auszahlt. Altman habe die Idee bereits mit Präsident Trump, Handelsminister Howard Lutnick und Finanzminister Scott Bessent besprochen sowie mit Senator Bernie Sanders. Die FT beschreibt die Gespräche als noch sehr früh und konzeptionell; eine Umsetzung würde voraussichtlich einen Kongressbeschluss erfordern. Der Vorstoß kommt inmitten wachsender politischer Debatten darüber, wie der wirtschaftliche Nutzen des KI-Booms fairer verteilt werden könnte.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-07-02",
+      "unternehmen": "OpenAI"
     },
     {
-      "titel": "Google muss Klarna-Tochter PriceRunner fast 2 Milliarden Dollar zahlen",
-      "text": "Ein Gericht in Stockholm hat Google am 1. Juli in einem Kartellverfahren zur Zahlung von rund 1,97 Milliarden US-Dollar Schadenersatz an den Preisvergleichsdienst PriceRunner verurteilt, der seit 2022 zur Klarna Group gehoert. Das Gericht stellte fest, dass Google ueber Jahre hinweg seine eigenen Shopping-Ergebnisse in der Suche systematisch bevorzugt und damit unabhaengige Preisvergleichsdienste wie PriceRunner benachteiligt hat. Grundlage war eine Entscheidung der EU-Kommission aus dem Jahr 2017, die eine Kartellstrafe von 2,42 Milliarden Euro gegen Google wegen aehnlicher Praktiken verhaengt hatte und vom Europaeischen Gerichtshof 2024 bestaetigt wurde. PriceRunner hatte urspruenglich rund 8,3 Milliarden US-Dollar Schadenersatz gefordert, das Gericht sprach nun einen deutlich geringeren Betrag zu. Die Klarna-Aktie legte nach dem Urteil an der Wall Street rund 6 Prozent zu. Google kann gegen das Urteil noch Berufung einlegen, ein Teil der Summe geht zudem an fruehere PriceRunner-Aktionaere und einen Prozessfinanzierer.",
+      "titel": "Alphabet erreicht 4,3 Billionen Dollar Marktwert und rückt in den Dow auf",
+      "text": "Alphabet hat sich in den vergangenen zwölf Monaten zum zweitwertvollsten Unternehmen der Welt entwickelt: Der Aktienkurs hat sich mehr als verdoppelt, der Marktwert stieg laut Bloomberg um rund 2 Billionen auf 4,3 Billionen US-Dollar. Noch vor einem Jahr lag Alphabet lediglich auf Platz fünf der wertvollsten Unternehmen weltweit. Als Zeichen der gewachsenen Bedeutung wurde die Google-Mutter diese Woche neu in den Dow Jones Industrial Average aufgenommen. Gleichzeitig mehren sich kritische Stimmen: Für 2026 hat Alphabet Investitionsausgaben von 180 bis 190 Milliarden US-Dollar in Aussicht gestellt, während zwei hochkarätige KI-Forscher das Unternehmen zuletzt verließen. Noam Shazeer, Mitautor des einflussreichen Transformer-Papers und Co-Leiter des Gemini-Projekts, wechselte zu OpenAI, keine 48 Stunden später kündigte DeepMind-Vizepräsident und Nobelpreisträger John Jumper seinen Wechsel zu Anthropic an. Bloomberg beschreibt die Entwicklung als Wendepunkt: Aus dem unangefochtenen Börsenliebling drohe für Investoren zunehmend ein Fragezeichen zu werden, ob Alphabet sein KI-Momentum langfristig halten kann.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-01",
       "unternehmen": "Google/Alphabet"
     },
     {
-      "titel": "Palantir-Aktie springt nach neuer Sovereign-AI-Allianz mit NVIDIA",
-      "text": "Palantir hat am 29. Juni eine erweiterte Partnerschaft mit NVIDIA angekuendigt, um US-Regierungsbehoerden und Betreibern kritischer Infrastruktur eine sichere sogenannte Sovereign-AI-Loesung anzubieten. Dabei werden NVIDIAs offene Nemotron-Modelle in Palantirs Plattformen AIP, Foundry, Apollo und Ontology integriert, sodass Behoerden KI-Modelle mit eigenen, sensiblen Daten in abgeschotteten Umgebungen trainieren und dabei die volle Kontrolle ueber die Ergebnisse behalten. Die Palantir-Aktie sprang am 1. Juli im Tagesverlauf um rund 9 Prozent auf 127,31 US-Dollar, der Marktwert des Unternehmens stieg auf rund 304,6 Milliarden US-Dollar. Zusaetzlichen Auftrieb gab die Nachricht, dass die US-Armee Palantir Foundry als Cloud-Datenschicht fuer ihr zentrales Modernisierungsprogramm NGC2 ausgewaehlt hat. Palantir-Chef Alex Karp sagte, es gehe darum, dass Kunden die Kontrolle ueber ihre Rechenleistung, Modelle und Daten behalten, statt sie an Dritte abzugeben. Der Deal unterstreicht, wie sich Palantir als Infrastruktur-Partner fuer staatliche KI-Anwendungen positioniert, waehrend Analysten nun auf konkrete Vertragsabschluesse warten.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-01",
-      "unternehmen": "Palantir"
+      "titel": "Microsoft stellt 6.000 Mitarbeiter für KI-Einführung bei Kunden ab",
+      "text": "Microsoft baut laut Bloomberg eine neue interne Organisation mit 6.000 Mitarbeitern auf, die Geschäftskunden bei der technischen und strategischen Einführung von Künstlicher Intelligenz unterstützen soll. Die Mitarbeiter bringen Erfahrung aus Softwareentwicklung, Unternehmensschulung und Management mit und sind teils auf einzelne Branchen spezialisiert. Der Schritt ist eine Reaktion auf eine wachsende Kluft zwischen dem Kauf von KI-Werkzeugen wie Copilot und deren tatsächlicher, produktiver Nutzung in Unternehmen, die Microsofts Umsatzwachstum aus dem KI-Geschäft bislang bremst. Mit der Initiative will Microsoft sicherstellen, dass sich die milliardenschweren Investitionen in Azure- und KI-Infrastruktur schneller in zahlende Kundennutzung und Softwareumsätze übersetzen. Die Ankündigung reiht sich ein in eine Serie von Schritten großer Cloud-Anbieter, die verstärkt in Beratung und Implementierungsservices investieren, um die Monetarisierung ihrer KI-Angebote zu beschleunigen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-02",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "Anthropic verhandelt mit Samsung über eigenen KI-Chip",
+      "text": "Anthropic befindet sich laut The Information in Gesprächen mit Samsung Electronics über eine Partnerschaft zur Fertigung eines eigenen, kundenspezifischen KI-Chips. Die Gespräche sind noch in einem frühen Stadium; Anthropic klärt demnach zunächst grundlegende Fragen wie die genaue Funktion des Prozessors und seine Einbindung in KI-Server oder -Cluster. Im Fokus steht Samsungs moderne 2-Nanometer-Fertigungstechnologie in Kombination mit dessen fortschrittlicher Chip-Verpackungstechnik. Der Vorstoß reiht Anthropic in einen breiteren Branchentrend ein: Erst kürzlich hatte OpenAI gemeinsam mit Broadcom einen eigenen Inferenz-Chip mit dem Namen Jalapeño angekündigt. Für Anthropic wäre ein eigener Chip ein wichtiger Schritt zur Verringerung der Abhängigkeit von NVIDIA-Hardware und zur Kostenkontrolle beim stark wachsenden Rechenbedarf für Claude-Modelle.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-07-02",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "SoftBank nimmt Gespräche über 10-Milliarden-Dollar-Kredit gegen OpenAI-Anteile wieder auf",
+      "text": "SoftBank hat laut Reuters die Verhandlungen mit einem Bankenkonsortium über einen Kredit von 10 Milliarden US-Dollar wieder aufgenommen, der durch SoftBanks Beteiligung an OpenAI besichert werden soll. Frühere Gespräche waren ins Stocken geraten, weil Kreditgeber Bedenken hatten, den Wert der privat gehaltenen OpenAI-Anteile verlässlich einzuschätzen; SoftBank hatte das Zielvolumen deshalb zwischenzeitlich auf rund 6 Milliarden US-Dollar reduziert. Um die Banken jetzt doch zu überzeugen, bietet SoftBank eine zusätzliche Garantie an: Sollte der Wert der als Sicherheit hinterlegten OpenAI-Aktien sinken, haftet SoftBank selbst für die Rückzahlung. Dem Konsortium sollen unter anderem Goldman Sachs, JPMorgan Chase und Mizuho Financial Group angehören. Der erneute Vorstoß fällt zusammen mit Berichten über eine mögliche Verzögerung von OpenAIs geplantem Börsengang, was Kreditgeber zusätzlich vorsichtig gemacht hatte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-02",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Goldpreis erholt sich nach Warsh-Aussagen zu sinkenden Inflationsrisiken",
-      "text": "Der Goldpreis ist am 1. und 2. Juli wieder ueber die Marke von 4.000 US-Dollar je Feinunze gestiegen und erreichte am 2. Juli rund 4.051,75 US-Dollar, nachdem er zuvor auf ein Achtmonatstief gefallen war. Ausloeser war ein Auftritt von Fed-Chef Kevin Warsh beim Zentralbank-Forum der EZB in Sintra am 1. Juli, bei dem er sagte, die Inflationserwartungen seien in den vergangenen vier Wochen gesunken und die Inflationsrisiken haetten insgesamt abgenommen. Gleichzeitig betonte Warsh, die Preise seien weiterhin zu hoch, und gab keinen Hinweis auf eine Zinssenkung im Juli, was seine Aussagen insgesamt zwiespaeltig wirken liess. Trotz der gemischten Signale reagierten Gold und andere Risikoanlagen wie Bitcoin, das wieder ueber 60.000 US-Dollar stieg, mit Kursgewinnen. Fuer Anlegerinnen und Anleger bleibt Gold damit ein wichtiger Indikator fuer die Erwartungen an die Zinspolitik der Fed unter ihrem neuen, seit Juni amtierenden Vorsitzenden.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-01"
+      "titel": "Schwacher Juni-Arbeitsmarktbericht lässt Anleger von Tech- zu Value-Aktien wechseln",
+      "text": "Der US-Arbeitsmarktbericht für Juni fiel mit nur 57.000 neuen Stellen deutlich schwächer aus als der von Ökonomen erwartete Konsens von rund 110.000 bis 115.000, wie Reuters und CNBC berichteten. Die Arbeitslosenquote sank überraschend auf 4,2 Prozent, allerdings vor allem, weil die Erwerbsquote auf 61,5 Prozent fiel, den niedrigsten Stand seit März 2021. An der Börse reagierten die Indizes gegensätzlich: Der Dow Jones kletterte um rund 595 Punkte auf ein neues Rekordhoch, da die schwachen Daten Erwartungen an eine baldige Fed-Zinserhöhung dämpften und Anleger in klassische Sektoren wie Finanzwerte umschichteten. Der S&P 500 gab dagegen leicht nach, während der Nasdaq 100 um mehr als 2 Prozent einbrach, da Investoren stark gelaufene KI- und Halbleiterwerte wie Micron, Teradyne und KLA verkauften. Der Kurswechsel deutet darauf hin, dass Anleger nach der starken Rally im ersten Halbjahr 2026 zunehmend Gewinne bei besonders stark gestiegenen Tech-Titeln mitnehmen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-02"
     },
     {
-      "titel": "S&P 500 und Dow markieren nach starkem zweiten Quartal neue Rekorde",
-      "text": "Der Dow Jones stieg am 1. Juli um 0,3 Prozent beziehungsweise 136,46 Punkte auf ein neues Rekordhoch von 52.319,20 Punkten, der S&P 500 legte um 0,8 Prozent auf 7.499,36 Punkte zu und der Nasdaq Composite kletterte um 1,5 Prozent auf 26.213,72 Punkte. Damit setzte sich eine Rally fort, die dem S&P 500 laut Bloomberg allein im zweiten Quartal 2026 einen Wertzuwachs von mehr als 8 Billionen US-Dollar beschert hat. Stuetzend wirkten robuste Konjunkturdaten: Die Einkaufsmanagerindizes zeigten eine sechs Monate in Folge wachsende Industrieproduktion, gleichzeitig sprach Fed-Chef Warsh von nachlassenden Inflationsrisiken. Besonders zyklische, konjunktursensitive Branchen entwickelten sich ueberdurchschnittlich, waehrend einzelne Chip-Werte den Index leicht belasteten. Die Rendite zweijaehriger US-Staatsanleihen gab leicht nach, der Oelpreis fiel, nachdem die USA von positiven indirekten Gespraechen mit dem Iran berichtet hatten. Die Kombination aus starker Konjunktur und nachlassendem Preisdruck naehrt bei Anlegern die Hoffnung auf eine sanfte Landung der US-Wirtschaft.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-01"
+      "titel": "Goldpreis steigt nach schwachem Jobbericht über 4.100 US-Dollar",
+      "text": "Der Goldpreis kletterte laut CNBC und Reuters am Donnerstag um rund 1,6 bis 2 Prozent auf über 4.100 US-Dollar je Feinunze und erholte sich damit von einem Achtmonatstief. Auslöser war der enttäuschende US-Arbeitsmarktbericht für Juni mit nur 57.000 neuen Stellen, der die Markterwartungen an eine bevorstehende Zinserhöhung der US-Notenbank dämpfte. Zusätzlich stützten sinkende Ölpreise sowie Aussagen von Fed-Chef Kevin Warsh den Goldpreis: Warsh erklärte, Inflationserwartungen und -risiken hätten sich zuletzt entspannt, bekräftigte aber gleichzeitig das Ziel der Fed, die Inflation auf 2 Prozent zurückzuführen. Für Goldanleger ist die Kombination aus schwächerem Arbeitsmarkt und vorsichtigerer Fed-Rhetorik ein klassisches Umfeld für steigende Preise, da das Edelmetall von niedrigeren Realzinsen profitiert. Der Anstieg markiert eine Erholung nach mehreren schwächeren Wochen, in denen ein überraschend starker Mai-Bericht die Zinssenkungsfantasie zuvor gedämpft hatte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-02"
     }
   ]
 }
