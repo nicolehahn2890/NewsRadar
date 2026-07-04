@@ -1,69 +1,62 @@
 {
-  "datum": "Freitag, 3. Juli 2026",
-  "generiert": "2026-07-03",
+  "datum": "Samstag, 4. Juli 2026",
+  "generiert": "2026-07-04",
   "ki_stories": [
     {
-      "titel": "UN-Wissenschaftsgremium warnt: Regulierung hinkt KI-Fortschritt hinterher",
-      "text": "Ein vorläufiger Bericht des unabhängigen internationalen Wissenschaftsgremiums für Künstliche Intelligenz der UN warnt, dass die Fähigkeiten von KI-Systemen sowohl das wissenschaftliche Verständnis als auch die Anpassungsfähigkeit der Regierungen überholen. Ko-Vorsitzender Yoshua Bengio, der gemeinsam mit rund 40 Experten aus verschiedenen Weltregionen an dem Bericht mitwirkte, betonte, Politiker bräuchten belastbare Evidenz für gute Regulierung, doch diese halte mit dem Tempo der Technologie nicht Schritt. Der Bericht wurde am 1. Juli vorgestellt und bildet die Grundlage für den ersten UN-Weltdialog zur KI-Governance am 6. und 7. Juli in Genf im Rahmen des AI for Good Summit. UN-Generalsekretär António Guterres begrüßte den Bericht als wichtigen Schritt hin zu evidenzbasierter globaler KI-Politik. Die Veranstaltung soll Regierungen und weitere Interessengruppen erstmals zusammenbringen, um gemeinsam auf die Erkenntnisse des Gremiums zu reagieren.",
-      "quelle": "UN News",
-      "datum_artikel": "2026-07-01"
-    },
-    {
-      "titel": "Analysten sehen KI-Untergangsszenario für Software-Aktien als übertrieben an",
-      "text": "Die Investmentbank Guggenheim hat am 1. Juli die Softwarefirmen Salesforce, ServiceNow und Check Point Software auf Kaufen hochgestuft und damit die verbreitete Sorge zurückgewiesen, generative und agentische KI werde klassische Software-Abo-Geschäftsmodelle langfristig überflüssig machen. Analyst John DiFucci bezeichnete die These, wonach viele Softwarefirmen wegen KI dauerhaft schrumpfen müssten, als Halluzination der Marktteilnehmer und verwies auf weiterhin robuste Kundennachfrage. Auslöser der Debatte war die sogenannte SaaSpocalypse: die Angst, dass KI-Agenten klassische, nutzerbasierte Softwarelizenzen verdrängen und Anbietern damit die Preissetzungsmacht nehmen könnten. Salesforce-Aktien, die seit Jahresbeginn rund 40 Prozent verloren hatten, legten nach der Hochstufung um knapp 4 Prozent zu, ServiceNow-Aktien stiegen um mehr als 5 Prozent. Guggenheim gab für Salesforce ein Kursziel von 228 US-Dollar aus. Die Entwicklung zeigt, wie stark die Debatte über KI-bedingte Verdrängungseffekte inzwischen ganze Aktiensektoren bewegt, ohne dass bislang harte Umsatzzahlen einen dramatischen Einbruch bei den betroffenen Unternehmen belegen.",
+      "titel": "KI-Aktien: Zweifel an Preissetzungsmacht der Branche wachsen",
+      "text": "Der Silicon Data LLM Token Expenditure Index, der misst, wie viel Nutzer für KI-Tokens zahlen, ist seit seinem Hoch im Mai um fast 20 Prozent gefallen, nachdem er sich seit seiner Einführung im Dezember fast verdoppelt hatte. Das nährt an den Märkten Zweifel daran, ob sich die gewaltigen Investitionen in Künstliche Intelligenz jemals auszahlen werden, da die Preise, die die Branche für jede genutzte Recheneinheit verlangen kann, sinken. Sinkende Tokenpreise sind eigentlich gut für Nutzer, weil KI-Dienste günstiger werden, gelten aber als Warnsignal für die Margen der Anbieter. Allianz-Chefökonom Ludovic Subran warnte zudem, die Produktivitätsversprechen der KI seien von 'Exuberanz' geprägt, die wirtschaftlichen Effekte dürften ungleicher ausfallen als es der Hype suggeriert. Die Entwicklung trifft auf ohnehin nervöse Anleger, die nach der massiven Kursrally der vergangenen Monate genauer hinschauen, ob sich die Billionen-Investitionen in KI-Infrastruktur tatsächlich rechnen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-01"
+      "datum_artikel": "2026-07-03"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI bietet US-Regierung offenbar 5-Prozent-Beteiligung an",
-      "text": "OpenAI hat laut Financial Times erste informelle Gespräche mit der US-Regierung über eine mögliche 5-Prozent-Beteiligung Washingtons am Unternehmen aufgenommen. Bei der zuletzt im März festgelegten Bewertung von 852 Milliarden US-Dollar wäre ein solcher Anteil rund 42,6 Milliarden US-Dollar wert. CEO Sam Altman schlägt laut Bericht vor, dass alle führenden US-KI-Entwickler, darunter auch Anthropic sowie die börsennotierten Google und Meta, einen vergleichbaren Anteil in einen Fonds nach Vorbild des Alaska Permanent Fund einbringen, der Bürgern jährliche Dividenden auszahlt. Altman habe die Idee bereits mit Präsident Trump, Handelsminister Howard Lutnick und Finanzminister Scott Bessent besprochen sowie mit Senator Bernie Sanders. Die FT beschreibt die Gespräche als noch sehr früh und konzeptionell; eine Umsetzung würde voraussichtlich einen Kongressbeschluss erfordern. Der Vorstoß kommt inmitten wachsender politischer Debatten darüber, wie der wirtschaftliche Nutzen des KI-Booms fairer verteilt werden könnte.",
+      "titel": "OpenAI bietet US-Regierung 5-Prozent-Anteil im Wert von 42,6 Milliarden Dollar an",
+      "text": "OpenAI-Chef Sam Altman hat in ersten Gesprächen mit der US-Regierung angeboten, ihr einen Anteil von 5 Prozent an OpenAI zu übertragen, der nach der Finanzierungsrunde vom März bei einer Bewertung von 852 Milliarden Dollar rund 42,6 Milliarden Dollar wert wäre. Der Vorschlag ist Teil von Altmans Idee eines 'Public Wealth Fund', eines staatlichen Fonds, der Anteile an führenden KI-Firmen halten und die wirtschaftlichen Gewinne stärker der Öffentlichkeit zugutekommen lassen soll. Laut Financial Times könnte das Modell auch auf andere große US-KI-Firmen wie Anthropic, Google und Meta ausgeweitet werden, die dann ähnliche Anteile an den Staat abgeben würden. Die Gespräche mit der Trump-Regierung laufen bereits seit über einem Jahr und befinden sich noch in einem frühen Stadium; eine formale Umsetzung würde aller Voraussicht nach die Zustimmung des Kongresses erfordern, was die Sache erheblich verkomplizieren würde. Hintergrund ist der wachsende politische Druck wegen der enormen Bewertungen und des gesellschaftlichen Nutzens von KI-Konzernen, dem Altman mit dem Angebot begegnen will.",
       "quelle": "Financial Times",
       "datum_artikel": "2026-07-02",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "Alphabet erreicht 4,3 Billionen Dollar Marktwert und rückt in den Dow auf",
-      "text": "Alphabet hat sich in den vergangenen zwölf Monaten zum zweitwertvollsten Unternehmen der Welt entwickelt: Der Aktienkurs hat sich mehr als verdoppelt, der Marktwert stieg laut Bloomberg um rund 2 Billionen auf 4,3 Billionen US-Dollar. Noch vor einem Jahr lag Alphabet lediglich auf Platz fünf der wertvollsten Unternehmen weltweit. Als Zeichen der gewachsenen Bedeutung wurde die Google-Mutter diese Woche neu in den Dow Jones Industrial Average aufgenommen. Gleichzeitig mehren sich kritische Stimmen: Für 2026 hat Alphabet Investitionsausgaben von 180 bis 190 Milliarden US-Dollar in Aussicht gestellt, während zwei hochkarätige KI-Forscher das Unternehmen zuletzt verließen. Noam Shazeer, Mitautor des einflussreichen Transformer-Papers und Co-Leiter des Gemini-Projekts, wechselte zu OpenAI, keine 48 Stunden später kündigte DeepMind-Vizepräsident und Nobelpreisträger John Jumper seinen Wechsel zu Anthropic an. Bloomberg beschreibt die Entwicklung als Wendepunkt: Aus dem unangefochtenen Börsenliebling drohe für Investoren zunehmend ein Fragezeichen zu werden, ob Alphabet sein KI-Momentum langfristig halten kann.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-01",
-      "unternehmen": "Google/Alphabet"
-    },
-    {
-      "titel": "Microsoft stellt 6.000 Mitarbeiter für KI-Einführung bei Kunden ab",
-      "text": "Microsoft baut laut Bloomberg eine neue interne Organisation mit 6.000 Mitarbeitern auf, die Geschäftskunden bei der technischen und strategischen Einführung von Künstlicher Intelligenz unterstützen soll. Die Mitarbeiter bringen Erfahrung aus Softwareentwicklung, Unternehmensschulung und Management mit und sind teils auf einzelne Branchen spezialisiert. Der Schritt ist eine Reaktion auf eine wachsende Kluft zwischen dem Kauf von KI-Werkzeugen wie Copilot und deren tatsächlicher, produktiver Nutzung in Unternehmen, die Microsofts Umsatzwachstum aus dem KI-Geschäft bislang bremst. Mit der Initiative will Microsoft sicherstellen, dass sich die milliardenschweren Investitionen in Azure- und KI-Infrastruktur schneller in zahlende Kundennutzung und Softwareumsätze übersetzen. Die Ankündigung reiht sich ein in eine Serie von Schritten großer Cloud-Anbieter, die verstärkt in Beratung und Implementierungsservices investieren, um die Monetarisierung ihrer KI-Angebote zu beschleunigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-02",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Anthropic verhandelt mit Samsung über eigenen KI-Chip",
-      "text": "Anthropic befindet sich laut The Information in Gesprächen mit Samsung Electronics über eine Partnerschaft zur Fertigung eines eigenen, kundenspezifischen KI-Chips. Die Gespräche sind noch in einem frühen Stadium; Anthropic klärt demnach zunächst grundlegende Fragen wie die genaue Funktion des Prozessors und seine Einbindung in KI-Server oder -Cluster. Im Fokus steht Samsungs moderne 2-Nanometer-Fertigungstechnologie in Kombination mit dessen fortschrittlicher Chip-Verpackungstechnik. Der Vorstoß reiht Anthropic in einen breiteren Branchentrend ein: Erst kürzlich hatte OpenAI gemeinsam mit Broadcom einen eigenen Inferenz-Chip mit dem Namen Jalapeño angekündigt. Für Anthropic wäre ein eigener Chip ein wichtiger Schritt zur Verringerung der Abhängigkeit von NVIDIA-Hardware und zur Kostenkontrolle beim stark wachsenden Rechenbedarf für Claude-Modelle.",
-      "quelle": "The Information",
+      "titel": "Anthropic führt Gespräche mit Samsung über eigenen KI-Chip",
+      "text": "Anthropic steht laut einem Bericht von TechCrunch in Kontakt mit Samsung Electronics, um gemeinsam einen kundenspezifischen KI-Beschleuniger zu entwickeln. Konkrete Details wie der genaue Einsatzzweck des Chips, seine Rechenleistung oder die Einbindung in Serverarchitekturen stehen laut den Gesprächspartnern noch nicht fest, die Gespräche gelten als vorläufig. Ziel ist es, die Abhängigkeit von Nvidia-Chips zu verringern und eigene Hardware-Kapazitäten aufzubauen, ähnlich wie es OpenAI mit seinem gemeinsam mit Broadcom entwickelten Chip 'Jalapeño' bereits vorantreibt. Anthropic wächst weiterhin sehr schnell: Der jährliche Umsatzlauf des Unternehmens hat inzwischen die Marke von 30 Milliarden Dollar überschritten, was den Bedarf an zusätzlicher Rechenkapazität weiter antreibt. Ein eigener Chip würde Anthropic mittelfristig unabhängiger von den derzeit knappen und teuren Nvidia-Chips machen.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-07-02",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "SoftBank nimmt Gespräche über 10-Milliarden-Dollar-Kredit gegen OpenAI-Anteile wieder auf",
-      "text": "SoftBank hat laut Reuters die Verhandlungen mit einem Bankenkonsortium über einen Kredit von 10 Milliarden US-Dollar wieder aufgenommen, der durch SoftBanks Beteiligung an OpenAI besichert werden soll. Frühere Gespräche waren ins Stocken geraten, weil Kreditgeber Bedenken hatten, den Wert der privat gehaltenen OpenAI-Anteile verlässlich einzuschätzen; SoftBank hatte das Zielvolumen deshalb zwischenzeitlich auf rund 6 Milliarden US-Dollar reduziert. Um die Banken jetzt doch zu überzeugen, bietet SoftBank eine zusätzliche Garantie an: Sollte der Wert der als Sicherheit hinterlegten OpenAI-Aktien sinken, haftet SoftBank selbst für die Rückzahlung. Dem Konsortium sollen unter anderem Goldman Sachs, JPMorgan Chase und Mizuho Financial Group angehören. Der erneute Vorstoß fällt zusammen mit Berichten über eine mögliche Verzögerung von OpenAIs geplantem Börsengang, was Kreditgeber zusätzlich vorsichtig gemacht hatte.",
-      "quelle": "Reuters",
+      "titel": "NVIDIA bietet KI-Startups Rechenleistung gegen Umsatzbeteiligung an",
+      "text": "NVIDIA hat ein neues Programm gestartet, bei dem Entwickler und Startups ohne großes Kapital Zugang zu den gefragten KI-Chips des Unternehmens erhalten, indem sie im Gegenzug einen Anteil an ihren künftigen Umsätzen abtreten. Konkret vergibt NVIDIA dafür Token-Guthaben an Forscher und junge Unternehmen, die sich sonst keinen Zugang zu den knappen und teuren Großrechenressourcen leisten könnten. Ziel des Modells ist es, den Kundenkreis von NVIDIA über die finanzstarken Tech-Konzerne hinaus zu erweitern und frühzeitig Bindungen zu vielversprechenden jungen KI-Firmen aufzubauen. Die Initiative kommt zu einem Zeitpunkt, an dem der Wettbewerb um Rechenkapazität für KI-Modelle weiter zunimmt und kleinere Firmen gegenüber gut finanzierten Konzernen wie OpenAI oder Anthropic ins Hintertreffen zu geraten drohen. Für NVIDIA ist es zugleich eine Wette darauf, dass ein Teil dieser Startups künftig zu zahlenden Großkunden heranwächst.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-07-02",
-      "unternehmen": "OpenAI"
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "Microsoft mobilisiert 6.000 Mitarbeiter für KI-Einführung bei Kunden",
+      "text": "Microsoft baut eine neue interne Organisation mit 6.000 Beschäftigten auf, die Unternehmenskunden bei der technischen und strategischen Einführung von Künstlicher Intelligenz unterstützen soll. Die Mitarbeiter sollen helfen, KI-Werkzeuge wie Copilot und Azure-KI-Dienste in bestehende Geschäftsprozesse zu integrieren, was für viele Firmen bislang eine große Hürde darstellt. Der Schritt zeigt, dass Microsoft die praktische Umsetzung von KI-Investitionen bei Kunden inzwischen als entscheidenden Wettbewerbsfaktor ansieht, da die reine Verfügbarkeit von Modellen allein nicht automatisch zu höherer Nutzung führt. Hintergrund ist der Druck, die milliardenschweren eigenen KI-Investitionen des Konzerns in konkrete Umsätze bei Firmenkunden zu übersetzen. Die Initiative dürfte auch als Reaktion auf Konkurrenten wie Google und Amazon zu verstehen sein, die ähnliche Beratungs- und Einführungsdienste für ihre KI-Plattformen ausbauen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-02",
+      "unternehmen": "Microsoft"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Schwacher Juni-Arbeitsmarktbericht lässt Anleger von Tech- zu Value-Aktien wechseln",
-      "text": "Der US-Arbeitsmarktbericht für Juni fiel mit nur 57.000 neuen Stellen deutlich schwächer aus als der von Ökonomen erwartete Konsens von rund 110.000 bis 115.000, wie Reuters und CNBC berichteten. Die Arbeitslosenquote sank überraschend auf 4,2 Prozent, allerdings vor allem, weil die Erwerbsquote auf 61,5 Prozent fiel, den niedrigsten Stand seit März 2021. An der Börse reagierten die Indizes gegensätzlich: Der Dow Jones kletterte um rund 595 Punkte auf ein neues Rekordhoch, da die schwachen Daten Erwartungen an eine baldige Fed-Zinserhöhung dämpften und Anleger in klassische Sektoren wie Finanzwerte umschichteten. Der S&P 500 gab dagegen leicht nach, während der Nasdaq 100 um mehr als 2 Prozent einbrach, da Investoren stark gelaufene KI- und Halbleiterwerte wie Micron, Teradyne und KLA verkauften. Der Kurswechsel deutet darauf hin, dass Anleger nach der starken Rally im ersten Halbjahr 2026 zunehmend Gewinne bei besonders stark gestiegenen Tech-Titeln mitnehmen.",
-      "quelle": "Reuters",
+      "titel": "Goldpreis steigt nach schwachem US-Jobsbericht deutlich",
+      "text": "Der Goldpreis kletterte am Donnerstag um mehr als 2 Prozent auf über 4.100 Dollar je Feinunze und legte am Freitag weiter zu, nachdem die US-Regierung einen enttäuschenden Arbeitsmarktbericht für Juni veröffentlicht hatte. Die US-Wirtschaft schuf im Juni nur 57.000 neue Stellen, deutlich weniger als die von Ökonomen erwarteten rund 110.000 bis 115.000, während die Zahlen für April und Mai zusätzlich um insgesamt 74.000 Stellen nach unten revidiert wurden. Die Arbeitslosenquote fiel zwar leicht auf 4,2 Prozent, gleichzeitig sank aber die Erwerbsquote auf ein Fünfjahrestief. Als Reaktion senkten Anleger ihre Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed: Laut dem CME-FedWatch-Tool fiel die eingepreiste Wahrscheinlichkeit für eine Zinserhöhung im September von 66 auf 50 Prozent. Da niedrigere Zinsen die Opportunitätskosten für das Halten von zinslosem Gold senken, profitierte der Goldpreis zusätzlich von einem schwächeren US-Dollar, der auf dem Weg zu seinem größten Wochenverlust seit April war.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-07-02"
     },
     {
-      "titel": "Goldpreis steigt nach schwachem Jobbericht über 4.100 US-Dollar",
-      "text": "Der Goldpreis kletterte laut CNBC und Reuters am Donnerstag um rund 1,6 bis 2 Prozent auf über 4.100 US-Dollar je Feinunze und erholte sich damit von einem Achtmonatstief. Auslöser war der enttäuschende US-Arbeitsmarktbericht für Juni mit nur 57.000 neuen Stellen, der die Markterwartungen an eine bevorstehende Zinserhöhung der US-Notenbank dämpfte. Zusätzlich stützten sinkende Ölpreise sowie Aussagen von Fed-Chef Kevin Warsh den Goldpreis: Warsh erklärte, Inflationserwartungen und -risiken hätten sich zuletzt entspannt, bekräftigte aber gleichzeitig das Ziel der Fed, die Inflation auf 2 Prozent zurückzuführen. Für Goldanleger ist die Kombination aus schwächerem Arbeitsmarkt und vorsichtigerer Fed-Rhetorik ein klassisches Umfeld für steigende Preise, da das Edelmetall von niedrigeren Realzinsen profitiert. Der Anstieg markiert eine Erholung nach mehreren schwächeren Wochen, in denen ein überraschend starker Mai-Bericht die Zinssenkungsfantasie zuvor gedämpft hatte.",
-      "quelle": "Reuters",
+      "titel": "Dow erreicht Rekordhoch, Nasdaq gibt wegen Chip-Sorgen nach",
+      "text": "Vor dem langen Feiertagswochenende zum US-Unabhängigkeitstag legte der Dow Jones Industrial Average am Donnerstag um 594,83 Punkte beziehungsweise 1,14 Prozent auf ein Rekordhoch von 52.900,07 Punkten zu. Der marktbreite S&P 500 schloss mit 7.483,24 Punkten praktisch unverändert, während der technologielastige Nasdaq Composite um 0,8 Prozent auf 25.832,67 Punkte nachgab. Belastet wurde der Nasdaq vor allem von Halbleiterwerten: Der VanEck-Halbleiter-ETF (SMH) verlor 4,5 Prozent, mit Kurseinbrüchen von 13,6 Prozent bei Teradyne und 11,5 Prozent bei KLA. Auslöser für die unterschiedliche Entwicklung war der schwache US-Arbeitsmarktbericht für Juni, der einerseits Zinssenkungsfantasien beflügelte und so klassischen Standardwerten im Dow half, andererseits aber Sorgen über die Bewertung von KI- und Chip-Aktien neu befeuerte. Die US-Börsen blieben am Freitag wegen des Feiertags geschlossen, der Handel wird erst am Montag wieder aufgenommen.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-07-02"
+    },
+    {
+      "titel": "EZB uneins über weitere Zinsschritte, sinkender Ölpreis dämpft Inflationsdruck",
+      "text": "Beim jährlichen Notenbank-Symposium im portugiesischen Sintra zeigten sich Vertreter der Europäischen Zentralbank uneinig darüber, ob die Zinsen nach der jüngsten Erhöhung als Reaktion auf den Iran-Krieg weiter steigen müssen, um die Inflation zurück auf das Zwei-Prozent-Ziel zu bringen. EZB-Ratsmitglied Emmanuel Moulin sagte, die Notenbank befinde sich dank des fallenden Ölpreises derzeit in einer komfortablen Lage. Der Ölpreis war seit Mitte Dezember wegen der US- und israelischen Angriffe auf den Iran und der iranischen Vergeltung zunächst um bis zu 84 Prozent auf rund 104 Dollar je Barrel gestiegen, gibt inzwischen aber wieder nach und nimmt damit Druck von den Verbraucherpreisen in der Eurozone. Die uneinheitliche Haltung der EZB-Vertreter zeigt, wie schwer eine geldpolitische Prognose angesichts der weiter volatilen Geopolitik im Nahen Osten fällt. Für Anleger in Europa ist das relevant, weil ein Ende des EZB-Zinserhöhungszyklus Aktien- und Anleihemärkte stützen könnte, während neue Eskalationen im Nahen Osten den Ölpreis und damit die Inflation erneut anheizen könnten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-03"
     }
   ]
 }
