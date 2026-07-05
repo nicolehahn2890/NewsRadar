@@ -1,62 +1,22 @@
 {
-  "datum": "Samstag, 4. Juli 2026",
-  "generiert": "2026-07-04",
+  "datum": "Sonntag, 5. Juli 2026",
+  "generiert": "2026-07-05",
   "ki_stories": [
     {
-      "titel": "KI-Aktien: Zweifel an Preissetzungsmacht der Branche wachsen",
-      "text": "Der Silicon Data LLM Token Expenditure Index, der misst, wie viel Nutzer für KI-Tokens zahlen, ist seit seinem Hoch im Mai um fast 20 Prozent gefallen, nachdem er sich seit seiner Einführung im Dezember fast verdoppelt hatte. Das nährt an den Märkten Zweifel daran, ob sich die gewaltigen Investitionen in Künstliche Intelligenz jemals auszahlen werden, da die Preise, die die Branche für jede genutzte Recheneinheit verlangen kann, sinken. Sinkende Tokenpreise sind eigentlich gut für Nutzer, weil KI-Dienste günstiger werden, gelten aber als Warnsignal für die Margen der Anbieter. Allianz-Chefökonom Ludovic Subran warnte zudem, die Produktivitätsversprechen der KI seien von 'Exuberanz' geprägt, die wirtschaftlichen Effekte dürften ungleicher ausfallen als es der Hype suggeriert. Die Entwicklung trifft auf ohnehin nervöse Anleger, die nach der massiven Kursrally der vergangenen Monate genauer hinschauen, ob sich die Billionen-Investitionen in KI-Infrastruktur tatsächlich rechnen.",
-      "quelle": "Bloomberg",
+      "titel": "Anthropic ruestet Claude Enterprise mit neuen Admin- und Kostenkontrollen aus",
+      "text": "Anthropic hat am 3. Juli 2026 neue Verwaltungsfunktionen fuer Claude Enterprise vorgestellt, die Firmenkunden mehr Kontrolle ueber Nutzung und Ausgaben geben sollen. Zu den Neuerungen zaehlt ein erweitertes Analyse-Dashboard, das Nutzung und Kosten nach Team und einzelnen Mitarbeitern aufschluesselt, sowie eine neue Analytics-API, die Administratoren programmatischen Zugriff auf Nutzungs- und Kostendaten ueber alle Claude-Oberflaechen hinweg gibt, von Chat ueber Claude Code bis Cowork. Neu ist zudem eine Funktion, mit der Admins in natuerlicher Sprache Fragen stellen koennen, etwa welche Teams ihre Nutzung im vergangenen Monat verdoppelt haben, und dazu automatisch exportierbare Diagramme erhalten. Ergaenzt werden die Funktionen durch Modell-Berechtigungen auf Nutzer- und Gruppenebene sowie Ausgabenwarnungen, mit denen Unternehmen ueberraschende Kostenspitzen vermeiden sollen. Der Schritt zielt darauf ab, groessere Firmenkunden von Claude zu ueberzeugen, die zunehmend detaillierte Kostenkontrolle und Governance fuer den unternehmensweiten KI-Einsatz verlangen. Anthropic baut sein Enterprise-Angebot damit parallel zum eigenen Wachstum weiter aus, nachdem der jaehrliche Umsatzlauf des Unternehmens zuletzt deutlich zugelegt hatte.",
+      "quelle": "VentureBeat",
       "datum_artikel": "2026-07-03"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI bietet US-Regierung 5-Prozent-Anteil im Wert von 42,6 Milliarden Dollar an",
-      "text": "OpenAI-Chef Sam Altman hat in ersten Gesprächen mit der US-Regierung angeboten, ihr einen Anteil von 5 Prozent an OpenAI zu übertragen, der nach der Finanzierungsrunde vom März bei einer Bewertung von 852 Milliarden Dollar rund 42,6 Milliarden Dollar wert wäre. Der Vorschlag ist Teil von Altmans Idee eines 'Public Wealth Fund', eines staatlichen Fonds, der Anteile an führenden KI-Firmen halten und die wirtschaftlichen Gewinne stärker der Öffentlichkeit zugutekommen lassen soll. Laut Financial Times könnte das Modell auch auf andere große US-KI-Firmen wie Anthropic, Google und Meta ausgeweitet werden, die dann ähnliche Anteile an den Staat abgeben würden. Die Gespräche mit der Trump-Regierung laufen bereits seit über einem Jahr und befinden sich noch in einem frühen Stadium; eine formale Umsetzung würde aller Voraussicht nach die Zustimmung des Kongresses erfordern, was die Sache erheblich verkomplizieren würde. Hintergrund ist der wachsende politische Druck wegen der enormen Bewertungen und des gesellschaftlichen Nutzens von KI-Konzernen, dem Altman mit dem Angebot begegnen will.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-07-02",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Anthropic führt Gespräche mit Samsung über eigenen KI-Chip",
-      "text": "Anthropic steht laut einem Bericht von TechCrunch in Kontakt mit Samsung Electronics, um gemeinsam einen kundenspezifischen KI-Beschleuniger zu entwickeln. Konkrete Details wie der genaue Einsatzzweck des Chips, seine Rechenleistung oder die Einbindung in Serverarchitekturen stehen laut den Gesprächspartnern noch nicht fest, die Gespräche gelten als vorläufig. Ziel ist es, die Abhängigkeit von Nvidia-Chips zu verringern und eigene Hardware-Kapazitäten aufzubauen, ähnlich wie es OpenAI mit seinem gemeinsam mit Broadcom entwickelten Chip 'Jalapeño' bereits vorantreibt. Anthropic wächst weiterhin sehr schnell: Der jährliche Umsatzlauf des Unternehmens hat inzwischen die Marke von 30 Milliarden Dollar überschritten, was den Bedarf an zusätzlicher Rechenkapazität weiter antreibt. Ein eigener Chip würde Anthropic mittelfristig unabhängiger von den derzeit knappen und teuren Nvidia-Chips machen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-07-02",
+      "titel": "Anthropic verschaerft Vorgehen gegen chinesischen Zugriff auf Claude, Alibaba verbietet Claude Code",
+      "text": "Anthropic geht laut einem Bericht der Financial Times vom 3. Juli 2026 verstaerkt gegen Schlupfloecher vor, ueber die chinesische Firmen Zugang zu Claude erhalten, etwa ueber auslaendische Tochtergesellschaften in Singapur, Umwege ueber Microsoft Azure und private VPN-Verbindungen. Konkret soll der chinesische Konzern Ant seinen Mitarbeitern Claude-Firmenkonten ueber eine Singapur-Einheit bereitgestellt haben, waehrend ByteDance Mitarbeitern private Claude-Abos per VPN erstattet haben soll. Fast zeitgleich kuendigte der chinesische Technologiekonzern Alibaba laut Reuters und Bloomberg an, seinen Mitarbeitern ab dem 10. Juli die Nutzung von Anthropics Coding-Tool Claude Code am Arbeitsplatz zu untersagen, mit Verweis auf Sicherheitsbedenken, weil das Tool Nutzerumgebungen wie Zeitzonen und Proxy-Daten ausgelesen und unauffaellige Markierungen in Anfragen an Anthropics Server eingefuegt haben soll. Anthropic erklaerte dazu, es handle sich um ein bereits im Maerz gestartetes Experiment gegen Account-Missbrauch und Modell-Kopieren, nachdem das Unternehmen zuvor Alibaba beschuldigt hatte, ueber rund 25.000 betruegerisch erstellte Konten mehr als 28,8 Millionen Interaktionen mit Claude erzeugt zu haben. Alibaba-Mitarbeiter sollen kuenftig auf die konzerneigene Plattform Qoder ausweichen. Der Streit zeigt, wie sehr sich die Fronten zwischen US-KI-Anbietern und chinesischen Technologiekonzernen um Zugang, Sicherheit und geistiges Eigentum derzeit verhaerten.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-03",
       "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "NVIDIA bietet KI-Startups Rechenleistung gegen Umsatzbeteiligung an",
-      "text": "NVIDIA hat ein neues Programm gestartet, bei dem Entwickler und Startups ohne großes Kapital Zugang zu den gefragten KI-Chips des Unternehmens erhalten, indem sie im Gegenzug einen Anteil an ihren künftigen Umsätzen abtreten. Konkret vergibt NVIDIA dafür Token-Guthaben an Forscher und junge Unternehmen, die sich sonst keinen Zugang zu den knappen und teuren Großrechenressourcen leisten könnten. Ziel des Modells ist es, den Kundenkreis von NVIDIA über die finanzstarken Tech-Konzerne hinaus zu erweitern und frühzeitig Bindungen zu vielversprechenden jungen KI-Firmen aufzubauen. Die Initiative kommt zu einem Zeitpunkt, an dem der Wettbewerb um Rechenkapazität für KI-Modelle weiter zunimmt und kleinere Firmen gegenüber gut finanzierten Konzernen wie OpenAI oder Anthropic ins Hintertreffen zu geraten drohen. Für NVIDIA ist es zugleich eine Wette darauf, dass ein Teil dieser Startups künftig zu zahlenden Großkunden heranwächst.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-02",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Microsoft mobilisiert 6.000 Mitarbeiter für KI-Einführung bei Kunden",
-      "text": "Microsoft baut eine neue interne Organisation mit 6.000 Beschäftigten auf, die Unternehmenskunden bei der technischen und strategischen Einführung von Künstlicher Intelligenz unterstützen soll. Die Mitarbeiter sollen helfen, KI-Werkzeuge wie Copilot und Azure-KI-Dienste in bestehende Geschäftsprozesse zu integrieren, was für viele Firmen bislang eine große Hürde darstellt. Der Schritt zeigt, dass Microsoft die praktische Umsetzung von KI-Investitionen bei Kunden inzwischen als entscheidenden Wettbewerbsfaktor ansieht, da die reine Verfügbarkeit von Modellen allein nicht automatisch zu höherer Nutzung führt. Hintergrund ist der Druck, die milliardenschweren eigenen KI-Investitionen des Konzerns in konkrete Umsätze bei Firmenkunden zu übersetzen. Die Initiative dürfte auch als Reaktion auf Konkurrenten wie Google und Amazon zu verstehen sein, die ähnliche Beratungs- und Einführungsdienste für ihre KI-Plattformen ausbauen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-02",
-      "unternehmen": "Microsoft"
     }
   ],
-  "boerse_stories": [
-    {
-      "titel": "Goldpreis steigt nach schwachem US-Jobsbericht deutlich",
-      "text": "Der Goldpreis kletterte am Donnerstag um mehr als 2 Prozent auf über 4.100 Dollar je Feinunze und legte am Freitag weiter zu, nachdem die US-Regierung einen enttäuschenden Arbeitsmarktbericht für Juni veröffentlicht hatte. Die US-Wirtschaft schuf im Juni nur 57.000 neue Stellen, deutlich weniger als die von Ökonomen erwarteten rund 110.000 bis 115.000, während die Zahlen für April und Mai zusätzlich um insgesamt 74.000 Stellen nach unten revidiert wurden. Die Arbeitslosenquote fiel zwar leicht auf 4,2 Prozent, gleichzeitig sank aber die Erwerbsquote auf ein Fünfjahrestief. Als Reaktion senkten Anleger ihre Erwartungen an weitere Zinserhöhungen der US-Notenbank Fed: Laut dem CME-FedWatch-Tool fiel die eingepreiste Wahrscheinlichkeit für eine Zinserhöhung im September von 66 auf 50 Prozent. Da niedrigere Zinsen die Opportunitätskosten für das Halten von zinslosem Gold senken, profitierte der Goldpreis zusätzlich von einem schwächeren US-Dollar, der auf dem Weg zu seinem größten Wochenverlust seit April war.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-02"
-    },
-    {
-      "titel": "Dow erreicht Rekordhoch, Nasdaq gibt wegen Chip-Sorgen nach",
-      "text": "Vor dem langen Feiertagswochenende zum US-Unabhängigkeitstag legte der Dow Jones Industrial Average am Donnerstag um 594,83 Punkte beziehungsweise 1,14 Prozent auf ein Rekordhoch von 52.900,07 Punkten zu. Der marktbreite S&P 500 schloss mit 7.483,24 Punkten praktisch unverändert, während der technologielastige Nasdaq Composite um 0,8 Prozent auf 25.832,67 Punkte nachgab. Belastet wurde der Nasdaq vor allem von Halbleiterwerten: Der VanEck-Halbleiter-ETF (SMH) verlor 4,5 Prozent, mit Kurseinbrüchen von 13,6 Prozent bei Teradyne und 11,5 Prozent bei KLA. Auslöser für die unterschiedliche Entwicklung war der schwache US-Arbeitsmarktbericht für Juni, der einerseits Zinssenkungsfantasien beflügelte und so klassischen Standardwerten im Dow half, andererseits aber Sorgen über die Bewertung von KI- und Chip-Aktien neu befeuerte. Die US-Börsen blieben am Freitag wegen des Feiertags geschlossen, der Handel wird erst am Montag wieder aufgenommen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-02"
-    },
-    {
-      "titel": "EZB uneins über weitere Zinsschritte, sinkender Ölpreis dämpft Inflationsdruck",
-      "text": "Beim jährlichen Notenbank-Symposium im portugiesischen Sintra zeigten sich Vertreter der Europäischen Zentralbank uneinig darüber, ob die Zinsen nach der jüngsten Erhöhung als Reaktion auf den Iran-Krieg weiter steigen müssen, um die Inflation zurück auf das Zwei-Prozent-Ziel zu bringen. EZB-Ratsmitglied Emmanuel Moulin sagte, die Notenbank befinde sich dank des fallenden Ölpreises derzeit in einer komfortablen Lage. Der Ölpreis war seit Mitte Dezember wegen der US- und israelischen Angriffe auf den Iran und der iranischen Vergeltung zunächst um bis zu 84 Prozent auf rund 104 Dollar je Barrel gestiegen, gibt inzwischen aber wieder nach und nimmt damit Druck von den Verbraucherpreisen in der Eurozone. Die uneinheitliche Haltung der EZB-Vertreter zeigt, wie schwer eine geldpolitische Prognose angesichts der weiter volatilen Geopolitik im Nahen Osten fällt. Für Anleger in Europa ist das relevant, weil ein Ende des EZB-Zinserhöhungszyklus Aktien- und Anleihemärkte stützen könnte, während neue Eskalationen im Nahen Osten den Ölpreis und damit die Inflation erneut anheizen könnten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-03"
-    }
-  ]
+  "boerse_stories": []
 }
