@@ -1,22 +1,20 @@
 {
-  "datum": "Sonntag, 5. Juli 2026",
-  "generiert": "2026-07-05",
-  "ki_stories": [
+  "datum": "Montag, 6. Juli 2026",
+  "generiert": "2026-07-06",
+  "ki_stories": [],
+  "unternehmen_stories": [],
+  "boerse_stories": [
     {
-      "titel": "Anthropic ruestet Claude Enterprise mit neuen Admin- und Kostenkontrollen aus",
-      "text": "Anthropic hat am 3. Juli 2026 neue Verwaltungsfunktionen fuer Claude Enterprise vorgestellt, die Firmenkunden mehr Kontrolle ueber Nutzung und Ausgaben geben sollen. Zu den Neuerungen zaehlt ein erweitertes Analyse-Dashboard, das Nutzung und Kosten nach Team und einzelnen Mitarbeitern aufschluesselt, sowie eine neue Analytics-API, die Administratoren programmatischen Zugriff auf Nutzungs- und Kostendaten ueber alle Claude-Oberflaechen hinweg gibt, von Chat ueber Claude Code bis Cowork. Neu ist zudem eine Funktion, mit der Admins in natuerlicher Sprache Fragen stellen koennen, etwa welche Teams ihre Nutzung im vergangenen Monat verdoppelt haben, und dazu automatisch exportierbare Diagramme erhalten. Ergaenzt werden die Funktionen durch Modell-Berechtigungen auf Nutzer- und Gruppenebene sowie Ausgabenwarnungen, mit denen Unternehmen ueberraschende Kostenspitzen vermeiden sollen. Der Schritt zielt darauf ab, groessere Firmenkunden von Claude zu ueberzeugen, die zunehmend detaillierte Kostenkontrolle und Governance fuer den unternehmensweiten KI-Einsatz verlangen. Anthropic baut sein Enterprise-Angebot damit parallel zum eigenen Wachstum weiter aus, nachdem der jaehrliche Umsatzlauf des Unternehmens zuletzt deutlich zugelegt hatte.",
-      "quelle": "VentureBeat",
-      "datum_artikel": "2026-07-03"
-    }
-  ],
-  "unternehmen_stories": [
+      "titel": "Tech-Aktien setzen Erholung fort, asiatische Chip-Werte legen weiter zu",
+      "text": "Nach einem heftigen Ausverkauf bei Technologie- und Chip-Aktien Ende Juni wegen Sorgen ueber die hohen KI-Investitionen der Branche hat sich die Erholung an den Boersen fortgesetzt. Am Freitag, den 3. Juli, sprang der suedkoreanische Kospi-Index um 5,76 Prozent, angefuehrt von Samsung Electronics mit plus 8,74 Prozent und SK Hynix mit plus 11,32 Prozent. Laut Bloomberg legten asiatische Aktien am Montag, den 6. Juli, weiter zu, die US-Aktien-Futures hielten die Gewinne vom Freitag, und der Kospi stieg um weitere 1,8 Prozent, angefuehrt erneut von den Chipwerten. Getrieben wird die Erholung von der Hoffnung, dass die US-Notenbank Fed wegen eines schwaecher als erwarteten Arbeitsmarktberichts (nur 57.000 neue Stellen im Juni, der schwaechste Wert seit vier Monaten) vorerst auf eine Zinserhoehung verzichtet. Fuer Anleger im S&P 500, relevant etwa fuer den FTSE All World, bedeutet das eine Entspannung nach einer zwischenzeitlich turbulenten Woche, auch wenn die zugrunde liegenden Sorgen um hohe KI-Investitionen der Tech-Konzerne nicht ausgeraeumt sind.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-05"
+    },
     {
-      "titel": "Anthropic verschaerft Vorgehen gegen chinesischen Zugriff auf Claude, Alibaba verbietet Claude Code",
-      "text": "Anthropic geht laut einem Bericht der Financial Times vom 3. Juli 2026 verstaerkt gegen Schlupfloecher vor, ueber die chinesische Firmen Zugang zu Claude erhalten, etwa ueber auslaendische Tochtergesellschaften in Singapur, Umwege ueber Microsoft Azure und private VPN-Verbindungen. Konkret soll der chinesische Konzern Ant seinen Mitarbeitern Claude-Firmenkonten ueber eine Singapur-Einheit bereitgestellt haben, waehrend ByteDance Mitarbeitern private Claude-Abos per VPN erstattet haben soll. Fast zeitgleich kuendigte der chinesische Technologiekonzern Alibaba laut Reuters und Bloomberg an, seinen Mitarbeitern ab dem 10. Juli die Nutzung von Anthropics Coding-Tool Claude Code am Arbeitsplatz zu untersagen, mit Verweis auf Sicherheitsbedenken, weil das Tool Nutzerumgebungen wie Zeitzonen und Proxy-Daten ausgelesen und unauffaellige Markierungen in Anfragen an Anthropics Server eingefuegt haben soll. Anthropic erklaerte dazu, es handle sich um ein bereits im Maerz gestartetes Experiment gegen Account-Missbrauch und Modell-Kopieren, nachdem das Unternehmen zuvor Alibaba beschuldigt hatte, ueber rund 25.000 betruegerisch erstellte Konten mehr als 28,8 Millionen Interaktionen mit Claude erzeugt zu haben. Alibaba-Mitarbeiter sollen kuenftig auf die konzerneigene Plattform Qoder ausweichen. Der Streit zeigt, wie sehr sich die Fronten zwischen US-KI-Anbietern und chinesischen Technologiekonzernen um Zugang, Sicherheit und geistiges Eigentum derzeit verhaerten.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-03",
-      "unternehmen": "Anthropic"
+      "titel": "Goldpreis haelt sich nahe 4.190 Dollar nach bestem Wochengewinn seit Mai",
+      "text": "Der Goldpreis hat sich laut Bloomberg bei rund 4.190 US-Dollar je Feinunze stabilisiert, nachdem das Edelmetall in der vergangenen Woche mit etwa plus 2,3 Prozent den ersten Wochengewinn seit Mai verzeichnet hatte. Ausloeser war der enttaeuschende US-Arbeitsmarktbericht vom 2. Juli mit nur 57.000 neuen Stellen, der die Markterwartungen fuer eine weitere Zinserhoehung der Fed deutlich daempfte. Laut CME FedWatch fiel die eingepreiste Wahrscheinlichkeit einer Zinserhoehung im September von 66 auf rund 50 Prozent. Niedrigere Zinserwartungen verringern die Opportunitaetskosten des zinslosen Goldes und stuetzen daher den Preis, zusaetzlich steuert der US-Dollar auf den groessten Wochenverlust seit April zu, was Gold fuer Kaeufer in anderen Waehrungen guenstiger macht. Die Feinunze bleibt damit zwar deutlich unter ihrem Rekordhoch von 5.597 Dollar aus dem Januar, die Stabilisierung deutet laut Bloomberg aber darauf hin, dass die Sorgen vor weiteren Zinserhoehungen vorerst nachlassen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-05"
     }
-  ],
-  "boerse_stories": []
+  ]
 }
