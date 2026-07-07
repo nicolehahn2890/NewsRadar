@@ -1,20 +1,61 @@
 {
-  "datum": "Montag, 6. Juli 2026",
-  "generiert": "2026-07-06",
-  "ki_stories": [],
-  "unternehmen_stories": [],
-  "boerse_stories": [
+  "datum": "Dienstag, 7. Juli 2026",
+  "generiert": "2026-07-07",
+  "ki_stories": [
     {
-      "titel": "Tech-Aktien setzen Erholung fort, asiatische Chip-Werte legen weiter zu",
-      "text": "Nach einem heftigen Ausverkauf bei Technologie- und Chip-Aktien Ende Juni wegen Sorgen ueber die hohen KI-Investitionen der Branche hat sich die Erholung an den Boersen fortgesetzt. Am Freitag, den 3. Juli, sprang der suedkoreanische Kospi-Index um 5,76 Prozent, angefuehrt von Samsung Electronics mit plus 8,74 Prozent und SK Hynix mit plus 11,32 Prozent. Laut Bloomberg legten asiatische Aktien am Montag, den 6. Juli, weiter zu, die US-Aktien-Futures hielten die Gewinne vom Freitag, und der Kospi stieg um weitere 1,8 Prozent, angefuehrt erneut von den Chipwerten. Getrieben wird die Erholung von der Hoffnung, dass die US-Notenbank Fed wegen eines schwaecher als erwarteten Arbeitsmarktberichts (nur 57.000 neue Stellen im Juni, der schwaechste Wert seit vier Monaten) vorerst auf eine Zinserhoehung verzichtet. Fuer Anleger im S&P 500, relevant etwa fuer den FTSE All World, bedeutet das eine Entspannung nach einer zwischenzeitlich turbulenten Woche, auch wenn die zugrunde liegenden Sorgen um hohe KI-Investitionen der Tech-Konzerne nicht ausgeraeumt sind.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-05"
+      "titel": "Anthropic entdeckt inneren 'Denkraum' bei Claude",
+      "text": "Anthropic hat am 6. Juli 2026 eine Studie veroeffentlicht, die einen internen Bereich in Claude beschreibt - den sogenannten J-Space, benannt nach der mathematischen Jacobian-Methode, mit der er entdeckt wurde. Dieser Bereich fungiert wie ein funktionaler Arbeitsspeicher fuer Gedanken, die das Modell festhalten, weiterverarbeiten und manchmal offenlegen kann, bevor sie in der finalen Antwort erscheinen. Anthropic identifizierte fuenf Funktionsmerkmale, darunter dass J-Space-Muster nachweislich mehrstufiges Schlussfolgern kausal steuern - auch Zwischenschritte, die nie in der sichtbaren Antwort auftauchen. Das Unternehmen betont ausdruecklich, dass dies ein Hinweis auf sogenannte 'access consciousness' ist, also funktionale, berichtbare innere Zustaende, aber keine Aussage ueber echtes Bewusstsein oder subjektives Erleben von Claude. Die Forschung gilt als bedeutender Schritt fuer die KI-Interpretierbarkeit, da sie erstmals zeigt, wie Sprachmodelle intern Gedanken vor der Ausgabe verarbeiten.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-07-06"
     },
     {
-      "titel": "Goldpreis haelt sich nahe 4.190 Dollar nach bestem Wochengewinn seit Mai",
-      "text": "Der Goldpreis hat sich laut Bloomberg bei rund 4.190 US-Dollar je Feinunze stabilisiert, nachdem das Edelmetall in der vergangenen Woche mit etwa plus 2,3 Prozent den ersten Wochengewinn seit Mai verzeichnet hatte. Ausloeser war der enttaeuschende US-Arbeitsmarktbericht vom 2. Juli mit nur 57.000 neuen Stellen, der die Markterwartungen fuer eine weitere Zinserhoehung der Fed deutlich daempfte. Laut CME FedWatch fiel die eingepreiste Wahrscheinlichkeit einer Zinserhoehung im September von 66 auf rund 50 Prozent. Niedrigere Zinserwartungen verringern die Opportunitaetskosten des zinslosen Goldes und stuetzen daher den Preis, zusaetzlich steuert der US-Dollar auf den groessten Wochenverlust seit April zu, was Gold fuer Kaeufer in anderen Waehrungen guenstiger macht. Die Feinunze bleibt damit zwar deutlich unter ihrem Rekordhoch von 5.597 Dollar aus dem Januar, die Stabilisierung deutet laut Bloomberg aber darauf hin, dass die Sorgen vor weiteren Zinserhoehungen vorerst nachlassen.",
+      "titel": "Anthropic wirft chinesischen KI-Firmen Wissensdiebstahl bei Claude vor",
+      "text": "Anthropic hat in einem Schreiben vom 10. Juni 2026 Alibaba-nahen Firmen vorgeworfen, Claude in grossem Stil 'auszudestillieren': Rund 29 Millionen Anfragen ueber etwa 25.000 betruegerische Konten sollen genutzt worden sein, um Claudes Faehigkeiten fuer konkurrierende Modelle zu kopieren. Zusaetzlich identifizierte Anthropic aehnliche Kampagnen der chinesischen Labore DeepSeek, Moonshot und MiniMax mit ueber 16 Millionen Anfragen ueber rund 24.000 gefaelschte Konten. Um solche Angriffe zu erkennen, hatte Anthropic laut Washington Post bereits im Maerz heimlich eine Erkennungslogik in Claude Code eingebaut, die Nutzer ueber China-Proxys identifiziert, unter anderem durch unsichtbare Unicode-Zeichen und veraenderte Datumsformate. Nachdem das oeffentlich wurde, verbot Alibaba seinen Mitarbeitern ab dem 10. Juli die Nutzung von Claude Code, und Anthropic entfernte den Erkennungsmechanismus am 1. Juli wieder aus dem Code. Der Vorfall zeigt die wachsenden Spannungen zwischen US- und chinesischen KI-Firmen um geistiges Eigentum und Marktzugang.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-07-06"
+    },
+    {
+      "titel": "Altman schlaegt globale KI-Aufsicht und Staatsbeteiligung an OpenAI vor",
+      "text": "OpenAI-Chef Sam Altman hat laut Financial Times und Forbes vorgeschlagen, ein von den USA gefuehrtes internationales Gremium zu schaffen, das weltweite Sicherheitsstandards fuer KI-Modelle festlegt und Staaten sowie Firmen, die sich an die Regeln halten, Zugang zur Technologie gewaehrt. Als Vorbilder nannte er die internationale Luftfahrtsicherheit, globale Finanzstandards und die Internationale Atomenergiebehoerde. Parallel dazu erwaegt OpenAI, der US-Regierung eine 5-Prozent-Beteiligung anzubieten - bei der Bewertung von 40 Milliarden Dollar aus der Finanzierungsrunde im Maerz waere das rund 42,6 Milliarden Dollar wert. Altman schlaegt vor, dass auch andere grosse US-KI-Firmen wie Anthropic, Google und Meta jeweils 5 Prozent ihrer Anteile in einen Fonds nach Vorbild des Alaska Permanent Fund einbringen, der Buergern Dividenden auszahlt. Ein solcher Deal wuerde vermutlich ein Gesetz des US-Kongresses erfordern, und laut Beteiligten befinden sich die Gespraeche noch in einem fruehen, konzeptionellen Stadium.",
+      "quelle": "Forbes",
+      "datum_artikel": "2026-07-06"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "Broadcom und Apple verlaengern Chip-Partnerschaft bis 2031",
+      "text": "Broadcom hat laut Bloomberg am 6. Juli 2026 eine Ausweitung seiner Partnerschaft mit Apple bekanntgegeben, die nun bis 2031 laeuft. Im Zentrum der neuen Vereinbarung stehen kundenspezifische ASIC-Chips, die kuenftig in mehreren Generationen von Apple-Produkten verbaut werden sollen. Apple macht etwa 20 Prozent des Jahresumsatzes von Broadcom aus, was die Beziehung strategisch besonders wichtig macht. Broadcom liefert bereits seit Jahren zentrale Bauteile fuer Apple, darunter kundenspezifische Hochfrequenzchips fuer iPhones sowie WLAN- und Bluetooth-Chips. Die Nachricht liess die Broadcom-Aktie um mehr als 5 Prozent steigen. Fuer Apple sichert der Deal langfristig den Zugang zu wichtigen Chips, ohne zu stark von externen Lieferketten-Risiken abhaengig zu sein.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-05"
+      "datum_artikel": "2026-07-06",
+      "unternehmen": "Broadcom"
+    },
+    {
+      "titel": "Bericht ueber Verzoegerung bei Nvidias KI-Servern schickt Tech-Aktien auf Talfahrt",
+      "text": "Ein Bericht des Analysehauses SemiAnalysis, wonach Nvidias KI-Server-Racksystem der naechsten Generation namens Kyber NVL144 sich wegen Fertigungsproblemen bei Leiterplatten um mehr als ein Jahr verzoegert, liess am 6. Juli 2026 asiatische Technologieaktien und Zulieferer deutlich einbrechen. Nvidia widersprach den Befuerchtungen und erklaerte, die eigene Roadmap sei intakt. Trotz des Dementis reagierten Anleger nervoes, da Kyber NVL144 als zentraler Baustein fuer die naechste Generation von KI-Rechenzentren gilt. Der Bericht traf besonders Zulieferer aus der Leiterplatten- und Serverfertigung in Taiwan und Suedostasien. Die Episode zeigt, wie sensibel der Markt derzeit auf jede Meldung rund um Nvidias Lieferkette reagiert, da ein Grossteil der KI-Investitionen von Big Tech auf puenktliche Nvidia-Hardware angewiesen ist.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-06",
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "Nvidia-Zulieferer Hon Hai meldet Umsatzsprung dank anhaltender KI-Nachfrage",
+      "text": "Der taiwanesische Nvidia-Partner Hon Hai Precision Industry (Foxconn) hat laut Bloomberg am 5. Juli 2026 einen staerker als erwarteten Quartalsumsatzsprung von 40 Prozent gemeldet. Das Unternehmen begruendete das Wachstum mit weiter steigender Nachfrage nach KI-Servern und erklaerte, dass die Auslieferungen von KI-Racks im laufenden Quartal ihre Dynamik beibehalten duerften. Hon Hai ist einer der wichtigsten Montagepartner fuer Nvidias Server-Hardware und gilt daher als frueher Indikator fuer die tatsaechliche Nachfrage im KI-Infrastrukturmarkt. Die Zahlen kontrastieren mit dem zeitgleich kursierenden Bericht ueber moegliche Verzoegerungen bei Nvidias naechster Server-Generation und deuten darauf hin, dass die aktuelle Nachfrage nach bestehender Hardware ungebrochen hoch bleibt. Anleger werteten die Zahlen als Bestaetigung, dass der KI-Hardware-Boom trotz einzelner Lieferketten-Sorgen noch nicht an Schwung verliert.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-05",
+      "unternehmen": "NVIDIA"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "S&P 500 und Dow erreichen neue Rekorde dank KI-Rally",
+      "text": "Der S&P 500 schloss am 6. Juli 2026 bei 7.537,43 Punkten, ein Plus von 54,19 Punkten bzw. 0,72 Prozent, waehrend der Dow Jones erstmals die Marke von 53.000 Punkten ueberschritt und einen neuen Schlussrekord aufstellte. Der Nasdaq 100 legte um 1,3 Prozent zu, angetrieben von grossen Technologiewerten. Nvidia bestaetigte trotz eines Berichts ueber moegliche Verzoegerungen bei seiner naechsten Server-Generation, dass die eigene Roadmap intakt sei, was die Anleger beruhigte. Zusaetzlichen Auftrieb gab die Ausweitung der Chip-Partnerschaft zwischen Broadcom und Apple bis 2031, woraufhin die Broadcom-Aktie deutlich zulegte. Die Rally naehrt Spekulationen, dass der KI-Handel, der die Hausse der vergangenen Jahre angetrieben hat, noch nicht ausgereizt ist.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-06"
+    },
+    {
+      "titel": "Goldpreis gibt nach starkem Dollar und Fed-Erwartungen leicht nach",
+      "text": "Der Goldpreis fiel am 6. Juli 2026 zeitweise auf rund 4.140 US-Dollar je Feinunze und damit von den Zwei-Wochen-Hochs zurueck, bevor er sich wieder auf etwa 4.164 Dollar erholte. Grund fuer den Rueckgang war ein staerkerer US-Dollar, der Gold fuer Kaeufer mit anderen Waehrungen verteuert. Gleichzeitig daempften schwaecher als erwartete US-Arbeitsmarktdaten vom Vormonat die Sorgen vor einer aggressiveren Zinspolitik der US-Notenbank Fed, was den Goldpreis stuetzte. Anleger warten nun auf das Protokoll der juengsten Fed-Sitzung sowie auf die naechste Zinsentscheidung Ende Juli. Trotz der juengsten Schwaeche liegt Gold noch immer rund 25 Prozent ueber dem Niveau vor einem Jahr, nachdem der Preis im Januar 2026 mit ueber 5.500 Dollar je Unze ein Rekordhoch erreicht hatte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-06"
     }
   ]
 }
