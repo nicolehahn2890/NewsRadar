@@ -1,73 +1,54 @@
 {
-  "datum": "Mittwoch, 8. Juli 2026",
-  "generiert": "2026-07-08",
+  "datum": "Donnerstag, 9. Juli 2026",
+  "generiert": "2026-07-09",
   "ki_stories": [
     {
-      "titel": "Chinesische KI-Modelle setzen OpenAI und Anthropic bei Kosten unter Druck",
-      "text": "Das chinesische Modell GLM 5.2 von Z.ai erreicht bei einem viel beachteten Agenten-Benchmark fast das Niveau von Anthropics Opus 4.8 - und das zu etwa einem Fünftel der Kosten. US-Unternehmen wechseln laut Berichten zunehmend zu chinesischen Open-Source-Modellen, die 60 bis 90 Prozent günstiger sind als die Spitzenmodelle von OpenAI und Anthropic. Laut dem Infrastruktur-Anbieter Vercel wuchs das tägliche Token-Volumen von GLM 5.2 in der ersten vollen Woche nach dem Start im Juni um das rund 27-fache, die Kundenzahl um das 80-fache. Viele Firmen routen Aufgaben, die keine Spitzenleistung erfordern, inzwischen gezielt zum günstigsten ausreichend guten Modell. Das setzt OpenAI und Anthropic unter Preisdruck, da Kunden bei steigenden KI-Kosten spürbar preisbewusster werden. Für die beiden US-Marktführer droht damit ein Wettlauf um niedrigere Preise bei gleichzeitig hohen Infrastrukturkosten.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-07"
+      "titel": "OpenAI schaltet neue GPT-5.6-Modelle Sol, Terra und Luna für alle frei",
+      "text": "OpenAI hat am 9. Juli 2026 seine neue Modellfamilie GPT-5.6 mit den Varianten Sol, Terra und Luna öffentlich freigegeben, nachdem seit dem 26. Juni nur rund 20 ausgewählte Partnerorganisationen Zugang hatten. Sol ist das leistungsstärkste Modell für komplexes Reasoning, Programmieren und wissenschaftliche Aufgaben, Terra die günstigere Alltagsvariante und Luna die schnellste, kosteneffizienteste Option. Der öffentliche Start verzögerte sich um rund zwei Wochen, weil die US-Regierung wegen der starken Cybersicherheits-Fähigkeiten der Modelle zunächst eine Sicherheitsprüfung verlangte. Sol bringt außerdem einen neuen Modus für besonders tiefes Reasoning sowie einen Ultra-Modus mit, der mehrere Subagenten parallel an komplexen Projekten arbeiten lässt. Der Schritt verschärft den Wettbewerb mit Anthropics Claude-Modellen und Googles für Mitte Juli angekündigtem Gemini 3.5 Pro.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-07-09"
     },
     {
-      "titel": "Meta startet eigenes Bild-KI-Modell Muse Image in Instagram und WhatsApp",
-      "text": "Meta hat mit Muse Image sein erstes selbst entwickeltes Bildgenerierungsmodell vorgestellt, entwickelt von den Meta Superintelligence Labs unter Alexandr Wang. Das Modell ist ab sofort im Meta-AI-Chatbot verfügbar und wird schrittweise in Instagram und WhatsApp eingebunden. Nutzer können Bilder aus Text-Prompts erstellen oder bestehende Fotos gezielt bearbeiten, etwa Objekte austauschen, Hintergründe ändern oder den Stil anpassen. Eine Funktion erlaubt es sogar, Bilder mit Freunden oder Creators zu erstellen, basierend auf deren öffentlichen Instagram-Fotos. Auf Instagram treibt Muse Image bereits mehr als 30 neue KI-Effekte für Stories an, in ausgewählten Ländern können WhatsApp-Nutzer direkt im Chat Bilder generieren. Die Grundfunktion ist kostenlos, höhere Nutzungslimits gibt es über Metas im Mai gestartete Abo-Pläne. Damit zieht Meta im Wettlauf um KI-gestützte Kreativ-Tools mit OpenAI und Google gleich.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-07"
-    },
-    {
-      "titel": "Nobelpreisträger warnt: KI bringt keine neue Ära des Wirtschaftswachstums",
-      "text": "Der Nobelpreisträger Christopher Pissarides, Experte für die Auswirkungen von Automatisierung auf die Arbeitswelt, warnt in einem Bloomberg-Interview davor, dass Künstliche Intelligenz westliche Volkswirtschaften nicht in eine neue Ära schnellen Produktivitätswachstums zurückbringen wird. Er sieht bislang kaum Anzeichen für einen messbaren Produktivitätsschub durch KI und stellt damit Aussagen von Führungsfiguren wie Nvidia-Chef Jensen Huang und OpenAI-Chef Sam Altman infrage, die der Technologie weitreichende Folgen für die Arbeitswelt zuschreiben. Laut Pissarides wären bis zu vier von zehn Jobs in den USA und Grossbritannien, etwa in der Pflege und im Gastgewerbe, von KI kaum betroffen. Er geht davon aus, dass die Zeit schnellen Produktivitätswachstums vorbei ist, unabhängig davon, was unternommen wird. Die Aussagen dämpfen die hohen Erwartungen, die derzeit an milliardenschwere KI-Investitionen von Tech-Konzernen geknüpft werden. Sie liefern damit auch Argumente für Kritiker, die die aktuellen Bewertungen von KI- und Chip-Aktien für überzogen halten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-07"
+      "titel": "China wirft Anthropics Claude Code eine Sicherheits-Backdoor vor",
+      "text": "Chinas Industrieministerium warnte am 8. Juli 2026, dass Anthropics Coding-Tool Claude Code eine ernsthafte Sicherheitslücke im Stil einer Backdoor enthalte. Betroffen seien die Versionen 2.1.91 bis 2.1.196, die zwischen April und Ende Juni veröffentlicht wurden; laut chinesischer Cybersicherheitsplattform könne das Tool Standort- und Identitätsdaten von Nutzern ohne deren Zustimmung an entfernte Server senden. Anthropic entgegnete, es handle sich um einen experimentellen Mechanismus gegen den unerlaubten Nachbau (Distillation) seiner Modelle, und Claude sei in China ohnehin gar nicht offiziell zugelassen. Als Reaktion kündigte der chinesische Tech-Konzern Alibaba an, ab dem 10. Juli allen Mitarbeitenden die dienstliche Nutzung von Anthropic-Werkzeugen zu untersagen. Laut Financial Times geht Anthropic zudem gezielt gegen Umgehungswege vor, über die chinesische Firmen wie die Ant Group bislang über Drittstaaten-Konten auf Claude zugreifen konnten.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-08"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Microsoft ersetzt OpenAI und Anthropic durch eigene KI in Excel und Outlook",
-      "text": "Microsoft baut in den Office-Anwendungen Excel und Outlook zunehmend auf eigene KI-Modelle statt auf OpenAI und Anthropic, um Kosten zu senken. Laut Bloomberg werden inzwischen zehntausende KI-Anfragen pro Woche in beiden Programmen von firmeneigenen MAI-Modellen beantwortet. KI-Chef Mustafa Suleyman sagte im Juni, Microsoft zahle sehr viel Geld an Anthropic und wolle diese Kosten reduzieren und langfristig ganz eliminieren. Auf der Entwicklerkonferenz Build im Juni stellte Microsoft sieben neue KI-Modelle vor, von denen eines bei Programmieraufgaben an das ältere Anthropic-Modell Opus 4.6 heranreichen soll, aber günstiger ist. Die eigenen Modelle decken bislang nur einen kleinen Teil aller Anfragen ab, Microsoft will den Anteil aber schrittweise ausbauen. Der Schritt zeigt, wie stark der Preisdruck durch KI-Infrastrukturkosten selbst bei den grössten Technologiekonzernen inzwischen ist.",
+      "titel": "Bank of America gewährt OpenAI Kreditlinie über 520 Millionen Dollar",
+      "text": "Bank of America hat OpenAI laut einem Bloomberg-Bericht vom 8. Juli 2026 eine Kreditlinie über 520 Millionen US-Dollar eingeräumt, nachdem die Bank einen früheren Antrag des ChatGPT-Betreibers noch abgelehnt hatte. Der Sinneswandel gilt als Signal, dass große US-Banken ihre bislang zurückhaltende Haltung gegenüber der Finanzierung von KI-Unternehmen aufweichen. Hintergrund ist unter anderem OpenAIs laufende Vorbereitung auf einen möglichen Börsengang, bei dem sich Bank of America offenbar eine Rolle sichern will. OpenAI kämpft zugleich mit hohen Rechenzentrums- und Kapitalkosten, während der Konzern sein Nutzerwachstum und neue Modelle wie GPT-5.6 vorantreibt. Die Kreditzusage unterstreicht, wie bereit etablierte Finanzinstitute inzwischen sind, sich am Finanzierungsbedarf des KI-Booms zu beteiligen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-07",
-      "unternehmen": "Microsoft"
+      "datum_artikel": "2026-07-08",
+      "unternehmen": "OpenAI"
     },
     {
-      "titel": "Nvidias nächstes KI-Server-System Kyber verzögert sich bis 2028",
-      "text": "Das Marktforschungsunternehmen SemiAnalysis berichtet, dass sich Nvidias nächste Generation des KI-Server-Racks Kyber NVL144 um mehr als ein Jahr auf 2028 verzögert. Grund seien Fertigungsprobleme bei der sogenannten PCB-Midplane, einer speziellen Leiterplatte, die 144 Nvidia-Hochleistungschips zu einem gemeinsamen Riesenrechner verbindet. Laut dem Bericht ist zudem die grössere Variante NVL576 wahrscheinlich verzögert oder nur in geringen Stückzahlen verfügbar, eine Zwischenlösung namens NVL72x2 wurde demnach ganz gestrichen. Die Nachricht sorgte am 6. Juli für einen Kursrutsch bei asiatischen Zulieferern von Leiterplatten und Servern. Nvidia widersprach dem Bericht und erklärte, der eigene Produkt-Fahrplan sei intakt, ging aber nicht auf Details ein. Sollte sich die Verzögerung bestätigen, könnte das Auswirkungen auf die Ausbaupläne grosser KI-Rechenzentren haben, die auf die nächste Chip-Generation warten.",
+      "titel": "NVIDIA verliert binnen zwei Monaten rund eine Billion Dollar an Börsenwert",
+      "text": "NVIDIA hat laut einem Bloomberg-Bericht vom 8. Juli 2026 in weniger als zwei Monaten rund eine Billion US-Dollar an Marktwert verloren, nachdem die Aktie seit ihrem Rekordhoch am 14. Mai um etwa 16 Prozent gefallen ist. Damit liegt die Bewertung des Chipkonzerns wieder auf dem Niveau vor dem aktuellen KI-Boom. Haupttreiber ist eine Umschichtung von Investoren weg von NVIDIA hin zu Konkurrenten wie Micron, Intel und AMD, die von steigenden Preisen für Hochleistungs-Speicherchips profitieren und im zweiten Quartal zusammen rund 2 Billionen Dollar an Marktkapitalisierung hinzugewannen. Analysten betonen, dass sich das operative Geschäft von NVIDIA dabei nicht verschlechtert hat: Der Marktanteil bei Server-GPUs liegt weiterhin bei rund 97 Prozent, und Gewinnschätzungen wurden zuletzt sogar angehoben. Der Kursrückgang spiegelt daher eher Bewertungssorgen bei einem knapp 5 Billionen Dollar schweren Unternehmen und eine Neuausrichtung des breiteren KI-Handels wider als ein nachlassendes KI-Geschäft.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-06",
+      "datum_artikel": "2026-07-08",
       "unternehmen": "NVIDIA"
     },
     {
-      "titel": "Chinesische Firmen wenden sich zunehmend von Nvidia ab",
-      "text": "Eine Umfrage von Bloomberg Intelligence unter 60 Führungskräften aus chinesischer Software-, Finanz-, Industrie- und Handelsbranche zeigt: Chinesische Unternehmen wollen künftig 46 Prozent ihres Budgets für KI-Chips an heimische Anbieter vergeben, verglichen mit 30 Prozent aktuell. Als Hauptprofiteure gelten Tencent, Alibaba und Huawei, die sowohl Infrastruktur als auch Chips liefern. 80 Prozent der Befragten überschreiten laut der Umfrage bereits ihr Infrastrukturbudget für 2026, die hohen Kosten des KI-Ausbaus gelten als Hauptgrund. Nvidias H20-Chips, von deren Nutzung Peking chinesischen Firmen abgeraten hat, werden zunehmend schwerer verfügbar. Nvidias Marktanteil in China dürfte laut der Umfrage weiter schrumpfen, auch wenn die Produkte weiterhin gefragt sind. Die Entwicklung unterstreicht, wie stark geopolitische Spannungen die globale KI-Chip-Landschaft derzeit verändern.",
+      "titel": "xAI und Cursor stellen Grok 4.5 für Finanz- und Rechtsaufgaben vor",
+      "text": "Elon Musks xAI hat gemeinsam mit dem Coding-Startup Cursor am 8. Juli 2026 das neue Modell Grok 4.5 vorgestellt, das gezielt für Finanz-, Rechts- und Programmieraufgaben optimiert ist. Es ist das erste gemeinsame KI-Modell der beiden Firmen und kommt wenige Wochen, nachdem SpaceX die Übernahme von Cursor für rund 60 Milliarden US-Dollar vereinbart hatte. xAI verfolgt damit die Strategie, gezielt Finanzinstitute wie Morgan Stanley und Apollo als Grok-Nutzer zu gewinnen, um vor dem geplanten Börsengang von SpaceX zusätzliche Einnahmen zu erschließen. Das Modell soll im direkten Wettbewerb zu spezialisierten Angeboten von Anthropic und OpenAI im Bereich professioneller Finanz- und Rechtsanwendungen stehen. Die enge Verzahnung von xAI, Cursor und SpaceX zeigt, wie Musk seine Unternehmen zunehmend als integriertes KI-Ökosystem positioniert.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-07",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Amazon nimmt mindestens 25 Milliarden Dollar per Anleihe für KI-Ausbau auf",
-      "text": "Amazon hat am 7. Juli eine Anleihe in acht Tranchen mit Laufzeiten zwischen drei und 40 Jahren gestartet, um mindestens 25 Milliarden Dollar für den Ausbau der KI-Infrastruktur einzusammeln. Die anfängliche Nachfrage lag laut Berichten bei bis zu 62 Milliarden Dollar, wurde aber nach Anpassung der Zinsaufschläge auf rund 41 Milliarden Dollar reduziert. Amazon signalisierte den Banken, im weiteren Jahresverlauf 2026 keine weiteren Anleihen mehr auszugeben. Der Konzern hat 2026 bereits 54 Milliarden Dollar in US- und Euro-Anleihen sowie 10 Milliarden kanadische Dollar aufgenommen. Amazons Investitionsausgaben sollen 2026 auf rund 200 Milliarden Dollar steigen, nach 131 Milliarden Dollar im Vorjahr, vor allem für Rechenzentren und Chips. Zusammen mit Microsoft, Alphabet und Meta dürften die grössten Tech-Konzerne 2026 mehr als 700 Milliarden Dollar in KI investieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-07",
-      "unternehmen": "Amazon"
+      "datum_artikel": "2026-07-08",
+      "unternehmen": "xAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Chip-Ausverkauf reisst S&P 500 und Nasdaq mit nach unten",
-      "text": "Am 7. Juli verkauften Anleger in grossem Stil Halbleiter-Aktien, nachdem die Quartalszahlen von Samsung trotz eines fast 19-fachen Gewinnsprungs die hohen KI-Erwartungen der Wall Street verfehlten. Die Samsung-Aktie brach in Seoul um mehr als 10 Prozent ein und löste einen kurzen Handelsstopp am koreanischen Leitindex Kospi aus. In den USA fiel der Nasdaq um 1,16 Prozent, der S&P 500 gab 0,45 Prozent nach, der Dow Jones verlor 0,25 Prozent und rutschte von seinem Rekordhoch ab. Speicherchip-Hersteller wie Micron und SanDisk verloren jeweils rund 5 bis 7 Prozent, Intel brach um 9 Prozent ein, der Chip-Index SMH sackte um mehr als 3 Prozent ab. Zusätzlich belastete ein Bericht, wonach das chinesische KI-Unternehmen DeepSeek an einem eigenen Chip arbeitet, um US-Exportbeschränkungen zu umgehen. Anleger zweifeln zunehmend daran, ob die enormen KI-Investitionen die hohen Bewertungen von Chip-Aktien weiterhin rechtfertigen können.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-07"
+      "titel": "Trump erklärt Iran-Waffenruhe für beendet, Ölpreise steigen, Aktien fallen",
+      "text": "US-Präsident Donald Trump erklärte am 8. Juli 2026 beim NATO-Gipfel in der Türkei die Waffenruhe mit dem Iran für beendet, nachdem es erneut zu Spannungen im Nahen Osten gekommen war. Der Dow Jones fiel daraufhin um 576,76 Punkte bzw. 1,09 Prozent auf 52.348,39 Zähler, der S&P 500 gab um 0,28 Prozent auf 7.482,71 Punkte nach, während der Nasdaq Composite um 0,2 Prozent auf 25.870,65 Punkte zulegte. Fluglinien wie American Airlines und United Airlines verloren zwischen 2,5 und 4 Prozent, während Energiewerte wie Diamondback Energy, Occidental Petroleum und Chevron um teils über 3 Prozent zulegten. US-Rohöl verteuerte sich um 4,4 Prozent auf 73,52 Dollar je Barrel, die internationale Sorte Brent stieg um 5,2 Prozent auf 78,02 Dollar. Die erneute Eskalation nährt die Sorge, dass steigende Energiepreise die Inflation anheizen und die US-Notenbank länger an hohen Zinsen festhalten könnte.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-07-08"
     },
     {
-      "titel": "Dow Jones schliesst erstmals über 53.000 Punkten",
-      "text": "Der Dow Jones Industrial Average kletterte am 6. Juli um 0,29 Prozent auf ein Rekordhoch von 53.055,91 Punkten und überschritt damit erstmals die Marke von 53.000 Punkten. Es war bereits der fünfte 1.000-Punkte-Meilenstein des Dow im laufenden Jahr 2026, verglichen mit nur drei im gesamten Jahr 2025. Der S&P 500 legte am selben Tag um 0,72 Prozent auf 7.537,43 Punkte zu, der Nasdaq stieg um 1,12 Prozent auf 26.121,16 Punkte. Getragen wurde die Rally vor allem von Chip- und KI-Werten nach einer verkürzten Handelswoche wegen eines Feiertags. Der Rekord hielt allerdings nur einen Tag: Bereits am 7. Juli drehte die Stimmung wegen enttäuschender Samsung-Zahlen und neuer Sorgen um KI-Bewertungen ins Negative. Der schnelle Wechsel von Rekordhoch zu Ausverkauf zeigt, wie nervös die Märkte derzeit auf Nachrichten rund um die KI-Branche reagieren.",
+      "titel": "Goldpreis gerät wegen Fed-Zinsausblick und Nahost-Spannungen unter Druck",
+      "text": "Der Goldpreis handelte laut einem Bloomberg-Bericht vom 7. Juli 2026 nahe 4.100 US-Dollar je Feinunze, nachdem er in der Vorsitzung bereits 1,4 Prozent verloren hatte; bis zum 8. Juli rutschte er weiter auf rund 4.030 bis 4.087 Dollar und damit auf den tiefsten Stand seit dem 2. Juli. Auslöser waren neue US-Luftschläge im Iran-Konflikt sowie Trumps spätere Erklärung, die Waffenruhe mit dem Iran sei beendet, was die Sorge vor steigenden Energiepreisen und anhaltend hoher Inflation verstärkte. Gleichzeitig rechnen Marktteilnehmer nun eher mit einer restriktiveren US-Notenbank, die 2026 an ihrem Leitzins festhält oder ihn sogar anhebt, statt wie zuvor erwartet zu senken. Das erhöht die Opportunitätskosten für das zinslose Edelmetall Gold und belastet den Preis zusätzlich. Analysten von Goldman Sachs und J.P. Morgan halten trotz des aktuellen Rückgangs an Kurszielen von 4.900 bis 5.000 Dollar bis Jahresende fest.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-06"
-    },
-    {
-      "titel": "Goldpreis gibt nach - Anleger warten auf Fed-Sitzungsprotokoll",
-      "text": "Der Goldpreis fiel am 7. Juli um 0,8 Prozent auf 4.132,66 Dollar je Feinunze, nachdem er zu Wochenbeginn noch ein Zwei-Wochen-Hoch erreicht hatte. US-Gold-Futures mit Fälligkeit im August gaben um 0,6 Prozent auf 4.144,70 Dollar nach. Händler warten auf das Protokoll der Fed-Sitzung vom Juni, das erste Hinweise zur geldpolitischen Ausrichtung des neuen Fed-Vorsitzenden Kevin Warsh liefern soll. Schwächer als erwartete US-Arbeitsmarktdaten der Vorwoche hatten zuletzt die Erwartungen an eine baldige Zinserhöhung gedämpft: Händler preisen nur noch eine Wahrscheinlichkeit von rund 56 Prozent für eine Zinserhöhung im September ein, nach über 60 Prozent zuvor. Zusätzlich stützte ein vorläufiges US-Iran-Abkommen zur Strasse von Hormus den Goldpreis, da es die Ölpreise und damit Inflationssorgen dämpfte. Niedrigere Zinserwartungen machen das zinslose Edelmetall Gold für Anleger tendenziell attraktiver.",
-      "quelle": "Reuters",
       "datum_artikel": "2026-07-07"
     }
   ]
