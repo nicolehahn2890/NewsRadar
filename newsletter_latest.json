@@ -1,61 +1,54 @@
 {
-  "datum": "Freitag, 10. Juli 2026",
-  "generiert": "2026-07-10",
+  "datum": "Samstag, 11. Juli 2026",
+  "generiert": "2026-07-11",
   "ki_stories": [
     {
-      "titel": "OpenAI, xAI und Meta veröffentlichen erstmals am selben Tag neue Spitzenmodelle",
-      "text": "Am 9. Juli 2026 haben OpenAI, xAI und Meta erstmals in der Geschichte der Branche am gleichen Tag neue KI-Flaggschiff-Modelle veröffentlicht. OpenAI brachte die GPT-5.6-Familie heraus: Sol als leistungsstärkstes Modell für anspruchsvolle Reasoning-Aufgaben (5 USD pro Million Input-Token, 30 USD pro Million Output-Token), Terra als günstigere Alternative mit ähnlicher Leistung wie GPT-5.5, und Luna als besonders kostengünstiges Einstiegsmodell. Nahezu zeitgleich veröffentlichte xAI sein neues Modell Grok 4.5, während Meta mit Muse Spark 1.1 ein Modell mit einem Kontextfenster von einer Million Token und Computernutzungs-Fähigkeiten vorstellte. Damit stehen erstmals fünf konkurrierende Spitzenmodelle gleichzeitig am Markt zur Verfügung, darunter auch Anthropics Claude Fable 5 und Sonnet 5. Der zeitgleiche Launch zeigt, wie stark sich das Innovationstempo im KI-Wettlauf beschleunigt hat, und dürfte den Preis- und Funktionsdruck zwischen den Anbietern weiter erhöhen.",
-      "quelle": "The Information",
+      "titel": "OpenAI veröffentlicht GPT-5.6 und startet Agenten ChatGPT Work",
+      "text": "OpenAI hat am 9. Juli sein neues KI-Modell GPT-5.6 in den drei Varianten Sol, Terra und Luna für ChatGPT, die API und Codex freigegeben. Gleichzeitig stellte das Unternehmen den neuen Agenten ChatGPT Work vor, der komplexe Aufgaben über mehrere Stunden hinweg eigenständig bearbeiten kann. Der Vollstart folgte auf eine 13-tägige, von der US-Regierung koordinierte Vorschauphase, nachdem die Trump-Administration zuvor eine gestaffelte, überwachte Freigabe verlangt hatte. Laut OpenAI übertrifft das Flaggschiffmodell Sol den Rivalen Claude Fable 5 im hauseigenen Coding-Agent-Index mit 80 zu 77,2 Punkten und benötigt dabei weniger als halb so viele Output-Tokens. Der Start fällt in dieselbe Woche wie neue Modellveröffentlichungen von Anthropic und xAI, was den Wettbewerb um Unternehmenskunden weiter verschärft. Für OpenAI ist GPT-5.6 zentral, um die führende Position im Enterprise-Geschäft gegenüber Anthropic zu verteidigen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-07-09"
     },
     {
-      "titel": "Anthropic führt neue Rückblick-Funktion für Claude-Nutzer ein",
-      "text": "Anthropic hat am 9. Juli 2026 eine neue Funktion namens Reflect für Claude eingeführt, zu finden unter Einstellungen > Reflect. Sie zeigt Nutzern eine Zusammenfassung ihrer Aktivitäten der vergangenen ein bis zwölf Monate, darunter die häufigsten Themen, den aktivsten Wochentag und die produktivste Tageszeit. Zusätzlich können Nutzer unter Einstellungen > Zeit und Fokus jetzt optionale Pausen-Erinnerungen und Ruhezeiten festlegen. Die Funktion läuft zunächst als Beta für Free-, Pro- und Max-Abos auf Web und Desktop und setzt voraus, dass die Memory-Funktion aktiviert ist. Anthropic positioniert das Feature als Werkzeug, damit Nutzer besser einschätzen können, ob ihre Nutzung von Claude tatsächlich ihren eigenen Zielen entspricht.",
-      "quelle": "Anthropic",
+      "titel": "JPMorgan testet KI-Agenten, die klassisches 60/40-Depot schlagen",
+      "text": "JPMorgan Chase erprobt laut Bloomberg neu entwickelte KI-Investmentagenten, die je nach Marktlage eigenständig zwischen Aktien und Anleihen umschichten können. In Backtests schlugen diese Agenten ein klassisches 60/40-Portfolio aus 60 Prozent Aktien und 40 Prozent Anleihen. Die Bank zählt damit zu den ersten großen Wall-Street-Instituten, die generative KI direkt in die Portfolio-Allokation einbinden, statt sie nur für Analyse oder Kundenservice zu nutzen. Der Bericht erschien am 9. Juli 2026. Sollte sich der Ansatz bewähren, könnte er den Einsatz autonomer KI-Systeme im aktiven Asset-Management beschleunigen und traditionelle Vermögensverwalter unter Druck setzen. Gleichzeitig wirft der Vorstoß Fragen zu Aufsicht und Risikokontrolle bei automatisierten Handelsentscheidungen auf.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-07-09"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Nvidia verliert rund eine Billion Dollar an Börsenwert",
-      "text": "Nvidia hat seit seinem Rekordhoch vom 14. Mai 2026 rund eine Billion US-Dollar an Marktkapitalisierung eingebüßt, die Aktie ist seither um etwa 16 Prozent gefallen. Gemessen an gängigen Bewertungskennzahlen ist der Chipkonzern damit so günstig bewertet wie zuletzt vor Beginn des aktuellen KI-Booms. Hintergrund ist eine Umschichtung von Investoren weg von Nvidia hin zu anderen Halbleiterherstellern, insbesondere aus dem Speicherchip-Segment. Trotz des Kursrückgangs bleibt Nvidia weiterhin das wertvollste Unternehmen der Welt. Analysten werten den Rückgang als Zeichen dafür, dass Anleger zunehmend hinterfragen, ob die enormen KI-Investitionen der Tech-Konzerne die aktuellen Bewertungen tatsächlich rechtfertigen.",
+      "titel": "USA lockern Chip-Exportregeln für die Vereinigten Arabischen Emirate",
+      "text": "Das US-Handelsministerium hat am 10. Juli die Exportbeschränkungen für KI-Chips in die Vereinigten Arabischen Emirate gelockert und damit den Weg für weitere Verkäufe von NVIDIA- und AMD-Chips in die Region freigemacht. Als Begründung nannte Washington Fortschritte der Emirate beim Schutz sensibler US-Technologie sowie deren Unterstützung der USA im Konflikt mit dem Iran. Die Entscheidung folgt auf frühere Genehmigungen von Chip-Exporten im Milliardenumfang, etwa an Oracle für Projekte in den Emiraten. Für NVIDIA ist die Lockerung positiv, da der Nahe Osten als einer der wichtigsten Wachstumsmärkte für KI-Rechenzentren gilt, nachdem die Aktie seit Anfang Mai zeitweise rund eine Billion US-Dollar an Marktwert verloren hatte. Die NVIDIA-Aktie legte am Freitag im Zuge der Nachricht spürbar zu, gestützt zusätzlich von positiven Analystenkommentaren. Die Lockerung könnte weitere milliardenschwere Chip-Deals in der Golfregion nach sich ziehen und den geopolitischen Wettlauf um KI-Infrastruktur weiter anheizen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-08",
+      "datum_artikel": "2026-07-10",
       "unternehmen": "NVIDIA"
     },
     {
-      "titel": "China erlaubt ausgewählten KI-Firmen den Kauf von Nvidia-H200-Chips",
-      "text": "China will führenden heimischen KI-Unternehmen den Kauf einer begrenzten Menge an Nvidia-H200-Chips erlauben, wie The Information berichtet und Bloomberg aufgreift. Firmen wie Alibaba, ByteDance und DeepSeek sollen die Erlaubnis erhalten, einen Teil dieser Prozessoren zu erwerben, die fürs Training und den Betrieb von KI-Modellen genutzt werden. Der Schritt gilt als Zeichen dafür, dass China seine bisherigen Beschränkungen für den Zugang zu US-Spitzentechnologie leicht lockert. Für Nvidia würde eine Öffnung des chinesischen Marktes nach Jahren von Exportkontrollen eine wichtige zusätzliche Absatzquelle bedeuten. Gleichzeitig bleibt unklar, in welchem Umfang und Tempo die chinesische Regierung den Zugang tatsächlich freigeben wird.",
+      "titel": "Meta startet mit Muse Spark 1.1 erstes kostenpflichtiges KI-Modell",
+      "text": "Meta hat am 9. Juli mit Muse Spark 1.1 erstmals ein eigenes KI-Modell mit kostenpflichtiger Stufe für Entwickler vorgestellt. Es handelt sich laut KI-Chef Alexandr Wang um das bislang fortschrittlichste Agentic- und Coding-Modell des Unternehmens. CEO Mark Zuckerberg kündigte eine bewusst aggressive Preisstrategie an, um im hart umkämpften KI-Werkzeugmarkt über den Preis zu punkten, Muse Spark 1.1 zählt zu den günstigsten Angeboten am Markt. Bislang hatte Meta seine KI-Modelle vorwiegend kostenlos angeboten, der Schritt markiert damit eine strategische Kehrtwende hin zu eigener Monetarisierung, ähnlich wie bei OpenAI und Anthropic. Der neue Preisdruck könnte die Margen der Konkurrenz schmälern und den Wettbewerb um Entwickler-Kunden weiter verschärfen. Analysten werten den Schritt auch als Signal, dass Meta seine milliardenschweren KI-Investitionen stärker in Umsatz umwandeln will.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-08",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Anthropics Bewertung am Zweitmarkt steigt auf 1,2 Billionen Dollar und überholt OpenAI",
-      "text": "Anthropic wird auf dem Zweitmarkt für Privatmarkt-Aktien mittlerweile mit rund 1,2 Billionen US-Dollar bewertet und hat damit OpenAI als teuerstes privates KI-Unternehmen überholt. Auf der Handelsplattform Caplight wechseln Anthropic-Anteile aktuell zu diesem Kurs den Besitzer, während OpenAI dort nur noch mit rund 908 Milliarden US-Dollar bewertet wird. Die implizite Bewertung liegt damit rund 550 Prozent über dem Niveau vor einem Jahr und deutlich über der zuletzt bei einer offiziellen Finanzierungsrunde festgelegten Bewertung von 965 Milliarden US-Dollar. Händler berichten allerdings, dass kaum tatsächliche Transaktionen zu diesem Kurs zustande kommen, weil praktisch niemand seine Anthropic-Anteile verkaufen will. Der Sprung unterstreicht das anhaltend enorme Investoreninteresse an Anthropic, dessen Umsatz zuletzt vor allem durch die Nachfrage nach Claude Code und den API-Produkten kräftig gestiegen ist.",
-      "quelle": "Yahoo Finance",
       "datum_artikel": "2026-07-09",
-      "unternehmen": "Anthropic"
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Chip-Aktien treiben S&P 500 und Nasdaq trotz Nahost-Spannungen nach oben",
-      "text": "Der S&P 500 stieg am 9. Juli 2026 um 0,81 Prozent auf 7.543,64 Punkte, der Nasdaq Composite legte um 1,3 Prozent auf 26.206,89 Punkte zu und der Dow Jones gewann 0,27 Prozent auf 52.487,41 Punkte. Treiber war eine kräftige Erholung bei Halbleiteraktien: Der Chip-ETF SMH kletterte um 2,5 Prozent, Micron gewann 4,5 Prozent und SanDisk sogar 7,6 Prozent. Die Erholung erfolgte trotz erneuter Spannungen zwischen den USA und Iran, nachdem Präsident Trump erklärt hatte, die Waffenruhe mit Iran sei vorbei, und die USA neue Luftschläge geflogen hatten. Zusätzlichen Rückenwind lieferte die Aussicht auf den bevorstehenden Nasdaq-Börsengang von SK Hynix am 10. Juli. Die Kursbewegung zeigt, wie stark Anleger weiterhin auf die anhaltende KI-Nachfrage nach Halbleitern setzen, selbst wenn geopolitische Risiken kurzfristig für Nervosität sorgen.",
+      "titel": "S&P 500 legt vor Beginn der US-Berichtssaison weiter zu",
+      "text": "Der S&P 500 stieg am Freitag, den 10. Juli, um 0,42 Prozent auf 7.575,39 Punkte und baute damit seine Wochengewinne aus. Auch der Nasdaq 100 gewann 0,3 Prozent, der Dow Jones legte rund 150 Punkte zu. Für zusätzlichen Auftrieb sorgte das Börsendebüt des Speicherchip-Herstellers SK Hynix, dessen Aktien nach einem Rekord-Listing von 26,5 Milliarden US-Dollar rund 12,8 Prozent über dem Ausgabepreis sprangen, dem größten je verzeichneten US-Börsengang eines ausländischen Unternehmens. Anleger richten den Blick zunehmend auf die bevorstehende US-Quartalsberichtssaison. Gleichzeitig bleibt der Markt von geopolitischen Spannungen im Nahen Osten sowie möglichen weiteren Zinssignalen der Fed beeinflusst, was kurzfristig für Volatilität sorgen könnte. Trotz einzelner schwacher Handelstage bei Tech- und Chipwerten zeigte sich der breite Markt in dieser Woche insgesamt widerstandsfähig.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-10"
+    },
+    {
+      "titel": "Goldpreis pendelt um 4.120 Dollar wegen Nahost-Konflikt",
+      "text": "Der Goldpreis stabilisierte sich am 9. Juli bei rund 4.120 US-Dollar je Feinunze, nachdem eine vorangegangene dreitägige Verlustserie beendet wurde. Anleger bewerten derzeit die Folgen erneuter Kämpfe im Nahen Osten, die eine im Vormonat unterzeichnete Waffenruhe gefährden und Unsicherheit über die sichere Durchfahrt von Energie- und anderen Rohstofflieferungen durch die Straße von Hormus schüren. Am Vortag hatte Gold erstmals seit längerer Zeit wieder die Marke von 4.100 Dollar überschritten, gestützt von einem schwächeren US-Dollar. Gleichzeitig richten Investoren den Blick auf mögliche weitere Zinsschritte der US-Notenbank zur Inflationsbekämpfung. Sollte sich die Lage im Nahen Osten weiter zuspitzen, dürfte die Nachfrage nach dem als sicherer Hafen geltenden Edelmetall weiter steigen. Für Anlegerinnen mit Gold-Anteil im Depot bleibt die Entwicklung damit eng an die geopolitische Lage gekoppelt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-09"
     },
     {
-      "titel": "Goldpreis schwankt stark nach Eskalation im Iran-Konflikt",
-      "text": "Der Goldpreis fiel am 8. Juli 2026 zeitweise auf rund 4.030 US-Dollar je Feinunze, den tiefsten Stand seit dem 2. Juli, bevor er sich am 9. Juli wieder auf etwa 4.075 bis 4.115 US-Dollar erholte. Auslöser war die Ankündigung von US-Präsident Trump, die Waffenruhe mit Iran sei beendet, worauf der Ölpreis um mehr als 5 Prozent nach oben schoss. Steigende Energiepreise schüren die Sorge vor neuer Inflation, was die Erwartung stützt, dass die US-Notenbank die Zinsen länger hoch hält als bisher gedacht - eigentlich ein Belastungsfaktor für zinsloses Gold. Gleichzeitig sorgt die geopolitische Unsicherheit rund um die Straße von Hormus weiterhin für Nachfrage nach Gold als sicherem Hafen. Die Gemengelage aus Zinssorgen und Kriegsangst führt daher zu ungewöhnlich starken Ausschlägen beim Goldpreis von Tag zu Tag.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-09"
-    },
-    {
-      "titel": "Fed-Protokoll zeigt tiefe Uneinigkeit über weiteren Zinskurs",
-      "text": "Das am 8. Juli 2026 veröffentlichte Protokoll der jüngsten Sitzung der US-Notenbank Fed zeigt eine deutliche Uneinigkeit unter den Mitgliedern über die weitere Zinspolitik. Die Fed hatte den Leitzins bei ihrer Sitzung im Juni das vierte Mal in Folge unverändert bei 3,50 bis 3,75 Prozent belassen, es war die erste Sitzung unter dem neuen Fed-Vorsitzenden Kevin Warsh. Laut den neuen Wirtschaftsprognosen der Notenbank sehen neun Mitglieder mindestens eine Zinserhöhung in diesem Jahr, sechs davon erwarten sogar mindestens zwei Erhöhungen, während andere Mitglieder eher auf Zinssenkungen drängen. Grund für die Verunsicherung ist eine nach oben korrigierte Inflationsprognose: Die von der Fed beobachtete PCE-Inflation wurde für dieses Jahr von 2,7 auf 3,6 Prozent angehoben. Fed-Chef Warsh sagte zugleich auf einem Notenbank-Forum der EZB, die Inflationsrisiken hätten sich zuletzt etwas entspannt, was die Märkte als mögliches Signal für eine mildere Geldpolitik werteten.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-08"
+      "titel": "Fed warnt vor Inflationsdruck durch Zölle, Iran-Krieg und KI-Boom",
+      "text": "Die US-Notenbank Fed hat in ihrem am 10. Juli veröffentlichten geldpolitischen Bericht erklärt, an ihrem Ziel der Preisstabilität festzuhalten. Es ist der erste derartige Bericht unter dem neuen Fed-Vorsitzenden Kevin Warsh. Die Notenbank identifizierte mehrere Inflationstreiber, darunter die Zölle der Trump-Regierung, den von den USA unterstützten Konflikt mit dem Iran sowie stark steigende Kosten für Technologiegüter im Zuge des KI-Booms. Die jährliche Inflationsrate war zuletzt von 2,4 Prozent im Februar auf ein Dreijahreshoch von 4,2 Prozent im Mai gestiegen. Aus den kurz zuvor veröffentlichten Sitzungsprotokollen ging hervor, dass einzelne Fed-Mitglieder sogar eine Zinserhöhung für angebracht hielten, sich das Gremium aber mehrheitlich für ein Halten der Zinsen entschied. Sollte die durch den KI-Boom befeuerte Nachfrage die Fed zu Zinserhöhungen zwingen, drohen höhere Finanzierungskosten für den KI-Infrastrukturausbau und Bewertungsabschläge bei Tech-Aktien.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-10"
     }
   ]
 }
