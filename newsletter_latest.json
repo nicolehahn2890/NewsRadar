@@ -1,53 +1,47 @@
 {
-  "datum": "Samstag, 11. Juli 2026",
-  "generiert": "2026-07-11",
+  "datum": "Sonntag, 12. Juli 2026",
+  "generiert": "2026-07-12",
   "ki_stories": [
     {
-      "titel": "OpenAI veröffentlicht GPT-5.6 und startet Agenten ChatGPT Work",
-      "text": "OpenAI hat am 9. Juli sein neues KI-Modell GPT-5.6 in den drei Varianten Sol, Terra und Luna für ChatGPT, die API und Codex freigegeben. Gleichzeitig stellte das Unternehmen den neuen Agenten ChatGPT Work vor, der komplexe Aufgaben über mehrere Stunden hinweg eigenständig bearbeiten kann. Der Vollstart folgte auf eine 13-tägige, von der US-Regierung koordinierte Vorschauphase, nachdem die Trump-Administration zuvor eine gestaffelte, überwachte Freigabe verlangt hatte. Laut OpenAI übertrifft das Flaggschiffmodell Sol den Rivalen Claude Fable 5 im hauseigenen Coding-Agent-Index mit 80 zu 77,2 Punkten und benötigt dabei weniger als halb so viele Output-Tokens. Der Start fällt in dieselbe Woche wie neue Modellveröffentlichungen von Anthropic und xAI, was den Wettbewerb um Unternehmenskunden weiter verschärft. Für OpenAI ist GPT-5.6 zentral, um die führende Position im Enterprise-Geschäft gegenüber Anthropic zu verteidigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-09"
-    },
-    {
-      "titel": "JPMorgan testet KI-Agenten, die klassisches 60/40-Depot schlagen",
-      "text": "JPMorgan Chase erprobt laut Bloomberg neu entwickelte KI-Investmentagenten, die je nach Marktlage eigenständig zwischen Aktien und Anleihen umschichten können. In Backtests schlugen diese Agenten ein klassisches 60/40-Portfolio aus 60 Prozent Aktien und 40 Prozent Anleihen. Die Bank zählt damit zu den ersten großen Wall-Street-Instituten, die generative KI direkt in die Portfolio-Allokation einbinden, statt sie nur für Analyse oder Kundenservice zu nutzen. Der Bericht erschien am 9. Juli 2026. Sollte sich der Ansatz bewähren, könnte er den Einsatz autonomer KI-Systeme im aktiven Asset-Management beschleunigen und traditionelle Vermögensverwalter unter Druck setzen. Gleichzeitig wirft der Vorstoß Fragen zu Aufsicht und Risikokontrolle bei automatisierten Handelsentscheidungen auf.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-09"
-    }
-  ],
-  "unternehmen_stories": [
-    {
-      "titel": "USA lockern Chip-Exportregeln für die Vereinigten Arabischen Emirate",
-      "text": "Das US-Handelsministerium hat am 10. Juli die Exportbeschränkungen für KI-Chips in die Vereinigten Arabischen Emirate gelockert und damit den Weg für weitere Verkäufe von NVIDIA- und AMD-Chips in die Region freigemacht. Als Begründung nannte Washington Fortschritte der Emirate beim Schutz sensibler US-Technologie sowie deren Unterstützung der USA im Konflikt mit dem Iran. Die Entscheidung folgt auf frühere Genehmigungen von Chip-Exporten im Milliardenumfang, etwa an Oracle für Projekte in den Emiraten. Für NVIDIA ist die Lockerung positiv, da der Nahe Osten als einer der wichtigsten Wachstumsmärkte für KI-Rechenzentren gilt, nachdem die Aktie seit Anfang Mai zeitweise rund eine Billion US-Dollar an Marktwert verloren hatte. Die NVIDIA-Aktie legte am Freitag im Zuge der Nachricht spürbar zu, gestützt zusätzlich von positiven Analystenkommentaren. Die Lockerung könnte weitere milliardenschwere Chip-Deals in der Golfregion nach sich ziehen und den geopolitischen Wettlauf um KI-Infrastruktur weiter anheizen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-10",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Meta startet mit Muse Spark 1.1 erstes kostenpflichtiges KI-Modell",
-      "text": "Meta hat am 9. Juli mit Muse Spark 1.1 erstmals ein eigenes KI-Modell mit kostenpflichtiger Stufe für Entwickler vorgestellt. Es handelt sich laut KI-Chef Alexandr Wang um das bislang fortschrittlichste Agentic- und Coding-Modell des Unternehmens. CEO Mark Zuckerberg kündigte eine bewusst aggressive Preisstrategie an, um im hart umkämpften KI-Werkzeugmarkt über den Preis zu punkten, Muse Spark 1.1 zählt zu den günstigsten Angeboten am Markt. Bislang hatte Meta seine KI-Modelle vorwiegend kostenlos angeboten, der Schritt markiert damit eine strategische Kehrtwende hin zu eigener Monetarisierung, ähnlich wie bei OpenAI und Anthropic. Der neue Preisdruck könnte die Margen der Konkurrenz schmälern und den Wettbewerb um Entwickler-Kunden weiter verschärfen. Analysten werten den Schritt auch als Signal, dass Meta seine milliardenschweren KI-Investitionen stärker in Umsatz umwandeln will.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-09",
-      "unternehmen": "Meta"
-    }
-  ],
-  "boerse_stories": [
-    {
-      "titel": "S&P 500 legt vor Beginn der US-Berichtssaison weiter zu",
-      "text": "Der S&P 500 stieg am Freitag, den 10. Juli, um 0,42 Prozent auf 7.575,39 Punkte und baute damit seine Wochengewinne aus. Auch der Nasdaq 100 gewann 0,3 Prozent, der Dow Jones legte rund 150 Punkte zu. Für zusätzlichen Auftrieb sorgte das Börsendebüt des Speicherchip-Herstellers SK Hynix, dessen Aktien nach einem Rekord-Listing von 26,5 Milliarden US-Dollar rund 12,8 Prozent über dem Ausgabepreis sprangen, dem größten je verzeichneten US-Börsengang eines ausländischen Unternehmens. Anleger richten den Blick zunehmend auf die bevorstehende US-Quartalsberichtssaison. Gleichzeitig bleibt der Markt von geopolitischen Spannungen im Nahen Osten sowie möglichen weiteren Zinssignalen der Fed beeinflusst, was kurzfristig für Volatilität sorgen könnte. Trotz einzelner schwacher Handelstage bei Tech- und Chipwerten zeigte sich der breite Markt in dieser Woche insgesamt widerstandsfähig.",
+      "titel": "China streicht wegen KI erstmals seit Jahrzehnten sein Jobziel",
+      "text": "China hat in seinem neuen Fünfjahresplan (2026-2030) erstmals seit den 1990er-Jahren auf eine konkrete Zahl für neue städtische Arbeitsplätze verzichtet. Das Arbeitsministerium kündigte stattdessen an, Stellen in beträchtlichem Umfang zu schaffen, wobei Jahresziele je nach Lage flexibel festgelegt werden sollen. Der Schritt gilt als stilles Eingeständnis wachsender Unsicherheit über die Beschäftigungslage angesichts der raschen KI-Verbreitung in der chinesischen Wirtschaft. Er zeigt Pekings Dilemma: Einerseits will das Land bei KI mit den USA gleichziehen oder sie überholen, andererseits wächst die Sorge vor Jobverlusten in einem ohnehin fragilen Arbeitsmarkt mit hoher Jugendarbeitslosigkeit. Beobachter werten die Entwicklung als Hinweis, dass auch autoritär geführte Volkswirtschaften zunehmend mit den sozialen Folgen der KI-Automatisierung ringen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-10"
     },
     {
-      "titel": "Goldpreis pendelt um 4.120 Dollar wegen Nahost-Konflikt",
-      "text": "Der Goldpreis stabilisierte sich am 9. Juli bei rund 4.120 US-Dollar je Feinunze, nachdem eine vorangegangene dreitägige Verlustserie beendet wurde. Anleger bewerten derzeit die Folgen erneuter Kämpfe im Nahen Osten, die eine im Vormonat unterzeichnete Waffenruhe gefährden und Unsicherheit über die sichere Durchfahrt von Energie- und anderen Rohstofflieferungen durch die Straße von Hormus schüren. Am Vortag hatte Gold erstmals seit längerer Zeit wieder die Marke von 4.100 Dollar überschritten, gestützt von einem schwächeren US-Dollar. Gleichzeitig richten Investoren den Blick auf mögliche weitere Zinsschritte der US-Notenbank zur Inflationsbekämpfung. Sollte sich die Lage im Nahen Osten weiter zuspitzen, dürfte die Nachfrage nach dem als sicherer Hafen geltenden Edelmetall weiter steigen. Für Anlegerinnen mit Gold-Anteil im Depot bleibt die Entwicklung damit eng an die geopolitische Lage gekoppelt.",
+      "titel": "ILO-Studie: KI betrifft fast 80 Millionen Jobs in Südostasien",
+      "text": "Eine neue Studie der Internationalen Arbeitsorganisation (ILO) zeigt, dass rund 22,9 Prozent aller Beschäftigten in den ASEAN-Staaten - fast 80 Millionen Menschen - in Berufen arbeiten, die spürbar von generativer KI betroffen sind. Etwa 11,7 Millionen Beschäftigte, also 3,3 Prozent, fallen in die Kategorie mit der höchsten Automatisierungsgefährdung. Singapur weist mit 42,2 Prozent die höchste Exposition auf, gefolgt von den Philippinen mit 28,1 Prozent, Indonesien mit 21,7 Prozent, Vietnam mit 20,8 Prozent und Thailand mit 20,6 Prozent. Die ILO betont, dass es bislang keine Belege für große Entlassungswellen gibt, warnt aber, dass Frauen mehr als doppelt so häufig wie Männer in stark betroffenen Bürojobs arbeiten. Singapur ist demnach die einzige Volkswirtschaft der Region, die sowohl hohe Exposition als auch hohe Vorbereitung auf den Wandel kombiniert - den Philippinen etwa fehlt es trotz hoher Betroffenheit an Vorbereitung.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-09"
+      "datum_artikel": "2026-07-10"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "Apple verklagt OpenAI wegen gestohlener Geschäftsgeheimnisse",
+      "text": "Apple hat OpenAI vor einem Bundesgericht in Nordkalifornien verklagt und wirft dem Unternehmen vor, systematisch Geschäftsgeheimnisse gestohlen zu haben, um eigene KI-Hardware zu entwickeln. Laut Klageschrift soll OpenAIs Hardware-Chef Tang Tan, ein ehemaliger Apple-Vizepräsident, Bewerber aufgefordert haben, echte Apple-Bauteile zu Vorstellungsgesprächen mitzubringen. Ein weiterer Ex-Apple-Mitarbeiter, der zu OpenAI wechselte, soll zudem einen Firmenlaptop entwendet und Sicherheitsprozesse umgangen haben. Hintergrund ist die 2024 geschlossene Partnerschaft beider Firmen rund um die ChatGPT-Integration in iOS, die sich abkühlte, nachdem OpenAI mit dem Kauf von Jony Ives Hardware-Startup IO Products für rund 6,4 Milliarden Dollar in den Konsumgerätemarkt vorstieß. Der Fall gilt als bedeutender Rechtsstreit ums geistige Eigentum in der KI-Branche und könnte weitreichende Folgen für OpenAIs geplante eigene KI-Endgeräte haben.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-10",
+      "unternehmen": "OpenAI"
     },
     {
-      "titel": "Fed warnt vor Inflationsdruck durch Zölle, Iran-Krieg und KI-Boom",
-      "text": "Die US-Notenbank Fed hat in ihrem am 10. Juli veröffentlichten geldpolitischen Bericht erklärt, an ihrem Ziel der Preisstabilität festzuhalten. Es ist der erste derartige Bericht unter dem neuen Fed-Vorsitzenden Kevin Warsh. Die Notenbank identifizierte mehrere Inflationstreiber, darunter die Zölle der Trump-Regierung, den von den USA unterstützten Konflikt mit dem Iran sowie stark steigende Kosten für Technologiegüter im Zuge des KI-Booms. Die jährliche Inflationsrate war zuletzt von 2,4 Prozent im Februar auf ein Dreijahreshoch von 4,2 Prozent im Mai gestiegen. Aus den kurz zuvor veröffentlichten Sitzungsprotokollen ging hervor, dass einzelne Fed-Mitglieder sogar eine Zinserhöhung für angebracht hielten, sich das Gremium aber mehrheitlich für ein Halten der Zinsen entschied. Sollte die durch den KI-Boom befeuerte Nachfrage die Fed zu Zinserhöhungen zwingen, drohen höhere Finanzierungskosten für den KI-Infrastrukturausbau und Bewertungsabschläge bei Tech-Aktien.",
+      "titel": "Big-Tech-Schuldenlast für KI-Ausbau verdoppelt sich auf 350 Milliarden Dollar",
+      "text": "Alphabet, Amazon, Meta, Microsoft und Oracle haben laut Bloomberg-Daten ihre gemeinsame Schuldenlast in den vergangenen fünf Jahren auf rund 350 Milliarden Dollar verdoppelt, um den Bau von KI-Rechenzentren zu finanzieren. Die fünf größten Rechenzentrumsinvestoren der USA wollen in diesem Jahr Zusagen zufolge bis zu 725 Milliarden Dollar vor allem in Rechenzentren und Nvidia-Chips stecken. Ein Warnsignal: Amazons Anleiheverkauf über mindestens 25 Milliarden Dollar stieß in dieser Woche bei Investoren auf ungewöhnlich verhaltenes Interesse, was laut Bloomberg auf Grenzen der verfügbaren Finanzierung hindeutet. An der Börse zeigt sich wachsende Skepsis: Nur Alphabet-Aktien schlugen in diesem Jahr den S&P 500, während Microsoft- und Oracle-Aktien um mehr als 20 Prozent einbrachen. Die Entwicklung markiert einen Bruch mit dem traditionellen Software-Geschäftsmodell, das bislang mit wenig Kapitalbedarf hohe Margen erzielte, und weckt Sorgen vor einer möglichen KI-Finanzierungsblase.",
       "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-10",
+      "unternehmen": "Amazon"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "Wall Street kaum verändert - SK-Hynix-Debüt stützt Chip-Aktien",
+      "text": "Am Freitag, den 10. Juli 2026, beendete die Wall Street eine schwankungsreiche Handelswoche kaum verändert, gestützt vom fulminanten Nasdaq-Debüt des südkoreanischen Speicherchip-Herstellers SK Hynix. Die American Depositary Receipts eröffneten bei 170 Dollar - rund 14 Prozent über dem Ausgabepreis von 149 Dollar - und brachten dem Unternehmen 26,5 Milliarden Dollar ein, den größten US-Börsengang eines ausländischen Unternehmens überhaupt. Der Erfolg dämpfte Verluste bei anderen Chip-Titeln, da SK Hynix als zentraler Zulieferer von Hochleistungsspeicherchips (HBM) unter anderem für NVIDIA gilt. Der S&P 500 schloss rund 0,4 Prozent höher bei etwa 7.575 Punkten, der Dow Jones legte rund 0,3 Prozent zu. Belastend blieben die angespannten Beziehungen zwischen den USA und dem Iran, die Anleger weiter genau beobachteten.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-10"
+    },
+    {
+      "titel": "Goldpreis vor Wochenverlust - Golf-Eskalation befeuert Zinserhöhungs-Wetten",
+      "text": "Der Goldpreis steuerte am Freitag, den 10. Juli 2026, trotz eines leichten Tagesplus von 0,2 Prozent auf rund 4.129 Dollar je Feinunze auf ein Wochenminus von über einem Prozent zu. Grund waren eskalierende Angriffe zwischen den USA und dem Iran: Iranische Streitkräfte griffen US-Militäreinrichtungen in Golfstaaten an, nachdem die USA zuvor Ziele an der iranischen Südküste und in östlichen Provinzen bombardiert hatten. Die Sorge vor steigenden Ölpreisen durch den Konflikt schürte Inflationssorgen und stärkte die Erwartung, dass die US-Notenbank Fed an ihrem restriktiven Kurs festhält. Laut CME-FedWatch-Tool preisten Händler eine Wahrscheinlichkeit von 63 Prozent für eine Zinserhöhung im September ein - eine Woche zuvor waren es noch rund 54 Prozent. Höhere Zinsen verteuern tendenziell das Halten von zinslosem Gold und dämpfen damit die Nachfrage, weshalb die Lage im Nahen Osten auch in der kommenden Woche ein zentraler Risikofaktor für den Goldpreis bleiben dürfte.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-07-10"
     }
   ]
