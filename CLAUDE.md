@@ -136,16 +136,41 @@ Suchbeispiele:
 - `Microsoft Azure AI revenue site:wsj.com`
 
 ### 3. Börse & Gold (Section: `boerse_stories`)
-Fokus: **S&P 500** (wegen FTSE All World) und **Gold**. Was bewegt heute
-diese Märkte?
 
-Themen: Zinsentscheidungen (Fed, EZB), Inflation, Konjunkturdaten, geopolitische
-Risiken, große Sektor-Bewegungen (besonders Tech), Goldpreis-Treiber.
+**Nicole hat sich beschwert, dass diese Rubrik zu allgemein ist** — wochenlang
+stand sinngemäß dasselbe drin ('S&P 500 leicht verändert', 'Goldpreis schwankt
+wegen Nahost', 'Fed uneins über Zinskurs'). Das soll aufhören. Daher gilt:
+
+**Keine Allerwelts-Marktberichte mehr.** Eine allgemeine Story zu S&P 500,
+FTSE All World oder Gold darf nur rein, wenn es dazu eine **echte neue
+Nachricht** gibt — z.B. eine konkrete Zinsentscheidung, überraschende
+Inflationsdaten, ein deutlicher Kurssprung oder -einbruch mit klarem Auslöser.
+Ein normaler Handelstag ('Index kaum verändert', 'Gold pendelt weiter um
+4.100 Dollar') ist **keine Story** — dann lieber weglassen.
+
+**Stattdessen bevorzugt:**
+1. **Politische und geopolitische Treiber** mit konkreter Marktwirkung:
+   Wahlen, Zölle, Sanktionen, Regierungsentscheidungen, Konflikte — immer mit
+   der Antwort, was das für die Märkte bedeutet.
+2. **Spannende Einzelwerte** aus den großen Indizes (Nasdaq, Dow Jones,
+   S&P 500, DAX, asiatische Indizes wie Nikkei oder Hang Seng): starke
+   Kursbewegungen, überraschende Quartalszahlen, Übernahmen, Skandale,
+   Neuaufnahmen in einen Index — je nachdem, was gerade wirklich etwas
+   Wichtiges hergibt. Es müssen keine Tech- oder KI-Werte sein.
+3. Zins- und Inflationsthemen (Fed, EZB) nur, wenn es eine **neue Entwicklung**
+   gibt (Entscheidung, neue Daten, klare Kursänderung) — nicht die x-te
+   Variante von 'Fed ist sich uneinig'.
+
+**Aber nicht übertreiben:** maximal 3 Stories, und lieber 1–2 wirklich
+interessante als 3 erzwungene. Einzelwert-Stories sollen die Ausnahme mit
+Nachrichtenwert sein, kein täglicher Aktien-Tipp-Dienst.
 
 Suchbeispiele:
-- `S&P 500 today site:bloomberg.com OR site:reuters.com`
-- `Gold price today site:wsj.com OR site:ft.com`
-- `Fed rate decision site:reuters.com`
+- `stock market movers today site:bloomberg.com OR site:reuters.com`
+- `biggest stock moves earnings site:wsj.com OR site:barrons.com`
+- `DAX Nikkei market news site:reuters.com`
+- `tariffs sanctions market impact site:ft.com OR site:bloomberg.com`
+- `Fed rate decision site:reuters.com` (nur bei neuer Entwicklung)
 
 ## Anzahl Stories pro Section
 
@@ -188,6 +213,45 @@ Story nicht aufnehmen.
 
 ## Wiederholungen vermeiden
 
+### Keine Wiederholungen gegenüber den Vortagen (sehr wichtig)
+
+Nicole hat sich beschwert, dass ihr **mehrere Tage hintereinander dieselben
+Inhalte** ausgespielt werden — seit der Quellen-Erweiterung sogar öfter.
+Deshalb ist dieser Check ab sofort **Pflicht, bevor Stories ausgewählt werden**:
+
+1. **Lies zuerst die Newsletter der letzten 7 Tage** aus der Git-Historie.
+   Jeder Tag ist ein eigener Commit von `newsletter_latest.json`. So bekommst
+   du alle Schlagzeilen der letzten Tage auf einen Blick:
+
+   ```
+   for c in $(git log --format=%h -7 -- newsletter_latest.json); do
+     echo "=== $c ==="
+     git show $c:newsletter_latest.json | python3 -c "import json,sys; d=json.load(sys.stdin); [print(s['titel']) for sec in ('ki_stories','unternehmen_stories','boerse_stories') for s in d.get(sec,[])]"
+   done
+   ```
+
+2. **Eine Story, die inhaltlich schon in einem der letzten 7 Newsletter stand,
+   darf NICHT noch einmal rein** — auch nicht mit anderer Schlagzeile, anderer
+   Quelle oder leicht anderem Blickwinkel. Beispiel für einen echten Fehler,
+   der so passiert ist: 'NVIDIA verliert rund eine Billion Dollar an
+   Börsenwert' stand an zwei Tagen hintereinander im Newsletter — das darf
+   nicht vorkommen.
+
+3. **Einzige Ausnahme: echte neue Entwicklungen.** Ein Thema aus den Vortagen
+   darf wieder vorkommen, wenn es **konkret Neues** gibt — eine neue
+   Entscheidung, neue Zahlen, eine Reaktion, ein Nachtrag, eine Wende.
+   Dann muss die Story aber:
+   - sich klar auf die **neue Entwicklung** konzentrieren (nicht die alte
+     Nachricht nochmal zusammenfassen), und
+   - im `text` kurz einordnen, was gegenüber dem bisherigen Stand neu ist
+     (z.B. 'Nachdem am Dienstag X passiert war, hat nun Y ...').
+
+4. Bei Dauerthemen (z.B. ein laufender Konflikt, eine Zinsdebatte) gilt:
+   ohne neuen Fakt keine neue Story. 'Goldpreis schwankt weiter wegen
+   Nahost-Konflikt' am fünften Tag in Folge ist eine Wiederholung, keine News.
+
+Im Zweifel: Story weglassen. Lieber eine kürzere Ausgabe als ein Déjà-vu.
+
 ### Maximal 2 Stories pro Unternehmen pro Tag
 
 Über alle Sections zusammen darf **kein Unternehmen in mehr als 2 Stories**
@@ -214,6 +278,11 @@ Bevor du committest, gehe alle Stories einmal durch und prüfe:
 1. Ist jedes `datum_artikel` innerhalb der letzten 48 Stunden?
 2. Kommt kein Unternehmen in mehr als 2 Hauptrollen-Stories vor?
 3. Ist kein Thema doppelt vertreten (auch nicht in unterschiedlichen Sections)?
+4. Stand keine der Stories inhaltlich schon in einem Newsletter der letzten
+   7 Tage (Git-Historie geprüft)? Falls doch: Gibt es wirklich eine neue
+   Entwicklung, und macht der `text` klar, was daran neu ist?
+5. Ist keine `boerse_stories`-Story ein Allerwelts-Marktbericht ohne echte
+   neue Nachricht?
 
 Wenn eine dieser Prüfungen fehlschlägt: Story streichen oder durch eine
 frische, andere Story ersetzen — und lieber kürzer abgeben.
