@@ -1,48 +1,29 @@
 {
-  "datum": "Sonntag, 12. Juli 2026",
-  "generiert": "2026-07-12",
+  "datum": "Montag, 13. Juli 2026",
+  "generiert": "2026-07-13",
   "ki_stories": [
     {
-      "titel": "China streicht wegen KI erstmals seit Jahrzehnten sein Jobziel",
-      "text": "China hat in seinem neuen Fünfjahresplan (2026-2030) erstmals seit den 1990er-Jahren auf eine konkrete Zahl für neue städtische Arbeitsplätze verzichtet. Das Arbeitsministerium kündigte stattdessen an, Stellen in beträchtlichem Umfang zu schaffen, wobei Jahresziele je nach Lage flexibel festgelegt werden sollen. Der Schritt gilt als stilles Eingeständnis wachsender Unsicherheit über die Beschäftigungslage angesichts der raschen KI-Verbreitung in der chinesischen Wirtschaft. Er zeigt Pekings Dilemma: Einerseits will das Land bei KI mit den USA gleichziehen oder sie überholen, andererseits wächst die Sorge vor Jobverlusten in einem ohnehin fragilen Arbeitsmarkt mit hoher Jugendarbeitslosigkeit. Beobachter werten die Entwicklung als Hinweis, dass auch autoritär geführte Volkswirtschaften zunehmend mit den sozialen Folgen der KI-Automatisierung ringen.",
+      "titel": "Chinesisches KI-Labor Zhipu macht Top-Modell GLM-5.2 komplett kostenlos",
+      "text": "Der Gründer des chinesischen KI-Labors Zhipu, Tang Jie, verteidigte in einem internen, von Bloomberg eingesehenen Memo die freie Zugänglichkeit von KI-Spitzenmodellen: echte Sicherheit entstehe durch breite Beteiligung und Kontrolle, nicht durch technologische Barrieren. Zhipu untermauerte das mit der Veröffentlichung von GLM-5.2 als Open-Source-Modell, das sich kostenlos herunterladen, anpassen und auf eigenen Servern betreiben lässt. Das Mixture-of-Experts-Modell mit 744 Milliarden Parametern (40 Milliarden aktiv) und einem auf 1 Million Token vervierfachten Kontextfenster kommt bei einem wichtigen Agenten-Benchmark bis auf einen Prozentpunkt an Anthropics Opus 4.8 heran - zu etwa einem Fünftel der Kosten. Brisant ist das Timing: Am selben Tag, an dem die Trump-Regierung anordnete, Anthropics Spitzenmodelle Fable 5 und Mythos 5 für ausländische Nutzer zu sperren, machte Zhipu sein Modell weltweit frei verfügbar. Die Hongkong-notierte Zhipu-Aktie schoss daraufhin zeitweise um 48 Prozent nach oben und schloss 32,8 Prozent höher bei 1.457 Hongkong-Dollar. Die Episode zeigt, wie US-Exportbeschränkungen chinesischen Open-Source-Modellen ungewollt zu mehr Verbreitung verhelfen könnten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-10"
-    },
-    {
-      "titel": "ILO-Studie: KI betrifft fast 80 Millionen Jobs in Südostasien",
-      "text": "Eine neue Studie der Internationalen Arbeitsorganisation (ILO) zeigt, dass rund 22,9 Prozent aller Beschäftigten in den ASEAN-Staaten - fast 80 Millionen Menschen - in Berufen arbeiten, die spürbar von generativer KI betroffen sind. Etwa 11,7 Millionen Beschäftigte, also 3,3 Prozent, fallen in die Kategorie mit der höchsten Automatisierungsgefährdung. Singapur weist mit 42,2 Prozent die höchste Exposition auf, gefolgt von den Philippinen mit 28,1 Prozent, Indonesien mit 21,7 Prozent, Vietnam mit 20,8 Prozent und Thailand mit 20,6 Prozent. Die ILO betont, dass es bislang keine Belege für große Entlassungswellen gibt, warnt aber, dass Frauen mehr als doppelt so häufig wie Männer in stark betroffenen Bürojobs arbeiten. Singapur ist demnach die einzige Volkswirtschaft der Region, die sowohl hohe Exposition als auch hohe Vorbereitung auf den Wandel kombiniert - den Philippinen etwa fehlt es trotz hoher Betroffenheit an Vorbereitung.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-10"
+      "datum_artikel": "2026-07-12"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Apple verklagt OpenAI wegen gestohlener Geschäftsgeheimnisse",
-      "text": "Apple hat OpenAI vor einem Bundesgericht in Nordkalifornien verklagt und wirft dem Unternehmen vor, systematisch Geschäftsgeheimnisse gestohlen zu haben, um eigene KI-Hardware zu entwickeln. Laut Klageschrift soll OpenAIs Hardware-Chef Tang Tan, ein ehemaliger Apple-Vizepräsident, Bewerber aufgefordert haben, echte Apple-Bauteile zu Vorstellungsgesprächen mitzubringen. Ein weiterer Ex-Apple-Mitarbeiter, der zu OpenAI wechselte, soll zudem einen Firmenlaptop entwendet und Sicherheitsprozesse umgangen haben. Hintergrund ist die 2024 geschlossene Partnerschaft beider Firmen rund um die ChatGPT-Integration in iOS, die sich abkühlte, nachdem OpenAI mit dem Kauf von Jony Ives Hardware-Startup IO Products für rund 6,4 Milliarden Dollar in den Konsumgerätemarkt vorstieß. Der Fall gilt als bedeutender Rechtsstreit ums geistige Eigentum in der KI-Branche und könnte weitreichende Folgen für OpenAIs geplante eigene KI-Endgeräte haben.",
+      "titel": "OpenAI, Meta und xAI liefern sich Preiskampf um günstigere KI-Modelle",
+      "text": "Nachdem OpenAI mit der GPT-5.6-Familie (Sol, Terra, Luna) und Meta mit Muse Spark 1.1 zuletzt neue Modelle veröffentlicht hatten, zeigt sich laut Bloomberg: Der eigentliche Wettbewerb verlagert sich von reiner Leistungsfähigkeit auf die Kosten pro Token. OpenAI-Chef Sam Altman erklärte, GPT-5.6 sei beim agentischen Programmieren 54 Prozent tokeneffizienter als Konkurrenzmodelle; das Topmodell Sol kostet 5 Dollar je Million Eingabe- und 30 Dollar je Million Ausgabe-Token, die günstigere Variante Luna nur 1 beziehungsweise 6 Dollar. xAI (SpaceXAI) kontert mit Grok 4.5, dessen API-Preise zwischen 2 und 6 Dollar liegen und explizit auf Kosteneffizienz zielen. Hintergrund ist, dass Unternehmenskunden zunehmend auf die laufenden Betriebskosten von KI-Anwendungen achten statt nur auf Benchmark-Werte, was den Preisdruck auf alle drei Anbieter erhöht. Für Firmenkunden könnte das mittelfristig deutlich günstigere KI-Anwendungen bedeuten, während es die Margen der Anbieter unter Druck setzt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-10",
+      "datum_artikel": "2026-07-12",
       "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Big-Tech-Schuldenlast für KI-Ausbau verdoppelt sich auf 350 Milliarden Dollar",
-      "text": "Alphabet, Amazon, Meta, Microsoft und Oracle haben laut Bloomberg-Daten ihre gemeinsame Schuldenlast in den vergangenen fünf Jahren auf rund 350 Milliarden Dollar verdoppelt, um den Bau von KI-Rechenzentren zu finanzieren. Die fünf größten Rechenzentrumsinvestoren der USA wollen in diesem Jahr Zusagen zufolge bis zu 725 Milliarden Dollar vor allem in Rechenzentren und Nvidia-Chips stecken. Ein Warnsignal: Amazons Anleiheverkauf über mindestens 25 Milliarden Dollar stieß in dieser Woche bei Investoren auf ungewöhnlich verhaltenes Interesse, was laut Bloomberg auf Grenzen der verfügbaren Finanzierung hindeutet. An der Börse zeigt sich wachsende Skepsis: Nur Alphabet-Aktien schlugen in diesem Jahr den S&P 500, während Microsoft- und Oracle-Aktien um mehr als 20 Prozent einbrachen. Die Entwicklung markiert einen Bruch mit dem traditionellen Software-Geschäftsmodell, das bislang mit wenig Kapitalbedarf hohe Margen erzielte, und weckt Sorgen vor einer möglichen KI-Finanzierungsblase.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-10",
-      "unternehmen": "Amazon"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Wall Street kaum verändert - SK-Hynix-Debüt stützt Chip-Aktien",
-      "text": "Am Freitag, den 10. Juli 2026, beendete die Wall Street eine schwankungsreiche Handelswoche kaum verändert, gestützt vom fulminanten Nasdaq-Debüt des südkoreanischen Speicherchip-Herstellers SK Hynix. Die American Depositary Receipts eröffneten bei 170 Dollar - rund 14 Prozent über dem Ausgabepreis von 149 Dollar - und brachten dem Unternehmen 26,5 Milliarden Dollar ein, den größten US-Börsengang eines ausländischen Unternehmens überhaupt. Der Erfolg dämpfte Verluste bei anderen Chip-Titeln, da SK Hynix als zentraler Zulieferer von Hochleistungsspeicherchips (HBM) unter anderem für NVIDIA gilt. Der S&P 500 schloss rund 0,4 Prozent höher bei etwa 7.575 Punkten, der Dow Jones legte rund 0,3 Prozent zu. Belastend blieben die angespannten Beziehungen zwischen den USA und dem Iran, die Anleger weiter genau beobachteten.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-10"
-    },
-    {
-      "titel": "Goldpreis vor Wochenverlust - Golf-Eskalation befeuert Zinserhöhungs-Wetten",
-      "text": "Der Goldpreis steuerte am Freitag, den 10. Juli 2026, trotz eines leichten Tagesplus von 0,2 Prozent auf rund 4.129 Dollar je Feinunze auf ein Wochenminus von über einem Prozent zu. Grund waren eskalierende Angriffe zwischen den USA und dem Iran: Iranische Streitkräfte griffen US-Militäreinrichtungen in Golfstaaten an, nachdem die USA zuvor Ziele an der iranischen Südküste und in östlichen Provinzen bombardiert hatten. Die Sorge vor steigenden Ölpreisen durch den Konflikt schürte Inflationssorgen und stärkte die Erwartung, dass die US-Notenbank Fed an ihrem restriktiven Kurs festhält. Laut CME-FedWatch-Tool preisten Händler eine Wahrscheinlichkeit von 63 Prozent für eine Zinserhöhung im September ein - eine Woche zuvor waren es noch rund 54 Prozent. Höhere Zinsen verteuern tendenziell das Halten von zinslosem Gold und dämpfen damit die Nachfrage, weshalb die Lage im Nahen Osten auch in der kommenden Woche ein zentraler Risikofaktor für den Goldpreis bleiben dürfte.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-10"
+      "titel": "Drei Chip-Aktien dominieren Schwellenländer-Rally - Fonds werden nervös",
+      "text": "Investoren in Schwellenländer-Aktien rotieren laut Bloomberg zunehmend aus den drei dominanten Chip-Werten TSMC, Samsung Electronics und SK Hynix heraus, die zusammen rund 4,4 Billionen Dollar wert sind und einen unverhältnismäßig großen Teil der Indexrenditen liefern. Fonds wie JPMorgan Asset Management und Grantham Mayo Van Otterloo (GMO) suchen inzwischen gezielt Alternativen abseits der KI-Chip-Rally, etwa in Gaming- und Energiewerten oder sogar einem vietnamesischen Milchkonzern. Hintergrund ist die enorme Kursdynamik: Südkoreas Leitindex Kospi hat seit Jahresbeginn rund 90 Prozent zugelegt, Taiwans Börse etwa 50 Prozent, beides massiv getrieben von der KI-Chip-Nachfrage. Bereits Ende Juni hatte BlackRock Schwellenländer-Aktien wegen genau dieses Konzentrationsrisikos heruntergestuft. Die Entwicklung zeigt, dass die KI-Rally an den Weltbörsen nicht mehr nur als Chance, sondern zunehmend auch als Klumpenrisiko wahrgenommen wird - mit möglichen Folgen für die Kursschwankungen, sollte einer der drei Werte enttäuschen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-12"
     }
   ]
 }
