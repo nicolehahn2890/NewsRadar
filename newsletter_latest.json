@@ -1,29 +1,48 @@
 {
-  "datum": "Montag, 13. Juli 2026",
-  "generiert": "2026-07-13",
+  "datum": "Dienstag, 14. Juli 2026",
+  "generiert": "2026-07-14",
   "ki_stories": [
     {
-      "titel": "Chinesisches KI-Labor Zhipu macht Top-Modell GLM-5.2 komplett kostenlos",
-      "text": "Der Gründer des chinesischen KI-Labors Zhipu, Tang Jie, verteidigte in einem internen, von Bloomberg eingesehenen Memo die freie Zugänglichkeit von KI-Spitzenmodellen: echte Sicherheit entstehe durch breite Beteiligung und Kontrolle, nicht durch technologische Barrieren. Zhipu untermauerte das mit der Veröffentlichung von GLM-5.2 als Open-Source-Modell, das sich kostenlos herunterladen, anpassen und auf eigenen Servern betreiben lässt. Das Mixture-of-Experts-Modell mit 744 Milliarden Parametern (40 Milliarden aktiv) und einem auf 1 Million Token vervierfachten Kontextfenster kommt bei einem wichtigen Agenten-Benchmark bis auf einen Prozentpunkt an Anthropics Opus 4.8 heran - zu etwa einem Fünftel der Kosten. Brisant ist das Timing: Am selben Tag, an dem die Trump-Regierung anordnete, Anthropics Spitzenmodelle Fable 5 und Mythos 5 für ausländische Nutzer zu sperren, machte Zhipu sein Modell weltweit frei verfügbar. Die Hongkong-notierte Zhipu-Aktie schoss daraufhin zeitweise um 48 Prozent nach oben und schloss 32,8 Prozent höher bei 1.457 Hongkong-Dollar. Die Episode zeigt, wie US-Exportbeschränkungen chinesischen Open-Source-Modellen ungewollt zu mehr Verbreitung verhelfen könnten.",
+      "titel": "Bloomberg-Analyse: Sorge vor Verkümmerung menschlicher Denkfähigkeiten durch KI wächst",
+      "text": "Bloomberg fasst in einer am 13. Juli veröffentlichten Analyse neue Forschung zusammen, wonach die ständige Delegation von Denkaufgaben an KI-Systeme kritisches Denken und Gedächtnisleistung schwächen könnte. Konkret nennt der Bericht eine Studie, laut der die Fähigkeit von Ärzten, Tumore ohne KI-Unterstützung zu erkennen, innerhalb von drei Monaten nach Einführung eines KI-Assistenten um 6 Prozent zurückging. Forscher sprechen inzwischen von 'kognitiver Verschuldung' - jede Entscheidung, die man einer KI überlässt, baut eigene Urteilsfähigkeit ab. Einen direkten Langzeitbeweis für echte Denkverkümmerung gibt es zwar noch nicht, da bisher keine Studie dieselben Personen über Jahre unter KI-Nutzung beobachtet hat. Die wachsende Zahl an Einzelbefunden aus Medizin und anderen Berufsfeldern reicht Experten aber inzwischen, um vor einem echten Risiko zu warnen. Die Debatte trifft einen Nerv, weil KI-Assistenten wie ChatGPT, Claude und Gemini mittlerweile täglich von hunderten Millionen Berufstätigen genutzt werden.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-12"
+      "datum_artikel": "2026-07-13"
+    },
+    {
+      "titel": "Großbritannien stellt AWS, Azure, Google Cloud und Oracle unter Finanzaufsicht",
+      "text": "Das britische Finanzministerium (HM Treasury) hat Amazon Web Services, Microsoft Azure, Google Cloud und Oracle mit Wirkung zum 13. Juli offiziell als 'Critical Third Parties' für das britische Finanzsystem eingestuft. Damit unterliegen die vier Cloud-Anbieter erstmals der direkten Aufsicht durch die Bank of England, die Prudential Regulation Authority (PRA) und die Financial Conduct Authority (FCA). Hintergrund ist die wachsende Abhängigkeit von Banken und Versicherern von wenigen großen Cloud- und KI-Infrastrukturanbietern - ein Ausfall bei einem der vier könnte laut den Aufsehern die Stabilität des gesamten Finanzsektors gefährden. Die Regulierer erhalten nun direkte Eingriffsrechte bei als kritisch eingestuften Diensten und können bei Bedarf Sicherheits- und Ausfallvorgaben durchsetzen. HM Treasury kündigte an, in Zukunft möglicherweise weitere Anbieter in die Regelung aufzunehmen. Die Maßnahme zeigt, wie stark Regulierer weltweit inzwischen die Marktmacht weniger Cloud-Konzerne im KI-Zeitalter als Systemrisiko begreifen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-13"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI, Meta und xAI liefern sich Preiskampf um günstigere KI-Modelle",
-      "text": "Nachdem OpenAI mit der GPT-5.6-Familie (Sol, Terra, Luna) und Meta mit Muse Spark 1.1 zuletzt neue Modelle veröffentlicht hatten, zeigt sich laut Bloomberg: Der eigentliche Wettbewerb verlagert sich von reiner Leistungsfähigkeit auf die Kosten pro Token. OpenAI-Chef Sam Altman erklärte, GPT-5.6 sei beim agentischen Programmieren 54 Prozent tokeneffizienter als Konkurrenzmodelle; das Topmodell Sol kostet 5 Dollar je Million Eingabe- und 30 Dollar je Million Ausgabe-Token, die günstigere Variante Luna nur 1 beziehungsweise 6 Dollar. xAI (SpaceXAI) kontert mit Grok 4.5, dessen API-Preise zwischen 2 und 6 Dollar liegen und explizit auf Kosteneffizienz zielen. Hintergrund ist, dass Unternehmenskunden zunehmend auf die laufenden Betriebskosten von KI-Anwendungen achten statt nur auf Benchmark-Werte, was den Preisdruck auf alle drei Anbieter erhöht. Für Firmenkunden könnte das mittelfristig deutlich günstigere KI-Anwendungen bedeuten, während es die Margen der Anbieter unter Druck setzt.",
+      "titel": "Anthropic führt lokalisierte Claude-Preise in Indien ein",
+      "text": "Anthropic hat am 13. Juli begonnen, für Claude in Indien lokal angepasste Preise einzuführen - dem nach den USA zweitgrößten Markt des Unternehmens. Indien steht laut Anthropic für 5,8 Prozent der weltweiten Claude-Nutzung. Die neuen, an die lokale Kaufkraft angepassten Preise erscheinen bereits für einzelne Nutzer auf der Claude-Website und in den mobilen Apps. Eine Anbindung an Indiens verbreitetes Sofortzahlungssystem UPI gibt es aber noch nicht - bezahlt werden muss weiterhin per Kreditkarte oder über die App-Store-Abrechnung von Apple und Google. Der Schritt reiht sich ein in einen Trend, bei dem große KI-Anbieter ihre Preise zunehmend an einzelne Ländermärkte anpassen, um in bevölkerungsreichen Wachstumsmärkten wie Indien stärker Fuß zu fassen. Anthropic reagiert damit auch auf verschärften Wettbewerb um Nutzerzahlen mit OpenAI und Google in der Region.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-07-13",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "TSMC-Aktie nahe Rekordhoch vor Quartalszahlen am 16. Juli",
+      "text": "Die Aktie von Taiwan Semiconductor Manufacturing (TSMC) notierte am 13. Juli weiter nahe ihrem Rekordhoch, gestützt von ungebrochener Nachfrage nach KI-Chips. Der Titel hat in den vergangenen drei Monaten rund 20 Prozent zugelegt und damit deutlich stärker als der breite Halbleitersektor, der zuletzt unter Druck stand. Analysten von Bank of America hoben ihr Kursziel für TSMC jüngst weiter an, mit Verweis auf die anhaltend starke Auslastung durch Großkunden wie Nvidia, Apple und AMD. Für Donnerstag, den 16. Juli, erwartet die Wall Street den Quartalsbericht des Unternehmens, nachdem TSMC für das erste Halbjahr 2026 bereits ein Umsatzplus von 35 Prozent auf umgerechnet rund 24 Billionen Taiwan-Dollar gemeldet hatte. Damit steht TSMC im scharfen Kontrast zu den zuletzt schwer unter Druck geratenen Speicherchip-Herstellern wie SK Hynix und Micron. Die divergierende Entwicklung zeigt, wie unterschiedlich einzelne Segmente des Chipmarkts derzeit auf die KI-Nachfrage reagieren.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-12",
-      "unternehmen": "OpenAI"
+      "datum_artikel": "2026-07-13",
+      "unternehmen": "TSMC"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Drei Chip-Aktien dominieren Schwellenländer-Rally - Fonds werden nervös",
-      "text": "Investoren in Schwellenländer-Aktien rotieren laut Bloomberg zunehmend aus den drei dominanten Chip-Werten TSMC, Samsung Electronics und SK Hynix heraus, die zusammen rund 4,4 Billionen Dollar wert sind und einen unverhältnismäßig großen Teil der Indexrenditen liefern. Fonds wie JPMorgan Asset Management und Grantham Mayo Van Otterloo (GMO) suchen inzwischen gezielt Alternativen abseits der KI-Chip-Rally, etwa in Gaming- und Energiewerten oder sogar einem vietnamesischen Milchkonzern. Hintergrund ist die enorme Kursdynamik: Südkoreas Leitindex Kospi hat seit Jahresbeginn rund 90 Prozent zugelegt, Taiwans Börse etwa 50 Prozent, beides massiv getrieben von der KI-Chip-Nachfrage. Bereits Ende Juni hatte BlackRock Schwellenländer-Aktien wegen genau dieses Konzentrationsrisikos heruntergestuft. Die Entwicklung zeigt, dass die KI-Rally an den Weltbörsen nicht mehr nur als Chance, sondern zunehmend auch als Klumpenrisiko wahrgenommen wird - mit möglichen Folgen für die Kursschwankungen, sollte einer der drei Werte enttäuschen.",
+      "titel": "Speicherchip-Aktien stürzen nach SK-Hynix-Gewinnwarnung ab - TSMC hält dagegen",
+      "text": "Eine schwache Gewinnschätzung des südkoreanischen Analysehauses KIS für SK Hynix - rund 8 Prozent unter dem Marktkonsens, wegen schleppender Auslieferungen des Speicherchips HBM4 - löste am 13. Juli einen Ausverkauf bei Speicherchip-Aktien aus. Die SK-Hynix-Aktie brach um 15 Prozent ein und führte zu einem 20-minütigen Handelsstopp am südkoreanischen Leitindex Kospi, der insgesamt rund 9 Prozent verlor. Micron, SanDisk und Western Digital gaben jeweils etwa 6 Prozent nach, Intel, AMD und Applied Materials rund 4 Prozent - verstärkt durch steigende Ölpreise infolge neuer US-Iran-Spannungen, die die Energiekosten der Chipproduktion belasten. Erst tags zuvor hatten Fondsmanager laut Bloomberg vor genau diesem Konzentrationsrisiko gewarnt, weil TSMC, Samsung und SK Hynix zusammen einen unverhältnismäßig großen Teil der Schwellenländer-Indizes ausmachen - nun zeigt sich das Risiko konkret an einem der drei Werte. Am 14. Juli blieb die SK-Hynix-Aktie in Seoul volatil, nachdem der Ausverkauf zuvor auch an der Wall Street auf US-Speicherchip-Werte übergeschwappt war. Auffällig ist die Kontrastentwicklung zu TSMC, dessen Aktie sich nahe ihrem Rekordhoch hält - der Ausverkauf betrifft also gezielt Speicherchip-Hersteller, nicht den gesamten Halbleitersektor.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-12"
+      "datum_artikel": "2026-07-14"
+    },
+    {
+      "titel": "Goldpreis fällt unter 4.000 Dollar nach Fed-Äußerungen zu möglicher Zinserhöhung",
+      "text": "Der Goldpreis rutschte am 13. Juli erstmals seit Wochen unter die Marke von 4.000 Dollar je Feinunze. Auslöser waren Äußerungen von Fed-Gouverneur Christopher Waller, wonach die US-Notenbank in naher Zukunft möglicherweise die Zinsen anheben müsse - ein deutlicher Kurswechsel gegenüber der bisherigen Erwartung sinkender oder stabiler Zinsen. Höhere Zinsen verteuern das Halten von Gold, das selbst keine Zinsen abwirft, und machen verzinste Anlagen wie Anleihen im Vergleich attraktiver. Der Rückgang fällt zusammen mit steigenden Ölpreisen wegen der eskalierenden US-Iran-Spannungen, die zusätzlich Inflationssorgen schüren und damit die Wahrscheinlichkeit einer Fed-Zinserhöhung aus Anlegersicht weiter erhöhen. Der Dollar zog im Zuge der Waller-Äußerungen an, was Gold für Käufer außerhalb der USA zusätzlich verteuerte. Nach Wochen, in denen der Goldpreis meist um die 4.100 bis 4.160 Dollar pendelte, markiert der Bruch der 4.000-Dollar-Marke damit eine spürbare Verschärfung der Zinserwartungen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-13"
     }
   ]
 }
