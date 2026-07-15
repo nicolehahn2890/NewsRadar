@@ -1,48 +1,73 @@
 {
-  "datum": "Dienstag, 14. Juli 2026",
-  "generiert": "2026-07-14",
+  "datum": "Mittwoch, 15. Juli 2026",
+  "generiert": "2026-07-15",
   "ki_stories": [
     {
-      "titel": "Bloomberg-Analyse: Sorge vor Verkümmerung menschlicher Denkfähigkeiten durch KI wächst",
-      "text": "Bloomberg fasst in einer am 13. Juli veröffentlichten Analyse neue Forschung zusammen, wonach die ständige Delegation von Denkaufgaben an KI-Systeme kritisches Denken und Gedächtnisleistung schwächen könnte. Konkret nennt der Bericht eine Studie, laut der die Fähigkeit von Ärzten, Tumore ohne KI-Unterstützung zu erkennen, innerhalb von drei Monaten nach Einführung eines KI-Assistenten um 6 Prozent zurückging. Forscher sprechen inzwischen von 'kognitiver Verschuldung' - jede Entscheidung, die man einer KI überlässt, baut eigene Urteilsfähigkeit ab. Einen direkten Langzeitbeweis für echte Denkverkümmerung gibt es zwar noch nicht, da bisher keine Studie dieselben Personen über Jahre unter KI-Nutzung beobachtet hat. Die wachsende Zahl an Einzelbefunden aus Medizin und anderen Berufsfeldern reicht Experten aber inzwischen, um vor einem echten Risiko zu warnen. Die Debatte trifft einen Nerv, weil KI-Assistenten wie ChatGPT, Claude und Gemini mittlerweile täglich von hunderten Millionen Berufstätigen genutzt werden.",
+      "titel": "Xi Jinping hält erstmals persönlich Eröffnungsrede bei Chinas KI-Gipfel WAIC",
+      "text": "Chinas Staatschef Xi Jinping wird laut Bloomberg-Berichten vom 13. Juli erstmals seit Beginn der Veranstaltung 2018 persönlich an der Eröffnung der World Artificial Intelligence Conference (WAIC) in Shanghai teilnehmen und eine Keynote halten. Die Konferenz läuft vom 17. bis 20. Juli und umfasst mehr als 140 Foren, rund 1.400 Gäste und über 1.100 Aussteller mit mehr als 300 Weltpremieren. Xi will nach offiziellen Angaben Chinas Positionen zu KI-Entwicklung und -Governance darlegen; im Zentrum steht der Vorschlag einer neuen globalen KI-Kooperationsorganisation (WAICO) mit Sitz in Shanghai. Sein persönliches Erscheinen unterstreicht, wie stark Peking KI inzwischen als strategisches Feld im Wettlauf mit den USA einstuft. Beobachter werten den Auftritt als Versuch, sich als Gegenpol zu den USA bei internationalen KI-Regeln zu positionieren.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-13"
     },
     {
-      "titel": "Großbritannien stellt AWS, Azure, Google Cloud und Oracle unter Finanzaufsicht",
-      "text": "Das britische Finanzministerium (HM Treasury) hat Amazon Web Services, Microsoft Azure, Google Cloud und Oracle mit Wirkung zum 13. Juli offiziell als 'Critical Third Parties' für das britische Finanzsystem eingestuft. Damit unterliegen die vier Cloud-Anbieter erstmals der direkten Aufsicht durch die Bank of England, die Prudential Regulation Authority (PRA) und die Financial Conduct Authority (FCA). Hintergrund ist die wachsende Abhängigkeit von Banken und Versicherern von wenigen großen Cloud- und KI-Infrastrukturanbietern - ein Ausfall bei einem der vier könnte laut den Aufsehern die Stabilität des gesamten Finanzsektors gefährden. Die Regulierer erhalten nun direkte Eingriffsrechte bei als kritisch eingestuften Diensten und können bei Bedarf Sicherheits- und Ausfallvorgaben durchsetzen. HM Treasury kündigte an, in Zukunft möglicherweise weitere Anbieter in die Regelung aufzunehmen. Die Maßnahme zeigt, wie stark Regulierer weltweit inzwischen die Marktmacht weniger Cloud-Konzerne im KI-Zeitalter als Systemrisiko begreifen.",
-      "quelle": "Reuters",
+      "titel": "Anthropic und OpenAI warnen vor Wissensabfluss durch Distillation chinesischer Labore",
+      "text": "Laut Bloomberg vom 13. Juli haben Anthropic und OpenAI in Washington eine Debatte über sogenannte Distillation ausgelöst - die Praxis, bei der chinesische KI-Labore Ausgaben westlicher Spitzenmodelle nutzen, um eigene, günstigere Modelle zu trainieren. Anthropic hatte bereits bei der Einführung seines Modells Fable 5 Anfang Juni eine Strategie skizziert, um Missbrauch für Cyberangriffe oder biologische und chemische Waffen zu verhindern, und dabei auch Bedenken zur Distillation geäußert. Die Debatte in Washington dreht sich nun darum, ob und wie US-Firmen ihre Modell-Ausgaben technisch oder rechtlich besser vor dem Zugriff durch Konkurrenten wie DeepSeek schützen können. Hintergrund ist der wachsende Kostendruck durch günstige chinesische Modelle, die westliche Anbieter zunehmend unter Druck setzen. Eine regulatorische Reaktion aus Washington gilt als möglich, ist aber noch nicht konkret.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-07-13"
-    }
-  ],
-  "unternehmen_stories": [
-    {
-      "titel": "Anthropic führt lokalisierte Claude-Preise in Indien ein",
-      "text": "Anthropic hat am 13. Juli begonnen, für Claude in Indien lokal angepasste Preise einzuführen - dem nach den USA zweitgrößten Markt des Unternehmens. Indien steht laut Anthropic für 5,8 Prozent der weltweiten Claude-Nutzung. Die neuen, an die lokale Kaufkraft angepassten Preise erscheinen bereits für einzelne Nutzer auf der Claude-Website und in den mobilen Apps. Eine Anbindung an Indiens verbreitetes Sofortzahlungssystem UPI gibt es aber noch nicht - bezahlt werden muss weiterhin per Kreditkarte oder über die App-Store-Abrechnung von Apple und Google. Der Schritt reiht sich ein in einen Trend, bei dem große KI-Anbieter ihre Preise zunehmend an einzelne Ländermärkte anpassen, um in bevölkerungsreichen Wachstumsmärkten wie Indien stärker Fuß zu fassen. Anthropic reagiert damit auch auf verschärften Wettbewerb um Nutzerzahlen mit OpenAI und Google in der Region.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-07-13",
-      "unternehmen": "Anthropic"
     },
     {
-      "titel": "TSMC-Aktie nahe Rekordhoch vor Quartalszahlen am 16. Juli",
-      "text": "Die Aktie von Taiwan Semiconductor Manufacturing (TSMC) notierte am 13. Juli weiter nahe ihrem Rekordhoch, gestützt von ungebrochener Nachfrage nach KI-Chips. Der Titel hat in den vergangenen drei Monaten rund 20 Prozent zugelegt und damit deutlich stärker als der breite Halbleitersektor, der zuletzt unter Druck stand. Analysten von Bank of America hoben ihr Kursziel für TSMC jüngst weiter an, mit Verweis auf die anhaltend starke Auslastung durch Großkunden wie Nvidia, Apple und AMD. Für Donnerstag, den 16. Juli, erwartet die Wall Street den Quartalsbericht des Unternehmens, nachdem TSMC für das erste Halbjahr 2026 bereits ein Umsatzplus von 35 Prozent auf umgerechnet rund 24 Billionen Taiwan-Dollar gemeldet hatte. Damit steht TSMC im scharfen Kontrast zu den zuletzt schwer unter Druck geratenen Speicherchip-Herstellern wie SK Hynix und Micron. Die divergierende Entwicklung zeigt, wie unterschiedlich einzelne Segmente des Chipmarkts derzeit auf die KI-Nachfrage reagieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-13",
-      "unternehmen": "TSMC"
-    }
-  ],
-  "boerse_stories": [
-    {
-      "titel": "Speicherchip-Aktien stürzen nach SK-Hynix-Gewinnwarnung ab - TSMC hält dagegen",
-      "text": "Eine schwache Gewinnschätzung des südkoreanischen Analysehauses KIS für SK Hynix - rund 8 Prozent unter dem Marktkonsens, wegen schleppender Auslieferungen des Speicherchips HBM4 - löste am 13. Juli einen Ausverkauf bei Speicherchip-Aktien aus. Die SK-Hynix-Aktie brach um 15 Prozent ein und führte zu einem 20-minütigen Handelsstopp am südkoreanischen Leitindex Kospi, der insgesamt rund 9 Prozent verlor. Micron, SanDisk und Western Digital gaben jeweils etwa 6 Prozent nach, Intel, AMD und Applied Materials rund 4 Prozent - verstärkt durch steigende Ölpreise infolge neuer US-Iran-Spannungen, die die Energiekosten der Chipproduktion belasten. Erst tags zuvor hatten Fondsmanager laut Bloomberg vor genau diesem Konzentrationsrisiko gewarnt, weil TSMC, Samsung und SK Hynix zusammen einen unverhältnismäßig großen Teil der Schwellenländer-Indizes ausmachen - nun zeigt sich das Risiko konkret an einem der drei Werte. Am 14. Juli blieb die SK-Hynix-Aktie in Seoul volatil, nachdem der Ausverkauf zuvor auch an der Wall Street auf US-Speicherchip-Werte übergeschwappt war. Auffällig ist die Kontrastentwicklung zu TSMC, dessen Aktie sich nahe ihrem Rekordhoch hält - der Ausverkauf betrifft also gezielt Speicherchip-Hersteller, nicht den gesamten Halbleitersektor.",
+      "titel": "JPMorgan bremst Mitarbeiter beim Einsatz teurer KI-Modelle für einfache Aufgaben",
+      "text": "JPMorgan-Finanzchef Jeremy Barnum sagte laut Bloomberg am Dienstag (14. Juli) beim Analystencall zu den Quartalszahlen, man brauche nicht für jede einfache Aufgabe das teuerste, modernste KI-Modell - etwa um einen Analystenbericht zusammenzufassen reiche ein günstigeres Modell. Die größte US-Bank will künftig stärker zwischen einfachen und komplexen Anwendungsfällen unterscheiden und dabei auch verstärkt auf Open-Source-Modelle setzen, um die Kosten im Griff zu behalten. Bislang sind die Token-Kosten für JPMorgan noch gering, die Bank rechnet aber in der zweiten Jahreshälfte 2026 mit einem spürbaren Anstieg der KI-Ausgaben. Der Vorstoß zeigt, dass Großunternehmen zunehmend auf Kosteneffizienz beim KI-Einsatz achten, statt unreflektiert auf die jeweils neuesten und teuersten Modelle zu setzen. Das könnte mittelfristig auch die Preisgestaltung der großen KI-Anbieter beeinflussen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-14"
     },
     {
-      "titel": "Goldpreis fällt unter 4.000 Dollar nach Fed-Äußerungen zu möglicher Zinserhöhung",
-      "text": "Der Goldpreis rutschte am 13. Juli erstmals seit Wochen unter die Marke von 4.000 Dollar je Feinunze. Auslöser waren Äußerungen von Fed-Gouverneur Christopher Waller, wonach die US-Notenbank in naher Zukunft möglicherweise die Zinsen anheben müsse - ein deutlicher Kurswechsel gegenüber der bisherigen Erwartung sinkender oder stabiler Zinsen. Höhere Zinsen verteuern das Halten von Gold, das selbst keine Zinsen abwirft, und machen verzinste Anlagen wie Anleihen im Vergleich attraktiver. Der Rückgang fällt zusammen mit steigenden Ölpreisen wegen der eskalierenden US-Iran-Spannungen, die zusätzlich Inflationssorgen schüren und damit die Wahrscheinlichkeit einer Fed-Zinserhöhung aus Anlegersicht weiter erhöhen. Der Dollar zog im Zuge der Waller-Äußerungen an, was Gold für Käufer außerhalb der USA zusätzlich verteuerte. Nach Wochen, in denen der Goldpreis meist um die 4.100 bis 4.160 Dollar pendelte, markiert der Bruch der 4.000-Dollar-Marke damit eine spürbare Verschärfung der Zinserwartungen.",
+      "titel": "DeepSeek-Gründer Liang Wenfeng überholt Amodei und Brockman als reichster KI-Entwickler",
+      "text": "Der Gründer des chinesischen KI-Labors DeepSeek, Liang Wenfeng, ist laut Bloomberg vom 14. Juli nach einer jüngsten Finanzierungsrunde seines Unternehmens nun der vermögendste Gründer eines KI-Modell-Entwicklers weltweit. Sein Vermögen hat sich auf rund 36 Milliarden Dollar mehr als verdoppelt, zuvor waren es etwa 16,7 Milliarden Dollar. Damit liegt er nun vor Anthropic-Mitgründer Dario Amodei und OpenAI-Mitgründer Greg Brockman. Der Sprung markiert einen weiteren Beleg dafür, wie stark chinesische KI-Anbieter trotz US-Exportbeschränkungen bei Chips inzwischen finanziell und technologisch aufgeholt haben. Für die etablierten US-Anbieter erhöht das den Druck, ihre Kostenstruktur und Preismodelle zu verteidigen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-13"
+      "datum_artikel": "2026-07-14"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "Nvidia darf erstmals wieder H200-Chips mit US-Lizenz nach China liefern",
+      "text": "Laut Bloomberg vom 14. Juli hat Nvidia eine kleine Menge seiner H200-KI-Chips mit einer Exportlizenz der US-Regierung an Kunden in China ausgeliefert. Das bestätigte Jeffrey Kessler, der im US-Handelsministerium für Exportkontrollen zuständige Staatssekretär, am Dienstag; konkrete Mengen oder Käufer nannte er nicht, sprach aber von einer trivialen Stückzahl. Die Lieferung folgt auf eine im Februar erteilte Lizenz für weniger leistungsfähige H200-Chips und markiert einen weiteren kleinen Schritt zurück in den weltgrößten Halbleitermarkt, aus dem Nvidia durch US-Exportbeschränkungen weitgehend ausgeschlossen war. Für Nvidia geht es dabei um Milliardenumsätze, da chinesische Kunden zuletzt verstärkt auf einheimische Alternativen ausgewichen sind. Wie stark sich die Freigabe auf künftige Quartalszahlen auswirkt, bleibt wegen der weiterhin engen politischen Beschränkungen unklar.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-14",
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "OpenAI verlangt Abweisung der xAI-Klage, während auch der Apple-Streit eskaliert",
+      "text": "OpenAI hat laut Bloomberg vom 14. Juli bei einem Gericht beantragt festzustellen, dass eine Klage von Elon Musks xAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen nie hätte eingereicht werden dürfen, und verlangt die Erstattung von mehr als einer Million Dollar an Anwaltskosten. Der Antrag kam nur Stunden, nachdem xAI angekündigt hatte, gegen die wiederholte Abweisung seiner Vorwürfe in Berufung zu gehen - xAI wirft OpenAI vor, gezielt Mitarbeiter abgeworben und zum Diebstahl vertraulicher Informationen ermutigt zu haben. Parallel dazu spitzt sich auch der bereits Anfang Juli bekannt gewordene Rechtsstreit mit Apple zu, in dem Apple OpenAI und früheren Apple-Mitarbeitern vorwirft, vertrauliche Produktentwürfe für künftige KI-Hardware gestohlen zu haben. Die beiden parallelen Verfahren zeigen, wie aggressiv sich die großen KI-Anbieter inzwischen auch juristisch gegenseitig unter Druck setzen. Ein Gerichtstermin in der xAI-Sache steht noch nicht fest.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-14",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Metas Rechenzentrum in Louisiana wächst auf über 250 Milliarden Dollar",
+      "text": "Meta hat laut Bloomberg vom 13. Juli seine Investitionspläne für den Rechenzentrums-Campus in Louisiana erneut aufgestockt: Weitere 40 Milliarden Dollar sollen in den Ausbau fließen, damit steigt das Gesamtvolumen des Projekts auf über 250 Milliarden Dollar. Die Anlage soll auf mindestens 5 Gigawatt Rechenleistung ausgebaut werden, ein einzelner Erweiterungsschritt allein ist mit rund 50 Milliarden Dollar veranschlagt. Der Ausbau ist Teil von Metas milliardenschwerem Wettrüsten um KI-Rechenkapazität und ergänzt weitere Großprojekte wie ein neues Rechenzentrum in Kanada im Volumen von rund 10 Milliarden Dollar. Zuckerberg hatte zuletzt zudem angedeutet, überschüssige Rechenkapazität künftig auch an externe Kunden vermieten zu wollen, ähnlich wie es Amazon, Microsoft und Google mit ihren Cloud-Sparten tun. Die immensen Investitionssummen erhöhen den Druck auf Meta, aus seinen KI-Produkten zeitnah Erträge zu erwirtschaften.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-13",
+      "unternehmen": "Meta"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "Ölpreis-Schub durch Iran-Blockade lässt Gold über 4.000 Dollar steigen, Inflationsdaten bremsen dann Fed-Wetten",
+      "text": "Nachdem US-Präsident Donald Trump am Wochenende eine Blockade iranischer Häfen nahe der Straße von Hormus verkündet und einen 20-Prozent-Aufschlag auf die Fracht durch die Meerenge verhängt hatte, sprang der Ölpreis deutlich: US-Rohöl kletterte laut Bloomberg um mehr als 5 Prozent über 75 Dollar je Barrel, die Sorte Brent stieg erstmals seit einem Monat über 85 Dollar. Der Goldpreis, der zuvor unter die Marke von 4.000 Dollar gefallen war, erholte sich dadurch am Dienstag wieder über 4.000 Dollar, da steigende Ölpreise die Inflationssorgen und damit die Wetten auf eine Fed-Zinserhöhung anheizten. Am Dienstagnachmittag dämpften dann schwächer als erwartete US-Verbraucherpreise für Juni (3,5 Prozent Jahresrate statt der erwarteten 3,8 Prozent) die Zinserhöhungswetten wieder deutlich: Die eingepreiste Wahrscheinlichkeit für eine Fed-Zinserhöhung am 29. Juli fiel von rund 42 auf etwa 17 Prozent. Der S&P 500 profitierte von der Entspannung und schloss laut Bloomberg 0,4 Prozent höher, nachdem er den Handelstag zuvor noch deutlich verloren hatte; der Nasdaq 100 legte dank einer Erholung bei den südkoreanischen Speicherchip-Werten SK Hynix und Samsung sogar um 1,1 Prozent zu. Für die Fed-Zinsentscheidung Ende Juli bleibt die Gemengelage aus Ölpreis-Risiko und nachlassendem Inflationsdruck damit weiterhin ungewöhnlich unklar.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-14"
+    },
+    {
+      "titel": "Nikkei und Hang Seng uneinheitlich: Energiewerte in Tokio gefragt, Aluminium-Riese treibt Hongkong",
+      "text": "Der japanische Nikkei 225 drehte am Dienstag ins Plus und schloss 0,7 Prozent höher bei 67.743,50 Punkten, gestützt von Energiewerten, die von den steigenden Ölpreisen profitierten: Der Öl- und Gasproduzent Inpex legte um 3,9 Prozent zu, Idemitsu Kosan um knapp 2 Prozent und Cosmo Energy um 1,5 Prozent. Der Hang Seng in Hongkong schloss dagegen 0,72 Prozent tiefer bei 24.039,32 Punkten, erholte sich aber in der letzten Handelsstunde deutlich, angetrieben von Rohstoff- und Energiewerten. Top-Gewinner war der Staatskonzern Aluminum Corporation of China (Chalco) mit einem Kurssprung von über 9 Prozent, nachdem das Unternehmen für das erste Halbjahr einen Gewinnsprung von 58 bis 73 Prozent gegenüber dem Vorjahr in Aussicht gestellt hatte. Der deutsche DAX bewegte sich mit einem Plus von 0,1 Prozent kaum vom Fleck. Die divergierende Entwicklung in Asien zeigt, wie unterschiedlich Ölpreis-Anstieg und Rohstoff-Nachfrage einzelne Sektoren und Märkte derzeit treffen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-14"
+    },
+    {
+      "titel": "US-Bankenquartal startet stark: JPMorgan übertrifft Erwartungen, Wells Fargo verfehlt bei Zinserträgen",
+      "text": "Zum Auftakt der US-Berichtssaison legten die großen Banken am Dienstag ihre Zahlen für das zweite Quartal vor. JPMorgan übertraf laut Bloomberg die Erwartungen deutlich dank starker Erträge im Aktienhandel, verfehlte aber bei den Erträgen aus Anleihen- und Rohstoffhandel (FICC) leicht die Prognosen. Wells Fargo verdiente im Quartal 5,25 Milliarden Dollar beziehungsweise 1,60 Dollar je Aktie, mehr als die von Analysten erwarteten 1,58 Dollar und deutlich mehr als die 4,89 Milliarden Dollar des Vorjahresquartals. Der Nettozinsertrag blieb mit 12,1 Milliarden Dollar aber unter der Analystenerwartung von 12,3 Milliarden Dollar, was die Wells-Fargo-Aktie vorbörslich um 2,8 Prozent fallen ließ. Der Start der Bankenberichtssaison gilt als wichtiger Stimmungstest für die gesamte US-Wirtschaft, da er Aufschluss über Kreditvergabe, Zinsumfeld und die Investmentbanking-Aktivität großer Unternehmen gibt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-14"
     }
   ]
 }
