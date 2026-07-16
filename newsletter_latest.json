@@ -1,73 +1,42 @@
 {
-  "datum": "Mittwoch, 15. Juli 2026",
-  "generiert": "2026-07-15",
-  "ki_stories": [
-    {
-      "titel": "Xi Jinping hält erstmals persönlich Eröffnungsrede bei Chinas KI-Gipfel WAIC",
-      "text": "Chinas Staatschef Xi Jinping wird laut Bloomberg-Berichten vom 13. Juli erstmals seit Beginn der Veranstaltung 2018 persönlich an der Eröffnung der World Artificial Intelligence Conference (WAIC) in Shanghai teilnehmen und eine Keynote halten. Die Konferenz läuft vom 17. bis 20. Juli und umfasst mehr als 140 Foren, rund 1.400 Gäste und über 1.100 Aussteller mit mehr als 300 Weltpremieren. Xi will nach offiziellen Angaben Chinas Positionen zu KI-Entwicklung und -Governance darlegen; im Zentrum steht der Vorschlag einer neuen globalen KI-Kooperationsorganisation (WAICO) mit Sitz in Shanghai. Sein persönliches Erscheinen unterstreicht, wie stark Peking KI inzwischen als strategisches Feld im Wettlauf mit den USA einstuft. Beobachter werten den Auftritt als Versuch, sich als Gegenpol zu den USA bei internationalen KI-Regeln zu positionieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-13"
-    },
-    {
-      "titel": "Anthropic und OpenAI warnen vor Wissensabfluss durch Distillation chinesischer Labore",
-      "text": "Laut Bloomberg vom 13. Juli haben Anthropic und OpenAI in Washington eine Debatte über sogenannte Distillation ausgelöst - die Praxis, bei der chinesische KI-Labore Ausgaben westlicher Spitzenmodelle nutzen, um eigene, günstigere Modelle zu trainieren. Anthropic hatte bereits bei der Einführung seines Modells Fable 5 Anfang Juni eine Strategie skizziert, um Missbrauch für Cyberangriffe oder biologische und chemische Waffen zu verhindern, und dabei auch Bedenken zur Distillation geäußert. Die Debatte in Washington dreht sich nun darum, ob und wie US-Firmen ihre Modell-Ausgaben technisch oder rechtlich besser vor dem Zugriff durch Konkurrenten wie DeepSeek schützen können. Hintergrund ist der wachsende Kostendruck durch günstige chinesische Modelle, die westliche Anbieter zunehmend unter Druck setzen. Eine regulatorische Reaktion aus Washington gilt als möglich, ist aber noch nicht konkret.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-13"
-    },
-    {
-      "titel": "JPMorgan bremst Mitarbeiter beim Einsatz teurer KI-Modelle für einfache Aufgaben",
-      "text": "JPMorgan-Finanzchef Jeremy Barnum sagte laut Bloomberg am Dienstag (14. Juli) beim Analystencall zu den Quartalszahlen, man brauche nicht für jede einfache Aufgabe das teuerste, modernste KI-Modell - etwa um einen Analystenbericht zusammenzufassen reiche ein günstigeres Modell. Die größte US-Bank will künftig stärker zwischen einfachen und komplexen Anwendungsfällen unterscheiden und dabei auch verstärkt auf Open-Source-Modelle setzen, um die Kosten im Griff zu behalten. Bislang sind die Token-Kosten für JPMorgan noch gering, die Bank rechnet aber in der zweiten Jahreshälfte 2026 mit einem spürbaren Anstieg der KI-Ausgaben. Der Vorstoß zeigt, dass Großunternehmen zunehmend auf Kosteneffizienz beim KI-Einsatz achten, statt unreflektiert auf die jeweils neuesten und teuersten Modelle zu setzen. Das könnte mittelfristig auch die Preisgestaltung der großen KI-Anbieter beeinflussen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-14"
-    },
-    {
-      "titel": "DeepSeek-Gründer Liang Wenfeng überholt Amodei und Brockman als reichster KI-Entwickler",
-      "text": "Der Gründer des chinesischen KI-Labors DeepSeek, Liang Wenfeng, ist laut Bloomberg vom 14. Juli nach einer jüngsten Finanzierungsrunde seines Unternehmens nun der vermögendste Gründer eines KI-Modell-Entwicklers weltweit. Sein Vermögen hat sich auf rund 36 Milliarden Dollar mehr als verdoppelt, zuvor waren es etwa 16,7 Milliarden Dollar. Damit liegt er nun vor Anthropic-Mitgründer Dario Amodei und OpenAI-Mitgründer Greg Brockman. Der Sprung markiert einen weiteren Beleg dafür, wie stark chinesische KI-Anbieter trotz US-Exportbeschränkungen bei Chips inzwischen finanziell und technologisch aufgeholt haben. Für die etablierten US-Anbieter erhöht das den Druck, ihre Kostenstruktur und Preismodelle zu verteidigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-14"
-    }
-  ],
+  "datum": "Donnerstag, 16. Juli 2026",
+  "generiert": "2026-07-16",
+  "ki_stories": [],
   "unternehmen_stories": [
     {
-      "titel": "Nvidia darf erstmals wieder H200-Chips mit US-Lizenz nach China liefern",
-      "text": "Laut Bloomberg vom 14. Juli hat Nvidia eine kleine Menge seiner H200-KI-Chips mit einer Exportlizenz der US-Regierung an Kunden in China ausgeliefert. Das bestätigte Jeffrey Kessler, der im US-Handelsministerium für Exportkontrollen zuständige Staatssekretär, am Dienstag; konkrete Mengen oder Käufer nannte er nicht, sprach aber von einer trivialen Stückzahl. Die Lieferung folgt auf eine im Februar erteilte Lizenz für weniger leistungsfähige H200-Chips und markiert einen weiteren kleinen Schritt zurück in den weltgrößten Halbleitermarkt, aus dem Nvidia durch US-Exportbeschränkungen weitgehend ausgeschlossen war. Für Nvidia geht es dabei um Milliardenumsätze, da chinesische Kunden zuletzt verstärkt auf einheimische Alternativen ausgewichen sind. Wie stark sich die Freigabe auf künftige Quartalszahlen auswirkt, bleibt wegen der weiterhin engen politischen Beschränkungen unklar.",
+      "titel": "Nvidia-Chef Huang widerspricht Berichten über Verzögerungen bei Vera Rubin",
+      "text": "Nvidia-CEO Jensen Huang hat in Tokio Berichten widersprochen, wonach Fertigungsprobleme die nächste KI-Chip-Generation Vera Rubin verzögern könnten. Er betonte, die Systeme seien in Produktion und auf Kurs für eine Auslieferung mit sehr hohen Stückzahlen. Zeitgleich kündigte Nvidia eine Ausweitung seiner jahrzehntelangen Partnerschaft mit Toyota an: Die KI-Hardware und -Software des Chipherstellers soll künftig auch smarte Städte, Verkehrsleitsysteme und Toyotas Fabriken steuern. Huang war in Japan, um über Nvidias Rolle bei Japans souveränen und physischen KI-Ambitionen zu sprechen. Die Aussagen sind für Anleger wichtig, weil Verzögerungen bei Vera Rubin die gesamte Lieferkette der KI-Branche treffen würden, von Cloud-Anbietern bis zu Speicherchip-Herstellern. Analysten werten Huangs klare Entwarnung als Signal, dass der milliardenschwere KI-Infrastruktur-Ausbau der Hyperscaler im geplanten Tempo weitergehen kann.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-14",
+      "datum_artikel": "2026-07-15",
       "unternehmen": "NVIDIA"
     },
     {
-      "titel": "OpenAI verlangt Abweisung der xAI-Klage, während auch der Apple-Streit eskaliert",
-      "text": "OpenAI hat laut Bloomberg vom 14. Juli bei einem Gericht beantragt festzustellen, dass eine Klage von Elon Musks xAI wegen angeblichen Diebstahls von Geschäftsgeheimnissen nie hätte eingereicht werden dürfen, und verlangt die Erstattung von mehr als einer Million Dollar an Anwaltskosten. Der Antrag kam nur Stunden, nachdem xAI angekündigt hatte, gegen die wiederholte Abweisung seiner Vorwürfe in Berufung zu gehen - xAI wirft OpenAI vor, gezielt Mitarbeiter abgeworben und zum Diebstahl vertraulicher Informationen ermutigt zu haben. Parallel dazu spitzt sich auch der bereits Anfang Juli bekannt gewordene Rechtsstreit mit Apple zu, in dem Apple OpenAI und früheren Apple-Mitarbeitern vorwirft, vertrauliche Produktentwürfe für künftige KI-Hardware gestohlen zu haben. Die beiden parallelen Verfahren zeigen, wie aggressiv sich die großen KI-Anbieter inzwischen auch juristisch gegenseitig unter Druck setzen. Ein Gerichtstermin in der xAI-Sache steht noch nicht fest.",
+      "titel": "Meta-Aktie erholt sich kräftig - Anleger goutieren KI-Cloud-Pläne",
+      "text": "Die Meta-Aktie hat sich im Juli deutlich erholt und ist mit einem Plus von rund 17 Prozent der drittbeste Wert im S&P 500. Auslöser ist die Zustimmung der Anleger zu Metas Plänen, eine eigene Cloud-Sparte aufzubauen und überschüssige KI-Rechenkapazität an andere Unternehmen zu vermieten. Damit würde Meta in direkte Konkurrenz zu Amazon, Microsoft und Google treten, die bislang den Markt für Cloud-Computing dominieren. Der Kurssprung markiert eine Kehrtwende gegenüber den Sorgen der vergangenen Monate, wonach Metas milliardenschwere KI-Investitionen sich nicht auszahlen könnten. Sollte Meta tatsächlich als vierter großer Cloud-Anbieter auftreten, könnte das zusätzliche Einnahmequellen erschließen und die hohen Investitionskosten in Rechenzentren rechtfertigen. Beobachter werten die Rally als Zeichen, dass der Markt Metas KI-Strategie inzwischen positiver bewertet als noch im Frühjahr.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-14",
-      "unternehmen": "OpenAI"
+      "datum_artikel": "2026-07-15",
+      "unternehmen": "Meta"
     },
     {
-      "titel": "Metas Rechenzentrum in Louisiana wächst auf über 250 Milliarden Dollar",
-      "text": "Meta hat laut Bloomberg vom 13. Juli seine Investitionspläne für den Rechenzentrums-Campus in Louisiana erneut aufgestockt: Weitere 40 Milliarden Dollar sollen in den Ausbau fließen, damit steigt das Gesamtvolumen des Projekts auf über 250 Milliarden Dollar. Die Anlage soll auf mindestens 5 Gigawatt Rechenleistung ausgebaut werden, ein einzelner Erweiterungsschritt allein ist mit rund 50 Milliarden Dollar veranschlagt. Der Ausbau ist Teil von Metas milliardenschwerem Wettrüsten um KI-Rechenkapazität und ergänzt weitere Großprojekte wie ein neues Rechenzentrum in Kanada im Volumen von rund 10 Milliarden Dollar. Zuckerberg hatte zuletzt zudem angedeutet, überschüssige Rechenkapazität künftig auch an externe Kunden vermieten zu wollen, ähnlich wie es Amazon, Microsoft und Google mit ihren Cloud-Sparten tun. Die immensen Investitionssummen erhöhen den Druck auf Meta, aus seinen KI-Produkten zeitnah Erträge zu erwirtschaften.",
+      "titel": "SpaceX-Aktie fällt erstmals unter ihren Ausgabepreis",
+      "text": "Die SpaceX-Aktie ist erstmals seit dem Börsengang unter ihren Ausgabepreis von 135 Dollar gefallen, zeitweise um bis zu 2,9 Prozent auf 132,15 Dollar. Das Raumfahrt-, Satelliten- und KI-Unternehmen von Elon Musk war Mitte Juni im Rahmen des mit 86 Milliarden Dollar größten Börsengangs der Geschichte an die Börse gegangen. Nach einem fulminanten Start mit einem Kursplus von fast 50 Prozent in den ersten drei Handelstagen hat die Aktie inzwischen rund ein Drittel ihres Höchststands verloren, was einem Wertverlust von fast 850 Milliarden Dollar entspricht. Grund ist offenbar nachlassende Euphorie der Anleger, nachdem der anfängliche IPO-Hype verflogen ist. Der Rückgang unter den Ausgabepreis gilt als symbolischer Dämpfer für eines der meistbeachteten Börsendebüts des Jahres. Wie sich die Aktie weiterentwickelt, dürfte auch als Stimmungsbarometer für kommende große Tech-IPOs gelten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-13",
-      "unternehmen": "Meta"
+      "datum_artikel": "2026-07-15",
+      "unternehmen": "SpaceX"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis-Schub durch Iran-Blockade lässt Gold über 4.000 Dollar steigen, Inflationsdaten bremsen dann Fed-Wetten",
-      "text": "Nachdem US-Präsident Donald Trump am Wochenende eine Blockade iranischer Häfen nahe der Straße von Hormus verkündet und einen 20-Prozent-Aufschlag auf die Fracht durch die Meerenge verhängt hatte, sprang der Ölpreis deutlich: US-Rohöl kletterte laut Bloomberg um mehr als 5 Prozent über 75 Dollar je Barrel, die Sorte Brent stieg erstmals seit einem Monat über 85 Dollar. Der Goldpreis, der zuvor unter die Marke von 4.000 Dollar gefallen war, erholte sich dadurch am Dienstag wieder über 4.000 Dollar, da steigende Ölpreise die Inflationssorgen und damit die Wetten auf eine Fed-Zinserhöhung anheizten. Am Dienstagnachmittag dämpften dann schwächer als erwartete US-Verbraucherpreise für Juni (3,5 Prozent Jahresrate statt der erwarteten 3,8 Prozent) die Zinserhöhungswetten wieder deutlich: Die eingepreiste Wahrscheinlichkeit für eine Fed-Zinserhöhung am 29. Juli fiel von rund 42 auf etwa 17 Prozent. Der S&P 500 profitierte von der Entspannung und schloss laut Bloomberg 0,4 Prozent höher, nachdem er den Handelstag zuvor noch deutlich verloren hatte; der Nasdaq 100 legte dank einer Erholung bei den südkoreanischen Speicherchip-Werten SK Hynix und Samsung sogar um 1,1 Prozent zu. Für die Fed-Zinsentscheidung Ende Juli bleibt die Gemengelage aus Ölpreis-Risiko und nachlassendem Inflationsdruck damit weiterhin ungewöhnlich unklar.",
+      "titel": "IBM erlebt schlimmsten Börsentag seit 1968 nach Gewinnwarnung",
+      "text": "Die IBM-Aktie ist um bis zu 26 Prozent eingebrochen - der stärkste Tagesverlust seit mindestens 1968. Auslöser war eine überraschende Gewinnwarnung: Der Umsatz im zweiten Quartal blieb mit 17,2 Milliarden Dollar unter der Analystenschätzung von 17,9 Milliarden Dollar. IBM-Chef Arvind Krishna machte dafür Schwäche im Software- und Infrastrukturgeschäft verantwortlich, weil Kunden ihre Ausgaben wegen einer schweren Speicherchip-Knappheit auf Hardware wie Server und Speicher verlagerten. Besonders stark traf es das Mainframe- und Infrastrukturgeschäft, dessen Umsatz um 7 Prozent sank. Der Einbruch strahlte auf die gesamte Software- und IT-Dienstleistungsbranche aus: Auch Aktien von Salesforce, Adobe, Workday und Accenture gaben nach, weil Anleger eine ähnliche Budgetverschiebung befürchten. Die vollständigen Quartalszahlen will IBM am 22. Juli vorlegen, worauf Anleger nun besonders gespannt sind.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-14"
     },
     {
-      "titel": "Nikkei und Hang Seng uneinheitlich: Energiewerte in Tokio gefragt, Aluminium-Riese treibt Hongkong",
-      "text": "Der japanische Nikkei 225 drehte am Dienstag ins Plus und schloss 0,7 Prozent höher bei 67.743,50 Punkten, gestützt von Energiewerten, die von den steigenden Ölpreisen profitierten: Der Öl- und Gasproduzent Inpex legte um 3,9 Prozent zu, Idemitsu Kosan um knapp 2 Prozent und Cosmo Energy um 1,5 Prozent. Der Hang Seng in Hongkong schloss dagegen 0,72 Prozent tiefer bei 24.039,32 Punkten, erholte sich aber in der letzten Handelsstunde deutlich, angetrieben von Rohstoff- und Energiewerten. Top-Gewinner war der Staatskonzern Aluminum Corporation of China (Chalco) mit einem Kurssprung von über 9 Prozent, nachdem das Unternehmen für das erste Halbjahr einen Gewinnsprung von 58 bis 73 Prozent gegenüber dem Vorjahr in Aussicht gestellt hatte. Der deutsche DAX bewegte sich mit einem Plus von 0,1 Prozent kaum vom Fleck. Die divergierende Entwicklung in Asien zeigt, wie unterschiedlich Ölpreis-Anstieg und Rohstoff-Nachfrage einzelne Sektoren und Märkte derzeit treffen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-14"
-    },
-    {
-      "titel": "US-Bankenquartal startet stark: JPMorgan übertrifft Erwartungen, Wells Fargo verfehlt bei Zinserträgen",
-      "text": "Zum Auftakt der US-Berichtssaison legten die großen Banken am Dienstag ihre Zahlen für das zweite Quartal vor. JPMorgan übertraf laut Bloomberg die Erwartungen deutlich dank starker Erträge im Aktienhandel, verfehlte aber bei den Erträgen aus Anleihen- und Rohstoffhandel (FICC) leicht die Prognosen. Wells Fargo verdiente im Quartal 5,25 Milliarden Dollar beziehungsweise 1,60 Dollar je Aktie, mehr als die von Analysten erwarteten 1,58 Dollar und deutlich mehr als die 4,89 Milliarden Dollar des Vorjahresquartals. Der Nettozinsertrag blieb mit 12,1 Milliarden Dollar aber unter der Analystenerwartung von 12,3 Milliarden Dollar, was die Wells-Fargo-Aktie vorbörslich um 2,8 Prozent fallen ließ. Der Start der Bankenberichtssaison gilt als wichtiger Stimmungstest für die gesamte US-Wirtschaft, da er Aufschluss über Kreditvergabe, Zinsumfeld und die Investmentbanking-Aktivität großer Unternehmen gibt.",
+      "titel": "BlackRock knackt mit 15,3 Billionen Dollar verwaltetem Vermögen einen Rekord",
+      "text": "Der weltgrößte Vermögensverwalter BlackRock hat im zweiten Quartal die Analystenerwartungen übertroffen und einen Rekord beim verwalteten Vermögen aufgestellt. Das verwaltete Vermögen kletterte um 22 Prozent auf 15,34 Billionen Dollar, nachdem allein im Quartal netto 191,7 Milliarden Dollar an neuen Geldern hereinkamen - getrieben vor allem von ETFs mit 177,9 Milliarden Dollar Zufluss. Der bereinigte Gewinn je Aktie lag bei 13,91 Dollar und damit deutlich über der Analystenschätzung von 12,57 Dollar, der Umsatz stieg um 31 Prozent auf 7,08 Milliarden Dollar. Treiber waren die Rally an den Aktienmärkten sowie die anhaltend hohe Nachfrage nach BlackRocks Fondsangebot. Als Reaktion erhöhte das Unternehmen sein geplantes Aktienrückkaufvolumen für 2026 von 1,8 auf 2 Milliarden Dollar. Die starken Zahlen gelten als Signal, dass große Vermögensverwalter von der anhaltenden Marktrally überproportional profitieren.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-14"
+      "datum_artikel": "2026-07-15"
     }
   ]
 }
