@@ -1,42 +1,62 @@
 {
-  "datum": "Donnerstag, 16. Juli 2026",
-  "generiert": "2026-07-16",
-  "ki_stories": [],
+  "datum": "Freitag, 17. Juli 2026",
+  "generiert": "2026-07-17",
+  "ki_stories": [
+    {
+      "titel": "Google verschiebt Start von Gemini 3.5 Pro - Sorge um Wettbewerbsfähigkeit wächst",
+      "text": "Google verzögert die Veröffentlichung seines neuen KI-Spitzenmodells Gemini 3.5 Pro, wie Bloomberg am 16. Juli berichtete. Intern soll die Technik hinter den eigenen Zielen zurückbleiben, besonders bei Programmierfähigkeiten. Ingenieure und Manager bei Google fürchten, im Wettlauf mit Anthropic und OpenAI, deren Modelle Gemini inzwischen in Teilbereichen übertreffen, an Boden zu verlieren. Die Nachricht sorgte für Unruhe an der Börse: Die Alphabet-Aktie brach am 16. Juli um mehr als vier Prozent ein. Ursprünglich war Gemini 3.5 Pro für den 17. Juli mit einem Zwei-Millionen-Token-Kontextfenster und einem neuen 'Deep Think'-Modus für den 250-Dollar-Ultra-Tarif geplant gewesen. Der Rückschlag zeigt, wie eng das Rennen um die KI-Führung inzwischen ist.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-16"
+    },
+    {
+      "titel": "Xi Jinping eröffnet KI-Gipfel WAIC persönlich - 29 Staaten gründen KI-Gegenorganisation",
+      "text": "Auf der World Artificial Intelligence Conference (WAIC) in Shanghai ist Chinas Staatschef Xi Jinping erstmals seit Beginn der Veranstaltung 2018 persönlich aufgetreten und hielt die Eröffnungsrede. Am Rande der Konferenz unterzeichneten am 16. Juli laut Reuters 29 Staaten - darunter Russland, Pakistan, Indonesien, Kasachstan und Brasilien - ein Abkommen zur Gründung der World AI Cooperation Organization (WAICO) mit Sitz in Shanghai. Chinas Außenminister Wang Yi unterschrieb für die chinesische Regierung, UN-Generalsekretär Antonio Guterres nahm an der Zeremonie teil. Die neue Organisation soll, nach dem Vorbild der Shanghaier Organisation für Zusammenarbeit, vor allem Ländern des Globalen Südens eine Stimme bei der KI-Regulierung geben - als Gegengewicht zu westlich geprägten Rahmenwerken. Beobachter werten Xis persönliches Auftreten als klares Signal, dass China sich künftig als Regelsetzer statt als Regelnehmer in der globalen KI-Politik positionieren will.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-07-16"
+    }
+  ],
   "unternehmen_stories": [
     {
-      "titel": "Nvidia-Chef Huang widerspricht Berichten über Verzögerungen bei Vera Rubin",
-      "text": "Nvidia-CEO Jensen Huang hat in Tokio Berichten widersprochen, wonach Fertigungsprobleme die nächste KI-Chip-Generation Vera Rubin verzögern könnten. Er betonte, die Systeme seien in Produktion und auf Kurs für eine Auslieferung mit sehr hohen Stückzahlen. Zeitgleich kündigte Nvidia eine Ausweitung seiner jahrzehntelangen Partnerschaft mit Toyota an: Die KI-Hardware und -Software des Chipherstellers soll künftig auch smarte Städte, Verkehrsleitsysteme und Toyotas Fabriken steuern. Huang war in Japan, um über Nvidias Rolle bei Japans souveränen und physischen KI-Ambitionen zu sprechen. Die Aussagen sind für Anleger wichtig, weil Verzögerungen bei Vera Rubin die gesamte Lieferkette der KI-Branche treffen würden, von Cloud-Anbietern bis zu Speicherchip-Herstellern. Analysten werten Huangs klare Entwarnung als Signal, dass der milliardenschwere KI-Infrastruktur-Ausbau der Hyperscaler im geplanten Tempo weitergehen kann.",
+      "titel": "Anthropic startet Investorengespräche vor Mega-Börsengang im Oktober",
+      "text": "Anthropic bereitet sich laut Bloomberg auf Investorengespräche vor dem geplanten Börsengang vor, der bereits im Oktober 2026 an der Nasdaq stattfinden könnte. Die Banken Goldman Sachs, JPMorgan und Morgan Stanley sollen das Angebot leiten, das mehr als 60 Milliarden Dollar einbringen könnte. Bei der jüngsten Finanzierungsrunde im Mai wurde Anthropic mit 965 Milliarden Dollar bewertet, am Zweitmarkt werden inzwischen aber schon 1,05 bis 1,15 Billionen Dollar aufgerufen. Der Jahresumsatz des Unternehmens ist von 9 Milliarden Dollar Ende 2025 auf über 44 Milliarden Dollar im Mai 2026 gestiegen. Der Börsengang wäre einer der größten der Technologiegeschichte und würde Anthropic in direkte Konkurrenz zu OpenAIs eigenen Börsenplänen setzen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-15",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "Meta-Aktie erholt sich kräftig - Anleger goutieren KI-Cloud-Pläne",
-      "text": "Die Meta-Aktie hat sich im Juli deutlich erholt und ist mit einem Plus von rund 17 Prozent der drittbeste Wert im S&P 500. Auslöser ist die Zustimmung der Anleger zu Metas Plänen, eine eigene Cloud-Sparte aufzubauen und überschüssige KI-Rechenkapazität an andere Unternehmen zu vermieten. Damit würde Meta in direkte Konkurrenz zu Amazon, Microsoft und Google treten, die bislang den Markt für Cloud-Computing dominieren. Der Kurssprung markiert eine Kehrtwende gegenüber den Sorgen der vergangenen Monate, wonach Metas milliardenschwere KI-Investitionen sich nicht auszahlen könnten. Sollte Meta tatsächlich als vierter großer Cloud-Anbieter auftreten, könnte das zusätzliche Einnahmequellen erschließen und die hohen Investitionskosten in Rechenzentren rechtfertigen. Beobachter werten die Rally als Zeichen, dass der Markt Metas KI-Strategie inzwischen positiver bewertet als noch im Frühjahr.",
-      "quelle": "Bloomberg",
+      "titel": "Microsoft trainiert Vertriebsteam darauf, OpenAI und Anthropic schlechtzureden",
+      "text": "Microsoft setzt bei seiner KI-Strategie fürs Geschäftsjahr 2027 verstärkt auf die eigenen MAI-Modelle statt auf die Partner OpenAI und Anthropic, wie unter anderem TechCrunch berichtet. Bei einem internen Meeting Mitte Juli wies Copilot-Vizepräsident Jacob Andreou das Vertriebsteam an, Claude von Anthropic gegenüber Kunden als langsamer, ungenauer und mit schwächerer Sicherheitsintegration darzustellen. Manager Jay Parikh warb intern mit dem Satz, Microsoft verkaufe ein komplettes System, während die Konkurrenz nur Einzelteile liefere. Microsoft zufolge sind die eigenen MAI-Modelle in abgestimmten Unternehmensanwendungen bis zu zehnmal kosteneffizienter als die Konkurrenzprodukte. Seit dem 7. Juli migriert Microsoft ausgewählte Anwendungen wie Excel und Outlook bereits von OpenAI- und Anthropic-Modellen auf die eigene MAI-Technik. Der Vorstoß markiert eine deutliche Abkühlung der engen Partnerschaft mit OpenAI und dürfte den Wettbewerb um Firmenkunden weiter verschärfen.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-07-15",
-      "unternehmen": "Meta"
+      "unternehmen": "Microsoft"
     },
     {
-      "titel": "SpaceX-Aktie fällt erstmals unter ihren Ausgabepreis",
-      "text": "Die SpaceX-Aktie ist erstmals seit dem Börsengang unter ihren Ausgabepreis von 135 Dollar gefallen, zeitweise um bis zu 2,9 Prozent auf 132,15 Dollar. Das Raumfahrt-, Satelliten- und KI-Unternehmen von Elon Musk war Mitte Juni im Rahmen des mit 86 Milliarden Dollar größten Börsengangs der Geschichte an die Börse gegangen. Nach einem fulminanten Start mit einem Kursplus von fast 50 Prozent in den ersten drei Handelstagen hat die Aktie inzwischen rund ein Drittel ihres Höchststands verloren, was einem Wertverlust von fast 850 Milliarden Dollar entspricht. Grund ist offenbar nachlassende Euphorie der Anleger, nachdem der anfängliche IPO-Hype verflogen ist. Der Rückgang unter den Ausgabepreis gilt als symbolischer Dämpfer für eines der meistbeachteten Börsendebüts des Jahres. Wie sich die Aktie weiterentwickelt, dürfte auch als Stimmungsbarometer für kommende große Tech-IPOs gelten.",
+      "titel": "xAI steckt nach SpaceX-Fusion in Identitätskrise, Mitarbeiter verlassen das Unternehmen",
+      "text": "Elon Musks Chatbot-Firma xAI, die inzwischen mit SpaceX zu SpaceXAI verschmolzen wurde, steckt laut einem Bloomberg-Bericht vom 16. Juli in einer tiefen Identitätskrise. Nachdem Musk im Frühjahr 2026 Michael Nicolls an die xAI-Spitze gesetzt hatte, lautete das Ziel, mit dem Chatbot Grok bei jedem Update zu Anthropics Claude aufzuschließen. Die Fusion mit SpaceX sollte xAI frische Ressourcen verschaffen, führte laut dem Bericht aber zu chaotischen Arbeitsabläufen und dem Weggang zahlreicher Mitarbeiter. Parallel verfolgt SpaceX das Projekt Starmind: Ein Satellit namens AI1 soll als fliegendes Rechenzentrum mit rund 150 Kilowatt Rechenleistung Grok-Modelle im Orbit betreiben. Die Doppelrolle als Raketenbauer und KI-Labor sorgt intern offenbar für Reibung darüber, welche Prioritäten das Unternehmen setzen soll.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-15",
-      "unternehmen": "SpaceX"
+      "datum_artikel": "2026-07-16",
+      "unternehmen": "xAI"
+    },
+    {
+      "titel": "TSMC hebt Umsatz- und Investitionsprognose wegen KI-Boom deutlich an",
+      "text": "Der weltgrößte Auftragschiphersteller TSMC hat seine Prognosen für 2026 kräftig angehoben, wie Bloomberg am 16. Juli berichtete. Das Unternehmen rechnet nun mit einem Umsatzwachstum von gut 40 Prozent statt der zuvor erwarteten gut 30 Prozent und erhöhte gleichzeitig die geplanten Investitionen von bisher maximal 56 Milliarden auf 60 bis 64 Milliarden Dollar. Grund ist die weiterhin hohe Nachfrage nach Chips für KI-Anwendungen, die TSMC als anhaltenden 'Megatrend' bezeichnet. Trotz der starken Zahlen rutschten die TSMC-Depositary-Receipts im vorbörslichen US-Handel um rund drei Prozent ab, da das Management für das dritte Quartal eine rund 70 Basispunkte schwächere operative Marge als von Analysten erwartet in Aussicht stellte. Als Belastung nannte TSMC steigende Kosten durch die Auslandsexpansion und den Hochlauf der neuen 2-Nanometer-Fertigung. Bereits am Montag war die Aktie wegen der bevorstehenden Zahlen nahe ihres Rekordhochs gehandelt worden - nun liegen die tatsächlichen, gemischten Ergebnisse vor.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-16",
+      "unternehmen": "TSMC"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "IBM erlebt schlimmsten Börsentag seit 1968 nach Gewinnwarnung",
-      "text": "Die IBM-Aktie ist um bis zu 26 Prozent eingebrochen - der stärkste Tagesverlust seit mindestens 1968. Auslöser war eine überraschende Gewinnwarnung: Der Umsatz im zweiten Quartal blieb mit 17,2 Milliarden Dollar unter der Analystenschätzung von 17,9 Milliarden Dollar. IBM-Chef Arvind Krishna machte dafür Schwäche im Software- und Infrastrukturgeschäft verantwortlich, weil Kunden ihre Ausgaben wegen einer schweren Speicherchip-Knappheit auf Hardware wie Server und Speicher verlagerten. Besonders stark traf es das Mainframe- und Infrastrukturgeschäft, dessen Umsatz um 7 Prozent sank. Der Einbruch strahlte auf die gesamte Software- und IT-Dienstleistungsbranche aus: Auch Aktien von Salesforce, Adobe, Workday und Accenture gaben nach, weil Anleger eine ähnliche Budgetverschiebung befürchten. Die vollständigen Quartalszahlen will IBM am 22. Juli vorlegen, worauf Anleger nun besonders gespannt sind.",
+      "titel": "Wall Street rutscht ab: Gemini-Verzögerung, Chip-Sorgen und Iran-Konflikt drücken auf die Kurse",
+      "text": "An der Wall Street ging es am Donnerstag, den 16. Juli, deutlich abwärts: Der S&P 500 verlor 0,51 Prozent auf 7.533,77 Punkte, der Nasdaq Composite gab 1,47 Prozent auf 25.881,95 Punkte nach, während der Dow Jones mit minus 0,20 Prozent auf 52.552,97 Punkte glimpflicher davonkam. Auslöser war unter anderem die Nachricht, dass Google die Einführung seines KI-Modells Gemini 3.5 Pro verschiebt - die Alphabet-Aktie brach daraufhin um mehr als vier Prozent ein. Zusätzlich belasteten anhaltende Sorgen um die hohen KI-Investitionen der Tech-Konzerne die Chip-Branche bereits den zweiten Tag in Folge. Auch die eskalierende militärische Auseinandersetzung zwischen den USA und dem Iran, einschließlich der seit dem 14. Juli geltenden US-Blockade iranischer Häfen, sorgte weiter für Nervosität an den Märkten. Der Goldpreis fiel trotz der Unsicherheit um 1,85 Prozent auf 3.972,75 Dollar je Feinunze, da Anleger offenbar eher in liquide Mittel als in das Edelmetall auswichen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-14"
+      "datum_artikel": "2026-07-16"
     },
     {
-      "titel": "BlackRock knackt mit 15,3 Billionen Dollar verwaltetem Vermögen einen Rekord",
-      "text": "Der weltgrößte Vermögensverwalter BlackRock hat im zweiten Quartal die Analystenerwartungen übertroffen und einen Rekord beim verwalteten Vermögen aufgestellt. Das verwaltete Vermögen kletterte um 22 Prozent auf 15,34 Billionen Dollar, nachdem allein im Quartal netto 191,7 Milliarden Dollar an neuen Geldern hereinkamen - getrieben vor allem von ETFs mit 177,9 Milliarden Dollar Zufluss. Der bereinigte Gewinn je Aktie lag bei 13,91 Dollar und damit deutlich über der Analystenschätzung von 12,57 Dollar, der Umsatz stieg um 31 Prozent auf 7,08 Milliarden Dollar. Treiber waren die Rally an den Aktienmärkten sowie die anhaltend hohe Nachfrage nach BlackRocks Fondsangebot. Als Reaktion erhöhte das Unternehmen sein geplantes Aktienrückkaufvolumen für 2026 von 1,8 auf 2 Milliarden Dollar. Die starken Zahlen gelten als Signal, dass große Vermögensverwalter von der anhaltenden Marktrally überproportional profitieren.",
+      "titel": "Micron-Aktie bricht ein - chinesischer Speicherchip-Rivale CXMT drängt mit Milliarden-Börsengang auf den Markt",
+      "text": "Die Aktie des US-Speicherchipherstellers Micron ist am 16. Juli deutlich eingebrochen, nachdem bekannt wurde, dass der chinesische Konkurrent ChangXin Memory Technologies (CXMT) an der Shanghaier Star-Market-Börse Kapital aufnehmen will - mit einer impliziten Marktbewertung von 85,5 Milliarden Dollar. Ein derart gut finanzierter neuer Anbieter im Speicherchip-Geschäft weckt bei Anlegern Sorgen vor einem künftigen Angebotsüberschuss und Preiskämpfen. Verstärkt wurde der Kursrutsch durch TSMCs am selben Tag veröffentlichte Investitionsprognose von bis zu 64 Milliarden Dollar für 2026, die trotz starker Geschäftszahlen Zweifel an der Profitabilität der gesamten Chip-Branche schürte. Hinzu kamen die allgemeine Nervosität wegen hoher KI-Ausgaben der Tech-Konzerne und die anhaltenden Spannungen zwischen den USA und dem Iran. Der Fall zeigt, wie sensibel der Speicherchip-Sektor derzeit auf neue Konkurrenz aus China reagiert.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-15"
+      "datum_artikel": "2026-07-16"
     }
   ]
 }
