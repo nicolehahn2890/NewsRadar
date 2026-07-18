@@ -1,60 +1,52 @@
 {
-  "datum": "Freitag, 17. Juli 2026",
-  "generiert": "2026-07-17",
+  "datum": "Samstag, 18. Juli 2026",
+  "generiert": "2026-07-18",
   "ki_stories": [
     {
-      "titel": "Google verschiebt Start von Gemini 3.5 Pro - Sorge um Wettbewerbsfähigkeit wächst",
-      "text": "Google verzögert die Veröffentlichung seines neuen KI-Spitzenmodells Gemini 3.5 Pro, wie Bloomberg am 16. Juli berichtete. Intern soll die Technik hinter den eigenen Zielen zurückbleiben, besonders bei Programmierfähigkeiten. Ingenieure und Manager bei Google fürchten, im Wettlauf mit Anthropic und OpenAI, deren Modelle Gemini inzwischen in Teilbereichen übertreffen, an Boden zu verlieren. Die Nachricht sorgte für Unruhe an der Börse: Die Alphabet-Aktie brach am 16. Juli um mehr als vier Prozent ein. Ursprünglich war Gemini 3.5 Pro für den 17. Juli mit einem Zwei-Millionen-Token-Kontextfenster und einem neuen 'Deep Think'-Modus für den 250-Dollar-Ultra-Tarif geplant gewesen. Der Rückschlag zeigt, wie eng das Rennen um die KI-Führung inzwischen ist.",
+      "titel": "Moonshot AI veröffentlicht Kimi K3 - zweiter DeepSeek-Schock erschüttert Märkte",
+      "text": "Das chinesische KI-Start-up Moonshot hat am 16./17. Juli sein neues Modell Kimi K3 veröffentlicht, ein offen zugängliches Modell mit 2,8 Billionen Parametern und einem Kontextfenster von 1 Million Token. Auf mehreren Benchmarks schlug es Anthropics Claude Opus 4.8 und OpenAIs GPT-5.5 und blieb nur knapp hinter den jeweils stärksten Modellen Claude Fable 5 und GPT-5.6 Sol zurück; im Frontend-Code-Vergleichstest erzielte Kimi K3 laut Bloomberg eine Gewinnrate von 76 Prozent. Investoren zogen sofort Parallelen zum sogenannten DeepSeek-Schock aus dem Vorjahr, als ein anderes chinesisches Modell erstmals die Technologieführung der US-Anbieter infrage stellte. Die vollständigen Modellgewichte sollen erst am 27. Juli veröffentlicht werden. Moonshot, an dem der chinesische Konzern Alibaba beteiligt ist, wird in einer laufenden Finanzierungsrunde inzwischen mit rund 31,5 Milliarden Dollar bewertet. Der Vorstoß erhöht den Konkurrenzdruck auf die US-Anbieter, deren eigene Spitzenmodelle zuletzt mit Verzögerungen zu kämpfen hatten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-16"
+      "datum_artikel": "2026-07-17"
     },
     {
-      "titel": "Xi Jinping eröffnet KI-Gipfel WAIC persönlich - 29 Staaten gründen KI-Gegenorganisation",
-      "text": "Auf der World Artificial Intelligence Conference (WAIC) in Shanghai ist Chinas Staatschef Xi Jinping erstmals seit Beginn der Veranstaltung 2018 persönlich aufgetreten und hielt die Eröffnungsrede. Am Rande der Konferenz unterzeichneten am 16. Juli laut Reuters 29 Staaten - darunter Russland, Pakistan, Indonesien, Kasachstan und Brasilien - ein Abkommen zur Gründung der World AI Cooperation Organization (WAICO) mit Sitz in Shanghai. Chinas Außenminister Wang Yi unterschrieb für die chinesische Regierung, UN-Generalsekretär Antonio Guterres nahm an der Zeremonie teil. Die neue Organisation soll, nach dem Vorbild der Shanghaier Organisation für Zusammenarbeit, vor allem Ländern des Globalen Südens eine Stimme bei der KI-Regulierung geben - als Gegengewicht zu westlich geprägten Rahmenwerken. Beobachter werten Xis persönliches Auftreten als klares Signal, dass China sich künftig als Regelsetzer statt als Regelnehmer in der globalen KI-Politik positionieren will.",
-      "quelle": "Reuters",
+      "titel": "Meta will Eltern künftig bei Suizid-Gesprächen mit KI-Chatbot warnen",
+      "text": "Meta führt ein neues Sicherheitssystem ein, das Eltern automatisch benachrichtigt, wenn ihr Teenager im Gespräch mit dem Meta-KI-Chatbot eindeutige Hinweise auf Selbstverletzung oder Suizidgedanken äußert. Ein eigens entwickeltes KI-System soll solche Warnsignale in Echtzeit erkennen; laut TechCrunch arbeitet Meta zudem daran, bei akuter Gefahr künftig automatisch Rettungsdienste kontaktieren zu können. Die Maßnahme reagiert auf wachsenden öffentlichen und politischen Druck auf Tech-Konzerne, Minderjährige besser vor schädlichen Interaktionen mit KI-Chatbots zu schützen, nachdem Eltern und Kritiker Meta in der Vergangenheit mangelnde Vorsicht vorgeworfen hatten. Die Funktion wird zunächst in den USA ausgerollt, zu einem internationalen Start machte Meta bislang keine Angaben. Der Schritt reiht sich in eine Serie ähnlicher Ankündigungen der Branche ein, mit denen Anbieter von KI-Chatbots auf den Vorwurf reagieren, zu wenig gegen Risiken für junge Nutzer zu unternehmen.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-07-16"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic startet Investorengespräche vor Mega-Börsengang im Oktober",
-      "text": "Anthropic bereitet sich laut Bloomberg auf Investorengespräche vor dem geplanten Börsengang vor, der bereits im Oktober 2026 an der Nasdaq stattfinden könnte. Die Banken Goldman Sachs, JPMorgan und Morgan Stanley sollen das Angebot leiten, das mehr als 60 Milliarden Dollar einbringen könnte. Bei der jüngsten Finanzierungsrunde im Mai wurde Anthropic mit 965 Milliarden Dollar bewertet, am Zweitmarkt werden inzwischen aber schon 1,05 bis 1,15 Billionen Dollar aufgerufen. Der Jahresumsatz des Unternehmens ist von 9 Milliarden Dollar Ende 2025 auf über 44 Milliarden Dollar im Mai 2026 gestiegen. Der Börsengang wäre einer der größten der Technologiegeschichte und würde Anthropic in direkte Konkurrenz zu OpenAIs eigenen Börsenplänen setzen.",
+      "titel": "Meta holt AWS-Spitzenmanager Dave Brown für eigenen Cloud-Vorstoß",
+      "text": "Meta hat laut übereinstimmenden Berichten von Wall Street Journal und Bloomberg Dave Brown abgeworben, einen der ranghöchsten Manager von Amazon Web Services. Brown war fast zwei Jahrzehnte bei AWS tätig und zuletzt für große Teile des Compute-, KI- und Plattformgeschäfts verantwortlich. Bei Meta soll er künftig an Infrastruktur-Chef Santosh Janardhan berichten und den Ausbau der firmeneigenen Rechenzentren sowie ein neues Projekt namens Meta Compute vorantreiben. Der Schritt fällt in eine Phase, in der Meta für 2026 Investitionen von 125 bis 145 Milliarden Dollar plant, vor allem für Server, Netzwerktechnik, Stromkapazitäten und KI-Trainingsanlagen. Firmenchef Mark Zuckerberg hatte Aktionären im Mai bereits gesagt, dass andere Unternehmen regelmäßig anfragen, ob sie für Zugang zu Metas KI-Modellen oder freien Rechenkapazitäten bezahlen könnten. Beobachter werten die Personalie als Hinweis, dass Meta seine Ambitionen über die reine KI-Modellentwicklung hinaus in Richtung eines eigenen Cloud-Geschäfts ausweiten könnte.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-15",
-      "unternehmen": "Anthropic"
+      "datum_artikel": "2026-07-17",
+      "unternehmen": "Meta"
     },
     {
-      "titel": "Microsoft trainiert Vertriebsteam darauf, OpenAI und Anthropic schlechtzureden",
-      "text": "Microsoft setzt bei seiner KI-Strategie fürs Geschäftsjahr 2027 verstärkt auf die eigenen MAI-Modelle statt auf die Partner OpenAI und Anthropic, wie unter anderem TechCrunch berichtet. Bei einem internen Meeting Mitte Juli wies Copilot-Vizepräsident Jacob Andreou das Vertriebsteam an, Claude von Anthropic gegenüber Kunden als langsamer, ungenauer und mit schwächerer Sicherheitsintegration darzustellen. Manager Jay Parikh warb intern mit dem Satz, Microsoft verkaufe ein komplettes System, während die Konkurrenz nur Einzelteile liefere. Microsoft zufolge sind die eigenen MAI-Modelle in abgestimmten Unternehmensanwendungen bis zu zehnmal kosteneffizienter als die Konkurrenzprodukte. Seit dem 7. Juli migriert Microsoft ausgewählte Anwendungen wie Excel und Outlook bereits von OpenAI- und Anthropic-Modellen auf die eigene MAI-Technik. Der Vorstoß markiert eine deutliche Abkühlung der engen Partnerschaft mit OpenAI und dürfte den Wettbewerb um Firmenkunden weiter verschärfen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-07-15",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "xAI steckt nach SpaceX-Fusion in Identitätskrise, Mitarbeiter verlassen das Unternehmen",
-      "text": "Elon Musks Chatbot-Firma xAI, die inzwischen mit SpaceX zu SpaceXAI verschmolzen wurde, steckt laut einem Bloomberg-Bericht vom 16. Juli in einer tiefen Identitätskrise. Nachdem Musk im Frühjahr 2026 Michael Nicolls an die xAI-Spitze gesetzt hatte, lautete das Ziel, mit dem Chatbot Grok bei jedem Update zu Anthropics Claude aufzuschließen. Die Fusion mit SpaceX sollte xAI frische Ressourcen verschaffen, führte laut dem Bericht aber zu chaotischen Arbeitsabläufen und dem Weggang zahlreicher Mitarbeiter. Parallel verfolgt SpaceX das Projekt Starmind: Ein Satellit namens AI1 soll als fliegendes Rechenzentrum mit rund 150 Kilowatt Rechenleistung Grok-Modelle im Orbit betreiben. Die Doppelrolle als Raketenbauer und KI-Labor sorgt intern offenbar für Reibung darüber, welche Prioritäten das Unternehmen setzen soll.",
+      "titel": "NVIDIA und Japan bauen mit Noetra-Konsortium erste nationale KI-Infrastruktur",
+      "text": "NVIDIA hat sich laut Bloomberg mit dem japanischen Konsortium Noetra - gegründet von SoftBank, Sony, NEC und Honda - zusammengetan, um eine KI-Fabrik mit 140 Megawatt Leistung aufzubauen. Die Anlage soll 27.500 NVIDIA-Rubin-GPUs und 13.750 Vera-CPUs umfassen und gilt als weltweit erste nationale KI-Infrastruktur dieser Art. Japans Regierung unterstützt das Vorhaben über das Wirtschaftsministerium METI mit umgerechnet 6,2 Milliarden Dollar im Rahmen des sogenannten FRONTia-Projekts, das die japanische KI-Basis in Fertigung, Logistik, Gesundheitswesen und Telekommunikation stärken soll. Auf der Roadmap steht zunächst ein reines Reasoning-Modell noch im laufenden Geschäftsjahr, gefolgt von einem multimodalen Modell bis 2028 und einer raumbewussten 'real-world native AI' bis 2030. Für NVIDIA ist der Deal ein weiterer Beleg dafür, dass Staaten zunehmend eigene, souveräne KI-Infrastruktur statt reiner Cloud-Anmietung anstreben.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-16",
-      "unternehmen": "xAI"
-    },
-    {
-      "titel": "TSMC hebt Umsatz- und Investitionsprognose wegen KI-Boom deutlich an",
-      "text": "Der weltgrößte Auftragschiphersteller TSMC hat seine Prognosen für 2026 kräftig angehoben, wie Bloomberg am 16. Juli berichtete. Das Unternehmen rechnet nun mit einem Umsatzwachstum von gut 40 Prozent statt der zuvor erwarteten gut 30 Prozent und erhöhte gleichzeitig die geplanten Investitionen von bisher maximal 56 Milliarden auf 60 bis 64 Milliarden Dollar. Grund ist die weiterhin hohe Nachfrage nach Chips für KI-Anwendungen, die TSMC als anhaltenden 'Megatrend' bezeichnet. Trotz der starken Zahlen rutschten die TSMC-Depositary-Receipts im vorbörslichen US-Handel um rund drei Prozent ab, da das Management für das dritte Quartal eine rund 70 Basispunkte schwächere operative Marge als von Analysten erwartet in Aussicht stellte. Als Belastung nannte TSMC steigende Kosten durch die Auslandsexpansion und den Hochlauf der neuen 2-Nanometer-Fertigung. Bereits am Montag war die Aktie wegen der bevorstehenden Zahlen nahe ihres Rekordhochs gehandelt worden - nun liegen die tatsächlichen, gemischten Ergebnisse vor.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-16",
-      "unternehmen": "TSMC"
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Wall Street rutscht ab: Gemini-Verzögerung, Chip-Sorgen und Iran-Konflikt drücken auf die Kurse",
-      "text": "An der Wall Street ging es am Donnerstag, den 16. Juli, deutlich abwärts: Der S&P 500 verlor 0,51 Prozent auf 7.533,77 Punkte, der Nasdaq Composite gab 1,47 Prozent auf 25.881,95 Punkte nach, während der Dow Jones mit minus 0,20 Prozent auf 52.552,97 Punkte glimpflicher davonkam. Auslöser war unter anderem die Nachricht, dass Google die Einführung seines KI-Modells Gemini 3.5 Pro verschiebt - die Alphabet-Aktie brach daraufhin um mehr als vier Prozent ein. Zusätzlich belasteten anhaltende Sorgen um die hohen KI-Investitionen der Tech-Konzerne die Chip-Branche bereits den zweiten Tag in Folge. Auch die eskalierende militärische Auseinandersetzung zwischen den USA und dem Iran, einschließlich der seit dem 14. Juli geltenden US-Blockade iranischer Häfen, sorgte weiter für Nervosität an den Märkten. Der Goldpreis fiel trotz der Unsicherheit um 1,85 Prozent auf 3.972,75 Dollar je Feinunze, da Anleger offenbar eher in liquide Mittel als in das Edelmetall auswichen.",
+      "titel": "Chip-Aktien rutschen nach Kimi-K3-Schock in den Bärenmarkt",
+      "text": "Der Philadelphia Semiconductor Index (SOX) verlor am 17. Juli zeitweise bis zu 5,7 Prozent und liegt damit seit seinem Rekordhoch Ende Juni mehr als 20 Prozent im Minus - die technische Schwelle für einen Bärenmarkt. Auslöser war der Marktschock durch das chinesische KI-Modell Kimi K3 von Moonshot, der erneut Zweifel an der Technologieführung der US-Anbieter und an der Rentabilität der milliardenschweren KI-Investitionen weckte. Die Aktien von Marvell Technology, ARM Holdings und Intel sind seit dem Rekordhoch um jeweils mehr als 30 Prozent eingebrochen, während NVIDIA, Micron, Broadcom und Qualcomm am Freitag um mehr als 2 Prozent nachgaben. Der Nasdaq Composite verlor 1,4 Prozent, der S&P 500 rund 1 Prozent auf 7.457 Punkte. Es ist die schwächste Woche für Chip-Aktien seit dem Zoll-Ausverkauf im April 2025, nachdem der Sektor zuvor seit seinem März-Tief um rund 105 Prozent gestiegen war.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-16"
+      "datum_artikel": "2026-07-17"
     },
     {
-      "titel": "Micron-Aktie bricht ein - chinesischer Speicherchip-Rivale CXMT drängt mit Milliarden-Börsengang auf den Markt",
-      "text": "Die Aktie des US-Speicherchipherstellers Micron ist am 16. Juli deutlich eingebrochen, nachdem bekannt wurde, dass der chinesische Konkurrent ChangXin Memory Technologies (CXMT) an der Shanghaier Star-Market-Börse Kapital aufnehmen will - mit einer impliziten Marktbewertung von 85,5 Milliarden Dollar. Ein derart gut finanzierter neuer Anbieter im Speicherchip-Geschäft weckt bei Anlegern Sorgen vor einem künftigen Angebotsüberschuss und Preiskämpfen. Verstärkt wurde der Kursrutsch durch TSMCs am selben Tag veröffentlichte Investitionsprognose von bis zu 64 Milliarden Dollar für 2026, die trotz starker Geschäftszahlen Zweifel an der Profitabilität der gesamten Chip-Branche schürte. Hinzu kamen die allgemeine Nervosität wegen hoher KI-Ausgaben der Tech-Konzerne und die anhaltenden Spannungen zwischen den USA und dem Iran. Der Fall zeigt, wie sensibel der Speicherchip-Sektor derzeit auf neue Konkurrenz aus China reagiert.",
+      "titel": "Apple überholt NVIDIA kurzzeitig als wertvollstes Unternehmen der Welt",
+      "text": "Apple hat NVIDIA am 17. Juli kurzzeitig als wertvollstes börsennotiertes Unternehmen der Welt abgelöst - ein Titel, den der Chip-Konzern seit Mai 2025 gehalten hatte. Apple kam auf eine Marktbewertung von rund 4,88 Billionen Dollar, während NVIDIA nach einem Kursrückgang von 3,5 Prozent bei etwa 4,86 Billionen Dollar lag; im weiteren Handelsverlauf zog NVIDIA aber wieder leicht an Apple vorbei. Die Apple-Aktie ist seit Jahresbeginn um fast 23 Prozent gestiegen, weil Anleger die KI-Strategie des Konzerns und sein im Vergleich zu anderen Tech-Riesen niedrigeres Investitionsniveau honorieren. Der kurzzeitige Wechsel an der Spitze fiel zusammen mit dem heftigen Ausverkauf bei Chip-Aktien im Zuge des Kimi-K3-Schocks. Er zeigt, dass Anleger angesichts der Sorgen um die Rentabilität der KI-Investitionen ihren Fokus über die bisherigen Hauptgewinner wie NVIDIA hinaus verbreitern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-17"
+    },
+    {
+      "titel": "Netflix-Aktie bricht trotz Gewinnüberraschung um rund 9 Prozent ein",
+      "text": "Netflix hat für das zweite Quartal ein Ergebnis je Aktie von 0,80 Dollar und damit einen Cent mehr als von Analysten erwartet gemeldet, der Umsatz traf mit 12,56 Milliarden Dollar die Erwartungen. Die Prognose für das dritte Quartal enttäuschte jedoch: Netflix rechnet nur noch mit rund 12,9 Milliarden Dollar Umsatz und 0,82 Dollar Gewinn je Aktie, beides etwas unter den Analystenschätzungen, und kündigte damit das zweite Quartal in Folge mit sich verlangsamendem Wachstum an. Zusätzlich verunsicherte die Ankündigung, die Zuschauerzahlen ab 2027 nur noch einmal statt zweimal jährlich zu veröffentlichen, was mehrere Investoren als Zeichen mangelnder Transparenz werteten. Die Aktie fiel im Handel am 17. Juli zeitweise um bis zu 12 Prozent und schloss rund 9 Prozent im Minus auf einem 52-Wochen-Tief, bei einem Handelsvolumen von über 140 Millionen Aktien - etwa 218 Prozent über dem Drei-Monats-Durchschnitt. Der Kurssturz reiht sich in eine seit Monaten anhaltende Schwächephase der Netflix-Aktie ein.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-16"
     }
