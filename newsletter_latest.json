@@ -1,54 +1,29 @@
 {
-  "datum": "Samstag, 18. Juli 2026",
-  "generiert": "2026-07-18",
+  "datum": "Sonntag, 19. Juli 2026",
+  "generiert": "2026-07-19",
   "ki_stories": [
     {
-      "titel": "Moonshot AI veröffentlicht Kimi K3 - zweiter DeepSeek-Schock erschüttert Märkte",
-      "text": "Das chinesische KI-Start-up Moonshot hat am 16./17. Juli sein neues Modell Kimi K3 veröffentlicht, ein offen zugängliches Modell mit 2,8 Billionen Parametern und einem Kontextfenster von 1 Million Token. Auf mehreren Benchmarks schlug es Anthropics Claude Opus 4.8 und OpenAIs GPT-5.5 und blieb nur knapp hinter den jeweils stärksten Modellen Claude Fable 5 und GPT-5.6 Sol zurück; im Frontend-Code-Vergleichstest erzielte Kimi K3 laut Bloomberg eine Gewinnrate von 76 Prozent. Investoren zogen sofort Parallelen zum sogenannten DeepSeek-Schock aus dem Vorjahr, als ein anderes chinesisches Modell erstmals die Technologieführung der US-Anbieter infrage stellte. Die vollständigen Modellgewichte sollen erst am 27. Juli veröffentlicht werden. Moonshot, an dem der chinesische Konzern Alibaba beteiligt ist, wird in einer laufenden Finanzierungsrunde inzwischen mit rund 31,5 Milliarden Dollar bewertet. Der Vorstoß erhöht den Konkurrenzdruck auf die US-Anbieter, deren eigene Spitzenmodelle zuletzt mit Verzögerungen zu kämpfen hatten.",
-      "quelle": "Bloomberg",
+      "titel": "Microsoft baut eigenes KI-Sicherheitstool als Antwort auf Anthropics Mythos",
+      "text": "Microsoft bereitet laut einem Bericht von The Information ein neues Cybersicherheits-Werkzeug namens Project Perception vor, das automatisiert Schwachstellen in Unternehmenssystemen aufspürt und Lösungsvorschläge liefert. Das Tool kombiniert über ein intelligentes Routing-System Modelle von Microsoft, OpenAI und Anthropic und wählt je nach Sicherheitsaufgabe das passende Modell aus. Damit tritt Microsoft direkt gegen Anthropics eigenes Sicherheitswerkzeug Mythos an, dessen API-Kosten laut Bericht deutlich höher liegen als bei vergleichbaren Modellen. Project Perception soll durchgängig laufen und Code, Cloud-Infrastruktur sowie Endgeräte auf ausnutzbare Schwachstellen prüfen, Auswirkungen erklären und konkrete Fixes vorschlagen. Ein Marktstart wird für Juli erwartet, offizielle Angaben zu Preisen oder Verfügbarkeit hat Microsoft aber noch nicht gemacht. Der Vorstoß zeigt, wie stark sich der Wettbewerb zwischen den großen KI-Anbietern inzwischen auch auf den Bereich automatisierter Cybersicherheit ausweitet.",
+      "quelle": "The Information",
       "datum_artikel": "2026-07-17"
-    },
-    {
-      "titel": "Meta will Eltern künftig bei Suizid-Gesprächen mit KI-Chatbot warnen",
-      "text": "Meta führt ein neues Sicherheitssystem ein, das Eltern automatisch benachrichtigt, wenn ihr Teenager im Gespräch mit dem Meta-KI-Chatbot eindeutige Hinweise auf Selbstverletzung oder Suizidgedanken äußert. Ein eigens entwickeltes KI-System soll solche Warnsignale in Echtzeit erkennen; laut TechCrunch arbeitet Meta zudem daran, bei akuter Gefahr künftig automatisch Rettungsdienste kontaktieren zu können. Die Maßnahme reagiert auf wachsenden öffentlichen und politischen Druck auf Tech-Konzerne, Minderjährige besser vor schädlichen Interaktionen mit KI-Chatbots zu schützen, nachdem Eltern und Kritiker Meta in der Vergangenheit mangelnde Vorsicht vorgeworfen hatten. Die Funktion wird zunächst in den USA ausgerollt, zu einem internationalen Start machte Meta bislang keine Angaben. Der Schritt reiht sich in eine Serie ähnlicher Ankündigungen der Branche ein, mit denen Anbieter von KI-Chatbots auf den Vorwurf reagieren, zu wenig gegen Risiken für junge Nutzer zu unternehmen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-07-16"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Meta holt AWS-Spitzenmanager Dave Brown für eigenen Cloud-Vorstoß",
-      "text": "Meta hat laut übereinstimmenden Berichten von Wall Street Journal und Bloomberg Dave Brown abgeworben, einen der ranghöchsten Manager von Amazon Web Services. Brown war fast zwei Jahrzehnte bei AWS tätig und zuletzt für große Teile des Compute-, KI- und Plattformgeschäfts verantwortlich. Bei Meta soll er künftig an Infrastruktur-Chef Santosh Janardhan berichten und den Ausbau der firmeneigenen Rechenzentren sowie ein neues Projekt namens Meta Compute vorantreiben. Der Schritt fällt in eine Phase, in der Meta für 2026 Investitionen von 125 bis 145 Milliarden Dollar plant, vor allem für Server, Netzwerktechnik, Stromkapazitäten und KI-Trainingsanlagen. Firmenchef Mark Zuckerberg hatte Aktionären im Mai bereits gesagt, dass andere Unternehmen regelmäßig anfragen, ob sie für Zugang zu Metas KI-Modellen oder freien Rechenkapazitäten bezahlen könnten. Beobachter werten die Personalie als Hinweis, dass Meta seine Ambitionen über die reine KI-Modellentwicklung hinaus in Richtung eines eigenen Cloud-Geschäfts ausweiten könnte.",
+      "titel": "Anthropic verhandelt mit Meta über Rechenleistung im Wert von 10 Milliarden Dollar",
+      "text": "Meta Platforms verhandelt einem Bericht der New York Times zufolge mit Anthropic über die Vermietung eigener Rechenkapazität in einem Deal im Wert von bis zu 10 Milliarden Dollar über zwei Jahre. Anthropic hatte den Vorschlag bereits im Juni gemacht, Meta prüft ihn seither. Käme es zur Einigung, würde Anthropic monatliche Zahlungen an Meta leisten, beide Seiten könnten die Vereinbarung aber vorzeitig beenden. Der mögliche Deal wäre deutlich kleiner als die im Mai geschlossene Vereinbarung zwischen Anthropic und Elon Musks SpaceX, bei der Anthropic rund 45 Milliarden Dollar über drei Jahre für Rechenkapazität im Colossus-1-Rechenzentrum zahlt. Meta-Chef Mark Zuckerberg hatte bereits angedeutet, dass der Konzern den Einstieg ins Cloud-Computing-Geschäft prüft, um Investoren zu zeigen, dass sich die milliardenschweren KI-Investitionen auch jenseits des eigenen Geschäfts auszahlen können. Die Gespräche befinden sich noch in einem frühen Stadium und könnten sich noch ändern oder ganz platzen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-17",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "NVIDIA und Japan bauen mit Noetra-Konsortium erste nationale KI-Infrastruktur",
-      "text": "NVIDIA hat sich laut Bloomberg mit dem japanischen Konsortium Noetra - gegründet von SoftBank, Sony, NEC und Honda - zusammengetan, um eine KI-Fabrik mit 140 Megawatt Leistung aufzubauen. Die Anlage soll 27.500 NVIDIA-Rubin-GPUs und 13.750 Vera-CPUs umfassen und gilt als weltweit erste nationale KI-Infrastruktur dieser Art. Japans Regierung unterstützt das Vorhaben über das Wirtschaftsministerium METI mit umgerechnet 6,2 Milliarden Dollar im Rahmen des sogenannten FRONTia-Projekts, das die japanische KI-Basis in Fertigung, Logistik, Gesundheitswesen und Telekommunikation stärken soll. Auf der Roadmap steht zunächst ein reines Reasoning-Modell noch im laufenden Geschäftsjahr, gefolgt von einem multimodalen Modell bis 2028 und einer raumbewussten 'real-world native AI' bis 2030. Für NVIDIA ist der Deal ein weiterer Beleg dafür, dass Staaten zunehmend eigene, souveräne KI-Infrastruktur statt reiner Cloud-Anmietung anstreben.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-16",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Chip-Aktien rutschen nach Kimi-K3-Schock in den Bärenmarkt",
-      "text": "Der Philadelphia Semiconductor Index (SOX) verlor am 17. Juli zeitweise bis zu 5,7 Prozent und liegt damit seit seinem Rekordhoch Ende Juni mehr als 20 Prozent im Minus - die technische Schwelle für einen Bärenmarkt. Auslöser war der Marktschock durch das chinesische KI-Modell Kimi K3 von Moonshot, der erneut Zweifel an der Technologieführung der US-Anbieter und an der Rentabilität der milliardenschweren KI-Investitionen weckte. Die Aktien von Marvell Technology, ARM Holdings und Intel sind seit dem Rekordhoch um jeweils mehr als 30 Prozent eingebrochen, während NVIDIA, Micron, Broadcom und Qualcomm am Freitag um mehr als 2 Prozent nachgaben. Der Nasdaq Composite verlor 1,4 Prozent, der S&P 500 rund 1 Prozent auf 7.457 Punkte. Es ist die schwächste Woche für Chip-Aktien seit dem Zoll-Ausverkauf im April 2025, nachdem der Sektor zuvor seit seinem März-Tief um rund 105 Prozent gestiegen war.",
+      "titel": "Sechste Nacht mit US-Angriffen im Iran-Konflikt treibt Ölpreis, Fed-Falken werden lauter",
+      "text": "Der Konflikt zwischen den USA und dem Iran spitzt sich weiter zu: Das US-Zentralkommando bestätigte die sechste Nacht in Folge mit Angriffen auf militärische Ziele im Iran, während Teheran wiederholt Tanker in der Straße von Hormus attackiert. Der Ölpreis ist dadurch diese Woche um rund 12 Prozent gestiegen, die Nordseesorte Brent legte allein am Freitag um 4,6 Prozent auf 88,10 Dollar je Barrel zu. Neu gegenüber den Vortagen ist, dass sich nun erstmals zwei Notenbanker aus dem Umfeld von Fed-Chef Kevin Warsh öffentlich für eine Zinserhöhung aussprechen: Dallas-Fed-Präsidentin Lorie Logan und Fed-Vize Philip Jefferson signalisierten Offenheit für einen Zinsschritt, sollte sich die Inflation nicht bald abschwächen. Laut CME FedWatch Tool preisen Händler inzwischen eine Wahrscheinlichkeit von 73 Prozent für eine Zinserhöhung bis Dezember ein. Der Goldpreis geriet dadurch unter Druck und steuert auf den größten Wochenverlust seit Anfang Juni zu, notierte am Freitag aber bei knapp 4.000 Dollar je Feinunze. Steigende Ölpreise schüren die Sorge vor neuem Inflationsdruck und damit vor einer restriktiveren Geldpolitik, was nichtrentierliches Gold zusätzlich belastet.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-17"
-    },
-    {
-      "titel": "Apple überholt NVIDIA kurzzeitig als wertvollstes Unternehmen der Welt",
-      "text": "Apple hat NVIDIA am 17. Juli kurzzeitig als wertvollstes börsennotiertes Unternehmen der Welt abgelöst - ein Titel, den der Chip-Konzern seit Mai 2025 gehalten hatte. Apple kam auf eine Marktbewertung von rund 4,88 Billionen Dollar, während NVIDIA nach einem Kursrückgang von 3,5 Prozent bei etwa 4,86 Billionen Dollar lag; im weiteren Handelsverlauf zog NVIDIA aber wieder leicht an Apple vorbei. Die Apple-Aktie ist seit Jahresbeginn um fast 23 Prozent gestiegen, weil Anleger die KI-Strategie des Konzerns und sein im Vergleich zu anderen Tech-Riesen niedrigeres Investitionsniveau honorieren. Der kurzzeitige Wechsel an der Spitze fiel zusammen mit dem heftigen Ausverkauf bei Chip-Aktien im Zuge des Kimi-K3-Schocks. Er zeigt, dass Anleger angesichts der Sorgen um die Rentabilität der KI-Investitionen ihren Fokus über die bisherigen Hauptgewinner wie NVIDIA hinaus verbreitern.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-17"
-    },
-    {
-      "titel": "Netflix-Aktie bricht trotz Gewinnüberraschung um rund 9 Prozent ein",
-      "text": "Netflix hat für das zweite Quartal ein Ergebnis je Aktie von 0,80 Dollar und damit einen Cent mehr als von Analysten erwartet gemeldet, der Umsatz traf mit 12,56 Milliarden Dollar die Erwartungen. Die Prognose für das dritte Quartal enttäuschte jedoch: Netflix rechnet nur noch mit rund 12,9 Milliarden Dollar Umsatz und 0,82 Dollar Gewinn je Aktie, beides etwas unter den Analystenschätzungen, und kündigte damit das zweite Quartal in Folge mit sich verlangsamendem Wachstum an. Zusätzlich verunsicherte die Ankündigung, die Zuschauerzahlen ab 2027 nur noch einmal statt zweimal jährlich zu veröffentlichen, was mehrere Investoren als Zeichen mangelnder Transparenz werteten. Die Aktie fiel im Handel am 17. Juli zeitweise um bis zu 12 Prozent und schloss rund 9 Prozent im Minus auf einem 52-Wochen-Tief, bei einem Handelsvolumen von über 140 Millionen Aktien - etwa 218 Prozent über dem Drei-Monats-Durchschnitt. Der Kurssturz reiht sich in eine seit Monaten anhaltende Schwächephase der Netflix-Aktie ein.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-16"
     }
   ]
 }
