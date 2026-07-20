@@ -1,29 +1,27 @@
 {
-  "datum": "Sonntag, 19. Juli 2026",
-  "generiert": "2026-07-19",
+  "datum": "Montag, 20. Juli 2026",
+  "generiert": "2026-07-20",
   "ki_stories": [
     {
-      "titel": "Microsoft baut eigenes KI-Sicherheitstool als Antwort auf Anthropics Mythos",
-      "text": "Microsoft bereitet laut einem Bericht von The Information ein neues Cybersicherheits-Werkzeug namens Project Perception vor, das automatisiert Schwachstellen in Unternehmenssystemen aufspürt und Lösungsvorschläge liefert. Das Tool kombiniert über ein intelligentes Routing-System Modelle von Microsoft, OpenAI und Anthropic und wählt je nach Sicherheitsaufgabe das passende Modell aus. Damit tritt Microsoft direkt gegen Anthropics eigenes Sicherheitswerkzeug Mythos an, dessen API-Kosten laut Bericht deutlich höher liegen als bei vergleichbaren Modellen. Project Perception soll durchgängig laufen und Code, Cloud-Infrastruktur sowie Endgeräte auf ausnutzbare Schwachstellen prüfen, Auswirkungen erklären und konkrete Fixes vorschlagen. Ein Marktstart wird für Juli erwartet, offizielle Angaben zu Preisen oder Verfügbarkeit hat Microsoft aber noch nicht gemacht. Der Vorstoß zeigt, wie stark sich der Wettbewerb zwischen den großen KI-Anbietern inzwischen auch auf den Bereich automatisierter Cybersicherheit ausweitet.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-07-17"
-    }
-  ],
-  "unternehmen_stories": [
-    {
-      "titel": "Anthropic verhandelt mit Meta über Rechenleistung im Wert von 10 Milliarden Dollar",
-      "text": "Meta Platforms verhandelt einem Bericht der New York Times zufolge mit Anthropic über die Vermietung eigener Rechenkapazität in einem Deal im Wert von bis zu 10 Milliarden Dollar über zwei Jahre. Anthropic hatte den Vorschlag bereits im Juni gemacht, Meta prüft ihn seither. Käme es zur Einigung, würde Anthropic monatliche Zahlungen an Meta leisten, beide Seiten könnten die Vereinbarung aber vorzeitig beenden. Der mögliche Deal wäre deutlich kleiner als die im Mai geschlossene Vereinbarung zwischen Anthropic und Elon Musks SpaceX, bei der Anthropic rund 45 Milliarden Dollar über drei Jahre für Rechenkapazität im Colossus-1-Rechenzentrum zahlt. Meta-Chef Mark Zuckerberg hatte bereits angedeutet, dass der Konzern den Einstieg ins Cloud-Computing-Geschäft prüft, um Investoren zu zeigen, dass sich die milliardenschweren KI-Investitionen auch jenseits des eigenen Geschäfts auszahlen können. Die Gespräche befinden sich noch in einem frühen Stadium und könnten sich noch ändern oder ganz platzen.",
+      "titel": "Moonshot AI plant Börsengang in Hongkong nach Kimi-K3-Erfolg",
+      "text": "Nach dem Überraschungserfolg seines neuen KI-Modells Kimi K3 bereitet das chinesische Start-up Moonshot AI einen Börsengang in Hongkong innerhalb der kommenden sechs Monate vor. Das Unternehmen hat seinen Investoren bereits einen entsprechenden Aktionärsbeschluss zur Abstimmung vorgelegt, die Investmentbanken CICC und Goldman Sachs führen Gespräche über die Begleitung des Deals. Parallel schließt Moonshot eine Finanzierungsrunde ab, die das erst drei Jahre alte Unternehmen mit mehr als 30 Milliarden Dollar bewerten könnte. Kimi K3 hatte in der Vorwoche mit Leistungen auf Augenhöhe mit Spitzenmodellen von OpenAI und Anthropic weltweit für Aufsehen gesorgt und Zweifel an der US-Technologieführerschaft geschürt. Der IPO-Vorstoß zeigt, wie schnell chinesische KI-Labore nun auch an die Kapitalmärkte drängen, um vom Momentum zu profitieren.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-17",
-      "unternehmen": "Anthropic"
+      "datum_artikel": "2026-07-19"
     }
   ],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "Sechste Nacht mit US-Angriffen im Iran-Konflikt treibt Ölpreis, Fed-Falken werden lauter",
-      "text": "Der Konflikt zwischen den USA und dem Iran spitzt sich weiter zu: Das US-Zentralkommando bestätigte die sechste Nacht in Folge mit Angriffen auf militärische Ziele im Iran, während Teheran wiederholt Tanker in der Straße von Hormus attackiert. Der Ölpreis ist dadurch diese Woche um rund 12 Prozent gestiegen, die Nordseesorte Brent legte allein am Freitag um 4,6 Prozent auf 88,10 Dollar je Barrel zu. Neu gegenüber den Vortagen ist, dass sich nun erstmals zwei Notenbanker aus dem Umfeld von Fed-Chef Kevin Warsh öffentlich für eine Zinserhöhung aussprechen: Dallas-Fed-Präsidentin Lorie Logan und Fed-Vize Philip Jefferson signalisierten Offenheit für einen Zinsschritt, sollte sich die Inflation nicht bald abschwächen. Laut CME FedWatch Tool preisen Händler inzwischen eine Wahrscheinlichkeit von 73 Prozent für eine Zinserhöhung bis Dezember ein. Der Goldpreis geriet dadurch unter Druck und steuert auf den größten Wochenverlust seit Anfang Juni zu, notierte am Freitag aber bei knapp 4.000 Dollar je Feinunze. Steigende Ölpreise schüren die Sorge vor neuem Inflationsdruck und damit vor einer restriktiveren Geldpolitik, was nichtrentierliches Gold zusätzlich belastet.",
+      "titel": "Neue Eskalation: Angriff auf Ölanlage in Kuwait treibt Brent über 90 Dollar",
+      "text": "Nach bereits sechs aufeinanderfolgenden Nächten mit US-Angriffen im Iran in der Vorwoche hat der Konflikt am Wochenende eine neue Eskalationsstufe erreicht: Erstmals wurden gezielt Schiffe attackiert, die versuchten, die Straße von Hormus zu durchqueren, zudem traf ein Angriff eine wichtige Ölanlage in Kuwait. Die Sorte Brent kletterte darauf um fast 4 Prozent und notierte zeitweise über 90 Dollar je Barrel, der höchste Stand seit Mitte Juni und deutlich über dem Freitagsschluss von rund 88 Dollar, die US-Sorte WTI lag bei knapp 84 Dollar. Neu und beunruhigend für die Märkte ist, dass damit erstmals gezielt Öl-Infrastruktur eines Drittstaats getroffen wurde statt nur iranischer oder Tanker-Ziele. Durch die Straße von Hormus laufen normalerweise rund 20 Prozent des weltweiten Öl- und LNG-Handels, weshalb Analysten bei anhaltenden Störungen Preise von 100 Dollar oder mehr für möglich halten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-17"
+      "datum_artikel": "2026-07-19"
+    },
+    {
+      "titel": "Chip-Index offiziell im Bärenmarkt - Big Tech gerät wegen KI-Ausgaben unter Druck",
+      "text": "Der Philadelphia Semiconductor Index (SOX) ist am Freitag offiziell in einen Bärenmarkt gerutscht: Er liegt nun 20 Prozent unter seinem Rekordhoch von Ende Juni, nachdem er zwischen dem Tief im März und dem Höchststand zuvor um 105 Prozent gestiegen war. Aktien von Marvell, ARM und Intel haben seit ihren Höchstständen bereits mehr als 30 Prozent verloren. Ausgelöst wurde die jüngste Verkaufswelle unter anderem durch den Kimi-K3-Schock aus China, der neue Zweifel daran weckte, ob die gigantischen KI-Investitionen der US-Konzerne wirklich gerechtfertigt sind. Als Folge sind bei den vier größten KI-Investoren Alphabet, Microsoft, Meta und Amazon Aktienrückkäufe praktisch zum Erliegen gekommen: Nur Microsoft kaufte im ersten Quartal überhaupt noch eigene Aktien zurück, und das mit 3,4 Milliarden Dollar so wenig wie seit fast zehn Jahren nicht mehr. Anleger verlangen nun zunehmend handfeste Beweise dafür, dass sich die enormen KI-Ausgaben tatsächlich auszahlen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-19"
     }
   ]
 }
