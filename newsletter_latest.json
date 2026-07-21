@@ -1,27 +1,48 @@
 {
-  "datum": "Montag, 20. Juli 2026",
-  "generiert": "2026-07-20",
+  "datum": "Dienstag, 21. Juli 2026",
+  "generiert": "2026-07-21",
   "ki_stories": [
     {
-      "titel": "Moonshot AI plant Börsengang in Hongkong nach Kimi-K3-Erfolg",
-      "text": "Nach dem Überraschungserfolg seines neuen KI-Modells Kimi K3 bereitet das chinesische Start-up Moonshot AI einen Börsengang in Hongkong innerhalb der kommenden sechs Monate vor. Das Unternehmen hat seinen Investoren bereits einen entsprechenden Aktionärsbeschluss zur Abstimmung vorgelegt, die Investmentbanken CICC und Goldman Sachs führen Gespräche über die Begleitung des Deals. Parallel schließt Moonshot eine Finanzierungsrunde ab, die das erst drei Jahre alte Unternehmen mit mehr als 30 Milliarden Dollar bewerten könnte. Kimi K3 hatte in der Vorwoche mit Leistungen auf Augenhöhe mit Spitzenmodellen von OpenAI und Anthropic weltweit für Aufsehen gesorgt und Zweifel an der US-Technologieführerschaft geschürt. Der IPO-Vorstoß zeigt, wie schnell chinesische KI-Labore nun auch an die Kapitalmärkte drängen, um vom Momentum zu profitieren.",
+      "titel": "Alibaba stellt Qwen3.8 Max vor - Aktie legt nach KI-Vorschau deutlich zu",
+      "text": "Alibaba hat eine Vorschau-Version seines neuen KI-Spitzenmodells Qwen3.8 Max veröffentlicht und wirbt damit, in Leistungstests nur noch hinter Anthropics Fable 5 zu liegen. Die Ankündigung sorgte am Montag für einen Kurssprung der Alibaba-Aktie von zeitweise mehr als 5 Prozent in Hongkong, das US-Papier legte vorbörslich rund 3 Prozent zu. Qwen3.8 Max soll laut Unternehmensangaben mit deutlich weniger Rechenleistung nahezu an die Spitzenmodelle von OpenAI und Anthropic heranreichen. Die Ankündigung reiht sich ein in eine Serie chinesischer Modell-Vorstöße der vergangenen Wochen, die in den USA Sorgen über den schrumpfenden Vorsprung amerikanischer KI-Labore ausgelöst haben. Investoren werten den Vorstoß als Beleg dafür, dass chinesische Anbieter bei Effizienz und Kosten zunehmend konkurrenzfähig werden. Ein vollständiger Marktstart von Qwen3.8 Max wird in den kommenden Wochen erwartet.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-19"
-    }
-  ],
-  "unternehmen_stories": [],
-  "boerse_stories": [
-    {
-      "titel": "Neue Eskalation: Angriff auf Ölanlage in Kuwait treibt Brent über 90 Dollar",
-      "text": "Nach bereits sechs aufeinanderfolgenden Nächten mit US-Angriffen im Iran in der Vorwoche hat der Konflikt am Wochenende eine neue Eskalationsstufe erreicht: Erstmals wurden gezielt Schiffe attackiert, die versuchten, die Straße von Hormus zu durchqueren, zudem traf ein Angriff eine wichtige Ölanlage in Kuwait. Die Sorte Brent kletterte darauf um fast 4 Prozent und notierte zeitweise über 90 Dollar je Barrel, der höchste Stand seit Mitte Juni und deutlich über dem Freitagsschluss von rund 88 Dollar, die US-Sorte WTI lag bei knapp 84 Dollar. Neu und beunruhigend für die Märkte ist, dass damit erstmals gezielt Öl-Infrastruktur eines Drittstaats getroffen wurde statt nur iranischer oder Tanker-Ziele. Durch die Straße von Hormus laufen normalerweise rund 20 Prozent des weltweiten Öl- und LNG-Handels, weshalb Analysten bei anhaltenden Störungen Preise von 100 Dollar oder mehr für möglich halten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-19"
+      "datum_artikel": "2026-07-20"
     },
     {
-      "titel": "Chip-Index offiziell im Bärenmarkt - Big Tech gerät wegen KI-Ausgaben unter Druck",
-      "text": "Der Philadelphia Semiconductor Index (SOX) ist am Freitag offiziell in einen Bärenmarkt gerutscht: Er liegt nun 20 Prozent unter seinem Rekordhoch von Ende Juni, nachdem er zwischen dem Tief im März und dem Höchststand zuvor um 105 Prozent gestiegen war. Aktien von Marvell, ARM und Intel haben seit ihren Höchstständen bereits mehr als 30 Prozent verloren. Ausgelöst wurde die jüngste Verkaufswelle unter anderem durch den Kimi-K3-Schock aus China, der neue Zweifel daran weckte, ob die gigantischen KI-Investitionen der US-Konzerne wirklich gerechtfertigt sind. Als Folge sind bei den vier größten KI-Investoren Alphabet, Microsoft, Meta und Amazon Aktienrückkäufe praktisch zum Erliegen gekommen: Nur Microsoft kaufte im ersten Quartal überhaupt noch eigene Aktien zurück, und das mit 3,4 Milliarden Dollar so wenig wie seit fast zehn Jahren nicht mehr. Anleger verlangen nun zunehmend handfeste Beweise dafür, dass sich die enormen KI-Ausgaben tatsächlich auszahlen.",
+      "titel": "Chinas Z.AI nimmt Riesen-Rechenzentrum komplett mit heimischen Chips in Betrieb",
+      "text": "Das chinesische KI-Unternehmen Z.AI (vormals Zhipu) hat den Bau eines gigantischen Rechenzentrums abgeschlossen, das ausschließlich mit chinesischen Chips statt mit Nvidia-Hardware betrieben wird. Die Anlage hat eine Leistung von einem Gigawatt, das entspricht dem Strombedarf von rund 750.000 Haushalten. Z.AI trainiert dort seine GLM-Modelle unter anderem auf Huawei-Ascend-Beschleunigern mit der hauseigenen Software MindSpore - nach eigenen Angaben das erste große offene KI-Modell auf einem vollständig heimischen Software- und Hardware-Stack. Der Schritt ist Teil von Pekings Strategie, die Abhängigkeit von den durch US-Exportkontrollen beschränkten Nvidia-Chips zu verringern. China plant Berichten zufolge, in den kommenden fünf Jahren rund 2 Billionen Yuan (etwa 295 Milliarden Dollar) in Rechenzentren zu investieren. Der Ausbau zeigt, wie schnell chinesische KI-Anbieter trotz Chip-Beschränkungen bei der Infrastruktur aufholen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-19"
+      "datum_artikel": "2026-07-20"
+    },
+    {
+      "titel": "Bezos-Startup CuspAI sammelt 450 Millionen Dollar für KI-Materialforschung ein",
+      "text": "Das von Jeff Bezos unterstützte Startup CuspAI hat eine Serie-B-Finanzierung über 450 Millionen Dollar abgeschlossen und wird damit mit 2,6 Milliarden Dollar bewertet. Angeführt wurde die Runde von Kleiner Perkins und NEA, mit Beteiligung von Bezos Expeditions, AMD Ventures und weiteren Investoren. Gleichzeitig startete CuspAI die sogenannte AI Materials Foundry, ein Konsortium aus 48 Technologie- und Industriepartnern - darunter Nvidia, Meta und Hyundai -, das mit Hilfe von KI neue Materialien für die Chipfertigung entdecken soll. Das Unternehmen nutzt dafür seine Plattform MIRA, die Materialentdeckungen beschleunigen soll, für die klassische Forschung sonst Jahre benötigt. Ziel ist es, Engpässe bei Materialien für Halbleiter, Batterien und andere Hightech-Anwendungen schneller zu lösen. Die Beteiligung von Schwergewichten wie Nvidia und Meta unterstreicht, wie wichtig Materialforschung für die nächste Phase des KI-Hardware-Wettlaufs geworden ist.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-20"
+    }
+  ],
+  "unternehmen_stories": [
+    {
+      "titel": "Google entwickelt KI-Spezialchip Frozen v2 für Gemini - Alphabet-Aktie springt an",
+      "text": "Alphabet arbeitet laut einem Bericht von The Information an einem neuen Server-Chip namens Frozen v2, der Teile der Gemini-Modellarchitektur direkt in die Hardware einbrennt. Google-Ingenieure rechnen damit, dass der Chip sechs- bis zehnmal mehr Anfragen pro Watt verarbeiten kann als die aktuellen TPUs des Konzerns. Die Alphabet-Aktie reagierte auf die Nachricht mit einem Kurssprung von zeitweise bis zu 3,7 Prozent. Ein Einsatz von Frozen v2 wird laut Bericht frühestens 2028 erwartet, der Chip soll speziell auf Gemini-Workloads zugeschnitten sein. Die Entwicklung zeigt, wie stark Google auf eigene, maßgeschneiderte Hardware setzt, um unabhängiger von Nvidia zu werden und die hohen Betriebskosten von KI-Diensten zu senken. Die Nachricht kommt kurz vor Alphabets Quartalszahlen, die für den 22. Juli angesetzt sind und als erster großer Stimmungstest für die KI-Investitionen der Branche in diesem Sommer gelten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-20",
+      "unternehmen": "Google"
+    },
+    {
+      "titel": "Microsoft holt AMDs Helios-KI-Racks in großem Stil in die Azure-Cloud",
+      "text": "Microsoft und AMD haben eine erweiterte strategische Partnerschaft angekündigt: Microsoft wird AMDs neue Helios-Rack-Systeme mit Instinct-MI455X-Grafikchips, EPYC-Venice-Prozessoren und Pensando-Netzwerktechnik in großem Umfang in seiner Azure-Cloud einsetzen. Die Systeme sollen ab der zweiten Jahreshälfte 2026 ausgeliefert werden und primär KI-Inferenz für Microsoft-Kunden und Azure-KI-Dienste antreiben. Die AMD-Aktie legte auf die Nachricht hin um rund 5 Prozent zu, Microsoft überschritt wieder die Marke von 400 Dollar je Aktie. Der Deal positioniert AMD als ernsthafte Alternative zu Nvidia, das den Markt für KI-Beschleuniger bislang dominiert, und verschafft Microsoft mehr Verhandlungsspielraum bei Chip-Lieferanten. Zusätzlich weitet Azure den Einsatz von AMD-EPYC-Prozessoren auf neue virtuelle Maschinen aus. Anleger werten den Schritt auch als Signal, dass die großen Cloud-Anbieter ihre milliardenschweren KI-Investitionen breiter über mehrere Chip-Lieferanten streuen wollen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-20",
+      "unternehmen": "Microsoft"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "Chip-Aktien erholen sich weltweit nach Bärenmarkt - Asiens Börsen ziehen an",
+      "text": "Nach dem Absturz der Halbleiterwerte in den Bärenmarkt in der Vorwoche haben sich Chip-Aktien am Montag weltweit deutlich erholt. In den USA gewann der Philadelphia-Halbleiterindex rund 0,6 Prozent, angeführt von Micron (plus 4,7 Prozent), AMD (plus rund 4 Prozent) und Intel (plus 2,5 Prozent), auch Nvidia legte zu. In Asien kletterte der MSCI-Asia-Pacific-Index um 1,7 Prozent, Südkorea und Taiwan gewannen jeweils mehr als 2,5 Prozent, angetrieben von Samsung und TSMC; Japans Nikkei 225 sprang nach einem Feiertag um 2,2 Prozent. Anleger richten den Blick nun auf die anstehende Berichtssaison der Tech-Konzerne - Alphabet legt bereits am 22. Juli Zahlen vor, gefolgt von Microsoft und Meta am 29. sowie Apple und Amazon am 30. Juli - als Test, ob sich die milliardenschweren KI-Investitionen tatsächlich auszahlen. Auslöser der vorangegangenen Talfahrt waren unter anderem Sorgen über verzögerte Nvidia-Serverauslieferungen und die Konkurrenz durch günstigere chinesische KI-Modelle wie Kimi K3. Die Erholung gilt als fragil: Analysten warnen, dass enttäuschende Quartalszahlen die Verkaufswelle jederzeit erneut anfachen könnten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-20"
     }
   ]
 }
