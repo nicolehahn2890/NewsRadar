@@ -1,42 +1,67 @@
 {
-  "datum": "Donnerstag, 23. Juli 2026",
-  "generiert": "2026-07-23",
+  "datum": "Freitag, 24. Juli 2026",
+  "generiert": "2026-07-24",
   "ki_stories": [
     {
-      "titel": "USA drohen China mit Sanktionen wegen KI-Modell-Diebstahls",
-      "text": "US-Finanzminister Scott Bessent kuendigte an, quelloffene chinesische KI-Modelle wie Kimi K3 von Moonshot AI kuenftig gezielt auf Anzeichen von Diebstahl geistigen Eigentums zu pruefen, und drohte mit Sanktionen. Vertreter der Trump-Regierung behaupten, das 2,8 Billionen Parameter grosse Kimi-K3-Modell sei aus Anthropics Fable-Modell destilliert worden. China verfolgt mit seiner Ai-for-All-Strategie einen anderen Ansatz als die USA: Statt auf die leistungsfaehigsten Modelle zu setzen, verbreitet Peking guenstige, quelloffene Modelle moeglichst breit. Firmen wie Coinbase, Shopify und Airbnb nutzen bereits chinesische Modelle wie Qwen, GLM oder Kimi, um ihre KI-Kosten zu senken. Die Entwicklung zeigt, dass die klassische US-Eindaemmungsstrategie gegenueber Chinas KI-Fortschritt zunehmend an ihre Grenzen stoesst und der Handelskonflikt um KI sich verschaerft.",
+      "titel": "Weißes Haus wirft Moonshot AI illegale Nutzung verbotener NVIDIA-Chips vor",
+      "text": "Nachdem die US-Regierung erst am Vortag mit Sanktionen wegen mutmaßlichen KI-Modell-Diebstahls gegen das chinesische Start-up Moonshot AI gedroht hatte, kommt nun ein weiterer, konkreterer Vorwurf hinzu. Michael Kratsios, Direktor des Weißen-Haus-Büros für Wissenschafts- und Technologiepolitik, erklärte, Moonshot habe sich über Server in Thailand Zugriff auf export-kontrollierte NVIDIA-GB300-Chips verschafft, ohne die Hardware physisch nach China einzuführen - eine mögliche Umgehung der US-Exportkontrollen. Mit den Chips soll Moonshot sein neues Modell Kimi K3 trainiert haben, das mit 2,8 Billionen Parametern erst vor wenigen Tagen veröffentlicht wurde und wegen seiner Leistung bei niedrigen Kosten (rund 3 Dollar pro Million Input-Token) für Aufsehen gesorgt hatte. Die neue Anschuldigung reiht sich in wachsende Sorgen der US-Regierung ein, dass chinesische KI-Firmen amerikanische Exportbeschränkungen systematisch umgehen. NVIDIA-Aktien gerieten nach Bekanntwerden der Vorwürfe zeitweise unter Druck. Moonshot AI hat sich bislang nicht öffentlich zu den Vorwürfen geäußert.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-22"
     },
     {
-      "titel": "Google veroeffentlicht guenstigeres Gemini 3.6 Flash, startet Training von Gemini 4",
-      "text": "Google hat drei neue KI-Modelle veroeffentlicht: das schnellere und guenstigere Gemini 3.6 Flash als neues Arbeitspferd-Modell, das noch guenstigere Gemini 3.5 Flash-Lite fuer grosse Mengen an KI-Agenten-Anfragen sowie das auf Cybersicherheit spezialisierte Gemini 3.5 Flash Cyber fuer Regierungen und ausgewaehlte Partner. Gemini 3.6 Flash verbraucht laut Google 17 Prozent weniger Ausgabe-Tokens als der Vorgaenger, der Preis sank von 9 auf 7,50 US-Dollar pro Million Ausgabe-Tokens, beim Programmier-Benchmark DeepSWE stieg der Wert von 37 auf 49 Prozent. Zusaetzlich bestaetigte Google, bereits mit dem Training von Gemini 4 begonnen zu haben, dem laut eigenen Angaben bislang ambitioniertesten Trainingslauf des Unternehmens, allerdings ohne Veroeffentlichungstermin. Der Zeitpunkt einen Tag vor Alphabets Quartalszahlen gilt als Reaktion auf den wachsenden Preis- und Effizienzdruck durch guenstigere chinesische Konkurrenzmodelle.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-21"
+      "titel": "China lässt Robotaxi-Genehmigungen nach dreimonatigem Stopp wieder zu",
+      "text": "Chinas Behörden haben nach Abschluss einer branchenweiten Sicherheitsüberprüfung begonnen, wieder Genehmigungen für autonome Robotaxis auszustellen. Der Stopp war im April verhängt worden, nachdem mehr als 100 Robotaxis von Baidus Apollo Go in Wuhan durch einen gleichzeitigen Systemausfall liegen blieben und Fahrgäste strandeten. Das Fahrtechnik-Unternehmen Momenta erhielt als eines der ersten wieder eine Genehmigung für Straßentests in Shenzhen, während Baidus Apollo Go Anzeichen eines Neustarts in Wuhan zeigt. Shenzhen hat zudem seine Vorschriften gelockert und prüft, ob Robotaxis künftig in der gesamten Stadt statt nur in abgegrenzten Testzonen fahren dürfen. Die Wiederaufnahme markiert einen wichtigen Schritt für Chinas autonome Fahrzeugbranche im internationalen Wettlauf um autonome Mobilität. Anleger reagierten positiv: Momenta-Aktien legten nach der Nachricht über 10 Prozent zu.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-23"
+    },
+    {
+      "titel": "Anthropic öffnet Daten zu KI-Arbeitsmarkteffekten für alle Nutzer",
+      "text": "Anthropic hat einen neuen Connector für den Anthropic Economic Index veröffentlicht, mit dem Nutzer die Daten zu den Auswirkungen von Claude auf Arbeitsplätze direkt über Claude selbst abfragen können. Grundlage ist der jüngste Index-Bericht mit dem Titel Cadences, für den rund 9.700 Beschäftigte befragt wurden. Mehr als ein Drittel erwartet, dass sich die eigenen Aufgaben binnen eines Jahres durch KI verändern, aber nur etwa 10 Prozent befürchten den Verlust des eigenen Jobs. Der Anteil der untersuchten Jobs, in denen Claude für mindestens ein Viertel der Aufgaben genutzt wird, ist mittlerweile auf 49 Prozent gestiegen. Anthropic revidierte zudem seine Schätzung zum jährlichen Produktivitätsgewinn durch KI nach unten: statt 1,8 Prozentpunkten rechnet das Unternehmen nun mit etwa 1,0 bis 1,2 Prozentpunkten. Die frei zugänglichen Daten sollen die oft emotional geführte Debatte über KI und Beschäftigung auf eine belastbarere Grundlage stellen.",
+      "quelle": "Anthropic",
+      "datum_artikel": "2026-07-22"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Alphabet uebertrifft Erwartungen, Cloud-Umsatz springt um 82 Prozent",
-      "text": "Alphabet hat am 22. Juli seine Zahlen fuer das zweite Quartal 2026 vorgelegt und die Erwartungen der Wall Street uebertroffen: Der Gewinn je Aktie lag bei 9,11 US-Dollar, der Konzernumsatz bei 119,8 Milliarden Dollar gegenueber erwarteten 116,9 Milliarden. Google Cloud legte um 82 Prozent auf 24,8 Milliarden Dollar zu, getrieben von KI-Infrastruktur und Enterprise-Loesungen, der Auftragsbestand der Cloud-Sparte kletterte auf 514 Milliarden Dollar. Gleichzeitig hob Alphabet seine Investitionsprognose fuer 2026 auf bis zu 205 Milliarden Dollar an, deutlich mehr als bisher geplant. Die Aktie fiel trotz starker Zahlen um mehr als 2 Prozent, weil Anleger die steigenden Investitionskosten kritisch sehen. Das zeigt, wie stark der Wettlauf um KI-Infrastruktur inzwischen auf die Margen der Tech-Konzerne drueckt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-22",
-      "unternehmen": "Google"
-    },
-    {
-      "titel": "AMD investiert bis zu 5 Milliarden Dollar bei Anthropic",
-      "text": "AMD und Anthropic haben eine grosse Partnerschaft bekanntgegeben: Anthropic wird bis zu 2 Gigawatt Rechenleistung mit AMDs Instinct-MI450-Chips beziehen, im Gegenzug investiert AMD bis zu 5 Milliarden Dollar als strategische Beteiligung an Anthropic. Die erste Ausbaustufe von einem Gigawatt soll ab der ersten Jahreshaelfte 2027 in Betrieb gehen, die Chips laufen in AMDs neuen Helios-Racksystemen zusammen mit EPYC-Venice-Prozessoren. Anthropic nutzt bereits AMDs MI355X-Chips sowie Hardware von Google, Amazon und Nvidia und diversifiziert damit seine Recheninfrastruktur weiter. Fuer AMD ist der Deal ein wichtiger Schritt, um Nvidias Dominanz im KI-Chipmarkt anzugreifen, im Gegenzug soll Claude staerker in AMDs eigene Entwicklungsprozesse eingebunden werden.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-22",
-      "unternehmen": "AMD"
-    },
-    {
-      "titel": "OpenAI plant 30-Milliarden-Rechenzentrum bei Savannah, Georgia",
-      "text": "OpenAI will laut einem Bloomberg-Bericht mehr als 30 Milliarden Dollar in ein neues, riesiges Rechenzentrum in der Naehe von Savannah im US-Bundesstaat Georgia investieren. Fuer den Standort hat sich das Unternehmen bereits 3,2 Gigawatt an Energiekapazitaet gesichert, um den steigenden Rechenbedarf fuer ChatGPT und andere KI-Produkte zu decken. Das Projekt ist Teil von OpenAIs beschleunigtem Ausbau der eigenen Recheninfrastruktur, mit dem der Konzern mit der wachsenden Nachfrage nach KI-Diensten Schritt halten will. Der Umfang unterstreicht, wie kapitalintensiv das KI-Wettrennen inzwischen geworden ist, und duerfte weiteren Druck auf OpenAIs Finanzierungsbedarf und Partnerschaften mit Energieversorgern erzeugen.",
+      "titel": "OpenAI startet Presence - neue Plattform für Firmen-KI-Agenten",
+      "text": "OpenAI hat mit Presence eine neue Plattform vorgestellt, mit der Unternehmen eigene KI-Agenten für Kundenservice, Vertrieb und interne Abläufe per Sprache und Chat aufbauen und steuern können. Anders als bisherige Modell-Schnittstellen bietet Presence ein komplettes verwaltetes System inklusive Firmenrichtlinien, Sicherheitsvorgaben, Eskalationsregeln, Simulationen und Auswertungstools. OpenAI setzt die Plattform bereits selbst für die eigene englischsprachige Telefon-Hotline ein, wo sie innerhalb weniger Wochen die Qualitätswerte menschlicher Mitarbeiter erreichte und mittlerweile etwa 75 Prozent der eingehenden Anrufe eigenständig löst. Presence ist vorerst nur ausgewählten Großkunden im Rahmen eines eingeschränkten Pilotprogramms zugänglich. Der Schritt markiert einen Strategiewechsel: OpenAI positioniert sich stärker als Anbieter fertiger Unternehmenslösungen statt nur als reiner Modell-Lieferant. Damit tritt OpenAI in direkte Konkurrenz zu ähnlichen Agenten-Plattformen von Google Cloud, Meta und einer NVIDIA-ServiceNow-Partnerschaft.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-22",
       "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Microsoft ersetzt KI-Bildmodelle von OpenAI in PowerPoint und Bing durch eigene Technik",
+      "text": "Microsoft tauscht die von OpenAI stammenden Bildgenerierungs-Modelle in beliebten Produkten wie PowerPoint und Bing gegen eigene, selbst entwickelte KI-Modelle aus. Der Schritt folgt auf eine bereits Anfang Juli begonnene Umstellung, bei der Microsoft aus Kostengründen auch in Excel und Outlook Modelle von OpenAI und Anthropic durch eigene Technologie ersetzt hatte. Hintergrund ist der wachsende Kostendruck durch den enormen Rechenaufwand für KI-Dienste sowie Microsofts Bestreben, unabhängiger von externen KI-Partnern zu werden. Die Umstellung erfolgt, obwohl Microsoft weiterhin eng mit OpenAI verbunden ist und rund 27 Prozent an dem Unternehmen hält. Für Nutzer soll sich die Funktionsweise der Produkte kaum ändern, Microsoft verspricht vergleichbare Qualität bei geringeren Betriebskosten. Der Vorgang zeigt, wie Cloud-Anbieter zunehmend versuchen, sich aus der Abhängigkeit von einzelnen externen KI-Modell-Lieferanten zu lösen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-23",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "NVIDIA investiert 1,5 Milliarden Dollar in Amkor-Chipfertigung in Arizona",
+      "text": "NVIDIA hat mit dem Halbleiter-Zulieferer Amkor Technology eine Vereinbarung über 1,5 Milliarden Dollar geschlossen, um dessen Chip-Verpackungskapazitäten in Arizona auszubauen. Die Summe fließt als Vorauszahlung von NVIDIA an Amkor und soll helfen, die dortige Fertigung deutlich hochzufahren. Chip-Verpackung gilt als kritischer, oft übersehener Engpass in der Halbleiter-Lieferkette, der zunehmend die Auslieferung neuer KI-Chips begrenzt. Mit dem Deal will NVIDIA sicherstellen, dass genügend fortschrittliche Packaging-Kapazität für seine KI-Beschleuniger direkt in den USA verfügbar ist, statt fast ausschließlich auf asiatische Zulieferer angewiesen zu sein. Die Investition reiht sich in eine Serie von NVIDIA-Vereinbarungen zum Ausbau der US-Chip-Fertigung ein und folgt politischem Druck aus Washington, mehr Halbleiterproduktion ins Land zu holen. Amkor-Aktien profitierten von der Nachricht.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-23",
+      "unternehmen": "NVIDIA"
     }
   ],
-  "boerse_stories": []
+  "boerse_stories": [
+    {
+      "titel": "Magnificent-7-Techwerte verlieren an einem Tag 797 Milliarden Dollar",
+      "text": "Die sieben größten US-Technologiekonzerne (Magnificent Seven) haben am 23. Juli zusammen rund 797 Milliarden Dollar an Marktwert verloren - der stärkste Tagesrückgang der Gruppe seit April 2025. Auslöser war eine plötzlich aufkeimende Skepsis der Anleger, ob sich die gigantischen KI-Investitionen der Branche überhaupt auszahlen, verstärkt durch Alphabets bereits bekannte Anhebung der Investitionsprognose und einen überraschend schwachen Quartalsbericht von Tesla. Der marktbreite S&P 500 gab um 1,2 Prozent nach, der technologielastige Nasdaq 100 verlor 1,9 Prozent - beides die größten Tagesverluste seit einem Monat. Verschärft wurde die Nervosität durch steigende Ölpreise infolge der Eskalation im Nahost-Konflikt, was zusätzlich die Inflationssorgen anheizte. Auch am Anleihemarkt wuchs die Unruhe: Tech-Anleihen gerieten wegen wachsender Sorgen um die KI-Schuldenlast der Unternehmen unter Druck. Investoren werten den Tag als möglichen Wendepunkt in der bislang kaum gebrochenen Kaufbereitschaft für KI-Werte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-23"
+    },
+    {
+      "titel": "Tesla-Aktie bricht nach Gewinneinbruch um 14,5 Prozent ein",
+      "text": "Tesla hat im zweiten Quartal 2026 einen bereinigten Gewinn je Aktie von 33 Cent ausgewiesen und damit die Analystenerwartung von 51 Cent deutlich verfehlt. Die Aktie stürzte daraufhin um 14,5 Prozent ab - der schwerste Tagesverlust seit mehr als einem Jahr. Seit Jahresbeginn hat die Tesla-Aktie damit rund 29 Prozent an Wert verloren. Trotz solider Auslieferungszahlen bei Elektroautos belasteten hohe Ausgaben für KI- und Robotik-Projekte das Ergebnis und nährten erneut Zweifel an Elon Musks Strategie, Tesla stärker als KI- und Robotik-Unternehmen statt reinen Autohersteller zu positionieren. Mehrere Analysten, darunter JPMorgan, Cantor Fitzgerald und Mizuho, senkten daraufhin ihre Kursziele für die Aktie. Leerverkäufer profitierten laut Berichten mit rund 4 Milliarden Dollar Gewinn von dem Kurssturz.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-23"
+    },
+    {
+      "titel": "Intel-Aktie legt nach überraschend starken Quartalszahlen zu",
+      "text": "Intel hat im zweiten Quartal 2026 einen bereinigten Gewinn je Aktie von 42 Cent erzielt, deutlich mehr als die von Analysten erwarteten 21 Cent. Der Umsatz stieg um 25 Prozent auf 16,1 Milliarden Dollar - das stärkste Umsatzwachstum des Unternehmens seit fast 15 Jahren - und übertraf ebenfalls die Erwartungen von rund 14,4 Milliarden Dollar. Treiber war vor allem die steigende Nachfrage nach Intels Server-Prozessoren im Zuge des KI-Infrastruktur-Booms. Die Intel-Aktie, die 2026 bereits um über 170 Prozent gestiegen war, legte nach den Zahlen weiter zu, nachdem sie im Juli zuvor rund 28 Prozent verloren hatte. Für das laufende Quartal stellte Intel einen bereinigten Gewinn von 38 Cent je Aktie bei einem Umsatz zwischen 15,8 und 16,8 Milliarden Dollar in Aussicht. Die Zahlen gelten als wichtiges Signal, ob sich Intels Comeback im KI-Chipmarkt fortsetzt, nachdem die US-Regierung im Vorjahr eine Beteiligung von 10 Prozent an dem Unternehmen übernommen hatte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-23"
+    }
+  ]
 }
