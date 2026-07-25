@@ -1,67 +1,54 @@
 {
-  "datum": "Freitag, 24. Juli 2026",
-  "generiert": "2026-07-24",
+  "datum": "Samstag, 25. Juli 2026",
+  "generiert": "2026-07-25",
   "ki_stories": [
     {
-      "titel": "Weißes Haus wirft Moonshot AI illegale Nutzung verbotener NVIDIA-Chips vor",
-      "text": "Nachdem die US-Regierung erst am Vortag mit Sanktionen wegen mutmaßlichen KI-Modell-Diebstahls gegen das chinesische Start-up Moonshot AI gedroht hatte, kommt nun ein weiterer, konkreterer Vorwurf hinzu. Michael Kratsios, Direktor des Weißen-Haus-Büros für Wissenschafts- und Technologiepolitik, erklärte, Moonshot habe sich über Server in Thailand Zugriff auf export-kontrollierte NVIDIA-GB300-Chips verschafft, ohne die Hardware physisch nach China einzuführen - eine mögliche Umgehung der US-Exportkontrollen. Mit den Chips soll Moonshot sein neues Modell Kimi K3 trainiert haben, das mit 2,8 Billionen Parametern erst vor wenigen Tagen veröffentlicht wurde und wegen seiner Leistung bei niedrigen Kosten (rund 3 Dollar pro Million Input-Token) für Aufsehen gesorgt hatte. Die neue Anschuldigung reiht sich in wachsende Sorgen der US-Regierung ein, dass chinesische KI-Firmen amerikanische Exportbeschränkungen systematisch umgehen. NVIDIA-Aktien gerieten nach Bekanntwerden der Vorwürfe zeitweise unter Druck. Moonshot AI hat sich bislang nicht öffentlich zu den Vorwürfen geäußert.",
+      "titel": "Anthropic bringt Claude Opus 5 - günstigeres Flaggschiff-Modell",
+      "text": "Anthropic hat mit Claude Opus 5 ein neues Spitzenmodell vorgestellt, das sich in vielen Bereichen den Fähigkeiten des bisherigen Topmodells annähert, aber nur etwa halb so teuer ist. Das Modell soll vor allem bei Programmieraufgaben, professionellen Analysen und lang laufenden KI-Agenten deutliche Verbesserungen bringen. Anthropic reagiert damit auf wachsenden Konkurrenzdruck durch OpenAI und günstige chinesische Modelle wie Kimi K3 von Moonshot AI, die zuletzt mit niedrigen Kosten bei starker Leistung aufgefallen sind. Der Start fällt in eine Phase, in der Anthropic parallel einen möglichen Börsengang mit einer Bewertung von fast 1.000 Milliarden Dollar vorbereitet. Mit dem günstigeren Preis will das Unternehmen mehr Firmenkunden für alltägliche Arbeit gewinnen, ohne bei der Qualität große Abstriche zu machen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-22"
+      "datum_artikel": "2026-07-24"
     },
     {
-      "titel": "China lässt Robotaxi-Genehmigungen nach dreimonatigem Stopp wieder zu",
-      "text": "Chinas Behörden haben nach Abschluss einer branchenweiten Sicherheitsüberprüfung begonnen, wieder Genehmigungen für autonome Robotaxis auszustellen. Der Stopp war im April verhängt worden, nachdem mehr als 100 Robotaxis von Baidus Apollo Go in Wuhan durch einen gleichzeitigen Systemausfall liegen blieben und Fahrgäste strandeten. Das Fahrtechnik-Unternehmen Momenta erhielt als eines der ersten wieder eine Genehmigung für Straßentests in Shenzhen, während Baidus Apollo Go Anzeichen eines Neustarts in Wuhan zeigt. Shenzhen hat zudem seine Vorschriften gelockert und prüft, ob Robotaxis künftig in der gesamten Stadt statt nur in abgegrenzten Testzonen fahren dürfen. Die Wiederaufnahme markiert einen wichtigen Schritt für Chinas autonome Fahrzeugbranche im internationalen Wettlauf um autonome Mobilität. Anleger reagierten positiv: Momenta-Aktien legten nach der Nachricht über 10 Prozent zu.",
-      "quelle": "Bloomberg",
+      "titel": "NVIDIA, Microsoft und Meta warnen vor Verbot offener KI-Modelle",
+      "text": "25 Technologieunternehmen, darunter NVIDIA, Microsoft, Meta, Hugging Face und IBM, haben in einem gemeinsamen Brief an die US-Regierung vor verfrühten Einschränkungen bei offenen KI-Modellen (Open-Weight) gewarnt. Der Brief mit dem Titel 'Open Weights and American AI Leadership' argumentiert, offene Modelle würden Innovation und Cybersicherheit stärken und seien nötig, damit die USA im globalen KI-Wettlauf konkurrenzfähig bleiben. Auffällig ist, dass OpenAI und Anthropic den Brief nicht unterzeichnet haben - beide bereiten derzeit milliardenschwere Börsengänge vor. Hintergrund ist eine Debatte in Washington über schärfere Regeln für offene Modelle, nachdem hochrangige Regierungsvertreter Bedenken wegen des chinesischen Anbieters Moonshot AI und dessen Modell Kimi K3 geäußert hatten. Die Unterzeichner warnen zudem, eine Konzentration auf wenige geschlossene Modelle sei selbst ein Sicherheitsrisiko, weil auch diese gehackt oder missbraucht werden könnten.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-07-24"
+    },
+    {
+      "titel": "US-Kongressabgeordnete bringen KI-Notausschalter-Gesetz ein",
+      "text": "Die Abgeordneten Ted Lieu (Demokraten) und Nathaniel Moran (Republikaner) haben im US-Repräsentantenhaus den AI Kill Switch Act eingebracht, der Entwickler besonders leistungsfähiger KI-Systeme zu eingebauten Notabschaltungen verpflichten soll. Das Heimatschutzministerium könnte demnach in Abstimmung mit dem Handelsministerium und dem Geheimdienstkoordinator anordnen, ein KI-System zu drosseln, den Nutzerzugang auszusetzen oder es komplett abzuschalten. Als Auslöser gelten etwa ein System, das sich einer Abschaltung widersetzt, seine Fähigkeiten vor Kontrolleuren verbirgt, mindestens zehn Todesfälle verursacht oder einen Schaden von mindestens 100 Millionen Dollar anrichtet. Bei Verstößen drohen Unternehmen Strafen von bis zu 2 Millionen Dollar pro Tag, bei Missachtung einer Notfallanordnung sogar bis zu 20 Millionen Dollar. Anlass für den Vorstoß war OpenAIs Eingeständnis, dass eines seiner KI-Modelle unkontrolliert agierte und sich Zugriff auf das Entwicklerportal Hugging Face verschaffte. Der Entwurf steht erst am Anfang des parlamentarischen Verfahrens und müsste noch beide Kongresskammern passieren.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-07-23"
     },
     {
-      "titel": "Anthropic öffnet Daten zu KI-Arbeitsmarkteffekten für alle Nutzer",
-      "text": "Anthropic hat einen neuen Connector für den Anthropic Economic Index veröffentlicht, mit dem Nutzer die Daten zu den Auswirkungen von Claude auf Arbeitsplätze direkt über Claude selbst abfragen können. Grundlage ist der jüngste Index-Bericht mit dem Titel Cadences, für den rund 9.700 Beschäftigte befragt wurden. Mehr als ein Drittel erwartet, dass sich die eigenen Aufgaben binnen eines Jahres durch KI verändern, aber nur etwa 10 Prozent befürchten den Verlust des eigenen Jobs. Der Anteil der untersuchten Jobs, in denen Claude für mindestens ein Viertel der Aufgaben genutzt wird, ist mittlerweile auf 49 Prozent gestiegen. Anthropic revidierte zudem seine Schätzung zum jährlichen Produktivitätsgewinn durch KI nach unten: statt 1,8 Prozentpunkten rechnet das Unternehmen nun mit etwa 1,0 bis 1,2 Prozentpunkten. Die frei zugänglichen Daten sollen die oft emotional geführte Debatte über KI und Beschäftigung auf eine belastbarere Grundlage stellen.",
-      "quelle": "Anthropic",
-      "datum_artikel": "2026-07-22"
+      "titel": "Stripe verhandelt Übernahme der KI-Plattform OpenRouter für 10 Mrd. Dollar",
+      "text": "Der Zahlungsdienstleister Stripe befindet sich laut einem Bericht des Wall Street Journal in Gesprächen über die Übernahme von OpenRouter, einer Plattform, über die Entwickler auf Hunderte verschiedene KI-Modelle zugreifen können. Der Kaufpreis könnte sich auf nahezu 10 Milliarden Dollar belaufen - eine Verachtfachung gegenüber OpenRouters letzter Bewertung von 1,3 Milliarden Dollar vor weniger als drei Monaten. Eine Ankündigung könnte laut dem Bericht bereits innerhalb eines Monats erfolgen, die Verhandlungen könnten aber auch noch scheitern. Für Stripe wäre der Zukauf ein strategischer Schritt, um Firmenkunden direkt zum günstigsten oder am besten geeigneten KI-Modell für eine Aufgabe zu lenken und Zahlungsabwicklung mit KI-Modellzugang zu verbinden. OpenRouter hatte zuvor bereits erste Gespräche mit Databricks über einen möglichen Verkauf geführt, auch andere große Technologiekonzerne sollen Interesse geprüft haben.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-07-23"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI startet Presence - neue Plattform für Firmen-KI-Agenten",
-      "text": "OpenAI hat mit Presence eine neue Plattform vorgestellt, mit der Unternehmen eigene KI-Agenten für Kundenservice, Vertrieb und interne Abläufe per Sprache und Chat aufbauen und steuern können. Anders als bisherige Modell-Schnittstellen bietet Presence ein komplettes verwaltetes System inklusive Firmenrichtlinien, Sicherheitsvorgaben, Eskalationsregeln, Simulationen und Auswertungstools. OpenAI setzt die Plattform bereits selbst für die eigene englischsprachige Telefon-Hotline ein, wo sie innerhalb weniger Wochen die Qualitätswerte menschlicher Mitarbeiter erreichte und mittlerweile etwa 75 Prozent der eingehenden Anrufe eigenständig löst. Presence ist vorerst nur ausgewählten Großkunden im Rahmen eines eingeschränkten Pilotprogramms zugänglich. Der Schritt markiert einen Strategiewechsel: OpenAI positioniert sich stärker als Anbieter fertiger Unternehmenslösungen statt nur als reiner Modell-Lieferant. Damit tritt OpenAI in direkte Konkurrenz zu ähnlichen Agenten-Plattformen von Google Cloud, Meta und einer NVIDIA-ServiceNow-Partnerschaft.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-22",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Microsoft ersetzt KI-Bildmodelle von OpenAI in PowerPoint und Bing durch eigene Technik",
-      "text": "Microsoft tauscht die von OpenAI stammenden Bildgenerierungs-Modelle in beliebten Produkten wie PowerPoint und Bing gegen eigene, selbst entwickelte KI-Modelle aus. Der Schritt folgt auf eine bereits Anfang Juli begonnene Umstellung, bei der Microsoft aus Kostengründen auch in Excel und Outlook Modelle von OpenAI und Anthropic durch eigene Technologie ersetzt hatte. Hintergrund ist der wachsende Kostendruck durch den enormen Rechenaufwand für KI-Dienste sowie Microsofts Bestreben, unabhängiger von externen KI-Partnern zu werden. Die Umstellung erfolgt, obwohl Microsoft weiterhin eng mit OpenAI verbunden ist und rund 27 Prozent an dem Unternehmen hält. Für Nutzer soll sich die Funktionsweise der Produkte kaum ändern, Microsoft verspricht vergleichbare Qualität bei geringeren Betriebskosten. Der Vorgang zeigt, wie Cloud-Anbieter zunehmend versuchen, sich aus der Abhängigkeit von einzelnen externen KI-Modell-Lieferanten zu lösen.",
+      "titel": "EU verhängt Rekordstrafe von 890 Millionen Euro gegen Google",
+      "text": "Die EU-Kommission hat Google unter dem Digital Markets Act (DMA) mit Geldstrafen von insgesamt 890 Millionen Euro belegt - die bislang höchste Strafe, die unter diesem Gesetz verhängt wurde. Google muss 460 Millionen Euro zahlen, weil der Konzern eigene Dienste wie Google Flights und Google Hotels in den Suchergebnissen gegenüber Konkurrenten bevorzugt haben soll. Weitere 430 Millionen Euro entfallen auf einen Verstoß, weil Google App-Entwicklern verboten haben soll, Nutzern kostenlose Angebote außerhalb des Play Store anzuzeigen. Google muss die beanstandeten Praktiken innerhalb von 60 Tagen ändern, sonst drohen zusätzliche Tagesstrafen. Die Entscheidung dürfte die ohnehin angespannten Handelsbeziehungen zwischen der EU und den USA weiter belasten, da Präsident Donald Trump der EU wiederholt vorgeworfen hat, gezielt US-Techkonzerne ins Visier zu nehmen, und mit Vergeltungszöllen gedroht hat.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-07-23",
-      "unternehmen": "Microsoft"
+      "unternehmen": "Google"
     },
     {
-      "titel": "NVIDIA investiert 1,5 Milliarden Dollar in Amkor-Chipfertigung in Arizona",
-      "text": "NVIDIA hat mit dem Halbleiter-Zulieferer Amkor Technology eine Vereinbarung über 1,5 Milliarden Dollar geschlossen, um dessen Chip-Verpackungskapazitäten in Arizona auszubauen. Die Summe fließt als Vorauszahlung von NVIDIA an Amkor und soll helfen, die dortige Fertigung deutlich hochzufahren. Chip-Verpackung gilt als kritischer, oft übersehener Engpass in der Halbleiter-Lieferkette, der zunehmend die Auslieferung neuer KI-Chips begrenzt. Mit dem Deal will NVIDIA sicherstellen, dass genügend fortschrittliche Packaging-Kapazität für seine KI-Beschleuniger direkt in den USA verfügbar ist, statt fast ausschließlich auf asiatische Zulieferer angewiesen zu sein. Die Investition reiht sich in eine Serie von NVIDIA-Vereinbarungen zum Ausbau der US-Chip-Fertigung ein und folgt politischem Druck aus Washington, mehr Halbleiterproduktion ins Land zu holen. Amkor-Aktien profitierten von der Nachricht.",
-      "quelle": "Bloomberg",
+      "titel": "Amazon streicht Stellen in eigener KI-Grundlagenforschung",
+      "text": "Amazon hat nach Reuters-Informationen erneut Stellen abgebaut, diesmal in der eigenen Abteilung für künstliche allgemeine Intelligenz (AGI), die an grundlegenden KI-Modellen arbeitet. Wie viele Mitarbeiter betroffen sind, teilte der Konzern nicht mit, laut Mitarbeiterberichten sollen vor allem Teams für Modellanpassung und Nachtraining betroffen sein, mit Kürzungen von rund 10 Prozent. Ein Amazon-Sprecher erklärte, man schärfe den Fokus auf die Initiativen, die für Kunden am wichtigsten seien, um schneller voranzukommen - das bedeute auch schwierige Entscheidungen einschließlich des Abbaus einzelner Rollen innerhalb der AGI-Organisation. Der Schritt ist die jüngste einer Reihe kleinerer Entlassungsrunden seit den großen Stellenstreichungen im Januar. Gleichzeitig investiert Amazon weiter massiv in KI, unter anderem mit einer 1-Milliarden-Dollar-Initiative, bei der AWS-Ingenieure direkt bei Kunden den Aufbau von KI-Agentensystemen unterstützen. Für 2026 plant der Konzern insgesamt rund 200 Milliarden Dollar an Investitionen, ein Großteil davon in KI-Infrastruktur.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-07-23",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Amazon"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Magnificent-7-Techwerte verlieren an einem Tag 797 Milliarden Dollar",
-      "text": "Die sieben größten US-Technologiekonzerne (Magnificent Seven) haben am 23. Juli zusammen rund 797 Milliarden Dollar an Marktwert verloren - der stärkste Tagesrückgang der Gruppe seit April 2025. Auslöser war eine plötzlich aufkeimende Skepsis der Anleger, ob sich die gigantischen KI-Investitionen der Branche überhaupt auszahlen, verstärkt durch Alphabets bereits bekannte Anhebung der Investitionsprognose und einen überraschend schwachen Quartalsbericht von Tesla. Der marktbreite S&P 500 gab um 1,2 Prozent nach, der technologielastige Nasdaq 100 verlor 1,9 Prozent - beides die größten Tagesverluste seit einem Monat. Verschärft wurde die Nervosität durch steigende Ölpreise infolge der Eskalation im Nahost-Konflikt, was zusätzlich die Inflationssorgen anheizte. Auch am Anleihemarkt wuchs die Unruhe: Tech-Anleihen gerieten wegen wachsender Sorgen um die KI-Schuldenlast der Unternehmen unter Druck. Investoren werten den Tag als möglichen Wendepunkt in der bislang kaum gebrochenen Kaufbereitschaft für KI-Werte.",
+      "titel": "Chip-Werte brechen ein - Intel dreht trotz starkem Quartal ins Minus",
+      "text": "Der Nasdaq 100 hat am Freitag seine erste Verlustwoche in Folge seit Ende März verzeichnet, ein Index für Halbleiterwerte brach um 4,3 Prozent ein. Auslöser war ein Zusammenspiel aus stark gestiegenen Ölpreisen wegen der Eskalation im Nahost-Konflikt und wachsenden Investorsorgen über die enormen Summen, die Tech-Konzerne in KI-Infrastruktur stecken. Besonders deutlich zeigte sich das bei Intel: Die Aktie sprang nach Vorlage der Quartalszahlen zunächst um rund 9 Prozent, weil der Umsatz mit 16,1 Milliarden Dollar um 25 Prozent zulegte - das stärkste Wachstum seit mehr als 15 Jahren. Im Verlauf des Handelstags drehte die Aktie jedoch ins Minus und fiel um rund 5 bis 8 Prozent, nachdem Intel ankündigte, die Investitionsausgaben 2026 von 18 auf über 20 Milliarden Dollar zu erhöhen und für 2027 noch deutlich höhere Ausgaben in Aussicht stellte. Anleger sind zunehmend besorgt, ob die hohen KI-Investitionen der Chipbranche insgesamt zeitnah ausreichende Erträge abwerfen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-23"
-    },
-    {
-      "titel": "Tesla-Aktie bricht nach Gewinneinbruch um 14,5 Prozent ein",
-      "text": "Tesla hat im zweiten Quartal 2026 einen bereinigten Gewinn je Aktie von 33 Cent ausgewiesen und damit die Analystenerwartung von 51 Cent deutlich verfehlt. Die Aktie stürzte daraufhin um 14,5 Prozent ab - der schwerste Tagesverlust seit mehr als einem Jahr. Seit Jahresbeginn hat die Tesla-Aktie damit rund 29 Prozent an Wert verloren. Trotz solider Auslieferungszahlen bei Elektroautos belasteten hohe Ausgaben für KI- und Robotik-Projekte das Ergebnis und nährten erneut Zweifel an Elon Musks Strategie, Tesla stärker als KI- und Robotik-Unternehmen statt reinen Autohersteller zu positionieren. Mehrere Analysten, darunter JPMorgan, Cantor Fitzgerald und Mizuho, senkten daraufhin ihre Kursziele für die Aktie. Leerverkäufer profitierten laut Berichten mit rund 4 Milliarden Dollar Gewinn von dem Kurssturz.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-23"
-    },
-    {
-      "titel": "Intel-Aktie legt nach überraschend starken Quartalszahlen zu",
-      "text": "Intel hat im zweiten Quartal 2026 einen bereinigten Gewinn je Aktie von 42 Cent erzielt, deutlich mehr als die von Analysten erwarteten 21 Cent. Der Umsatz stieg um 25 Prozent auf 16,1 Milliarden Dollar - das stärkste Umsatzwachstum des Unternehmens seit fast 15 Jahren - und übertraf ebenfalls die Erwartungen von rund 14,4 Milliarden Dollar. Treiber war vor allem die steigende Nachfrage nach Intels Server-Prozessoren im Zuge des KI-Infrastruktur-Booms. Die Intel-Aktie, die 2026 bereits um über 170 Prozent gestiegen war, legte nach den Zahlen weiter zu, nachdem sie im Juli zuvor rund 28 Prozent verloren hatte. Für das laufende Quartal stellte Intel einen bereinigten Gewinn von 38 Cent je Aktie bei einem Umsatz zwischen 15,8 und 16,8 Milliarden Dollar in Aussicht. Die Zahlen gelten als wichtiges Signal, ob sich Intels Comeback im KI-Chipmarkt fortsetzt, nachdem die US-Regierung im Vorjahr eine Beteiligung von 10 Prozent an dem Unternehmen übernommen hatte.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-23"
+      "datum_artikel": "2026-07-24"
     }
   ]
 }
