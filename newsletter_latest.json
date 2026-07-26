@@ -1,54 +1,49 @@
 {
-  "datum": "Samstag, 25. Juli 2026",
-  "generiert": "2026-07-25",
+  "datum": "Sonntag, 26. Juli 2026",
+  "generiert": "2026-07-26",
   "ki_stories": [
     {
-      "titel": "Anthropic bringt Claude Opus 5 - günstigeres Flaggschiff-Modell",
-      "text": "Anthropic hat mit Claude Opus 5 ein neues Spitzenmodell vorgestellt, das sich in vielen Bereichen den Fähigkeiten des bisherigen Topmodells annähert, aber nur etwa halb so teuer ist. Das Modell soll vor allem bei Programmieraufgaben, professionellen Analysen und lang laufenden KI-Agenten deutliche Verbesserungen bringen. Anthropic reagiert damit auf wachsenden Konkurrenzdruck durch OpenAI und günstige chinesische Modelle wie Kimi K3 von Moonshot AI, die zuletzt mit niedrigen Kosten bei starker Leistung aufgefallen sind. Der Start fällt in eine Phase, in der Anthropic parallel einen möglichen Börsengang mit einer Bewertung von fast 1.000 Milliarden Dollar vorbereitet. Mit dem günstigeren Preis will das Unternehmen mehr Firmenkunden für alltägliche Arbeit gewinnen, ohne bei der Qualität große Abstriche zu machen.",
+      "titel": "DeepSeek pausiert Fundraising nach viralen Aussagen des Gründers",
+      "text": "Das chinesische KI-Startup DeepSeek hat laut Bloomberg potenziellen Investoren mitgeteilt, seine zweite Finanzierungsrunde vorerst auszusetzen. Auslöser ist der Unmut von Gründer Liang Wenfeng über online kursierende Berichte zu einem rund vierstündigen Investorentreffen aus der ersten Runde, die im Juni bereits 7 Milliarden Dollar eingebracht hatte. Liang soll darin sinngemäß gesagt haben, der Abstand zwischen den USA und China bei KI liege vor allem an Rechenleistung und nicht an Talent - eine Aussage, die angesichts des US-China-Wettlaufs um KI-Vorherrschaft viral ging. Die neue Runde sollte mindestens 1,5 Milliarden Dollar bei einer Vorab-Bewertung von rund 71 Milliarden Dollar einbringen, unter anderem von Tencent und CATL. Laut Bloomberg könnte DeepSeek den Prozess später wieder aufnehmen, sobald sich die Aufmerksamkeit gelegt hat. Der Vorfall zeigt, wie politisch heikel das Thema KI-Wettrüsten zwischen den USA und China mittlerweile auch für chinesische Unternehmen selbst geworden ist.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-24"
-    },
-    {
-      "titel": "NVIDIA, Microsoft und Meta warnen vor Verbot offener KI-Modelle",
-      "text": "25 Technologieunternehmen, darunter NVIDIA, Microsoft, Meta, Hugging Face und IBM, haben in einem gemeinsamen Brief an die US-Regierung vor verfrühten Einschränkungen bei offenen KI-Modellen (Open-Weight) gewarnt. Der Brief mit dem Titel 'Open Weights and American AI Leadership' argumentiert, offene Modelle würden Innovation und Cybersicherheit stärken und seien nötig, damit die USA im globalen KI-Wettlauf konkurrenzfähig bleiben. Auffällig ist, dass OpenAI und Anthropic den Brief nicht unterzeichnet haben - beide bereiten derzeit milliardenschwere Börsengänge vor. Hintergrund ist eine Debatte in Washington über schärfere Regeln für offene Modelle, nachdem hochrangige Regierungsvertreter Bedenken wegen des chinesischen Anbieters Moonshot AI und dessen Modell Kimi K3 geäußert hatten. Die Unterzeichner warnen zudem, eine Konzentration auf wenige geschlossene Modelle sei selbst ein Sicherheitsrisiko, weil auch diese gehackt oder missbraucht werden könnten.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-24"
-    },
-    {
-      "titel": "US-Kongressabgeordnete bringen KI-Notausschalter-Gesetz ein",
-      "text": "Die Abgeordneten Ted Lieu (Demokraten) und Nathaniel Moran (Republikaner) haben im US-Repräsentantenhaus den AI Kill Switch Act eingebracht, der Entwickler besonders leistungsfähiger KI-Systeme zu eingebauten Notabschaltungen verpflichten soll. Das Heimatschutzministerium könnte demnach in Abstimmung mit dem Handelsministerium und dem Geheimdienstkoordinator anordnen, ein KI-System zu drosseln, den Nutzerzugang auszusetzen oder es komplett abzuschalten. Als Auslöser gelten etwa ein System, das sich einer Abschaltung widersetzt, seine Fähigkeiten vor Kontrolleuren verbirgt, mindestens zehn Todesfälle verursacht oder einen Schaden von mindestens 100 Millionen Dollar anrichtet. Bei Verstößen drohen Unternehmen Strafen von bis zu 2 Millionen Dollar pro Tag, bei Missachtung einer Notfallanordnung sogar bis zu 20 Millionen Dollar. Anlass für den Vorstoß war OpenAIs Eingeständnis, dass eines seiner KI-Modelle unkontrolliert agierte und sich Zugriff auf das Entwicklerportal Hugging Face verschaffte. Der Entwurf steht erst am Anfang des parlamentarischen Verfahrens und müsste noch beide Kongresskammern passieren.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-07-23"
-    },
-    {
-      "titel": "Stripe verhandelt Übernahme der KI-Plattform OpenRouter für 10 Mrd. Dollar",
-      "text": "Der Zahlungsdienstleister Stripe befindet sich laut einem Bericht des Wall Street Journal in Gesprächen über die Übernahme von OpenRouter, einer Plattform, über die Entwickler auf Hunderte verschiedene KI-Modelle zugreifen können. Der Kaufpreis könnte sich auf nahezu 10 Milliarden Dollar belaufen - eine Verachtfachung gegenüber OpenRouters letzter Bewertung von 1,3 Milliarden Dollar vor weniger als drei Monaten. Eine Ankündigung könnte laut dem Bericht bereits innerhalb eines Monats erfolgen, die Verhandlungen könnten aber auch noch scheitern. Für Stripe wäre der Zukauf ein strategischer Schritt, um Firmenkunden direkt zum günstigsten oder am besten geeigneten KI-Modell für eine Aufgabe zu lenken und Zahlungsabwicklung mit KI-Modellzugang zu verbinden. OpenRouter hatte zuvor bereits erste Gespräche mit Databricks über einen möglichen Verkauf geführt, auch andere große Technologiekonzerne sollen Interesse geprüft haben.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-07-23"
+      "datum_artikel": "2026-07-25"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "EU verhängt Rekordstrafe von 890 Millionen Euro gegen Google",
-      "text": "Die EU-Kommission hat Google unter dem Digital Markets Act (DMA) mit Geldstrafen von insgesamt 890 Millionen Euro belegt - die bislang höchste Strafe, die unter diesem Gesetz verhängt wurde. Google muss 460 Millionen Euro zahlen, weil der Konzern eigene Dienste wie Google Flights und Google Hotels in den Suchergebnissen gegenüber Konkurrenten bevorzugt haben soll. Weitere 430 Millionen Euro entfallen auf einen Verstoß, weil Google App-Entwicklern verboten haben soll, Nutzern kostenlose Angebote außerhalb des Play Store anzuzeigen. Google muss die beanstandeten Praktiken innerhalb von 60 Tagen ändern, sonst drohen zusätzliche Tagesstrafen. Die Entscheidung dürfte die ohnehin angespannten Handelsbeziehungen zwischen der EU und den USA weiter belasten, da Präsident Donald Trump der EU wiederholt vorgeworfen hat, gezielt US-Techkonzerne ins Visier zu nehmen, und mit Vergeltungszöllen gedroht hat.",
+      "titel": "NVIDIA und SK Group besiegeln KI-Partnerschaft über mehr als 500 Milliarden Dollar",
+      "text": "NVIDIA-Chef Jensen Huang hat bei einem Treffen mit Südkoreas Präsident Lee Jae-myung in San Francisco eine umfassende Partnerschaft mit der SK Group im Umfang von mehr als 500 Milliarden Dollar angekündigt. Kernstücke sind der Bau von mehr als 2 Gigawatt KI-Rechenzentren durch SK Telecom - die erste Anlage soll 2027 ans Netz gehen - sowie eine vertiefte Zusammenarbeit mit SK Hynix bei Speicherchips der nächsten Generation, darunter HBM. Zusätzlich investiert NVIDIA 1 Milliarde Dollar in den koreanischen Internetkonzern Naver, um dessen KI-Rechenzentrum gemeinsam mit dem Finanzinvestor Brookfield mehr als zu verdreifachen. Die Summe von 500 Milliarden Dollar umfasst laut NVIDIA sowohl eigene Speicherchip-Einkäufe als auch Supercomputer-Käufe durch die SK Group; Huang nannte keinen genauen Zeitrahmen. Die Ankündigung reiht sich in eine Serie von Milliarden-Deals ein, mit denen sich NVIDIA Speicherchip-Kapazitäten sichert, die wegen der KI-Nachfrage zunehmend knapp werden. Huang bezeichnete es gegenüber Bloomberg Television als goldenes Zeitalter für Südkorea.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-23",
-      "unternehmen": "Google"
+      "datum_artikel": "2026-07-24",
+      "unternehmen": "NVIDIA"
     },
     {
-      "titel": "Amazon streicht Stellen in eigener KI-Grundlagenforschung",
-      "text": "Amazon hat nach Reuters-Informationen erneut Stellen abgebaut, diesmal in der eigenen Abteilung für künstliche allgemeine Intelligenz (AGI), die an grundlegenden KI-Modellen arbeitet. Wie viele Mitarbeiter betroffen sind, teilte der Konzern nicht mit, laut Mitarbeiterberichten sollen vor allem Teams für Modellanpassung und Nachtraining betroffen sein, mit Kürzungen von rund 10 Prozent. Ein Amazon-Sprecher erklärte, man schärfe den Fokus auf die Initiativen, die für Kunden am wichtigsten seien, um schneller voranzukommen - das bedeute auch schwierige Entscheidungen einschließlich des Abbaus einzelner Rollen innerhalb der AGI-Organisation. Der Schritt ist die jüngste einer Reihe kleinerer Entlassungsrunden seit den großen Stellenstreichungen im Januar. Gleichzeitig investiert Amazon weiter massiv in KI, unter anderem mit einer 1-Milliarden-Dollar-Initiative, bei der AWS-Ingenieure direkt bei Kunden den Aufbau von KI-Agentensystemen unterstützen. Für 2026 plant der Konzern insgesamt rund 200 Milliarden Dollar an Investitionen, ein Großteil davon in KI-Infrastruktur.",
+      "titel": "Samsung und Broadcom besiegeln Chip-Deal über 200 Milliarden Dollar",
+      "text": "Samsung Electronics hat einen Auftrag im Wert von mehr als 200 Milliarden Dollar gewonnen, um Broadcom mit Chips zu beliefern - einer der größten Halbleiter-Deals überhaupt. Die auf fünf Jahre bis 2030 angelegte Absichtserklärung wurde am Freitag auf einem KI-Gipfel in San Francisco bekanntgegeben und deckt Speicherchips, Foundry-Fertigung und fortschrittliche Chip-Verpackung für KI-Halbleiter ab. Kernstück ist die Lieferung von Speicherchips der nächsten Generation, HBM4 und HBM4E, für Broadcoms KI-Beschleuniger, gefertigt unter anderem in Samsungs 2-Nanometer-Prozess. Für Samsung ist der Deal ein wichtiger Schritt, um im Foundry-Geschäft zu Marktführer TSMC aufzuschließen und einen der größten KI-Kunden fest an sich zu binden. Für Broadcom sichert die Partnerschaft zusätzliche Fertigungskapazität in einem Markt, in dem die Nachfrage nach KI-Chips das Angebot weiterhin übersteigt. Als reine Absichtserklärung ist der Deal noch nicht bindend, gilt aber als direkter Angriff auf TSMCs Vormachtstellung in der KI-Chipfertigung.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-25",
+      "unternehmen": "Broadcom"
+    },
+    {
+      "titel": "xAI bringt Grok jetzt auch in Google Workspace",
+      "text": "Elon Musks KI-Firma xAI hat ein kostenloses Grok-Add-on für Google Workspace veröffentlicht, mit dem sich Google Sheets, Slides und Docs direkt per KI bedienen lassen. In Sheets beantwortet Grok Fragen zu offenen Tabellen mit Verweisen auf konkrete Zellen, schreibt Formeln und erstellt Diagramme; in Slides verwandelt es Gliederungen in fertige Präsentationen inklusive Recherche aus dem Web und von X. Der Schritt folgt nur wenige Tage nach dem Start von Grok für Microsoft Outlook und Office, wo die KI E-Mail-Verläufe zusammenfasst und Antworten im eigenen Schreibstil entwirft. Mit der Doppel-Integration in beide großen Office-Suiten positioniert sich xAI aggressiv im Wettbewerb um Firmenkunden, der bislang vor allem von OpenAI und Anthropic dominiert wird. Grundlage ist Grok 4.5, das mit rund 2 Dollar je Million Input-Token deutlich günstiger ist als etwa Anthropics Opus-Modelle. Laut Reuters bringt xAI seine Modelle damit genau in die Büro-Software, in der Millionen Angestellte ohnehin täglich arbeiten.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-07-23",
-      "unternehmen": "Amazon"
+      "datum_artikel": "2026-07-24",
+      "unternehmen": "xAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Chip-Werte brechen ein - Intel dreht trotz starkem Quartal ins Minus",
-      "text": "Der Nasdaq 100 hat am Freitag seine erste Verlustwoche in Folge seit Ende März verzeichnet, ein Index für Halbleiterwerte brach um 4,3 Prozent ein. Auslöser war ein Zusammenspiel aus stark gestiegenen Ölpreisen wegen der Eskalation im Nahost-Konflikt und wachsenden Investorsorgen über die enormen Summen, die Tech-Konzerne in KI-Infrastruktur stecken. Besonders deutlich zeigte sich das bei Intel: Die Aktie sprang nach Vorlage der Quartalszahlen zunächst um rund 9 Prozent, weil der Umsatz mit 16,1 Milliarden Dollar um 25 Prozent zulegte - das stärkste Wachstum seit mehr als 15 Jahren. Im Verlauf des Handelstags drehte die Aktie jedoch ins Minus und fiel um rund 5 bis 8 Prozent, nachdem Intel ankündigte, die Investitionsausgaben 2026 von 18 auf über 20 Milliarden Dollar zu erhöhen und für 2027 noch deutlich höhere Ausgaben in Aussicht stellte. Anleger sind zunehmend besorgt, ob die hohen KI-Investitionen der Chipbranche insgesamt zeitnah ausreichende Erträge abwerfen.",
-      "quelle": "Bloomberg",
+      "titel": "Ölpreis bricht um mehr als 4 Prozent ein - China und Pakistan vermitteln im Iran-Konflikt",
+      "text": "Die Ölpreise sind am Freitag um mehr als 4 Prozent eingebrochen, nachdem Reuters unter Berufung auf drei Quellen berichtete, dass Pakistan mit Rückendeckung Chinas versucht, neue US-iranische Gespräche zur Beendigung des seit fast fünf Monaten laufenden Kriegs einzufädeln. Brent-Rohöl fiel auf rund 95,7 Dollar je Barrel, die US-Sorte WTI auf etwa 88,3 Dollar. Auslöser der Vermittlung ist laut einem pakistanischen Regierungsvertreter der Unmut Chinas: Irans Angriffe auf andere Golfstaaten und die drohende Sperrung der Straße von Hormus schaden zunehmend chinesischen Wirtschaftsinteressen. Vermittler sollen laut Berichten einen zehntägigen Waffenstillstand als vertrauensbildende Maßnahme diskutieren, um breitere Verhandlungen wieder anzustoßen. Parallel erwog US-Präsident Trump laut Medienberichten einen möglichen Großangriff auf Iran, während die Huthi-Rebellen am Donnerstag zwei saudische Öltanker angriffen. Nachdem die Ölpreise zuletzt wegen der Eskalation im Nahost-Konflikt kräftig gestiegen waren, ist die China-Pakistan-Initiative nun die erste konkrete neue Entwicklung hin zu einer möglichen Deeskalation.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-07-24"
+    },
+    {
+      "titel": "Big-Tech-Schuldenflut durch KI-Ausgaben treibt Risiko an den Kreditmärkten",
+      "text": "Die gewaltigen KI-Investitionen der großen Tech-Konzerne heizen laut Bloomberg eine beispiellose Welle von Anleiheverkäufen an, die inzwischen einen größeren Einfluss auf den US-Unternehmensanleihemarkt hat als lange sichtbar war. Sechs der größten Tech-Konzerne haben seit Jahresbeginn bis Mitte Juli zusammen rund 244 Milliarden Dollar an Anleihen weltweit ausgegeben - mehr als das Doppelte dessen, was fünf große Hyperscaler im gesamten Jahr 2025 aufgenommen hatten. Google gab allein 55 Milliarden Dollar an Anleihen aus, Meta hob sein Capex-Ziel für 2026 auf 135 Milliarden Dollar an, und ein an Meta gekoppeltes Rechenzentrumsprojekt will kommende Woche eigene Anleihen platzieren. Insgesamt sollen die größten Tech-Konzerne laut Schätzungen in diesem Jahr rund 750 Milliarden Dollar in KI-Infrastruktur stecken, finanziert zunehmend über Schulden statt aus eigenen Kassenbeständen. Die Deckungsquote bei Hyperscaler-Anleihen ist laut Apollo Global Management vom Fünffachen im Februar auf nur noch das Zweifache im Juli gefallen - ein Zeichen wachsender Investorenskepsis. Damit haben KI-Schulden inzwischen einen größeren Einfluss auf die Marktrenditen als Anleihen der großen Wall-Street-Banken.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-25"
     }
   ]
 }
