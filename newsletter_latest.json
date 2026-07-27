@@ -1,49 +1,29 @@
 {
-  "datum": "Sonntag, 26. Juli 2026",
-  "generiert": "2026-07-26",
+  "datum": "Montag, 27. Juli 2026",
+  "generiert": "2026-07-27",
   "ki_stories": [
     {
-      "titel": "DeepSeek pausiert Fundraising nach viralen Aussagen des Gründers",
-      "text": "Das chinesische KI-Startup DeepSeek hat laut Bloomberg potenziellen Investoren mitgeteilt, seine zweite Finanzierungsrunde vorerst auszusetzen. Auslöser ist der Unmut von Gründer Liang Wenfeng über online kursierende Berichte zu einem rund vierstündigen Investorentreffen aus der ersten Runde, die im Juni bereits 7 Milliarden Dollar eingebracht hatte. Liang soll darin sinngemäß gesagt haben, der Abstand zwischen den USA und China bei KI liege vor allem an Rechenleistung und nicht an Talent - eine Aussage, die angesichts des US-China-Wettlaufs um KI-Vorherrschaft viral ging. Die neue Runde sollte mindestens 1,5 Milliarden Dollar bei einer Vorab-Bewertung von rund 71 Milliarden Dollar einbringen, unter anderem von Tencent und CATL. Laut Bloomberg könnte DeepSeek den Prozess später wieder aufnehmen, sobald sich die Aufmerksamkeit gelegt hat. Der Vorfall zeigt, wie politisch heikel das Thema KI-Wettrüsten zwischen den USA und China mittlerweile auch für chinesische Unternehmen selbst geworden ist.",
+      "titel": "Moonshot AI veröffentlicht mit Kimi K3 das größte offene KI-Modell der Geschichte",
+      "text": "Das chinesische KI-Start-up Moonshot AI hat am 27. Juli die vollständigen Gewichte seines neuen Modells Kimi K3 veröffentlicht und macht es damit zum größten frei nutzbaren (open-weight) KI-Modell der Geschichte. Das Modell hat 2,8 Billionen Parameter, von denen dank einer Mixture-of-Experts-Architektur pro Anfrage nur rund 50 Milliarden aktiv genutzt werden, was den Rechenaufwand trotz der Größe überschaubar hält. Kimi K3 war seit dem 16. Juli bereits über Moonshots eigene API und die Plattform kimi.com verfügbar und hatte dort schon Chip-Aktien unter Druck gesetzt, weil Anleger befürchten, dass günstigere chinesische Modelle den Vorsprung von OpenAI und Anthropic schmälern. Für den lokalen Betrieb der jetzt veröffentlichten Gewichte sind laut Moonshot mindestens 64 spezialisierte Rechenbeschleuniger nötig, da allein die komprimierten Modelldaten rund 1,4 Terabyte Speicher benötigen. Die Veröffentlichung unter einer modifizierten MIT-Lizenz gilt als weiteres Zeichen dafür, dass chinesische KI-Labore im Bereich offener Modelle die Führung von US-Anbietern zunehmend infrage stellen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-25"
+      "datum_artikel": "2026-07-27"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA und SK Group besiegeln KI-Partnerschaft über mehr als 500 Milliarden Dollar",
-      "text": "NVIDIA-Chef Jensen Huang hat bei einem Treffen mit Südkoreas Präsident Lee Jae-myung in San Francisco eine umfassende Partnerschaft mit der SK Group im Umfang von mehr als 500 Milliarden Dollar angekündigt. Kernstücke sind der Bau von mehr als 2 Gigawatt KI-Rechenzentren durch SK Telecom - die erste Anlage soll 2027 ans Netz gehen - sowie eine vertiefte Zusammenarbeit mit SK Hynix bei Speicherchips der nächsten Generation, darunter HBM. Zusätzlich investiert NVIDIA 1 Milliarde Dollar in den koreanischen Internetkonzern Naver, um dessen KI-Rechenzentrum gemeinsam mit dem Finanzinvestor Brookfield mehr als zu verdreifachen. Die Summe von 500 Milliarden Dollar umfasst laut NVIDIA sowohl eigene Speicherchip-Einkäufe als auch Supercomputer-Käufe durch die SK Group; Huang nannte keinen genauen Zeitrahmen. Die Ankündigung reiht sich in eine Serie von Milliarden-Deals ein, mit denen sich NVIDIA Speicherchip-Kapazitäten sichert, die wegen der KI-Nachfrage zunehmend knapp werden. Huang bezeichnete es gegenüber Bloomberg Television als goldenes Zeitalter für Südkorea.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-24",
+      "titel": "NVIDIA erwägt 250-Milliarden-Dollar-Absicherung für Rechenzentrum von OpenAI",
+      "text": "Laut einem Bericht des Wall Street Journal verhandelt NVIDIA über eine Finanzierungsgarantie von rund 250 Milliarden Dollar, um OpenAI die Anmietung von Rechenkapazität in einem gigantischen neuen Rechenzentrum zu ermöglichen. Das Projekt im US-Bundesstaat Ohio wird von SoftBank entwickelt, soll rund 10 Gigawatt Leistung liefern und laut SoftBank-Gründer Masayoshi Son insgesamt etwa 500 Milliarden Dollar kosten. Die erste Ausbaustufe mit etwa 800 Megawatt soll 2028 fertig sein. NVIDIAs Garantie soll SoftBank helfen, für den Bau günstigere Kredite zu bekommen, da OpenAI selbst kein Investment-Grade-Rating besitzt und Geldgeber sonst zurückhaltender wären. Parallel verhandelt NVIDIA laut dem Bericht auch über eine separate Finanzierung von bis zu 350 Milliarden Dollar für OpenAIs Chip-Käufe. Die Gespräche laufen noch, die Bedingungen sind nicht final - das Geschäft könnte also noch platzen.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-07-26",
       "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Samsung und Broadcom besiegeln Chip-Deal über 200 Milliarden Dollar",
-      "text": "Samsung Electronics hat einen Auftrag im Wert von mehr als 200 Milliarden Dollar gewonnen, um Broadcom mit Chips zu beliefern - einer der größten Halbleiter-Deals überhaupt. Die auf fünf Jahre bis 2030 angelegte Absichtserklärung wurde am Freitag auf einem KI-Gipfel in San Francisco bekanntgegeben und deckt Speicherchips, Foundry-Fertigung und fortschrittliche Chip-Verpackung für KI-Halbleiter ab. Kernstück ist die Lieferung von Speicherchips der nächsten Generation, HBM4 und HBM4E, für Broadcoms KI-Beschleuniger, gefertigt unter anderem in Samsungs 2-Nanometer-Prozess. Für Samsung ist der Deal ein wichtiger Schritt, um im Foundry-Geschäft zu Marktführer TSMC aufzuschließen und einen der größten KI-Kunden fest an sich zu binden. Für Broadcom sichert die Partnerschaft zusätzliche Fertigungskapazität in einem Markt, in dem die Nachfrage nach KI-Chips das Angebot weiterhin übersteigt. Als reine Absichtserklärung ist der Deal noch nicht bindend, gilt aber als direkter Angriff auf TSMCs Vormachtstellung in der KI-Chipfertigung.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-25",
-      "unternehmen": "Broadcom"
-    },
-    {
-      "titel": "xAI bringt Grok jetzt auch in Google Workspace",
-      "text": "Elon Musks KI-Firma xAI hat ein kostenloses Grok-Add-on für Google Workspace veröffentlicht, mit dem sich Google Sheets, Slides und Docs direkt per KI bedienen lassen. In Sheets beantwortet Grok Fragen zu offenen Tabellen mit Verweisen auf konkrete Zellen, schreibt Formeln und erstellt Diagramme; in Slides verwandelt es Gliederungen in fertige Präsentationen inklusive Recherche aus dem Web und von X. Der Schritt folgt nur wenige Tage nach dem Start von Grok für Microsoft Outlook und Office, wo die KI E-Mail-Verläufe zusammenfasst und Antworten im eigenen Schreibstil entwirft. Mit der Doppel-Integration in beide großen Office-Suiten positioniert sich xAI aggressiv im Wettbewerb um Firmenkunden, der bislang vor allem von OpenAI und Anthropic dominiert wird. Grundlage ist Grok 4.5, das mit rund 2 Dollar je Million Input-Token deutlich günstiger ist als etwa Anthropics Opus-Modelle. Laut Reuters bringt xAI seine Modelle damit genau in die Büro-Software, in der Millionen Angestellte ohnehin täglich arbeiten.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-24",
-      "unternehmen": "xAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis bricht um mehr als 4 Prozent ein - China und Pakistan vermitteln im Iran-Konflikt",
-      "text": "Die Ölpreise sind am Freitag um mehr als 4 Prozent eingebrochen, nachdem Reuters unter Berufung auf drei Quellen berichtete, dass Pakistan mit Rückendeckung Chinas versucht, neue US-iranische Gespräche zur Beendigung des seit fast fünf Monaten laufenden Kriegs einzufädeln. Brent-Rohöl fiel auf rund 95,7 Dollar je Barrel, die US-Sorte WTI auf etwa 88,3 Dollar. Auslöser der Vermittlung ist laut einem pakistanischen Regierungsvertreter der Unmut Chinas: Irans Angriffe auf andere Golfstaaten und die drohende Sperrung der Straße von Hormus schaden zunehmend chinesischen Wirtschaftsinteressen. Vermittler sollen laut Berichten einen zehntägigen Waffenstillstand als vertrauensbildende Maßnahme diskutieren, um breitere Verhandlungen wieder anzustoßen. Parallel erwog US-Präsident Trump laut Medienberichten einen möglichen Großangriff auf Iran, während die Huthi-Rebellen am Donnerstag zwei saudische Öltanker angriffen. Nachdem die Ölpreise zuletzt wegen der Eskalation im Nahost-Konflikt kräftig gestiegen waren, ist die China-Pakistan-Initiative nun die erste konkrete neue Entwicklung hin zu einer möglichen Deeskalation.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-07-24"
-    },
-    {
-      "titel": "Big-Tech-Schuldenflut durch KI-Ausgaben treibt Risiko an den Kreditmärkten",
-      "text": "Die gewaltigen KI-Investitionen der großen Tech-Konzerne heizen laut Bloomberg eine beispiellose Welle von Anleiheverkäufen an, die inzwischen einen größeren Einfluss auf den US-Unternehmensanleihemarkt hat als lange sichtbar war. Sechs der größten Tech-Konzerne haben seit Jahresbeginn bis Mitte Juli zusammen rund 244 Milliarden Dollar an Anleihen weltweit ausgegeben - mehr als das Doppelte dessen, was fünf große Hyperscaler im gesamten Jahr 2025 aufgenommen hatten. Google gab allein 55 Milliarden Dollar an Anleihen aus, Meta hob sein Capex-Ziel für 2026 auf 135 Milliarden Dollar an, und ein an Meta gekoppeltes Rechenzentrumsprojekt will kommende Woche eigene Anleihen platzieren. Insgesamt sollen die größten Tech-Konzerne laut Schätzungen in diesem Jahr rund 750 Milliarden Dollar in KI-Infrastruktur stecken, finanziert zunehmend über Schulden statt aus eigenen Kassenbeständen. Die Deckungsquote bei Hyperscaler-Anleihen ist laut Apollo Global Management vom Fünffachen im Februar auf nur noch das Zweifache im Juli gefallen - ein Zeichen wachsender Investorenskepsis. Damit haben KI-Schulden inzwischen einen größeren Einfluss auf die Marktrenditen als Anleihen der großen Wall-Street-Banken.",
+      "titel": "Ölpreis bricht stark ein, nachdem USA und Iran Angriffe pausieren",
+      "text": "Nachdem der Konflikt zwischen den USA/Israel und dem Iran seit Mitte Juli erneut eskaliert war und die Ölpreise zeitweise über 100 Dollar je Barrel Brent getrieben hatte, verzichteten beide Seiten am Wochenende zum zweiten Tag in Folge auf Angriffe im Persischen Golf. Der Brent-Preis fiel daraufhin am Sonntag zeitweise um mehr als 7 Prozent auf rund 91 Dollar je Barrel, der September-Kontrakt gab knapp 5 Prozent auf 92,02 Dollar nach. Ein iranischer Regierungsvertreter erklärte laut Reuters, der Iran werde seine Angriffe einstellen, solange auch die USA nicht weiter zuschlagen. Die Entspannung ist bedeutsam, weil die Straße von Hormus, durch die rund ein Fünftel der weltweiten Ölexporte läuft, wegen der Kämpfe zuletzt kaum noch von Tankern passiert werden konnte. Anleger reagierten erleichtert, auch wenn die Waffenruhe angesichts mehrfach gebrochener Vereinbarungen der vergangenen Monate als fragil gilt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-25"
+      "datum_artikel": "2026-07-26"
     }
   ]
 }
