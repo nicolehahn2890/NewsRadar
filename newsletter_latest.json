@@ -1,29 +1,61 @@
 {
-  "datum": "Montag, 27. Juli 2026",
-  "generiert": "2026-07-27",
+  "datum": "Dienstag, 28. Juli 2026",
+  "generiert": "2026-07-28",
   "ki_stories": [
     {
-      "titel": "Moonshot AI veröffentlicht mit Kimi K3 das größte offene KI-Modell der Geschichte",
-      "text": "Das chinesische KI-Start-up Moonshot AI hat am 27. Juli die vollständigen Gewichte seines neuen Modells Kimi K3 veröffentlicht und macht es damit zum größten frei nutzbaren (open-weight) KI-Modell der Geschichte. Das Modell hat 2,8 Billionen Parameter, von denen dank einer Mixture-of-Experts-Architektur pro Anfrage nur rund 50 Milliarden aktiv genutzt werden, was den Rechenaufwand trotz der Größe überschaubar hält. Kimi K3 war seit dem 16. Juli bereits über Moonshots eigene API und die Plattform kimi.com verfügbar und hatte dort schon Chip-Aktien unter Druck gesetzt, weil Anleger befürchten, dass günstigere chinesische Modelle den Vorsprung von OpenAI und Anthropic schmälern. Für den lokalen Betrieb der jetzt veröffentlichten Gewichte sind laut Moonshot mindestens 64 spezialisierte Rechenbeschleuniger nötig, da allein die komprimierten Modelldaten rund 1,4 Terabyte Speicher benötigen. Die Veröffentlichung unter einer modifizierten MIT-Lizenz gilt als weiteres Zeichen dafür, dass chinesische KI-Labore im Bereich offener Modelle die Führung von US-Anbietern zunehmend infrage stellen.",
+      "titel": "China droht mit Gegenmaßnahmen bei drohenden US-Sanktionen gegen KI-Firmen",
+      "text": "China hat am 27. Juli angekündigt, alle notwendigen Maßnahmen zu ergreifen, sollten die USA wie angedroht Sanktionen gegen chinesische KI-Unternehmen verhängen. Das chinesische Handelsministerium wies Vorwürfe der Trump-Regierung zurück, wonach chinesische Firmen über sogenannte Modell-Destillation unrechtmäßig geistiges Eigentum von US-KI-Modellen genutzt hätten, und sprach von einer Verleumdungskampagne. US-Handelsbeauftragter Jamieson Greer hatte erklärt, man beobachte genau, wie China seine KI-Entwicklung vorantreibe, während US-Finanzminister Scott Bessent zuvor gedroht hatte, ausländische Modelle bei nachgewiesenem Diebstahl geistigen Eigentums zu sanktionieren. Der Streit reiht sich ein in wachsende Spannungen zwischen beiden Ländern um die technologische Führungsrolle bei KI. Eine Eskalation könnte sowohl Chip-Lieferketten belasten als auch den Zugang chinesischer Modelle zu westlichen Märkten weiter erschweren.",
       "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-27"
+    },
+    {
+      "titel": "Anthropic-Chef Amodei lehnt Verbot offener KI-Modelle ab, fordert aber Pflichttests",
+      "text": "Anthropic-CEO Dario Amodei hat am 27. Juli in einem Blogbeitrag klargestellt, dass sein Unternehmen entgegen anderslautender Berichte kein generelles Verbot offener (open-weight) KI-Modelle fordert. Damit reagierte er auf einen offenen Brief, den NVIDIA, Microsoft und Meta wenige Tage zuvor veröffentlicht hatten und in dem sie vor verfrühten Einschränkungen offener Modelle warnten - einen Brief, dem Anthropic auffällig ferngeblieben war. Amodei zieht eine differenzierte Linie: Er lehnt ein pauschales Verbot ab, verlangt aber verpflichtende Sicherheitstests auf Cyber-, Bio- und Kontrollrisiken für ausreichend leistungsfähige Modelle vor deren Veröffentlichung, unabhängig davon, ob sie offen oder geschlossen sind und woher sie stammen. Damit positioniert sich Anthropic zwischen den Lagern: weder pauschal gegen offene Modelle, noch für eine unregulierte Freigabe. Der Vorstoß dürfte die laufende US-Debatte über eine mögliche Regulierung offener KI-Modelle weiter befeuern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-27"
+    },
+    {
+      "titel": "Private Claude-Unterhaltungen tauchten in der Google-Suche auf",
+      "text": "Über das vergangene Wochenende entdeckten Nutzer in einem Reddit-Forum zu Claude, dass sich mit einer bestimmten Google-Suchanfrage zahlreiche eigentlich private Chatverläufe des Anthropic-Chatbots auffinden ließen. Betroffen waren Unterhaltungen, die Nutzer über die Teilen-Funktion von Claude als Link verschickt hatten - einige enthielten sensible Daten wie Krypto-Wallet-Schlüssel sowie Namen und Adressen. Ein Anthropic-Sprecher erklärte, man gebe Nutzern volle Kontrolle über die Freigabe ihrer Unterhaltungen und teile grundsätzlich keine Verzeichnisse oder Sitemaps mit Suchmaschinen wie Google; die Links seien eigentlich nicht erratbar oder auffindbar, außer Nutzer hätten sie selbst weitergegeben. Anthropic hat das Problem inzwischen behoben, die betroffenen Links sind über die beschriebene Suchmethode nicht mehr zugänglich. Der Vorfall wirft erneut Fragen zum Umgang mit Nutzerdaten bei KI-Chatbots auf, nachdem ähnliche Indexierungsprobleme zuvor bereits bei anderen Anbietern aufgetreten waren.",
+      "quelle": "Fortune",
       "datum_artikel": "2026-07-27"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA erwägt 250-Milliarden-Dollar-Absicherung für Rechenzentrum von OpenAI",
-      "text": "Laut einem Bericht des Wall Street Journal verhandelt NVIDIA über eine Finanzierungsgarantie von rund 250 Milliarden Dollar, um OpenAI die Anmietung von Rechenkapazität in einem gigantischen neuen Rechenzentrum zu ermöglichen. Das Projekt im US-Bundesstaat Ohio wird von SoftBank entwickelt, soll rund 10 Gigawatt Leistung liefern und laut SoftBank-Gründer Masayoshi Son insgesamt etwa 500 Milliarden Dollar kosten. Die erste Ausbaustufe mit etwa 800 Megawatt soll 2028 fertig sein. NVIDIAs Garantie soll SoftBank helfen, für den Bau günstigere Kredite zu bekommen, da OpenAI selbst kein Investment-Grade-Rating besitzt und Geldgeber sonst zurückhaltender wären. Parallel verhandelt NVIDIA laut dem Bericht auch über eine separate Finanzierung von bis zu 350 Milliarden Dollar für OpenAIs Chip-Käufe. Die Gespräche laufen noch, die Bedingungen sind nicht final - das Geschäft könnte also noch platzen.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-07-26",
+      "titel": "NVIDIAs Deal-Welle über 750 Milliarden Dollar schürt Sorge vor Zirkelfinanzierung",
+      "text": "NVIDIA verhandelt laut Bloomberg derzeit über ein Bündel neuer KI-Geschäfte im Wert von mehr als 750 Milliarden Dollar, was am 27. Juli die Sorge vor sogenannter Zirkelfinanzierung in der Branche neu entfachte. Dazu zählen eine bereits am Freitag zuvor bekanntgegebene Partnerschaft mit dem südkoreanischen Konzern SK Group im Umfang von über 500 Milliarden Dollar sowie eine mögliche Finanzierungsgarantie von bis zu 250 Milliarden Dollar, mit der NVIDIA OpenAI die Anmietung eines von SoftBank geplanten 10-Gigawatt-Rechenzentrums in Ohio erleichtern will. Zusätzlich bestätigte NVIDIA am selben Tag eine Investition von 5 Milliarden Dollar in Ilya Sutskevers KI-Start-up Safe Superintelligence, das im Gegenzug Zugang zu NVIDIAs kommender Vera-Rubin-Chipgeneration erhält. Kritiker warnen, solche Deals, bei denen NVIDIA gleichzeitig Kunde, Investor und Finanzierungsgeber seiner eigenen Abnehmer ist, könnten die tatsächliche KI-Nachfrage künstlich aufblähen und Fehlanreize schaffen. Die Kosten zur Absicherung von NVIDIA-Anleihen gegen einen Zahlungsausfall sprangen am Montag im Swap-Markt so stark wie nie zuvor nach oben, nachdem die Deal-Gespräche bekannt wurden.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-27",
       "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "SoftBanks 40-Milliarden-Kredit für OpenAI-Beteiligung holt 21 neue Geldgeber an Bord",
+      "text": "SoftBanks im März gesichertes, unbesichertes Brückendarlehen über 40 Milliarden Dollar zur Finanzierung seiner OpenAI-Beteiligung hat laut Bloomberg am 27. Juli eine neue Gruppe von 21 Banken als Kreditgeber gewonnen. Die neuen Geldgeber übernehmen zusammen rund 7 Milliarden Dollar des Kreditvolumens, darunter First Abu Dhabi Bank, der Staatsfonds GIC aus Singapur und Standard Chartered mit jeweils knapp 1 Milliarde Dollar. Der Kredit läuft über zwölf Monate und dient SoftBank zur Finanzierung seiner 30-Milliarden-Dollar-Folgeinvestition in OpenAI; federführend sind JPMorgan, Goldman Sachs, Mizuho, SMBC und MUFG. Für die Konsortialbanken ist das Geschäft lukrativ: Allein die Gebühren aus dem Rekordkredit sollen den Banken mehr als 100 Millionen Dollar einbringen. Die breite Nachfrage von Banken weltweit zeigt, wie sehr institutionelle Geldgeber trotz der hohen Bewertung weiter auf OpenAI setzen wollen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-27",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Meta ließ Tausende Werbeanzeigen für KI-Nacktbild-Apps aus China laufen",
+      "text": "Laut einem am 27. Juli veröffentlichten Bericht der Nichtregierungsorganisation Tech Transparency Project haben Facebook und Instagram entgegen eigenen Richtlinien tausende Werbeanzeigen für sogenannte KI-Nudify-Apps geschaltet. Ausgeliefert wurden die rund 7.600 Anzeigen über GatherOne Inc., einen der wenigen von Meta zugelassenen Werbepartner in China. Die beworbenen Apps ermöglichen es, Gesichter von Frauen ungefragt auf nackte Körper zu montieren oder sexualisierte Videos zu erstellen; bei mindestens einer der Apps sollen Nutzer sogar Material geteilt haben, das als Kinderpornografie eingestuft wurde. Der Fall reiht sich ein in eine längere Serie von Durchsetzungslücken bei Meta - das Unternehmen hatte bereits im Vorjahr einen Hongkonger Anbieter wegen ähnlicher Werbeanzeigen verklagt. Der neue Bericht dürfte den Druck auf Meta erhöhen, seine Werbeprüfung gerade bei chinesischen Vermittlungspartnern deutlich zu verschärfen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-27",
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis bricht stark ein, nachdem USA und Iran Angriffe pausieren",
-      "text": "Nachdem der Konflikt zwischen den USA/Israel und dem Iran seit Mitte Juli erneut eskaliert war und die Ölpreise zeitweise über 100 Dollar je Barrel Brent getrieben hatte, verzichteten beide Seiten am Wochenende zum zweiten Tag in Folge auf Angriffe im Persischen Golf. Der Brent-Preis fiel daraufhin am Sonntag zeitweise um mehr als 7 Prozent auf rund 91 Dollar je Barrel, der September-Kontrakt gab knapp 5 Prozent auf 92,02 Dollar nach. Ein iranischer Regierungsvertreter erklärte laut Reuters, der Iran werde seine Angriffe einstellen, solange auch die USA nicht weiter zuschlagen. Die Entspannung ist bedeutsam, weil die Straße von Hormus, durch die rund ein Fünftel der weltweiten Ölexporte läuft, wegen der Kämpfe zuletzt kaum noch von Tankern passiert werden konnte. Anleger reagierten erleichtert, auch wenn die Waffenruhe angesichts mehrfach gebrochener Vereinbarungen der vergangenen Monate als fragil gilt.",
+      "titel": "Chip-Aktien brechen weltweit ein - Sorge um KI-Investitionen und China-Konkurrenz",
+      "text": "Am 27. Juli weitete sich ein Ausverkauf bei Halbleiterwerten von der Wall Street bis nach Asien aus, weil Anleger zunehmend daran zweifeln, dass sich die gigantischen KI-Investitionen der Tech-Konzerne auszahlen. Zusätzlich befeuert wurde die Furcht durch Berichte, wonach ein staatlich gestütztes Unternehmen aus Shanghai begonnen habe, im Inland gefertigte DUV-Lithografiemaschinen in Serie zu produzieren - ein Fertigungsschritt, den westliche Chiphersteller bislang für sich beanspruchten. In Südkorea brach SK Hynix zeitweise um bis zu 13 Prozent ein, Samsung Electronics um bis zu 10 Prozent, was den Leitindex Kospi um rund 9 Prozent nach unten zog. Auch Japans Nikkei 225 und der taiwanesische Leitindex verloren jeweils fast 4 Prozent. In den USA gab NVIDIA rund 5 Prozent ab, AMD verlor mehr als 8 Prozent und Micron knapp 6 Prozent. Verschärft wurde die Nervosität durch Alphabets Ankündigung vom 22. Juli, die eigenen Investitionsausgaben für 2026 auf bis zu 205 Milliarden Dollar anzuheben, was auch bei Meta, Microsoft und Amazon die Debatte über die Rentabilität der KI-Ausgaben neu entfacht hatte.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-26"
+      "datum_artikel": "2026-07-27"
+    },
+    {
+      "titel": "SpaceX-Aktie rutscht weiter ab - mehr als 51 Prozent unter ihrem Rekordhoch",
+      "text": "Die Aktie von SpaceX notierte am Montag, den 27. Juli, bei rund 109,40 Dollar und damit gut 51 Prozent unter ihrem Rekordhoch von 225,64 Dollar, das kurz nach dem Börsengang im Juni erreicht worden war. Damit liegt der Kurs inzwischen deutlich unter dem Ausgabepreis des größten Börsengangs aller Zeiten, nachdem die Aktie bereits Mitte Juli erstmals unter die IPO-Marke gefallen war. Analysten von Morgan Stanley hatten bereits am 24. Juli gewarnt, ein Kurs nahe 100 Dollar würde bedeuten, dass Anleger dem KI-Geschäft von SpaceX faktisch keinen Wert mehr beimessen. Der Kursverfall drückt zugleich auf die gesamte Stimmung am US-Markt für Neuemissionen: Die gewichtete Durchschnittsrendite der amerikanischen Börsengänge dieses Jahres liegt wegen des Ausverkaufs bei mit KI-Infrastruktur und Raumfahrt verbundenen Werten nur noch bei 6 Prozent, deutlich hinter der Rendite des S&P 500 von 11 Prozent. Der Fall gilt inzwischen als Warnsignal dafür, wie schnell die Euphorie um KI-nahe Börsengänge kippen kann.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-07-27"
     }
   ]
 }
