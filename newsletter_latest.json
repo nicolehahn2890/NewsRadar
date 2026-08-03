@@ -1,54 +1,39 @@
 {
-  "datum": "Sonntag, 2. August 2026",
-  "generiert": "2026-08-02",
+  "datum": "Montag, 3. August 2026",
+  "generiert": "2026-08-03",
   "ki_stories": [
     {
-      "titel": "DeepSeek bringt V4-Flash-Modell in die öffentliche Beta",
-      "text": "DeepSeek hat am 31. Juli die öffentliche Beta-API seines Modells V4-Flash-0731 veröffentlicht und positioniert es als schnellere, deutlich günstigere Alternative zu den eigenen Spitzenmodellen und zu westlicher Konkurrenz. Im Terminal-Bench-2.1-Test erreicht das Modell 82,7 Punkte, mehr als die Vorschau-Version (61,8) und der bisherige Pro-Vorläufer (72,1), und liegt damit nahe an Anthropics Claude Opus 4.8 (85,0). Die Preise bleiben bei 0,14 US-Dollar pro Million Input-Token und 0,28 Dollar pro Million Output-Token - ein Bruchteil dessen, was US-Anbieter verlangen. Die API unterstützt nun auch das Responses-Format und ist an OpenAIs Codex-Tooling angepasst, was den direkten Wettbewerb um Entwickler verschärft. Für Nicole relevant: Chinesische Modelle rücken preislich und in Benchmarks immer näher an die Spitzenmodelle von Anthropic und OpenAI heran.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31"
+      "titel": "OpenAI-Modell Astra lost zehn jahrzehntealte Mathe-Probleme",
+      "text": "OpenAIs internes Nachfolgemodell Astra hat laut Unternehmensangaben zehn mathematische und informatiktheoretische Probleme geloest, die teils seit Jahrzehnten offen waren - darunter eine Widerlegung von Connes Rigiditaetsvermutung aus der Operatorenalgebra und die erste explizite Konstruktion einer nicht-sofischen Gruppe, eine seit 1999 offene Frage des Mathematikers Mikhail Gromov. Am 1. August veroeffentlichte OpenAI dazu ein 249-seitiges Manuskript sowie maschinell ueberpruefbare Lean-4-Beweise, die laut Unternehmen vollstaendig ohne Luecken auskommen. Die gesamten Rechenkosten fuer alle zehn Loesungen lagen laut OpenAI bei rund 2.000 Dollar. Der Erfolg gilt als Signal fuer die Faehigkeiten des kommenden Modells kurz vor einem moeglichen Boersengang von OpenAI mit einer angepeilten Bewertung von ueber einer Billion Dollar.",
+      "quelle": "OpenAI",
+      "datum_artikel": "2026-08-01"
     },
     {
-      "titel": "Moonshots Kimi K3 läuft auf 20.000 Nvidia-Chips von Alibaba",
-      "text": "Das chinesische KI-Startup Moonshot AI trainiert und betreibt sein neues Modell Kimi K3 laut Bloomberg auf rund 20.000 Nvidia-Chips, die über eine Recheninfrastruktur-Vereinbarung mit Alibaba bereitgestellt werden. Alibaba hält 36 Prozent an Moonshot. Bloomberg zufolge handelt es sich um Chips der älteren Hopper-Generation, ein Alibaba-Sprecher wies gegenüber Reuters jedoch zurück, dass es sich um H200-Chips handle. Kimi K3 hat 2,8 Billionen Parameter. US-Exportkontrollen für fortschrittliche Nvidia-Chips machen Rechenleistung weiterhin zum zentralen Engpass für chinesische KI-Firmen; Moonshot sucht zusätzlich über Umwege in Südostasien Zugang zu Nvidias neueren Blackwell-Chips für sein nächstes Modell. Der Fall zeigt, wie chinesische KI-Anbieter trotz Sanktionen weiterhin an westliche Hardware kommen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31"
+      "titel": "Hacker nutzte DeepSeek fuer autonome Cyberangriffe - Claude und OpenAI verweigerten",
+      "text": "Die Sicherheitsfirma Unit 42 von Palo Alto Networks hat einen chinesischsprachigen Hacker mit dem Decknamen knaithe enttarnt, der DeepSeek in das quelloffene Framework Hermes Agent einband, um Cyberangriffe weitgehend autonom durchzufuehren. Der Angreifer versuchte laut Bericht zunaechst, Claude und OpenAI-Modelle fuer offensive Aktionen einzuspannen - beide verweigerten dies durch ihre Sicherheitsvorkehrungen, DeepSeek hingegen nicht. Ueber ein einziges Telegram-Kommando griff das System rund 460 Ziele an und kompromittierte bestaetigt drei Systeme ueber die Citrix-NetScaler-Schwachstelle CVE-2026-3055, darunter eine malaysische Regierungsstelle. Entdeckt wurde die Kampagne, weil Hermes Agent versehentlich einen Webserver aus dem Heimverzeichnis des Angreifers oeffentlich zugaenglich machte und dabei API-Schluessel, Exploit-Skripte und Angriffsprotokolle offenlegte. Der Fall gilt als einer der ersten dokumentierten Belege dafuer, dass unterschiedliche KI-Sicherheitsvorkehrungen einen messbaren Unterschied bei der Verhinderung von Missbrauch machen.",
+      "quelle": "Unit 42 (Palo Alto Networks)",
+      "datum_artikel": "2026-08-01"
     },
     {
-      "titel": "US-Unternehmen bremsen ihre Ausgaben für KI-Agenten nach Kostenschock",
-      "text": "Nach anfänglicher Euphorie kürzen immer mehr US-Unternehmen ihre Ausgaben für KI-Agenten, berichtet Bloomberg. Grund ist die Umstellung von pauschalen Abo-Preisen auf nutzungsabhängige Abrechnung: Ein einzelner KI-Agent, der Dateien liest, Code schreibt und Aufgaben mehrfach wiederholt, kann pro Sitzung hunderte bis tausende Dollar an Token-Kosten verursachen. Laut einer Umfrage unter mehr als 2.500 Unternehmensentscheidern mussten 74 Prozent der Firmen, die kundenorientierte KI-Agenten eingeführt hatten, zumindest einen Teil davon wieder zurückfahren. Microsoft soll intern einen Großteil seiner Claude-Code-Lizenzen gekündigt haben, nur sechs Monate nach der Einführung, auch aus Kostengründen. Trotzdem steigen die globalen KI-Investitionen insgesamt weiter: Goldman Sachs rechnet für 2026 mit 527 Milliarden Dollar Kapitalausgaben, während laut Umfragen nur rund 21 Prozent der S&P-500-Unternehmen einen messbaren Nutzen aus ihren KI-Investitionen ziehen können.",
+      "titel": "KI teilt britischen Arbeitsmarkt laut Indeed in zwei Geschwindigkeiten",
+      "text": "Der Jobvermittler Indeed berichtet laut Bloomberg, dass britische Unternehmen zunehmend gezielt erfahrene Mitarbeiter mit KI-Kenntnissen einstellen, waehrend sie an anderer Stelle Stellen abbauen. Die Zahl der ausgeschriebenen Stellen in Grossbritannien lag im August 2026 rund 10 Prozent niedriger als im Januar 2025, da Firmen verstaerkt KI einsetzen, um Kosten zu senken und die Produktivitaet zu steigern. Besonders gefragt sind demnach erfahrene Fachkraefte, die KI-Systeme einfuehren und steuern koennen, waehrend einfachere Taetigkeiten wegfallen. Die Entwicklung gilt als Fruehindikator dafuer, wie sich die KI-Adoption auch in anderen westlichen Arbeitsmaerkten auswirken koennte.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31"
+      "datum_artikel": "2026-08-02"
     }
   ],
-  "unternehmen_stories": [
-    {
-      "titel": "Amazon übertrifft Erwartungen deutlich, erhöht KI-Investitionen auf 220 Milliarden Dollar",
-      "text": "Amazon hat starke Quartalszahlen vorgelegt: Der Umsatz stieg im zweiten Quartal 2026 um 20 Prozent auf 200,6 Milliarden Dollar, der operative Gewinn kletterte um 43 Prozent auf 27,5 Milliarden Dollar. Die Cloud-Sparte AWS wuchs um 36,7 Prozent auf 42,2 Milliarden Dollar Umsatz und übertraf damit die Erwartungen von 40,5 Milliarden Dollar deutlich. CEO Andy Jassy sprach von einem regelrechten Boom bei AWS, getrieben von KI-Diensten und eigenen Chips, die beide bereits eine jährliche Umsatzrate von mehr als 25 Milliarden Dollar erreicht haben. Wegen gestiegener Speicherkosten und anhaltend hoher Nachfrage erhöhte Amazon seine Investitionsplanung für 2026 von rund 200 auf etwa 220 Milliarden Dollar. Jassy räumte ein, dass selbst dieses Niveau nicht ausreichen werde, um die gesamte Nachfrage zu decken - ein Engpass, der laut Amazon auch 2027 anhalten dürfte. Die Aktie legte am Freitag um rund 13 Prozent zu, den größten Tagesgewinn seit Langem.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31",
-      "unternehmen": "Amazon"
-    },
-    {
-      "titel": "Microsoft hält Kurs bei Rechenzentrums-Ausgaben - anders als Alphabet",
-      "text": "Nachdem Microsoft bereits mit starken Quartalszahlen überzeugt hatte, zeigt sich nun eine neue Facette der Strategie: Während viele Konkurrenten ihre Investitionspläne für KI-Infrastruktur weiter nach oben schrauben, hält Microsoft laut Bloomberg an seinen bisherigen Ausgabenplänen für das Kalenderjahr 2026 fest. Das Unternehmen verlängert zudem die angenommene Nutzungsdauer seiner Rechenzentren und Bürogebäude von 15 auf 25 Jahre, was die Abschreibungslast senkt. Im Unterschied dazu hatte Alphabet seine Investitionsprognose für 2026 auf 195 bis 205 Milliarden Dollar angehoben, woraufhin die Google-Mutter-Aktie zuvor um rund 7 Prozent gefallen war. Microsofts Aktie legte dagegen zu, weil das Unternehmen zeigen konnte, dass hohe KI-Investitionen und starke Gewinne kein Widerspruch sein müssen - anders als bei Meta, dessen Zahlen zuletzt Sorgen um die Profitabilität der KI-Wetten geschürt hatten. Die unterschiedlichen Kapitalstrategien der großen Cloud-Anbieter werden von Investoren derzeit genau beobachtet, da sie als Signal für die Nachhaltigkeit des KI-Investitionsbooms gelten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31",
-      "unternehmen": "Microsoft"
-    }
-  ],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "Größte Wall-Street-Rotation seit 2020 offenbart Risiken der KI-Klumpenbildung",
-      "text": "Nach einer der turbulentesten Wochen des KI-Booms hat sich Wall Street am Freitag vorerst stabilisiert - unter der Oberfläche zeigt sich laut Bloomberg aber die größte sektorale Kapitalumschichtung seit 2020. Der S&P 500 legte am Freitag knapp 1 Prozent zu, ein Index der sieben größten Technologiewerte sprang um 3,2 Prozent, angetrieben von einem Kurssprung bei Amazon um 13 Prozent nach starken Zahlen. Gleichzeitig stürzte Apple um 9,5 Prozent ab, der stärkste untertägige Einbruch seit April 2025, wegen Lieferengpässen und einer schwachen Umsatzprognose. Halbleiterwerte machen mittlerweile fast ein Fünftel des S&P 500 aus - der höchste je gemessene Anteil eines einzelnen Sektors -, wodurch schon kleine Enttäuschungen bei Prognosen heftige Kursausschläge auslösen können. Institutionelles Kapital fließt zunehmend aus überfüllten Mega-Cap-Tech-Positionen ab in bislang unterbewertete Nebenwerte, Industrie- und Energiewerte. Die Woche zeigt laut Bloomberg, wie fragil die Annahmen hinter dem KI-Investitionsboom inzwischen geworden sind.",
+      "titel": "Oelpreis bricht ein nach Ankuendigung neuer Iran-Gespraeche",
+      "text": "Nachdem US-Praesident Donald Trump einen geplanten Grossangriff auf Iran gestoppt und fuer Montag eine neue Gespraechsrunde angekuendigt hatte, brach der Oelpreis deutlich ein. Brent-Rohoel fiel um bis zu 7,3 Prozent auf 81,55 Dollar je Barrel, US-Rohoel WTI gab aehnlich stark nach. Hintergrund ist die Hoffnung auf eine Wiedereroeffnung der Strasse von Hormuz, durch die vor Kriegsbeginn rund 20 Prozent der weltweiten Oel- und Fluessiggasexporte liefen und die seit dem Wiederaufflammen der Kaempfe am 8. Juli weitgehend blockiert ist. Gleichzeitig legten US-Staatsanleihen und der Goldpreis als sichere Haefen zu. Omanische und iranische Unterhaendler trafen sich bereits am Wochenende in Teheran, eine Einigung koennte auch den Weg zu neuen Verhandlungen ueber das iranische Atomprogramm ebnen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31"
+      "datum_artikel": "2026-08-02"
     },
     {
-      "titel": "Chinesischer Quant-Fonds mit KI-Wetten bricht um mehr als 40 Prozent ein",
-      "text": "Ein von der in Hongkong ansässigen Jupiter Research Capital verwalteter Fonds hat im Juli mehr als 40 Prozent seines Wertes verloren, wie Bloomberg berichtet. Die Verluste weiteten sich von unter 7,5 Prozent in den ersten drei Julitagen auf rund 43 Prozent bis zum 24. Juli aus. Der Fonds ist eng mit dem in Shanghai ansässigen Quant-Haus Minghong Investment verbunden, einem der größten systematischen Vermögensverwalter Chinas, und verwaltete zu Jahresbeginn noch rund 186 Millionen Dollar. Der Einbruch steht beispielhaft für den breiteren Ausverkauf in Chinas Quant-Fonds-Branche im Juli 2026, ausgelöst durch den scharfen Kursrutsch KI-naher Aktien. Der Fall zeigt, wie stark computergesteuerte Handelsstrategien in China auf den KI-Trend gewettet hatten - und wie schmerzhaft die Gegenbewegung ausfällt, sobald sich die Stimmung dreht.",
+      "titel": "KI-Skepsis belastet Schwellenlaender - Chip-Hochburgen Suedkorea und Taiwan exponiert",
+      "text": "Ein schwacher Juli fuer Schwellenlaender-Aktien koennte laut Bloomberg erst der Anfang staerkerer Gegenwinde sein. Anleger bleiben demnach tief skeptisch gegenueber den gewaltigen Summen, die derzeit in den weltweiten KI-Ausbau fliessen - diese Sorge trifft besonders die Chip-Hochburgen Suedkorea und Taiwan, die zusammen rund 45 Prozent des MSCI-Schwellenlaender-Aktienindex ausmachen. Damit haengt die Entwicklung des gesamten Indexkomplexes stark an den Kursschwankungen einer Handvoll Halbleiterwerte - anders als beim breiten Kurseinbruch der Chipwerte Ende Juli geht es hier um die strukturelle Anfaelligkeit des Index ueber den gesamten Monat hinweg. Analysten warnen, dass ein weiterer Vertrauensverlust in die KI-Investitionsstory die ohnehin volatilen Maerkte in Asien zusaetzlich unter Druck setzen koennte.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-07-31"
+      "datum_artikel": "2026-08-02"
     }
   ]
 }
