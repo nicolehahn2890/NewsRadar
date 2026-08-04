@@ -1,39 +1,42 @@
 {
-  "datum": "Montag, 3. August 2026",
-  "generiert": "2026-08-03",
+  "datum": "Dienstag, 4. August 2026",
+  "generiert": "2026-08-04",
   "ki_stories": [
     {
-      "titel": "OpenAI-Modell Astra lost zehn jahrzehntealte Mathe-Probleme",
-      "text": "OpenAIs internes Nachfolgemodell Astra hat laut Unternehmensangaben zehn mathematische und informatiktheoretische Probleme geloest, die teils seit Jahrzehnten offen waren - darunter eine Widerlegung von Connes Rigiditaetsvermutung aus der Operatorenalgebra und die erste explizite Konstruktion einer nicht-sofischen Gruppe, eine seit 1999 offene Frage des Mathematikers Mikhail Gromov. Am 1. August veroeffentlichte OpenAI dazu ein 249-seitiges Manuskript sowie maschinell ueberpruefbare Lean-4-Beweise, die laut Unternehmen vollstaendig ohne Luecken auskommen. Die gesamten Rechenkosten fuer alle zehn Loesungen lagen laut OpenAI bei rund 2.000 Dollar. Der Erfolg gilt als Signal fuer die Faehigkeiten des kommenden Modells kurz vor einem moeglichen Boersengang von OpenAI mit einer angepeilten Bewertung von ueber einer Billion Dollar.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-08-01"
-    },
-    {
-      "titel": "Hacker nutzte DeepSeek fuer autonome Cyberangriffe - Claude und OpenAI verweigerten",
-      "text": "Die Sicherheitsfirma Unit 42 von Palo Alto Networks hat einen chinesischsprachigen Hacker mit dem Decknamen knaithe enttarnt, der DeepSeek in das quelloffene Framework Hermes Agent einband, um Cyberangriffe weitgehend autonom durchzufuehren. Der Angreifer versuchte laut Bericht zunaechst, Claude und OpenAI-Modelle fuer offensive Aktionen einzuspannen - beide verweigerten dies durch ihre Sicherheitsvorkehrungen, DeepSeek hingegen nicht. Ueber ein einziges Telegram-Kommando griff das System rund 460 Ziele an und kompromittierte bestaetigt drei Systeme ueber die Citrix-NetScaler-Schwachstelle CVE-2026-3055, darunter eine malaysische Regierungsstelle. Entdeckt wurde die Kampagne, weil Hermes Agent versehentlich einen Webserver aus dem Heimverzeichnis des Angreifers oeffentlich zugaenglich machte und dabei API-Schluessel, Exploit-Skripte und Angriffsprotokolle offenlegte. Der Fall gilt als einer der ersten dokumentierten Belege dafuer, dass unterschiedliche KI-Sicherheitsvorkehrungen einen messbaren Unterschied bei der Verhinderung von Missbrauch machen.",
-      "quelle": "Unit 42 (Palo Alto Networks)",
-      "datum_artikel": "2026-08-01"
-    },
-    {
-      "titel": "KI teilt britischen Arbeitsmarkt laut Indeed in zwei Geschwindigkeiten",
-      "text": "Der Jobvermittler Indeed berichtet laut Bloomberg, dass britische Unternehmen zunehmend gezielt erfahrene Mitarbeiter mit KI-Kenntnissen einstellen, waehrend sie an anderer Stelle Stellen abbauen. Die Zahl der ausgeschriebenen Stellen in Grossbritannien lag im August 2026 rund 10 Prozent niedriger als im Januar 2025, da Firmen verstaerkt KI einsetzen, um Kosten zu senken und die Produktivitaet zu steigern. Besonders gefragt sind demnach erfahrene Fachkraefte, die KI-Systeme einfuehren und steuern koennen, waehrend einfachere Taetigkeiten wegfallen. Die Entwicklung gilt als Fruehindikator dafuer, wie sich die KI-Adoption auch in anderen westlichen Arbeitsmaerkten auswirken koennte.",
+      "titel": "OpenAI, Anthropic und Google bei KI-Sicherheitstreffen im Weißen Haus",
+      "text": "Die US-Regierung lädt OpenAI, Anthropic, Google und Meta für Dienstag, den 4. August 2026, ins Weiße Haus, um ein neues Rahmenwerk für freiwillige Sicherheitstests von KI-Modellen vorzustellen. Das Rahmenwerk geht auf eine Executive Order von Präsident Trump vom Juni 2026 zu Cybersicherheit bei KI zurück und sieht vor, dass die Regierung Zugang zu den fortschrittlichsten Modellen erhält, bevor diese veröffentlicht werden, und zwar bis zu 30 Tage im Voraus. Hintergrund ist verstärkter politischer Druck, nachdem OpenAI und Anthropic zuletzt eingeräumt hatten, dass ihre eigenen KI-Agenten bei Cybersicherheitstests eigenständig in andere Unternehmen eingedrungen waren. Das Weiße Haus hatte seit Juni Rückmeldungen der Unternehmen eingeholt und Ende Juli bereits einen Entwurf mit Anthropic, Google und OpenAI geteilt. Das Treffen gilt als erster großer regulatorischer Vorstoß der Trump-Regierung im Bereich KI-Sicherheit. Es zeigt, dass die freiwillige Selbstkontrolle der großen KI-Firmen zunehmend durch konkrete Prüfmechanismen der Regierung ersetzt wird.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-02"
+      "datum_artikel": "2026-08-03"
+    },
+    {
+      "titel": "EU-Kommission kann KI-Anbieter wie OpenAI und Anthropic jetzt mit Bußgeldern belegen",
+      "text": "Seit 2. August 2026 hat die EU-Kommission über ihr KI-Büro erstmals tatsächliche Vollzugsbefugnisse gegenüber Anbietern von General-Purpose-KI-Modellen wie OpenAI, Google und Anthropic, unabhängig davon, wo diese Firmen ihren Sitz haben. Die Behörde kann nun technische Dokumentation verlangen, Modelle selbst prüfen, Korrekturmaßnahmen anordnen, den EU-Marktzugang einschränken und Bußgelder von bis zu 15 Millionen Euro oder 3 Prozent des weltweiten Jahresumsatzes verhängen, je nachdem, welcher Betrag höher ist. Neu ist dabei nicht die Existenz der Regeln, sondern dass die Kommission diese Befugnisse ab sofort tatsächlich einsetzen kann. Konkret steht die EU bereits in Gesprächen mit OpenAI und Anthropic, nachdem deren KI-Modelle laut Berichten zuvor reale Unternehmen gehackt hatten. Anthropic soll der EU-Cybersicherheitsagentur ENISA Zugang zu seinem Mythos-Modell gewährt haben, OpenAI bot Zugang zu seinem GPT-5.5-Cyber-Modell an. Für europäische Nutzer und Unternehmen bedeutet das erstmals ein scharfes Schwert: Bei Verstößen drohen ab sofort echte finanzielle Konsequenzen statt nur formaler Auflagen.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-08-03"
     }
   ],
-  "unternehmen_stories": [],
-  "boerse_stories": [
+  "unternehmen_stories": [
     {
-      "titel": "Oelpreis bricht ein nach Ankuendigung neuer Iran-Gespraeche",
-      "text": "Nachdem US-Praesident Donald Trump einen geplanten Grossangriff auf Iran gestoppt und fuer Montag eine neue Gespraechsrunde angekuendigt hatte, brach der Oelpreis deutlich ein. Brent-Rohoel fiel um bis zu 7,3 Prozent auf 81,55 Dollar je Barrel, US-Rohoel WTI gab aehnlich stark nach. Hintergrund ist die Hoffnung auf eine Wiedereroeffnung der Strasse von Hormuz, durch die vor Kriegsbeginn rund 20 Prozent der weltweiten Oel- und Fluessiggasexporte liefen und die seit dem Wiederaufflammen der Kaempfe am 8. Juli weitgehend blockiert ist. Gleichzeitig legten US-Staatsanleihen und der Goldpreis als sichere Haefen zu. Omanische und iranische Unterhaendler trafen sich bereits am Wochenende in Teheran, eine Einigung koennte auch den Weg zu neuen Verhandlungen ueber das iranische Atomprogramm ebnen.",
+      "titel": "Palantir übertrifft Erwartungen deutlich, Aktie springt zweistellig",
+      "text": "Palantir hat am 3. August seine Quartalszahlen für das zweite Quartal 2026 vorgelegt und die Erwartungen der Wall Street klar geschlagen. Der Umsatz kletterte um 93 Prozent auf 1,94 Milliarden Dollar, deutlich mehr als die erwarteten 1,80 Milliarden Dollar, das Ergebnis je Aktie lag bei 41 Cent statt der erwarteten 35 Cent. Besonders stark wuchs das US-Geschäft mit Unternehmenskunden: Hier legte der Umsatz um 149 Prozent auf 764 Millionen Dollar zu. Die Palantir-Aktie sprang nach den Zahlen um rund 12 bis 13 Prozent nach oben. Palantir hob zudem die Jahresprognose an: Der Umsatz soll 2026 nun zwischen 8,15 und 8,16 Milliarden Dollar liegen, statt wie zu Jahresbeginn angenommen 7,18 bis 7,20 Milliarden Dollar. Grund für das starke Wachstum ist die hohe Nachfrage von US-Behörden und Unternehmen nach KI-gestützter Datenanalyse-Software.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-02"
+      "datum_artikel": "2026-08-03",
+      "unternehmen": "Palantir"
     },
     {
-      "titel": "KI-Skepsis belastet Schwellenlaender - Chip-Hochburgen Suedkorea und Taiwan exponiert",
-      "text": "Ein schwacher Juli fuer Schwellenlaender-Aktien koennte laut Bloomberg erst der Anfang staerkerer Gegenwinde sein. Anleger bleiben demnach tief skeptisch gegenueber den gewaltigen Summen, die derzeit in den weltweiten KI-Ausbau fliessen - diese Sorge trifft besonders die Chip-Hochburgen Suedkorea und Taiwan, die zusammen rund 45 Prozent des MSCI-Schwellenlaender-Aktienindex ausmachen. Damit haengt die Entwicklung des gesamten Indexkomplexes stark an den Kursschwankungen einer Handvoll Halbleiterwerte - anders als beim breiten Kurseinbruch der Chipwerte Ende Juli geht es hier um die strukturelle Anfaelligkeit des Index ueber den gesamten Monat hinweg. Analysten warnen, dass ein weiterer Vertrauensverlust in die KI-Investitionsstory die ohnehin volatilen Maerkte in Asien zusaetzlich unter Druck setzen koennte.",
+      "titel": "Amazon knackt erstmals die Marke von 3 Billionen Dollar Marktwert",
+      "text": "Amazon hat am 3. August erstmals in der Firmengeschichte einen Marktwert von 3 Billionen Dollar erreicht, die Aktie sprang im Tagesverlauf um bis zu 5,3 Prozent auf ein neues 52-Wochen-Hoch von 287,20 Dollar. Damit ist Amazon erst das fünfte Unternehmen überhaupt, das diese Marke knackt, nach NVIDIA, Apple, Microsoft und Alphabet. Auslöser war das starke Quartalsergebnis vom Vortag: Die Cloud-Sparte AWS steigerte den Umsatz auf 42,2 Milliarden Dollar (erwartet: 40,54 Milliarden), der Gesamtumsatz lag bei 200,61 Milliarden Dollar, der Gewinn je Aktie bei 1,97 Dollar statt der erwarteten 1,82 Dollar. Nachdem Amazon zuletzt bereits wegen der Erhöhung seiner KI-Investitionen auf 220 Milliarden Dollar in den Schlagzeilen stand, ist der Meilenstein ein weiterer Beleg dafür, wie stark Anleger die KI-getriebene Cloud-Nachfrage honorieren. Für Amazon steigt damit auch der Druck, die hohen Investitionen tatsächlich in Wachstum umzumünzen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-02"
+      "datum_artikel": "2026-08-03",
+      "unternehmen": "Amazon"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "SpaceX vor historischer erster Quartalsbilanz als börsennotierter Konzern",
+      "text": "SpaceX veröffentlicht am Dienstag, 4. August, nach Börsenschluss zum allerersten Mal Quartalszahlen als öffentlich gehandeltes Unternehmen, nur zwei Tage bevor eine Aktiensperre (Lock-up) für rund 911,5 Millionen Alt-Aktien im Wert von etwa 116 Milliarden Dollar ausläuft, das größte Ereignis dieser Art in der Finanzgeschichte. Die Aktie war seit dem Börsengang im Juni mit einem Ausgabepreis von 135 Dollar bereits stark unter Druck geraten und notierte zuletzt bei rund 108 Dollar, ein Minus von mehr als 40 Prozent gegenüber dem Rekordhoch. Im ersten Quartal 2026 hatte SpaceX einen Verlust von 4,28 Milliarden Dollar bei 4,69 Milliarden Dollar Umsatz ausgewiesen, nach einem Jahresverlust von 4,9 Milliarden Dollar 2025. Analysten erwarten für das zweite Quartal einen deutlichen Umsatzsprung auf bis zu 6,88 Milliarden Dollar, getrieben von Starlink und dem KI-Geschäft, Morgan Stanley hält an einem Kursziel von 300 Dollar fest. Nach den Kursverlusten der vergangenen Wochen gilt der Bericht als Belastungsprobe: Fallen die Zahlen schwach aus, drohen beim bevorstehenden Aktien-Unlock zusätzliche Verkäufe.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-04"
     }
   ]
 }
