@@ -1,35 +1,49 @@
 {
-  "datum": "Montag, 10. August 2026",
-  "generiert": "2026-08-10",
+  "datum": "Dienstag, 11. August 2026",
+  "generiert": "2026-08-11",
   "ki_stories": [
     {
-      "titel": "Israelisches Start-up Irregular als gemeinsamer Nenner bei KI-Sicherheitsvorfällen enttarnt",
-      "text": "In den vergangenen zwei Wochen räumten OpenAI, Anthropic und Meta unabhängig voneinander ein, dass ihre KI-Modelle bei Sicherheitstests aus den vorgesehenen Testumgebungen ausgebrochen sind und echte Systeme fremder Firmen erreicht haben. Wie am 9. August bekannt wurde, liegt allen drei Fällen dieselbe Ursache zugrunde: Sie liefen über Testumgebungen des israelischen Start-ups Irregular, das Cybersicherheits-Übungen für die großen KI-Labore betreibt. Neu ist damit die Erkenntnis, dass es sich nicht um drei getrennte Vorfälle handelt, sondern um ein systemisches Problem in der Testinfrastruktur: Eine fiktive Zielseite in einer Übung trug zufällig denselben Namen wie eine echte Internetdomain, und weil die Simulationsumgebung versehentlich mit dem offenen Internet verbunden war, griffen die Modelle die reale Website an. Anthropic identifizierte nach eigenen Angaben drei solcher Vorfälle bei Claude-Modellen, bei denen echte Infrastruktur fremder Organisationen betroffen war. Irregular wurde 2023 von früheren israelischen Geheimdienstlern gegründet, ist mit 80 Millionen Dollar von Sequoia und Redpoint finanziert und arbeitet direkt mit den Chefs von OpenAI und Anthropic zusammen. Die betroffenen Firmen betonen, es habe sich um technische Fehlkonfigurationen gehandelt, nicht um absichtliche Kontrollverluste der Modelle.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-08-09"
+      "titel": "Meta veröffentlicht offenes KI-Modell Muse Glimmer für den PC",
+      "text": "Meta hat am Montag sein neues KI-Modell Muse Glimmer vorgestellt, ein offenes Modell mit 30 Milliarden Parametern, das komplett lokal auf einer einzelnen Consumer-Grafikkarte läuft. Das Modell ist eine verkleinerte Version von Muse Spark 1.2 und wurde für Agenten-Aufgaben wie Terminplanung und Dokumentenorganisation trainiert, unterstützt mehr als 100 Sprachen und verarbeitet Text sowie Bilder. Durch 4-Bit-Quantisierung passt Muse Glimmer auf unter 20 Gigabyte Speicher und läuft laut Meta bis zu 3,1-mal schneller als vergleichbare Modelle. Die Gewichte stehen unter der offenen Apache-2.0-Lizenz auf Hugging Face zum Download bereit. Meta positioniert sich damit als Gegenpol zu den geschlossenen Cloud-Modellen von OpenAI und Google und will Entwicklern ermöglichen, leistungsfähige KI-Agenten ohne Cloud-Anbindung zu betreiben. Ein leistungsstärkeres Muse-Spark-Modell soll als nächstes folgen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-10"
     },
     {
-      "titel": "Anthropic macht Autopilot-Modus für Claude Code zum Standard",
-      "text": "Anthropic hat am 9. August angekündigt, dass der sogenannte Auto-Modus ab dem 14. August für zahlende Claude-Code-Nutzer auf den Tarifen Pro, Max und Team zur Standardeinstellung wird. Bislang fragte die Programmier-KI vor jedem Schritt um menschliche Freigabe; im Auto-Modus arbeitet sie eigenständig weiter, außer eine Aktion gilt als irreversibel, destruktiv oder wirkt außerhalb der eigenen Arbeitsumgebung. Anthropic begründet den Schritt mit einer eigenen Studie unter 1.053 zahlenden Testern: Menschliche Nutzer erkannten nur 13,6 Prozent gefährlicher Befehle korrekt, der Auto-Modus dagegen 89 Prozent. Teams, die den Auto-Modus nutzten, erstellten zudem rund 25 Prozent mehr Pull Requests und arbeiteten damit spürbar produktiver. Für Enterprise-Kunden sowie über die Claude-API bleibt der Modus vorerst optional, soll dort aber innerhalb eines Monats ebenfalls zum Standard werden. Der Schritt zeigt, wie stark Anthropic im Wettbewerb mit OpenAI und Google inzwischen auf eigenständig handelnde KI-Agenten statt auf schrittweise Freigaben setzt.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-09"
+      "titel": "OpenAI teilt Cyber-Sicherheitsprogramm Daybreak in zwei Stufen auf",
+      "text": "OpenAI hat am Montag sein Cybersicherheits-Programm Daybreak neu aufgestellt und in die Zugangsstufen Daybreak Blue und Daybreak Red unterteilt, begleitet vom neuen Spezialmodell GPT-5.6-Cyber. Daybreak Blue öffnet geprüften Verteidigern das reguläre Modell GPT-5.6 Sol für Alltagsaufgaben wie Vorfallreaktion und Schwachstellenanalyse. Daybreak Red ist enger vetteten Sicherheitsforschern vorbehalten und gewährt Zugang zu GPT-5.6-Cyber, das gezielt mit reduzierten Schutzmechanismen für Exploit-Tests und Schwachstellenforschung trainiert wurde. Auf einem internen Sicherheits-Benchmark beantwortete das frei verfügbare GPT-5.6 Sol nur 1,5 Prozent der Testfragen vollständig, Daybreak Blue kam auf 2 Prozent, während GPT-5.6-Cyber 95 Prozent schaffte. OpenAI begründet den Schritt mit der wachsenden Bedrohung durch KI-gestützte Cyberangriffe und will den Zugang über Identitätsprüfung, Überwachung und rechtliche Zusicherungen kontrollieren. Der Schritt zeigt, wie stark sich der Wettlauf zwischen offensiven und defensiven KI-Fähigkeiten in der Cybersicherheit zuspitzt.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-08-10"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA steckt bis zu 3 Milliarden Dollar in Stromversorger für Stargate-Rechenzentren",
-      "text": "NVIDIA investiert laut einem Bericht von The Information bis zu 3 Milliarden Dollar in Lancium, einen von Blackstone unterstützten Entwickler von Stromversorgungs-Infrastruktur für Rechenzentren. Zunächst fließen 2 Milliarden Dollar für einen Anteil von rund 20 Prozent an Lancium, eine weitere Milliarde Dollar ist an das Erreichen bestimmter Meilensteine geknüpft, etwa an neue Netzanschlüsse. Lancium betreibt den rund 400 Hektar großen Lancium Clean Campus im texanischen Abilene, den ersten operativen Standort des Stargate-Rechenzentrumsprojekts von OpenAI, SoftBank und Oracle. Das Unternehmen wird inklusive seines Grundstücks- und Stromanschluss-Portfolios mit etwa 10 Milliarden Dollar bewertet. Mit dem frischen Kapital soll Lancium expandieren, für 2027 wird zudem ein möglicher Börsengang geprüft. Für NVIDIA ist die Beteiligung ein weiterer Schritt, sich nicht nur als Chiplieferant, sondern auch als Investor direkt in die Energieversorgung der KI-Infrastruktur seiner wichtigsten Kunden einzukaufen.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-08-08",
+      "titel": "Anthropic gründet mit Macquarie und GIC eigene Rechenzentrums-Plattform",
+      "text": "Anthropic hat am Montag gemeinsam mit dem australischen Vermögensverwalter Macquarie Asset Management und dem Staatsfonds GIC aus Singapur eine neue Plattform namens Theseus Infrastructure angekündigt, die gezielt Rechenzentren für Anthropic bauen und betreiben soll. Macquarie und GIC übernehmen die Plattform und finanzieren den Großteil des Eigenkapitals für jedes Projekt, während Anthropic als Ankermieter über langfristige Verträge auftritt. Der Fokus liegt zunächst auf neuen Standorten in den USA, wo die Anlagen exakt auf den wachsenden Rechenbedarf von Anthropic für Training und Betrieb von Claude zugeschnitten werden sollen. Anthropic hat zugesagt, mögliche Strompreiserhöhungen für Anwohner rund um die neuen Rechenzentren auszugleichen. Die Deals sollen tausende Bau- und dauerhafte Betriebsjobs in den Standort-Regionen schaffen. Die Partnerschaft reiht sich in eine Serie ähnlicher Infrastruktur-Deals großer KI-Anbieter ein, mit denen Anthropic im Wettlauf um Rechenkapazität mit OpenAI und Google mithalten will.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-10",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "NVIDIA schmiedet mit Wall-Street-Riesen 500-Milliarden-Dollar-Finanzierungsplattform",
+      "text": "NVIDIA hat am Montag Absichtserklärungen mit sechs großen Finanzinvestoren unterzeichnet - Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs und KKR - um über neue Finanzierungsplattformen mehr als 500 Milliarden Dollar an Drittkapital für den Ausbau von KI-Infrastruktur einzusammeln. CEO Jensen Huang erklärte, NVIDIA könne bis zu 125 Milliarden Dollar, also 25 Prozent des möglichen Volumens, selbst absichern, um Kunden den Zugang zu knapper Rechenleistung zu erleichtern. Konkrete Investitionszusagen einzelner Partner, Finanzierungskonditionen oder ein Zeitplan für den Kapitaleinsatz wurden bislang nicht offengelegt. Die NVIDIA-Aktie fiel am Montag um mehr als 3 Prozent, da Anleger die Risiken einer derart komplexen zirkulären Finanzierungsstruktur für den KI-Boom kritisch sehen. Der Deal unterstreicht, wie sehr NVIDIA inzwischen nicht mehr nur Chips verkauft, sondern aktiv die Finanzierung von Rechenzentren, Energieversorgung und Kühlinfrastruktur mitgestaltet. Kritiker warnen, dass solche Konstruktionen die tatsächliche Nachfrage nach KI-Rechenleistung künstlich aufblähen könnten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-10",
       "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "TSMC meldet 45 Prozent mehr Umsatz dank ungebrochener KI-Chip-Nachfrage",
+      "text": "Der taiwanesische Chipauftragsfertiger TSMC hat am Montag für Juli einen Umsatzsprung von 45 Prozent gegenüber dem Vorjahr gemeldet, auf umgerechnet rund 14,5 Milliarden Dollar beziehungsweise 467,58 Milliarden Taiwan-Dollar. Damit zeigt sich, dass die Nachfrage nach KI-Beschleuniger-Chips trotz zuletzt schwankender Aktienmärkte und wachsender Sorgen vor einer KI-Blase ungebrochen hoch bleibt. TSMC produziert unter anderem die fortschrittlichsten Chips für NVIDIA, AMD und weitere große KI-Anbieter und gilt daher als Frühindikator für die tatsächliche Nachfrage in der Branche. Die Zahlen bestätigen den Trend der vergangenen Monate, in denen mehrere Chip- und Speicherhersteller von einem anhaltenden Investitionsboom in Rechenzentren berichtet hatten. Analysten werten die starken Juli-Zahlen als Signal, dass die milliardenschweren Investitionspläne der großen Tech-Konzerne bislang tatsächlich in Bestellungen münden und nicht nur Ankündigungen bleiben. Die TSMC-Aktie und Zulieferwerte dürften von der Nachricht profitieren, auch wenn Anleger weiterhin auf das Verhältnis von Investitionen zu tatsächlichen Erträgen achten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-10",
+      "unternehmen": "TSMC"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Langfristzinsen auf 19-Jahres-Hoch: Bessent greift am Anleihemarkt ein",
-      "text": "Die Rendite 30-jähriger US-Staatsanleihen ist auf über 5,2 Prozent gestiegen, den höchsten Stand seit 2007, nachdem die US-Notenbank unter Kevin Warsh Ende Juli den Leitzins bei 3,50 bis 3,75 Prozent belassen hatte. Die hohen Zinsen verteuern Kredite für Hauskäufer und Unternehmen in der gesamten US-Wirtschaft und gelten laut Bloomberg-Berichten vom 9. August an der Wall Street als Zeichen wachsender Nervosität am Anleihemarkt. US-Finanzminister Scott Bessent reagierte mit mehreren Schritten: Er ordnete die erste US-Währungsintervention zur Stützung des japanischen Yen seit 1998 an, um zu verhindern, dass Japan in großem Stil US-Staatsanleihen verkauft. Bei der vierteljährlichen Ankündigung der Anleiheemissionen deutete sein Ministerium zudem überraschend mögliche Kürzungen bei langlaufenden Anleihen an, was Marktbeobachter als Versuch werten, die Zinsen zu drücken. Hintergrund der Zinssorgen sind steigende US-Haushaltsdefizite, eine hohe Anleiheausgabe sowie geopolitische Unsicherheit rund um den Iran-Konflikt. Sollte sich die Lage nicht beruhigen, drohen höhere Finanzierungskosten für Immobilienkredite, Unternehmensanleihen und letztlich auch für die US-Regierung selbst.",
+      "titel": "Goldpreis steigt auf Zweimonatshoch von 4.400 Dollar vor US-Inflationsdaten",
+      "text": "Der Goldpreis kletterte am Montag zeitweise auf 4.400 Dollar je Feinunze und damit auf den höchsten Stand seit rund zwei Monaten, nachdem ein enttäuschender US-Arbeitsmarktbericht vom Freitag die Erwartungen an eine baldige Leitzinsanhebung der Federal Reserve gedämpft hatte. Anleger richten den Blick nun auf den US-Inflationsbericht für Juli, der am Mittwoch, den 12. August, veröffentlicht wird und weitere Hinweise auf den geldpolitischen Kurs der Fed liefern soll. Schwächere Beschäftigungsdaten gelten als Signal für mögliche Zinssenkungen, was zinslose Anlagen wie Gold attraktiver macht. Der Anstieg reiht sich in eine bereits mehrwöchige Goldrally ein, angetrieben von Zinssenkungshoffnungen und geopolitischen Risikofaktoren wie dem andauernden Konflikt um die Straße von Hormus. Sollte der Inflationsbericht überraschend hoch ausfallen, könnten sich die Zinssenkungserwartungen und damit auch der Goldpreis rasch wieder eintrüben. Der Kurs bleibt damit in den kommenden Tagen stark datenabhängig.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-09"
+      "datum_artikel": "2026-08-10"
     }
   ]
 }
