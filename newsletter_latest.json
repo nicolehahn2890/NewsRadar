@@ -1,49 +1,55 @@
 {
-  "datum": "Mittwoch, 12. August 2026",
-  "generiert": "2026-08-12",
+  "datum": "Donnerstag, 13. August 2026",
+  "generiert": "2026-08-13",
   "ki_stories": [
     {
-      "titel": "Zuckerberg veröffentlicht Manifest für offenen Zugang zu Superintelligenz",
-      "text": "Meta-Chef Mark Zuckerberg hat am 10. August ein rund 6.500 Wörter langes Manifest mit dem Titel The Future is for Everyone veröffentlicht. Darin argumentiert er, der sicherste Weg durch den Übergang zu KI-Superintelligenz sei ein möglichst breiter Zugang für viele Menschen statt eine Konzentration der Macht bei wenigen Firmen. Er nennt drei Prinzipien: individuelle Stärkung als Quelle von Wohlstand, Erfindungsgeist als Hauptzweck von Superintelligenz und ein Machtgleichgewicht als Basis für Sicherheit. Zugleich fordert Zuckerberg mehr staatliche Aufsicht über führende KI-Labore und kündigt an, dass die meisten Nutzer kostenlosen oder günstigen Zugang zu Metas KI-Werkzeugen erhalten sollen, während kostenpflichtige Versionen über ein dynamisches Auktionsmodell verteilt würden. Das Manifest positioniert Meta erneut als Verfechter offener KI-Modelle im Gegensatz zu den eher geschlossenen Ansätzen von OpenAI oder Anthropic. Kritiker werten den Text vor allem als PR-Antwort auf wachsende öffentliche Skepsis gegenüber der KI-Branche.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-08-10"
+      "titel": "Unveröffentlichtes Claude-Modell macht Fortschritt bei Riemann-Vermutung",
+      "text": "Anthropic hat bekanntgegeben, dass eine noch unveröffentlichte Forschungsversion von Claude Fortschritte bei der mathematischen Riemann-Vermutung erzielt hat, einem seit über 150 Jahren ungelösten Jahrhundertproblem der Mathematik. Ein Anthropic-Mitarbeiter ohne tiefere mathematische Vorbildung ließ das Modell rund anderthalb Tage lang autonom arbeiten, wobei es 650 verschiedene Lösungsansätze testete, 60 Subagenten koordinierte und dabei etwa 31 Millionen Output-Token verbrauchte. Dadurch gelang es, die bekannte untere Schranke für den Anteil der Nullstellen der Riemann-Zeta-Funktion, die die Vermutung erfüllen, von 41,6 auf 67,2 Prozent zu erhöhen. Zwei hausinterne Mathematiker von Anthropic überprüften die Ergebnisse und bestätigten sie formal mit dem Beweisassistenten Lean. Gelöst ist die Vermutung damit nicht - für einen vollständigen Beweis winkt weiterhin ein unangetastetes Preisgeld von 1 Million Dollar. Der Fall gilt trotzdem als bemerkenswertes Beispiel dafür, wie KI-Systeme zunehmend eigenständig an offener mathematischer Spitzenforschung mitarbeiten können.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-08-11"
     },
     {
-      "titel": "xAI startet Grok Bot als Team von KI-Agenten gegen OpenAI und Anthropic",
-      "text": "Elon Musks KI-Firma xAI hat am 11. August die öffentliche Beta von Grok Bot gestartet, einem neuen Werkzeug, das wie ein Team eigenständiger KI-Agenten arbeitet. Grok Bot kann sich in verschiedene Apps und Webseiten einloggen, Informationen aus früheren Aufgaben behalten und mehrere Bots gleichzeitig koordinieren, wobei ein Bot die anderen steuert und Aufgaben verteilt. Verfügbar ist das Tool zunächst für Abonnenten von SuperGrok Heavy sowie Cursor Ultra und Cursor Teams Premium auf macOS und iOS. Musk kündigte an, dass ein breiterer Rollout gemeinsam mit dem neuen Modell Grok 4.6 noch in dieser Woche folgen soll. Der Start ist xAIs jüngste Antwort auf die 'agentische' Konkurrenz von ChatGPT Agent und Claude Cowork und folgt auf die rund 60 Milliarden Dollar teure Übernahme von Cursor-Mutterkonzern Anysphere durch SpaceX im Juni.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAI bringt Cyber-Sicherheitsmodelle Daybreak auf Amazon Bedrock",
+      "text": "OpenAI hat seine spezialisierten Cybersicherheits-KI-Modelle der Daybreak-Reihe für Kunden von Amazon Bedrock freigeschaltet. Über die Zugangsstufe Daybreak Red erhalten IT-Sicherheitsteams Zugriff auf GPT-5.6 Cyber, ein gezielt für Cybersicherheitsaufgaben trainiertes Modell, während Daybreak Blue allgemeinere GPT-5.6-Modelle mit zusätzlichen Absicherungen für autorisierte Verteidigungsarbeit bereitstellt. Unternehmen können die Modelle damit direkt in ihrer bestehenden AWS-Umgebung einsetzen, ohne Daten außerhalb der eigenen Cloud-Infrastruktur zu verarbeiten. Der Schritt baut auf der seit Juni bestehenden Verfügbarkeit von GPT-5.5, GPT-5.4 und Codex über Amazon Bedrock auf und macht damit die komplette GPT-5.6-Modellfamilie allgemein zugänglich. Für Amazon stärkt die Partnerschaft die Position von Bedrock als Plattform, über die Firmen Zugriff auf Spitzenmodelle mehrerer Anbieter erhalten, statt sich auf einen einzigen KI-Anbieter festzulegen.",
+      "quelle": "OpenAI",
       "datum_artikel": "2026-08-11"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic sichert sich für 9,1 Milliarden Dollar Rechenkapazität von Riot Platforms",
-      "text": "Anthropic hat einen Deal im Wert von 9,1 Milliarden Dollar mit dem Bitcoin-Miner Riot Platforms abgeschlossen, der zuletzt begonnen hat, seine Rechenzentrumskapazität auch für KI-Anwendungen zu vermieten. Die Vereinbarung soll Anthropic zusätzliche Rechenleistung sichern, um die stark wachsende Nachfrage nach seinem Sprachmodell Claude zu bedienen. Der Deal reiht sich ein in eine Serie ähnlicher Abkommen: Erst am 10. August hatte Anthropic mit Macquarie Asset Management und dem Staatsfonds GIC das Rechenzentrums-Joint-Venture Theseus Infrastructure gegründet, Anfang August zudem einen 10-Milliarden-Dollar-Deal mit dem jungen Infrastruktur-Start-up Volta geschlossen. Beobachter werten die Häufung solcher Abkommen als Zeichen dafür, wie knapp Rechenkapazität für KI-Firmen derzeit ist und wie aggressiv Anthropic um Marktanteile gegenüber OpenAI kämpft. Unklar bleibt bislang, wie Anthropic die milliardenschweren Verpflichtungen langfristig finanzieren will.",
-      "quelle": "Bloomberg",
+      "titel": "Anthropic startet Investorengespräche vor möglichem Börsengang im Herbst",
+      "text": "Anthropic führt laut Wall Street Journal Gespräche mit potenziellen Investoren, um vor einem möglichen Börsengang Vertrauen aufzubauen. Das Unternehmen visiert einen Nasdaq-Börsengang im September oder frühen Oktober an. Bei der Finanzierungsrunde im Mai wurde Anthropic mit 965 Milliarden Dollar bewertet, für den Börsengang selbst rechnen manche Investoren mit einer Bewertung von deutlich über 1 Billion Dollar. Im Juni hatte Anthropic bereits vertraulich eine S-1-Registrierung bei der US-Börsenaufsicht SEC eingereicht. Laut WSJ rechnet das Unternehmen für dieses Jahr mit einem Umsatzwachstum von 130 Prozent und dem ersten operativen Gewinn seiner Geschichte. Morgan Stanley, Goldman Sachs und JPMorgan begleiten den Prozess als Konsortialbanken - sollte der Börsengang wie geplant verlaufen, wäre Anthropic das wertvollste börsennotierte KI-Unternehmen der Welt.",
+      "quelle": "Wall Street Journal",
       "datum_artikel": "2026-08-11",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "OpenAI kauft für 7 Milliarden Dollar Mitarbeiteraktien vor möglichem Börsengang zurück",
-      "text": "OpenAI hat einen Rückkauf von Mitarbeiteraktien im Volumen von rund 7 Milliarden Dollar abgeschlossen und damit Beschäftigten ermöglicht, einen Teil ihrer Anteile zu verkaufen, bevor das Unternehmen an die Börse geht. Das Angebot bewertete OpenAI mit 852 Milliarden Dollar, demselben Wert wie bei der letzten großen Finanzierungsrunde im März. Medienberichten zufolge bereitet OpenAI derzeit zudem die öffentliche Registrierung (S-1) für einen möglichen Börsengang im September vor, der bei einer Bewertung zwischen 852 Milliarden und 1 Billion Dollar zu den größten Tech-IPOs der Geschichte zählen würde. Banken wie Goldman Sachs und Morgan Stanley sollen die Emission begleiten. Reuters hatte zuletzt berichtet, OpenAI erwäge auch, den Börsengang bis 2027 zu verschieben, sodass der genaue Zeitpunkt weiter offen bleibt. Der Aktienrückkauf gilt als Versuch, Mitarbeiter trotz der Verzögerung bei Laune und Liquidität zu halten.",
+      "titel": "OpenAI-Manager Brad Lightcap verlässt das Unternehmen",
+      "text": "OpenAI-Manager Brad Lightcap verlässt das Unternehmen, um nach eigenen Worten etwas Neues aufzubauen. Lightcap war zuvor Chief Operating Officer von OpenAI und hatte sich bereits vor einigen Monaten aus dieser Rolle zurückgezogen, bevor er nun ganz ausscheidet. Der Abgang einer der dienstältesten Führungskräfte kommt zu einem Zeitpunkt, an dem OpenAI wie Anthropic auf einen möglichen Börsengang zusteuert und zugleich starkes Nutzerwachstum verzeichnet - zuletzt hatte das Unternehmen mehr als eine Milliarde aktive Nutzer gemeldet. Details zu Lightcaps neuem Projekt sind bislang nicht bekannt. Der Weggang reiht sich in eine Serie von Führungswechseln bei den großen KI-Anbietern ein, während Investoren vor den anstehenden Börsengängen zunehmend auf Führungsstabilität achten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-10",
+      "datum_artikel": "2026-08-11",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "NVIDIA beruhigt Anleihemärkte nach Klarstellung zum 500-Milliarden-Finanzierungsplan",
-      "text": "Nachdem NVIDIA erst am Montag zusammen mit Wall-Street-Schwergewichten wie Apollo, Blackstone, BlackRock und Brookfield eine Finanzierungsplattform über bis zu 500 Milliarden Dollar für KI-Infrastruktur angekündigt hatte, legte der Konzern am 11. August nach: NVIDIA werde sein eigenes finanzielles Risiko innerhalb des Programms begrenzen. Als Reaktion darauf sanken die von Anleihehändlern beobachteten Kreditrisikoaufschläge für NVIDIA-Papiere wieder. Zuvor waren unter Investoren Sorgen aufgekommen, NVIDIA könnte über die Finanzierungsplattform indirekt selbst zum Kreditgeber seiner eigenen Kunden werden und damit zusätzliche Risiken auf die eigene Bilanz nehmen. Die Klarstellung von CEO Jensen Huang soll diese Bedenken zerstreuen, ohne den grundsätzlichen Plan infrage zu stellen, milliardenschwere KI-Rechenzentren mitzufinanzieren. Der Vorgang zeigt, wie genau Anleger inzwischen die Bilanzrisiken hinter dem KI-Investitionsboom verfolgen.",
+      "titel": "Chinesisches KI-Start-up Manus trennt sich von Meta nach gescheiterter Übernahme",
+      "text": "Das ursprünglich chinesisch gegründete KI-Start-up Manus nimmt seinen unabhängigen Betrieb wieder auf, nachdem die chinesische Regierung eine geplante Übernahme durch Meta blockiert hat. Manus entwickelt allgemeine KI-Agenten, die Aufgaben am Computer eigenständig erledigen, und hatte im Zuge der angestrebten Meta-Übernahme seine Struktur bereits stärker an den US-Konzern angebunden. In einer Mitteilung an seine Nutzer erklärte Manus, dass einige Kundenkonten von der Trennung betroffen sein könnten, und beschrieb Schritte für einen reibungslosen Übergang zur eigenständigen Struktur. Der geplatzte Deal zeigt, wie stark geopolitische Spannungen zwischen den USA und China inzwischen Übernahmen und Investitionen im KI-Sektor einschränken. Für Meta ist es ein Rückschlag im Wettlauf um Beteiligungen an vielversprechenden KI-Agenten-Start-ups, während der Konzern parallel weiter Milliarden in eigene KI-Infrastruktur investiert.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-08-11",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "KI-Cloud-Anbieter CoreWeave übertrifft Erwartungen und erhöht Prognose",
-      "text": "Die Aktie von CoreWeave, einem auf KI-Rechenleistung spezialisierten Cloud-Anbieter, reagierte deutlich auf Quartalszahlen, die am 11. August veröffentlicht wurden. Der Umsatz verdoppelte sich im zweiten Quartal auf 2,58 Milliarden Dollar (plus 112 Prozent gegenüber dem Vorjahr) und lag damit über den Analystenschätzungen von 2,56 Milliarden Dollar. Der Nettoverlust weitete sich wegen gestiegener Zinskosten zwar auf 626 Millionen Dollar aus, nach 290 Millionen Dollar im Vorjahresquartal. Dennoch hob CoreWeave die Umsatzprognose für 2026 auf 12,4 bis 13,2 Milliarden Dollar an und meldete einen Auftragsbestand von rund 104 Milliarden Dollar. Neu hinzugekommen sind unter anderem ein 21-Milliarden-Dollar-Vertrag mit Meta über Rechenkapazität bis 2032 sowie eine mehrjährige Vereinbarung mit Anthropic zur Bereitstellung von Rechenleistung für dessen Claude-Modelle. Die Zahlen unterstreichen, wie stark der Bau von KI-Rechenzentren derzeit die Nachfrage nach spezialisierter Cloud-Infrastruktur treibt.",
+      "titel": "Entspannte US-Inflationsdaten treiben S&P 500 nahe an Rekordhoch",
+      "text": "Die am Mittwoch veröffentlichten US-Verbraucherpreisdaten für Juli sind mit einer Jahresrate von 3,4 Prozent - 0,1 Punkte niedriger als im Juni - genau wie von Ökonomen erwartet ausgefallen. Die Kernrate ohne Energie und Lebensmittel lag bei 2,5 Prozent, ebenfalls einen Punkt unter dem Vormonat. Die Daten senkten die von Anlegern eingepreiste Wahrscheinlichkeit einer strafferen Fed-Politik im September spürbar, woraufhin Aktienfutures anzogen und die Anleiherenditen nachgaben. Der S&P 500 rückte daraufhin nahe an sein Rekordhoch heran, während der Nasdaq 100 dank einer Rally bei den großen Chipwerten ein Einmonatshoch erreichte. Zusätzlichen Rückenwind gab es von starken Zahlen des chinesischen Internetkonzerns Tencent sowie von frischen Beteiligungen des Staatsfonds Temasek an den Speicherchip-Herstellern SK Hynix und Samsung. Die nächste und für die Fed-Zinsentscheidung am 16. September wichtige Inflationszahl - der August-Bericht - wird erst am 11. September veröffentlicht.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-11"
+      "datum_artikel": "2026-08-12"
+    },
+    {
+      "titel": "Cisco meldet Rekordumsatz und einen 4,5-fachen Anstieg bei KI-Bestellungen",
+      "text": "Cisco hat für sein viertes Geschäftsquartal 2026 einen Rekordumsatz von 17,3 Milliarden Dollar gemeldet, ein Plus von 18 Prozent gegenüber dem Vorjahr, bei einem bereinigten Gewinn je Aktie von 1,22 Dollar - beides über den eigenen Prognosen. Im Fokus standen vor allem die Bestellungen für KI-Infrastruktur von Cloud-Großkunden: Allein im vierten Quartal kamen 4 Milliarden Dollar hinzu, womit sich die KI-Bestellungen für das gesamte Geschäftsjahr auf 9,3 Milliarden Dollar summierten - fast das 4,5-Fache des Vorjahreswerts. Cisco stellte zudem für das Geschäftsjahr 2027 einen Umsatz zwischen 72,2 und 73,4 Milliarden Dollar in Aussicht, mehr als von der Wall Street erwartet. Trotz der starken Zahlen fiel die Aktie im nachbörslichen Handel zunächst um bis zu 4,6 Prozent, weil das Management vor Druck auf die Bruttomarge durch einen stärkeren Anteil an Hardware-Geschäft warnte, bevor sie sich im späteren Handel wieder erholte. Der Fall zeigt, wie kritisch Anleger derzeit selbst bei über den Erwartungen liegenden KI-Zahlen auf die Profitabilität des KI-Booms schauen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-08-12"
     }
   ]
 }
