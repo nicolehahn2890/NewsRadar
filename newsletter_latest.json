@@ -1,54 +1,59 @@
 {
-  "datum": "Donnerstag, 13. August 2026",
-  "generiert": "2026-08-13",
+  "datum": "Freitag, 14. August 2026",
+  "generiert": "2026-08-14",
   "ki_stories": [
     {
-      "titel": "Unveröffentlichtes Claude-Modell macht Fortschritt bei Riemann-Vermutung",
-      "text": "Anthropic hat bekanntgegeben, dass eine noch unveröffentlichte Forschungsversion von Claude Fortschritte bei der mathematischen Riemann-Vermutung erzielt hat, einem seit über 150 Jahren ungelösten Jahrhundertproblem der Mathematik. Ein Anthropic-Mitarbeiter ohne tiefere mathematische Vorbildung ließ das Modell rund anderthalb Tage lang autonom arbeiten, wobei es 650 verschiedene Lösungsansätze testete, 60 Subagenten koordinierte und dabei etwa 31 Millionen Output-Token verbrauchte. Dadurch gelang es, die bekannte untere Schranke für den Anteil der Nullstellen der Riemann-Zeta-Funktion, die die Vermutung erfüllen, von 41,6 auf 67,2 Prozent zu erhöhen. Zwei hausinterne Mathematiker von Anthropic überprüften die Ergebnisse und bestätigten sie formal mit dem Beweisassistenten Lean. Gelöst ist die Vermutung damit nicht - für einen vollständigen Beweis winkt weiterhin ein unangetastetes Preisgeld von 1 Million Dollar. Der Fall gilt trotzdem als bemerkenswertes Beispiel dafür, wie KI-Systeme zunehmend eigenständig an offener mathematischer Spitzenforschung mitarbeiten können.",
+      "titel": "OpenAI stellt Ultraschnell-Modus für GPT-5.6 vor",
+      "text": "OpenAI hat am 13. August den neuen Ultrafast-Modus für sein Spitzenmodell GPT-5.6 Sol vorgestellt. Mithilfe von Spezialchips des Partners Cerebras arbeitet der Modus bis zu 14-mal schneller als der Standardmodus und liefert bis zu 750 Tokens pro Sekunde. Zunächst ist der Zugang auf eine kleine Gruppe von Firmenkunden wie Jane Street, Podium, Basis und Rogo beschränkt und läuft ausschließlich über die API, etwa für Finanzanalysen, Kundenservice und Sprachanwendungen, bei denen Tempo entscheidend ist. Im Testverfahren Humanity's Last Exam bearbeitete das Modell alle 2.500 Fragen in rund elf Stunden, während Anthropics Modell Claude Fable 5 dafür 78 Stunden brauchte - bei ähnlicher Genauigkeit. OpenAI will den Zugang schrittweise ausweiten, sobald mehr Rechenkapazität zur Verfügung steht.",
       "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-11"
+      "datum_artikel": "2026-08-13"
     },
     {
-      "titel": "OpenAI bringt Cyber-Sicherheitsmodelle Daybreak auf Amazon Bedrock",
-      "text": "OpenAI hat seine spezialisierten Cybersicherheits-KI-Modelle der Daybreak-Reihe für Kunden von Amazon Bedrock freigeschaltet. Über die Zugangsstufe Daybreak Red erhalten IT-Sicherheitsteams Zugriff auf GPT-5.6 Cyber, ein gezielt für Cybersicherheitsaufgaben trainiertes Modell, während Daybreak Blue allgemeinere GPT-5.6-Modelle mit zusätzlichen Absicherungen für autorisierte Verteidigungsarbeit bereitstellt. Unternehmen können die Modelle damit direkt in ihrer bestehenden AWS-Umgebung einsetzen, ohne Daten außerhalb der eigenen Cloud-Infrastruktur zu verarbeiten. Der Schritt baut auf der seit Juni bestehenden Verfügbarkeit von GPT-5.5, GPT-5.4 und Codex über Amazon Bedrock auf und macht damit die komplette GPT-5.6-Modellfamilie allgemein zugänglich. Für Amazon stärkt die Partnerschaft die Position von Bedrock als Plattform, über die Firmen Zugriff auf Spitzenmodelle mehrerer Anbieter erhalten, statt sich auf einen einzigen KI-Anbieter festzulegen.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-08-11"
+      "titel": "DeepSeek erhöht Preise für KI-Dienste drastisch",
+      "text": "Der chinesische KI-Anbieter DeepSeek kündigte am 13. August an, die Preise für seine V4-Modelle ab dem 16. August deutlich anzuheben. Für das Modell V4-Pro steigt der Preis in Spitzenzeiten von bisher 0,87 auf 3,96 Dollar pro Million Tokens, für V4-Flash von 0,28 auf 1,32 Dollar - je nach Modell ein Plus von 50 bis über 1.100 Prozent. Neu eingeführt wird zudem eine Spitzenzeiten-Preisstruktur, bei der Nutzung außerhalb der Stoßzeiten nur die Hälfte kostet. Trotz der Erhöhung bleiben DeepSeeks Preise weiterhin deutlich unter denen der großen US-Anbieter wie OpenAI oder Anthropic. Beobachter werten den Schritt als Vorbereitung auf einen möglichen Börsengang, für den das Unternehmen höhere Margen zeigen will.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-13"
+    },
+    {
+      "titel": "OpenAI und Anthropic werben für neue Kostenkennzahl bei KI-Nutzung",
+      "text": "Laut einem Bloomberg-Bericht vom 13. August werben die größten US-KI-Anbieter zunehmend für die Kennzahl Kosten pro erledigter Aufgabe statt der bisher üblichen Kosten pro Token, um Kunden einen realistischeren Vergleich der tatsächlichen KI-Ausgaben zu ermöglichen. Hintergrund ist, dass sich Modelle stark darin unterscheiden, wie viele Tokens sie für dieselbe Aufgabe verbrauchen - Anthropics Modelle benötigen laut mehreren Berichten teils deutlich mehr Tokens als vergleichbare OpenAI-Modelle, wodurch ein reiner Tokenpreis-Vergleich in die Irre führen kann. Besonders bei agentenbasierten Programmier- und Rechercheaufgaben mit vielen aufeinanderfolgenden Arbeitsschritten macht das einen erheblichen Unterschied in den Gesamtkosten. Für Unternehmenskunden, die zunehmend KI-Agenten für mehrstufige Aufgaben einsetzen, wird die neue Kennzahl damit zu einem wichtigeren Entscheidungskriterium als der reine Listenpreis pro Token. Der Vorstoß fällt in eine Phase, in der beide Unternehmen ihre Preismodelle anpassen, um Firmenkunden trotz steigender Rechenkosten zu halten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-13"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic startet Investorengespräche vor möglichem Börsengang im Herbst",
-      "text": "Anthropic führt laut Wall Street Journal Gespräche mit potenziellen Investoren, um vor einem möglichen Börsengang Vertrauen aufzubauen. Das Unternehmen visiert einen Nasdaq-Börsengang im September oder frühen Oktober an. Bei der Finanzierungsrunde im Mai wurde Anthropic mit 965 Milliarden Dollar bewertet, für den Börsengang selbst rechnen manche Investoren mit einer Bewertung von deutlich über 1 Billion Dollar. Im Juni hatte Anthropic bereits vertraulich eine S-1-Registrierung bei der US-Börsenaufsicht SEC eingereicht. Laut WSJ rechnet das Unternehmen für dieses Jahr mit einem Umsatzwachstum von 130 Prozent und dem ersten operativen Gewinn seiner Geschichte. Morgan Stanley, Goldman Sachs und JPMorgan begleiten den Prozess als Konsortialbanken - sollte der Börsengang wie geplant verlaufen, wäre Anthropic das wertvollste börsennotierte KI-Unternehmen der Welt.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-08-11",
+      "titel": "Anthropic verhandelt über 6-Milliarden-Dollar-Übernahme von Decart AI",
+      "text": "Anthropic befindet sich laut Bloomberg vom 13. August in Gesprächen über die Übernahme des israelischen KI-Start-ups Decart für rund 6 Milliarden Dollar - es wäre die bisher größte bekannte Akquisition des Unternehmens. Decart entwickelt Software, die Chips effizienter arbeiten lässt und so die Kosten für Training und Betrieb von KI-Modellen senken soll, etwa bei Echtzeit-Videogenerierung und simulierten Umgebungen. Das von den früheren Mitgliedern der israelischen Militäreinheit 8200, Dean Leitersdorf und Moshe Shalev, gegründete Unternehmen hat bislang rund 450 Millionen Dollar eingesammelt, zuletzt im Mai bei einer Bewertung von 4 Milliarden Dollar. Mit dem Kauf will Anthropic seine bestehende Recheninfrastruktur effizienter nutzen, um die stark steigende Nachfrage nach Claude zu bedienen. Eine endgültige Einigung steht laut den Berichten noch aus, die Gespräche könnten auch scheitern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-13",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "OpenAI-Manager Brad Lightcap verlässt das Unternehmen",
-      "text": "OpenAI-Manager Brad Lightcap verlässt das Unternehmen, um nach eigenen Worten etwas Neues aufzubauen. Lightcap war zuvor Chief Operating Officer von OpenAI und hatte sich bereits vor einigen Monaten aus dieser Rolle zurückgezogen, bevor er nun ganz ausscheidet. Der Abgang einer der dienstältesten Führungskräfte kommt zu einem Zeitpunkt, an dem OpenAI wie Anthropic auf einen möglichen Börsengang zusteuert und zugleich starkes Nutzerwachstum verzeichnet - zuletzt hatte das Unternehmen mehr als eine Milliarde aktive Nutzer gemeldet. Details zu Lightcaps neuem Projekt sind bislang nicht bekannt. Der Weggang reiht sich in eine Serie von Führungswechseln bei den großen KI-Anbietern ein, während Investoren vor den anstehenden Börsengängen zunehmend auf Führungsstabilität achten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-11",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Chinesisches KI-Start-up Manus trennt sich von Meta nach gescheiterter Übernahme",
-      "text": "Das ursprünglich chinesisch gegründete KI-Start-up Manus nimmt seinen unabhängigen Betrieb wieder auf, nachdem die chinesische Regierung eine geplante Übernahme durch Meta blockiert hat. Manus entwickelt allgemeine KI-Agenten, die Aufgaben am Computer eigenständig erledigen, und hatte im Zuge der angestrebten Meta-Übernahme seine Struktur bereits stärker an den US-Konzern angebunden. In einer Mitteilung an seine Nutzer erklärte Manus, dass einige Kundenkonten von der Trennung betroffen sein könnten, und beschrieb Schritte für einen reibungslosen Übergang zur eigenständigen Struktur. Der geplatzte Deal zeigt, wie stark geopolitische Spannungen zwischen den USA und China inzwischen Übernahmen und Investitionen im KI-Sektor einschränken. Für Meta ist es ein Rückschlag im Wettlauf um Beteiligungen an vielversprechenden KI-Agenten-Start-ups, während der Konzern parallel weiter Milliarden in eigene KI-Infrastruktur investiert.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-11",
-      "unternehmen": "Meta"
+      "titel": "Google stellt Pixel 11 mit Gemini-KI im Mittelpunkt vor",
+      "text": "Google hat am 12. August in New York die neue Pixel-11-Reihe vorgestellt und dabei deutlich stärker auf KI-Funktionen als auf Hardware-Neuerungen gesetzt. Die Modelle Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL und Pixel 11 Pro Fold laufen auf dem neuen Tensor-G6-Chip und bieten die KI-Funktion Gemini Intelligence, die App-übergreifend Aufgaben wie das Buchen von Fahrten, Bestellen von Lebensmitteln oder Verwalten von Reservierungen selbstständig erledigen kann. Neu sind zudem eine Live-Übersetzungsfunktion, eine Transkriptionsfunktion sowie eine Kamerafunktion, die automatisch die besten Aufnahmemomente auswählt. Die Preise steigen wegen höherer Chipkosten um rund 100 Dollar auf 899, 1.099 und 1.299 Dollar für die drei Hauptmodelle. Vorbestellungen sind bereits möglich, der Verkaufsstart ist für den 20. August geplant.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-08-12",
+      "unternehmen": "Google"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Entspannte US-Inflationsdaten treiben S&P 500 nahe an Rekordhoch",
-      "text": "Die am Mittwoch veröffentlichten US-Verbraucherpreisdaten für Juli sind mit einer Jahresrate von 3,4 Prozent - 0,1 Punkte niedriger als im Juni - genau wie von Ökonomen erwartet ausgefallen. Die Kernrate ohne Energie und Lebensmittel lag bei 2,5 Prozent, ebenfalls einen Punkt unter dem Vormonat. Die Daten senkten die von Anlegern eingepreiste Wahrscheinlichkeit einer strafferen Fed-Politik im September spürbar, woraufhin Aktienfutures anzogen und die Anleiherenditen nachgaben. Der S&P 500 rückte daraufhin nahe an sein Rekordhoch heran, während der Nasdaq 100 dank einer Rally bei den großen Chipwerten ein Einmonatshoch erreichte. Zusätzlichen Rückenwind gab es von starken Zahlen des chinesischen Internetkonzerns Tencent sowie von frischen Beteiligungen des Staatsfonds Temasek an den Speicherchip-Herstellern SK Hynix und Samsung. Die nächste und für die Fed-Zinsentscheidung am 16. September wichtige Inflationszahl - der August-Bericht - wird erst am 11. September veröffentlicht.",
+      "titel": "Nikkei und Topix erreichen dank Chip-Rally neue Rekordstände",
+      "text": "Japans Leitindex Nikkei 225 stieg am 13. August das siebte Mal in Folge und schloss mit einem Plus von 1,16 Prozent bei 68.308,59 Punkten. Der breiter gefasste Topix-Index kletterte um 0,86 Prozent auf ein neues Rekordhoch von 4.176,04 Punkten. Treiber war eine Rally bei Halbleiterwerten, nachdem der Philadelphia Semiconductor Index an der Wall Street tags zuvor um rund 2,5 Prozent zugelegt hatte und mehrere US-Anbieter von KI-Infrastruktur mit besser als erwarteten Ergebnissen überzeugten. Zusätzlichen Rückenwind lieferten die US-Inflationsdaten für Juli, die mit 3,4 Prozent im Rahmen der Erwartungen ausfielen und die Sorge vor kurzfristigen Zinserhöhungen der Fed dämpften. Anders als in mehreren Sitzungen im Juli, als nur wenige KI-Schwergewichte den Markt trugen, zeigte sich die Rally diesmal breiter angelegt und erfasste sowohl Wachstums- als auch Substanzwerte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-08-13"
+    },
+    {
+      "titel": "Optikzulieferer Lumentum schießt nach Rekordquartal um 14 Prozent hoch",
+      "text": "Die Aktie des Glasfaser- und Laserkomponenten-Herstellers Lumentum sprang am 12. August um rund 14 Prozent auf ein Schlusshoch von 932,47 Dollar, nachdem das Unternehmen für das vierte Geschäftsquartal einen Umsatz von 1,01 Milliarden Dollar gemeldet hatte - deutlich über der Analystenschätzung von 987,7 Millionen Dollar. Der bereinigte Gewinn je Aktie lag mit 3,23 Dollar ebenfalls klar über den erwarteten 2,97 Dollar und hat sich damit im Jahresvergleich mehr als verdoppelt. Erstmals überschritt die bereinigte Bruttomarge die Marke von 50 Prozent - ein Wert, den das Management bislang erst bei einem deutlich höheren Quartalsumsatz erwartet hatte. Lumentum profitiert als Zulieferer optischer Komponenten für Rechenzentren direkt vom Ausbau der KI-Infrastruktur. Von 24 Analysten empfehlen inzwischen 15 die Aktie zum Kauf, das mittlere Kursziel liegt trotz des jüngsten Sprungs weitere 21 Prozent über dem aktuellen Niveau.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-08-12"
     },
     {
-      "titel": "Cisco meldet Rekordumsatz und einen 4,5-fachen Anstieg bei KI-Bestellungen",
-      "text": "Cisco hat für sein viertes Geschäftsquartal 2026 einen Rekordumsatz von 17,3 Milliarden Dollar gemeldet, ein Plus von 18 Prozent gegenüber dem Vorjahr, bei einem bereinigten Gewinn je Aktie von 1,22 Dollar - beides über den eigenen Prognosen. Im Fokus standen vor allem die Bestellungen für KI-Infrastruktur von Cloud-Großkunden: Allein im vierten Quartal kamen 4 Milliarden Dollar hinzu, womit sich die KI-Bestellungen für das gesamte Geschäftsjahr auf 9,3 Milliarden Dollar summierten - fast das 4,5-Fache des Vorjahreswerts. Cisco stellte zudem für das Geschäftsjahr 2027 einen Umsatz zwischen 72,2 und 73,4 Milliarden Dollar in Aussicht, mehr als von der Wall Street erwartet. Trotz der starken Zahlen fiel die Aktie im nachbörslichen Handel zunächst um bis zu 4,6 Prozent, weil das Management vor Druck auf die Bruttomarge durch einen stärkeren Anteil an Hardware-Geschäft warnte, bevor sie sich im späteren Handel wieder erholte. Der Fall zeigt, wie kritisch Anleger derzeit selbst bei über den Erwartungen liegenden KI-Zahlen auf die Profitabilität des KI-Booms schauen.",
-      "quelle": "Reuters",
+      "titel": "Super Micro Computer legt nach Prognose-Überraschung deutlich zu",
+      "text": "Server-Hersteller Super Micro Computer meldete am 11. August für das vierte Geschäftsquartal einen Umsatz von 11,1 Milliarden Dollar und verfehlte damit die Erwartung von 11,55 Milliarden Dollar leicht, übertraf beim Gewinn je Aktie mit bis zu 1,70 Dollar aber deutlich die Analystenschätzung von rund 0,88 Dollar. Die Aktie legte im nachbörslichen Handel um rund 8,5 Prozent zu, da die Anleger vor allem auf den überraschend starken Ausblick reagierten. Für das Geschäftsjahr 2027 stellte das Unternehmen einen Umsatz von 65 bis 72 Milliarden Dollar in Aussicht - deutlich mehr als die von Analysten erwarteten 52,5 Milliarden Dollar. Für das erste Quartal 2027 rechnet Super Micro mit 14,5 bis 15,5 Milliarden Dollar Umsatz, ebenfalls über der Konsensschätzung von 11,68 Milliarden Dollar. Die Zahlen unterstreichen die weiterhin hohe Nachfrage nach KI-Servern trotz der zuletzt schwächeren Umsatzentwicklung im abgelaufenen Quartal.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-08-12"
     }
   ]
