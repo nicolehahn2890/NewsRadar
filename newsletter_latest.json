@@ -1,60 +1,61 @@
 {
-  "datum": "Freitag, 14. August 2026",
-  "generiert": "2026-08-14",
+  "datum": "Samstag, 15. August 2026",
+  "generiert": "2026-08-15",
   "ki_stories": [
     {
-      "titel": "OpenAI stellt Ultraschnell-Modus für GPT-5.6 vor",
-      "text": "OpenAI hat am 13. August den neuen Ultrafast-Modus für sein Spitzenmodell GPT-5.6 Sol vorgestellt. Mithilfe von Spezialchips des Partners Cerebras arbeitet der Modus bis zu 14-mal schneller als der Standardmodus und liefert bis zu 750 Tokens pro Sekunde. Zunächst ist der Zugang auf eine kleine Gruppe von Firmenkunden wie Jane Street, Podium, Basis und Rogo beschränkt und läuft ausschließlich über die API, etwa für Finanzanalysen, Kundenservice und Sprachanwendungen, bei denen Tempo entscheidend ist. Im Testverfahren Humanity's Last Exam bearbeitete das Modell alle 2.500 Fragen in rund elf Stunden, während Anthropics Modell Claude Fable 5 dafür 78 Stunden brauchte - bei ähnlicher Genauigkeit. OpenAI will den Zugang schrittweise ausweiten, sobald mehr Rechenkapazität zur Verfügung steht.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-13"
+      "titel": "Chinesisches Z.ai bringt Coding-Modell GLM-5.3 gegen Anthropic und OpenAI",
+      "text": "Das Pekinger KI-Start-up Z.ai hat mit GLM-5.3 ein neues Programmier-Modell vorgestellt, das nach eigenen Angaben zu den stärksten offen zugänglichen Coding-Modellen am Markt zählt. Das Modell baut auf der bisherigen rund 700-Milliarden-Parameter-Basis auf und wurde ausschließlich im Nachtraining verbessert, liegt im Terminal-Bench-3.0-Test mit 28,3 Punkten aber noch hinter Anthropics Claude Fable 5 (33,7) und OpenAIs GPT-5.6 Sol (34,6). Bei Tests zum Aufspüren von Sicherheitslücken schneidet GLM-5.3 mit 84,5 Prozent dagegen besser ab als beide US-Konkurrenten. Verfügbar ist das Modell bereits über die API und den GLM Coding Plan, die offenen Modellgewichte sollen nach abgeschlossener Sicherheitsprüfung in etwa zwei Wochen folgen. Der Vorstoß zeigt, wie chinesische Anbieter mit offenen Modellen im lukrativen Programmier-Markt zu den führenden US-Anbietern aufschließen wollen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-14"
     },
     {
-      "titel": "DeepSeek erhöht Preise für KI-Dienste drastisch",
-      "text": "Der chinesische KI-Anbieter DeepSeek kündigte am 13. August an, die Preise für seine V4-Modelle ab dem 16. August deutlich anzuheben. Für das Modell V4-Pro steigt der Preis in Spitzenzeiten von bisher 0,87 auf 3,96 Dollar pro Million Tokens, für V4-Flash von 0,28 auf 1,32 Dollar - je nach Modell ein Plus von 50 bis über 1.100 Prozent. Neu eingeführt wird zudem eine Spitzenzeiten-Preisstruktur, bei der Nutzung außerhalb der Stoßzeiten nur die Hälfte kostet. Trotz der Erhöhung bleiben DeepSeeks Preise weiterhin deutlich unter denen der großen US-Anbieter wie OpenAI oder Anthropic. Beobachter werten den Schritt als Vorbereitung auf einen möglichen Börsengang, für den das Unternehmen höhere Margen zeigen will.",
+      "titel": "Goldman und Nomura: KI verändert Indiens Jobs mehr, als sie sie vernichtet",
+      "text": "Zwei aktuelle Studien von Goldman Sachs und Nomura zeichnen ein differenziertes Bild der Auswirkungen von generativer KI auf den indischen Arbeitsmarkt. Laut Nomura wurden im untersuchten Zeitraum rund 83.100 KI-bezogene Neueinstellungen registriert, denen etwa 31.921 Entlassungen und natürliche Abgänge gegenüberstehen - KI schafft demnach bislang mehr Jobs, als sie vernichtet. Goldman-Chefökonom Santanu Sengupta geht zudem davon aus, dass Indien wegen der Größe und dem hohen Anteil manueller Tätigkeiten in seiner Erwerbsbevölkerung insgesamt weniger stark von KI-bedingten Jobverlusten betroffen sein wird als andere Länder. Betroffen sind vor allem Support-Teams, die durch Chatbots ersetzt werden, während vor allem IT-Absolventen von der gestiegenen KI-Nachfrage profitieren. Wegen seiner schieren Größe gilt Indien für Analysten inzwischen als wichtigster Testfall dafür, wie sich KI weltweit auf Beschäftigung auswirkt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-13"
-    },
-    {
-      "titel": "OpenAI und Anthropic werben für neue Kostenkennzahl bei KI-Nutzung",
-      "text": "Laut einem Bloomberg-Bericht vom 13. August werben die größten US-KI-Anbieter zunehmend für die Kennzahl Kosten pro erledigter Aufgabe statt der bisher üblichen Kosten pro Token, um Kunden einen realistischeren Vergleich der tatsächlichen KI-Ausgaben zu ermöglichen. Hintergrund ist, dass sich Modelle stark darin unterscheiden, wie viele Tokens sie für dieselbe Aufgabe verbrauchen - Anthropics Modelle benötigen laut mehreren Berichten teils deutlich mehr Tokens als vergleichbare OpenAI-Modelle, wodurch ein reiner Tokenpreis-Vergleich in die Irre führen kann. Besonders bei agentenbasierten Programmier- und Rechercheaufgaben mit vielen aufeinanderfolgenden Arbeitsschritten macht das einen erheblichen Unterschied in den Gesamtkosten. Für Unternehmenskunden, die zunehmend KI-Agenten für mehrstufige Aufgaben einsetzen, wird die neue Kennzahl damit zu einem wichtigeren Entscheidungskriterium als der reine Listenpreis pro Token. Der Vorstoß fällt in eine Phase, in der beide Unternehmen ihre Preismodelle anpassen, um Firmenkunden trotz steigender Rechenkosten zu halten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-13"
+      "datum_artikel": "2026-08-14"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic verhandelt über 6-Milliarden-Dollar-Übernahme von Decart AI",
-      "text": "Anthropic befindet sich laut Bloomberg vom 13. August in Gesprächen über die Übernahme des israelischen KI-Start-ups Decart für rund 6 Milliarden Dollar - es wäre die bisher größte bekannte Akquisition des Unternehmens. Decart entwickelt Software, die Chips effizienter arbeiten lässt und so die Kosten für Training und Betrieb von KI-Modellen senken soll, etwa bei Echtzeit-Videogenerierung und simulierten Umgebungen. Das von den früheren Mitgliedern der israelischen Militäreinheit 8200, Dean Leitersdorf und Moshe Shalev, gegründete Unternehmen hat bislang rund 450 Millionen Dollar eingesammelt, zuletzt im Mai bei einer Bewertung von 4 Milliarden Dollar. Mit dem Kauf will Anthropic seine bestehende Recheninfrastruktur effizienter nutzen, um die stark steigende Nachfrage nach Claude zu bedienen. Eine endgültige Einigung steht laut den Berichten noch aus, die Gespräche könnten auch scheitern.",
+      "titel": "Anthropic-Umsatz vervielfacht sich auf 11,5 Milliarden Dollar vor Rekord-Börsengang",
+      "text": "Anthropic hat im zweiten Quartal 2026 einen vorläufigen Umsatz von mehr als 11,5 Milliarden Dollar gemeldet - ein Anstieg um mehr als das 14-Fache gegenüber 787 Millionen Dollar im Vorjahresquartal und deutlich über den 4,73 Milliarden Dollar aus dem ersten Quartal 2026. Erstmals wies das Unternehmen dabei ein positives bereinigtes operatives Ergebnis aus, ein wichtiger Meilenstein auf dem Weg zum geplanten Börsengang. Getrieben wird das Wachstum vor allem von Unternehmenskunden, die Claude für Programmieraufgaben und andere Geschäftsprozesse einsetzen. Laut Investorenkreisen strebt Anthropic für den möglichen Börsengang im Oktober eine Bewertung von rund 2 Billionen Dollar an, was den größten Börsengang der Geschichte bedeuten würde. Die starken Zahlen sollen Investoren von der hohen Bewertung überzeugen, auch wenn Kritiker anmerken, das zugrunde liegende Geschäft rechtfertige die angestrebte Bewertung bislang nicht vollständig.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-13",
+      "datum_artikel": "2026-08-14",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "Google stellt Pixel 11 mit Gemini-KI im Mittelpunkt vor",
-      "text": "Google hat am 12. August in New York die neue Pixel-11-Reihe vorgestellt und dabei deutlich stärker auf KI-Funktionen als auf Hardware-Neuerungen gesetzt. Die Modelle Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL und Pixel 11 Pro Fold laufen auf dem neuen Tensor-G6-Chip und bieten die KI-Funktion Gemini Intelligence, die App-übergreifend Aufgaben wie das Buchen von Fahrten, Bestellen von Lebensmitteln oder Verwalten von Reservierungen selbstständig erledigen kann. Neu sind zudem eine Live-Übersetzungsfunktion, eine Transkriptionsfunktion sowie eine Kamerafunktion, die automatisch die besten Aufnahmemomente auswählt. Die Preise steigen wegen höherer Chipkosten um rund 100 Dollar auf 899, 1.099 und 1.299 Dollar für die drei Hauptmodelle. Vorbestellungen sind bereits möglich, der Verkaufsstart ist für den 20. August geplant.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-12",
-      "unternehmen": "Google"
+      "titel": "OpenAI knackt vor Börsengang Umsatz-Rate von 40 Milliarden Dollar",
+      "text": "OpenAI hat seine annualisierte Umsatz-Rate laut einem Bloomberg-Bericht auf über 40 Milliarden Dollar gesteigert und damit gegenüber Ende 2025 mehr als verdoppelt. Firmenpräsident Greg Brockman teilte intern mit, die jährliche Umsatz-Rate sei allein im Juli um mehr als 20 Prozent gegenüber dem Vormonat gewachsen. Als Wachstumstreiber gelten vor allem das Programmier-Tool Codex, Abo-Einnahmen von ChatGPT sowie ein neues, noch junges Werbegeschäft. Erst Ende 2025 hatte Finanzchefin Sarah Friar eine annualisierte Umsatz-Rate von rund 20 Milliarden Dollar gemeldet, das Tempo der Beschleunigung hat sich also deutlich erhöht. Die Zahlen stärken die Position von OpenAI vor dem geplanten Börsengang, für den das Unternehmen bereits vertrauliche Unterlagen eingereicht hat.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-13",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "xAI schließt 60-Milliarden-Dollar-Übernahme des Programmier-Start-ups Cursor ab",
+      "text": "Das Raumfahrtunternehmen SpaceX hat die im Juni angekündigte Übernahme des KI-Programmierdienstes Cursor für 60 Milliarden Dollar am 14. August offiziell abgeschlossen. Die bisherigen Cursor-Aktionäre erhielten dafür laut Regulierungsunterlagen rund 389,3 Millionen SpaceX-Aktien der Klasse A. Cursor gilt mit seinem populären KI-Programmiertool als einer der am schnellsten wachsenden Anbieter der Branche und stand zuletzt in direkter Konkurrenz zu Angeboten von Anthropic und OpenAI. Laut Schätzungen von Morgan Stanley könnte Cursor dem Konzern bereits 2026 zusätzliche 2,5 Milliarden Dollar Umsatz einbringen, 2027 sogar bis zu 13 Milliarden Dollar. Cursor soll künftig Teil des xAI-Teams werden und helfen, Produkte wie Grok Build, Grok Bot und die Grok API weiterzuentwickeln - ein zentraler Baustein in Elon Musks Plan, im KI-Wettlauf gegen Anthropic und OpenAI aufzuholen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-14",
+      "unternehmen": "xAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Nikkei und Topix erreichen dank Chip-Rally neue Rekordstände",
-      "text": "Japans Leitindex Nikkei 225 stieg am 13. August das siebte Mal in Folge und schloss mit einem Plus von 1,16 Prozent bei 68.308,59 Punkten. Der breiter gefasste Topix-Index kletterte um 0,86 Prozent auf ein neues Rekordhoch von 4.176,04 Punkten. Treiber war eine Rally bei Halbleiterwerten, nachdem der Philadelphia Semiconductor Index an der Wall Street tags zuvor um rund 2,5 Prozent zugelegt hatte und mehrere US-Anbieter von KI-Infrastruktur mit besser als erwarteten Ergebnissen überzeugten. Zusätzlichen Rückenwind lieferten die US-Inflationsdaten für Juli, die mit 3,4 Prozent im Rahmen der Erwartungen ausfielen und die Sorge vor kurzfristigen Zinserhöhungen der Fed dämpften. Anders als in mehreren Sitzungen im Juli, als nur wenige KI-Schwergewichte den Markt trugen, zeigte sich die Rally diesmal breiter angelegt und erfasste sowohl Wachstums- als auch Substanzwerte.",
+      "titel": "Schwache US-Einzelhandelsumsätze bremsen Rekordrally an der Wall Street",
+      "text": "Die US-Einzelhandelsumsätze sind im Juli überraschend um 0,6 Prozent gegenüber dem Vormonat gefallen - der stärkste Rückgang seit Mai 2025. Ökonomen hatten im Schnitt ein Plus von rund 0,1 Prozent erwartet, gleichzeitig brach auch das Verbrauchervertrauen um etwa 8 Prozent ein. Die Daten bremsten die jüngste Rekordrally an der Wall Street: Der S&P 500 gab nach seinem Rekordhoch vom Vortag um 0,2 Prozent nach, der Nasdaq Composite verlor 0,5 Prozent und der Dow Jones 0,2 Prozent. Als Gründe für den Rückgang gelten unter anderem der verschobene Amazon-Prime-Day-Termin und niedrigere Benzinpreise, dennoch werten Analysten die Kombination aus schwachem Konsum und sinkendem Verbrauchervertrauen als Warnsignal für eine unter Preisdruck stehende US-Wirtschaft. Die Daten dürften auch die Erwartungen an die nächste Zinsentscheidung der US-Notenbank Fed beeinflussen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-14"
+    },
+    {
+      "titel": "Broadcom-Aktie bricht nach Warnung vor 370-Milliarden-Dollar-KI-Schuldenberg ein",
+      "text": "Die Broadcom-Aktie ist am 14. August um rund 5 bis 6 Prozent eingebrochen und war damit der größte Verlierer im Technologiesektor des S&P 500, der insgesamt 0,5 Prozent verlor. Auslöser war unter anderem eine Analyse der Bank of America, die vor einem möglichen Finanzierungsvehikel für KI-Chips im Volumen von bis zu 370 Milliarden Dollar bis 2029 warnte und damit Zweifel an der Tragfähigkeit der aktuellen KI-Finanzierungswelle weckte. Zusätzlich belasteten die schwachen US-Einzelhandelszahlen den gesamten Technologiesektor, sodass Anleger nach der jüngsten Kursrally verstärkt Gewinne mitnahmen. Vor den für Anfang September erwarteten Quartalszahlen bewerten institutionelle Investoren offenbar zunehmend das Rendite-Risiko-Verhältnis von KI-nahen Werten neu. Der Kursrutsch zeigt, wie nervös der Markt inzwischen auf Anzeichen einer möglichen Überhitzung im KI-Boom reagiert.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-14"
+    },
+    {
+      "titel": "Hongkonger Börse gibt nach: Tech-Werte und Immobiliensektor unter Druck",
+      "text": "Der Hang-Seng-Index ist am 13. und 14. August mehrfach gefallen, angeführt von schwachen Technologiewerten und einem angeschlagenen Immobiliensektor. Besonders stark traf es den chinesischen Onlinehändler JD.com, dessen Aktie zeitweise rund 10 Prozent verlor, nachdem der Konzern trotz eines über den Erwartungen liegenden Umsatzes einen Rückgang im Kerngeschäft JD Retail um rund 4,7 Prozent gemeldet hatte. Auch Tencent gab nach Quartalszahlen rund 3,2 Prozent ab, während Alibaba und Meituan je etwa 1,1 Prozent nachgaben. Belastet wurde die Stimmung zusätzlich durch die Zurückhaltung der chinesischen Führung bei neuen Konjunkturmaßnahmen, Berichte über mögliche neue Steuern auf Offshore-Versicherungserträge sowie die bevorstehende Unitree-Börsennotierung, die dem Markt kurzfristig Liquidität entzog. Die Kursverluste in Hongkong stehen damit im deutlichen Kontrast zu den jüngsten Rekordständen an den japanischen und südkoreanischen Börsen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-08-13"
-    },
-    {
-      "titel": "Optikzulieferer Lumentum schießt nach Rekordquartal um 14 Prozent hoch",
-      "text": "Die Aktie des Glasfaser- und Laserkomponenten-Herstellers Lumentum sprang am 12. August um rund 14 Prozent auf ein Schlusshoch von 932,47 Dollar, nachdem das Unternehmen für das vierte Geschäftsquartal einen Umsatz von 1,01 Milliarden Dollar gemeldet hatte - deutlich über der Analystenschätzung von 987,7 Millionen Dollar. Der bereinigte Gewinn je Aktie lag mit 3,23 Dollar ebenfalls klar über den erwarteten 2,97 Dollar und hat sich damit im Jahresvergleich mehr als verdoppelt. Erstmals überschritt die bereinigte Bruttomarge die Marke von 50 Prozent - ein Wert, den das Management bislang erst bei einem deutlich höheren Quartalsumsatz erwartet hatte. Lumentum profitiert als Zulieferer optischer Komponenten für Rechenzentren direkt vom Ausbau der KI-Infrastruktur. Von 24 Analysten empfehlen inzwischen 15 die Aktie zum Kauf, das mittlere Kursziel liegt trotz des jüngsten Sprungs weitere 21 Prozent über dem aktuellen Niveau.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-12"
-    },
-    {
-      "titel": "Super Micro Computer legt nach Prognose-Überraschung deutlich zu",
-      "text": "Server-Hersteller Super Micro Computer meldete am 11. August für das vierte Geschäftsquartal einen Umsatz von 11,1 Milliarden Dollar und verfehlte damit die Erwartung von 11,55 Milliarden Dollar leicht, übertraf beim Gewinn je Aktie mit bis zu 1,70 Dollar aber deutlich die Analystenschätzung von rund 0,88 Dollar. Die Aktie legte im nachbörslichen Handel um rund 8,5 Prozent zu, da die Anleger vor allem auf den überraschend starken Ausblick reagierten. Für das Geschäftsjahr 2027 stellte das Unternehmen einen Umsatz von 65 bis 72 Milliarden Dollar in Aussicht - deutlich mehr als die von Analysten erwarteten 52,5 Milliarden Dollar. Für das erste Quartal 2027 rechnet Super Micro mit 14,5 bis 15,5 Milliarden Dollar Umsatz, ebenfalls über der Konsensschätzung von 11,68 Milliarden Dollar. Die Zahlen unterstreichen die weiterhin hohe Nachfrage nach KI-Servern trotz der zuletzt schwächeren Umsatzentwicklung im abgelaufenen Quartal.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-12"
+      "datum_artikel": "2026-08-14"
     }
   ]
 }
