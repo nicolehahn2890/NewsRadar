@@ -1,60 +1,41 @@
 {
-  "datum": "Samstag, 15. August 2026",
-  "generiert": "2026-08-15",
+  "datum": "Sonntag, 16. August 2026",
+  "generiert": "2026-08-16",
   "ki_stories": [
     {
-      "titel": "Chinesisches Z.ai bringt Coding-Modell GLM-5.3 gegen Anthropic und OpenAI",
-      "text": "Das Pekinger KI-Start-up Z.ai hat mit GLM-5.3 ein neues Programmier-Modell vorgestellt, das nach eigenen Angaben zu den stärksten offen zugänglichen Coding-Modellen am Markt zählt. Das Modell baut auf der bisherigen rund 700-Milliarden-Parameter-Basis auf und wurde ausschließlich im Nachtraining verbessert, liegt im Terminal-Bench-3.0-Test mit 28,3 Punkten aber noch hinter Anthropics Claude Fable 5 (33,7) und OpenAIs GPT-5.6 Sol (34,6). Bei Tests zum Aufspüren von Sicherheitslücken schneidet GLM-5.3 mit 84,5 Prozent dagegen besser ab als beide US-Konkurrenten. Verfügbar ist das Modell bereits über die API und den GLM Coding Plan, die offenen Modellgewichte sollen nach abgeschlossener Sicherheitsprüfung in etwa zwei Wochen folgen. Der Vorstoß zeigt, wie chinesische Anbieter mit offenen Modellen im lukrativen Programmier-Markt zu den führenden US-Anbietern aufschließen wollen.",
+      "titel": "Alibabas Qwen-Modelle überholen Google und Meta bei KI-Downloads",
+      "text": "Alibabas offene KI-Modellfamilie Qwen hat laut einem Bericht der Plattform Hugging Face vom 14. August weltweit mehr als 3 Milliarden Downloads erreicht und ist damit das meistgenutzte KI-Modell der Welt. Google kam im gleichen Zeitraum nur auf 418 Millionen und Meta auf 227 Millionen Downloads, zusammen also deutlich weniger als Qwen allein. Alibaba hat inzwischen mehr als 460 offene Qwen-Modelle veröffentlicht, aus denen Entwickler über 300.000 abgeleitete Varianten gebaut haben. Das Unternehmen verbreitet Qwen zusätzlich über seine Cloud-Plattform an Firmenkunden in Südostasien und Afrika, was den Vorsprung weiter vergrößert. Der Erfolg zeigt, wie stark chinesische Anbieter inzwischen den Wettbewerb um offene, kostenlose KI-Modelle dominieren und damit indirekt Druck auf die Geschäftsmodelle von Google und Meta ausüben.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-14"
+      "datum_artikel": "2026-08-15"
     },
     {
-      "titel": "Goldman und Nomura: KI verändert Indiens Jobs mehr, als sie sie vernichtet",
-      "text": "Zwei aktuelle Studien von Goldman Sachs und Nomura zeichnen ein differenziertes Bild der Auswirkungen von generativer KI auf den indischen Arbeitsmarkt. Laut Nomura wurden im untersuchten Zeitraum rund 83.100 KI-bezogene Neueinstellungen registriert, denen etwa 31.921 Entlassungen und natürliche Abgänge gegenüberstehen - KI schafft demnach bislang mehr Jobs, als sie vernichtet. Goldman-Chefökonom Santanu Sengupta geht zudem davon aus, dass Indien wegen der Größe und dem hohen Anteil manueller Tätigkeiten in seiner Erwerbsbevölkerung insgesamt weniger stark von KI-bedingten Jobverlusten betroffen sein wird als andere Länder. Betroffen sind vor allem Support-Teams, die durch Chatbots ersetzt werden, während vor allem IT-Absolventen von der gestiegenen KI-Nachfrage profitieren. Wegen seiner schieren Größe gilt Indien für Analysten inzwischen als wichtigster Testfall dafür, wie sich KI weltweit auf Beschäftigung auswirkt.",
-      "quelle": "Bloomberg",
+      "titel": "KI und Rechenzentren werden erstmals zum großen US-Wahlkampfthema",
+      "text": "Eine Analyse der Washington Post vom 14. August zeigt, dass Kandidaten für Repräsentantenhaus, Senat und Gouverneursposten in diesem Wahljahr häufiger über künstliche Intelligenz oder Rechenzentren sprechen als über traditionelle Themen wie Israel oder die heimische Industrie. Die Zeitung wertete rund 1.200 Kampagnenwebsites aus und stellte fest, dass das Thema mittlerweile in fast 40 Prozent aller untersuchten Rennen eine Rolle spielt. Sowohl Demokraten als auch Republikaner positionieren sich zunehmend mit Forderungen nach schärferer Regulierung von KI-Rechenzentren, etwa wegen hohem Stromverbrauch und steigenden Energiepreisen für Anwohner. Politik-Beobachter sprechen von einem der am schnellsten aufgestiegenen neuen Themen der jüngeren US-Politikgeschichte. Für die KI-Branche bedeutet das wachsenden politischen Druck und die Gefahr strengerer Auflagen für den weiteren Ausbau von Rechenzentren in den USA.",
+      "quelle": "Washington Post",
       "datum_artikel": "2026-08-14"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic-Umsatz vervielfacht sich auf 11,5 Milliarden Dollar vor Rekord-Börsengang",
-      "text": "Anthropic hat im zweiten Quartal 2026 einen vorläufigen Umsatz von mehr als 11,5 Milliarden Dollar gemeldet - ein Anstieg um mehr als das 14-Fache gegenüber 787 Millionen Dollar im Vorjahresquartal und deutlich über den 4,73 Milliarden Dollar aus dem ersten Quartal 2026. Erstmals wies das Unternehmen dabei ein positives bereinigtes operatives Ergebnis aus, ein wichtiger Meilenstein auf dem Weg zum geplanten Börsengang. Getrieben wird das Wachstum vor allem von Unternehmenskunden, die Claude für Programmieraufgaben und andere Geschäftsprozesse einsetzen. Laut Investorenkreisen strebt Anthropic für den möglichen Börsengang im Oktober eine Bewertung von rund 2 Billionen Dollar an, was den größten Börsengang der Geschichte bedeuten würde. Die starken Zahlen sollen Investoren von der hohen Bewertung überzeugen, auch wenn Kritiker anmerken, das zugrunde liegende Geschäft rechtfertige die angestrebte Bewertung bislang nicht vollständig.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-14",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "OpenAI knackt vor Börsengang Umsatz-Rate von 40 Milliarden Dollar",
-      "text": "OpenAI hat seine annualisierte Umsatz-Rate laut einem Bloomberg-Bericht auf über 40 Milliarden Dollar gesteigert und damit gegenüber Ende 2025 mehr als verdoppelt. Firmenpräsident Greg Brockman teilte intern mit, die jährliche Umsatz-Rate sei allein im Juli um mehr als 20 Prozent gegenüber dem Vormonat gewachsen. Als Wachstumstreiber gelten vor allem das Programmier-Tool Codex, Abo-Einnahmen von ChatGPT sowie ein neues, noch junges Werbegeschäft. Erst Ende 2025 hatte Finanzchefin Sarah Friar eine annualisierte Umsatz-Rate von rund 20 Milliarden Dollar gemeldet, das Tempo der Beschleunigung hat sich also deutlich erhöht. Die Zahlen stärken die Position von OpenAI vor dem geplanten Börsengang, für den das Unternehmen bereits vertrauliche Unterlagen eingereicht hat.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-13",
-      "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "xAI schließt 60-Milliarden-Dollar-Übernahme des Programmier-Start-ups Cursor ab",
-      "text": "Das Raumfahrtunternehmen SpaceX hat die im Juni angekündigte Übernahme des KI-Programmierdienstes Cursor für 60 Milliarden Dollar am 14. August offiziell abgeschlossen. Die bisherigen Cursor-Aktionäre erhielten dafür laut Regulierungsunterlagen rund 389,3 Millionen SpaceX-Aktien der Klasse A. Cursor gilt mit seinem populären KI-Programmiertool als einer der am schnellsten wachsenden Anbieter der Branche und stand zuletzt in direkter Konkurrenz zu Angeboten von Anthropic und OpenAI. Laut Schätzungen von Morgan Stanley könnte Cursor dem Konzern bereits 2026 zusätzliche 2,5 Milliarden Dollar Umsatz einbringen, 2027 sogar bis zu 13 Milliarden Dollar. Cursor soll künftig Teil des xAI-Teams werden und helfen, Produkte wie Grok Build, Grok Bot und die Grok API weiterzuentwickeln - ein zentraler Baustein in Elon Musks Plan, im KI-Wettlauf gegen Anthropic und OpenAI aufzuholen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-14",
+      "titel": "Klage wirft xAI vor, Grok für massenhaften Kindesmissbrauchs-Content genutzt zu haben",
+      "text": "Laut einem Bericht der Washington Post vom 15. August hat eine Frau aus Wyoming eine Bundesklage gegen xAI eingereicht, weil ihr Stiefvater den Chatbot Grok genutzt haben soll, um aus einem einzigen Kindheitsfoto von ihr rund 7.000 sexuell explizite Bilder und Videos zu erstellen. Die Klage ist Teil einer wachsenden Zahl ähnlicher Verfahren gegen xAI, unter anderem einer Sammelklage mit Klägern aus mehreren US-Bundesstaaten. xAI weist die Vorwürfe zurück, verweist auf seine Nutzungsbedingungen gegen solchen Missbrauch und gibt an, allein 2026 mehr als 52.000 Nutzerkonten gesperrt und über 73.000 Meldungen an das Kinderschutzzentrum NCMEC weitergeleitet zu haben. Der Fall setzt Elon Musks KI-Firma zusätzlich unter regulatorischen und öffentlichen Druck, während bereits mehrere US-Bundesstaaten wie Minnesota gegen KI-generierte Missbrauchsbilder vorgehen. Für xAI drohen neben Reputationsschäden auch strengere Auflagen und mögliche Schadenersatzzahlungen, sollte sich die Klageflut fortsetzen.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-08-15",
       "unternehmen": "xAI"
+    },
+    {
+      "titel": "Anleihehändler sorgen sich um 70-Milliarden-Dollar-Risiko in NVIDIAs KI-Finanzierung",
+      "text": "Nach der Vorstellung von NVIDIAs 500-Milliarden-Dollar-Finanzierungsplattform für den KI-Ausbau in der Vorwoche berichtete Bloomberg am 15. August über neue Sorgen an den Anleihemärkten: Rund 70 Milliarden Dollar an sogenannten Schatten-Verbindlichkeiten tauchen in den Bilanzen großer KI-Firmen gar nicht auf, könnten im Ernstfall aber genau dann fällig werden, wenn es die Branche am wenigsten gebrauchen kann. Hintergrund sind Konstruktionen, bei denen Zweckgesellschaften Kredite aufnehmen, um Chips zu kaufen, während NVIDIA und Partner wie Broadcom im Hintergrund für den Restwert der Anlagen garantieren, ohne dass diese Garantien in der eigenen Bilanz auftauchen. Das erlaubt es NVIDIA und Broadcom, Verkäufe an KI-Firmen anzukurbeln, ohne selbst Schulden aufzunehmen. Anders als bei der ursprünglichen Ankündigung des 500-Milliarden-Pakets, die die Kreditmärkte zunächst beruhigt hatte, rückt nun die Frage in den Fokus, wer im Zweifel für diese verdeckten Garantien geradesteht. Analysten warnen, dass solche Konstruktionen bei einem Abschwung der KI-Nachfrage zu einer Kettenreaktion an den Kreditmärkten führen könnten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-15",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Schwache US-Einzelhandelsumsätze bremsen Rekordrally an der Wall Street",
-      "text": "Die US-Einzelhandelsumsätze sind im Juli überraschend um 0,6 Prozent gegenüber dem Vormonat gefallen - der stärkste Rückgang seit Mai 2025. Ökonomen hatten im Schnitt ein Plus von rund 0,1 Prozent erwartet, gleichzeitig brach auch das Verbrauchervertrauen um etwa 8 Prozent ein. Die Daten bremsten die jüngste Rekordrally an der Wall Street: Der S&P 500 gab nach seinem Rekordhoch vom Vortag um 0,2 Prozent nach, der Nasdaq Composite verlor 0,5 Prozent und der Dow Jones 0,2 Prozent. Als Gründe für den Rückgang gelten unter anderem der verschobene Amazon-Prime-Day-Termin und niedrigere Benzinpreise, dennoch werten Analysten die Kombination aus schwachem Konsum und sinkendem Verbrauchervertrauen als Warnsignal für eine unter Preisdruck stehende US-Wirtschaft. Die Daten dürften auch die Erwartungen an die nächste Zinsentscheidung der US-Notenbank Fed beeinflussen.",
+      "titel": "Applied Materials bricht trotz Rekordumsatz um mehr als 5 Prozent ein",
+      "text": "Der weltgrößte Hersteller von Chip-Fertigungsanlagen, Applied Materials, meldete am 13. August für das dritte Geschäftsquartal einen Rekordumsatz von 9,12 Milliarden Dollar, ein Plus von 25 Prozent gegenüber dem Vorjahr, sowie einen Gewinn je Aktie von 3,50 Dollar, 41 Prozent mehr als im Vorjahresquartal und über den Erwartungen der Analysten. Auch der Ausblick für das laufende Quartal mit rund 10,25 Milliarden Dollar Umsatz lag über den Schätzungen der Wall Street. Trotzdem brach die Aktie am Freitag, den 14. August, um rund 5,3 Prozent ein. Grund war laut Bloomberg, dass die Erwartungen der Anleger nach einer rund 100-prozentigen Kursrally im bisherigen Jahresverlauf bereits so hoch waren, dass selbst starke Zahlen nicht mehr ausreichten. Der Kurseinbruch zeigt, wie nervös Investoren bei den hoch bewerteten Zulieferern des KI-Chip-Booms inzwischen auf jedes Anzeichen von Enttäuschung reagieren, nachdem zuvor bereits Broadcom wegen Sorgen um die KI-Finanzierung unter Druck geraten war.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-14"
-    },
-    {
-      "titel": "Broadcom-Aktie bricht nach Warnung vor 370-Milliarden-Dollar-KI-Schuldenberg ein",
-      "text": "Die Broadcom-Aktie ist am 14. August um rund 5 bis 6 Prozent eingebrochen und war damit der größte Verlierer im Technologiesektor des S&P 500, der insgesamt 0,5 Prozent verlor. Auslöser war unter anderem eine Analyse der Bank of America, die vor einem möglichen Finanzierungsvehikel für KI-Chips im Volumen von bis zu 370 Milliarden Dollar bis 2029 warnte und damit Zweifel an der Tragfähigkeit der aktuellen KI-Finanzierungswelle weckte. Zusätzlich belasteten die schwachen US-Einzelhandelszahlen den gesamten Technologiesektor, sodass Anleger nach der jüngsten Kursrally verstärkt Gewinne mitnahmen. Vor den für Anfang September erwarteten Quartalszahlen bewerten institutionelle Investoren offenbar zunehmend das Rendite-Risiko-Verhältnis von KI-nahen Werten neu. Der Kursrutsch zeigt, wie nervös der Markt inzwischen auf Anzeichen einer möglichen Überhitzung im KI-Boom reagiert.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-14"
-    },
-    {
-      "titel": "Hongkonger Börse gibt nach: Tech-Werte und Immobiliensektor unter Druck",
-      "text": "Der Hang-Seng-Index ist am 13. und 14. August mehrfach gefallen, angeführt von schwachen Technologiewerten und einem angeschlagenen Immobiliensektor. Besonders stark traf es den chinesischen Onlinehändler JD.com, dessen Aktie zeitweise rund 10 Prozent verlor, nachdem der Konzern trotz eines über den Erwartungen liegenden Umsatzes einen Rückgang im Kerngeschäft JD Retail um rund 4,7 Prozent gemeldet hatte. Auch Tencent gab nach Quartalszahlen rund 3,2 Prozent ab, während Alibaba und Meituan je etwa 1,1 Prozent nachgaben. Belastet wurde die Stimmung zusätzlich durch die Zurückhaltung der chinesischen Führung bei neuen Konjunkturmaßnahmen, Berichte über mögliche neue Steuern auf Offshore-Versicherungserträge sowie die bevorstehende Unitree-Börsennotierung, die dem Markt kurzfristig Liquidität entzog. Die Kursverluste in Hongkong stehen damit im deutlichen Kontrast zu den jüngsten Rekordständen an den japanischen und südkoreanischen Börsen.",
-      "quelle": "Reuters",
       "datum_artikel": "2026-08-14"
     }
   ]
