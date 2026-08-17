@@ -1,42 +1,21 @@
 {
-  "datum": "Sonntag, 16. August 2026",
-  "generiert": "2026-08-16",
+  "datum": "Montag, 17. August 2026",
+  "generiert": "2026-08-17",
   "ki_stories": [
     {
-      "titel": "Alibabas Qwen-Modelle überholen Google und Meta bei KI-Downloads",
-      "text": "Alibabas offene KI-Modellfamilie Qwen hat laut einem Bericht der Plattform Hugging Face vom 14. August weltweit mehr als 3 Milliarden Downloads erreicht und ist damit das meistgenutzte KI-Modell der Welt. Google kam im gleichen Zeitraum nur auf 418 Millionen und Meta auf 227 Millionen Downloads, zusammen also deutlich weniger als Qwen allein. Alibaba hat inzwischen mehr als 460 offene Qwen-Modelle veröffentlicht, aus denen Entwickler über 300.000 abgeleitete Varianten gebaut haben. Das Unternehmen verbreitet Qwen zusätzlich über seine Cloud-Plattform an Firmenkunden in Südostasien und Afrika, was den Vorsprung weiter vergrößert. Der Erfolg zeigt, wie stark chinesische Anbieter inzwischen den Wettbewerb um offene, kostenlose KI-Modelle dominieren und damit indirekt Druck auf die Geschäftsmodelle von Google und Meta ausüben.",
-      "quelle": "Bloomberg",
+      "titel": "Anthropic-Chef Amodei: KI-Skepsis ist eine Vertrauenskrise",
+      "text": "Anthropic-CEO Dario Amodei hat sich am 15. August gegen den Vorwurf gewehrt, seine Warnungen vor KI-Risiken hätten die wachsende Ablehnung von KI und Rechenzentren in den USA mitverursacht. Investor Gavin Baker hatte im All-In-Podcast argumentiert, Amodeis vorsichtige Kommunikation schüre das Misstrauen. Amodei entgegnete, das eigentliche Problem sei eine seit Jahrzehnten gewachsene 'Vertrauenskrise': Menschen misstrauten generell Unternehmen und Regierungen und vermuteten stets neue Tricks gegen sich. Die treffendste Kritik an KI-Firmen wie Anthropic sei nicht die Kommunikation, sondern dass sie ihre großen Versprechen gegenüber der Gesellschaft bislang nicht eingelöst hätten. Zur Forderung, KI-Modelle offener zu verteilen statt sie zu regulieren, warnte Amodei vor einer falschen Alternative zwischen unregulierter Verbreitung und Konzentration der Macht durch Regulierung. Die Debatte fällt in eine Zeit, in der KI und Datenzentren zunehmend zum politischen Streitthema in den USA werden.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-08-15"
-    },
-    {
-      "titel": "KI und Rechenzentren werden erstmals zum großen US-Wahlkampfthema",
-      "text": "Eine Analyse der Washington Post vom 14. August zeigt, dass Kandidaten für Repräsentantenhaus, Senat und Gouverneursposten in diesem Wahljahr häufiger über künstliche Intelligenz oder Rechenzentren sprechen als über traditionelle Themen wie Israel oder die heimische Industrie. Die Zeitung wertete rund 1.200 Kampagnenwebsites aus und stellte fest, dass das Thema mittlerweile in fast 40 Prozent aller untersuchten Rennen eine Rolle spielt. Sowohl Demokraten als auch Republikaner positionieren sich zunehmend mit Forderungen nach schärferer Regulierung von KI-Rechenzentren, etwa wegen hohem Stromverbrauch und steigenden Energiepreisen für Anwohner. Politik-Beobachter sprechen von einem der am schnellsten aufgestiegenen neuen Themen der jüngeren US-Politikgeschichte. Für die KI-Branche bedeutet das wachsenden politischen Druck und die Gefahr strengerer Auflagen für den weiteren Ausbau von Rechenzentren in den USA.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-08-14"
     }
   ],
-  "unternehmen_stories": [
-    {
-      "titel": "Klage wirft xAI vor, Grok für massenhaften Kindesmissbrauchs-Content genutzt zu haben",
-      "text": "Laut einem Bericht der Washington Post vom 15. August hat eine Frau aus Wyoming eine Bundesklage gegen xAI eingereicht, weil ihr Stiefvater den Chatbot Grok genutzt haben soll, um aus einem einzigen Kindheitsfoto von ihr rund 7.000 sexuell explizite Bilder und Videos zu erstellen. Die Klage ist Teil einer wachsenden Zahl ähnlicher Verfahren gegen xAI, unter anderem einer Sammelklage mit Klägern aus mehreren US-Bundesstaaten. xAI weist die Vorwürfe zurück, verweist auf seine Nutzungsbedingungen gegen solchen Missbrauch und gibt an, allein 2026 mehr als 52.000 Nutzerkonten gesperrt und über 73.000 Meldungen an das Kinderschutzzentrum NCMEC weitergeleitet zu haben. Der Fall setzt Elon Musks KI-Firma zusätzlich unter regulatorischen und öffentlichen Druck, während bereits mehrere US-Bundesstaaten wie Minnesota gegen KI-generierte Missbrauchsbilder vorgehen. Für xAI drohen neben Reputationsschäden auch strengere Auflagen und mögliche Schadenersatzzahlungen, sollte sich die Klageflut fortsetzen.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-08-15",
-      "unternehmen": "xAI"
-    },
-    {
-      "titel": "Anleihehändler sorgen sich um 70-Milliarden-Dollar-Risiko in NVIDIAs KI-Finanzierung",
-      "text": "Nach der Vorstellung von NVIDIAs 500-Milliarden-Dollar-Finanzierungsplattform für den KI-Ausbau in der Vorwoche berichtete Bloomberg am 15. August über neue Sorgen an den Anleihemärkten: Rund 70 Milliarden Dollar an sogenannten Schatten-Verbindlichkeiten tauchen in den Bilanzen großer KI-Firmen gar nicht auf, könnten im Ernstfall aber genau dann fällig werden, wenn es die Branche am wenigsten gebrauchen kann. Hintergrund sind Konstruktionen, bei denen Zweckgesellschaften Kredite aufnehmen, um Chips zu kaufen, während NVIDIA und Partner wie Broadcom im Hintergrund für den Restwert der Anlagen garantieren, ohne dass diese Garantien in der eigenen Bilanz auftauchen. Das erlaubt es NVIDIA und Broadcom, Verkäufe an KI-Firmen anzukurbeln, ohne selbst Schulden aufzunehmen. Anders als bei der ursprünglichen Ankündigung des 500-Milliarden-Pakets, die die Kreditmärkte zunächst beruhigt hatte, rückt nun die Frage in den Fokus, wer im Zweifel für diese verdeckten Garantien geradesteht. Analysten warnen, dass solche Konstruktionen bei einem Abschwung der KI-Nachfrage zu einer Kettenreaktion an den Kreditmärkten führen könnten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-15",
-      "unternehmen": "NVIDIA"
-    }
-  ],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "Applied Materials bricht trotz Rekordumsatz um mehr als 5 Prozent ein",
-      "text": "Der weltgrößte Hersteller von Chip-Fertigungsanlagen, Applied Materials, meldete am 13. August für das dritte Geschäftsquartal einen Rekordumsatz von 9,12 Milliarden Dollar, ein Plus von 25 Prozent gegenüber dem Vorjahr, sowie einen Gewinn je Aktie von 3,50 Dollar, 41 Prozent mehr als im Vorjahresquartal und über den Erwartungen der Analysten. Auch der Ausblick für das laufende Quartal mit rund 10,25 Milliarden Dollar Umsatz lag über den Schätzungen der Wall Street. Trotzdem brach die Aktie am Freitag, den 14. August, um rund 5,3 Prozent ein. Grund war laut Bloomberg, dass die Erwartungen der Anleger nach einer rund 100-prozentigen Kursrally im bisherigen Jahresverlauf bereits so hoch waren, dass selbst starke Zahlen nicht mehr ausreichten. Der Kurseinbruch zeigt, wie nervös Investoren bei den hoch bewerteten Zulieferern des KI-Chip-Booms inzwischen auf jedes Anzeichen von Enttäuschung reagieren, nachdem zuvor bereits Broadcom wegen Sorgen um die KI-Finanzierung unter Druck geraten war.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-14"
+      "titel": "USA und Kanada verhandeln vor 50-Prozent-Zoll-Frist am 19. August",
+      "text": "Die USA und Kanada versuchen laut Washington Post, kurz vor Inkrafttreten drastischer neuer Zölle noch eine Einigung zu erzielen. Präsident Trump hatte im Juli erstmals überhaupt Section 338 des Zollgesetzes von 1930 aktiviert und damit 50-Prozent-Zusatzzölle auf bestimmte kanadische Importe verhängt, darunter Milchprodukte, Alkohol und Autos - betroffen sind Importe im Wert von rund 20 Milliarden Dollar. Begründet wird der Schritt mit kanadischen Handelspraktiken bei Milchquoten und provinziellen Beschränkungen für US-Alkohol. Die Zölle sollen ab 0:01 Uhr Ostküstenzeit am 19. August greifen, eine Ausnahme für USMCA-konforme Waren ist diesmal nicht vorgesehen - ein Bruch mit bisheriger US-Handelspolitik. Kommt bis dahin keine Einigung zustande, drohen spürbare Belastungen für kanadische Exporteure und mögliche Gegenmaßnahmen Ottawas. Märkte beobachten die Verhandlungen als möglichen Belastungstest für die USMCA-Handelsbeziehungen.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-08-15"
     }
   ]
 }
