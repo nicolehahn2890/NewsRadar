@@ -1,21 +1,43 @@
 {
-  "datum": "Montag, 17. August 2026",
-  "generiert": "2026-08-17",
+  "datum": "Dienstag, 18. August 2026",
+  "generiert": "2026-08-18",
   "ki_stories": [
     {
-      "titel": "Anthropic-Chef Amodei: KI-Skepsis ist eine Vertrauenskrise",
-      "text": "Anthropic-CEO Dario Amodei hat sich am 15. August gegen den Vorwurf gewehrt, seine Warnungen vor KI-Risiken hätten die wachsende Ablehnung von KI und Rechenzentren in den USA mitverursacht. Investor Gavin Baker hatte im All-In-Podcast argumentiert, Amodeis vorsichtige Kommunikation schüre das Misstrauen. Amodei entgegnete, das eigentliche Problem sei eine seit Jahrzehnten gewachsene 'Vertrauenskrise': Menschen misstrauten generell Unternehmen und Regierungen und vermuteten stets neue Tricks gegen sich. Die treffendste Kritik an KI-Firmen wie Anthropic sei nicht die Kommunikation, sondern dass sie ihre großen Versprechen gegenüber der Gesellschaft bislang nicht eingelöst hätten. Zur Forderung, KI-Modelle offener zu verteilen statt sie zu regulieren, warnte Amodei vor einer falschen Alternative zwischen unregulierter Verbreitung und Konzentration der Macht durch Regulierung. Die Debatte fällt in eine Zeit, in der KI und Datenzentren zunehmend zum politischen Streitthema in den USA werden.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-15"
+      "titel": "Stripe übernimmt KI-Plattform OpenRouter für über 7 Milliarden Dollar",
+      "text": "Der Zahlungsdienstleister Stripe hat die Übernahme des KI-Modell-Vermittlers OpenRouter abgeschlossen und zahlt dafür mehr als 7 Milliarden Dollar. OpenRouter verbindet rund 8 Millionen Entwickler mit über 400 KI-Modellen von Anbietern wie OpenAI, Anthropic, Google und Meta und wählt automatisch das günstigste passende Modell für eine Aufgabe aus. Die Summe entspricht mehr als dem Fünffachen der Bewertung von 1,3 Milliarden Dollar, die das New Yorker Start-up erst im Mai bei seiner Serie-B-Finanzierung erreicht hatte. Für Stripe ist der Deal ein strategischer Schritt, um sich als zentrale Abrechnungs- und Routing-Infrastruktur für den wachsenden KI-Datenverkehr zu positionieren. Der Kauf zeigt, wie schnell sich die KI-Infrastruktur gerade konsolidiert und wie wertvoll der direkte Zugang zu Entwicklern geworden ist, die zwischen verschiedenen KI-Modellen wechseln wollen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-16"
     }
   ],
-  "unternehmen_stories": [],
+  "unternehmen_stories": [
+    {
+      "titel": "NVIDIA finanziert bis zu 105 Milliarden Dollar für OpenAI-Rechenzentrum",
+      "text": "NVIDIA hat zugesagt, den Bau eines gigantischen Rechenzentrums für OpenAI in Ohio mit bis zu 105 Milliarden Dollar zu finanzieren. Partner ist der Energie- und Infrastrukturanbieter SB Energy, der die als PORTS-Pike Technology Campus bekannte Anlage baut und besitzt, während OpenAI die Kapazität für 20 Jahre least. Die erste Ausbaustufe soll 4,25 Gigawatt Rechenleistung liefern, mit einer Option auf weitere 3,75 Gigawatt. NVIDIA investiert zusätzlich 1,5 Milliarden Dollar direkt in SB Energy, im Gegenzug verpflichtet sich OpenAI, am Standort ausschließlich NVIDIA-Chips einzusetzen - insgesamt könnten das rund 1,5 Millionen Grafikprozessoren werden. Der Deal zeigt, wie eng NVIDIA seine größten Kunden inzwischen über Finanzierungszusagen an sich bindet, und könnte NVIDIA nach Unternehmensangaben bis 2030 zwischen 150 und 200 Milliarden Dollar Umsatz je Chip-Generation an diesem Standort allein bringen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-17",
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "Meta drohen bis zu 1,4 Billionen Dollar Strafe im Jugendschutz-Prozess",
+      "text": "Vor einem Bundesgericht in Oakland haben die Eröffnungsplädoyers in einem Prozess begonnen, den 29 US-Bundesstaaten unter Führung von Kaliforniens Generalstaatsanwalt Rob Bonta gegen Meta führen. Die Kläger werfen dem Konzern vor, mit dem Design von Instagram und Facebook gezielt suchtähnliches Verhalten bei Jugendlichen gefördert und die Sicherheit seiner Produkte falsch dargestellt zu haben, unter anderem unter Verstoß gegen das Kinderdatenschutzgesetz COPPA. Die Bundesstaaten fordern in der Klage eine Strafe von bis zu 1,4 Billionen Dollar, was Meta als völlig unverhältnismäßig zurückweist; Anwälte der Bundesstaaten selbst halten rund 200 Milliarden Dollar für realistischer. Der Prozess kommt nur zwei Wochen, nachdem Meta bereits eine vergleichbare Klage in New Mexico verloren hat, und gilt als bislang größter rechtlicher Test des Konzerns in dieser Frage. Ein Urteil gegen Meta könnte erhebliche finanzielle Folgen haben und den Umgang der gesamten Branche mit jugendlichen Nutzern verändern.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-08-17",
+      "unternehmen": "Meta"
+    },
+    {
+      "titel": "Google soll AMD als neuen Partner für eigene KI-Chips gewinnen",
+      "text": "Laut einem Bericht des Analysehauses SemiAnalysis plant Google, für die zehnte Generation seiner eigenen KI-Chips (TPU) künftig mit AMD zusammenzuarbeiten. Es wäre AMDs erster großer Einstieg in die Entwicklung maßgeschneiderter KI-Beschleuniger für einen Hyperscaler; Google interessiert sich demnach vor allem für AMDs CPU-Kerne für rechenintensive Arbeitslasten. Weder Google noch AMD haben den Bericht offiziell bestätigt, der genaue Umfang der Zusammenarbeit ist noch unklar. Die Nachricht belastete gleichzeitig andere Chip-Werte, da SemiAnalysis im selben Bericht auch seine Produktionsprognosen für Googles aktuelle TPU-Generation und für Broadcoms Chip-Fertigung deutlich senkte. Für AMD wäre eine solche Partnerschaft ein wichtiger Schritt, um sich als Alternative zu NVIDIA im boomenden Markt für KI-Rechenzentren zu etablieren.",
+      "quelle": "SemiAnalysis",
+      "datum_artikel": "2026-08-17",
+      "unternehmen": "AMD"
+    }
+  ],
   "boerse_stories": [
     {
-      "titel": "USA und Kanada verhandeln vor 50-Prozent-Zoll-Frist am 19. August",
-      "text": "Die USA und Kanada versuchen laut Washington Post, kurz vor Inkrafttreten drastischer neuer Zölle noch eine Einigung zu erzielen. Präsident Trump hatte im Juli erstmals überhaupt Section 338 des Zollgesetzes von 1930 aktiviert und damit 50-Prozent-Zusatzzölle auf bestimmte kanadische Importe verhängt, darunter Milchprodukte, Alkohol und Autos - betroffen sind Importe im Wert von rund 20 Milliarden Dollar. Begründet wird der Schritt mit kanadischen Handelspraktiken bei Milchquoten und provinziellen Beschränkungen für US-Alkohol. Die Zölle sollen ab 0:01 Uhr Ostküstenzeit am 19. August greifen, eine Ausnahme für USMCA-konforme Waren ist diesmal nicht vorgesehen - ein Bruch mit bisheriger US-Handelspolitik. Kommt bis dahin keine Einigung zustande, drohen spürbare Belastungen für kanadische Exporteure und mögliche Gegenmaßnahmen Ottawas. Märkte beobachten die Verhandlungen als möglichen Belastungstest für die USMCA-Handelsbeziehungen.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-08-15"
+      "titel": "Steigende Ölpreise wegen Nahost-Eskalation belasten Wall Street",
+      "text": "Die US-Börsen haben zum Wochenauftakt nachgegeben, nachdem steigende Ölpreise die Stimmung belastet hatten: Die Sorte WTI legte um 0,6 Prozent auf 85 Dollar je Barrel zu, die Nordseesorte Brent stieg auf über 90 Dollar. Auslöser war eine Eskalation im Nahen Osten - im Libanon kam es zum blutigsten Kampftag seit Monaten, nachdem Israel Ziele der von Teheran unterstützten Hisbollah angegriffen hatte, während Präsident Trump erklärte, kein Interesse an einer Verlängerung des auslaufenden Abkommens mit Iran zu haben. Hinzu kommen anhaltende Spannungen um die Straße von Hormus, die die Aussichten auf eine Beilegung des US-Iran-Konflikts weiter eintrüben. Anleger befürchten, dass die anhaltenden geopolitischen Spannungen die Ölversorgung gefährden und die Energiepreise dauerhaft hochhalten könnten. Die Entwicklung zeigt, wie unmittelbar geopolitische Risiken im Nahen Osten weiterhin auf die globalen Finanzmärkte durchschlagen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-17"
     }
   ]
 }
