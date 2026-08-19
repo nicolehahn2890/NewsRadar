@@ -1,43 +1,42 @@
 {
-  "datum": "Dienstag, 18. August 2026",
-  "generiert": "2026-08-18",
+  "datum": "Mittwoch, 19. August 2026",
+  "generiert": "2026-08-19",
   "ki_stories": [
     {
-      "titel": "Stripe übernimmt KI-Plattform OpenRouter für über 7 Milliarden Dollar",
-      "text": "Der Zahlungsdienstleister Stripe hat die Übernahme des KI-Modell-Vermittlers OpenRouter abgeschlossen und zahlt dafür mehr als 7 Milliarden Dollar. OpenRouter verbindet rund 8 Millionen Entwickler mit über 400 KI-Modellen von Anbietern wie OpenAI, Anthropic, Google und Meta und wählt automatisch das günstigste passende Modell für eine Aufgabe aus. Die Summe entspricht mehr als dem Fünffachen der Bewertung von 1,3 Milliarden Dollar, die das New Yorker Start-up erst im Mai bei seiner Serie-B-Finanzierung erreicht hatte. Für Stripe ist der Deal ein strategischer Schritt, um sich als zentrale Abrechnungs- und Routing-Infrastruktur für den wachsenden KI-Datenverkehr zu positionieren. Der Kauf zeigt, wie schnell sich die KI-Infrastruktur gerade konsolidiert und wie wertvoll der direkte Zugang zu Entwicklern geworden ist, die zwischen verschiedenen KI-Modellen wechseln wollen.",
+      "titel": "OpenAI startet ChatGPT für Teenager mit Altersvorhersage",
+      "text": "OpenAI hat am Dienstag eine eigene Version von ChatGPT für Jugendliche zwischen 13 und 17 Jahren vorgestellt, die automatisch auf jugendgerechte Einstellungen umschaltet. Ein neues Alterserkennungssystem analysiert Verhaltens- und Kontosignale wie das angegebene Alter, das Kontoalter und Nutzungszeiten, um Minderjährige zu identifizieren. Die Jugendversion blockiert Gespräche zu Suizid, Selbstverletzung und romantisch-sexuellen Themen und bietet stattdessen einen Study Mode, Ruhezeiten und Erinnerungen für Pausen. Wer fälschlich als minderjährig eingestuft wird, kann per Selfie über den Dienstleister Persona die volle Version freischalten lassen. Der Schritt folgt dem wachsenden regulatorischen Druck in den USA nach mehreren Vorfällen mit Jugendlichen und einem im April vom US-Senat unterstützten Gesetzentwurf zum Kinderschutz bei Chatbots. OpenAI reagiert damit auch auf Kritik, ChatGPT dürfe für Teenager keine Freundes-Rolle einnehmen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-16"
+      "datum_artikel": "2026-08-18"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA finanziert bis zu 105 Milliarden Dollar für OpenAI-Rechenzentrum",
-      "text": "NVIDIA hat zugesagt, den Bau eines gigantischen Rechenzentrums für OpenAI in Ohio mit bis zu 105 Milliarden Dollar zu finanzieren. Partner ist der Energie- und Infrastrukturanbieter SB Energy, der die als PORTS-Pike Technology Campus bekannte Anlage baut und besitzt, während OpenAI die Kapazität für 20 Jahre least. Die erste Ausbaustufe soll 4,25 Gigawatt Rechenleistung liefern, mit einer Option auf weitere 3,75 Gigawatt. NVIDIA investiert zusätzlich 1,5 Milliarden Dollar direkt in SB Energy, im Gegenzug verpflichtet sich OpenAI, am Standort ausschließlich NVIDIA-Chips einzusetzen - insgesamt könnten das rund 1,5 Millionen Grafikprozessoren werden. Der Deal zeigt, wie eng NVIDIA seine größten Kunden inzwischen über Finanzierungszusagen an sich bindet, und könnte NVIDIA nach Unternehmensangaben bis 2030 zwischen 150 und 200 Milliarden Dollar Umsatz je Chip-Generation an diesem Standort allein bringen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-17",
-      "unternehmen": "NVIDIA"
+      "titel": "Anthropic überholt OpenAI erstmals beim Quartalsumsatz",
+      "text": "Laut einem Bericht des Wall Street Journal hat Anthropic im zweiten Quartal 2026 erstmals mehr Umsatz erzielt als OpenAI. Anthropic verdoppelte den Umsatz auf rund 11,6 Milliarden Dollar und erzielte dabei sogar einen kleinen operativen Gewinn. OpenAI kam im selben Zeitraum auf 6,7 Milliarden Dollar Umsatz, ein Plus von 18 Prozent gegenüber dem Vorquartal, was Investoren angesichts der bisherigen Wachstumsdynamik enttäuschte. Bereits am Freitag hatte Anthropic die absolute Umsatzzahl vor einem möglichen Börsengang gemeldet, neu ist nun der direkte Vergleich: ChatGPT wächst spürbar langsamer, während Anthropics Coding-Tool Claude Code bei Entwicklern weiter an Zugkraft gewinnt. OpenAI betont, die Wachstumsrate habe sich im laufenden Quartal nach neuen Modell-Starts im Juli wieder beschleunigt. Die Zahlen dürften die Debatte um die tatsächliche Marktführerschaft in der KI-Branche neu befeuern.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-08-18",
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "Meta drohen bis zu 1,4 Billionen Dollar Strafe im Jugendschutz-Prozess",
-      "text": "Vor einem Bundesgericht in Oakland haben die Eröffnungsplädoyers in einem Prozess begonnen, den 29 US-Bundesstaaten unter Führung von Kaliforniens Generalstaatsanwalt Rob Bonta gegen Meta führen. Die Kläger werfen dem Konzern vor, mit dem Design von Instagram und Facebook gezielt suchtähnliches Verhalten bei Jugendlichen gefördert und die Sicherheit seiner Produkte falsch dargestellt zu haben, unter anderem unter Verstoß gegen das Kinderdatenschutzgesetz COPPA. Die Bundesstaaten fordern in der Klage eine Strafe von bis zu 1,4 Billionen Dollar, was Meta als völlig unverhältnismäßig zurückweist; Anwälte der Bundesstaaten selbst halten rund 200 Milliarden Dollar für realistischer. Der Prozess kommt nur zwei Wochen, nachdem Meta bereits eine vergleichbare Klage in New Mexico verloren hat, und gilt als bislang größter rechtlicher Test des Konzerns in dieser Frage. Ein Urteil gegen Meta könnte erhebliche finanzielle Folgen haben und den Umgang der gesamten Branche mit jugendlichen Nutzern verändern.",
-      "quelle": "CNBC",
+      "titel": "Google kauft Datenschatz der insolventen Spirit Airlines für KI-Training",
+      "text": "Google hat laut Axios eine Insolvenz-Auktion für interne Geschäftsdaten der bankrotten Fluggesellschaft Spirit Airlines gewonnen und dafür 10 Millionen Dollar geboten. Der Konzern setzte sich gegen ein Gebot von 7,5 Millionen Dollar des KI-Datenunternehmens Mercor durch. Zum Datenpaket gehören rund 100 Millionen interne E-Mails, 500 Millionen Microsoft-Teams-Nachrichten, Kalendereinträge sowie rund 30 Millionen Zeilen Code aus Bereichen wie Marketing, Produktivität und Flugbetrieb. Google betonte, es kaufe keine Kundendaten oder Kreditkarteninformationen, die Datensätze müssten zudem vor der Übergabe anonymisiert werden. Der Deal zeigt, wie knapp öffentlich verfügbare Trainingsdaten für KI-Modelle mittlerweile geworden sind, nachdem Google, OpenAI und Anthropic einen Großteil der frei zugänglichen Text-Inhalte im Internet bereits genutzt haben. Ein Stanford-Bericht hatte kürzlich gewarnt, der KI-Branche könnten die Trainingsdaten ausgehen.",
+      "quelle": "Axios",
       "datum_artikel": "2026-08-17",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "Google soll AMD als neuen Partner für eigene KI-Chips gewinnen",
-      "text": "Laut einem Bericht des Analysehauses SemiAnalysis plant Google, für die zehnte Generation seiner eigenen KI-Chips (TPU) künftig mit AMD zusammenzuarbeiten. Es wäre AMDs erster großer Einstieg in die Entwicklung maßgeschneiderter KI-Beschleuniger für einen Hyperscaler; Google interessiert sich demnach vor allem für AMDs CPU-Kerne für rechenintensive Arbeitslasten. Weder Google noch AMD haben den Bericht offiziell bestätigt, der genaue Umfang der Zusammenarbeit ist noch unklar. Die Nachricht belastete gleichzeitig andere Chip-Werte, da SemiAnalysis im selben Bericht auch seine Produktionsprognosen für Googles aktuelle TPU-Generation und für Broadcoms Chip-Fertigung deutlich senkte. Für AMD wäre eine solche Partnerschaft ein wichtiger Schritt, um sich als Alternative zu NVIDIA im boomenden Markt für KI-Rechenzentren zu etablieren.",
-      "quelle": "SemiAnalysis",
-      "datum_artikel": "2026-08-17",
-      "unternehmen": "AMD"
+      "unternehmen": "Google"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Steigende Ölpreise wegen Nahost-Eskalation belasten Wall Street",
-      "text": "Die US-Börsen haben zum Wochenauftakt nachgegeben, nachdem steigende Ölpreise die Stimmung belastet hatten: Die Sorte WTI legte um 0,6 Prozent auf 85 Dollar je Barrel zu, die Nordseesorte Brent stieg auf über 90 Dollar. Auslöser war eine Eskalation im Nahen Osten - im Libanon kam es zum blutigsten Kampftag seit Monaten, nachdem Israel Ziele der von Teheran unterstützten Hisbollah angegriffen hatte, während Präsident Trump erklärte, kein Interesse an einer Verlängerung des auslaufenden Abkommens mit Iran zu haben. Hinzu kommen anhaltende Spannungen um die Straße von Hormus, die die Aussichten auf eine Beilegung des US-Iran-Konflikts weiter eintrüben. Anleger befürchten, dass die anhaltenden geopolitischen Spannungen die Ölversorgung gefährden und die Energiepreise dauerhaft hochhalten könnten. Die Entwicklung zeigt, wie unmittelbar geopolitische Risiken im Nahen Osten weiterhin auf die globalen Finanzmärkte durchschlagen.",
+      "titel": "US-Anleiherenditen auf 19-Jahres-Hoch reißen Chip-Aktien mit nach unten",
+      "text": "Die Rendite der 30-jährigen US-Staatsanleihe stieg am Dienstag auf rund 5,34 Prozent und damit auf den höchsten Stand seit 2007, getrieben von Sorgen über das wachsende US-Haushaltsdefizit und hartnäckige Inflation. Der Anstieg der Kreditkosten belastete besonders die zuletzt gut gelaufenen Chip-Werte: Ein breiter Halbleiter-Index verlor 5,5 Prozent, AMD brach um 8,1 Prozent ein, die Speicherchip-Hersteller Micron und SanDisk gaben mehr als 8 Prozent nach und Western Digital verlor über 11 Prozent. Hintergrund sind zunehmende Zweifel, wie die gewaltigen KI-Investitionen der Tech-Konzerne finanziert werden sollen: Kreditausfallversicherungen auf Anleihen von Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom und NVIDIA erreichten zuletzt Rekordstände. Der Nasdaq Composite fiel insgesamt um 1,3 Prozent, der Dow Jones gab 0,2 Prozent nach und der S&P 500 verlor 0,6 Prozent. Analysten verweisen zudem auf verschärfte Konkurrenz durch chinesische Chiphersteller als weiteren Belastungsfaktor. Anleger fragen sich zunehmend, ob der jahrelange KI-Investitionsboom auf einem soliden finanziellen Fundament steht.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-17"
+      "datum_artikel": "2026-08-18"
+    },
+    {
+      "titel": "Home Depot übertrifft Erwartungen trotz eingefrorenem Häusermarkt",
+      "text": "Home Depot hat am Dienstag Quartalszahlen vorgelegt, die die Erwartungen der Wall Street übertrafen. Der bereinigte Gewinn je Aktie lag bei 4,92 Dollar statt der erwarteten 4,73 Dollar, der Umsatz stieg um 5,7 Prozent auf 47,9 Milliarden Dollar. Die vergleichbaren Umsätze legten um 1,7 Prozent zu, der stärkste Anstieg seit Ende 2022, während Analysten nur ein Plus von 0,9 Prozent erwartet hatten. Der Online-Umsatz wuchs bereits das fünfte Quartal in Folge zweistellig um 11 Prozent. Das Unternehmen bestätigte seine Jahresprognose mit einem erwarteten Umsatzwachstum von 2,5 bis 4,5 Prozent. Die Zahlen gelten als Hinweis darauf, dass Hausbesitzer trotz hoher Zinsen und eines eingefrorenen Immobilienmarkts weiter in Renovierungen investieren, statt zu verkaufen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-18"
     }
   ]
 }
