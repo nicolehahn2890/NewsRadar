@@ -1,42 +1,74 @@
 {
-  "datum": "Mittwoch, 19. August 2026",
-  "generiert": "2026-08-19",
+  "datum": "Donnerstag, 20. August 2026",
+  "generiert": "2026-08-20",
   "ki_stories": [
     {
-      "titel": "OpenAI startet ChatGPT für Teenager mit Altersvorhersage",
-      "text": "OpenAI hat am Dienstag eine eigene Version von ChatGPT für Jugendliche zwischen 13 und 17 Jahren vorgestellt, die automatisch auf jugendgerechte Einstellungen umschaltet. Ein neues Alterserkennungssystem analysiert Verhaltens- und Kontosignale wie das angegebene Alter, das Kontoalter und Nutzungszeiten, um Minderjährige zu identifizieren. Die Jugendversion blockiert Gespräche zu Suizid, Selbstverletzung und romantisch-sexuellen Themen und bietet stattdessen einen Study Mode, Ruhezeiten und Erinnerungen für Pausen. Wer fälschlich als minderjährig eingestuft wird, kann per Selfie über den Dienstleister Persona die volle Version freischalten lassen. Der Schritt folgt dem wachsenden regulatorischen Druck in den USA nach mehreren Vorfällen mit Jugendlichen und einem im April vom US-Senat unterstützten Gesetzentwurf zum Kinderschutz bei Chatbots. OpenAI reagiert damit auch auf Kritik, ChatGPT dürfe für Teenager keine Freundes-Rolle einnehmen.",
+      "titel": "OpenAI verschärft Sicherheitsvorkehrungen für zahlende Nutzer",
+      "text": "OpenAI hat am 19. August angekündigt, die Sicherheitsprozesse für Kunden mit Zugriff auf seine fortschrittlichsten KI-Modelle zu verstärken. Ziel ist es, sowohl böswillige menschliche Akteure als auch fehlgeleitete KI-Agenten von Hacking-Versuchen abzuhalten. Der Schritt kommt zu einem Zeitpunkt, an dem immer mehr Kunden komplexe und sensible Aufgaben an KI-Systeme übertragen. OpenAI reagiert damit auf wachsende Sorgen um Missbrauch leistungsfähiger KI-Modelle in Unternehmensumgebungen. Die neuen Schutzmaßnahmen richten sich vor allem an zahlende Business- und Entwickler-Kunden mit Zugang zu den leistungsstärksten Modellen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-18"
+      "datum_artikel": "2026-08-19"
+    },
+    {
+      "titel": "Krypto-Börse OKX sperrt Claude-Nutzung für Mitarbeiter in Hongkong",
+      "text": "Die Kryptobörse OKX hat Mitarbeitern mit Sitz in Hongkong oder auf Reisen durch China die Nutzung von Anthropics KI-Modell Claude untersagt. Auslöser war eine kurzzeitige Sperrung des Firmenkontos von OKX bei Anthropic. Der Fall zeigt, wie geopolitische Spannungen und regulatorische Unsicherheit rund um China zunehmend Einfluss auf den Unternehmenseinsatz US-amerikanischer KI-Dienste nehmen. Zu den genauen Hintergründen der Sperrung äußerte sich Anthropic bislang nicht ausführlich. Der Vorfall dürfte weitere Finanzunternehmen mit Geschäften in China dazu bringen, ihre KI-Tool-Nutzung zu überdenken.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-19"
+    },
+    {
+      "titel": "Indisches Start-up Murf AI fordert OpenAI und ElevenLabs bei Sprach-KI heraus",
+      "text": "Das Start-up Murf AI aus Bangalore hat sein neues Text-zu-Sprache-Modell Falcon 2 vorgestellt, das ab dem 20. August öffentlich verfügbar ist. In Benchmarks der unabhängigen Plattform Artificial Analysis schnitt Falcon 2 besser ab als Systeme etablierter, besser finanzierter Anbieter wie OpenAIs Realtime API und ElevenLabs. Der Markt für synthetische, menschenähnliche Stimmen wird damit zunehmend umkämpft. Murf AI positioniert sich als kostengünstige Alternative für Unternehmen, die Sprach-KI etwa für Callcenter oder Content-Produktion einsetzen wollen. Der Vorstoß zeigt, wie stark asiatische KI-Anbieter inzwischen auch bei spezialisierten Anwendungen mit den US-Platzhirschen konkurrieren.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-19"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic überholt OpenAI erstmals beim Quartalsumsatz",
-      "text": "Laut einem Bericht des Wall Street Journal hat Anthropic im zweiten Quartal 2026 erstmals mehr Umsatz erzielt als OpenAI. Anthropic verdoppelte den Umsatz auf rund 11,6 Milliarden Dollar und erzielte dabei sogar einen kleinen operativen Gewinn. OpenAI kam im selben Zeitraum auf 6,7 Milliarden Dollar Umsatz, ein Plus von 18 Prozent gegenüber dem Vorquartal, was Investoren angesichts der bisherigen Wachstumsdynamik enttäuschte. Bereits am Freitag hatte Anthropic die absolute Umsatzzahl vor einem möglichen Börsengang gemeldet, neu ist nun der direkte Vergleich: ChatGPT wächst spürbar langsamer, während Anthropics Coding-Tool Claude Code bei Entwicklern weiter an Zugkraft gewinnt. OpenAI betont, die Wachstumsrate habe sich im laufenden Quartal nach neuen Modell-Starts im Juli wieder beschleunigt. Die Zahlen dürften die Debatte um die tatsächliche Marktführerschaft in der KI-Branche neu befeuern.",
-      "quelle": "Wall Street Journal",
+      "titel": "Anthropic gibt Amodei vor Börsengang zusätzliches Stimmrecht",
+      "text": "Anthropic plant laut einem Bericht, Firmenchef Dario Amodei im Vorfeld des geplanten Börsengangs zusätzliche Stimmrechte einzuräumen. Damit soll Amodei auch nach dem Sprung an die Börse die Kontrolle über strategische Entscheidungen behalten - ein Muster, das etwa auch Mark Zuckerberg bei Meta genutzt hat. Der Schritt erfolgt, während Anthropic parallel seine Finanzierung ausbaut: Die revolvierende Kreditlinie des Unternehmens soll die Marke von 10 Milliarden Dollar übersteigen, deutlich mehr als die 2,5 Milliarden Dollar aus dem Vorjahr. Anthropic wird für einen möglichen Börsengang im Herbst gehandelt, nachdem der Umsatz zuletzt kräftig gestiegen war. Die zusätzliche Stimmrechtsmacht für Amodei dürfte Investoren vor dem Listing genauer unter die Lupe nehmen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-08-18",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "Google kauft Datenschatz der insolventen Spirit Airlines für KI-Training",
-      "text": "Google hat laut Axios eine Insolvenz-Auktion für interne Geschäftsdaten der bankrotten Fluggesellschaft Spirit Airlines gewonnen und dafür 10 Millionen Dollar geboten. Der Konzern setzte sich gegen ein Gebot von 7,5 Millionen Dollar des KI-Datenunternehmens Mercor durch. Zum Datenpaket gehören rund 100 Millionen interne E-Mails, 500 Millionen Microsoft-Teams-Nachrichten, Kalendereinträge sowie rund 30 Millionen Zeilen Code aus Bereichen wie Marketing, Produktivität und Flugbetrieb. Google betonte, es kaufe keine Kundendaten oder Kreditkarteninformationen, die Datensätze müssten zudem vor der Übergabe anonymisiert werden. Der Deal zeigt, wie knapp öffentlich verfügbare Trainingsdaten für KI-Modelle mittlerweile geworden sind, nachdem Google, OpenAI und Anthropic einen Großteil der frei zugänglichen Text-Inhalte im Internet bereits genutzt haben. Ein Stanford-Bericht hatte kürzlich gewarnt, der KI-Branche könnten die Trainingsdaten ausgehen.",
-      "quelle": "Axios",
-      "datum_artikel": "2026-08-17",
-      "unternehmen": "Google"
+      "titel": "OpenAI-Finanzchefin Friar: Börsengang 2027 oder früher",
+      "text": "OpenAI-Finanzchefin Sarah Friar hat den Mitarbeitern bei einem internen All-Hands-Treffen am 19. August gesagt, das Unternehmen werde 2027 oder früher an die Börse gehen. Die Aussage markiert einen vorläufigen Kompromiss in einem intern kolportierten Streit zwischen Friar und CEO Sam Altman: Altman drängte zuletzt auf einen Börsengang bereits im vierten Quartal 2026, während Friar Zweifel hegte, ob OpenAI organisatorisch bereit sei und ob das Umsatzwachstum die gewaltigen Serververpflichtungen tragen kann. Altman hat OpenAI auf Computing-Ausgaben von rund 600 Milliarden Dollar bis 2030 festgelegt, während das Unternehmen bis zum Erreichen der Profitabilität voraussichtlich mehr als 200 Milliarden Dollar verbrennen wird. Ein Börsengang könnte OpenAI mit bis zu 1 Billion Dollar bewerten.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-08-19",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "China verbannt Microsoft-Windows aus Behörden vor Zeitplan",
+      "text": "China zieht den Stecker bei einer älteren, für Regierungsbehörden angepassten Version von Microsoft Windows. Das chinesische Ministerium für Staatssicherheit hat einigen staatsnahen Institutionen angewiesen, die individualisierte Windows-10-Software von ihren Rechnern zu entfernen. Damit zieht Peking den geplanten Ausstieg aus dem Betriebssystem um mehrere Monate vor. Der Schritt unterstreicht das wachsende Unbehagen der chinesischen Führung gegenüber der Abhängigkeit von zentraler US-Technologie. Für Microsoft ist es ein weiteres Signal, dass China seine digitale Souveränität gegenüber US-Software-Anbietern beschleunigt vorantreibt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-18",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "Neue Zeugenaussage belastet Meta im Jugendschutz-Prozess",
+      "text": "Im laufenden Prozess um mutmaßlich gezielte Ausnutzung junger Nutzer durch Meta hat eine frühere Mitarbeiterin, die sechs Jahre lang an Kinderschutz-Tools für Facebook und Instagram gearbeitet hatte, am 19. August vor Gericht ausgesagt. Sie berichtete, das volle Ausmaß der Gefahren für junge Nutzer erst verstanden zu haben, als ihre eigene 14-jährige Tochter ein Instagram-Konto anlegte und daraufhin Aufforderungen zu sexuellen Handlungen und intimen Fotos von Fremden erhielt. Die Aussage folgt auf die Vorwürfe vom Vortag, wonach Meta Jugendlichen gezielt süchtig machende Funktionen präsentiert haben soll, um Werbeeinnahmen zu steigern - dem Konzern drohen in dem Verfahren Strafzahlungen von bis zu 1,4 Billionen Dollar. Die Aussage der ehemaligen Insiderin dürfte die Position der klagenden Bundesstaaten zusätzlich stärken. Meta weist die Vorwürfe zurück.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-19",
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Anleiherenditen auf 19-Jahres-Hoch reißen Chip-Aktien mit nach unten",
-      "text": "Die Rendite der 30-jährigen US-Staatsanleihe stieg am Dienstag auf rund 5,34 Prozent und damit auf den höchsten Stand seit 2007, getrieben von Sorgen über das wachsende US-Haushaltsdefizit und hartnäckige Inflation. Der Anstieg der Kreditkosten belastete besonders die zuletzt gut gelaufenen Chip-Werte: Ein breiter Halbleiter-Index verlor 5,5 Prozent, AMD brach um 8,1 Prozent ein, die Speicherchip-Hersteller Micron und SanDisk gaben mehr als 8 Prozent nach und Western Digital verlor über 11 Prozent. Hintergrund sind zunehmende Zweifel, wie die gewaltigen KI-Investitionen der Tech-Konzerne finanziert werden sollen: Kreditausfallversicherungen auf Anleihen von Oracle, SpaceX, Alphabet, Amazon, Meta, Broadcom und NVIDIA erreichten zuletzt Rekordstände. Der Nasdaq Composite fiel insgesamt um 1,3 Prozent, der Dow Jones gab 0,2 Prozent nach und der S&P 500 verlor 0,6 Prozent. Analysten verweisen zudem auf verschärfte Konkurrenz durch chinesische Chiphersteller als weiteren Belastungsfaktor. Anleger fragen sich zunehmend, ob der jahrelange KI-Investitionsboom auf einem soliden finanziellen Fundament steht.",
+      "titel": "Trump pausiert 50-Prozent-Zölle gegen Kanada in letzter Minute",
+      "text": "Die US-Regierung hat die für den 19. August angedrohten 50-Prozent-Zölle auf kanadische Importe im Wert von rund 20 Milliarden Dollar in letzter Minute um drei Tage ausgesetzt. Grund ist eine vorläufige Einigung zwischen Washington und Ottawa, mit der die zuletzt stark abgekühlten Handelsbeziehungen entspannt werden sollen. Trump hatte sich zuvor auf Section 338 des Zollgesetzes von 1930 berufen und Kanada unfaire Behandlung von US-Milchprodukten, Alkohol und Autos vorgeworfen. Die Ankündigung der Zoll-Pause sorgte für Erleichterung an den Märkten, da eine eskalierende Handelsauseinandersetzung mit einem der wichtigsten US-Handelspartner zunächst abgewendet wurde. Ob die drei Tage für eine endgültige Einigung reichen, ist noch offen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-18"
+      "datum_artikel": "2026-08-19"
     },
     {
-      "titel": "Home Depot übertrifft Erwartungen trotz eingefrorenem Häusermarkt",
-      "text": "Home Depot hat am Dienstag Quartalszahlen vorgelegt, die die Erwartungen der Wall Street übertrafen. Der bereinigte Gewinn je Aktie lag bei 4,92 Dollar statt der erwarteten 4,73 Dollar, der Umsatz stieg um 5,7 Prozent auf 47,9 Milliarden Dollar. Die vergleichbaren Umsätze legten um 1,7 Prozent zu, der stärkste Anstieg seit Ende 2022, während Analysten nur ein Plus von 0,9 Prozent erwartet hatten. Der Online-Umsatz wuchs bereits das fünfte Quartal in Folge zweistellig um 11 Prozent. Das Unternehmen bestätigte seine Jahresprognose mit einem erwarteten Umsatzwachstum von 2,5 bis 4,5 Prozent. Die Zahlen gelten als Hinweis darauf, dass Hausbesitzer trotz hoher Zinsen und eines eingefrorenen Immobilienmarkts weiter in Renovierungen investieren, statt zu verkaufen.",
+      "titel": "Wall Street erholt sich nach Ankündigung von Anleihenrückkäufen",
+      "text": "Nach einem heftigen Kursrutsch bei Tech-Werten hat sich die Wall Street am 19. August erholt, nachdem das US-Finanzministerium angekündigt hatte, die Rückkäufe langlaufender Staatsanleihen deutlich auszuweiten. Die Rendite der 30-jährigen Anleihe fiel daraufhin um rund 10 Basispunkte auf 5,18 Prozent, nachdem sie zuvor ein Mehrjahrzehnte-Hoch erreicht hatte. Der Dow Jones legte um 0,25 Prozent zu, der S&P 500 um 0,43 Prozent und der Nasdaq um 0,40 Prozent, während der Dollar auf ein Dreimonatstief fiel. Besonders der Gesundheitssektor trieb den S&P 500 mit einem Plus von 2,9 Prozent auf ein Rekordhoch, während Chip-Aktien erneut unter Druck blieben. Das Finanzministerium signalisiert mit dem Schritt, dass es die Finanzierungskosten des Staates angesichts der zuletzt stark gestiegenen Renditen senken will.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-18"
+      "datum_artikel": "2026-08-19"
+    },
+    {
+      "titel": "Moderna und Merck schießen nach positiven Melanom-Studiendaten hoch",
+      "text": "Die Aktien von Moderna sind am 19. August um bis zu 177 Prozent gestiegen, nachdem eine gemeinsame Phase-3-Studie mit Merck gezeigt hatte, dass ihr Kombinationspräparat aus personalisiertem mRNA-Krebsimpfstoff und Immuntherapie Keytruda das Wiederauftreten von Hautkrebs (Melanom) deutlich reduziert. Die Behandlung senkte das Risiko eines Rückfalls oder Todes um 49 Prozent gegenüber Keytruda allein. Merck-Aktien legten rund 10,6 Prozent zu. Es ist das erste positive Spätphasen-Ergebnis für einen mRNA-Krebsimpfstoff überhaupt und ein dringend benötigter positiver Impuls für Moderna nach einer schwierigen Phase seit dem Ende der Corona-Impfstoff-Nachfrage. Leerverkäufer verloren durch die Kursrally an einem einzigen Tag schätzungsweise 5,5 Milliarden Dollar.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-19"
     }
   ]
 }
