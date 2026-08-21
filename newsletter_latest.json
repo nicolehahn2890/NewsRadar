@@ -1,72 +1,65 @@
 {
-  "datum": "Donnerstag, 20. August 2026",
-  "generiert": "2026-08-20",
+  "datum": "Freitag, 21. August 2026",
+  "generiert": "2026-08-21",
   "ki_stories": [
     {
-      "titel": "OpenAI verschärft Sicherheitsvorkehrungen für zahlende Nutzer",
-      "text": "OpenAI hat am 19. August angekündigt, die Sicherheitsprozesse für Kunden mit Zugriff auf seine fortschrittlichsten KI-Modelle zu verstärken. Ziel ist es, sowohl böswillige menschliche Akteure als auch fehlgeleitete KI-Agenten von Hacking-Versuchen abzuhalten. Der Schritt kommt zu einem Zeitpunkt, an dem immer mehr Kunden komplexe und sensible Aufgaben an KI-Systeme übertragen. OpenAI reagiert damit auf wachsende Sorgen um Missbrauch leistungsfähiger KI-Modelle in Unternehmensumgebungen. Die neuen Schutzmaßnahmen richten sich vor allem an zahlende Business- und Entwickler-Kunden mit Zugang zu den leistungsstärksten Modellen.",
+      "titel": "Chinesische KI-Modelle holen im Tempo zu OpenAI und Anthropic auf",
+      "text": "Die chinesischen KI-Anbieter Moonshot mit seinem Modell Kimi K3 und Z.ai nähern sich laut Bloomberg in ihrer Modellleistung immer schneller den Spitzenmodellen von OpenAI und Anthropic an. Das gilt als bemerkenswert, weil chinesische Entwickler deutlich weniger Kapital und kaum Zugang zu den neuesten NVIDIA-Chips haben als ihre US-Konkurrenz. Analysten werten das als Warnsignal für die US-Marktführer, deren technologischer Vorsprung dadurch schrumpft. Für OpenAI und Anthropic erhöht das den Druck, ihre laufenden milliardenschweren Investitionsrunden und geplanten Börsengänge mit einem klaren technologischen Vorsprung zu rechtfertigen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-19"
+      "datum_artikel": "2026-08-20"
     },
     {
-      "titel": "Krypto-Börse OKX sperrt Claude-Nutzung für Mitarbeiter in Hongkong",
-      "text": "Die Kryptobörse OKX hat Mitarbeitern mit Sitz in Hongkong oder auf Reisen durch China die Nutzung von Anthropics KI-Modell Claude untersagt. Auslöser war eine kurzzeitige Sperrung des Firmenkontos von OKX bei Anthropic. Der Fall zeigt, wie geopolitische Spannungen und regulatorische Unsicherheit rund um China zunehmend Einfluss auf den Unternehmenseinsatz US-amerikanischer KI-Dienste nehmen. Zu den genauen Hintergründen der Sperrung äußerte sich Anthropic bislang nicht ausführlich. Der Vorfall dürfte weitere Finanzunternehmen mit Geschäften in China dazu bringen, ihre KI-Tool-Nutzung zu überdenken.",
+      "titel": "Anthropic lockert Datenspeicherpflicht für Firmenkunden nach Kritik",
+      "text": "Anthropic plant laut Bloomberg, seine im Juni eingeführte Pflicht zur 30-tägigen Datenspeicherung bei den leistungsstärksten Claude-Modellen zu lockern. Firmenkunden sollen die Daten künftig wahlweise auf der eigenen statt auf Anthropics Cloud-Infrastruktur speichern können. Das neue Sicherheitssystem soll noch in diesem Jahr eingeführt werden, an der Ausarbeitung waren mehr als 100 Kunden beteiligt, darunter Salesforce. Anthropic räumt selbst ein, die ursprüngliche Regel sei bei Kunden unbeliebt gewesen, die von Anbietern eine Null-Speicherung gewohnt waren. Konkurrent OpenAI kündigte am selben Tag ein eigenes Verfahren namens private safety processing an, mit dem Kundendaten künftig gar nicht erst dauerhaft gespeichert werden sollen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-19"
+      "datum_artikel": "2026-08-20"
     },
     {
-      "titel": "Indisches Start-up Murf AI fordert OpenAI und ElevenLabs bei Sprach-KI heraus",
-      "text": "Das Start-up Murf AI aus Bangalore hat sein neues Text-zu-Sprache-Modell Falcon 2 vorgestellt, das ab dem 20. August öffentlich verfügbar ist. In Benchmarks der unabhängigen Plattform Artificial Analysis schnitt Falcon 2 besser ab als Systeme etablierter, besser finanzierter Anbieter wie OpenAIs Realtime API und ElevenLabs. Der Markt für synthetische, menschenähnliche Stimmen wird damit zunehmend umkämpft. Murf AI positioniert sich als kostengünstige Alternative für Unternehmen, die Sprach-KI etwa für Callcenter oder Content-Produktion einsetzen wollen. Der Vorstoß zeigt, wie stark asiatische KI-Anbieter inzwischen auch bei spezialisierten Anwendungen mit den US-Platzhirschen konkurrieren.",
+      "titel": "OpenAI und Meta suchen Hilfe im Kampf gegen Widerstand gegen Rechenzentren",
+      "text": "OpenAI und Meta bauen laut Bloomberg gezielt Teams und Kommunikationsstrategien auf, um dem wachsenden lokalen Widerstand gegen den Bau neuer KI-Rechenzentren in den USA zu begegnen. Anwohner protestieren zunehmend gegen den hohen Strom- und Wasserverbrauch sowie steigende Grundstückspreise, die mit den Großprojekten einhergehen. Beide Unternehmen versuchen, mit Investitionen in lokale Infrastruktur und gezielter Öffentlichkeitsarbeit Zustimmung zu sichern, um ihre milliardenschweren Ausbaupläne nicht zu gefährden. Der Vorgang zeigt, wie sehr der KI-Boom inzwischen an handfeste politische Widerstände vor Ort stößt und wie sehr die Branche das Thema als Reputationsrisiko einstuft.",
       "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-20"
+    },
+    {
+      "titel": "Meta bringt eigene KI-App für den Mac mit Bildschirmfreigabe",
+      "text": "Meta hat am 19. August eine eigenständige Meta-AI-App für macOS als Beta-Version veröffentlicht, die sich vor allem an Selbstständige und kleine Unternehmen richtet. Die App kann per Bildschirmfreigabe erkennen, was gerade auf dem Mac-Bildschirm passiert, und darauf basierend Fragen beantworten oder Vorschläge liefern. Zusätzlich bietet sie systemweite Spracheingabe für beliebige Anwendungen sowie Anbindungen an Facebook, Instagram und Google Workspace. Die App läuft nativ auf Apple-Silicon-Rechnern mit macOS 15 oder neuer und ist mit rund 16 Megabyte sehr klein. Meta positioniert sich damit stärker im Wettbewerb um KI-gestützte Business-Werkzeuge gegen OpenAI und Google.",
+      "quelle": "Axios",
       "datum_artikel": "2026-08-19"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic gibt Amodei vor Börsengang zusätzliches Stimmrecht",
-      "text": "Anthropic plant laut einem Bericht, Firmenchef Dario Amodei im Vorfeld des geplanten Börsengangs zusätzliche Stimmrechte einzuräumen. Damit soll Amodei auch nach dem Sprung an die Börse die Kontrolle über strategische Entscheidungen behalten - ein Muster, das etwa auch Mark Zuckerberg bei Meta genutzt hat. Der Schritt erfolgt, während Anthropic parallel seine Finanzierung ausbaut: Die revolvierende Kreditlinie des Unternehmens soll die Marke von 10 Milliarden Dollar übersteigen, deutlich mehr als die 2,5 Milliarden Dollar aus dem Vorjahr. Anthropic wird für einen möglichen Börsengang im Herbst gehandelt, nachdem der Umsatz zuletzt kräftig gestiegen war. Die zusätzliche Stimmrechtsmacht für Amodei dürfte Investoren vor dem Listing genauer unter die Lupe nehmen.",
+      "titel": "Anthropic peilt Börsengang in Rekordhöhe von SpaceX an",
+      "text": "Anthropic will laut Bloomberg bei seinem geplanten Börsengang die Rekordsumme von SpaceX erreichen oder übertreffen, die bei rund 86,2 Milliarden Dollar liegt. Das Unternehmen bereitet sich darauf vor, noch bis Ende August den öffentlichen Börsenprospekt einzureichen, begleitet von Morgan Stanley, Goldman Sachs und JPMorgan Chase. Anthropic erzielt inzwischen einen Jahresumsatz von mehr als 65 Milliarden Dollar, mehr als das Siebenfache des Niveaus vom Jahresende. Ein Rekord-Börsengang würde 2026 zum bislang umsatzstärksten IPO-Jahr in den USA machen, bereits jetzt haben Neuemissionen 2026 rund 160,6 Milliarden Dollar eingebracht, nahe am bisherigen Rekordjahr 2021 mit 195,2 Milliarden Dollar.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-18",
+      "datum_artikel": "2026-08-20",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "OpenAI-Finanzchefin Friar: Börsengang 2027 oder früher",
-      "text": "OpenAI-Finanzchefin Sarah Friar hat den Mitarbeitern bei einem internen All-Hands-Treffen am 19. August gesagt, das Unternehmen werde 2027 oder früher an die Börse gehen. Die Aussage markiert einen vorläufigen Kompromiss in einem intern kolportierten Streit zwischen Friar und CEO Sam Altman: Altman drängte zuletzt auf einen Börsengang bereits im vierten Quartal 2026, während Friar Zweifel hegte, ob OpenAI organisatorisch bereit sei und ob das Umsatzwachstum die gewaltigen Serververpflichtungen tragen kann. Altman hat OpenAI auf Computing-Ausgaben von rund 600 Milliarden Dollar bis 2030 festgelegt, während das Unternehmen bis zum Erreichen der Profitabilität voraussichtlich mehr als 200 Milliarden Dollar verbrennen wird. Ein Börsengang könnte OpenAI mit bis zu 1 Billion Dollar bewerten.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-08-19",
+      "titel": "ChatGPT kann jetzt iMessage steuern, Datenschützer alarmiert",
+      "text": "OpenAI hat ChatGPT um die Fähigkeit erweitert, auf dem Mac Nachrichten in Apples iMessage-Dienst zu lesen, zu schreiben und zu versenden. Nutzer können die Funktion freischalten, um etwa Nachrichten per KI beantworten oder zusammenfassen zu lassen. Laut Bloomberg wirft der Zugriff einer Dritt-App auf einen eigentlich verschlüsselten Apple-Dienst neue Fragen zum Datenschutz auf, da OpenAI dadurch potenziell Einblick in private Konversationen erhält. Die Funktion ist Teil von OpenAIs Strategie, ChatGPT tiefer in den Alltag der Nutzer und in bestehende Apple-Dienste einzubinden. Kritiker fordern von Apple und OpenAI mehr Transparenz darüber, welche Daten dabei verarbeitet werden.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-20",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "China verbannt Microsoft-Windows aus Behörden vor Zeitplan",
-      "text": "China zieht den Stecker bei einer älteren, für Regierungsbehörden angepassten Version von Microsoft Windows. Das chinesische Ministerium für Staatssicherheit hat einigen staatsnahen Institutionen angewiesen, die individualisierte Windows-10-Software von ihren Rechnern zu entfernen. Damit zieht Peking den geplanten Ausstieg aus dem Betriebssystem um mehrere Monate vor. Der Schritt unterstreicht das wachsende Unbehagen der chinesischen Führung gegenüber der Abhängigkeit von zentraler US-Technologie. Für Microsoft ist es ein weiteres Signal, dass China seine digitale Souveränität gegenüber US-Software-Anbietern beschleunigt vorantreibt.",
+      "titel": "Broadcom will über 60 Milliarden Dollar für KI-Chip-Finanzierung aufnehmen",
+      "text": "Broadcom verhandelt laut Bloomberg mit einer Gruppe von Kreditgebern über eine Fremdfinanzierung von mehr als 60 Milliarden Dollar für den Bau und Verkauf von KI-Chips. Von dem Deal sollen unter anderem Anthropic und weitere große KI-Kunden profitieren, die auf Broadcoms kundenspezifische Chips für ihre Rechenzentren angewiesen sind. Die Finanzierung reiht sich ein in eine Welle ähnlicher Milliarden-Deals von NVIDIA und AMD, mit denen die Chipbranche den enormen Kapitalbedarf des KI-Baus stemmen will. Anleger beobachten diese wachsende Schuldenlast der Branche zunehmend kritisch, da sie das Risiko im Fall einer Abkühlung des KI-Booms erhöht.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-18",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Neue Zeugenaussage belastet Meta im Jugendschutz-Prozess",
-      "text": "Im laufenden Prozess um mutmaßlich gezielte Ausnutzung junger Nutzer durch Meta hat eine frühere Mitarbeiterin, die sechs Jahre lang an Kinderschutz-Tools für Facebook und Instagram gearbeitet hatte, am 19. August vor Gericht ausgesagt. Sie berichtete, das volle Ausmaß der Gefahren für junge Nutzer erst verstanden zu haben, als ihre eigene 14-jährige Tochter ein Instagram-Konto anlegte und daraufhin Aufforderungen zu sexuellen Handlungen und intimen Fotos von Fremden erhielt. Die Aussage folgt auf die Vorwürfe vom Vortag, wonach Meta Jugendlichen gezielt süchtig machende Funktionen präsentiert haben soll, um Werbeeinnahmen zu steigern - dem Konzern drohen in dem Verfahren Strafzahlungen von bis zu 1,4 Billionen Dollar. Die Aussage der ehemaligen Insiderin dürfte die Position der klagenden Bundesstaaten zusätzlich stärken. Meta weist die Vorwürfe zurück.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-19",
-      "unternehmen": "Meta"
+      "datum_artikel": "2026-08-20",
+      "unternehmen": "Broadcom"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Trump pausiert 50-Prozent-Zölle gegen Kanada in letzter Minute",
-      "text": "Die US-Regierung hat die für den 19. August angedrohten 50-Prozent-Zölle auf kanadische Importe im Wert von rund 20 Milliarden Dollar in letzter Minute um drei Tage ausgesetzt. Grund ist eine vorläufige Einigung zwischen Washington und Ottawa, mit der die zuletzt stark abgekühlten Handelsbeziehungen entspannt werden sollen. Trump hatte sich zuvor auf Section 338 des Zollgesetzes von 1930 berufen und Kanada unfaire Behandlung von US-Milchprodukten, Alkohol und Autos vorgeworfen. Die Ankündigung der Zoll-Pause sorgte für Erleichterung an den Märkten, da eine eskalierende Handelsauseinandersetzung mit einem der wichtigsten US-Handelspartner zunächst abgewendet wurde. Ob die drei Tage für eine endgültige Einigung reichen, ist noch offen.",
+      "titel": "Walmart-Aktie stürzt trotz Gewinnübertreffung um fast 9 Prozent ab",
+      "text": "Walmart übertraf am 20. August mit einem Gewinn von 0,81 Dollar je Aktie und einem Umsatz von 187,9 Milliarden Dollar die Erwartungen der Wall Street von 0,74 Dollar und 186,75 Milliarden Dollar. Trotzdem brach die Aktie um rund 8,9 Prozent ein, weil das US-Vergleichsumsatzwachstum mit 2,6 Prozent deutlich unter der erwarteten Marke von 3,8 Prozent lag. Zusätzlich enttäuschte der Ausblick für das dritte Quartal mit einer Gewinnprognose von 0,62 bis 0,64 Dollar je Aktie, was auf eine Abflachung des Gewinnwachstums hindeutet. Das Management kündigte zudem gezielte Preissenkungen an, um Marktanteile zu verteidigen, was kurzfristig auf die Profitabilität drücken dürfte. Der Kurseinbruch zeigt, wie empfindlich die Börse trotz solider Zahlen auf Anzeichen einer Konsumabschwächung reagiert.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-19"
+      "datum_artikel": "2026-08-20"
     },
     {
-      "titel": "Wall Street erholt sich nach Ankündigung von Anleihenrückkäufen",
-      "text": "Nach einem heftigen Kursrutsch bei Tech-Werten hat sich die Wall Street am 19. August erholt, nachdem das US-Finanzministerium angekündigt hatte, die Rückkäufe langlaufender Staatsanleihen deutlich auszuweiten. Die Rendite der 30-jährigen Anleihe fiel daraufhin um rund 10 Basispunkte auf 5,18 Prozent, nachdem sie zuvor ein Mehrjahrzehnte-Hoch erreicht hatte. Der Dow Jones legte um 0,25 Prozent zu, der S&P 500 um 0,43 Prozent und der Nasdaq um 0,40 Prozent, während der Dollar auf ein Dreimonatstief fiel. Besonders der Gesundheitssektor trieb den S&P 500 mit einem Plus von 2,9 Prozent auf ein Rekordhoch, während Chip-Aktien erneut unter Druck blieben. Das Finanzministerium signalisiert mit dem Schritt, dass es die Finanzierungskosten des Staates angesichts der zuletzt stark gestiegenen Renditen senken will.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-19"
-    },
-    {
-      "titel": "Moderna und Merck schießen nach positiven Melanom-Studiendaten hoch",
-      "text": "Die Aktien von Moderna sind am 19. August um bis zu 177 Prozent gestiegen, nachdem eine gemeinsame Phase-3-Studie mit Merck gezeigt hatte, dass ihr Kombinationspräparat aus personalisiertem mRNA-Krebsimpfstoff und Immuntherapie Keytruda das Wiederauftreten von Hautkrebs (Melanom) deutlich reduziert. Die Behandlung senkte das Risiko eines Rückfalls oder Todes um 49 Prozent gegenüber Keytruda allein. Merck-Aktien legten rund 10,6 Prozent zu. Es ist das erste positive Spätphasen-Ergebnis für einen mRNA-Krebsimpfstoff überhaupt und ein dringend benötigter positiver Impuls für Moderna nach einer schwierigen Phase seit dem Ende der Corona-Impfstoff-Nachfrage. Leerverkäufer verloren durch die Kursrally an einem einzigen Tag schätzungsweise 5,5 Milliarden Dollar.",
+      "titel": "Unitree-Aktie schießt bei Börsendebüt in Shanghai um bis zu 629 Prozent hoch",
+      "text": "Die Aktie des humanoiden Roboterherstellers Unitree Robotics aus Hangzhou legte an ihrem ersten Handelstag am 19. August in Shanghai zeitweise um bis zu 629 Prozent auf 1.100 Yuan zu, ausgehend vom Ausgabepreis von 150,8 Yuan. Das Unternehmen hatte bei seinem Börsengang umgerechnet rund 904 Millionen Dollar eingesammelt und ist damit der erste börsennotierte Hersteller humanoider Roboter auf dem chinesischen Festland. Der Schlusskurs entsprach einer Marktbewertung von rund 342 Milliarden Yuan, umgerechnet knapp 48 Milliarden Dollar, und übertraf damit viele zuvor gelistete chinesische Technologiewerte. Die Privatanleger-Tranche des Börsengangs war mehr als 5.500-fach überzeichnet, was das enorme Anlegerinteresse an humanoider Robotik unterstreicht. Der Höhenflug zeigt, wie stark der KI- und Robotik-Boom inzwischen auch die chinesischen Kapitalmärkte antreibt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-08-19"
     }
