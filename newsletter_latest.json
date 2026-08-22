@@ -1,67 +1,47 @@
 {
-  "datum": "Freitag, 21. August 2026",
-  "generiert": "2026-08-21",
+  "datum": "Samstag, 22. August 2026",
+  "generiert": "2026-08-22",
   "ki_stories": [
     {
-      "titel": "Chinesische KI-Modelle holen im Tempo zu OpenAI und Anthropic auf",
-      "text": "Die chinesischen KI-Anbieter Moonshot mit seinem Modell Kimi K3 und Z.ai nähern sich laut Bloomberg in ihrer Modellleistung immer schneller den Spitzenmodellen von OpenAI und Anthropic an. Das gilt als bemerkenswert, weil chinesische Entwickler deutlich weniger Kapital und kaum Zugang zu den neuesten NVIDIA-Chips haben als ihre US-Konkurrenz. Analysten werten das als Warnsignal für die US-Marktführer, deren technologischer Vorsprung dadurch schrumpft. Für OpenAI und Anthropic erhöht das den Druck, ihre laufenden milliardenschweren Investitionsrunden und geplanten Börsengänge mit einem klaren technologischen Vorsprung zu rechtfertigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-20"
-    },
-    {
-      "titel": "Anthropic lockert Datenspeicherpflicht für Firmenkunden nach Kritik",
-      "text": "Anthropic plant laut Bloomberg, seine im Juni eingeführte Pflicht zur 30-tägigen Datenspeicherung bei den leistungsstärksten Claude-Modellen zu lockern. Firmenkunden sollen die Daten künftig wahlweise auf der eigenen statt auf Anthropics Cloud-Infrastruktur speichern können. Das neue Sicherheitssystem soll noch in diesem Jahr eingeführt werden, an der Ausarbeitung waren mehr als 100 Kunden beteiligt, darunter Salesforce. Anthropic räumt selbst ein, die ursprüngliche Regel sei bei Kunden unbeliebt gewesen, die von Anbietern eine Null-Speicherung gewohnt waren. Konkurrent OpenAI kündigte am selben Tag ein eigenes Verfahren namens private safety processing an, mit dem Kundendaten künftig gar nicht erst dauerhaft gespeichert werden sollen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-20"
-    },
-    {
-      "titel": "OpenAI und Meta suchen Hilfe im Kampf gegen Widerstand gegen Rechenzentren",
-      "text": "OpenAI und Meta bauen laut Bloomberg gezielt Teams und Kommunikationsstrategien auf, um dem wachsenden lokalen Widerstand gegen den Bau neuer KI-Rechenzentren in den USA zu begegnen. Anwohner protestieren zunehmend gegen den hohen Strom- und Wasserverbrauch sowie steigende Grundstückspreise, die mit den Großprojekten einhergehen. Beide Unternehmen versuchen, mit Investitionen in lokale Infrastruktur und gezielter Öffentlichkeitsarbeit Zustimmung zu sichern, um ihre milliardenschweren Ausbaupläne nicht zu gefährden. Der Vorgang zeigt, wie sehr der KI-Boom inzwischen an handfeste politische Widerstände vor Ort stößt und wie sehr die Branche das Thema als Reputationsrisiko einstuft.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-20"
-    },
-    {
-      "titel": "Meta bringt eigene KI-App für den Mac mit Bildschirmfreigabe",
-      "text": "Meta hat am 19. August eine eigenständige Meta-AI-App für macOS als Beta-Version veröffentlicht, die sich vor allem an Selbstständige und kleine Unternehmen richtet. Die App kann per Bildschirmfreigabe erkennen, was gerade auf dem Mac-Bildschirm passiert, und darauf basierend Fragen beantworten oder Vorschläge liefern. Zusätzlich bietet sie systemweite Spracheingabe für beliebige Anwendungen sowie Anbindungen an Facebook, Instagram und Google Workspace. Die App läuft nativ auf Apple-Silicon-Rechnern mit macOS 15 oder neuer und ist mit rund 16 Megabyte sehr klein. Meta positioniert sich damit stärker im Wettbewerb um KI-gestützte Business-Werkzeuge gegen OpenAI und Google.",
-      "quelle": "Axios",
-      "datum_artikel": "2026-08-19"
+      "titel": "DeepSeek zeigt neues Modell, das nah an Anthropics Opus 4.8 herankommt",
+      "text": "Das chinesische KI-Unternehmen DeepSeek hat am 21. August ein experimentelles multimodales Modell namens V4-Flash-Vision-Exp vorgestellt, das erstmals auch Bilder und Screenshots verarbeiten kann. Bei mehreren Agenten-Benchmarks kommt das neue Modell nah an die Leistung von Anthropics fortschrittlichstem Modell Claude Opus 4.8 heran und gewinnt laut DeepSeeks eigenen Angaben drei von elf Vergleichstests, liegt bei der schwierigsten Aufgabe aber rund zwölf Punkte zurück. Bei reinen Textaufgaben wie Reasoning und Weltwissen bleibt die Leistung auf dem Niveau des bisherigen Modells DeepSeek-V4-Flash. Verfügbar ist das neue Modell zunächst nur über DeepSeeks kostenpflichtige Entwicklerplattform, eine kostenlose Version könnte laut Unternehmen später folgen. Die Ankündigung zeigt, wie schnell chinesische Anbieter bei multimodalen KI-Fähigkeiten zu den führenden US-Modellen aufholen, und dürfte den Preisdruck auf westliche Anbieter weiter erhöhen."
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic peilt Börsengang in Rekordhöhe von SpaceX an",
-      "text": "Anthropic will laut Bloomberg bei seinem geplanten Börsengang die Rekordsumme von SpaceX erreichen oder übertreffen, die bei rund 86,2 Milliarden Dollar liegt. Das Unternehmen bereitet sich darauf vor, noch bis Ende August den öffentlichen Börsenprospekt einzureichen, begleitet von Morgan Stanley, Goldman Sachs und JPMorgan Chase. Anthropic erzielt inzwischen einen Jahresumsatz von mehr als 65 Milliarden Dollar, mehr als das Siebenfache des Niveaus vom Jahresende. Ein Rekord-Börsengang würde 2026 zum bislang umsatzstärksten IPO-Jahr in den USA machen, bereits jetzt haben Neuemissionen 2026 rund 160,6 Milliarden Dollar eingebracht, nahe am bisherigen Rekordjahr 2021 mit 195,2 Milliarden Dollar.",
+      "titel": "Anthropic holt sich Googles Ex-Chipchef für eigenen Hardware-Vorstoß",
+      "text": "Anthropic hat Amir Salek eingestellt, der bei Google jahrelang das Programm für die hauseigenen Tensor Processing Units (TPU) geleitet hatte. Salek verantwortete bei Google bis 2022 die ersten sieben Generationen dieser KI-Chips und soll bei Anthropic nun den Aufbau einer eigenen Halbleiter-Sparte vorantreiben. Der Schritt deutet darauf hin, dass sich Anthropic langfristig unabhängiger von externen Chip-Lieferanten wie NVIDIA machen will. Zeitgleich bereitet Anthropic einen möglichen Börsengang in Rekordhöhe vor, der laut Insidern sogar den von SpaceX übertreffen könnte; die Jahresumsatz-Rate lag Ende Juli bei rund 65 Milliarden Dollar. Eigene Chips könnten Anthropic helfen, die enormen Rechenkosten für Training und Betrieb der Claude-Modelle mittelfristig zu senken und die eigene Marge zu verbessern.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-20",
+      "datum_artikel": "2026-08-21",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "ChatGPT kann jetzt iMessage steuern, Datenschützer alarmiert",
-      "text": "OpenAI hat ChatGPT um die Fähigkeit erweitert, auf dem Mac Nachrichten in Apples iMessage-Dienst zu lesen, zu schreiben und zu versenden. Nutzer können die Funktion freischalten, um etwa Nachrichten per KI beantworten oder zusammenfassen zu lassen. Laut Bloomberg wirft der Zugriff einer Dritt-App auf einen eigentlich verschlüsselten Apple-Dienst neue Fragen zum Datenschutz auf, da OpenAI dadurch potenziell Einblick in private Konversationen erhält. Die Funktion ist Teil von OpenAIs Strategie, ChatGPT tiefer in den Alltag der Nutzer und in bestehende Apple-Dienste einzubinden. Kritiker fordern von Apple und OpenAI mehr Transparenz darüber, welche Daten dabei verarbeitet werden.",
+      "titel": "Meta zahlt Microsoft Hunderte Millionen Dollar für KI-Zugriff über Azure",
+      "text": "Meta ist einem Bloomberg-Bericht zufolge zu einem der größten KI-Kunden von Microsoft geworden und zahlt jährlich Hunderte Millionen Dollar, um über die Cloud-Plattform Azure Zugriff auf zusätzliche KI-Rechenkapazität und Modelle zu erhalten. Bemerkenswert ist der Deal, weil Meta parallel selbst Milliardenbeträge in eigene KI-Rechenzentren und die Llama-Modellreihe steckt, aber offenbar zusätzliche externe Kapazität braucht, um mit der Nachfrage Schritt zu halten. Die Nachricht befeuert erneut Sorgen vor zirkulären Geschäftsbeziehungen in der KI-Branche, bei denen sich Tech-Konzerne gegenseitig als Kunden und Investoren dienen. Für Microsoft ist der Deal ein weiteres Zeichen dafür, dass die Nachfrage nach KI-Rechenleistung über Azure trotz hoher Investitionskosten robust bleibt. Analysten werten die wachsende Abhängigkeit großer Konzerne von direkten Konkurrenten als mögliches Risiko, sollte sich die KI-Nachfrage einmal abschwächen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-08-20",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Meta"
     },
     {
-      "titel": "Broadcom will über 60 Milliarden Dollar für KI-Chip-Finanzierung aufnehmen",
-      "text": "Broadcom verhandelt laut Bloomberg mit einer Gruppe von Kreditgebern über eine Fremdfinanzierung von mehr als 60 Milliarden Dollar für den Bau und Verkauf von KI-Chips. Von dem Deal sollen unter anderem Anthropic und weitere große KI-Kunden profitieren, die auf Broadcoms kundenspezifische Chips für ihre Rechenzentren angewiesen sind. Die Finanzierung reiht sich ein in eine Welle ähnlicher Milliarden-Deals von NVIDIA und AMD, mit denen die Chipbranche den enormen Kapitalbedarf des KI-Baus stemmen will. Anleger beobachten diese wachsende Schuldenlast der Branche zunehmend kritisch, da sie das Risiko im Fall einer Abkühlung des KI-Booms erhöht.",
+      "titel": "NVIDIA zahlt 6 Milliarden Dollar für KI-Lizenz und Team von Start-up Poolside",
+      "text": "NVIDIA hat sich bereit erklärt, dem KI-Start-up Poolside rund 6 Milliarden Dollar für eine Lizenz an dessen KI-Modellen für Softwareentwicklung zu zahlen. Im Zuge der Vereinbarung will NVIDIA zudem mehr als 100 Poolside-Mitarbeitern Jobangebote machen, was faktisch einer teilweisen Übernahme durch gezielte Abwerbung gleichkommt. Poolside galt bislang als vielversprechender, aber wenig bekannter Rivale von Anthropics Claude Code und OpenAIs Codex im Bereich KI-gestützter Programmierwerkzeuge. Für NVIDIA reiht sich der Deal in eine Serie milliardenschwerer Investitionen und Lizenzabkommen mit KI-Firmen ein, mit denen der Chipkonzern seine Position im gesamten KI-Ökosystem absichert. Kritiker sehen darin allerdings ein weiteres Beispiel für die zirkuläre Finanzierung in der Branche, bei der NVIDIA gleichzeitig als Investor, Zulieferer und nun auch als Lizenznehmer auftritt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-08-20",
-      "unternehmen": "Broadcom"
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Walmart-Aktie stürzt trotz Gewinnübertreffung um fast 9 Prozent ab",
-      "text": "Walmart übertraf am 20. August mit einem Gewinn von 0,81 Dollar je Aktie und einem Umsatz von 187,9 Milliarden Dollar die Erwartungen der Wall Street von 0,74 Dollar und 186,75 Milliarden Dollar. Trotzdem brach die Aktie um rund 8,9 Prozent ein, weil das US-Vergleichsumsatzwachstum mit 2,6 Prozent deutlich unter der erwarteten Marke von 3,8 Prozent lag. Zusätzlich enttäuschte der Ausblick für das dritte Quartal mit einer Gewinnprognose von 0,62 bis 0,64 Dollar je Aktie, was auf eine Abflachung des Gewinnwachstums hindeutet. Das Management kündigte zudem gezielte Preissenkungen an, um Marktanteile zu verteidigen, was kurzfristig auf die Profitabilität drücken dürfte. Der Kurseinbruch zeigt, wie empfindlich die Börse trotz solider Zahlen auf Anzeichen einer Konsumabschwächung reagiert.",
-      "quelle": "Bloomberg",
+      "titel": "Tesla-Aktie legt zu nach Robotaxi-Zulassung für Las Vegas",
+      "text": "Die Verkehrsbehörde des US-Bundesstaats Nevada hat Tesla die Genehmigung erteilt, im gesamten Clark County, zu dem auch Las Vegas gehört, mit fahrerlosen Fahrzeugen zahlende Passagiere zu befördern. Im ersten Jahr darf Tesla dort eine Flotte von bis zu 5.000 vollautonomen Fahrzeugen betreiben; zusammen mit den ebenfalls zugelassenen Anbietern Uber und Waymo könnten in der Region künftig bis zu 8.000 Robotaxis unterwegs sein. Die neue Genehmigung ersetzt eine vorherige Übergangserlaubnis, die Tesla auf gerade einmal 10 Fahrzeuge beschränkt hatte. Tesla bereitet parallel in Austin den öffentlichen Start seines lenkradlosen Cybercab vor, das vollständig auf das Full-Self-Driving-System angewiesen ist und zunächst von eigenen Mitarbeitern getestet wird. Anleger werteten die Nevada-Zulassung als Bestätigung, dass Teslas Wette auf autonomes Fahren regulatorisch vorankommt, und die Aktie legte am 21. August spürbar zu.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-08-20"
     },
     {
-      "titel": "Unitree-Aktie schießt bei Börsendebüt in Shanghai um bis zu 629 Prozent hoch",
-      "text": "Die Aktie des humanoiden Roboterherstellers Unitree Robotics aus Hangzhou legte an ihrem ersten Handelstag am 19. August in Shanghai zeitweise um bis zu 629 Prozent auf 1.100 Yuan zu, ausgehend vom Ausgabepreis von 150,8 Yuan. Das Unternehmen hatte bei seinem Börsengang umgerechnet rund 904 Millionen Dollar eingesammelt und ist damit der erste börsennotierte Hersteller humanoider Roboter auf dem chinesischen Festland. Der Schlusskurs entsprach einer Marktbewertung von rund 342 Milliarden Yuan, umgerechnet knapp 48 Milliarden Dollar, und übertraf damit viele zuvor gelistete chinesische Technologiewerte. Die Privatanleger-Tranche des Börsengangs war mehr als 5.500-fach überzeichnet, was das enorme Anlegerinteresse an humanoider Robotik unterstreicht. Der Höhenflug zeigt, wie stark der KI- und Robotik-Boom inzwischen auch die chinesischen Kapitalmärkte antreibt.",
+      "titel": "USA und Kanada ringen bis zur letzten Minute um Zoll-Deal",
+      "text": "Die von Donald Trump angedrohten 50-prozentigen Strafzölle auf kanadische Waren im Wert von rund 20 Milliarden Dollar sollten eigentlich schon am 19. August in Kraft treten, wurden aber um drei Tage bis zur Nacht auf den 22. August verschoben, nachdem beide Seiten eine vorläufige Einigung signalisiert hatten. Neu gegenüber den Vortagen sind die konkreten Eckpunkte, auf die sich Washington und Ottawa laut übereinstimmenden Berichten zubewegen: Die Zölle auf kanadischen Stahl und Aluminium sollen auf 25 Prozent halbiert, jene auf Autos von 25 auf 15 Prozent gesenkt werden. Im Gegenzug soll Kanada unter anderem Streitpunkte bei Milchquoten und US-Alkoholimporten entschärfen; einzelne Provinzen haben bereits begonnen, US-Alkohol wieder in die Regale zu stellen. Bis zur Redaktion dieser Zusammenfassung lag noch kein finales Abkommen vor, Verhandler beider Seiten zeigten sich aber zuversichtlich, die Frist um Mitternacht US-Ostzeit doch noch einzuhalten. Ein Scheitern würde vor allem stahl-, aluminium- und autonahe Werte belasten, während ein Abschluss als Entlastung für die ohnehin unter Zollsorgen leidenden Märkte gewertet würde.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-19"
+      "datum_artikel": "2026-08-21"
     }
   ]
 }
