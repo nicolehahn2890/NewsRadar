@@ -1,46 +1,34 @@
 {
-  "datum": "Samstag, 22. August 2026",
-  "generiert": "2026-08-22",
+  "datum": "Sonntag, 23. August 2026",
+  "generiert": "2026-08-23",
   "ki_stories": [
     {
-      "titel": "DeepSeek zeigt neues Modell, das nah an Anthropics Opus 4.8 herankommt",
-      "text": "Das chinesische KI-Unternehmen DeepSeek hat am 21. August ein experimentelles multimodales Modell namens V4-Flash-Vision-Exp vorgestellt, das erstmals auch Bilder und Screenshots verarbeiten kann. Bei mehreren Agenten-Benchmarks kommt das neue Modell nah an die Leistung von Anthropics fortschrittlichstem Modell Claude Opus 4.8 heran und gewinnt laut DeepSeeks eigenen Angaben drei von elf Vergleichstests, liegt bei der schwierigsten Aufgabe aber rund zwölf Punkte zurück. Bei reinen Textaufgaben wie Reasoning und Weltwissen bleibt die Leistung auf dem Niveau des bisherigen Modells DeepSeek-V4-Flash. Verfügbar ist das neue Modell zunächst nur über DeepSeeks kostenpflichtige Entwicklerplattform, eine kostenlose Version könnte laut Unternehmen später folgen. Die Ankündigung zeigt, wie schnell chinesische Anbieter bei multimodalen KI-Fähigkeiten zu den führenden US-Modellen aufholen, und dürfte den Preisdruck auf westliche Anbieter weiter erhöhen."
+      "titel": "Studie: KI schafft mehr Jobs, aber drückt oft auf die Löhne",
+      "text": "Apollo-Chefökonom Torsten Slok hat in einer Studie zu Hunderten Berufen untersucht, wie sich der Einsatz von Künstlicher Intelligenz auf den US-Arbeitsmarkt auswirkt. Ergebnis: Berufe mit hoher KI-Exposition verzeichnen ein deutlich schwächeres Lohnwachstum als andere Branchen, während die Beschäftigung insgesamt kaum sinkt. Gleichzeitig befeuert KI laut der am Wochenende veröffentlichten Bloomberg-Analyse eine Rekordwelle an Unternehmensneugründungen, was langfristig neue Jobs schaffen könnte. Die ehemalige IBM-Personalchefin Diane Gherson erklärte, Firmen entschieden bereits heute, welche Aufgaben automatisiert und welche Mitarbeiter umgeschult statt entlassen werden. Die Studie zeigt damit ein zwiespältiges Bild: KI vernichtet bislang kaum Stellen, drückt aber spürbar auf die Gehälter in den am stärksten betroffenen Berufsfeldern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-22"
+    },
+    {
+      "titel": "Samsung kündigt Rekord-Ausschüttung von bis zu 80 Milliarden Dollar an",
+      "text": "Der südkoreanische Elektronikkonzern Samsung plant für 2026 Ausschüttungen an Aktionäre von umgerechnet rund 65 bis 80 Milliarden Dollar (90 bis 110 Billionen Won) - die größte Kapitalrückführung in der Firmengeschichte. Möglich macht das der Boom bei Speicherchips, die durch den KI-Ausbau der großen Tech-Konzerne stark nachgefragt werden: Samsungs operativer Gewinn im zweiten Quartal war fast verzwanzigfacht gegenüber dem Vorjahr. Die Ankündigung folgt nur wenige Tage, nachdem Rivale SK Hynix einen Aktienrückkauf und eine Aktienvernichtung im Wert von 40 Billionen Won (28,6 Milliarden Dollar) beschlossen hatte - der größte in der Geschichte südkoreanischer Börsenunternehmen. Über die genaue Aufteilung zwischen Bardividenden und Rückkäufen will Samsung erst bei einer Vorstandssitzung Ende Januar 2027 entscheiden, im dritten Quartal sind zunächst rund 30 Billionen Won an regulären Dividenden vorgesehen. Aktionäre hatten zuvor Druck gemacht, einen Teil der Rekordgewinne aus dem KI-Boom an sie weiterzugeben.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-08-21"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic holt sich Googles Ex-Chipchef für eigenen Hardware-Vorstoß",
-      "text": "Anthropic hat Amir Salek eingestellt, der bei Google jahrelang das Programm für die hauseigenen Tensor Processing Units (TPU) geleitet hatte. Salek verantwortete bei Google bis 2022 die ersten sieben Generationen dieser KI-Chips und soll bei Anthropic nun den Aufbau einer eigenen Halbleiter-Sparte vorantreiben. Der Schritt deutet darauf hin, dass sich Anthropic langfristig unabhängiger von externen Chip-Lieferanten wie NVIDIA machen will. Zeitgleich bereitet Anthropic einen möglichen Börsengang in Rekordhöhe vor, der laut Insidern sogar den von SpaceX übertreffen könnte; die Jahresumsatz-Rate lag Ende Juli bei rund 65 Milliarden Dollar. Eigene Chips könnten Anthropic helfen, die enormen Rechenkosten für Training und Betrieb der Claude-Modelle mittelfristig zu senken und die eigene Marge zu verbessern.",
-      "quelle": "Bloomberg",
+      "titel": "NVIDIA steigt bei Rechenzentrums-Entwickler Cloverleaf ein",
+      "text": "NVIDIA hat eine Minderheitsbeteiligung am US-Rechenzentrumsentwickler Cloverleaf Infrastructure übernommen und dafür Berichten zufolge mehrere hundert Millionen Dollar investiert. Cloverleaf mit Sitz in Houston sichert Stromabkommen mit Energieversorgern, damit Rechenzentrumsbetreiber schneller bauen können, und hat seit der Gründung 2024 Projekte mit mehr als 7 Gigawatt Leistung verkauft, weitere über 10 Gigawatt sind in Planung. Im Rahmen der am Freitag verkündeten Partnerschaft soll NVIDIAs DSX-Plattform zum Einsatz kommen, die Standortwahl, Stromversorgung, Kühlung und Rechenleistung bei neuen KI-Rechenzentren gemeinsam plant. Cloverleaf hat bereits Standorte in Wisconsin für Oracle und OpenAI realisiert. Der Deal reiht sich in eine Serie jüngster NVIDIA-Investitionen in die physische Infrastruktur rund um KI-Rechenzentren ein - der Chipkonzern positioniert sich damit zunehmend als Anbieter der gesamten Infrastruktur hinter dem KI-Boom, nicht nur als Chiplieferant.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-08-21",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Meta zahlt Microsoft Hunderte Millionen Dollar für KI-Zugriff über Azure",
-      "text": "Meta ist einem Bloomberg-Bericht zufolge zu einem der größten KI-Kunden von Microsoft geworden und zahlt jährlich Hunderte Millionen Dollar, um über die Cloud-Plattform Azure Zugriff auf zusätzliche KI-Rechenkapazität und Modelle zu erhalten. Bemerkenswert ist der Deal, weil Meta parallel selbst Milliardenbeträge in eigene KI-Rechenzentren und die Llama-Modellreihe steckt, aber offenbar zusätzliche externe Kapazität braucht, um mit der Nachfrage Schritt zu halten. Die Nachricht befeuert erneut Sorgen vor zirkulären Geschäftsbeziehungen in der KI-Branche, bei denen sich Tech-Konzerne gegenseitig als Kunden und Investoren dienen. Für Microsoft ist der Deal ein weiteres Zeichen dafür, dass die Nachfrage nach KI-Rechenleistung über Azure trotz hoher Investitionskosten robust bleibt. Analysten werten die wachsende Abhängigkeit großer Konzerne von direkten Konkurrenten als mögliches Risiko, sollte sich die KI-Nachfrage einmal abschwächen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-20",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "NVIDIA zahlt 6 Milliarden Dollar für KI-Lizenz und Team von Start-up Poolside",
-      "text": "NVIDIA hat sich bereit erklärt, dem KI-Start-up Poolside rund 6 Milliarden Dollar für eine Lizenz an dessen KI-Modellen für Softwareentwicklung zu zahlen. Im Zuge der Vereinbarung will NVIDIA zudem mehr als 100 Poolside-Mitarbeitern Jobangebote machen, was faktisch einer teilweisen Übernahme durch gezielte Abwerbung gleichkommt. Poolside galt bislang als vielversprechender, aber wenig bekannter Rivale von Anthropics Claude Code und OpenAIs Codex im Bereich KI-gestützter Programmierwerkzeuge. Für NVIDIA reiht sich der Deal in eine Serie milliardenschwerer Investitionen und Lizenzabkommen mit KI-Firmen ein, mit denen der Chipkonzern seine Position im gesamten KI-Ökosystem absichert. Kritiker sehen darin allerdings ein weiteres Beispiel für die zirkuläre Finanzierung in der Branche, bei der NVIDIA gleichzeitig als Investor, Zulieferer und nun auch als Lizenznehmer auftritt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-20",
       "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Tesla-Aktie legt zu nach Robotaxi-Zulassung für Las Vegas",
-      "text": "Die Verkehrsbehörde des US-Bundesstaats Nevada hat Tesla die Genehmigung erteilt, im gesamten Clark County, zu dem auch Las Vegas gehört, mit fahrerlosen Fahrzeugen zahlende Passagiere zu befördern. Im ersten Jahr darf Tesla dort eine Flotte von bis zu 5.000 vollautonomen Fahrzeugen betreiben; zusammen mit den ebenfalls zugelassenen Anbietern Uber und Waymo könnten in der Region künftig bis zu 8.000 Robotaxis unterwegs sein. Die neue Genehmigung ersetzt eine vorherige Übergangserlaubnis, die Tesla auf gerade einmal 10 Fahrzeuge beschränkt hatte. Tesla bereitet parallel in Austin den öffentlichen Start seines lenkradlosen Cybercab vor, das vollständig auf das Full-Self-Driving-System angewiesen ist und zunächst von eigenen Mitarbeitern getestet wird. Anleger werteten die Nevada-Zulassung als Bestätigung, dass Teslas Wette auf autonomes Fahren regulatorisch vorankommt, und die Aktie legte am 21. August spürbar zu.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-20"
-    },
-    {
-      "titel": "USA und Kanada ringen bis zur letzten Minute um Zoll-Deal",
-      "text": "Die von Donald Trump angedrohten 50-prozentigen Strafzölle auf kanadische Waren im Wert von rund 20 Milliarden Dollar sollten eigentlich schon am 19. August in Kraft treten, wurden aber um drei Tage bis zur Nacht auf den 22. August verschoben, nachdem beide Seiten eine vorläufige Einigung signalisiert hatten. Neu gegenüber den Vortagen sind die konkreten Eckpunkte, auf die sich Washington und Ottawa laut übereinstimmenden Berichten zubewegen: Die Zölle auf kanadischen Stahl und Aluminium sollen auf 25 Prozent halbiert, jene auf Autos von 25 auf 15 Prozent gesenkt werden. Im Gegenzug soll Kanada unter anderem Streitpunkte bei Milchquoten und US-Alkoholimporten entschärfen; einzelne Provinzen haben bereits begonnen, US-Alkohol wieder in die Regale zu stellen. Bis zur Redaktion dieser Zusammenfassung lag noch kein finales Abkommen vor, Verhandler beider Seiten zeigten sich aber zuversichtlich, die Frist um Mitternacht US-Ostzeit doch noch einzuhalten. Ein Scheitern würde vor allem stahl-, aluminium- und autonahe Werte belasten, während ein Abschluss als Entlastung für die ohnehin unter Zollsorgen leidenden Märkte gewertet würde.",
-      "quelle": "Bloomberg",
+      "titel": "Einzelhändler Ross Stores springt nach starkem Quartal um 9 Prozent",
+      "text": "Die Aktie der US-Modekette Ross Stores ist am Freitag im vorbörslichen Handel um rund 9 Prozent gestiegen, nachdem das Unternehmen sein Jahresgewinnziel deutlich angehoben hatte. Der Umsatz im zweiten Quartal legte um 13 Prozent auf 6,27 Milliarden Dollar zu, die vergleichbaren Filialumsätze wuchsen um 10 Prozent - beides über den Erwartungen der Analysten. Der Gewinn je Aktie lag bei 2,66 Dollar und damit deutlich über der eigenen Prognose von 1,85 bis 1,93 Dollar, wobei rund 0,60 Dollar davon auf eine einmalige Rückerstattung von US-Importzöllen zurückgehen. Ross Stores hebt seine Jahresprognose für den Gewinn je Aktie nun auf 8,61 bis 8,77 Dollar an, zuvor waren 7,50 bis 7,74 Dollar avisiert; für das dritte Quartal erwartet der Konzern ein Umsatzwachstum von 6 bis 7 Prozent. Die Kette gewinnt damit weiter Marktanteile von Konkurrenten im margenschwachen Einzelhandel.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-08-21"
     }
   ]
