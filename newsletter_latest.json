@@ -1,55 +1,67 @@
 {
-  "datum": "Freitag, 28. August 2026",
-  "generiert": "2026-08-28",
+  "datum": "Samstag, 29. August 2026",
+  "generiert": "2026-08-29",
   "ki_stories": [
     {
-      "titel": "OpenAI und Anthropic warnen vor KI-gestützten Cyberangriffen",
-      "text": "OpenAI, Anthropic, Google, Microsoft und mehr als 100 weitere Tech- und Finanzunternehmen haben in einem offenen Brief gewarnt, dass sich Unternehmen und Regierungen besser gegen KI-gestützte Hackerangriffe wappnen müssen. Die Unterzeichner fordern, Cyberabwehr sofort zur Chefsache zu machen, da moderne KI-Modelle zunehmend in der Lage sind, Sicherheitslücken selbstständig zu finden und auszunutzen. Hintergrund ist die Sorge, dass dieselben Fähigkeiten, die KI-Systeme bei der Softwareentwicklung nützlich machen, auch Angreifern in die Hände spielen. Der Aufruf kommt, während OpenAI intern Modelle wie das noch unveröffentlichte Astra wegen möglicher Cyberrisiken zurückhält. Beobachter werten die gemeinsame Initiative als Zeichen, dass die Branche KI-Sicherheit inzwischen als dringendes, gemeinsames Problem begreift.",
-      "quelle": "Bloomberg",
+      "titel": "Gericht kippt Pentagon-Bann gegen Anthropic als rechtswidrig",
+      "text": "Ein Bundesrichter in San Francisco hat entschieden, dass das Pentagon die KI-Firma Anthropic zu Unrecht als nationales Sicherheitsrisiko eingestuft hat. Richterin Rita Lin urteilte, die Einstufung habe gegen die Redefreiheit und das Recht auf ein faires Verfahren verstoßen, und ordnete an, sämtliche Anweisungen gegen Anthropic zurückzunehmen. Hintergrund ist ein gescheiterter Vertrag im Wert von 200 Millionen Dollar: Anthropic wollte vertraglich ausschließen, dass sein Claude-Modell für autonome Waffensysteme oder Massenüberwachung im Inland genutzt wird, was Verteidigungsminister Pete Hegseth ablehnte. Daraufhin hatte das Pentagon Anthropic im März als Lieferketten-Risiko eingestuft und damit faktisch von Regierungsaufträgen und Zulieferern ausgeschlossen. Die Regierung kündigte umgehend Berufung gegen das Urteil an. Der Fall gilt als richtungsweisend dafür, wie weit KI-Anbieter eigene Sicherheitsgrenzen gegenüber dem Militär durchsetzen können, und betrifft auch Konkurrenten wie OpenAI und Google, die um dieselben Regierungsaufträge werben.",
+      "quelle": "Washington Post",
       "datum_artikel": "2026-08-27"
     },
     {
-      "titel": "Chinesisches Start-up Z.ai überrascht mit KI-Modell Ox Alpha",
-      "text": "Das chinesische KI-Start-up Z.ai hat überraschend ein bislang unter dem Radar entwickeltes Modell namens Ox Alpha vorgestellt, das laut eigenen Angaben in Leistungstests nah an DeepSeeks aktuelle Modelle heranreicht. Die Ankündigung ließ die Z.ai-Aktien deutlich steigen, da Investoren erneut sehen, wie schnell chinesische Anbieter zu US-Marktführern wie OpenAI und Anthropic aufschließen. Ox Alpha wurde offenbar ohne große Vorankündigung entwickelt und positioniert sich als kostengünstige Alternative für Entwickler. Der Vorstoß reiht sich ein in eine Serie chinesischer Modelle der vergangenen Monate, die im Verbesserungstempo westliche Anbieter unter Druck setzen. Für die USA verschärft das die Debatte, wie lange der technologische Vorsprung amerikanischer KI-Labore noch Bestand hat.",
+      "titel": "Tencent veröffentlicht neues KI-Modell Hy4 und fordert Konkurrenten heraus",
+      "text": "Der chinesische Tech-Konzern Tencent hat am Freitag eine Vorschau-Version seines neuen Sprachmodells Hy4 veröffentlicht und den Code offengelegt. Das Modell verfügt über 770 Milliarden Parameter, von denen 49 Milliarden aktiv genutzt werden, und verarbeitet Kontexte von über einer Million Token - deutlich mehr als der Vorgänger Hy3. In einer eigenen Blindbewertung mit 163 Fachleuten und 203 Aufgaben aus Programmierung, Büroarbeit und Forschung erzielte Hy4 2,99 von 4 möglichen Punkten und lag damit knapp vor den chinesischen Rivalen Zhipu mit GLM-5.3 (2,92) und Moonshot mit Kimi K3 (2,94). Tencent positioniert sich damit im heiß umkämpften chinesischen KI-Markt neben Z.ai und Moonshot als einer der führenden Anbieter offener Modelle. Die Offenlegung des Codes soll Entwicklern weltweit kostenlosen Zugang verschaffen und Tencents Einfluss im globalen Wettlauf um KI-Standards stärken. Für Nutzer bedeutet das mehr Auswahl bei leistungsfähigen, kostengünstigen Open-Source-Modellen aus China.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-26"
+      "datum_artikel": "2026-08-28"
     },
     {
-      "titel": "Anthropic öffnet Claude für Roboter und Laborgeräte",
-      "text": "Anthropic hat einen neuen Standard namens Model Hardware Standard (MHS) vorgestellt, der es der KI Claude erlauben soll, direkt mit Robotern sowie mit wissenschaftlichen und industriellen Geräten zusammenzuarbeiten. Die als Forschungsvorschau veröffentlichte Schnittstelle richtet sich zunächst an Entwickler aus Robotik, Wissenschaft und Fertigung, die Claude testweise mit Laborequipment und Maschinen verbinden können. Anthropic will damit den Schritt von reiner Text- und Bildschirmarbeit hin zu physischen Anwendungen vorbereiten, ein Bereich, den Analysten als nächste große Wachstumschance für KI-Anbieter sehen. Der Vorstoß kommt nur wenige Tage, nachdem Anthropic milliardenschwere Rechenkapazitäten bei Nscale gesichert hat, was zeigt, wie sehr das Unternehmen auf physische Infrastruktur und neue Einsatzfelder setzt. Konkurrenten wie NVIDIA und Google arbeiten ebenfalls an ähnlichen Brücken zwischen KI-Software und Hardware.",
+      "titel": "Andreessen Horowitz legt 1,1-Milliarden-Dollar-Fonds für KI-Hardware auf",
+      "text": "Die US-Investmentfirma Andreessen Horowitz hat einen neuen Fonds namens Machine Age Fund mit 1,1 Milliarden Dollar Kapital aufgelegt. Das Geld soll gezielt in die physische Infrastruktur der KI-Branche fließen: Chips, Speicher, Netzwerktechnik, Rechenzentren, Robotik und sogar KI-gestützte Haushaltsgeräte. Es ist der erste eigene Hardware-Fonds der Firma, die bislang vor allem auf Software-Investments gesetzt hatte. Laut a16z stößt die KI-Infrastruktur derzeit branchenweit an Kapazitätsgrenzen - von Chips über Speicher bis zur Stromversorgung -, in einem Ausmaß, das die Investoren so noch nie erlebt hätten. Die Partner Ravi Raghuram und Martin Casado leiten die Investments des neuen Fonds. Der Schritt zeigt, wie sehr sich der Fokus großer KI-Investoren von reinen Software-Wetten hin zum teuren physischen Ausbau der Rechenkapazität verschiebt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-27"
+      "datum_artikel": "2026-08-28"
+    },
+    {
+      "titel": "Chinesischer Speicherchip-Hersteller CXMT verzehnfacht Umsatz dank KI-Boom",
+      "text": "Der chinesische Speicherchip-Hersteller CXMT (ChangXin Memory Technologies) hat im ersten Halbjahr 2026 seinen Umsatz auf umgerechnet rund 22,4 Milliarden Dollar fast verzehnfacht - mehr, als das Unternehmen im gesamten Jahr 2025 eingenommen hatte. Der Gewinn stieg auf 77,6 Milliarden Yuan, nach einem Verlust im Vorjahreszeitraum. Grund ist die weltweite Knappheit an Speicherchips, ausgelöst durch die hohe KI-Nachfrage, von der neben CXMT auch Samsung, SK Hynix und Micron profitieren. CXMT hatte erst im Juli sein Börsendebüt in China gefeiert und war dabei um mehr als 500 Prozent gestiegen, wodurch der Hersteller zum wertvollsten Unternehmen Festlandchinas aufstieg. Die Zahlen zeigen, wie stark der globale KI-Boom inzwischen auch die Speicherchip-Lieferketten unter Druck setzt. Analysten erwarten, dass der Speicherengpass noch mehrere Quartale anhält und die Preise hochhält.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-28"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA-Aktie schnellt nach Rekordzahlen um 442 Milliarden Dollar hoch",
-      "text": "NVIDIA hat für das jüngste Quartal einen Umsatz von 96,2 Milliarden Dollar gemeldet, ein Plus von 106 Prozent gegenüber dem Vorjahr, bei einem Gewinn je Aktie von 2,22 Dollar - mehr als doppelt so viel wie vor einem Jahr. Nachdem die Aktie zunächst noch verhalten reagiert hatte, legte sie am Donnerstag im regulären Handel um 8,7 Prozent zu und gewann damit rund 442 Milliarden Dollar an Börsenwert, der zweitgrößte Ein-Tages-Gewinn einer Aktie in der Geschichte. Ausgelöst wurde der Kurssprung vor allem durch den Ausblick: NVIDIA stellte für das kommende Geschäftsjahr ein Umsatzwachstum von rund 70 Prozent in Aussicht und dämpfte damit Sorgen vor einer KI-Blase. Damit bleibt NVIDIA das wertvollste Unternehmen der Welt und untermauert seine zentrale Rolle als Chiplieferant für die gesamte KI-Branche. Die starken Zahlen lösten am Donnerstag zudem eine breitere Rally bei Tech- und KI-nahen Aktien aus.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-27",
-      "unternehmen": "NVIDIA"
+      "titel": "Googles Chip-Deal mit Marvell enttäuscht Anleger trotz starker Zahlen",
+      "text": "Der Chip-Hersteller Marvell hat am Donnerstag die Erwartungen übertroffen und sein Umsatzziel für das Geschäftsjahr 2028 auf rund 18 Milliarden Dollar angehoben, die Aktie brach dennoch zeitweise um bis zu 8 Prozent ein. Grund ist die Chip-Partnerschaft mit Google: Das auf bis zu 120 Milliarden Dollar geschätzte Geschäft mit kundenspezifischen KI-Chips für Googles TPU-Systeme soll laut Marvell-Chef Matt Murphy erst ab dem Geschäftsjahr 2029 spürbar zum Umsatz beitragen - später, als viele Investoren gehofft hatten. Murphy bezeichnete die Google-Partnerschaft dennoch als entscheidenden Wendepunkt und sagte, der Umsatz könnte am Ende deutlich höher ausfallen als bislang eingeplant. Die heftige Kursreaktion zeigt, wie ungeduldig Anleger inzwischen auf schnelle Erträge aus den milliardenschweren KI-Chip-Deals der großen Tech-Konzerne warten. Auch der Zulieferer Intel geriet im Sog der Nachricht unter Druck, während NVIDIA-Aktien kaum reagierten. Für Google bestätigt der Deal den strategischen Kurs, bei KI-Chips zunehmend auf eigene Entwicklungen statt allein auf NVIDIA zu setzen.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-08-28",
+      "unternehmen": "Google"
     },
     {
-      "titel": "Anthropic sichert sich für 45 Milliarden Dollar Rechenleistung bei Nscale",
-      "text": "Anthropic hat sich verpflichtet, über sechs Jahre hinweg 45 Milliarden Dollar für KI-Rechenkapazität aus einem neuen Rechenzentrum des Anbieters Nscale in West Virginia zu zahlen. Nscale will dafür NVIDIAs neue Vera-Rubin-Chips einsetzen, die vereinbarte Kapazität entspricht rund 460 Megawatt Leistung. Der Deal zeigt, wie stark Anthropic seine Rechenkapazitäten ausbauen muss, um mit dem Wachstum von Claude und dem Wettbewerb mit OpenAI und Google Schritt zu halten. Für Nscale, einen noch jungen Rechenzentrumsbetreiber, bedeutet die Vereinbarung einen der bislang größten Aufträge seiner Geschichte und stärkt seine Position im hart umkämpften Markt für KI-Infrastruktur. Anthropic reiht sich damit in eine wachsende Liste von KI-Anbietern ein, die sich über Jahre hinweg langfristige Kapazitäten bei spezialisierten Rechenzentrumsbetreibern sichern.",
+      "titel": "Microsoft versucht, eigene Mitarbeiter vom Nutzen der KI-Rechenzentren zu überzeugen",
+      "text": "Microsoft-Managerin Noelle Walsh, zuständig für den Ausbau der Rechenzentren, hat sich in einem internen Schreiben an die Belegschaft gewandt, um Sorgen über die Umweltfolgen der KI-Infrastruktur zu zerstreuen. Viele Beschäftigte hatten zuvor Fragen zu Energie- und Wasserverbrauch, Emissionen und den Auswirkungen der riesigen Anlagen auf umliegende Gemeinden gestellt. Walsh räumte ein, dass der KI-Boom es schwerer mache, frühere Klimaziele des Konzerns einzuhalten, versprach aber, neue Rechenzentren künftig disziplinierter, transparenter und mit Fokus auf Emissionsreduktion zu bauen. Laut Microsofts jüngstem Nachhaltigkeitsbericht sind die Gesamtemissionen des Konzerns im vergangenen Jahr um 25 Prozent gestiegen, vor allem wegen des massiven Ausbaus der Rechenzentren für KI-Dienste. Microsoft hat deshalb den Kauf bestimmter nicht-zusätzlicher Ökostromzertifikate gestoppt und setzt stattdessen verstärkt auf Projekte, die echte neue Energiekapazitäten ins Netz bringen. Der interne Vorstoß zeigt, wie sehr der KI-Boom inzwischen auch innerhalb der Konzerne selbst zum Streitpunkt wird.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-26",
-      "unternehmen": "Anthropic"
+      "datum_artikel": "2026-08-28",
+      "unternehmen": "Microsoft"
     },
     {
-      "titel": "Alphabet verliert 692 Milliarden Dollar an Börsenwert wegen KI-Zweifeln",
-      "text": "Die Google-Mutter Alphabet hat binnen kurzer Zeit 692 Milliarden Dollar an Börsenwert eingebüßt, nachdem unter Investoren Zweifel aufgekommen sind, ob der Konzern im KI-Wettlauf noch mithalten kann. Hintergrund sind Sorgen über einen möglichen Abgang wichtiger KI-Fachkräfte bei Google sowie Fragen, ob sich die massiv gestiegenen Investitionen auszahlen. Alphabet hatte seine Investitionsprognose für dieses Jahr zuletzt auf bis zu 205 Milliarden Dollar angehoben, was erneut Zweifel an der Kostendisziplin im KI-Rennen weckte. Trotz des Rückschlags bleibt Alphabet mit rund 4,3 Billionen Dollar Marktwert die zweitwertvollste Firma der Welt, die Aktie liegt 2026 aber nur noch 11 Prozent im Plus, nach einem Kursplus von 65 Prozent im Vorjahr. Der Fall zeigt, wie nervös der Markt inzwischen auf jedes Anzeichen reagiert, dass ein Big-Tech-Konzern im KI-Rennen zurückfallen könnte.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-27",
-      "unternehmen": "Google/Alphabet"
+      "titel": "Meta schließt weitere Sicherheitslücke bei seinen KI-Brillen",
+      "text": "Meta hat ein Software-Update für seine Ray-Ban-Meta-Brillen ausgerollt, das eine Lücke beim Aufnahme-Kontrolllicht schließt. Bisher konnten Nutzer eine laufende Video- oder Fotoaufnahme unbemerkt fortsetzen, indem sie die LED der Brille während der Aufnahme mit dem Finger abdeckten. Nach dem Update stoppt die Kamera künftig automatisch, sobald das Licht verdeckt wird. Es ist bereits das zweite Privatsphäre-Update innerhalb von zwei Monaten, nachdem Berichte über heimliche Aufnahmen mit den Brillen für Kritik gesorgt hatten. Laut Meta haben mehrere Anbieter, die Dienste zur gezielten Umgehung der Aufnahme-LED verkauften, ihr Angebot inzwischen eingestellt. Der Konzern kündigte an, in den kommenden Monaten weitere Schutzfunktionen für die Brillen nachzuliefern.",
+      "quelle": "9to5Google",
+      "datum_artikel": "2026-08-28",
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Cybersicherheits-Aktien schießen nach starken KI-Bedrohungs-Zahlen hoch",
-      "text": "CrowdStrike und Okta haben am Donnerstag mit ihren Quartalszahlen die Wall Street überrascht und ihre Jahresprognosen angehoben, weil Unternehmen wegen wachsender KI-Bedrohungen deutlich mehr für Cybersicherheit ausgeben. Die CrowdStrike-Aktie legte um rund 20 Prozent zu und verzeichnete damit ihren besten Handelstag überhaupt, Okta sprang sogar um fast 29 Prozent. Auch Salesforce profitierte vom Trend und gewann nachbörslich rund 12 Prozent, nachdem der Softwarekonzern mit einem Quartalsumsatz von 11,35 Milliarden Dollar die Erwartungen leicht übertroffen hatte. Als Treiber gilt vor allem die zunehmende Sorge vor KI-gestützten Cyberangriffen, die Firmen dazu bringt, verstärkt in Sicherheitssoftware zu investieren, ein Trend, von dem auch Anbieter wie Palo Alto Networks und Zscaler profitierten. Die Rally bei Software-Werten fiel zusammen mit einem starken Gesamtmarkt, nachdem bereits NVIDIAs Zahlen tags zuvor für Erleichterung an den Börsen gesorgt hatten.",
+      "titel": "PayPal-Aktie bricht ein, nachdem Übernahmegespräche mit Stripe und Advent platzen",
+      "text": "Der Finanzinvestor Advent International und der Zahlungsdienstleister Stripe haben ihre Bemühungen um eine Übernahme von PayPal aufgegeben. Das Konsortium hatte zuvor rund 60,50 Dollar je Aktie geboten, was PayPal mit mehr als 53 Milliarden Dollar bewertet hätte - eine der größten fremdfinanzierten Übernahmen der Geschichte. PayPals Verwaltungsrat hielt das Angebot jedoch für zu niedrig und hatte bislang keine formelle Antwort geschickt. Nach Bekanntwerden des Rückzugs stürzte die PayPal-Aktie im vorbörslichen Handel am Freitag um bis zu 16 Prozent ab und machte damit wochenlange Kursgewinne durch die Übernahmefantasie wieder zunichte. Der geplatzte Deal zeigt, wie schwierig es selbst für finanzstarke Investoren geworden ist, milliardenschwere Übernahmen im Zahlungssektor zu stemmen. PayPal muss nun ohne die Fantasie eines Käufers beweisen, dass der Konzern sein Kerngeschäft aus eigener Kraft wieder ankurbeln kann.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-27"
+      "datum_artikel": "2026-08-28"
+    },
+    {
+      "titel": "Fed-Chef Warsh warnt vor hartnäckiger Inflation - Goldpreis fällt auf Wochentief",
+      "text": "Fed-Chef Kevin Warsh hat in seiner ersten großen Rede beim Notenbank-Symposium in Jackson Hole vor anhaltend hoher Inflation gewarnt und eine mögliche Zinserhöhung in den kommenden Monaten ins Spiel gebracht. Zwar hätten sich die Inflationsdaten zuletzt etwas abgekühlt, sagte Warsh, das bedeute aber nicht, dass sich der zugrunde liegende Preisdruck spürbar gebessert habe. Anders als von manchen erwartet, machte er keine konkreten Vorgaben zur künftigen Geldpolitik, sondern beschrieb vor allem seinen grundsätzlichen Führungsstil an der Fed-Spitze. Die Anleihemärkte reagierten dennoch prompt: Investoren erhöhten die eingepreiste Wahrscheinlichkeit einer Zinserhöhung im September auf rund 50 Prozent. Der Goldpreis fiel im Sog der als restriktiv gewerteten Aussagen um bis zu 3 Prozent auf rund 4.454 Dollar je Feinunze und damit auf den tiefsten Stand seit einer Woche. Der US-Aktienmarkt selbst blieb dagegen weitgehend stabil, da Anleger Warshs Kurs als Bestätigung werteten, dass die Fed die Inflationsbekämpfung weiter priorisiert.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-08-28"
     }
   ]
 }
