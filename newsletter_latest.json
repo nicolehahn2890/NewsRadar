@@ -1,67 +1,22 @@
 {
-  "datum": "Samstag, 29. August 2026",
-  "generiert": "2026-08-29",
+  "datum": "Sonntag, 30. August 2026",
+  "generiert": "2026-08-30",
   "ki_stories": [
     {
-      "titel": "Gericht kippt Pentagon-Bann gegen Anthropic als rechtswidrig",
-      "text": "Ein Bundesrichter in San Francisco hat entschieden, dass das Pentagon die KI-Firma Anthropic zu Unrecht als nationales Sicherheitsrisiko eingestuft hat. Richterin Rita Lin urteilte, die Einstufung habe gegen die Redefreiheit und das Recht auf ein faires Verfahren verstoßen, und ordnete an, sämtliche Anweisungen gegen Anthropic zurückzunehmen. Hintergrund ist ein gescheiterter Vertrag im Wert von 200 Millionen Dollar: Anthropic wollte vertraglich ausschließen, dass sein Claude-Modell für autonome Waffensysteme oder Massenüberwachung im Inland genutzt wird, was Verteidigungsminister Pete Hegseth ablehnte. Daraufhin hatte das Pentagon Anthropic im März als Lieferketten-Risiko eingestuft und damit faktisch von Regierungsaufträgen und Zulieferern ausgeschlossen. Die Regierung kündigte umgehend Berufung gegen das Urteil an. Der Fall gilt als richtungsweisend dafür, wie weit KI-Anbieter eigene Sicherheitsgrenzen gegenüber dem Militär durchsetzen können, und betrifft auch Konkurrenten wie OpenAI und Google, die um dieselben Regierungsaufträge werben.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-08-27"
-    },
-    {
-      "titel": "Tencent veröffentlicht neues KI-Modell Hy4 und fordert Konkurrenten heraus",
-      "text": "Der chinesische Tech-Konzern Tencent hat am Freitag eine Vorschau-Version seines neuen Sprachmodells Hy4 veröffentlicht und den Code offengelegt. Das Modell verfügt über 770 Milliarden Parameter, von denen 49 Milliarden aktiv genutzt werden, und verarbeitet Kontexte von über einer Million Token - deutlich mehr als der Vorgänger Hy3. In einer eigenen Blindbewertung mit 163 Fachleuten und 203 Aufgaben aus Programmierung, Büroarbeit und Forschung erzielte Hy4 2,99 von 4 möglichen Punkten und lag damit knapp vor den chinesischen Rivalen Zhipu mit GLM-5.3 (2,92) und Moonshot mit Kimi K3 (2,94). Tencent positioniert sich damit im heiß umkämpften chinesischen KI-Markt neben Z.ai und Moonshot als einer der führenden Anbieter offener Modelle. Die Offenlegung des Codes soll Entwicklern weltweit kostenlosen Zugang verschaffen und Tencents Einfluss im globalen Wettlauf um KI-Standards stärken. Für Nutzer bedeutet das mehr Auswahl bei leistungsfähigen, kostengünstigen Open-Source-Modellen aus China.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-28"
-    },
-    {
-      "titel": "Andreessen Horowitz legt 1,1-Milliarden-Dollar-Fonds für KI-Hardware auf",
-      "text": "Die US-Investmentfirma Andreessen Horowitz hat einen neuen Fonds namens Machine Age Fund mit 1,1 Milliarden Dollar Kapital aufgelegt. Das Geld soll gezielt in die physische Infrastruktur der KI-Branche fließen: Chips, Speicher, Netzwerktechnik, Rechenzentren, Robotik und sogar KI-gestützte Haushaltsgeräte. Es ist der erste eigene Hardware-Fonds der Firma, die bislang vor allem auf Software-Investments gesetzt hatte. Laut a16z stößt die KI-Infrastruktur derzeit branchenweit an Kapazitätsgrenzen - von Chips über Speicher bis zur Stromversorgung -, in einem Ausmaß, das die Investoren so noch nie erlebt hätten. Die Partner Ravi Raghuram und Martin Casado leiten die Investments des neuen Fonds. Der Schritt zeigt, wie sehr sich der Fokus großer KI-Investoren von reinen Software-Wetten hin zum teuren physischen Ausbau der Rechenkapazität verschiebt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-28"
-    },
-    {
-      "titel": "Chinesischer Speicherchip-Hersteller CXMT verzehnfacht Umsatz dank KI-Boom",
-      "text": "Der chinesische Speicherchip-Hersteller CXMT (ChangXin Memory Technologies) hat im ersten Halbjahr 2026 seinen Umsatz auf umgerechnet rund 22,4 Milliarden Dollar fast verzehnfacht - mehr, als das Unternehmen im gesamten Jahr 2025 eingenommen hatte. Der Gewinn stieg auf 77,6 Milliarden Yuan, nach einem Verlust im Vorjahreszeitraum. Grund ist die weltweite Knappheit an Speicherchips, ausgelöst durch die hohe KI-Nachfrage, von der neben CXMT auch Samsung, SK Hynix und Micron profitieren. CXMT hatte erst im Juli sein Börsendebüt in China gefeiert und war dabei um mehr als 500 Prozent gestiegen, wodurch der Hersteller zum wertvollsten Unternehmen Festlandchinas aufstieg. Die Zahlen zeigen, wie stark der globale KI-Boom inzwischen auch die Speicherchip-Lieferketten unter Druck setzt. Analysten erwarten, dass der Speicherengpass noch mehrere Quartale anhält und die Preise hochhält.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-28"
+      "titel": "OpenAI schaltet DALL-E in ChatGPT ab",
+      "text": "OpenAI hat am 30. August 2026 das eigenständige DALL-E-Tool aus ChatGPT entfernt und rät Nutzern, wichtige Bilder vorher herunterzuladen. Das Custom GPT war eines der allerersten Tools, die nach der Einführung von benutzerdefinierten GPTs entstanden, und blieb verfügbar, obwohl die zugrunde liegende Bildtechnologie längst durch neuere Modelle ersetzt worden war. Bildgenerierung verschwindet dadurch nicht aus ChatGPT: OpenAI lenkt Nutzer stattdessen zu ChatGPT Images, dem inzwischen zentralen Werkzeug zum Erstellen und Bearbeiten von Bildern im Chat. Von anderen Nutzern erstellte Custom GPTs mit Bildfunktion sind von der Abschaltung nicht betroffen. Unklar bleibt, was mit bereits im DALL-E-GPT gespeicherten Bildern nach der Abschaltung passiert, weshalb OpenAI ausdrücklich zum vorherigen Sichern rät. Der Schritt ist Teil einer breiteren Aufräumaktion, mit der OpenAI sein wachsendes Angebot an Werkzeugen innerhalb von ChatGPT konsolidiert.",
+      "quelle": "OpenAI",
+      "datum_artikel": "2026-08-30"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Googles Chip-Deal mit Marvell enttäuscht Anleger trotz starker Zahlen",
-      "text": "Der Chip-Hersteller Marvell hat am Donnerstag die Erwartungen übertroffen und sein Umsatzziel für das Geschäftsjahr 2028 auf rund 18 Milliarden Dollar angehoben, die Aktie brach dennoch zeitweise um bis zu 8 Prozent ein. Grund ist die Chip-Partnerschaft mit Google: Das auf bis zu 120 Milliarden Dollar geschätzte Geschäft mit kundenspezifischen KI-Chips für Googles TPU-Systeme soll laut Marvell-Chef Matt Murphy erst ab dem Geschäftsjahr 2029 spürbar zum Umsatz beitragen - später, als viele Investoren gehofft hatten. Murphy bezeichnete die Google-Partnerschaft dennoch als entscheidenden Wendepunkt und sagte, der Umsatz könnte am Ende deutlich höher ausfallen als bislang eingeplant. Die heftige Kursreaktion zeigt, wie ungeduldig Anleger inzwischen auf schnelle Erträge aus den milliardenschweren KI-Chip-Deals der großen Tech-Konzerne warten. Auch der Zulieferer Intel geriet im Sog der Nachricht unter Druck, während NVIDIA-Aktien kaum reagierten. Für Google bestätigt der Deal den strategischen Kurs, bei KI-Chips zunehmend auf eigene Entwicklungen statt allein auf NVIDIA zu setzen.",
-      "quelle": "CNBC",
+      "titel": "NVIDIA pausiert Umsatzbeteiligungs-Deals mit KI-Cloud-Anbietern",
+      "text": "NVIDIA hat laut einem Bericht des Wall Street Journal Teile eines im Juli gestarteten Finanzierungsprogramms für kleinere KI-Cloud-Anbieter auf Eis gelegt. Im Rahmen des Programms wollte NVIDIA den Kauf seiner teuren Chips erleichtern und dafür im Gegenzug einen Anteil an den Cloud-Umsätzen der Kunden sowie Mitspracherecht über die Weitervermietung der Rechenkapazitäten erhalten. Intern hatten Mitarbeiter gewarnt, dass diese Kontrolle kartellrechtliche Risiken bergen könnte, zudem stieß der Plan, Kapazitäten nur an von NVIDIA freigegebene Kunden zu vermieten, bei Partnern auf Widerstand. Laut Quartalsunterlagen umfasste das Programm Zusagen von insgesamt 36 Milliarden Dollar mit einer typischen Laufzeit von sechs Jahren. Die Aktien der Cloud-Partner CoreWeave, Nebius und IREN gaben nach Bekanntwerden der Nachricht nach. NVIDIA erklärte, das im Juli vorgestellte Modell bestehe weiterhin unverändert fort und entwickle sich wegen hoher Nachfrage laufend weiter, eine Rückkehr des pausierten Programms in veränderter Form gilt als möglich.",
+      "quelle": "Wall Street Journal",
       "datum_artikel": "2026-08-28",
-      "unternehmen": "Google"
-    },
-    {
-      "titel": "Microsoft versucht, eigene Mitarbeiter vom Nutzen der KI-Rechenzentren zu überzeugen",
-      "text": "Microsoft-Managerin Noelle Walsh, zuständig für den Ausbau der Rechenzentren, hat sich in einem internen Schreiben an die Belegschaft gewandt, um Sorgen über die Umweltfolgen der KI-Infrastruktur zu zerstreuen. Viele Beschäftigte hatten zuvor Fragen zu Energie- und Wasserverbrauch, Emissionen und den Auswirkungen der riesigen Anlagen auf umliegende Gemeinden gestellt. Walsh räumte ein, dass der KI-Boom es schwerer mache, frühere Klimaziele des Konzerns einzuhalten, versprach aber, neue Rechenzentren künftig disziplinierter, transparenter und mit Fokus auf Emissionsreduktion zu bauen. Laut Microsofts jüngstem Nachhaltigkeitsbericht sind die Gesamtemissionen des Konzerns im vergangenen Jahr um 25 Prozent gestiegen, vor allem wegen des massiven Ausbaus der Rechenzentren für KI-Dienste. Microsoft hat deshalb den Kauf bestimmter nicht-zusätzlicher Ökostromzertifikate gestoppt und setzt stattdessen verstärkt auf Projekte, die echte neue Energiekapazitäten ins Netz bringen. Der interne Vorstoß zeigt, wie sehr der KI-Boom inzwischen auch innerhalb der Konzerne selbst zum Streitpunkt wird.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-28",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Meta schließt weitere Sicherheitslücke bei seinen KI-Brillen",
-      "text": "Meta hat ein Software-Update für seine Ray-Ban-Meta-Brillen ausgerollt, das eine Lücke beim Aufnahme-Kontrolllicht schließt. Bisher konnten Nutzer eine laufende Video- oder Fotoaufnahme unbemerkt fortsetzen, indem sie die LED der Brille während der Aufnahme mit dem Finger abdeckten. Nach dem Update stoppt die Kamera künftig automatisch, sobald das Licht verdeckt wird. Es ist bereits das zweite Privatsphäre-Update innerhalb von zwei Monaten, nachdem Berichte über heimliche Aufnahmen mit den Brillen für Kritik gesorgt hatten. Laut Meta haben mehrere Anbieter, die Dienste zur gezielten Umgehung der Aufnahme-LED verkauften, ihr Angebot inzwischen eingestellt. Der Konzern kündigte an, in den kommenden Monaten weitere Schutzfunktionen für die Brillen nachzuliefern.",
-      "quelle": "9to5Google",
-      "datum_artikel": "2026-08-28",
-      "unternehmen": "Meta"
+      "unternehmen": "NVIDIA"
     }
   ],
-  "boerse_stories": [
-    {
-      "titel": "PayPal-Aktie bricht ein, nachdem Übernahmegespräche mit Stripe und Advent platzen",
-      "text": "Der Finanzinvestor Advent International und der Zahlungsdienstleister Stripe haben ihre Bemühungen um eine Übernahme von PayPal aufgegeben. Das Konsortium hatte zuvor rund 60,50 Dollar je Aktie geboten, was PayPal mit mehr als 53 Milliarden Dollar bewertet hätte - eine der größten fremdfinanzierten Übernahmen der Geschichte. PayPals Verwaltungsrat hielt das Angebot jedoch für zu niedrig und hatte bislang keine formelle Antwort geschickt. Nach Bekanntwerden des Rückzugs stürzte die PayPal-Aktie im vorbörslichen Handel am Freitag um bis zu 16 Prozent ab und machte damit wochenlange Kursgewinne durch die Übernahmefantasie wieder zunichte. Der geplatzte Deal zeigt, wie schwierig es selbst für finanzstarke Investoren geworden ist, milliardenschwere Übernahmen im Zahlungssektor zu stemmen. PayPal muss nun ohne die Fantasie eines Käufers beweisen, dass der Konzern sein Kerngeschäft aus eigener Kraft wieder ankurbeln kann.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-28"
-    },
-    {
-      "titel": "Fed-Chef Warsh warnt vor hartnäckiger Inflation - Goldpreis fällt auf Wochentief",
-      "text": "Fed-Chef Kevin Warsh hat in seiner ersten großen Rede beim Notenbank-Symposium in Jackson Hole vor anhaltend hoher Inflation gewarnt und eine mögliche Zinserhöhung in den kommenden Monaten ins Spiel gebracht. Zwar hätten sich die Inflationsdaten zuletzt etwas abgekühlt, sagte Warsh, das bedeute aber nicht, dass sich der zugrunde liegende Preisdruck spürbar gebessert habe. Anders als von manchen erwartet, machte er keine konkreten Vorgaben zur künftigen Geldpolitik, sondern beschrieb vor allem seinen grundsätzlichen Führungsstil an der Fed-Spitze. Die Anleihemärkte reagierten dennoch prompt: Investoren erhöhten die eingepreiste Wahrscheinlichkeit einer Zinserhöhung im September auf rund 50 Prozent. Der Goldpreis fiel im Sog der als restriktiv gewerteten Aussagen um bis zu 3 Prozent auf rund 4.454 Dollar je Feinunze und damit auf den tiefsten Stand seit einer Woche. Der US-Aktienmarkt selbst blieb dagegen weitgehend stabil, da Anleger Warshs Kurs als Bestätigung werteten, dass die Fed die Inflationsbekämpfung weiter priorisiert.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-08-28"
-    }
-  ]
+  "boerse_stories": []
 }
