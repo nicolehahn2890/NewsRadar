@@ -1,22 +1,29 @@
 {
-  "datum": "Sonntag, 30. August 2026",
-  "generiert": "2026-08-30",
-  "ki_stories": [
-    {
-      "titel": "OpenAI schaltet DALL-E in ChatGPT ab",
-      "text": "OpenAI hat am 30. August 2026 das eigenständige DALL-E-Tool aus ChatGPT entfernt und rät Nutzern, wichtige Bilder vorher herunterzuladen. Das Custom GPT war eines der allerersten Tools, die nach der Einführung von benutzerdefinierten GPTs entstanden, und blieb verfügbar, obwohl die zugrunde liegende Bildtechnologie längst durch neuere Modelle ersetzt worden war. Bildgenerierung verschwindet dadurch nicht aus ChatGPT: OpenAI lenkt Nutzer stattdessen zu ChatGPT Images, dem inzwischen zentralen Werkzeug zum Erstellen und Bearbeiten von Bildern im Chat. Von anderen Nutzern erstellte Custom GPTs mit Bildfunktion sind von der Abschaltung nicht betroffen. Unklar bleibt, was mit bereits im DALL-E-GPT gespeicherten Bildern nach der Abschaltung passiert, weshalb OpenAI ausdrücklich zum vorherigen Sichern rät. Der Schritt ist Teil einer breiteren Aufräumaktion, mit der OpenAI sein wachsendes Angebot an Werkzeugen innerhalb von ChatGPT konsolidiert.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-08-30"
-    }
-  ],
+  "datum": "Montag, 31. August 2026",
+  "generiert": "2026-08-31",
+  "ki_stories": [],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA pausiert Umsatzbeteiligungs-Deals mit KI-Cloud-Anbietern",
-      "text": "NVIDIA hat laut einem Bericht des Wall Street Journal Teile eines im Juli gestarteten Finanzierungsprogramms für kleinere KI-Cloud-Anbieter auf Eis gelegt. Im Rahmen des Programms wollte NVIDIA den Kauf seiner teuren Chips erleichtern und dafür im Gegenzug einen Anteil an den Cloud-Umsätzen der Kunden sowie Mitspracherecht über die Weitervermietung der Rechenkapazitäten erhalten. Intern hatten Mitarbeiter gewarnt, dass diese Kontrolle kartellrechtliche Risiken bergen könnte, zudem stieß der Plan, Kapazitäten nur an von NVIDIA freigegebene Kunden zu vermieten, bei Partnern auf Widerstand. Laut Quartalsunterlagen umfasste das Programm Zusagen von insgesamt 36 Milliarden Dollar mit einer typischen Laufzeit von sechs Jahren. Die Aktien der Cloud-Partner CoreWeave, Nebius und IREN gaben nach Bekanntwerden der Nachricht nach. NVIDIA erklärte, das im Juli vorgestellte Modell bestehe weiterhin unverändert fort und entwickle sich wegen hoher Nachfrage laufend weiter, eine Rückkehr des pausierten Programms in veränderter Form gilt als möglich.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-08-28",
-      "unternehmen": "NVIDIA"
+      "titel": "OpenAI beendet Partnerschaft mit Cursor nach SpaceX-Übernahme",
+      "text": "OpenAI hat angekündigt, den Vertrag zur Bereitstellung seiner KI-Modelle für den Programmier-Assistenten Cursor zu kündigen. Hintergrund ist die für 60 Milliarden Dollar abgeschlossene Übernahme von Cursor durch Elon Musks Raumfahrtkonzern SpaceX. Der geplante Stichtag für das Ende des Zugangs ist der 12. November 2026. Cursor gehört zu den meistgenutzten KI-Coding-Tools und war bisher stark auf OpenAI-Modelle angewiesen. Der Schritt zeigt, wie eng Geschäftsbeziehungen in der Boom-Branche an Konkurrenzverhältnisse gekoppelt sind - da SpaceX nun auch im KI-Bereich tätig ist, will OpenAI offenbar keine Modelle mehr an einen Rivalen liefern. Cursor muss sich bis dahin auf andere Modellanbieter wie Anthropic oder Google umstellen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-29",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Sony und Warner verklagen Anthropic wegen massenhaften Musik-Diebstahls",
+      "text": "Sony Music, Warner Chappell und weitere Musikverlage haben Anthropic verklagt und werfen dem Unternehmen vor, tausende urheberrechtlich geschützte Songs illegal zum Training von Claude verwendet zu haben. Die am 28. August eingereichte Klage vor einem Bundesgericht in Kalifornien nennt neben Anthropic auch CEO Dario Amodei und Mitgründer Benjamin Mann als Beklagte. Die Kläger sprechen von einer 'brazen campaign' aus illegalem Torrenting, Scraping und Herunterladen geschützter Werke und fordern Schadenersatz von bis zu 150.000 Dollar pro vorsätzlich verletztem Werk. Erst im Vormonat hatte Anthropic in einem separaten Fall mit US-Autoren einen Vergleich über 1,5 Milliarden Dollar geschlossen - den bislang höchsten in einem US-Urheberrechtsfall. Anthropic widerspricht den neuen Vorwürfen und kündigt an, sich vor Gericht zu verteidigen. Der Fall zeigt, dass die Rechtsrisiken durch Trainingsdaten für Anthropic trotz der Rekord-Einigung mit den Autoren nicht ausgestanden sind.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-08-29",
+      "unternehmen": "Anthropic"
     }
   ],
-  "boerse_stories": []
+  "boerse_stories": [
+    {
+      "titel": "US-Angriff auf iranische Raketenwerfer in der Straße von Hormus lässt Ölpreis und Aktien reagieren",
+      "text": "US-Streitkraefte haben am Sonntag iranische Raketenwerfer auf der Insel Larak in der Straße von Hormus angegriffen - die erste militaerische Aktion der USA gegen Iran seit Wochen. Die Werfer sollten laut US-Angaben zum Verlegen von Seeminen genutzt werden, um die für rund ein Fünftel des weltweiten Öltransports wichtige Meerenge zu bedrohen. Die Rohölsorte Brent legte daraufhin am Montag um gut 1,5 Prozent auf etwa 89,50 Dollar je Barrel zu, WTI stieg auf rund 84,60 Dollar. An den Aktienmärkten sorgte die Eskalationsangst für Verunsicherung: US-Terminkontrakte gaben nach, und die asiatischen Börsen büßten deutlich ein - der südkoreanische Kospi fiel um 3,5 Prozent, der japanische Nikkei um rund 2,2 Prozent und der Hang Seng in Hongkong knapp 1 Prozent. Der Iran reagierte laut staatlichen Medien seinerseits mit Angriffen auf US-Stützpunkte in Jordanien. Anleger befürchten, dass eine weitere Eskalation den Schiffsverkehr durch die Straße von Hormus - eine der wichtigsten Handelsrouten für Öl und Flüssiggas weltweit - dauerhaft gefährden könnte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-08-30"
+    }
+  ]
 }
