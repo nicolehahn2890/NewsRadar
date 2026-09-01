@@ -1,29 +1,41 @@
 {
-  "datum": "Montag, 31. August 2026",
-  "generiert": "2026-08-31",
-  "ki_stories": [],
+  "datum": "Dienstag, 1. September 2026",
+  "generiert": "2026-09-01",
+  "ki_stories": [
+    {
+      "titel": "China stellt Bedingungen für KI-Dialog mit den USA und attackiert Anthropic",
+      "text": "Ein Onlinebeitrag des chinesischen Staatssenders CCTV über den einflussreichen Account Yuyuantantian hat am Wochenende Bedingungen für die geplanten US-chinesischen KI-Gespräche formuliert. Peking fordert, dass amerikanische KI-Firmen denselben Sicherheits-, Offenlegungs- und Prüfregeln unterliegen müssen wie chinesische Anbieter, bevor 'substanzielle' Gespräche möglich seien. Besonders scharf richtet sich die Kritik gegen Anthropics Claude, dem vorgeworfen wird, Nutzerdaten-Grenzen zu überschreiten, heimlich Überwachung zu betreiben und Website-Domains ohne Erlaubnis zu übertragen. Hintergrund ist ein Streit um mutmaßlichen Datendiebstahl: Anthropic wirft dem Alibaba-Sprachmodell Qwen vor, über fast 25.000 betrügerische Accounts und 28,8 Millionen unautorisierte Anfragen zwischen dem 22. April und 5. Juni gezielt Fähigkeiten aus Claude abgesaugt zu haben. Die Gespräche sollen noch vor dem Staatsbesuch von Xi Jinping in den USA am 24. September stattfinden. Der Schlagabtausch zeigt, wie politisch aufgeladen der US-China-Wettlauf um KI-Führerschaft inzwischen geworden ist."
+    }
+  ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI beendet Partnerschaft mit Cursor nach SpaceX-Übernahme",
-      "text": "OpenAI hat angekündigt, den Vertrag zur Bereitstellung seiner KI-Modelle für den Programmier-Assistenten Cursor zu kündigen. Hintergrund ist die für 60 Milliarden Dollar abgeschlossene Übernahme von Cursor durch Elon Musks Raumfahrtkonzern SpaceX. Der geplante Stichtag für das Ende des Zugangs ist der 12. November 2026. Cursor gehört zu den meistgenutzten KI-Coding-Tools und war bisher stark auf OpenAI-Modelle angewiesen. Der Schritt zeigt, wie eng Geschäftsbeziehungen in der Boom-Branche an Konkurrenzverhältnisse gekoppelt sind - da SpaceX nun auch im KI-Bereich tätig ist, will OpenAI offenbar keine Modelle mehr an einen Rivalen liefern. Cursor muss sich bis dahin auf andere Modellanbieter wie Anthropic oder Google umstellen.",
+      "titel": "NVIDIA investiert 3,5 Milliarden Dollar in Chiphersteller MediaTek",
+      "text": "NVIDIA steckt 3,5 Milliarden Dollar in wandelbare Anleihen des taiwanischen Chipherstellers MediaTek und vertieft damit eine bestehende Partnerschaft. Die beiden Unternehmen wollen künftig mehrere Chip-Generationen gemeinsam entwickeln - für Consumer-PCs, Workstations, Cloud-KI-Infrastruktur und Fahrzeuge. MediaTek erhält dabei Zugang zu NVIDIAs NVLink-Fusion-Technologie und der neuen NVHBM-Technik, um eigene Chips zu entwerfen, die sich direkt in NVIDIA-Rechenzentren einbinden lassen. Der Deal kommt zu einem Zeitpunkt, an dem Amazon, Google, Microsoft, OpenAI und Anthropic verstärkt eigene Chips entwickeln, um weniger von NVIDIAs Grafikprozessoren abhängig zu sein. Mit der MediaTek-Allianz sichert sich NVIDIA trotz des Trends zu kundenspezifischen Chips weiterhin eine zentrale Rolle als technisches Fundament der KI-Infrastruktur. Die Ankündigung erfolgte am Montag in einer gemeinsamen Erklärung beider Firmen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-29",
-      "unternehmen": "OpenAI"
+      "datum_artikel": "2026-08-31",
+      "unternehmen": "NVIDIA"
     },
     {
-      "titel": "Sony und Warner verklagen Anthropic wegen massenhaften Musik-Diebstahls",
-      "text": "Sony Music, Warner Chappell und weitere Musikverlage haben Anthropic verklagt und werfen dem Unternehmen vor, tausende urheberrechtlich geschützte Songs illegal zum Training von Claude verwendet zu haben. Die am 28. August eingereichte Klage vor einem Bundesgericht in Kalifornien nennt neben Anthropic auch CEO Dario Amodei und Mitgründer Benjamin Mann als Beklagte. Die Kläger sprechen von einer 'brazen campaign' aus illegalem Torrenting, Scraping und Herunterladen geschützter Werke und fordern Schadenersatz von bis zu 150.000 Dollar pro vorsätzlich verletztem Werk. Erst im Vormonat hatte Anthropic in einem separaten Fall mit US-Autoren einen Vergleich über 1,5 Milliarden Dollar geschlossen - den bislang höchsten in einem US-Urheberrechtsfall. Anthropic widerspricht den neuen Vorwürfen und kündigt an, sich vor Gericht zu verteidigen. Der Fall zeigt, dass die Rechtsrisiken durch Trainingsdaten für Anthropic trotz der Rekord-Einigung mit den Autoren nicht ausgestanden sind.",
-      "quelle": "Axios",
-      "datum_artikel": "2026-08-29",
+      "titel": "Anthropics geplanter Mega-Börsengang überschattet US-IPO-Kalender",
+      "text": "Anthropic bereitet einem Bloomberg-Bericht zufolge in den kommenden Wochen die öffentliche Einreichung für einen Börsengang vor. Das Volumen könnte so hoch ausfallen wie der Rekord-Börsengang von SpaceX mit 86,2 Milliarden Dollar - möglicherweise sogar darüber liegen. Andere Unternehmen mit eigenen Börsenplänen versuchen deshalb, ihre Termine so zu legen, dass sie nach dem Labor-Day-Feiertag am 7. September nicht im Schatten von Anthropics Ankündigung untergehen. Der Claude-Entwickler zählt inzwischen zu den wertvollsten privaten KI-Firmen und will die hohe Investorennachfrage nutzen, um frisches Kapital für seinen enormen Rechenleistungsbedarf zu sichern. Ein Börsengang dieser Größenordnung würde Anthropic endgültig in eine Liga mit etablierten Tech-Riesen katapultieren und den Konkurrenzdruck auf OpenAI weiter erhöhen. Konkrete Termine für die Einreichung wurden bislang nicht genannt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-31",
       "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "US-Handelsbehörde FTC verklagt Amazon wegen irreführender Werbepreise",
+      "text": "Die US-Handelsaufsicht FTC hat gemeinsam mit 22 US-Bundesstaaten Klage gegen Amazon eingereicht. Der Vorwurf: Amazon habe Werbekunden über Jahre hinweg systematisch überhöhte Preise berechnet und sie unzureichend über die tatsächlichen Konditionen der 'gesponserten' Produktplatzierungen informiert, die Nutzern bei der Suche als Top-Ergebnisse angezeigt werden. Diese gesponserten Listings zählen zu Amazons profitabelsten Einnahmequellen im Werbegeschäft. Die Klage reiht sich in eine Serie kartell- und verbraucherschutzrechtlicher Verfahren gegen den Konzern ein und könnte Amazon zu Entschädigungszahlungen sowie Änderungen an seiner Werbepraxis zwingen. Amazon hat sich zu den Vorwürfen bislang nicht im Detail geäußert. Ein Gerichtstermin steht noch nicht fest.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-31",
+      "unternehmen": "Amazon"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Angriff auf iranische Raketenwerfer in der Straße von Hormus lässt Ölpreis und Aktien reagieren",
-      "text": "US-Streitkraefte haben am Sonntag iranische Raketenwerfer auf der Insel Larak in der Straße von Hormus angegriffen - die erste militaerische Aktion der USA gegen Iran seit Wochen. Die Werfer sollten laut US-Angaben zum Verlegen von Seeminen genutzt werden, um die für rund ein Fünftel des weltweiten Öltransports wichtige Meerenge zu bedrohen. Die Rohölsorte Brent legte daraufhin am Montag um gut 1,5 Prozent auf etwa 89,50 Dollar je Barrel zu, WTI stieg auf rund 84,60 Dollar. An den Aktienmärkten sorgte die Eskalationsangst für Verunsicherung: US-Terminkontrakte gaben nach, und die asiatischen Börsen büßten deutlich ein - der südkoreanische Kospi fiel um 3,5 Prozent, der japanische Nikkei um rund 2,2 Prozent und der Hang Seng in Hongkong knapp 1 Prozent. Der Iran reagierte laut staatlichen Medien seinerseits mit Angriffen auf US-Stützpunkte in Jordanien. Anleger befürchten, dass eine weitere Eskalation den Schiffsverkehr durch die Straße von Hormus - eine der wichtigsten Handelsrouten für Öl und Flüssiggas weltweit - dauerhaft gefährden könnte.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-08-30"
+      "titel": "Fed-Zinserhöhung wird wahrscheinlicher - Schwellenländer-Aktien brechen ein",
+      "text": "Nach der Jackson-Hole-Rede von Fed-Chef Kevin Warsh ist die Wahrscheinlichkeit einer Zinserhöhung im September laut CME-FedWatch-Tool binnen eines Tages von 35,4 auf 57,5 Prozent gesprungen. Warsh hatte gewarnt, die diesjährigen PCE- und Inflationsdaten seien zwar besser als erwartet ausgefallen, zeigten aber keine nachhaltige Verbesserung des zugrunde liegenden Preistrends. Der MSCI-Index für Schwellenländer-Aktien fiel daraufhin um bis zu 1,4 Prozent - der stärkste Tagesverlust seit dem 24. August, wobei südkoreanische und taiwanische Börsen die Verluste anführten. Der Goldpreis, der zuvor bereits um mehr als 3 Prozent eingebrochen war, pendelte sich bei rund 4.450 Dollar je Feinunze ein. Neu gegenüber den Vortagen ist damit nicht nur der hawkishe Ton der Fed, sondern die konkrete Verschiebung der Markterwartung hin zu einer mehrheitlich erwarteten Zinserhöhung - mit spürbaren Folgen für Schwellenländer-Währungen und -Aktien. Anleger dürften nun auf weitere US-Konjunkturdaten vor der Fed-Sitzung im September achten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-08-31"
     }
   ]
 }
