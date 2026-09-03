@@ -1,59 +1,59 @@
 {
-  "datum": "Mittwoch, 2. September 2026",
-  "generiert": "2026-09-02",
+  "datum": "Donnerstag, 3. September 2026",
+  "generiert": "2026-09-03",
   "ki_stories": [
     {
-      "titel": "OpenAI stuft neues Modell Astra erstmals als kritisches Cyber-Risiko ein",
-      "text": "OpenAI hat sein kommendes Modell Astra am 1. September für die Veröffentlichung freigegeben - als erstes Modell in der Firmengeschichte, das laut dem hauseigenen Preparedness Framework die höchste Risikostufe kritisch bei Cybersicherheit erreicht. Astra soll eigenständig Zero-Day-Schwachstellen in gehärteten, realen Systemen aufspüren und komplette Cyberangriffe allein aus einem groben Ziel heraus planen und ausführen können - deutlich mehr als das öffentlich verfügbare Spitzenmodell GPT-5.6 Sol, das laut OpenAI nur auf 1,5 Prozent solcher Anfragen reagiert. Deshalb schränkt OpenAI den Zugang zu den fortgeschrittensten Cybersicherheits-Fähigkeiten stark ein: Nur ausgewählte Partner erhalten sie, alle anderen bekommen isolierte Testumgebungen mit beschränktem Netzwerk- und Tool-Zugriff. Ziel ist, Unternehmen beim Schutz vor Cyberangriffen zu helfen, ohne Angreifern ein mächtiges neues Werkzeug in die Hand zu geben. Der Schritt dürfte die Debatte über die Kontrolle immer leistungsfähigerer KI-Modelle weiter anheizen.",
-      "quelle": "Bloomberg",
+      "titel": "Anthropic gibt Firmenkunden volle Kontrolle über Claude-Datenspeicherung",
+      "text": "Anthropic hat am 1. September mit Enterprise Frontier Safeguards (EFS) ein neues System vorgestellt, das Firmenkunden erlaubt, sämtliche Nutzungsdaten und Protokolle von Claude in der eigenen Cloud-Infrastruktur zu speichern statt bei Anthropic selbst. Gleichzeitig läuft eine automatisierte Erkennung von Missbrauch, ohne dass Anthropic-Mitarbeiter die Daten einsehen müssen. Laut CNBC wurde das System gemeinsam mit Sicherheitsverantwortlichen großer US-Banken sowie Firmen wie Comcast, KPMG, Mastercard, Salesforce und Visa entwickelt - Gespräche liefen mit rund einem Viertel der Fortune-100-Unternehmen. Anthropic reagiert damit auf Beschwerden von Firmenkunden über die bisherigen Datenschutzregeln. Die Einführung erfolgt stufenweise, eine breitere Verfügbarkeit ist für den Herbst geplant, Kosten fallen für Kunden keine an.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-09-01"
     },
     {
-      "titel": "Anthropic bringt Claude Fable 5.1 und Mythos 5.1 - günstiger, weniger Fehlalarme",
-      "text": "Anthropic hat am 1. September mit Claude Fable 5.1 und Claude Mythos 5.1 zwei neue Spitzenmodelle für Programmieren und Wissensarbeit vorgestellt, die auf der im Juni gestarteten Fable-5- und Mythos-5-Reihe aufbauen. Beide Modelle sind technisch identisch, unterscheiden sich aber in den Schutzmechanismen: Fable 5.1 ist über die Claude-API für alle verfügbar, während Mythos 5.1 mit zusätzlichen, auf Cybersicherheit und Life Sciences zugeschnittenen Sicherungen nur geprüften Partnern vorbehalten bleibt. Anthropic zufolge übertrifft Fable 5.1 in mehreren Benchmarks sowohl Fable 5 und Opus 5 als auch OpenAIs GPT-5.6 Sol. Durch günstigere Cache-Preise sinken die Kosten für typische Anwendungen um rund 25 Prozent, bei stark agentischen Aufgaben um bis zu 45 Prozent. Zudem meldet Anthropic rund 60 Prozent weniger Fehlalarme des Cybersicherheits-Filters pro Sitzung und 85 Prozent weniger Fehlalarme des Biologie-Filters bei gewöhnlichen medizinischen Fragen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-09-01"
+      "titel": "Google bringt Gemini 3.8 Flash mit spürbar besseren Coding-Fähigkeiten",
+      "text": "Google hat am 2. September das neue Modell Gemini 3.8 Flash veröffentlicht - laut Wall Street Journal bereits das vierte Flash-Modell innerhalb von vier Monaten. Es verbessert sich gegenüber dem Vorgänger Gemini 3.7 Flash vor allem bei Softwareentwicklung, agentischen Aufgaben und mehrstufigem Schlussfolgern und erreicht im Artificial-Analysis-Intelligence-Index 59 Punkte, drei mehr als zuvor. Der Preis bleibt mit 0,75 US-Dollar je Million Eingabe-Token und 3,75 US-Dollar je Million Ausgabe-Token unverändert. Zusätzlich bringt Google mit Gemini 3.8 Flash Cyber eine spezialisierte Variante zur Schwachstellenerkennung, die zunächst nur ausgewählten Regierungsstellen und Betreibern kritischer Infrastruktur zur Verfügung steht. Mit dem schnellen Modell-Takt reagiert Google auf den wachsenden Konkurrenzdruck durch OpenAI und Anthropic im Bereich Programmier-KI.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-09-02"
     },
     {
-      "titel": "Pentagon startet GenAI.mil mit ChatGPT, Grok und Gemini für 3 Millionen Beschäftigte",
-      "text": "Das US-Verteidigungsministerium hat am 31. August sein KI-Portal GenAI.mil erweitert und bietet dort nun neben Google Gemini auch OpenAIs ChatGPT Mil und xAIs Grok for Government an - zugänglich für rund drei Millionen militärische und zivile Beschäftigte. Laut Angaben des Ministeriums haben sich bereits 1,7 Millionen Nutzer auf der Plattform angemeldet. Das Portal soll Behördenmitarbeitern einen sicheren, zentralen Zugang zu mehreren kommerziellen KI-Chatbots für als unkritisch eingestufte, aber kontrollierte Daten geben, statt wie bisher einzelne Lizenzen pro Anbieter zu benötigen. Ein Ministeriumsvertreter erklärte, Gemini eigne sich vor allem für Suche, ChatGPT eher für textbasierte Aufgaben, sodass Nutzer je nach Aufgabe zwischen den Modellen wählen können. Die Bündelung mehrerer konkurrierender Anbieter zeigt, wie stark KI-Chatbots inzwischen in sicherheitsrelevanten Regierungsbereichen verankert sind und wie sehr OpenAI, xAI und Google um die öffentliche Hand als Großkunden konkurrieren.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-08-31"
-    },
-    {
-      "titel": "US-Behörde weitet Liste der durch KI bedrohten Berufe deutlich aus",
-      "text": "Die für offizielle Beschäftigungsprognosen zuständige US-Behörde hat ihre Liste der durch künstliche Intelligenz gefährdeten Berufe erweitert und stuft nun erstmals auch PR-Fachleute, Webentwickler und Beschäftigte im Gastgewerbe als gefährdet ein. Bisher betrafen die offiziellen Einschätzungen vor allem Callcenter- und Dateneingabe-Tätigkeiten. Die Ausweitung auf Kommunikation, Webdesign und gästenahe Dienstleistungen signalisiert, dass generative KI inzwischen als Mainstream-Risiko für deutlich mehr Berufsgruppen gilt als noch vor kurzem angenommen. Die Einstufung stammt aus einer am 1. September veröffentlichten Analyse und fällt in eine Zeit, in der bereits mehrere Berichte auf steigende, mit KI in Verbindung gebrachte Stellenstreichungen in Finanz- und Tech-Berufen hingewiesen hatten. Für Arbeitsmarktbeobachter ist die Ausweitung ein weiteres Signal, dass der Wandel durch generative KI schneller und breiter verläuft als ursprünglich erwartet.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-01"
+      "titel": "Trump-Regierung stellt sich im Urheberrechtsstreit auf die Seite von OpenAI",
+      "text": "Das US-Justizministerium hat sich am 1. September erstmals in einen der zahlreichen KI-Urheberrechtsprozesse eingeschaltet und vor einem New Yorker Bundesgericht die Fair-Use-Verteidigung von OpenAI gegen die New York Times unterstützt. Laut Washington Post argumentiert die Regierung, das Training von Sprachmodellen mit urheberrechtlich geschützten Texten sei ausreichend transformativ und diene zudem der nationalen Sicherheit sowie der US-Führungsrolle im KI-Wettlauf mit China. Eine solche Stellungnahme ist rechtlich nicht bindend, markiert aber die erste offizielle Positionierung Washingtons in der wachsenden Klagewelle von Verlagen, Autoren und Musiklabels gegen KI-Firmen. Die New York Times reagierte scharf und warf der Regierung vor, sich auf die Seite milliardenschwerer KI-Konzerne zu stellen, zulasten der Kreativen, deren Werke genutzt wurden. Der seit Ende 2023 laufende Rechtsstreit zwischen der Times, OpenAI und Microsoft gilt als richtungsweisend für die gesamte Branche.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-09-02"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic sichert sich für 35 Milliarden Dollar Cloud-Kapazität bei Nvidia-Partner Lambda",
-      "text": "Anthropic hat einen Rechenkapazitäts-Deal im Volumen von 35 Milliarden Dollar mit dem von Nvidia unterstützten Cloud-Anbieter Lambda abgeschlossen, um seine KI-Kapazitäten rasch auszubauen. Die Vereinbarung betrifft ein Rechenzentrum in Nueces County, Texas, das der Betreiber Hut 8 errichtet - Nvidia hält dabei den Mietvertrag für die Anlage, während Lambda die Rechenleistung an Anthropic liefert. Details zu Laufzeit, Anzahl der Grafikchips oder Zahlungsplan wurden nicht bekannt gegeben. Der Deal reiht sich in eine ganze Serie ähnlicher Anthropic-Vereinbarungen der vergangenen Wochen ein: 45 Milliarden Dollar bei Nscale, 50 Milliarden Dollar bei Fluidstack und weitere 45 Milliarden Dollar bei SpaceX. Hintergrund ist ein Engpass bei Rechenkapazität, in den Anthropic Anfang des Jahres wegen des stark gestiegenen Nutzungsvolumens seiner Produkte geraten war.",
+      "titel": "Microsoft veröffentlicht künftig eigene Umsatzzahlen für Azure",
+      "text": "Microsoft hat am 2. September angekündigt, künftig quartalsweise konkrete Umsatzzahlen für die Cloud-Sparte Azure offenzulegen - nach Jahren der Kritik von Investoren an der mangelnden Transparenz bei Microsofts wichtigstem Wachstumstreiber. Laut Bloomberg lag der Azure-Umsatz im zuletzt berichteten Quartal bis Ende Juni bei 29,4 Milliarden US-Dollar. Investor-Relations-Chef Jonathan Neilson begründete den Schritt damit, dass angesichts der Größe von Azure nun der richtige Zeitpunkt für mehr Transparenz sei. Microsoft baut zudem seine Konzernstruktur um und bündelt die Bereiche künftig in Agents and Infra sowie Devices and Consumer. Der Schritt soll Anlegern eine bessere Einschätzung ermöglichen, wie stark sich die milliardenschweren KI-Investitionen tatsächlich in Umsatz niederschlagen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-08-31",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Google sichert sich größtes Geothermie-Stromabkommen der Geschichte für Rechenzentrum",
-      "text": "Alphabet-Tochter Google hat mit dem Geothermie-Entwickler Fervo Energy einen Stromabnahmevertrag über bis zu 396 Megawatt abgeschlossen - das größte bislang bekannte Abkommen dieser Art für sogenannte Enhanced-Geothermal-Anlagen. Die Energie stammt aus Fervos Cape-Station-Projekt im Süden Utahs und soll ab 2028 in vier Tranchen zu je 99 Megawatt über eine Laufzeit von 15 Jahren geliefert werden, um ein geplantes Rechenzentrum mit CO2-freiem Strom zu versorgen. Google hat zudem die Option, die Abnahme bis 2030 um weitere rund 600 Megawatt zu erhöhen, was die Gesamtmenge auf fast ein Gigawatt bringen würde - vergleichbar mit einem klassischen Atomreaktor. Die am 1. September bekanntgegebene Vereinbarung ließ die Aktie des erst im Mai 2026 an die Börse gegangenen Unternehmens Fervo Energy um mehr als 25 Prozent steigen. Für Google ist der Deal ein weiterer Baustein, um den enormen Strombedarf seiner KI-Rechenzentren mit verlässlicher, CO2-armer Energie zu decken.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-01",
-      "unternehmen": "Google"
-    },
-    {
-      "titel": "Microsoft-365-Störung legt Teams, Outlook und Copilot über zwei Tage lahm",
-      "text": "Eine großflächige Störung bei Microsoft 365 hat ab dem 31. August Exchange Online, Teams, SharePoint, OneDrive und Microsoft 365 Copilot beeinträchtigt und zog sich bis in den 1. September hinein. Als Ursache identifizierte Microsoft ein Fehlkonfigurations-Problem in einer zentralen Authentifizierungs-Komponente, die von mehreren 365-Diensten gemeinsam genutzt wird. Betroffen waren unter anderem die Mail-Zustellung und Suche in Exchange Online, Datei-Synchronisation und Suche in SharePoint und OneDrive sowie Suche, Kalender und Anwesenheitsstatus in Teams - zudem funktionierten Copilot-Anfragen nicht mehr korrekt, sofern sie auf 365-Daten zugreifen mussten. Am 1. September meldete Microsoft, die Kernfunktionen von Exchange Online seien wieder hergestellt, während einzelne Nachwirkungen bei der Suche noch andauerten. Der zweitägige Ausfall traf damit zentrale Business-Werkzeuge von Microsoft in einer Phase, in der der Konzern KI-Funktionen wie Copilot immer stärker als Umsatztreiber positioniert.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-09-01",
+      "datum_artikel": "2026-09-02",
       "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "Broadcom-Aktie fällt trotz Rekord-KI-Umsatz wegen schwachem Ausblick",
+      "text": "Broadcom hat am 2. September Zahlen für das dritte Geschäftsquartal vorgelegt: Der Gesamtumsatz stieg um 86 Prozent auf 29,59 Milliarden US-Dollar, der Umsatz mit KI-Halbleitern legte um 221 Prozent auf 16,7 Milliarden US-Dollar zu. Vorstandschef Hock Tan berichtete laut CNBC von anhaltend starker Nachfrage nach kundenspezifischen KI-Chips und Netzwerktechnik und stellte für das laufende vierte Quartal einen weiteren Sprung auf 21,7 Milliarden US-Dollar KI-Umsatz in Aussicht. Der Gesamtumsatz-Ausblick von 34,8 Milliarden US-Dollar blieb jedoch knapp unter den Analystenerwartungen von 35,03 Milliarden US-Dollar. Die Aktie fiel im nachbörslichen Handel um rund 5 Prozent, da Anleger nach der starken Kursentwicklung der vergangenen Monate offenbar noch höhere Wachstumsraten eingepreist hatten. Broadcom zählt neben NVIDIA zu den größten Profiteuren des KI-Chip-Booms.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-09-02",
+      "unternehmen": "Broadcom"
+    },
+    {
+      "titel": "Palantir-Chef Karp steigt bei Verteidigungs-Start-up von Ex-Ukraine-Minister ein",
+      "text": "Palantir-CEO Alex Karp wird laut Bloomberg vom 1. September der erste große Investor bei einem neuen Verteidigungstechnologie-Start-up, das vom früheren ukrainischen Verteidigungsminister gegründet wurde. Das Start-up soll Technologie für die Kriegsführung entwickeln, während die Ukraine weiterhin gegen die russische Invasion kämpft. Details zur Investitionssumme wurden nicht genannt. Karp und Palantir sind seit Jahren enge Partner westlicher Verteidigungsministerien und haben ihre Softwareanalyse-Tools zuletzt verstärkt an Regierungen und Militärs in Europa verkauft. Das Investment unterstreicht Palantirs strategische Nähe zur Verteidigungsbranche, kurz nachdem das Unternehmen im August seine Jahresprognose für Umsatz und Gewinn deutlich angehoben hatte.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-01",
+      "unternehmen": "Palantir"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Wells Fargo und JPMorgan warnen vor KI-Aktien - Fed-Zinserhöhung wird wahrscheinlicher",
-      "text": "Wells Fargo ist am 1. September als zweite große Bank binnen einer Woche zu einer vorsichtigeren Haltung gegenüber US-Aktien übergegangen und folgt damit JPMorgan, dessen Marktstrategen bereits am 31. August auf taktische Vorsicht umschwenkten. Auslöser war eine falkenhafte Rede von Fed-Chef Kevin Warsh, die die von Händlern eingepreiste Wahrscheinlichkeit einer Zinserhöhung im September von rund 40 auf 66 Prozent steigen ließ. Wells-Fargo-Chefstratege Ohsung Kwon warnte vor breiter Vorsicht angesichts des Starts in den September - historisch der schwächste Börsenmonat - und zusätzlicher Unsicherheit durch die anstehenden Zwischenwahlen. Beide Banken betonen zugleich, positive Impulse für den KI-Handel wie starke Quartalszahlen, neue Produkteinführungen und Investitionsankündigungen seien vom Markt inzwischen weitgehend eingepreist, sodass kurzfristig wenig neuer Rückenwind zu erwarten sei. Am selben Handelstag fiel der S&P 500 um rund 0,4 Prozent auf 7.658 Punkte, der Nasdaq Composite verlor rund 0,7 Prozent, und der Goldpreis sank um 1,9 Prozent auf 4.358,74 Dollar je Feinunze. Beide Institute betonen jedoch, ihre Vorsicht sei eine kurzfristige Positionierung und kein grundsätzliches Urteil über die US-Wirtschaft oder die Gewinnentwicklung der Unternehmen.",
+      "titel": "Globaler Anleihen-Ausverkauf treibt japanische Rendite auf 30-Jahres-Hoch, Nikkei fällt",
+      "text": "Die Rendite zehnjähriger japanischer Staatsanleihen erreichte am 2. September kurzzeitig 3 Prozent - den höchsten Stand seit 1996 - im Zuge eines weltweiten Ausverkaufs bei Staatsanleihen. Laut Bloomberg lag die Rendite 30-jähriger japanischer Anleihen bei 4,155 Prozent und damit nahe ihrem Rekordhoch seit Einführung dieser Laufzeit 1999. Der Nikkei 225 fiel daraufhin um 2,85 Prozent auf ein Vier-Wochen-Tief, belastet von steigenden Anleiherenditen, höheren Ölpreisen wegen der US-Iran-Spannungen und Erwartungen an eine Zinserhöhung der japanischen Notenbank. Verschärft wird der Ausverkauf durch Sorgen um Japans Haushaltspolitik unter der Regierung Takaichi sowie durch eine Welle neuer Anleihen großer US-Tech-Konzerne, die ihre milliardenschweren KI-Investitionen über Schulden finanzieren. Auch die Renditen in den USA, Deutschland und Frankreich stiegen auf mehrjährige Hochs, was die Sorge vor einer globalen Verschärfung der Finanzierungsbedingungen nährt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-02"
+    },
+    {
+      "titel": "Shein-Börsengang in Hongkong bricht zeitweise um 10 Prozent ein",
+      "text": "Der chinesische Fast-Fashion-Konzern Shein ist am 1. September in Hongkong an die Börse gegangen und wurde dabei laut Bloomberg nur noch mit rund 26 Milliarden US-Dollar bewertet - ein Bruchteil der einstigen privaten Bewertung von 100 Milliarden US-Dollar aus dem Jahr 2022. Die Aktie brach im frühen Handel um bis zu 10 Prozent auf 43,72 Hongkong-Dollar ein, bevor sie sich bis Handelsschluss nahezu auf den Ausgabepreis von 48,56 Hongkong-Dollar erholte. Mit dem Börsengang sammelte Shein umgerechnet rund 1,7 Milliarden US-Dollar ein. Investoren zeigten sich laut Bloomberg besorgt über nachlassendes Wachstum, steigende Handelskosten durch Zölle sowie zunehmenden regulatorischen Druck auf das Unternehmen. Der holprige Börsenstart gilt als Warnsignal für weitere china-nahe Konzerne, die einen Börsengang in Hongkong planen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-09-01"
     }
