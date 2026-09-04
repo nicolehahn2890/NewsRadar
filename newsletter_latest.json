@@ -1,61 +1,62 @@
 {
-  "datum": "Donnerstag, 3. September 2026",
-  "generiert": "2026-09-03",
+  "datum": "Freitag, 4. September 2026",
+  "generiert": "2026-09-04",
   "ki_stories": [
     {
-      "titel": "Anthropic gibt Firmenkunden volle Kontrolle über Claude-Datenspeicherung",
-      "text": "Anthropic hat am 1. September mit Enterprise Frontier Safeguards (EFS) ein neues System vorgestellt, das Firmenkunden erlaubt, sämtliche Nutzungsdaten und Protokolle von Claude in der eigenen Cloud-Infrastruktur zu speichern statt bei Anthropic selbst. Gleichzeitig läuft eine automatisierte Erkennung von Missbrauch, ohne dass Anthropic-Mitarbeiter die Daten einsehen müssen. Laut CNBC wurde das System gemeinsam mit Sicherheitsverantwortlichen großer US-Banken sowie Firmen wie Comcast, KPMG, Mastercard, Salesforce und Visa entwickelt - Gespräche liefen mit rund einem Viertel der Fortune-100-Unternehmen. Anthropic reagiert damit auf Beschwerden von Firmenkunden über die bisherigen Datenschutzregeln. Die Einführung erfolgt stufenweise, eine breitere Verfügbarkeit ist für den Herbst geplant, Kosten fallen für Kunden keine an.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-09-01"
+      "titel": "OpenAI veröffentlicht GPT-6 Astra und ruft die AGI-Ära aus",
+      "text": "OpenAI hat am Donnerstag GPT-6 Astra vorgestellt, das neue Flaggschiff-Modell für ChatGPT, Codex und die API. Firmenpräsident Greg Brockman bezeichnete das Modell als generationellen Sprung und erklärte, es könnte bereits die Schwelle zur AGI (allgemeinen künstlichen Intelligenz) erreichen. Astra erzielte in internen Tests nahezu perfekte Werte: 99,9 Prozent bei ARC-AGI-3, 97,6 Prozent bei FrontierMath und 100 Prozent beim Cybersicherheits-Benchmark ExploitBench. Das Modell soll Aufgaben rund um Browsing, Softwareentwicklung, Cybersicherheit und wissenschaftliches Arbeiten auf Rekordniveau bewältigen und wird schrittweise für ChatGPT Plus, Pro, Business- und Enterprise-Nutzer sowie über API und AWS freigeschaltet. Konkurrenten wie Anthropic und Google müssen sich nun an diesem neuen Maßstab messen lassen. Kritiker merken an, dass die AGI-Rhetorik auch dazu dienen könnte, Investoren vor dem geplanten Börsengang zu beeindrucken.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-03"
     },
     {
-      "titel": "Google bringt Gemini 3.8 Flash mit spürbar besseren Coding-Fähigkeiten",
-      "text": "Google hat am 2. September das neue Modell Gemini 3.8 Flash veröffentlicht - laut Wall Street Journal bereits das vierte Flash-Modell innerhalb von vier Monaten. Es verbessert sich gegenüber dem Vorgänger Gemini 3.7 Flash vor allem bei Softwareentwicklung, agentischen Aufgaben und mehrstufigem Schlussfolgern und erreicht im Artificial-Analysis-Intelligence-Index 59 Punkte, drei mehr als zuvor. Der Preis bleibt mit 0,75 US-Dollar je Million Eingabe-Token und 3,75 US-Dollar je Million Ausgabe-Token unverändert. Zusätzlich bringt Google mit Gemini 3.8 Flash Cyber eine spezialisierte Variante zur Schwachstellenerkennung, die zunächst nur ausgewählten Regierungsstellen und Betreibern kritischer Infrastruktur zur Verfügung steht. Mit dem schnellen Modell-Takt reagiert Google auf den wachsenden Konkurrenzdruck durch OpenAI und Anthropic im Bereich Programmier-KI.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-09-02"
-    },
-    {
-      "titel": "Trump-Regierung stellt sich im Urheberrechtsstreit auf die Seite von OpenAI",
-      "text": "Das US-Justizministerium hat sich am 1. September erstmals in einen der zahlreichen KI-Urheberrechtsprozesse eingeschaltet und vor einem New Yorker Bundesgericht die Fair-Use-Verteidigung von OpenAI gegen die New York Times unterstützt. Laut Washington Post argumentiert die Regierung, das Training von Sprachmodellen mit urheberrechtlich geschützten Texten sei ausreichend transformativ und diene zudem der nationalen Sicherheit sowie der US-Führungsrolle im KI-Wettlauf mit China. Eine solche Stellungnahme ist rechtlich nicht bindend, markiert aber die erste offizielle Positionierung Washingtons in der wachsenden Klagewelle von Verlagen, Autoren und Musiklabels gegen KI-Firmen. Die New York Times reagierte scharf und warf der Regierung vor, sich auf die Seite milliardenschwerer KI-Konzerne zu stellen, zulasten der Kreativen, deren Werke genutzt wurden. Der seit Ende 2023 laufende Rechtsstreit zwischen der Times, OpenAI und Microsoft gilt als richtungsweisend für die gesamte Branche.",
-      "quelle": "Washington Post",
+      "titel": "Alibabas Qwen3.8-Max-0902 schlägt Claude Opus 5 beim Programmieren",
+      "text": "Der chinesische Technologiekonzern Alibaba hat am 2. September ein verbessertes Update seines Flaggschiff-Modells Qwen3.8-Max veröffentlicht. Die neue Version 0902 wurde gezielt für Programmieraufgaben und komplexe, mehrstufige Agenten-Tätigkeiten nachtrainiert, während Architektur mit 2,4 Billionen Parametern und 1 Million Token Kontextfenster unverändert blieben. In der Rangliste Code Arena WebDev liegt Qwen3.8-Max-0902 mit 1.691 Punkten nun knapp vor Anthropics Claude Opus 5 Max (1.687) und deutlich vor Kimi K3 Max (1.674). Auf mehreren internen Programmier-Benchmarks verdoppelten sich die Werte gegenüber der Vorversion nahezu. Die Preise blieben unverändert, bestehende Kunden erhalten das Upgrade kostenlos. Der Fortschritt zeigt, wie schnell chinesische Anbieter trotz weiterhin bestehender Exportbeschränkungen für Hochleistungs-Chips zu den US-Marktführern aufschließen.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-09-02"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Microsoft veröffentlicht künftig eigene Umsatzzahlen für Azure",
-      "text": "Microsoft hat am 2. September angekündigt, künftig quartalsweise konkrete Umsatzzahlen für die Cloud-Sparte Azure offenzulegen - nach Jahren der Kritik von Investoren an der mangelnden Transparenz bei Microsofts wichtigstem Wachstumstreiber. Laut Bloomberg lag der Azure-Umsatz im zuletzt berichteten Quartal bis Ende Juni bei 29,4 Milliarden US-Dollar. Investor-Relations-Chef Jonathan Neilson begründete den Schritt damit, dass angesichts der Größe von Azure nun der richtige Zeitpunkt für mehr Transparenz sei. Microsoft baut zudem seine Konzernstruktur um und bündelt die Bereiche künftig in Agents and Infra sowie Devices and Consumer. Der Schritt soll Anlegern eine bessere Einschätzung ermöglichen, wie stark sich die milliardenschweren KI-Investitionen tatsächlich in Umsatz niederschlagen.",
+      "titel": "NVIDIA übernimmt KI-Plattform Hugging Face für rund 13 Milliarden Dollar",
+      "text": "NVIDIA hat sich auf die Übernahme der KI-Plattform Hugging Face für rund 13 Milliarden Dollar geeinigt, wie das Unternehmen am Donnerstag bestätigte. Davon fließen 11,9 Milliarden Dollar an die bisherigen Anteilseigner, rund 1 Milliarde Dollar sind als Aktienpaket zur Mitarbeiterbindung vorgesehen. Hugging Face zählt mehr als 18 Millionen Entwickler und über 200.000 Unternehmen zu seinen Nutzern und beherbergt mehr als 3 Millionen KI-Modelle - der Deal bewertet das Start-up damit weit über seiner letzten Bewertung von 4,5 Milliarden Dollar aus dem Jahr 2023. NVIDIA sicherte zu, die Plattform offen zu halten und weiterhin Open-Source- und Open-Weight-Modelle zu unterstützen. Der Kauf soll in der ersten Hälfte 2027 abgeschlossen werden und muss noch von Kartellbehörden geprüft werden. Für NVIDIA ist es ein weiterer Schritt weg vom reinen Chiphersteller hin zu einer umfassenden KI-Softwareplattform.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-02",
-      "unternehmen": "Microsoft"
+      "datum_artikel": "2026-09-03",
+      "unternehmen": "NVIDIA"
     },
     {
-      "titel": "Broadcom-Aktie fällt trotz Rekord-KI-Umsatz wegen schwachem Ausblick",
-      "text": "Broadcom hat am 2. September Zahlen für das dritte Geschäftsquartal vorgelegt: Der Gesamtumsatz stieg um 86 Prozent auf 29,59 Milliarden US-Dollar, der Umsatz mit KI-Halbleitern legte um 221 Prozent auf 16,7 Milliarden US-Dollar zu. Vorstandschef Hock Tan berichtete laut CNBC von anhaltend starker Nachfrage nach kundenspezifischen KI-Chips und Netzwerktechnik und stellte für das laufende vierte Quartal einen weiteren Sprung auf 21,7 Milliarden US-Dollar KI-Umsatz in Aussicht. Der Gesamtumsatz-Ausblick von 34,8 Milliarden US-Dollar blieb jedoch knapp unter den Analystenerwartungen von 35,03 Milliarden US-Dollar. Die Aktie fiel im nachbörslichen Handel um rund 5 Prozent, da Anleger nach der starken Kursentwicklung der vergangenen Monate offenbar noch höhere Wachstumsraten eingepreist hatten. Broadcom zählt neben NVIDIA zu den größten Profiteuren des KI-Chip-Booms.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-09-02",
-      "unternehmen": "Broadcom"
+      "titel": "Pentagon widerspricht Minister Lutnick: Anthropic bleibt auf Risikoliste",
+      "text": "Ein hochrangiger Pentagon-Vertreter hat am Donnerstag klargestellt, dass Anthropic weiterhin offiziell als Supply Chain Risk für die Verteidigungsindustrie eingestuft ist - nur einen Tag, nachdem US-Handelsminister Howard Lutnick öffentlich erklärt hatte, das Unternehmen habe seine Differenzen mit der Regierung beigelegt. Emil Michael, Unterstaatssekretär für Forschung und Technik im Pentagon, widersprach Lutnick ausdrücklich auf X. Hintergrund ist ein 200-Millionen-Dollar-Vertragsstreit: Anthropic wollte vertraglich ausschließen, dass Claude-Modelle für autonome Waffensysteme oder Massenüberwachung im Inland genutzt werden, was das Verteidigungsministerium ablehnte. Erst Ende August hatte ein Bundesrichter die ursprüngliche Risikoeinstufung durch Verteidigungsminister Pete Hegseth als rechtswidrige, willkürliche Vergeltungsmaßnahme eingestuft. Der neue Vorfall zeigt, dass der Konflikt trotz Gerichtssieg und gegenteiliger Aussagen aus dem Handelsministerium ungelöst bleibt und Anthropics Geschäft mit Verteidigungsbehörden weiter belastet.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-03",
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "Palantir-Chef Karp steigt bei Verteidigungs-Start-up von Ex-Ukraine-Minister ein",
-      "text": "Palantir-CEO Alex Karp wird laut Bloomberg vom 1. September der erste große Investor bei einem neuen Verteidigungstechnologie-Start-up, das vom früheren ukrainischen Verteidigungsminister gegründet wurde. Das Start-up soll Technologie für die Kriegsführung entwickeln, während die Ukraine weiterhin gegen die russische Invasion kämpft. Details zur Investitionssumme wurden nicht genannt. Karp und Palantir sind seit Jahren enge Partner westlicher Verteidigungsministerien und haben ihre Softwareanalyse-Tools zuletzt verstärkt an Regierungen und Militärs in Europa verkauft. Das Investment unterstreicht Palantirs strategische Nähe zur Verteidigungsbranche, kurz nachdem das Unternehmen im August seine Jahresprognose für Umsatz und Gewinn deutlich angehoben hatte.",
+      "titel": "Meta bringt KI-Modell Muse Spark 1.3 mit starker Programmier-Leistung",
+      "text": "Meta hat am 2. September Version 1.3 seines KI-Modells Muse Spark veröffentlicht, das gezielt für Programmieraufgaben und komplexe, lang laufende Agenten-Workflows entwickelt wurde. Das Modell verfügt über ein Kontextfenster von 1 Million Token, verarbeitet Text, Bilder und Video und benötigt für vergleichbare Aufgaben rund 20 Prozent weniger Werkzeug-Aufrufe und 25 Prozent weniger Token als die Vorgängerversion. Zum Funktionsumfang gehören eine Computer-Use-Funktion, mit der das Modell Bildschirme selbst bedienen kann, Websuche in Echtzeit sowie eine Mehr-Agenten-Orchestrierung, die aus einer Produktidee eine funktionsfähige Anwendung bauen kann. Meta führte zudem eine ungewöhnliche zweistufige Preisstruktur ein: 1,25 Dollar pro Million Input-Token im Standardtarif, aber nur 0,10 Dollar, wenn Kunden Meta die Nutzung ihrer Daten zur Produktverbesserung erlauben. Branchenbeobachter sehen Meta damit in der Spitzengruppe der KI-Anbieter angekommen, was den Wettbewerb um die beste Programmier-KI weiter verschärft.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-09-02",
+      "unternehmen": "Meta"
+    },
+    {
+      "titel": "Anthropic sichert sich vor Börsengang Kreditlinie über 15 Milliarden Dollar",
+      "text": "Anthropic steht kurz davor, seine revolvierende Kreditlinie auf 15 Milliarden Dollar auszuweiten - ein wichtiger Schritt vor der geplanten Börsenanmeldung. Morgan Stanley leitet den Prozess, Goldman Sachs, JPMorgan Chase und Citigroup sind ebenfalls prominent beteiligt; dieselben vier Banken sollen auch den eigentlichen Börsengang begleiten. Die neue Kreditlinie wäre sechsmal so groß wie die bisherige Fünf-Jahres-Fazilität über 2,5 Milliarden Dollar aus dem Vorjahr. Anthropic will beim Börsengang offenbar ähnlich viel Kapital einsammeln wie zuletzt SpaceX. Details der Fazilität können sich laut Bloomberg noch ändern. Die Finanzierungsrunde zeigt, wie intensiv sich Anthropic derzeit auf einen der größten Tech-Börsengänge der vergangenen Jahre vorbereitet - parallel zum ungelösten Streit mit dem Pentagon um die Risikoeinstufung des Unternehmens.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-01",
-      "unternehmen": "Palantir"
+      "datum_artikel": "2026-09-03",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Globaler Anleihen-Ausverkauf treibt japanische Rendite auf 30-Jahres-Hoch, Nikkei fällt",
-      "text": "Die Rendite zehnjähriger japanischer Staatsanleihen erreichte am 2. September kurzzeitig 3 Prozent - den höchsten Stand seit 1996 - im Zuge eines weltweiten Ausverkaufs bei Staatsanleihen. Laut Bloomberg lag die Rendite 30-jähriger japanischer Anleihen bei 4,155 Prozent und damit nahe ihrem Rekordhoch seit Einführung dieser Laufzeit 1999. Der Nikkei 225 fiel daraufhin um 2,85 Prozent auf ein Vier-Wochen-Tief, belastet von steigenden Anleiherenditen, höheren Ölpreisen wegen der US-Iran-Spannungen und Erwartungen an eine Zinserhöhung der japanischen Notenbank. Verschärft wird der Ausverkauf durch Sorgen um Japans Haushaltspolitik unter der Regierung Takaichi sowie durch eine Welle neuer Anleihen großer US-Tech-Konzerne, die ihre milliardenschweren KI-Investitionen über Schulden finanzieren. Auch die Renditen in den USA, Deutschland und Frankreich stiegen auf mehrjährige Hochs, was die Sorge vor einer globalen Verschärfung der Finanzierungsbedingungen nährt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-02"
+      "titel": "Iran-Konflikt eskaliert weiter: Öl auf Fünf-Wochen-Hoch, Gold zieht an",
+      "text": "Die USA haben am Dienstag erneut Luftangriffe auf Ziele der iranischen Revolutionsgarden geflogen - darunter Luftabwehrstellungen, Radaranlagen, Häfen und Minenlege-Kapazitäten -, nachdem zuvor bereits Tanker in der Straße von Hormus angegriffen worden waren. Bei einem der Angriffe wurden laut lokalen Behörden bei einer Hochzeitsfeier fünf Menschen getötet, landesweit starben mindestens elf Menschen im Iran. Die Revolutionsgarden drohten mit schwereren und umfassenderen Vergeltungsschlägen und meldeten eigene Angriffe auf US-Stützpunkte in Bahrain, Jordanien und im Irak. Die Ölpreise stiegen daraufhin um mehr als 4 Dollar je Barrel auf ein Fünf-Wochen-Hoch, weil laut Daten der US-Energiebehörde EIA die Durchflussmenge durch die für den globalen Öltransport zentrale Straße von Hormus deutlich zurückging. Am Donnerstag legte der Goldpreis um gut 2 Prozent auf rund 4.478 Dollar je Feinunze zu, gestützt von sinkenden Anleiherenditen und der Hoffnung, dass die jüngste Eskalation nicht von Dauer ist. Der seit Monaten schwelende Konflikt belastet zunehmend auch Präsident Trumps Popularität im Inland und sorgt für anhaltende Nervosität an den Rohstoffmärkten.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-09-03"
     },
     {
-      "titel": "Shein-Börsengang in Hongkong bricht zeitweise um 10 Prozent ein",
-      "text": "Der chinesische Fast-Fashion-Konzern Shein ist am 1. September in Hongkong an die Börse gegangen und wurde dabei laut Bloomberg nur noch mit rund 26 Milliarden US-Dollar bewertet - ein Bruchteil der einstigen privaten Bewertung von 100 Milliarden US-Dollar aus dem Jahr 2022. Die Aktie brach im frühen Handel um bis zu 10 Prozent auf 43,72 Hongkong-Dollar ein, bevor sie sich bis Handelsschluss nahezu auf den Ausgabepreis von 48,56 Hongkong-Dollar erholte. Mit dem Börsengang sammelte Shein umgerechnet rund 1,7 Milliarden US-Dollar ein. Investoren zeigten sich laut Bloomberg besorgt über nachlassendes Wachstum, steigende Handelskosten durch Zölle sowie zunehmenden regulatorischen Druck auf das Unternehmen. Der holprige Börsenstart gilt als Warnsignal für weitere china-nahe Konzerne, die einen Börsengang in Hongkong planen.",
+      "titel": "Russland-Sanktionsgesetz steckt im US-Repräsentantenhaus fest",
+      "text": "Ein von Senator Lindsey Graham initiiertes Sanktionsgesetz gegen Russland, das der Senat bereits am 7. August mit 86 zu 11 Stimmen verabschiedet hatte, hängt weiterhin im Repräsentantenhaus fest, wie Bloomberg am Donnerstag berichtete. Das Gesetz würde der Regierung erlauben, sekundäre Zölle von bis zu 100 Prozent gegen die fünf größten Abnehmerländer von russischem Öl und Gas sowie gegen Länder zu verhängen, die Sanktionsumgehungen erleichtern. Zentraler Streitpunkt ist die Sorge, dass das Gesetz Präsident Trump zusätzliche Zollvollmachten verschaffen würde, die der Oberste Gerichtshof zuvor bereits eingeschränkt hatte - Republikaner und Demokraten befürchten zudem steigende Ölpreise und Belastungen für den Einzelhandel. Die republikanische Führung im Repräsentantenhaus hat bislang weder eine Abstimmung terminiert noch signalisiert, ob sie über die unveränderte Senatsversion abstimmen will. Beobachter gehen davon aus, dass das Gesetz frühestens nach den Kongresswahlen im November eine Chance hat - für die Märkte bedeutet das vorerst anhaltende Unsicherheit über mögliche neue Öl-Zölle und den Kurs der US-Sanktionspolitik gegenüber Russland.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-01"
+      "datum_artikel": "2026-09-03"
     }
   ]
 }
