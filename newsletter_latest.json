@@ -1,35 +1,34 @@
 {
-  "datum": "Sonntag, 6. September 2026",
-  "generiert": "2026-09-06",
+  "datum": "Montag, 7. September 2026",
+  "generiert": "2026-09-07",
   "ki_stories": [
     {
-      "titel": "Claude beweist Fermats letzten Satz – größter je erstellter Lean-Beweis",
-      "text": "Anthropic hat mitgeteilt, dass sein KI-Modell Claude in nur elf Tagen weitgehend eigenständig den ersten vollständig computergeprüften Beweis von Fermats letztem Satz in der Beweisassistenz-Sprache Lean erstellt hat. Dabei schrieb Claude rund 13 Millionen Zeilen Lean-Code und bewies etwa 30.300 Zwischensätze, von denen 29.500 in den finalen Beweis einflossen – nach Anthropics Angaben der bislang größte je verfasste Lean-Beweis. Mathematiker hatten erwartet, dass die Formalisierung von Andrew Wiles' Originalbeweis aus dem Jahr 1995 mehrere Jahre dauern würde. Möglich wurde der Durchbruch durch Zugriff auf die offene Kollaborationsplattform Prove2Me, die von Anthropic-Forscher Tianyi Peng und Kollegen der Columbia University mitentwickelt wurde. Für Anthropic ist der Erfolg ein weiterer Beleg dafür, wie leistungsfähig seine Modelle inzwischen bei komplexer, autonomer Denkarbeit sind – ein Argument, das kurz vor dem geplanten Börsengang besonders viel Gewicht hat.",
-      "quelle": "Anthropic",
-      "datum_artikel": "2026-09-04"
+      "titel": "OpenAI meldet Meilenstein: KI als automatisierter Forschungs-Praktikant",
+      "text": "OpenAI hat am 6. September in einem Bericht mit dem Titel 'Research acceleration: The view inside OpenAI' erklärt, ein bereits im vergangenen Herbst gestecktes Ziel erreicht zu haben: einen automatisierten KI-Forschungs-Praktikanten, der klar definierte Forschungsaufgaben eigenständig übernehmen kann, für die menschliche Forscher sonst mehrere Tage bräuchten. Laut dem Bericht setzt die Forschungsabteilung inzwischen im Schnitt 3,1 Agenten-Arbeitstage pro menschlichem Arbeitstag ein - Anfang 2026 nutzten die meisten Forscher Coding-Agenten noch kaum, bis August 2026 setzte der durchschnittliche Forscher sie täglich ein und verbrauchte dabei mehr als 600 Dollar an Rechenleistung pro Tag. Die Zahl der Experimente pro aktivem Forscher erreichte im August 2026 einen Höchststand seit Beginn der Messungen im Januar 2025. OpenAI räumt allerdings ein, dass die Agenten bei komplexeren, mehrstündigen Aufgaben weiterhin oft menschliches Eingreifen benötigen. Als nächstes Ziel peilt das Unternehmen einen vollautomatisierten KI-Forscher bis März 2028 an.",
+      "quelle": "OpenAI",
+      "datum_artikel": "2026-09-06"
     },
     {
-      "titel": "Trumps Rechenzentren-Kurs wird für Republikaner zum Wahlkampf-Risiko",
-      "text": "Laut Bloomberg bringt Präsident Donald Trumps unbedingte Unterstützung für den Bau neuer KI-Rechenzentren die Republikaner zunehmend in Bedrängnis vor den Kongresswahlen im November. Umfragen zufolge lehnen rund sieben von zehn Amerikanern den Bau solcher Anlagen in ihrer Nähe ab, unter anderem wegen befürchteter Strompreiserhöhungen und hohem Wasserverbrauch. Die Demokraten versuchen gezielt, das Thema mit den Lebenshaltungskosten zu verknüpfen, um republikanische Kandidaten unter Druck zu setzen. Innerhalb der Partei gibt es bereits offene Risse: Der GOP-Senatskandidat in Michigan, Mike Rogers, fordert ein einjähriges Moratorium für neue Rechenzentren, und der republikanische Gouverneurskandidat in Wisconsin, Tom Tiffany, verlangt strenge Auflagen. Politische Strategen warnten die Regierung intern bereits, sie drohe den Kampf um die öffentliche Meinung in dieser Frage zu verlieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-05"
+      "titel": "Modell-Müdigkeit: KI-Labore veröffentlichen im Wochentakt neue Modelle",
+      "text": "Innerhalb einer einzigen Woche brachten Anthropic, Google, Meta und OpenAI jeweils neue KI-Modelle heraus - Anthropic mit Claude Fable 5.1 und Mythos 5.1, Google mit Gemini 3.8 Flash, Meta mit Muse Spark 1.3 und OpenAI mit GPT-6 Astra. Laut einem CNBC-Bericht vom 6. September führt das Tempo bei Firmenkunden zu einer echten 'Modell-Müdigkeit': IT-Verantwortliche und Finanzchefs kommen mit dem Kosten- und Leistungsvergleich nicht mehr hinterher, bevor schon das nächste Modell erscheint. Branchenbeobachter werten das Tempo als Wettlauf um Marktanteile, bei dem Anthropic und OpenAI besonders unter Druck stehen, weil beide vor einem möglichen Börsengang mit einer Bewertung von jeweils nahe einer Billion Dollar stehen. Für Unternehmen, die KI-Modelle in eigene Produkte einbauen wollen, bedeutet das wachsende Unsicherheit bei der Wahl der passenden Technologie, da sich der Vergleich staendig aendert."
+      ,
+      "quelle": "CNBC",
+      "datum_artikel": "2026-09-06"
     }
   ],
-  "unternehmen_stories": [
-    {
-      "titel": "Anthropic verschiebt Börsengang auf Mitte Oktober, knapp vor Kongresswahlen",
-      "text": "Anthropic verschiebt einem exklusiven Reuters-Bericht zufolge den Start seines Börsengangs auf frühestens Mitte Oktober, nachdem ursprünglich ein Termin bereits kurz nach dem Labor-Day-Feiertag angepeilt worden war. Der eigentliche Handelsstart der Aktie soll damit nur wenige Tage vor den US-Kongresswahlen am 3. November erfolgen. Der Zeitplan zielt weiterhin auf eine Bewertung von bis zu 2 Billionen Dollar ab, was den Börsengang zu einem der größten der Geschichte machen würde. Parallel arbeitet Anthropic an einer Erweiterung seiner revolvierenden Kreditlinie auf 15 Milliarden Dollar; an dem Deal sind unter anderem Morgan Stanley, Goldman Sachs, JPMorgan und Citi beteiligt. Die Verschiebung zeigt, wie sorgfältig Anthropic das Timing angesichts der politisch aufgeladenen Stimmung rund um KI-Investitionen kurz vor den Wahlen plant. Nach Angaben von Insidern können sich die Pläne aber noch ändern.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-09-05",
-      "unternehmen": "Anthropic"
-    }
-  ],
+  "unternehmen_stories": [],
   "boerse_stories": [
     {
-      "titel": "Ölpreis auf Sechs-Wochen-Hoch, nachdem Iran gezielt US-Verbündete am Golf angreift",
-      "text": "Nach rund einem Monat relativer Ruhe haben die USA und Iran in dieser Woche wieder direkt militärisch aufeinander eingeschlagen – mit spürbaren Folgen für die Ölmärkte. Iran griff nach Angaben von CNBC mit Raketen und Drohnen gezielt Kuwait, Bahrain und Jordanien an, die als Verbündete der USA gelten; Kuwait und Bahrain meldeten, ihre Luftabwehr habe mehrere Geschosse abgefangen. Die Sorte Brent verteuerte sich in der Folge auf rund 97 Dollar je Barrel, US-Leichtöl WTI auf etwa 92 Dollar – ein Wochenplus von rund 9 Prozent und der stärkste Anstieg seit Mitte Juli. Zusätzlich befeuert wurde die Nervosität durch israelische Warnungen, man werde Irans militärische und zivile Infrastruktur andernfalls lahmlegen. Nachdem der Ölpreis bereits Anfang der Woche ein Fünf-Wochen-Hoch erreicht hatte, zeigt die erneute Eskalation mit Angriffen auf gleich drei Golfstaaten, dass der Konflikt weiter an Schärfe gewinnt statt abzuklingen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-09-04"
+      "titel": "USA greifen iranische Öltanker an - Ölpreis zieht weiter an",
+      "text": "Der Konflikt zwischen den USA und Iran hat sich am Wochenende deutlich zugespitzt: Das US-Zentralkommando erklärte, es habe drei iranische Öltanker angegriffen, nachdem die Revolutionsgarde (IRGC) zuvor ballistische Raketen auf zwei US-Kriegsschiffe in der Straße von Hormus abgefeuert hatte. Damit kam es zur bislang direktesten militärischen Konfrontation zwischen beiden Seiten seit Juli - zuvor hatte der Konflikt vor allem US-Verbündete am Golf getroffen, wie noch am Wochenende zuvor berichtet. Iran kündigte als Reaktion eine neue Sperrzone außerhalb der Straße von Hormus an. Die Ölpreise reagierten mit weiteren Aufschlägen: Brent-Rohöl kletterte in Richtung 97 Dollar je Barrel, nachdem der Preis bereits in der Vorwoche um mehr als 8 Prozent gestiegen war, US-Rohöl (WTI) legte in der Woche um mehr als 9 Prozent zu. Laut Berichten transportierten am Montag trotz der Eskalation weiterhin mehr als 17 Millionen Barrel Öl unter US-Schutz durch die Straße von Hormus. Analysten warnen, eine weitere Eskalation könnte die Ölversorgung aus der für den Welthandel zentralen Meerenge ernsthaft gefährden.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-05"
+    },
+    {
+      "titel": "Chip-Rally treibt Kospi und Nikkei am Montag deutlich nach oben",
+      "text": "Die asiatischen Börsen sind am 7. September kräftig gestiegen, angeführt von Halbleiterwerten. Der südkoreanische Kospi eröffnete 3,34 Prozent höher bei 6.910,78 Punkten und kletterte damit wieder über die Marke von 6.900 Zählern, getragen von Kursgewinnen bei Samsung Electronics und SK Hynix. Laut Marktdaten kauften ausländische und institutionelle Investoren netto Aktien im Gegenwert von rund 768,4 Milliarden Won zu. Auch der japanische Nikkei legte rund ein Prozent zu, nachdem zuvor bereits US-Halbleiteraktien deutlich gestiegen waren. Laut Bloomberg spekulieren Investoren nach robusten US-Arbeitsmarktdaten und positiver Stimmung rund um OpenAIs neues Modell GPT-6 Astra auf anhaltend hohe Nachfrage nach KI-Speicherchips. Die Investmentbank Goldman Sachs bekräftigte zudem ihr Kursziel von 12.000 Punkten für den Kospi - das entspräche einem Anstieg von fast 80 Prozent gegenüber dem aktuellen Niveau.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-07"
     }
   ]
 }
