@@ -1,33 +1,49 @@
 {
-  "datum": "Dienstag, 8. September 2026",
-  "generiert": "2026-09-08",
+  "datum": "Mittwoch, 9. September 2026",
+  "generiert": "2026-09-09",
   "ki_stories": [
     {
-      "titel": "OpenAI-Chefwissenschaftler warnt vor Tempo der KI-Entwicklung",
-      "text": "In einem am Montag veröffentlichten Essay mit dem Titel 'An Alien Mind' warnte OpenAI-Chefwissenschaftler Jakub Pachocki eindringlich vor dem aktuellen Tempo der KI-Entwicklung. Er schrieb, die Branche erwarte, dass KI-Systeme schon bald in der Lage sein werden, sich selbst zu verbessern, ohne dass Menschen eingreifen müssen - ein Prozess, der als rekursive Selbstverbesserung bezeichnet wird. Pachocki betonte, aktuelle Systeme könnten bereits Computer bedienen, mit Menschen und anderen KI-Systemen zusammenarbeiten sowie eigenständig Forschungs- und Cybersicherheitsaufgaben durchführen. Er rief die gesamte Branche zu freiwilligen Verlangsamungen auf, bis gemeinsame Sicherheitsstandards etabliert seien, und warnte, niemand sei auf die Folgen eines anhaltend schnellen Anstiegs der Maschinenintelligenz vorbereitet. Bemerkenswert ist, dass diese Warnung von einem der führenden Wissenschaftler eines Unternehmens kommt, das selbst im Zentrum des globalen KI-Wettlaufs steht.",
+      "titel": "USA werfen chinesischen KI-Firmen systematischen Modell-Diebstahl vor",
+      "text": "US-Geheimdienste (NSA, CISA und FBI) beschuldigen führende chinesische KI-Unternehmen - darunter DeepSeek, Alibaba, Moonshot AI, MiniMax, StepFun und Z.AI - der systematischen 'Distillation' amerikanischer KI-Modelle. Laut der gemeinsamen Warnung haben die Firmen seit mindestens 2024 in industriellem Ausmaß Milliarden Tokens aus Millionen Anfragen an US-Spitzenmodelle abgezapft, darunter Varianten von Anthropics Claude, OpenAIs GPT, Googles Gemini und xAIs Grok. Mit den abgegriffenen Antworten trainierten die chinesischen Labore eigene Modelle wie DeepSeeks R1 und V3, mutmaßlich mit Wissen der chinesischen Regierung. Anthropic hatte bereits im Juni bei der US-Regierung Exportkontrollen gegen chinesische Labore gefordert, nachdem es Alibaba vorgeworfen hatte, Qwen-Modelle mit Claude-Antworten trainiert zu haben. Die Warnung dürfte den Ruf nach schärferen Exportkontrollen und besserer Absicherung von US-Modellen weiter befeuern.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-07"
+      "datum_artikel": "2026-09-09"
     },
     {
-      "titel": "Google und Cathay Pacific setzen KI gegen Kondensstreifen von Flugzeugen ein",
-      "text": "Google und die Fluggesellschaft Cathay Pacific testen künstliche Intelligenz, um die klimaschädlichen Kondensstreifen von Flugzeugen zu verringern. Die weißen Wolkenstreifen entstehen unter bestimmten Wetterbedingungen aus gefrorenem Wasserdampf und Triebwerksabgasen und wirken ähnlich wie natürliche Zirruswolken, die Wärme in der Atmosphäre einschließen und so zur Erderwärmung beitragen. Mithilfe von KI-Modellen sollen Piloten künftig Flugrouten und Flughöhen so anpassen können, dass besonders klimaschädliche Kondensstreifen vermieden werden. Google beschreibt das Projekt als Beispiel dafür, wie KI auf ein bislang wenig beachtetes, aber sichtbares Klimaproblem der Luftfahrt angewendet werden kann. Die Kooperation zeigt, wie große Tech-Konzerne versuchen, ihre KI-Systeme über den Chatbot-Bereich hinaus für konkrete industrielle und ökologische Anwendungen nutzbar zu machen.",
-      "quelle": "Bloomberg",
+      "titel": "China plant Vervierfachung seiner KI-Rechenkapazität bis 2030",
+      "text": "Chinas Industrieministerium MIIT hat einen Fünfjahresplan für die Informations- und Kommunikationsbranche 2026-2030 vorgestellt, der die landesweite KI-Rechenkapazität von 1.590 auf 9.800 Exaflops mehr als vervierfachen soll. Dafür sind kumulierte Infrastruktur-Investitionen von umgerechnet rund 490 Milliarden Euro (3,8 Billionen Yuan) vorgesehen, dazu ein Ausbau der Speicherkapazität von 540 auf 1.700 Exabyte. Bereits Ende Juni lag Chinas Rechenleistung bei 2.185 Exaflops, ein Plus von 177 Prozent gegenüber dem Vorjahr, verteilt auf 52 Großrechenzentren mit jeweils über 10.000 Beschleunigerkarten. Der Plan sieht zudem den verstärkten Einsatz heimischer Chips vor, um die Abhängigkeit von US-Technologie zu verringern. Die Ankündigung fällt zusammen mit den US-Vorwürfen des systematischen Modell-Diebstahls und unterstreicht Pekings Ambition, im globalen KI-Wettlauf technologisch aufzuschließen.",
+      "quelle": "South China Morning Post",
       "datum_artikel": "2026-09-07"
     }
   ],
-  "unternehmen_stories": [],
-  "boerse_stories": [
+  "unternehmen_stories": [
     {
-      "titel": "Kanada verhängt ab Dienstag Gegenzölle auf US-Waren",
-      "text": "Kanadas Premierminister Mark Carney hat angekündigt, ab Dienstag, dem 8. September, Gegenzölle von 15 bis 50 Prozent auf US-Produkte im Gesamtwert von rund 20 Milliarden Dollar zu erheben. Die Maßnahme ist die direkte Antwort auf die von US-Präsident Donald Trump im August verhängten 50-prozentigen Zölle auf kanadische Importe. Carney setzt darauf, dass ein hartes Auftreten gegenüber Washington Kanadas Verhandlungsposition mit seinem wichtigsten Handelspartner langfristig stärkt. Die Eskalation erhöht das Risiko eines breiteren Handelskriegs zwischen den beiden eng verflochtenen Volkswirtschaften, auch wenn kanadische Aktien trotz der Zollandrohungen bislang weiter Kapitalzuflüsse verzeichnen. Analysten warnen, eine weitere Eskalation könnte Lieferketten in Nordamerika belasten und die Inflation in beiden Ländern anheizen.",
+      "titel": "Meta startet persönlichen KI-Agenten Muse für Alltagsaufgaben",
+      "text": "Meta hat seinen neuen KI-Agenten Muse für Nutzer in den USA veröffentlicht - über die Web-App muse.ai, eigene Apps für iOS und Android sowie einen Chat in WhatsApp; eine Integration in Metas KI-Brillen soll folgen. Muse soll Alltagsaufgaben eigenständig erledigen, etwa Online-Einkäufe tätigen, Kinokarten buchen, Termine wie den Tennisunterricht koordinieren oder Formulare ausfüllen, indem er sich mit E-Mail, Kalender, Zahlungsdiensten und weiteren Alltags-Apps verbindet. Der Agent läuft aus Sicherheitsgründen in isolierten virtuellen Maschinen mit eigenen Schutzmechanismen. Meta bietet eine kostenlose Version sowie zwei Abo-Stufen für 20 und 100 Dollar im Monat an. Mit Muse positioniert sich Meta im wachsenden Wettbewerb um persönliche KI-Assistenten, in dem auch OpenAI, Google und Anthropic um Marktanteile ringen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-07"
+      "datum_artikel": "2026-09-08",
+      "unternehmen": "Meta"
     },
     {
-      "titel": "Ölpreis zieht an - Iran und Oman einigen sich auf sichere Route durch Straße von Hormus",
-      "text": "Die Ölpreise legten am Montag weiter zu, nachdem der Iran mitgeteilt hatte, ein Abkommen mit Oman über eine sichere Durchfahrt durch die Straße von Hormus stehe kurz vor dem Abschluss. West Texas Intermediate handelte über 92 Dollar je Barrel, Brent-Rohöl schloss bei rund 97 Dollar. Der Deal soll laut Teheran eine vorübergehende sichere Route durch die für den globalen Ölhandel entscheidende Meerenge schaffen - nachdem die USA am Wochenende gezielt iranische Öltanker angegriffen hatten. Gleichzeitig warnte Teheran, Schiffe in der Nähe Omans blieben weiterhin dem Risiko von Angriffen ausgesetzt, was die Unsicherheit unter Händlern hochhält. Wie Washington auf die neue iranisch-omanische Vereinbarung reagieren wird, ist offen; Marktbeobachter rechnen daher mit anhaltend hoher Volatilität beim Ölpreis.",
+      "titel": "Anthropic springt kurz vor Abschluss von 6-Milliarden-Dollar-Deal mit Decart ab",
+      "text": "Anthropic hat die geplante Übernahme des israelischen KI-Start-ups Decart im Wert von rund 6 Milliarden Dollar nach abgeschlossener Due-Diligence-Prüfung abgesagt. Decart entwickelt Software, die das Training und den Betrieb von KI-Modellen effizienter macht, indem sie Chips besser auslastet - genau der Bereich, in dem Anthropic mit steigenden Rechenkosten kämpft. Decarts Gründer hatten zuvor ein größeres, überwiegend bar dotiertes Angebot von NVIDIA zugunsten des aktienbasierten Anthropic-Deals ausgeschlagen; nun bleibt offen, ob sie zu NVIDIA zurückkehren. Als mögliche Gründe für den Rückzieher gelten technologische Eigenentwicklungen nach der Due-Diligence-Prüfung sowie die laufenden Vorbereitungen für Anthropics eigenen Börsengang, der frühestens im Oktober ansteht. Eine offizielle Begründung nannte Anthropic nicht; beide Unternehmen könnten künftig dennoch bei anderen Projekten zusammenarbeiten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-07"
+      "datum_artikel": "2026-09-08",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Amazon holt Qualcomm für maßgeschneiderte KI-Chips von AWS ins Boot",
+      "text": "Qualcomm und Amazon haben eine auf mehrere Generationen angelegte Kooperation zur gemeinsamen Entwicklung kundenspezifischer KI-Inferenz-Chips für die Rechenzentren von AWS angekündigt. Teil der Vereinbarung ist ein leistungsabhängiges Warrant-Paket, das Amazon das Recht einräumt, Qualcomm-Aktien im Wert von bis zu 4 Milliarden Dollar zu erwerben, sobald bestimmte Geschäftsziele erreicht werden. Für Qualcomm ist es der bislang größte Vorstoß ins Cloud-Rechenzentrumsgeschäft; die Aktie legte nach der Ankündigung deutlich zu. Für Amazon ist der Deal eine weitere Quelle für maßgeschneiderte Chips neben eigenen Entwicklungen und reduziert die Abhängigkeit von NVIDIA-Hardware für die wachsende AWS-KI-Infrastruktur. Der Schritt reiht sich in eine Serie ähnlicher Chip-Partnerschaften großer Cloud-Anbieter mit spezialisierten Halbleiterherstellern ein.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-08",
+      "unternehmen": "Amazon"
+    }
+  ],
+  "boerse_stories": [
+    {
+      "titel": "Dow erlebt schlechtesten Tag seit Wochen wegen Kanada-Zöllen und Ölpreis-Sprung",
+      "text": "Der Dow Jones ist am Dienstag um 588 Punkte beziehungsweise 1,18 Prozent auf 52.786 Zähler gefallen - der schlechteste Tag seit fast drei Wochen. Der S&P 500 gab 0,58 Prozent nach, die Nasdaq 0,32 Prozent. Auslöser waren zwei neue Entwicklungen: Kanadas Vergeltungszölle von bis zu 50 Prozent auf US-Waren im Volumen von rund 20 Milliarden Dollar traten am Dienstag tatsächlich in Kraft, nachdem Verhandlungen zuvor gescheitert waren. Gleichzeitig eskalierte der Nahost-Konflikt neu: Berichten zufolge griff der Iran erneut US-Kriegsschiffe an, nur Tage nachdem Iran und Oman noch eine sichere Route durch die Straße von Hormus vereinbart hatten. Die Brent-Rohölpreise sprangen daraufhin zeitweise auf knapp 99 Dollar je Barrel. Zusätzlich belastete die Aussicht auf wichtige Inflationsdaten vor der nächsten Fed-Sitzung am 16. September die Stimmung an den Märkten.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-09-08"
     }
   ]
 }
