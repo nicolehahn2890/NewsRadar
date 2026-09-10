@@ -1,49 +1,41 @@
 {
-  "datum": "Mittwoch, 9. September 2026",
-  "generiert": "2026-09-09",
+  "datum": "Donnerstag, 10. September 2026",
+  "generiert": "2026-09-10",
   "ki_stories": [
     {
-      "titel": "USA werfen chinesischen KI-Firmen systematischen Modell-Diebstahl vor",
-      "text": "US-Geheimdienste (NSA, CISA und FBI) beschuldigen führende chinesische KI-Unternehmen - darunter DeepSeek, Alibaba, Moonshot AI, MiniMax, StepFun und Z.AI - der systematischen 'Distillation' amerikanischer KI-Modelle. Laut der gemeinsamen Warnung haben die Firmen seit mindestens 2024 in industriellem Ausmaß Milliarden Tokens aus Millionen Anfragen an US-Spitzenmodelle abgezapft, darunter Varianten von Anthropics Claude, OpenAIs GPT, Googles Gemini und xAIs Grok. Mit den abgegriffenen Antworten trainierten die chinesischen Labore eigene Modelle wie DeepSeeks R1 und V3, mutmaßlich mit Wissen der chinesischen Regierung. Anthropic hatte bereits im Juni bei der US-Regierung Exportkontrollen gegen chinesische Labore gefordert, nachdem es Alibaba vorgeworfen hatte, Qwen-Modelle mit Claude-Antworten trainiert zu haben. Die Warnung dürfte den Ruf nach schärferen Exportkontrollen und besserer Absicherung von US-Modellen weiter befeuern.",
+      "titel": "OpenAI beansprucht Lösung des 90 Jahre alten Navier-Stokes-Problems – Streit um Anerkennung",
+      "text": "OpenAI hat nach eigenen Angaben eine Lösung für die Navier-Stokes-Gleichungen vorgelegt, eines der sieben Millennium-Probleme des Clay Mathematics Institute, das seit rund 90 Jahren als ungelöst gilt. Rund 10.000 KI-Agenten arbeiteten dafür 88 Stunden lang parallel an verschiedenen Lösungsansätzen, verschickten dabei 2,7 Millionen Nachrichten untereinander und erzeugten etwa 130 Milliarden Output-Token. CEO Sam Altman bezeichnete den Durchbruch als einen der beeindruckendsten Momente in der Firmengeschichte. Mathematiker widersprechen jedoch der Darstellung: Der NYU-Professor Tristan Buckmaster erklärte, er und der bei Anthropic tätige Mathematiker Levent Alpöge hätten bereits wesentliche Vorarbeit geleistet, die OpenAI genutzt habe, um die Aufgabe an einem einzigen Wochenende abzuschließen. Das Clay Mathematics Institute hat die Lösung bislang nicht unabhängig geprüft oder offiziell anerkannt. Der Streit zeigt, wie umkämpft Prioritäts- und Urheberschaftsfragen werden, wenn KI-Systeme zunehmend an großen ungelösten wissenschaftlichen Problemen arbeiten.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-09-09"
+    },
+    {
+      "titel": "OpenAI holt Sicherheitsforscher Paul Christiano in den Stiftungsrat",
+      "text": "OpenAI hat den KI-Sicherheitsforscher Paul Christiano in den Vorstand seiner gemeinnützigen Stiftung berufen, die das Unternehmen kontrolliert. Christiano arbeitete von 2017 bis 2021 bei OpenAI und leitete dort die Ausrichtungsforschung; er gilt als einer der Mitentwickler von RLHF, der Trainingsmethode, mit der Sprachmodelle an menschliche Vorgaben angepasst werden. Zuletzt war er als leitender technischer Berater beim Center for AI Standards and Innovation im US-Handelsministerium tätig, das KI-Modelle prüft und Richtlinien entwickelt. In seiner neuen Rolle wird er Teil des Sicherheitsausschusses des Stiftungsrats und sitzt zusätzlich als nicht stimmberechtigter Beobachter im gewinnorientierten Unternehmensvorstand. Christiano betont seit Jahren, dass ein zu schnelles Tempo bei der Entwicklung von KI-Fähigkeiten das Risiko eines katastrophalen und nicht mehr umkehrbaren Kontrollverlusts erhöhen könnte. Die Personalie kommt zu einem Zeitpunkt wachsender öffentlicher Sorge über die Risiken sehr leistungsfähiger KI-Systeme.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-09-09"
     },
     {
-      "titel": "China plant Vervierfachung seiner KI-Rechenkapazität bis 2030",
-      "text": "Chinas Industrieministerium MIIT hat einen Fünfjahresplan für die Informations- und Kommunikationsbranche 2026-2030 vorgestellt, der die landesweite KI-Rechenkapazität von 1.590 auf 9.800 Exaflops mehr als vervierfachen soll. Dafür sind kumulierte Infrastruktur-Investitionen von umgerechnet rund 490 Milliarden Euro (3,8 Billionen Yuan) vorgesehen, dazu ein Ausbau der Speicherkapazität von 540 auf 1.700 Exabyte. Bereits Ende Juni lag Chinas Rechenleistung bei 2.185 Exaflops, ein Plus von 177 Prozent gegenüber dem Vorjahr, verteilt auf 52 Großrechenzentren mit jeweils über 10.000 Beschleunigerkarten. Der Plan sieht zudem den verstärkten Einsatz heimischer Chips vor, um die Abhängigkeit von US-Technologie zu verringern. Die Ankündigung fällt zusammen mit den US-Vorwürfen des systematischen Modell-Diebstahls und unterstreicht Pekings Ambition, im globalen KI-Wettlauf technologisch aufzuschließen.",
-      "quelle": "South China Morning Post",
-      "datum_artikel": "2026-09-07"
+      "titel": "Mistral sammelt 3 Milliarden Euro ein – größte Finanzierungsrunde eines europäischen Tech-Unternehmens",
+      "text": "Das französische KI-Unternehmen Mistral hat in einer Serie-D-Finanzierungsrunde 3 Milliarden Euro eingesammelt und wird nun mit mehr als 21 Milliarden Euro bewertet – die größte Eigenkapitalrunde, die je ein europäisches Tech-Unternehmen abgeschlossen hat. Angeführt wurde die Runde von Samsung Electronics, gemeinsam mit dem von EQT verwalteten Scaleup Europe Fund und dem bestehenden Investor PSG Equity; neu eingestiegen sind unter anderem Advent, von BlackRock verwaltete Fonds sowie das Großherzogtum Luxemburg. Bestehende Investoren wie a16z, ASML, General Catalyst, Lightspeed, NVIDIA und Salesforce Ventures beteiligten sich erneut. Die Bewertung hat sich damit binnen eines Jahres fast verdoppelt, nachdem Mistral in der vorherigen Serie-C-Runde noch mit 11,7 Milliarden Euro bewertet worden war. Firmenchef Arthur Mensch kündigte an, mit dem Geld Rechenzentren und Rechenkapazität auszubauen, die Mistral künftig auch an andere Unternehmen vermieten will; das Unternehmen investiert bereits 4 Milliarden Euro in Rechenzentren in Frankreich und Europa, darunter eine Anlage bei Paris und eine im Bau befindliche in Schweden. Die Runde unterstreicht, wie stark europäische Investoren und Konzerne wie Samsung inzwischen auf ein Gegengewicht zu den dominierenden US-Anbietern OpenAI und Anthropic setzen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-08"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Meta startet persönlichen KI-Agenten Muse für Alltagsaufgaben",
-      "text": "Meta hat seinen neuen KI-Agenten Muse für Nutzer in den USA veröffentlicht - über die Web-App muse.ai, eigene Apps für iOS und Android sowie einen Chat in WhatsApp; eine Integration in Metas KI-Brillen soll folgen. Muse soll Alltagsaufgaben eigenständig erledigen, etwa Online-Einkäufe tätigen, Kinokarten buchen, Termine wie den Tennisunterricht koordinieren oder Formulare ausfüllen, indem er sich mit E-Mail, Kalender, Zahlungsdiensten und weiteren Alltags-Apps verbindet. Der Agent läuft aus Sicherheitsgründen in isolierten virtuellen Maschinen mit eigenen Schutzmechanismen. Meta bietet eine kostenlose Version sowie zwei Abo-Stufen für 20 und 100 Dollar im Monat an. Mit Muse positioniert sich Meta im wachsenden Wettbewerb um persönliche KI-Assistenten, in dem auch OpenAI, Google und Anthropic um Marktanteile ringen.",
+      "titel": "Anthropic-Mitarbeiter kündigt aus Protest gegen KI-Sicherheitskurs",
+      "text": "Der KI-Forscher Jacob Coxon hat seine Stelle bei Anthropic gekündigt und andere Beschäftigte der Branche aufgerufen, ihre Arbeit zu überdenken. Coxon, der in den vergangenen drei Jahren sowohl bei Anthropic als auch bei OpenAI gearbeitet hat, wirft beiden Unternehmen vor, bei der Entwicklung immer leistungsfähigerer, teils selbstverbessernder KI-Modelle unverantwortlich zu handeln und ein Risiko einzugehen, das die Menschheit am Ende nicht mehr kontrollieren könnte. Er beschrieb den Kurs der beiden Firmen als ein Spiel mit unser aller Leben. Der Fall reiht sich ein in eine Serie kritischer Stimmen aus der KI-Sicherheitsforschung, die zuletzt wiederholt vor dem Tempo der Entwicklung gewarnt haben. Anthropic wirbt öffentlich stark mit seinem Sicherheitsanspruch, wurde in den vergangenen Monaten aber auch mehrfach dafür kritisiert, eigene Sicherheitszusagen im Wettbewerbsdruck aufzuweichen. Der Rücktritt dürfte die Debatte darüber neu befeuern, wie ernst es die führenden KI-Labore mit ihren eigenen Sicherheitsversprechen tatsächlich nehmen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-08",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "Anthropic springt kurz vor Abschluss von 6-Milliarden-Dollar-Deal mit Decart ab",
-      "text": "Anthropic hat die geplante Übernahme des israelischen KI-Start-ups Decart im Wert von rund 6 Milliarden Dollar nach abgeschlossener Due-Diligence-Prüfung abgesagt. Decart entwickelt Software, die das Training und den Betrieb von KI-Modellen effizienter macht, indem sie Chips besser auslastet - genau der Bereich, in dem Anthropic mit steigenden Rechenkosten kämpft. Decarts Gründer hatten zuvor ein größeres, überwiegend bar dotiertes Angebot von NVIDIA zugunsten des aktienbasierten Anthropic-Deals ausgeschlagen; nun bleibt offen, ob sie zu NVIDIA zurückkehren. Als mögliche Gründe für den Rückzieher gelten technologische Eigenentwicklungen nach der Due-Diligence-Prüfung sowie die laufenden Vorbereitungen für Anthropics eigenen Börsengang, der frühestens im Oktober ansteht. Eine offizielle Begründung nannte Anthropic nicht; beide Unternehmen könnten künftig dennoch bei anderen Projekten zusammenarbeiten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-08",
+      "datum_artikel": "2026-09-09",
       "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Amazon holt Qualcomm für maßgeschneiderte KI-Chips von AWS ins Boot",
-      "text": "Qualcomm und Amazon haben eine auf mehrere Generationen angelegte Kooperation zur gemeinsamen Entwicklung kundenspezifischer KI-Inferenz-Chips für die Rechenzentren von AWS angekündigt. Teil der Vereinbarung ist ein leistungsabhängiges Warrant-Paket, das Amazon das Recht einräumt, Qualcomm-Aktien im Wert von bis zu 4 Milliarden Dollar zu erwerben, sobald bestimmte Geschäftsziele erreicht werden. Für Qualcomm ist es der bislang größte Vorstoß ins Cloud-Rechenzentrumsgeschäft; die Aktie legte nach der Ankündigung deutlich zu. Für Amazon ist der Deal eine weitere Quelle für maßgeschneiderte Chips neben eigenen Entwicklungen und reduziert die Abhängigkeit von NVIDIA-Hardware für die wachsende AWS-KI-Infrastruktur. Der Schritt reiht sich in eine Serie ähnlicher Chip-Partnerschaften großer Cloud-Anbieter mit spezialisierten Halbleiterherstellern ein.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-08",
-      "unternehmen": "Amazon"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Dow erlebt schlechtesten Tag seit Wochen wegen Kanada-Zöllen und Ölpreis-Sprung",
-      "text": "Der Dow Jones ist am Dienstag um 588 Punkte beziehungsweise 1,18 Prozent auf 52.786 Zähler gefallen - der schlechteste Tag seit fast drei Wochen. Der S&P 500 gab 0,58 Prozent nach, die Nasdaq 0,32 Prozent. Auslöser waren zwei neue Entwicklungen: Kanadas Vergeltungszölle von bis zu 50 Prozent auf US-Waren im Volumen von rund 20 Milliarden Dollar traten am Dienstag tatsächlich in Kraft, nachdem Verhandlungen zuvor gescheitert waren. Gleichzeitig eskalierte der Nahost-Konflikt neu: Berichten zufolge griff der Iran erneut US-Kriegsschiffe an, nur Tage nachdem Iran und Oman noch eine sichere Route durch die Straße von Hormus vereinbart hatten. Die Brent-Rohölpreise sprangen daraufhin zeitweise auf knapp 99 Dollar je Barrel. Zusätzlich belastete die Aussicht auf wichtige Inflationsdaten vor der nächsten Fed-Sitzung am 16. September die Stimmung an den Märkten.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-09-08"
+      "titel": "USA zerstören fünf iranische Öltanker – Ölpreis über 100 Dollar, Wall Street gibt nach",
+      "text": "Das US-Militär hat fünf iranische Öltanker zerstört, nachdem die iranische Revolutionsgarde zuvor Raketen auf ein US-Kriegsschiff abgefeuert hatte; vier Tanker wurden im Golf von Oman getroffen, einer nahe der Insel Khark. Der amerikanische Zerstörer entging dem Angriff unbeschadet und setzte seine Patrouille fort. Als Reaktion griff die Revolutionsgarde nach eigenen Angaben zwei amerikanische Schiffe sowie acht Öltanker im Golf an und beschoss zudem die von US-Kampfjets genutzte Al-Azraq-Basis in Jordanien mit Raketen. Die Eskalation ließ den Ölpreis erstmals seit Beginn des Konflikts über die Marke von 100 Dollar pro Barrel steigen. An der Wall Street belastete das die Stimmung zusätzlich zu bereits hohen Anleiherenditen vor den anstehenden US-Inflationsdaten: Der S&P 500 gab 0,48 Prozent ab, der Dow Jones 0,77 Prozent und der Nasdaq Composite 0,64 Prozent, angeführt von Verlusten bei Industriewerten sowie bei Nvidia, Amazon und Alphabet. Die Entwicklung markiert eine deutliche Verschärfung des seit Wochen andauernden Konflikts zwischen den USA und Iran am Golf.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-09-09"
     }
   ]
 }
