@@ -1,48 +1,55 @@
 {
-  "datum": "Freitag, 11. September 2026",
-  "generiert": "2026-09-11",
+  "datum": "Samstag, 12. September 2026",
+  "generiert": "2026-09-12",
   "ki_stories": [
     {
-      "titel": "Anthropic wirft Moonshot heimliche Weiterleitung an Claude vor",
-      "text": "Anthropic hat dem chinesischen KI-Unternehmen Moonshot vorgeworfen, rund 300.000 Nutzeranfragen heimlich an Claude-Modelle weitergeleitet und die Antworten als eigene Ergebnisse seines Chatbots Kimi ausgegeben zu haben. Laut Anthropic nutzte Moonshot dafür 5.380 betrügerisch angelegte Konten, vor allem mit Standort Singapur und Japan, da Claude in China offiziell nicht verfügbar ist. Ziel sei sogenannte Distillation gewesen - das Training eines schwächeren Modells mit Ausgaben eines stärkeren, um dessen Fähigkeiten günstig zu kopieren. Moonshot hatte im Juli sein Modell Kimi K3 vorgestellt, das als ernstzunehmender Konkurrent zu Claude und GPT-5.6 gilt. Der Fall zeigt, wie hart US- und chinesische KI-Anbieter inzwischen um Trainingsdaten und Modell-Fähigkeiten konkurrieren. Anthropic untersagt den Zugriff auf Claude aus China unter anderem wegen US-Exportkontrollen.",
+      "titel": "Altman offen für Abbremsen des KI-Entwicklungstempos",
+      "text": "Sam Altman hat OpenAI-Mitarbeitern laut einem Bloomberg-Bericht vom 11. September gesagt, das Unternehmen sei bereit, das Tempo bei der Entwicklung der leistungsfähigsten KI-Modelle zu drosseln - im Idealfall gemeinsam mit anderen führenden Laboren. Als Grund nannte er die wachsende Sorge, dass das derzeitige Entwicklungstempo der Branche kaum noch beherrschbare Sicherheitsrisiken mit sich bringt. Einen konkreten Zeitplan oder eine Schwelle, ab der OpenAI tatsächlich bremsen würde, nannte Altman nicht. Die Aussage markiert einen auffälligen Ton-Wechsel, nachdem Altman bislang meist für ein hohes Entwicklungstempo geworben hatte. Ob Konkurrenten wie Anthropic oder Google einem gemeinsamen Bremsen folgen würden, ist bislang offen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-10"
+      "datum_artikel": "2026-09-11"
     },
     {
-      "titel": "OpenAI bringt Agents API in die öffentliche Beta-Phase",
-      "text": "OpenAI hat seine neue Agents API in die öffentliche Beta-Phase überführt und macht damit die interne Technik hinter seinem Coding-Agenten Codex erstmals breit für Entwickler zugänglich. Die Schnittstelle übernimmt Aufgaben wie Sitzungsverwaltung, Orchestrierung mehrerer Agenten, Kontext-Kompression und Fehlerbehebung, sodass Entwickler nur noch Werkzeuge und eine Ausführungsumgebung festlegen müssen. Eingebaut sind unter anderem eine Sandbox für Code-Ausführung, Datei-Bearbeitung, Anbindungen über das MCP-Protokoll sowie die Möglichkeit, mehrere Agenten parallel Aufgaben erledigen zu lassen. Entwickler können die Berechnung wahlweise in einer von OpenAI verwalteten Sandbox, auf eigener Infrastruktur oder bei einem Partner laufen lassen. Laut OpenAI fallen dafür keine zusätzlichen Gebühren an, abgerechnet wird nur über genutzte Modell-Tokens und kostenpflichtige Tools. Der Schritt soll Firmen erleichtern, eigene KI-Agenten zu bauen, ohne die komplexe Infrastruktur selbst entwickeln zu müssen.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-09-10"
-    },
-    {
-      "titel": "Anthropic-Bericht: Claude für Russland-Spionage und Bioweapon-Recherche missbraucht",
-      "text": "Anthropic hat seinen aktuellen Bedrohungsbericht veröffentlicht und darin neun Fälle von Missbrauch seines Chatbots Claude zwischen Dezember 2025 und August 2026 offengelegt. Eine mutmaßlich russische Staatshacker-Gruppe, die laut Anthropic mit der bekannten Gruppe Midnight Blizzard in Verbindung steht, nutzte Claude demnach, um Cyberangriffe auf ukrainische Regierungsstellen, Drohnenhersteller und europäische diplomatische Einrichtungen zu automatisieren. Zusätzlich sollen russische Freelancer mit Claude Code an der Software für einen autonomen militärischen Drohnenschwarm gearbeitet haben. In fünf weiteren Fällen blockierte Anthropic Versuche, Claude für biologische Waffenforschung zu missbrauchen - etwa half ein Wissenschaftler im Mai 2026 dabei, einen Förderantrag für riskante Forschung am Chikungunya-Virus zu formulieren. Anthropic erklärte, neuere Modelle wie Claude Fable 5 verfügten inzwischen über strengere Sicherheitsvorkehrungen gegen solche Anfragen. Der Bericht zählt zu den ersten offiziellen Eingeständnissen der Branche, dass KI-Missbrauch und Bioweapon-Risiken direkt zusammenhängen können.",
-      "quelle": "Anthropic",
-      "datum_artikel": "2026-09-10"
+      "titel": "Chinas Moonshot AI will Umsatz bis Jahresende auf 2 Milliarden Dollar treiben",
+      "text": "Das chinesische KI-Labor Moonshot AI peilt laut einem Bloomberg-Bericht vom 11. September bis Jahresende eine annualisierte Umsatzrate von 2 Milliarden Dollar an. Haupttreiber ist das im Juli veröffentlichte Modell Kimi K3, das bei mehreren Leistungs-Benchmarks an die Spitze kletterte und dabei deutlich günstiger arbeitet als viele US-Konkurrenzmodelle. Laut Unternehmensangaben stieg die annualisierte Umsatzrate bereits im August auf über 1 Milliarde Dollar, nachdem sie im Juni noch bei rund 300 Millionen Dollar gelegen hatte. Das Wachstum unterstreicht, wie stark chinesische Anbieter wie Moonshot, DeepSeek und Alibaba den etablierten US-Laboren inzwischen bei Kosten und Leistung Konkurrenz machen. Für Investoren ist das ein weiteres Signal, dass der KI-Wettlauf zwischen den USA und China zunehmend auch eine Preisfrage ist.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-11"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Oracles Auftragsbestand springt auf 664 Milliarden Dollar - Klumpenrisiko OpenAI",
-      "text": "Oracle hat für das erste Geschäftsquartal 2027 einen Sprung seiner vertraglich gesicherten künftigen Umsätze (RPO) um 209 Milliarden auf 664 Milliarden Dollar gemeldet, nachdem der Wert im Vorquartal bereits auf 638 Milliarden gestiegen war. Der Cloud-Infrastruktur-Umsatz legte im Jahresvergleich um 121 Prozent auf 7,4 Milliarden Dollar zu, und das Management stellte für die Cloud-Sparte weiteres Wachstum von 58 bis 64 Prozent in Aussicht. Analysten warnen jedoch, dass fast die Hälfte des riesigen Auftragsbestands auf einen einzigen Kunden entfällt: OpenAI, das Verträge im Wert von bis zu 300 Milliarden Dollar mit Oracle unterschrieben hat. Laut Ratingagentur Moody's steht dem ein OpenAI-Jahresumsatz von derzeit nur rund 12 Milliarden Dollar gegenüber, was die Abhängigkeit von einem einzelnen, noch unprofitablen Kunden riskant macht. Oracle finanziert seinen Kapazitätsausbau mit hohen Schulden, allein im laufenden Geschäftsjahr sollen die Investitionsausgaben auf mehr als 35 Milliarden Dollar steigen. Die Oracle-Aktie reagierte trotz der Rekordzahlen verhalten, weil Anleger die Konzentration auf OpenAI und den hohen Cash-Verbrauch kritisch sehen.",
+      "titel": "Microsoft will Rechenzentrums-Kapazität bis 2032 verdreifachen",
+      "text": "Microsoft plant laut einem Bloomberg-Bericht vom 10. September, seine weltweite Rechenzentrums-Kapazität von derzeit rund 12 Gigawatt auf mehr als 38 Gigawatt bis 2032 zu erhöhen - mehr als eine Verdreifachung. Hintergrund sind akute Kapazitätsengpässe, die das Unternehmen laut dem Bericht zuletzt dazu gezwungen haben, Cloud- und KI-Kundenanfragen abzulehnen und Dienste einzuschränken. Der für KI reservierte Anteil der Kapazität soll von aktuell rund 2 Gigawatt auf etwa ein Drittel der gesamten 38-Gigawatt-Flotte wachsen. Die Pläne stammen aus internen Quellen, die Bloomberg zitiert - eine offizielle Bestätigung von Microsoft selbst steht noch aus. Der Ausbau zeigt, wie sehr der KI-Boom die großen Cloud-Anbieter weiterhin unter Druck setzt, trotz bereits rekordhoher Investitionsausgaben mitzuhalten.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-09-10",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Microsoft"
     },
     {
-      "titel": "Google investiert 15 Milliarden Dollar in KI-Infrastruktur in Finnland",
-      "text": "Google hat angekündigt, bis 2028 rund 15 Milliarden Dollar in den Ausbau seiner KI-Infrastruktur in Finnland zu investieren - die größte Einzelinvestition des Konzerns in Europa bisher. Finnland gilt wegen verfügbarer Flächen und günstiger Energie inzwischen als bevorzugter Rechenzentrums-Standort und wird in der Branche bereits als 'Texas of Europe' bezeichnet. Geplant sind drei neue Rechenzentren im Norden des Landes, zudem unterzeichnete Google einen 22 Jahre laufenden Stromliefervertrag mit dem Energiekonzern Fortum über bis zu 50 Prozent der Leistung des Kernkraftwerks Loviisa - Googles erster Atomstrom-Deal außerhalb der USA. Der Vertrag sichert die für den Weiterbetrieb nötige Modernisierung von Loviisa bis 2050 und bewahrt das Kraftwerk, das rund 10 Prozent des finnischen Strombedarfs deckt, vor einer sonst drohenden Abschaltung nach 2030. Die Fortum-Aktie sprang nach der Ankündigung um 15,5 Prozent auf ein Vierjahreshoch und war damit größter Kursgewinner in Europa. Die Investition soll laut Google während der Bauphase rund 4,2 Milliarden Dollar zur finnischen Wirtschaftsleistung beitragen und dauerhaft rund 7.000 Jobs pro Jahr sichern.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-09-09",
-      "unternehmen": "Google"
+      "titel": "Meta sondiert erstmals europäischen Anleihe-Markt für KI-Finanzierung",
+      "text": "Meta hat laut einem Bloomberg-Bericht vom 11. September seit mindestens einer Woche Gespräche mit europäischen Anleihe-Investoren geführt, um Finanzierungsoptionen für den milliardenschweren KI-Ausbau zu prüfen. Einen konkreten Zeitpunkt für eine mögliche Anleihe-Emission nannte das Unternehmen nicht. Meta hat bislang noch nie Schulden außerhalb des Dollar-Marktes aufgenommen; zuletzt hatte der Konzern sich im April mit einer sechsteiligen Dollar-Anleihe über 25 Milliarden Dollar frisches Kapital besorgt. Hintergrund ist der enorme Kapitalbedarf: Meta rechnet für das Gesamtjahr 2026 mit KI-Infrastrukturausgaben von 130 bis 145 Milliarden Dollar, zusätzlich belastet eine erwartete Sonderabschreibung von rund 10 Milliarden Dollar im dritten Quartal die Bilanz. Die Sondierung in Europa zeigt, wie sehr auch die großen US-Tech-Konzerne inzwischen neue, globale Kapitalquellen erschließen müssen, um mit dem KI-Wettrüsten Schritt zu halten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-11",
+      "unternehmen": "Meta"
+    },
+    {
+      "titel": "TSMC meldet vierten Monatsrekord in Folge dank KI-Chip-Nachfrage",
+      "text": "Der taiwanische Chip-Auftragsfertiger TSMC hat laut einem Bloomberg-Bericht vom 10. September für August einen Umsatz von rund 514,8 Milliarden Taiwan-Dollar (etwa 16,4 Milliarden US-Dollar) gemeldet - ein Plus von 53,3 Prozent gegenüber dem Vorjahresmonat und von 10,1 Prozent gegenüber Juli. Es ist laut dem Bericht bereits der vierte Monatsrekord in Folge. Für die ersten acht Monate des Jahres 2026 summiert sich der Umsatz auf rund 3.386,9 Milliarden Taiwan-Dollar, ein Anstieg von 39,3 Prozent im Jahresvergleich. Grund für das anhaltend starke Wachstum ist die ungebrochene Nachfrage nach KI-Chips, die laut Branchenbeobachtern das Angebot weiterhin übersteigt. Die Zahlen gelten als wichtiger Frühindikator für die KI-Investitionszyklen von Kunden wie NVIDIA, Apple und AMD, da TSMC deren fortschrittlichste Chips fertigt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-10",
+      "unternehmen": "TSMC"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Heiße US-Erzeugerpreise schüren vor Fed-Sitzung neue Zinssorgen",
-      "text": "Der US-Erzeugerpreisindex (PPI) stieg im August um 0,4 Prozent und damit etwas stärker als erwartet, auf Jahresbasis liegt die Teuerung bei 5,4 Prozent - deutlich über dem Fed-Ziel von 2 Prozent. Haupttreiber waren kräftig gestiegene Energiepreise: Allein Diesel legte um 24,1 Prozent zu, begünstigt durch den anhaltenden Anstieg der Rohölpreise im Zuge des Iran-Konflikts, während US-Rohöl erstmals seit Mai wieder über 100 Dollar je Barrel stieg. Nach Veröffentlichung der Daten am Donnerstag gaben die wichtigsten US-Indizes nach: Der Dow Jones verlor rund 300 Punkte beziehungsweise 0,6 Prozent, der S&P 500 schloss ebenfalls 0,6 Prozent leichter bei 7.591,70 Punkten. An den Finanzmärkten stiegen die Wetten auf eine Zinserhöhung der US-Notenbank um einen Viertelpunkt bei der Sitzung am 15. und 16. September laut CME-FedWatch-Indikator auf über 73 Prozent, deutlich höher als noch wenige Tage zuvor. Die Daten erhöhen den Druck auf eine ohnehin gespaltene Fed, bei der laut Beobachtern sowohl eine Zinserhöhung als auch ein Halten der Leitzinsen für möglich gehalten wird. Die Entscheidung gilt als besonders richtungsweisend, weil sie mit aktualisierten Wirtschaftsprognosen der Notenbank einhergeht.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-09-10"
+      "titel": "US-Inflationsdaten heizen Spekulation auf Fed-Zinserhöhung an",
+      "text": "Die US-Verbraucherpreise sind im August laut dem Arbeitsministerium auf Jahresbasis unverändert bei 3,4 Prozent geblieben, stiegen auf Monatsbasis aber um 0,4 Prozent - nach nur 0,1 Prozent im Vormonat. Die Kernrate ohne Energie und Lebensmittel legte mit 0,3 Prozent ebenfalls stärker zu als die von Ökonomen erwarteten 0,2 Prozent. Haupttreiber waren die Energiepreise, die im Jahresvergleich um 28 Prozent zulegten, Diesel allein um 52 Prozent. Trotz der unerwartet hartnäckigen Inflation legten Dow Jones (plus 0,98 Prozent auf 52.573 Punkte), S&P 500 (plus 0,86 Prozent auf 7.657 Punkte) und Nasdaq (plus 0,96 Prozent auf 26.333 Punkte) am 11. September zu, weil gleichzeitig fallende Ölpreise die Inflationssorgen dämpften. Die Daten verschieben die Erwartungen vor der Fed-Sitzung am 15. und 16. September: Die Wahrscheinlichkeit für eine Zinserhöhung um 25 Basispunkte liegt an den Terminmärkten inzwischen bei rund 50 bis 70 Prozent, nachdem vor wenigen Wochen noch ein Zinsschritt nach unten als wahrscheinlicher galt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-11"
+    },
+    {
+      "titel": "Nikkei fällt auf Monatstief - Nahost-Spannungen und Ölpreis-Sprung belasten",
+      "text": "Der japanische Leitindex Nikkei 225 ist am 11. September um 1.259,61 Punkte beziehungsweise 1,87 Prozent auf 64.011,34 Punkte gefallen - das niedrigste Niveau seit rund einem Monat. Auslöser war ein Sprung des US-Rohölpreises auf rund 104 Dollar pro Barrel, den höchsten Stand seit Mitte Mai, nachdem sich der Konflikt zwischen den USA und dem Iran weiter verschärft und Sorgen über länger anhaltende Störungen der Öltransportrouten ausgelöst hatte. Zusätzlich belasteten überraschend hohe US-Erzeugerpreise die Stimmung, da sie die Wahrscheinlichkeit einer baldigen Fed-Zinserhöhung erhöhten und die langfristigen Zinsen weltweit steigen ließen. Besonders stark traf es KI- und Halbleiter-Werte: Der Chip-Testausrüster Advantest und SoftBank Group verzeichneten Kursverluste von teils mehr als 5 Prozent, während einzelne Bank- und Autowerte von Schnäppchenkäufen profitierten. Der Ausverkauf zeigt, wie eng die Bewertung von KI-Werten inzwischen an Öl- und Zinsentwicklungen gekoppelt ist.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-09-11"
     }
   ]
 }
