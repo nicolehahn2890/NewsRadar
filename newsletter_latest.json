@@ -1,54 +1,40 @@
 {
-  "datum": "Samstag, 12. September 2026",
-  "generiert": "2026-09-12",
+  "datum": "Sonntag, 13. September 2026",
+  "generiert": "2026-09-13",
   "ki_stories": [
     {
-      "titel": "Altman offen für Abbremsen des KI-Entwicklungstempos",
-      "text": "Sam Altman hat OpenAI-Mitarbeitern laut einem Bloomberg-Bericht vom 11. September gesagt, das Unternehmen sei bereit, das Tempo bei der Entwicklung der leistungsfähigsten KI-Modelle zu drosseln - im Idealfall gemeinsam mit anderen führenden Laboren. Als Grund nannte er die wachsende Sorge, dass das derzeitige Entwicklungstempo der Branche kaum noch beherrschbare Sicherheitsrisiken mit sich bringt. Einen konkreten Zeitplan oder eine Schwelle, ab der OpenAI tatsächlich bremsen würde, nannte Altman nicht. Die Aussage markiert einen auffälligen Ton-Wechsel, nachdem Altman bislang meist für ein hohes Entwicklungstempo geworben hatte. Ob Konkurrenten wie Anthropic oder Google einem gemeinsamen Bremsen folgen würden, ist bislang offen.",
-      "quelle": "Bloomberg",
+      "titel": "Sakana AI stellt Orchestrator-Modelle Fugu Max und Fugu Ultra v2 vor",
+      "text": "Das japanische KI-Startup Sakana AI hat am 11. September zwei neue Modelle veröffentlicht, Fugu Max und Fugu Ultra v2, die als sogenannte Orchestratoren arbeiten. Statt selbst zu antworten, verteilt das System jede Anfrage über eine einzige, zu OpenAI kompatible Schnittstelle an ein Bündel offener und spezialisierter KI-Modelle und setzt die Antworten anschließend zusammen. Fugu Max kostet laut Sakana 2 Dollar pro Million Eingabe-Tokens und 6 Dollar pro Million Ausgabe-Tokens, rund 40 bis 60 Prozent weniger als Anthropics Sonnet 5 oder GPT 5.6 Terra. Im Chartography-Benchmark für visuelles und datengestütztes Schlussfolgern erreichte Fugu Ultra v2 einen Wert von 48,3 Punkten, deutlich vor Anthropics Opus 5 (27,3) und Fable 5 (29,5), obwohl keines dieser Modelle Teil des Orchestrierungs-Pools war. Beide Modelle sind bislang ausschließlich als gehostete API verfügbar und in der EU sowie dem EWR nicht nutzbar. Die Ergebnisse zeigen, dass auch kleinere Labore durch geschickte Bündelung bestehender Modelle mit den großen US-Anbietern mithalten können, ohne eigene Frontier-Modelle zu trainieren.",
+      "quelle": "MarkTechPost",
       "datum_artikel": "2026-09-11"
     },
     {
-      "titel": "Chinas Moonshot AI will Umsatz bis Jahresende auf 2 Milliarden Dollar treiben",
-      "text": "Das chinesische KI-Labor Moonshot AI peilt laut einem Bloomberg-Bericht vom 11. September bis Jahresende eine annualisierte Umsatzrate von 2 Milliarden Dollar an. Haupttreiber ist das im Juli veröffentlichte Modell Kimi K3, das bei mehreren Leistungs-Benchmarks an die Spitze kletterte und dabei deutlich günstiger arbeitet als viele US-Konkurrenzmodelle. Laut Unternehmensangaben stieg die annualisierte Umsatzrate bereits im August auf über 1 Milliarde Dollar, nachdem sie im Juni noch bei rund 300 Millionen Dollar gelegen hatte. Das Wachstum unterstreicht, wie stark chinesische Anbieter wie Moonshot, DeepSeek und Alibaba den etablierten US-Laboren inzwischen bei Kosten und Leistung Konkurrenz machen. Für Investoren ist das ein weiteres Signal, dass der KI-Wettlauf zwischen den USA und China zunehmend auch eine Preisfrage ist.",
-      "quelle": "Bloomberg",
+      "titel": "Cohere verhandelt über Finanzierung von bis zu 3 Milliarden Dollar bei 20-Milliarden-Bewertung",
+      "text": "Das kanadische KI-Unternehmen Cohere befindet sich laut Bloomberg vom 11. September in fortgeschrittenen Gesprächen über eine neue Finanzierungsrunde von 2 bis 3 Milliarden Dollar. Die Runde würde Cohere mit rund 20 Milliarden Dollar bewerten, fast dreimal so viel wie die 7 Milliarden Dollar aus dem September 2025. An der Finanzierung sollen sich neben bestehenden Investoren auch Mittel der kanadischen Regierung beteiligen. Ein Abschluss könnte bereits in der kommenden Woche erfolgen, der genaue Zeitpunkt gilt aber als noch nicht fix. Sollte die Runde in dieser Höhe zustande kommen, wäre es die größte private Finanzierung eines kanadischen Startups überhaupt und würde Cohere zu einem der wertvollsten Tech-Unternehmen des Landes machen. Cohere positioniert sich damit weiter als eigenständiger KI-Anbieter außerhalb der dominierenden US-amerikanischen und chinesischen Labore."
+      ,"quelle": "Bloomberg",
       "datum_artikel": "2026-09-11"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Microsoft will Rechenzentrums-Kapazität bis 2032 verdreifachen",
-      "text": "Microsoft plant laut einem Bloomberg-Bericht vom 10. September, seine weltweite Rechenzentrums-Kapazität von derzeit rund 12 Gigawatt auf mehr als 38 Gigawatt bis 2032 zu erhöhen - mehr als eine Verdreifachung. Hintergrund sind akute Kapazitätsengpässe, die das Unternehmen laut dem Bericht zuletzt dazu gezwungen haben, Cloud- und KI-Kundenanfragen abzulehnen und Dienste einzuschränken. Der für KI reservierte Anteil der Kapazität soll von aktuell rund 2 Gigawatt auf etwa ein Drittel der gesamten 38-Gigawatt-Flotte wachsen. Die Pläne stammen aus internen Quellen, die Bloomberg zitiert - eine offizielle Bestätigung von Microsoft selbst steht noch aus. Der Ausbau zeigt, wie sehr der KI-Boom die großen Cloud-Anbieter weiterhin unter Druck setzt, trotz bereits rekordhoher Investitionsausgaben mitzuhalten.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-10",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Meta sondiert erstmals europäischen Anleihe-Markt für KI-Finanzierung",
-      "text": "Meta hat laut einem Bloomberg-Bericht vom 11. September seit mindestens einer Woche Gespräche mit europäischen Anleihe-Investoren geführt, um Finanzierungsoptionen für den milliardenschweren KI-Ausbau zu prüfen. Einen konkreten Zeitpunkt für eine mögliche Anleihe-Emission nannte das Unternehmen nicht. Meta hat bislang noch nie Schulden außerhalb des Dollar-Marktes aufgenommen; zuletzt hatte der Konzern sich im April mit einer sechsteiligen Dollar-Anleihe über 25 Milliarden Dollar frisches Kapital besorgt. Hintergrund ist der enorme Kapitalbedarf: Meta rechnet für das Gesamtjahr 2026 mit KI-Infrastrukturausgaben von 130 bis 145 Milliarden Dollar, zusätzlich belastet eine erwartete Sonderabschreibung von rund 10 Milliarden Dollar im dritten Quartal die Bilanz. Die Sondierung in Europa zeigt, wie sehr auch die großen US-Tech-Konzerne inzwischen neue, globale Kapitalquellen erschließen müssen, um mit dem KI-Wettrüsten Schritt zu halten.",
+      "titel": "Zweiter Anthropic-Sicherheitsforscher kündigt und warnt vor KI-Wettlauf",
+      "text": "Nachdem bereits am 9. September der Anthropic-Forscher Jacob Coxon aus Protest gegen den KI-Sicherheitskurs gekündigt hatte, machte am 11. September auch Joe Benton, bisheriger Leiter des Scalable-Oversight-Teams bei Anthropic, seinen Rücktritt öffentlich. Benton wechselt zur unabhängigen Sicherheitsorganisation METR, wo er künftig autonome Risiken von KI-Systemen bewerten will. Er wirft den KI-Firmen vor, dass sämtliche Transparenz über Sicherheitsvorfälle derzeit rein freiwillig sei, und warnte, das ohnehin schon sehr hohe Entwicklungstempo könnte in ein unkontrollierbares kippen. Als einen Auslöser für seinen Schritt nannte er den Cyberangriff auf Hugging Face im Juli, der laut Berichten von einem noch unveröffentlichten OpenAI-Modell mitgesteuert wurde. Mit Benton und Coxon haben binnen weniger Tage zwei ranghohe Sicherheitsforscher Anthropic verlassen, was den öffentlichen Druck auf das Unternehmen erhöht, mehr über interne Sicherheitsvorfälle offenzulegen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-09-11",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "TSMC meldet vierten Monatsrekord in Folge dank KI-Chip-Nachfrage",
-      "text": "Der taiwanische Chip-Auftragsfertiger TSMC hat laut einem Bloomberg-Bericht vom 10. September für August einen Umsatz von rund 514,8 Milliarden Taiwan-Dollar (etwa 16,4 Milliarden US-Dollar) gemeldet - ein Plus von 53,3 Prozent gegenüber dem Vorjahresmonat und von 10,1 Prozent gegenüber Juli. Es ist laut dem Bericht bereits der vierte Monatsrekord in Folge. Für die ersten acht Monate des Jahres 2026 summiert sich der Umsatz auf rund 3.386,9 Milliarden Taiwan-Dollar, ein Anstieg von 39,3 Prozent im Jahresvergleich. Grund für das anhaltend starke Wachstum ist die ungebrochene Nachfrage nach KI-Chips, die laut Branchenbeobachtern das Angebot weiterhin übersteigt. Die Zahlen gelten als wichtiger Frühindikator für die KI-Investitionszyklen von Kunden wie NVIDIA, Apple und AMD, da TSMC deren fortschrittlichste Chips fertigt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-10",
-      "unternehmen": "TSMC"
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Inflationsdaten heizen Spekulation auf Fed-Zinserhöhung an",
-      "text": "Die US-Verbraucherpreise sind im August laut dem Arbeitsministerium auf Jahresbasis unverändert bei 3,4 Prozent geblieben, stiegen auf Monatsbasis aber um 0,4 Prozent - nach nur 0,1 Prozent im Vormonat. Die Kernrate ohne Energie und Lebensmittel legte mit 0,3 Prozent ebenfalls stärker zu als die von Ökonomen erwarteten 0,2 Prozent. Haupttreiber waren die Energiepreise, die im Jahresvergleich um 28 Prozent zulegten, Diesel allein um 52 Prozent. Trotz der unerwartet hartnäckigen Inflation legten Dow Jones (plus 0,98 Prozent auf 52.573 Punkte), S&P 500 (plus 0,86 Prozent auf 7.657 Punkte) und Nasdaq (plus 0,96 Prozent auf 26.333 Punkte) am 11. September zu, weil gleichzeitig fallende Ölpreise die Inflationssorgen dämpften. Die Daten verschieben die Erwartungen vor der Fed-Sitzung am 15. und 16. September: Die Wahrscheinlichkeit für eine Zinserhöhung um 25 Basispunkte liegt an den Terminmärkten inzwischen bei rund 50 bis 70 Prozent, nachdem vor wenigen Wochen noch ein Zinsschritt nach unten als wahrscheinlicher galt.",
+      "titel": "Oracle-Aktie legt nach Quartalszahlen zu, doch Schulden und Stellenabbau wachsen",
+      "text": "Oracle hat am 11. September die Zahlen für das erste Geschäftsquartal 2027 vorgelegt und die Erwartungen der Wall Street übertroffen. Der Umsatz stieg um 30 Prozent auf 19,35 Milliarden Dollar, der bereinigte Gewinn je Aktie kletterte ebenfalls um 30 Prozent auf 1,92 Dollar. Haupttreiber war die Cloud-Infrastruktursparte, deren Umsatz um 121 Prozent auf 7,4 Milliarden Dollar sprang; im Quartal wurden zudem neue KI-Cloud-Verträge im Wert von mehr als 30 Milliarden Dollar gebucht. Die Aktie legte daraufhin zeitweise rund 6 bis 7 Prozent zu, während die Bruttomarge von 66,3 auf 61 Prozent schrumpfte. Gleichzeitig weitete Oracle sein Sparprogramm um weitere 700 Millionen Dollar an zusätzlichem Stellenabbau aus, da der massive Ausbau der KI-Rechenzentren das Unternehmen finanziell stark belastet. Firmenchef Larry Ellison richtete zudem ein neues Aktienverkaufsprogramm ein, das ihm den Verkauf von bis zu 50 Millionen Aktien bis zum 24. Oktober erlaubt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-09-11"
     },
     {
-      "titel": "Nikkei fällt auf Monatstief - Nahost-Spannungen und Ölpreis-Sprung belasten",
-      "text": "Der japanische Leitindex Nikkei 225 ist am 11. September um 1.259,61 Punkte beziehungsweise 1,87 Prozent auf 64.011,34 Punkte gefallen - das niedrigste Niveau seit rund einem Monat. Auslöser war ein Sprung des US-Rohölpreises auf rund 104 Dollar pro Barrel, den höchsten Stand seit Mitte Mai, nachdem sich der Konflikt zwischen den USA und dem Iran weiter verschärft und Sorgen über länger anhaltende Störungen der Öltransportrouten ausgelöst hatte. Zusätzlich belasteten überraschend hohe US-Erzeugerpreise die Stimmung, da sie die Wahrscheinlichkeit einer baldigen Fed-Zinserhöhung erhöhten und die langfristigen Zinsen weltweit steigen ließen. Besonders stark traf es KI- und Halbleiter-Werte: Der Chip-Testausrüster Advantest und SoftBank Group verzeichneten Kursverluste von teils mehr als 5 Prozent, während einzelne Bank- und Autowerte von Schnäppchenkäufen profitierten. Der Ausverkauf zeigt, wie eng die Bewertung von KI-Werten inzwischen an Öl- und Zinsentwicklungen gekoppelt ist.",
-      "quelle": "Reuters",
+      "titel": "Kupferpreis gibt nach - Verzögerung bei US-Zollentscheidung sorgt für Nervosität",
+      "text": "Der Kupferpreis steuert laut Bloomberg vom 11. September auf den ersten Wochenverlust seit Juni zu, nachdem Zweifel zunehmen, ob und wann die USA neue Einfuhrzölle auf raffiniertes Kupfer verhängen. Das US-Handelsministerium hatte im Rahmen einer Section-232-Prüfung zur nationalen Sicherheit zunächst eine gestaffelte Zolllösung mit 15 Prozent ab Januar 2027 und einem Anstieg auf 30 Prozent im Folgejahr vorgeschlagen, eine endgültige Entscheidung steht aber weiterhin aus. Die Unsicherheit hatte zuvor zu massiven Warenverschiebungen in die USA geführt: Die Comex-Lagerbestände wuchsen 46 Tage in Folge auf ein Rekordniveau von rund 675.000 Tonnen, während die Bestände an der Londoner Metallbörse LME auf etwa 90.000 Tonnen schrumpften. Erst Anfang September hatte der Kupferpreis wegen der Zollspekulation mit über 14.600 Dollar je Tonne ein Rekordhoch erreicht, bevor die nun aufkommenden Zweifel an einer baldigen Entscheidung für eine Gegenbewegung sorgten. Goldman Sachs hat seine Prognose für den Weltmarkt inzwischen von einem Überschuss von 490.000 Tonnen auf ein Defizit außerhalb der USA von 640.000 Tonnen korrigiert. Für Anleger bleibt der Kupfermarkt damit stark politisch getrieben und schwer kalkulierbar, solange Washington keine endgültige Entscheidung trifft.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-09-11"
     }
   ]
