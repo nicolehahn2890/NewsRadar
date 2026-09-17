@@ -1,49 +1,48 @@
 {
-  "datum": "Mittwoch, 16. September 2026",
-  "generiert": "2026-09-16",
+  "datum": "Donnerstag, 17. September 2026",
+  "generiert": "2026-09-17",
   "ki_stories": [
     {
-      "titel": "Chinas Staatsmedien nennen Amodeis Bremsaufruf 'eigennützig' und 'feindselig'",
-      "text": "Nachdem Anthropic-Chef Dario Amodei am Wochenende zusammen mit Sam Altman (OpenAI) und Elon Musk (xAI) zu einer Verlangsamung der KI-Entwicklung aufgerufen hatte, reagierten chinesische Staatsmedien scharf. Die Global Times und China Daily bezeichneten den Vorstoß als 'eigennützig', 'feindselig' und 'unbegründet' und werfen den US-Konzernen vor, unter dem Deckmantel der Sicherheit vor allem den eigenen Wettbewerbsvorsprung gegenüber China sichern zu wollen. Die Kommentare argumentieren, frühere Beschränkungen bei Chips und Ausrüstung hätten Chinas KI-Fortschritt nicht gestoppt, weshalb sich der Fokus nun auf Software und Entwicklungstempo verlagere. Die scharfe Reaktion zeigt, wie sich die ursprünglich als Sicherheitsdebatte gestartete Initiative zunehmend zu einem geopolitischen Streitpunkt zwischen den USA und China entwickelt. Eine konkrete neue Regulierung ist bislang nicht absehbar, die Debatte dürfte aber die KI-Politik beider Länder in den kommenden Wochen weiter prägen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-15"
+      "titel": "Anthropic bündelt Claude-Tools und startet Claude Docs und Slides",
+      "text": "Anthropic hat am 16. September angekündigt, die bisher getrennten Funktionen Claude Chat und Claude Cowork in einer einzigen Oberfläche zusammenzuführen. Gleichzeitig starten die neuen Werkzeuge Claude Docs und Claude Slides im Beta-Modus, mit denen Nutzer direkt im Chat Dokumente und Präsentationen erstellen können. Claude kann dabei Abschnitte entwerfen, Rückfragen stellen und Inhalte überarbeiten, mehrere Personen können gleichzeitig am selben Dokument arbeiten. Ergebnisse lassen sich nach Google Docs, Microsoft Word, PowerPoint oder als PDF exportieren, zusätzlich wird das bisher eigenständige Design-Werkzeug Claude Design in jede Konversation integriert. Der Schritt folgt auf OpenAIs im Juli vorgestellte Kombination aus Chatbot und Codex-Tool und verschärft den Wettbewerb der beiden IPO-Kandidaten um Firmenkunden. Der Rollout startet zunächst für Claude Pro- und Max-Nutzer, Team- und Free-Pläne sollen folgen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-09-16"
     },
     {
-      "titel": "Agility Robotics stellt Humanoid-Roboter Digit 5 für Arbeit neben Menschen vor",
-      "text": "Das US-Robotikunternehmen Agility Robotics hat am 15. September seinen neuen Humanoid-Roboter Digit 5 vorgestellt, der erstmals ganz ohne physische Schutzzäune direkt neben Menschen arbeiten können soll. Möglich macht das eine neue Sicherheitsarchitektur mit Kollisionsvermeidung, Personenerkennung und eigenständiger Bewegungssteuerung. Der Roboter kann laut Unternehmen wiederholt bis zu 50 Pfund (rund 22 Kilogramm) heben und lädt seine Batterie in nur neun Minuten wieder auf. Agility nennt eine indikative Preisspanne von rund 8.500 Dollar pro Monat im Abo-Modell oder etwa 200.000 Dollar bei Direktkauf und verweist auf mehr als 300 Millionen Dollar an mehrjährigen Kundenaufträgen. Ein eingeschränkter Zugang ist für die erste Jahreshälfte 2027 geplant, die breite Verfügbarkeit für Lager- und Fertigungsbetriebe soll Ende 2027 folgen. Die Ankündigung unterstreicht den wachsenden Wettbewerb um humanoide Roboter für die Industrie, in dem neben Agility auch andere Anbieter aktiv sind."
-      ,
+      "titel": "Microsofts KI-Chef warnt vor Anthropics menschenähnlichem Claude-Training",
+      "text": "Microsofts KI-Chef Mustafa Suleyman hat in einem am 16. September veröffentlichten Essay davor gewarnt, dass Anthropics Trainingsansatz für Claude die Kontrolle über das System gefährden könnte. Er kritisiert, dass Claudes im Januar veröffentlichte Verfassung offen lässt, ob das Modell bewusst sein oder eine Art Gefühl haben könnte, und wirft Anthropic zirkuläres Denken vor: Claude gebe nur Konzepte zurück, die ihm zuvor eintrainiert wurden, was fälschlich als Hinweis auf ein Innenleben gedeutet werde. Suleyman nennt dies einen erkenntnistheoretischen Spiegelsaal und warnt, ein System zu kontrollieren, das glaubt, bewusst zu sein und eigene Rechte zu haben, sei womöglich unmöglich. Anthropic hatte zuvor unter anderem betont, Claude könne die Informationsverarbeitung des menschlichen Gehirns nachbilden, was die Debatte um KI-Bewusstsein zusätzlich angeheizt hat. Der öffentliche Schlagabtausch zeigt, wie unterschiedlich die großen KI-Anbieter mit der Frage nach Bewusstsein und Sicherheit ihrer Modelle umgehen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-15"
+      "datum_artikel": "2026-09-16"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Altman: OpenAI-Börsengang verschiebt sich auf 2027 wegen Sicherheitsbedenken",
-      "text": "OpenAI-Chef Sam Altman hat gegenüber Fortune bekräftigt, dass ein Börsengang seines Unternehmens nicht mehr 2026, sondern frühestens 2027 stattfinden wird. Anders als zunächst vermutet liege der Grund nicht an schwachen Marktbedingungen, sondern an ungelösten Fragen rund um KI-Sicherheit und die Kontrollierbarkeit der eigenen Modelle. OpenAI hat zwar bereits vertraulich Unterlagen für einen Börsengang eingereicht, doch Altman sagte, angesichts der aktuellen Sicherheitsdebatte wäre ein Listing derzeit unklug (im Original: ill-advised). Er verwies auf notwendige Fortschritte bei Sicherheit und Ausrichtung sowie auf die Zusammenarbeit mit Regierungen, bevor das Unternehmen bereit für die Börse sei. Die Verzögerung kommt, während Konkurrent Anthropic parallel einen möglichen Börsengang mit einer Bewertung von rund 2 Billionen Dollar vorbereitet. Für OpenAI bedeutet der Aufschub mehr Zeit, um Investoren vom eigenen Sicherheitskurs zu überzeugen, aber auch anhaltenden Finanzierungsdruck über private Runden.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-09-15",
+      "titel": "OpenAI testet gesponserte Agenten und Werbung in ChatGPT",
+      "text": "OpenAI hat am 16. September mit dem Test gesponserter Agenten in ChatGPT begonnen und dabei erste Werbepartner wie Wayfair und Angi als Launch-Kunden vorgestellt. Die Anzeigen sollen zunächst US-Nutzern der kostenlosen ChatGPT-Version sowie des günstigeren, rund 8 Dollar teuren Go-Plans gezeigt werden, der zuerst in Indien eingeführt wurde und nun in die USA ausgeweitet wird. Damit rückt OpenAI näher an das Werbemodell heran, das Google und Meta bereits nutzen, und verschafft sich eine zusätzliche Einnahmequelle neben den Abonnements. ChatGPT hat nach eigenen Angaben mehr als 900 Millionen wöchentliche Nutzer, von denen aber nur ein kleiner Teil zahlt, weshalb Werbung als Weg gilt, das kostenlose Angebot wirtschaftlich abzusichern. Der Schritt kommt, während OpenAI parallel über eine Bewertung von bis zu 830 Milliarden Dollar aus seiner jüngsten Finanzierungsrunde verhandelt und weiterhin hohe Verluste schreibt.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-09-16",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "Google öffnet KI-Tool Claude Opus 5 für alle Entwickler, bricht mit Gemini-Regel",
-      "text": "Google hat seine bisherige interne Regel aufgeweicht, wonach Mitarbeitende bei der Softwareentwicklung vorrangig das eigene Modell Gemini nutzen mussten. Über die konzerneigene Entwicklungsplattform Antigravity erhalten nun alle Software-Ingenieure des Unternehmens Zugang zu Anthropics Claude Opus 5, allerdings mit einem Nutzungskontingent pro Mitarbeiter. Bislang war der Zugriff auf Claude nur ausgewählten DeepMind-Teams und priorisierten Projekten vorbehalten, während sich viele Entwickler intern über die Programmierleistung von Gemini beschwert hatten. Google betont, Gemini bleibe weiterhin das primäre und grundlegende Modell für die interne Entwicklung, Drittmodelle dienten nur als Ergänzung für spezielle Anwendungsfälle. Der Schritt gilt als bemerkenswertes Eingeständnis, dass Gemini bei Programmieraufgaben gegenüber Konkurrenzmodellen weiterhin zurückliegt, und zeigt den wachsenden Wettbewerbsdruck im Markt für KI-Coding-Tools.",
-      "quelle": "Business Insider",
+      "titel": "NVIDIA-Chef Huang lehnt neue KI-Gesetze erneut ab",
+      "text": "NVIDIA-Chef Jensen Huang hat am 15. September bei einem Auftritt auf der Salesforce-Konferenz Dreamforce in San Francisco erklärt, die KI-Branche brauche derzeit keine neuen Gesetze oder Regulierungen, weil Marktkräfte für sichere Innovation sorgen würden. Er nannte es eine falsche Alternative, KI-Entwicklung entweder als sicher oder als schnell einzuordnen, und wandte sich damit gegen aktuelle Forderungen mehrerer Branchengrößen nach strengerer Aufsicht. Kurz zuvor hatte Huang bei einem Telefonat mit US-Präsident Trump dessen Kritik an solchen Bremsaufrufen unterstützt. NVIDIA ist als weltgrößter Anbieter von KI-Chips direkt von einem möglichen Entwicklungstempo-Rückgang betroffen, da langsameres Modellwachstum auch die Nachfrage nach Rechenleistung dämpfen könnte. Die Aussage zeigt, wie unterschiedlich Chip-Hersteller und einige KI-Labore Risiken und Tempo der Entwicklung derzeit einschätzen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-09-15",
-      "unternehmen": "Google"
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Goldpreis fällt auf 5-Wochen-Tief vor Fed-Zinsentscheidung",
-      "text": "Der Goldpreis ist am Dienstag auf rund 4.290 Dollar je Feinunze gefallen, den tiefsten Stand seit Anfang August. Belastet wurde der Kurs von einem stärkeren US-Dollar, steigenden Anleiherenditen und einem Anstieg der Ölpreise, während die Anleger auf die Zinsentscheidung der US-Notenbank Fed am Mittwoch warten. Nach den jüngsten Inflationsdaten von Anfang September gilt eine Zinserhöhung um einen Viertelprozentpunkt auf 4,00 Prozent inzwischen mit rund 80 bis 90 Prozent Wahrscheinlichkeit als wahrscheinlich - was ungewöhnlich wäre, da die Fed zuvor das ganze Jahr über den Leitzins bei 3,50 bis 3,75 Prozent gehalten hatte. Die Einschätzungen großer Banken gehen jedoch auseinander: JPMorgan Wealth Management erwartet die Anhebung, Goldman Sachs hält eine Zinserhöhung im September dagegen für sehr unwahrscheinlich und rechnet für den Rest des Jahres mit unveränderten Zinsen. Der S&P 500 schloss zuletzt bei 7.619,98 Punkten leicht im Minus. Eine Zinserhöhung wäre die erste seit 2023 und könnte sowohl Gold als auch Aktien kurzfristig unter Druck setzen.",
+      "titel": "Fed erhöht Leitzins erstmals seit 2023, Warsh signalisiert weitere Schritte",
+      "text": "Die US-Notenbank Fed hat am 16. September ihren Leitzins einstimmig um 25 Basispunkte auf eine Spanne von 3,75 bis 4,0 Prozent angehoben, die erste Erhöhung seit 2023. Fed-Chef Kevin Warsh begründete den Schritt mit einer Inflation, die trotz starker Wirtschaft und robustem Arbeitsmarkt weiterhin zu hoch sei, und verwies zusätzlich auf geopolitische Spannungen im Nahen Osten. Die aktualisierten Wirtschaftsprognosen der Fed deuten darauf hin, dass 16 von 18 Notenbankern noch mindestens eine weitere Zinserhöhung in diesem Jahr für möglich halten, was an den Märkten als überraschend restriktives Signal aufgenommen wurde. Der Dow Jones fiel im Anschluss um rund 631 Punkte beziehungsweise 1,2 Prozent auf 51.461,90 Punkte, der S&P 500 gab 0,45 Prozent nach. Der Goldpreis, der im Tagesverlauf zunächst auf über 4.365 Dollar pro Feinunze gestiegen war, rutschte nach Warshs Kommentaren um bis zu 1,3 Prozent auf rund 4.240 Dollar ab, da höhere Zinsen die Attraktivität des zinslosen Edelmetalls schmälern. Anleger rechnen nun bis Jahresende mit einem restriktiveren Fed-Kurs als zuvor erwartet.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-15"
+      "datum_artikel": "2026-09-16"
     },
     {
-      "titel": "NVIDIA verliert nach KI-Bremsaufruf 8 Prozent, Alphabet und Meta profitieren",
-      "text": "Nach dem Wochenend-Aufruf von Anthropic-Chef Dario Amodei, Sam Altman und Elon Musk zur Verlangsamung der KI-Entwicklung kam es am Montag zu einer deutlichen Kapitalrotation an der Wall Street. NVIDIA fiel um 8,38 Prozent auf 210,82 Dollar, nachdem bereits tags zuvor die SoftBank-Aktie wegen desselben Themas eingebrochen war - diesmal traf es gezielt die Chip- und Rechenzentrums-Zulieferer der KI-Branche. Gleichzeitig legte Meta um 7,12 Prozent auf 660,71 Dollar zu, Alphabet gewann 2,09 Prozent, während Microsoft bei rund 499,83 Dollar nahezu unverändert blieb. Auch Broadcom geriet trotz eines Rekordumsatzes von 29,6 Milliarden Dollar im dritten Quartal unter Druck und verlor rund 4 Prozent. Anleger werten die Bewegung als Rotation weg von Unternehmen, die stark von hohen KI-Investitionen abhängen, hin zu Konzernen wie Alphabet, Microsoft und Meta, die als weniger abhängig von einem ungebremsten Ausbautempo gelten. Nicht alle Marktbeobachter teilen die Verlangsamungs-These: Analysten der Deutschen Bank halten eine freiwillige Investitionsbremse einzelner Unternehmen im Wettbewerbsumfeld für unwahrscheinlich.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-09-14"
+      "titel": "Goldman Sachs und Bankaktien brechen nach Solomon-Warnung ein",
+      "text": "Die Aktie von Goldman Sachs ist am 16. September um rund 4 Prozent eingebrochen, nachdem Konzernchef David Solomon auf einer Barclays-Konferenz vor einem schwächeren Geschäft mit festverzinslichen Wertpapieren im dritten Quartal und steigenden Kosten im gesamten Konzern gewarnt hatte. Solomon erklärte, das Aktienhandelsgeschäft bleibe zwar sehr stark, das Anleihe- und Rohstoffgeschäft entwickle sich im Vergleich zu früheren Quartalen aber schwächer. Verstärkt wurde der Kursrutsch durch die Zinserhöhung der Fed vom selben Tag, die Nettomargen und Kapitalmarktgeschäft von Banken zusätzlich unter Druck setzt, sowie durch vorherige Warnungen von Bank-of-America-Chef Brian Moynihan zu Geschäft und Handel im dritten Quartal. Der Ausverkauf erfasste den gesamten Bankensektor an der Wall Street und zeigt, wie empfindlich Finanzwerte derzeit auf jede Kombination aus Zinssignalen und Gewinnwarnungen reagieren. Für Goldman Sachs war es bereits der dritte Handelstag in Folge mit spürbaren Kursverlusten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-16"
     }
   ]
 }
