@@ -1,54 +1,55 @@
 {
-  "datum": "Mittwoch, 23. September 2026",
-  "generiert": "2026-09-23",
+  "datum": "Donnerstag, 24. September 2026",
+  "generiert": "2026-09-24",
   "ki_stories": [
     {
-      "titel": "OpenAI senkt Preise deutlich mit neuen Modellen GPT-6 Sol und Luna",
-      "text": "OpenAI hat GPT-6 Sol und GPT-6 Luna veroeffentlicht, zwei guenstigere Ergaenzungen zur GPT-6-Modellfamilie. Sol richtet sich an Entwickler und Wissensarbeiter fuer wiederkehrende Aufgaben wie Programmieren, Code-Reviews und Datenanalyse und kostet 2 Dollar je Million Input- sowie 10 Dollar je Million Output-Token, die Haelfte des bisherigen Preises von GPT-5.6 Sol. Luna ist als Einstiegsmodell noch guenstiger und kostet nur 0,10 beziehungsweise 0,50 Dollar je Million Token. OpenAI begruendet die Preissenkung mit Fortschritten bei Caching und Inferenz, wodurch die Modelle kostenguenstiger betrieben werden koennen. Beide Modelle sind in ChatGPT Work, im Codierwerkzeug Codex und ueber die API verfuegbar, Luna zusaetzlich fuer kostenlose und Go-Nutzer. Der Schritt verschaerft den Preiskampf mit Anthropic und Google, die zuletzt ebenfalls guenstigere Modelle vorgestellt haben.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-09-22"
+      "titel": "Claude entdeckt bei Anthropic neues CRISPR-ähnliches Enzym-System",
+      "text": "Anthropic hat sein neues Biowissenschafts-Labor vorgestellt und direkt einen bemerkenswerten ersten Erfolg gemeldet. Das KI-Modell Claude durchsuchte eigenständig eine Datenbank mit rund 1,9 Milliarden Proteinclustern und entdeckte dabei ein bislang unbekanntes Enzym-System in der DNA von Bakteriophagen, dessen Struktur den Wiederholungssequenzen der Genschere CRISPR ähnelt. Menschliche Forscher gaben nur die Aufgabenstellung vor und übernahmen die physische Laborarbeit, während KI-Agenten die Analyse eigenständig planten und sich gegenseitig kontrollierten. Bei einem verwandten Test erreichte Claude bei der Konstruktion neuer Proteine eine Trefferquote von 22 bis 35 Prozent und damit etwa doppelt so viel wie der bisherige Branchendurchschnitt von 10 bis 15 Prozent. Anthropic wertet den Fund als frühen Beleg dafür, dass KI-Systeme biologische Grundlagenforschung eigenständig vorantreiben können. Ob sich das neue Enzym-System tatsächlich wie CRISPR zum gezielten Schneiden von DNA nutzen lässt, muss die weitere Forschung erst noch bestätigen.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-09-23"
     },
     {
-      "titel": "Anthropic bringt vor geplantem Boersengang guenstigeres Modell Claude Opus 5.5",
-      "text": "Anthropic hat mit Claude Opus 5.5 ein neues, deutlich kostenguenstigeres Spitzenmodell vorgestellt. Es liefert bei vielen Aufgaben aehnliche Ergebnisse wie das teurere Modell Fable 5.1, kostet im Betrieb aber spuerbar weniger als der Vorgaenger Opus 5. Laut Anthropic arbeitet das neue Modell zudem schneller und liefert klarer formulierte Antworten. Der Zeitpunkt ist kein Zufall: Anthropic bereitet sich auf einen viel beachteten Boersengang an der Wall Street vor und will mit guenstigeren Modellen im Wettbewerb mit OpenAI und Google Marktanteile sichern. Die neue Preisstruktur reiht sich damit in eine Welle von Kostensenkungen bei den grossen KI-Anbietern ein, die zuletzt auch bei OpenAI mit GPT-6 Sol zu beobachten war.",
+      "titel": "Altman und Amodei fordern bei UN-Sicherheitsrat globale KI-Standards",
+      "text": "Nachdem gestern bekannt geworden war, dass der UN-Sicherheitsrat OpenAI, Anthropic sowie die chinesischen Anbieter DeepSeek und Moonshot zu einer Sondersitzung einlädt, hielten OpenAI-Chef Sam Altman und Anthropic-Chef Dario Amodei nun tatsächlich ihre Reden vor dem Gremium. Altman forderte persönlich vor Ort internationale Standards zur Messung von KI-Fähigkeiten, zur Risikobewertung und zur Sicherung menschlicher Aufsicht, damit die Welt aus Zwischenfällen lernen könne, bevor sie katastrophal werden. Amodei, der per Video zugeschaltet war, schlug drei konkrete Ansätze vor: ein globales Verbot des KI-Einsatzes zur Entwicklung biologischer Waffen, gegenseitige Verifizierungssysteme zwischen Staaten sowie gemeinsame Teststandards mit einem Meldesystem für KI-Sicherheitsvorfälle. DeepSeek und Moonshot beteiligten sich zwar mit eigenen Stellungnahmen, ihre Gründer blieben der Sitzung aber fern, was Beobachter als vorsichtigen Schutz vor den angespannten US-chinesischen Beziehungen deuten. Die Reden fallen in eine Phase, in der zuletzt mehrere Vorfälle mit eigenmächtig handelnden KI-Agenten weltweit Rufe nach einem langsameren Entwicklungstempo laut werden ließen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-22"
+      "datum_artikel": "2026-09-23"
     },
     {
-      "titel": "UN-Sicherheitsrat laedt Altman, Amodei und DeepSeek zu Sondersitzung ueber KI-Risiken",
-      "text": "Der UN-Sicherheitsrat kommt am Mittwoch unter franzoesischem Vorsitz zu einer Sondersitzung ueber Chancen und Risiken Kuenstlicher Intelligenz zusammen, den Vorsitz fuehrt Frankreichs Aussenminister Jean-Noel Barrot. OpenAI-Chef Sam Altman nimmt persoenlich teil, Anthropic-Chef Dario Amodei wird per Video zugeschaltet. Eingeladen sind zudem Vertreter der chinesischen KI-Anbieter DeepSeek und Moonshot sowie Hugging-Face-Chef Clement Delangue und der Wissenschaftler Yoshua Bengio, Co-Vorsitzender des unabhaengigen UN-Wissenschaftsgremiums zu KI. Im Zentrum steht die Sorge, dass fortgeschrittene KI-Systeme missbraucht werden oder sich der menschlichen Kontrolle entziehen koennten. Die Sitzung findet vor dem Hintergrund wachsender internationaler Forderungen nach gemeinsamen Sicherheitsstandards fuer KI statt und faellt in dieselbe Woche wie der Trump-Xi-Gipfel, bei dem KI ebenfalls Thema ist.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-22"
-    },
-    {
-      "titel": "Tencent bringt neues Bild-KI-Modell gegen ByteDance und Alibaba in Stellung",
-      "text": "Tencent hat mit Hy Image 3.5 Preview ein neues KI-Bildmodell vorgestellt, das den Rueckstand auf die Konkurrenten ByteDance und Alibaba verringern soll. Das Modell erzielte in internen Tests mit hunderten Designern Ergebnisse auf dem Niveau von ByteDances Seedream 5.0 Pro und schnitt leicht besser ab als Googles Nano Banana Pro und Alibabas Qwen-Image-3.0 Pro. Gegenueber der Vorversion Hy Image 3.0 bietet das neue Modell laut Tencent eine um rund 30 Prozent hoehere Leistung und unterstuetzt Text-zu-Bild, Bild-zu-Bild sowie mehrstufiges Bearbeiten in bis zu 4K-Aufloesung. Es wird in den Chatbot Yuanbao sowie in Film- und Design-Werkzeuge des WeChat-Oekosystems integriert. Die Vorstellung fiel bewusst auf denselben Tag wie Alibabas eigene KI-Konferenz, was den intensiven Wettlauf der chinesischen Tech-Konzerne um die Vorherrschaft bei generativer KI unterstreicht. Tencents Aktie legte in Hongkong daraufhin um mehr als 7 Prozent zu.",
-      "quelle": "Bloomberg",
+      "titel": "Google macht Kern seiner Robotik-Plattform Intrinsic Core quelloffen",
+      "text": "Googles Robotik-Tochter Intrinsic hat auf der Fachkonferenz ROSCon 2026 in Toronto zentrale Teile ihrer industriellen Robotik-Plattform unter der freizügigen Apache-2.0-Lizenz veröffentlicht. Intrinsic Core bündelt Bausteine, die Intrinsic selbst in realen Fertigungseinsätzen nutzt, darunter kollisionsfreie Bewegungsplanung, eine mit NVIDIAs FoundationPose kompatible Objekterkennung sowie Werkzeuge für Simulation und Kalibrierung. Entwickler sollen damit robotische Anwendungen aus vorgefertigten Bausteinen zusammensetzen können, statt Infrastruktur und Basisfunktionen jedes Mal neu zu programmieren. Die Software ist mit dem Robotik-Standard ROS 2 kompatibel und läuft auf lokaler Hardware unter Ubuntu. Beobachter werten den Schritt als Versuch von Google, ähnlich wie einst mit Android im Smartphone-Markt einen offenen Standard für physische KI und Industrierobotik zu etablieren.",
+      "quelle": "Forbes",
       "datum_artikel": "2026-09-22"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Metas KI-Agent Muse loest Kursrutsch bei Banken, Versicherern und Reiseanbietern aus",
-      "text": "Aktien grosser Banken, Versicherer und Online-Reiseanbieter sind eingebrochen, weil Anleger befuerchten, dass Metas persoenlicher KI-Agent Muse Geschaeftsmodelle bedroht, die von traeger Kundengewohnheit leben. Der Finanzwerte-Index im S&P 500 verlor knapp 2 Prozent und fiel auf den niedrigsten Stand seit Juli, waehrend der Gesamtmarkt kaum nachgab. JPMorgan Chase und Wells Fargo gaben jeweils mehr als 3 Prozent nach, Morgan Stanley verlor 2,9 Prozent, der Versicherer Allstate fiel um 5,5 Prozent und Charles Schwab brach um mehr als 6 Prozent ein. Hintergrund ist, dass Muse eigenstaendig digitale Aufgaben fuer Nutzer erledigen kann, etwa Geld auf hoeher verzinste Konten umschichten, ungenutzte Abos kuendigen oder automatisch guenstigere Versicherungstarife waehlen. Investoren befuerchten, dass solche KI-Agenten zu neuen digitalen Torwaechtern werden, die Provisionen und Kundenbeziehungen direkt abschoepfen, statt dass der Handel weiter ueber klassische Webseiten und Apps laeuft. Muse war erst am 8. September gestartet und hatte zuletzt bereits fuer einen Rekordlauf bei Chip-Aktien gesorgt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-22",
+      "titel": "Meta zeigt neues Mixed-Reality-Headset Phoenix und kamerafreie Smart Glasses",
+      "text": "Meta-Chef Mark Zuckerberg hat auf der Entwicklerkonferenz Meta Connect in Menlo Park den neuen Mixed-Reality-Headset-Prototyp Phoenix sowie kamerafreie Smart Glasses mit dem Codenamen Luna vorgestellt. Phoenix soll je nach Ausstattung zwischen 1.000 und 2.000 Dollar kosten, ist deutlich schlanker als bisherige Meta-Headsets und lagert Rechenleistung sowie Akku in ein separates, am Körper getragenes Zusatzteil aus; ein Marktstart ist laut internen Roadmap-Berichten erst für die erste Jahreshälfte 2027 geplant. Die kamerafreien Glasses Luna nutzen stattdessen ein Sechs-Mikrofon-Array und reagieren damit auf wachsende Datenschutzbedenken gegenüber kamerabestückten Smart Glasses. Zusätzlich präsentierte Meta mit Muse Charm ein kleines anhängerartiges Gerät, das die firmeneigene KI Muse trägt und künftig mit Handelspartnern wie Walmart und Instacart zusammenarbeiten soll. Der Auftritt markiert Metas klarsten Kurswechsel weg von sperrigen VR-Headsets hin zu Alltags-Brillen, nachdem das Unternehmen zuvor mit seiner Metaverse-Strategie mehr als 80 Milliarden Dollar Verlust bei Reality Labs verbucht hatte.",
+      "quelle": "Engadget",
+      "datum_artikel": "2026-09-23",
       "unternehmen": "Meta"
     },
     {
-      "titel": "NVIDIA-Aktie trotz Wachstumsversprechen so guenstig bewertet wie seit zehn Jahren nicht",
-      "text": "NVIDIAs Aktie wird derzeit mit weniger als dem 17-Fachen des fuer die naechsten zwoelf Monate erwarteten Gewinns gehandelt, dem niedrigsten Bewertungsniveau seit mehr als einem Jahrzehnt. Das ist nur halb so viel wie das Bewertungsniveau im Jahr 2025, obwohl Umsatz- und Gewinnwachstum damals langsamer waren, und deutlich unter dem mehr als 25-Fachen, das die Aktie noch im Mai erreichte. Analysten werten den fallenden Bewertungsmultiplikator als Warnsignal dafuer, dass Anleger zunehmend Zweifel haben, ob NVIDIA sein starkes Gewinnwachstum halten kann. Dem gegenueber steht der optimistische Ausblick von Firmenchef Jensen Huang, der bei einem Investorentermin erklaerte, die Chipverkaeufe des Unternehmens wuerden sich bis 2027 verdoppeln, getrieben von der Nachfrage aus Rechenzentren und weiteren Maerkten. Die Diskrepanz zwischen sinkender Bewertung und Huangs Wachstumsversprechen zeigt, wie nervoes der Markt trotz der anhaltenden KI-Investitionswelle inzwischen auf Chip-Werte blickt.",
+      "titel": "Microsoft und Google verteidigen Rechenzentren-Ausbau gegen wachsenden Widerstand",
+      "text": "Führungskräfte von Microsoft und Google traten diese Woche bei Klimatreffen in New York öffentlich der wachsenden Kritik an ihrem massiven Ausbau von Rechenzentren entgegen. Nach Daten, die Bloomberg vorliegen, wurden zwischen April und Juni allein in den USA 45 Rechenzentrumsprojekte im Gesamtwert von 68 Milliarden Dollar durch lokalen Widerstand blockiert oder verzögert. Microsofts Nachhaltigkeitschefin erklärte, man arbeite daran, die Kosten für Rechenzentren von den Stromrechnungen gewöhnlicher Verbraucher zu trennen, und verwies zudem auf Investitionen in lokale Arbeitsplätze und einen sparsameren Wasserverbrauch. Ein Google-Manager räumte ein, dass Rechenzentren inzwischen von linker wie rechter Seite politisch ins Visier genommen würden und im Vorfeld der US-Zwischenwahlen im November noch mehr Geld in die Debatte fließen dürfte. Der Widerstand hat sich damit von einem lokalen Nischenthema zu einem zentralen Wahlkampfthema entwickelt, das die Kostenkalkulation der KI-Infrastruktur beider Konzerne zunehmend belastet.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-22",
-      "unternehmen": "NVIDIA"
+      "datum_artikel": "2026-09-23",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "OpenAI weitet Werbeanzeigen in ChatGPT auf Europa, Indien und Nahost aus",
+      "text": "OpenAI hat sein Werbeformat ChatGPT Ads auf ausgewählte Länder in Europa, Indien sowie dem Nahen Osten und Nordafrika ausgeweitet, darunter Deutschland, Frankreich, Spanien, Italien und Österreich. Parallel wurde die App-Integration für Werbetreibende erweitert: Die Shopify- und HubSpot-Anbindungen, die zuvor nur in den USA verfügbar waren, gehen ab sofort auch international live, sobald ChatGPT Ads im jeweiligen Markt verfügbar ist. OpenAI ergänzte zudem eine Reihe an Werbefunktionen rund um Zielgruppenverwaltung, Erfolgsmessung und Kampagnensteuerung, mit denen Werbetreibende eigene Zielgruppen flexibler bearbeiten können, ohne sie komplett neu aufbauen zu müssen. Der Schritt folgt auf frühere Testphasen, in denen OpenAI Werbung zunächst nur ausgewählten großen US-Marken wie Adobe, Ford und Target zeigte, und markiert einen weiteren Baustein im Aufbau eines eigenständigen Werbegeschäfts. Der Ausbau ist Teil von OpenAIs Bemühen, angesichts der enormen Investitionskosten für Rechenzentren zusätzliche Erlösquellen jenseits der Abo-Modelle zu erschließen.",
+      "quelle": "Digiday",
+      "datum_artikel": "2026-09-23",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Oelpreis faellt auf Zwoelf-Tage-Tief wegen Hoffnung auf Iran-Diplomatie",
-      "text": "Der Oelpreis ist auf den niedrigsten Stand seit zwoelf Tagen gefallen, nachdem Berichte aufkamen, der Iran koenne die Strasse von Hormus wieder oeffnen, sollte Washington den Druck auf Teheran lockern. Die Sorte Brent fiel zeitweise um rund 4 Prozent auf etwa 99 Dollar je Barrel, die US-Sorte WTI gab aehnlich stark nach. Ausloeser war unter anderem, dass US-Praesident Trump am Rande der UN-Generalversammlung in New York Gespraechsbereitschaft mit dem iranischen Praesidenten Masoud Pezeshkian signalisierte. Zusaetzlich stuetzte die Aussicht auf eine teilweise Wiederaufnahme saudischer Oelexporte ueber eine zuvor durch Drohnenangriffe unterbrochene Pipeline die Entspannung am Markt. Die fallenden Oelpreise daempften zugleich Inflationssorgen und liessen Markterwartungen fuer weitere Zinserhoehungen der US-Notenbank etwas zurueckgehen, was dem Goldpreis half, sich von Verlusten der Vortage zu erholen und wieder ueber 4.350 Dollar je Feinunze zu steigen. Haendler warnen jedoch, dass die Erleichterung fragil bleibt, solange keine konkrete diplomatische Einigung im Iran-Konflikt erzielt ist.",
+      "titel": "US-Börsen und Goldpreis fallen nach Renditesprung wegen Zinssorgen",
+      "text": "An den US-Börsen kam es am Mittwoch zu einem breiten Ausverkauf: Der S&P 500 gab 0,75 Prozent auf 7.706,03 Punkte nach, der Nasdaq Composite verlor 1,13 Prozent auf 26.936,04 Punkte, und der Dow Jones fiel um 0,68 Prozent auf 51.511,59 Punkte. Auslöser war ein überraschend starker Einkaufsmanagerindex von S&P Global, der mit 58,4 Punkten den höchsten Stand seit Juli 2021 erreichte und Sorgen vor weiteren Zinserhöhungen der US-Notenbank schürte. Die Rendite zehnjähriger US-Staatsanleihen sprang auf 5,054 Prozent, den höchsten Stand seit 2007, während die Rendite zweijähriger Anleihen auf 4,862 Prozent kletterte. Fed-Gouverneur Michael Barr bekräftigte am selben Tag, die Notenbank werde die Zinsen wohl weiter anheben müssen, da die Inflation trotz solider Konjunktur und robustem Arbeitsmarkt über dem Zwei-Prozent-Ziel liege. Die restriktiven Fed-Signale belasteten parallel auch den Goldpreis, der um rund 1,2 Prozent auf unter 4.350 Dollar je Feinunze absackte, nachdem er zu Wochenbeginn noch nahe seinem Rekordhoch gehandelt hatte.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-22"
+      "datum_artikel": "2026-09-23"
     }
   ]
 }
