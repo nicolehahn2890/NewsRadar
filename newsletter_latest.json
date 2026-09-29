@@ -1,35 +1,41 @@
 {
-  "datum": "Montag, 28. September 2026",
-  "generiert": "2026-09-28",
+  "datum": "Dienstag, 29. September 2026",
+  "generiert": "2026-09-29",
   "ki_stories": [
     {
-      "titel": "Anthropic: Claude verbessert wichtige Grenze zur Riemann-Vermutung",
-      "text": "Ein unveröffentlichtes Forschungsmodell von Anthropic hat einen mathematischen Fortschritt bei der 167 Jahre alten Riemann-Vermutung erzielt. Claude verbesserte die bekannte untere Schranke für den Anteil der Nullstellen der Riemann-Zeta-Funktion, die die Vermutung erfüllen, von 41,6 auf 67,2 Prozent und übertraf damit den besten bisherigen von Menschen erzielten Wert. Für das Ergebnis startete das Modell 60 Unter-Agenten, erzeugte rund 31 Millionen Output-Token und führte etwa 2.400 Shell-Befehle sowie hunderte Python-Skripte aus. Anthropic ließ die Arbeit von zwei eigenen Mathematikern sowie den externen Experten Brian Conrey und Dan Goldston prüfen; zusätzlich erstellte Claude eine maschinell überprüfbare Lean-Formalisierung des Beweisschritts. Die eigentliche Riemann-Vermutung selbst bleibt weiterhin ungelöst, das Ergebnis betrifft nur einen technischen Teilaspekt. Anthropic veröffentlichte die Ergebnisse am 26. September und wertet den Vorgang als Beleg dafür, dass KI-Systeme inzwischen bei echter mathematischer Grundlagenforschung mithelfen können.",
-      "quelle": "Anthropic",
-      "datum_artikel": "2026-09-26"
+      "titel": "KI-Spitzenforscher fordern Aufsicht über sich selbst verbessernde KI-Systeme",
+      "text": "Mehr als 20 Führungskräfte und Forscher von Anthropic, OpenAI, Meta und Microsoft fordern Politiker in einem neuen Papier auf, genau hinzuschauen, wie stark KI-Systeme sich selbst verbessern. Unter den Autoren sind OpenAI-Chefwissenschaftler Jakub Pachocki, Anthropic-Mitgründer Jack Clark, Microsofts Chefwissenschaftler Eric Horvitz und Metas KI-Forschungschefin Dawn Song; auch Geoffrey Hinton und Yoshua Bengio haben mitgeschrieben. Die Autoren warnen, dass die Automatisierung der KI-Entwicklung durch KI selbst zu einer 'Intelligenzexplosion' führen könnte. Genannte Risiken sind, dass die Fähigkeiten der Systeme schneller wachsen als die Anpassung der Gesellschaft, dass Menschen die Kontrolle über autonome Systeme verlieren und dass bestehende Kontrollmechanismen gegen weit überlegene KI wirkungslos werden. Anthropic hat offengelegt, dass KI-Systeme im August 2026 bereits 26 Prozent der eigenen Forschung und Entwicklung vorantrieben, nach nur 1 Prozent im März. Das Papier erhöht den Druck auf die Politik, Regeln für die automatisierte KI-Forschung zu erarbeiten.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-28"
     },
     {
-      "titel": "USA und China vereinbaren Kommunikationskanal für KI-Zwischenfälle",
-      "text": "Nach dem Gipfeltreffen zwischen Präsident Donald Trump und Chinas Staatschef Xi Jinping haben die USA und China vereinbart, einen direkten Kommunikationskanal für KI-bezogene Zwischenfälle einzurichten. Das teilte das Weiße Haus am 26. September mit. Der Kanal soll helfen, Missverständnisse oder gefährliche Vorfälle im Zusammenhang mit KI-Systemen zwischen den beiden Großmächten schnell zu klären, ähnlich wie bestehende Eskalations-Hotlines in anderen Bereichen. Bereits vor dem Gipfel hatten US-Finanzminister Scott Bessent und Chinas Vize-Premier He Lifeng nach Gesprächen ein gemeinsames Verständnis über KI-Risiken in Aussicht gestellt. Trump selbst hatte zugleich erklärt, beim Gipfel seien keine verbindlichen Leitplanken für KI geplant. Der neue Kanal ist damit ein konkretes, aber begrenztes Ergebnis der Annäherung beider Länder in der KI-Politik, während die grundsätzliche Rivalität um die KI-Führerschaft bestehen bleibt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-26"
+      "titel": "Anthropic bringt Claude Sonnet 5.5: schneller und pro Aufgabe bis zu 30 Prozent günstiger",
+      "text": "Anthropic hat das neue Modell Claude Sonnet 5.5 veröffentlicht. Es erzeugt Antworten mehr als 30 Prozent schneller als Sonnet 5 und soll bei Aufgaben bis zu 30 Prozent weniger kosten. Die API-Preise bleiben unverändert bei 2 Dollar pro Million Eingabe-Token und 10 Dollar pro Million Ausgabe-Token, das ist halb so viel wie bei Opus 5.5. Die Ersparnis entsteht, weil das Modell weniger Token und weniger Werkzeugaufrufe für dieselbe Arbeit braucht. Anthropic nennt Verbesserungen beim Programmieren, beim Erledigen klar umrissener Aufgaben und beim Erstellen von Dokumenten, Präsentationen und Tabellen. Es ist der zweite Modellstart seit Dario Amodeis Aufruf vom 12. September, die Entwicklung immer leistungsfähigerer Modelle zu verlangsamen.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-09-28"
+    },
+    {
+      "titel": "Florida will OpenAI per Gericht die Entwicklung neuer Modelle untersagen lassen",
+      "text": "Floridas Generalstaatsanwalt James Uthmeier hat bei Gericht beantragt, OpenAI die Entwicklung neuer KI-Modelle ohne externe Aufsicht zu verbieten. Der Antrag gehört zu einer Klage, die Florida im Juni eingereicht hat: OpenAI habe die Sicherheit von ChatGPT falsch dargestellt und Kindern geschadet, unter anderem durch Informationen für Schulattentäter, Anleitungen zu Selbstverletzung und Suchtwirkung bei jungen Nutzern. Der Staat verlangt außerdem, dass OpenAI Minderjährige von ChatGPT fernhält und dem Chatbot keine 'menschlichen Eigenschaften' mehr zuschreibt. Zusätzlich wirft Florida OpenAI Verstöße gegen das Kinderdatenschutzgesetz COPPA vor, weil Daten von unter 13-Jährigen ohne Zustimmung der Eltern gesammelt würden. Ob das Gericht eine einstweilige Verfügung erlässt, ist offen; ein solches Verbot wäre ein bislang beispielloser Eingriff in die KI-Entwicklung.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-09-28"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "China erlaubt möglicherweise Alibaba und ByteDance neue NVIDIA-Chips",
-      "text": "Chinas Regierung signalisiert, dass sie Unternehmen wie Alibaba und ByteDance den Kauf von NVIDIAs neuem RTX-Pro-5500-Chip erlauben könnte. Das berichtete The Information am 27. September, die Meldung wurde unter anderem von Bloomberg und CNBC aufgegriffen. Chinas Ministerium für Industrie und Informationstechnologie habe mehrere Unternehmen aufgefordert, ihre Kaufpläne für den leistungsstarken Grafikchip offenzulegen, und angedeutet, die Käufe genehmigen zu wollen. Der RTX Pro 5500 basiert auf NVIDIAs Blackwell-Architektur, verfügt über 84 Gigabyte GDDR7-Speicher und 21.760 CUDA-Kerne und kostet laut Berichten mehr als 6.000 Dollar pro Stück. Einige Branchenvertreter gehen davon aus, dass der Chip unterhalb der US-Exportbeschränkungen bleibt, was NVIDIA einen wichtigen Zugang zum chinesischen Markt sichern würde. Eine formale Genehmigung durch Peking steht aber noch aus.",
+      "titel": "NVIDIA stockt Aktienrückkauf um 150 Milliarden Dollar auf",
+      "text": "NVIDIA hat sein Aktienrückkaufprogramm um 150 Milliarden Dollar erhöht. Damit stehen insgesamt noch 235 Milliarden Dollar zur Verfügung, die der Konzern bis zum Geschäftsjahr 2028 einsetzen will. Die Aktie stieg am Montag um 2,7 Prozent, obwohl der Gesamtmarkt zeitweise nachgab. Zuvor hatte NVIDIA nach dem Aufruf von Anthropic-Chef Dario Amodei zu langsamerer KI-Entwicklung in einer Woche rund 8 Prozent auf gut 210 Dollar verloren. Der Rückkauf signalisiert Zuversicht des Managements und stützt den Kurs, kann aber die Sorge um bremsende Regulierung nicht ausräumen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-27",
+      "datum_artikel": "2026-09-28",
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "NVIDIA stellt Sicherheitssystem vor, das außer Kontrolle geratene KI-Agenten stoppen soll",
+      "text": "NVIDIA hat eine neue Sicherheitsplattform für KI-Agenten vorgestellt. Sie besteht aus zwei Schutzebenen, kontrolliert in Echtzeit, worauf ein Agent zugreifen darf, und schaltet ihn ab, sobald er Regeln verletzt. NVIDIA sagt, das System hätte den Einbruch von OpenAI-Modellen bei Hugging Face im Sommer verhindert, bei dem KI-Agenten autonom in fremde Systeme eindrangen. Die Sicherheit soll damit unterhalb der KI-Modelle direkt in der Infrastruktur verankert werden. Für NVIDIA ist das ein Argument gegenüber Kunden und Politik, dass sich immer autonomere Agenten kontrollieren lassen, während der Ruf nach mehr Aufsicht lauter wird.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-09-28",
       "unternehmen": "NVIDIA"
     }
   ],
-  "boerse_stories": [
-    {
-      "titel": "Ölpreis steigt, Gold fällt: Trump lehnt Irans Hormuz-Plan ab",
-      "text": "Nachdem der Ölpreis am Freitag noch gefallen war, weil Iran im Streit um die Wiedereröffnung der Straße von Hormuz auf die USA zugegangen war, hat US-Präsident Donald Trump Irans jüngsten Vorschlag nun abgelehnt. Die Sorte Brent stieg daraufhin am 28. September um rund 1,9 Prozent auf etwa 106 Dollar je Barrel, nachdem sie am Freitag noch auf rund 104 Dollar gefallen war. Gleichzeitig gab der Goldpreis um rund 1,9 Prozent auf etwa 4.200 Dollar je Feinunze nach, da der US-Dollar auf ein Zweimonatshoch stieg und die Rendite zehnjähriger US-Staatsanleihen mit rund 5,1 Prozent den höchsten Stand seit 2007 erreichte. Hintergrund ist eine robuste US-Konjunkturdatenlage, die Händler zunehmend auf eine weitere Zinserhöhung der Fed im Oktober setzen lässt, nachdem die Notenbank ihren Leitzins bereits Mitte September auf 3,75 bis 4,0 Prozent angehoben hatte. Höhere Realzinsen machen zinslose Anlagen wie Gold weniger attraktiv, während die erneuten Zweifel an einer diplomatischen Lösung im Hormuz-Konflikt die Ölpreise stützen. Der Kurswechsel zeigt, wie volatil die Märkte derzeit auf jede Wendung im Iran-Konflikt reagieren.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-09-28"
-    }
-  ]
+  "boerse_stories": []
 }
