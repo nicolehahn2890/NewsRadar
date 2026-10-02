@@ -1,41 +1,35 @@
 {
-  "datum": "Donnerstag, 1. Oktober 2026",
-  "generiert": "2026-10-01",
+  "datum": "Freitag, 2. Oktober 2026",
+  "generiert": "2026-10-02",
   "ki_stories": [
     {
-      "titel": "Trump und sechs KI-Chefs unterzeichnen freiwilligen Sicherheitspakt im Weißen Haus",
-      "text": "US-Präsident Donald Trump hat am Dienstag, 29. September, gemeinsam mit Anthropic-Chef Dario Amodei, Google-Chef Sundar Pichai, Meta-Chef Mark Zuckerberg, OpenAI-Präsident Greg Brockman, NVIDIA-Chef Jensen Huang und xAI-Gründer Elon Musk eine Vereinbarung namens Joint Commitment on Frontier Responsibilities unterzeichnet. Die Firmen verpflichten sich zu internen Kontrollen, unabhängigen externen Prüfungen ihrer Systeme und einer Aufsicht auf Vorstandsebene. Die Vereinbarung ist freiwillig und setzt keine technischen Standards für die ganze Branche; kritische Berichte bemängeln, dass die Sicherheitsaufsicht damit weitgehend in den Händen der Unternehmen bleibt. Der Pakt kommt nach mehreren Vorfällen mit außer Kontrolle geratenen KI-Agenten und lauter werdenden Forderungen nach einem Tempolimit. Offen ist, ob daraus später ein verbindliches Gesetz oder eine Regulierung wird.",
-      "quelle": "Nextgov/FCW",
-      "datum_artikel": "2026-09-30"
-    },
-    {
-      "titel": "Google zahlt rund 100 Verlagen Geld für Inhalte in KI-Antworten",
-      "text": "Laut einem Bericht von The Information zahlt Google in einem Pilotprogramm für 'KI-Beiträge' an etwa 100 digitale Verlage dafür, dass ihre Inhalte in KI-Antworten einfließen, also in AI Overviews, AI Mode und Gemini. Die Beträge schwanken stark: Ein Teilnehmer erhält mehr als eine Million Dollar pro Jahr, kleine Seiten bekamen über mehrere Monate weniger als 1.000 Dollar, was für sie unter 0,1 Prozent der Werbeeinnahmen entspricht. Google zahlt nur, wenn ein Inhalt aus seiner Sicht wesentlich zu einer KI-Antwort beigetragen hat. Die Verlage sehen weder, welche Seiten Geld gebracht haben, noch wie die Summe berechnet wird. Ein Ausstieg aus der Bezahlung bedeutet nicht, dass ihre Inhalte aus den KI-Antworten verschwinden. Das Programm ist die erste Bezifferung dessen, was Google Verlagsinhalten in der KI-Suche beimisst.",
-      "quelle": "The Information",
+      "titel": "Google stellt Gemini 4 Argon vor, zunächst nur für ausgewählte Tester",
+      "text": "Google DeepMind hat am 30. September nach monatelangen Verzögerungen Gemini 4 Argon als Flaggschiff der neuen Gemini-4-Generation angekündigt. Das Modell geht zunächst nur an eine kleine Gruppe vertrauenswürdiger Tester im Programm Fairwind, beginnend mit Cyber-Verteidigern. Die Ausgabelänge steigt laut Bericht von 64.000 auf 1 Million Token. Google sieht das Modell bei Coding- und Cyber-Benchmarks auf Augenhöhe mit Spitzenmodellen wie OpenAIs Astra und Anthropics Opus. Zudem nimmt Google am freiwilligen Verfahren der Trump-Regierung für den Zugang zu Modellen vor Veröffentlichung teil. Ein breiter Marktstart steht noch aus.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-09-30"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Meta gründet Unternehmenssparte und verkauft Muse-KI-Agenten an Firmen",
-      "text": "Meta hat die Meta Enterprise Platform angekündigt, eine neue Geschäftseinheit, die Metas KI-Technik an Unternehmen und Entwickler verkaufen soll. Zuckerberg nannte sie die nächste große Säule des Geschäfts. Geleitet wird sie vom früheren MongoDB-Chef Chirantan Desai, der direkt an Zuckerberg berichtet. Zunächst gehören der bestehende Business Agent, die Chat-Oberfläche Muse, eine Muse-Schnittstelle (API) für externe Systeme und der Coding-Agent Muse Code dazu. Parallel startete Meta Muse for Small Business, das den Agenten mit Software wie Asana, Zoom, Intuit, Box, Canva und Slack verbindet. Der Schritt kommt nur etwa drei Wochen nach dem Start von Muse. Meta rechnet in diesem Jahr mit Investitionen von bis zu 145 Milliarden Dollar, vor allem in KI-Infrastruktur, und braucht damit neue Einnahmequellen jenseits der Werbung.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-09-29",
-      "unternehmen": "Meta"
+      "titel": "Anthropic peilt Börsengang vor Thanksgiving an, Bewertung bis 2 Billionen Dollar",
+      "text": "Nach einer Verschiebung der Pläne will Anthropic laut Bloomberg schon Mitte November an die Börse gehen. Das offizielle Marketing für den Börsengang könnte in der Woche ab dem 9. November starten, sodass der Handel vor Thanksgiving beginnen würde. Interessierte Investoren halten eine Bewertung zwischen 1,8 und 2 Billionen Dollar für möglich, womit es der größte Börsengang aller Zeiten wäre. Der Prospekt weist für 2025 einen Nettoverlust von knapp 42 Milliarden Dollar aus, rund fünfmal so viel wie die etwa 8,3 Milliarden Dollar im Jahr davor. Neu gegenüber den Prospekt-Berichten der Vortage ist der konkrete Zeitplan. Anthropic prüft die Pläne weiter, der Termin kann sich noch ändern.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-01",
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Weicher PCE-Wert senkt Fed-Zinserhöhungswahrscheinlichkeit, Anleiherenditen steigen trotzdem",
-      "text": "Der bevorzugte Inflationsindikator der Fed, der PCE-Preisindex, stieg im August um 0,3 Prozent zum Vormonat (Kernrate: 0,2 Prozent) und lag im Jahresvergleich bei 3,4 Prozent, Ökonomen hatten 3,7 Prozent erwartet. Nachdem Händler im September zeitweise mit mehr als 80 Prozent Wahrscheinlichkeit eine Zinserhöhung im Oktober eingepreist hatten, sank dieser Wert nach den Daten auf rund 37 Prozent; die nächste Erhöhung wird eher im Dezember erwartet. Die Renditen zehnjähriger US-Staatsanleihen stiegen dennoch auf rund 5,3 Prozent, nahe dem höchsten Stand seit 2002. Der Dow Jones schloss knapp unter 51.000 Punkten, dem tiefsten Stand seit mehr als drei Monaten, und verlor im September rund 4,3 Prozent, während der Nasdaq dank der KI-Schwergewichte 1,9 Prozent zulegte. Als nächste Impulse gelten der Arbeitsmarktbericht am Freitag und die Fed-Sitzung Ende Oktober.",
+      "titel": "Micron mit Rekordquartal: 54,2 Milliarden Dollar Umsatz und starker Ausblick",
+      "text": "Der Speicherchip-Hersteller Micron hat im vierten Geschäftsquartal einen Rekordumsatz von 54,2 Milliarden Dollar erzielt, rund 379 Prozent mehr als vor einem Jahr und über den erwarteten 51,1 Milliarden. Der bereinigte Gewinn je Aktie lag bei 33,42 Dollar statt der erwarteten 31,61 Dollar, die bereinigte Bruttomarge bei 87 Prozent. Der Umsatz im Rechenzentrumsgeschäft stieg auf mehr als das Elffache, getrieben von KI-Servern und HBM-Speicher. Für das laufende Quartal peilt Micron etwa 61,5 Milliarden Dollar Umsatz und 38,15 Dollar Gewinn je Aktie an, deutlich über den Markterwartungen. Chip-Aktien gehörten am Donnerstag zu den Gewinnern an der Wall Street.",
       "quelle": "CNBC",
       "datum_artikel": "2026-09-30"
     },
     {
-      "titel": "Gold springt nach weichen Inflationsdaten, gibt aber hohe Renditen und Ölpreis nach",
-      "text": "Nach dem schwächer als erwarteten PCE-Wert legte Gold laut Kitco zunächst um rund 1,5 Prozent auf etwa 4.240 Dollar je Unze zu, weil die Wahrscheinlichkeit einer Fed-Zinserhöhung im Oktober sank. Später am Tag meldete FXStreet, Gold sei wieder in Richtung 4.150 Dollar gefallen, weil höhere Anleiherenditen und steigende Ölpreise die Entlastung durch die Inflationsdaten überwogen. Steigende Renditen machen das zinslose Gold gegenüber Anleihen weniger attraktiv. Die Kursbewegung zeigt, dass der Markt vorerst stärker auf Zinsen und Renditen als auf die Inflation selbst reagiert. Wichtige nächste Termine sind der US-Arbeitsmarktbericht am Freitag und die Fed-Entscheidung am 28. Oktober.",
-      "quelle": "Kitco",
-      "datum_artikel": "2026-09-30"
+      "titel": "10-jährige US-Rendite erreicht kurz 5,34 Prozent, Aktien schließen dennoch leicht im Plus",
+      "text": "Am Donnerstag stieg die Rendite zehnjähriger US-Staatsanleihen zeitweise auf 5,344 Prozent, den höchsten Stand seit 2002. Gegenüber den Tagen zuvor ist das ein weiterer Sprung, nachdem die Rendite am 23. September erstmals seit 2007 über 5 Prozent gelegen hatte. Bis zum Vormittag drehten die Renditen wieder nach unten, und die Aktienindizes machten frühere Verluste wett: S&P 500 plus 0,20 Prozent, Dow plus 0,16 Prozent, Nasdaq plus 0,44 Prozent. Gold lag bei etwa 4.155 Dollar je Unze und stand unter Druck von hohen Renditen und starkem Dollar. Der Markt wartet nun auf den US-Arbeitsmarktbericht für September am Freitag, erwartet werden 90.000 neue Stellen und eine Arbeitslosenquote von 4,1 Prozent. Er dürfte entscheiden, wie wahrscheinlich eine weitere Zinserhöhung der Fed ist.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-01"
     }
   ]
 }
