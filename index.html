@@ -31,6 +31,7 @@
     --nr-green:   #34c08a;
     --nr-blue:    #5b8def;
     --nr-teal:    #2bb6c4;
+    --nr-rose:    #e0679a;
     --nr-amber:   #8b7cf0;
 
     /* ---- Category / accent aliases ---- */
@@ -39,6 +40,7 @@
     --cat-ki:          var(--nr-violet);
     --cat-unternehmen: var(--nr-blue);
     --cat-boerse:      var(--nr-teal);
+    --cat-politik:     var(--nr-rose);
   }
 
   /* ============ LIGHT THEME (default) ============ */
@@ -453,7 +455,7 @@
         </svg>
       </div>
     </div>
-    <div class="tagline">Tägliches Briefing: KI, Wirtschaft, Märkte</div>
+    <div class="tagline">Tägliches Briefing: KI, Wirtschaft, Märkte, Politik</div>
     <div class="date-badge nr-glass nr-glass--pill nr-glass--sheen"><span class="nr-sheen"></span>📅 <b id="datum">…</b></div>
   </div>
 
@@ -472,7 +474,7 @@
   </div>
 
   <div class="footer">
-    NewsRadar · täglich aktualisiert · Quellen: Bloomberg, FT, WSJ, Reuters, Barron's, WaPo, NYT, The Information, Substack, AI Supremacy
+    NewsRadar · täglich aktualisiert · Quellen: Bloomberg, FT, WSJ, Reuters, Barron's, WaPo, NYT, The Information, Substack, AI Supremacy · Politik zusätzlich: Politico, AP, Tagesschau, Spiegel, FAZ, SZ, Handelsblatt, Zeit
     <div class="stand" id="stand"></div>
   </div>
 
@@ -497,6 +499,12 @@
       title: 'Börse & Gold',
       accent: 'var(--cat-boerse)',
       icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 7h6v6"/><path d="m22 7-8.5 8.5-5-5L2 17"/></svg>'
+    },
+    {
+      key: 'politik_stories',
+      title: 'Politik',
+      accent: 'var(--cat-politik)',
+      icon: '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 22h18"/><path d="M6 18v-7M10 18v-7M14 18v-7M18 18v-7"/><path d="M12 2 20 7H4z"/></svg>'
     },
   ];
 
@@ -633,8 +641,10 @@
     div.className = 'story nr-glass nr-glass--frosted nr-glass--sheen';
     div.style.animationDelay = (index * 0.05) + 's';
 
-    const company = story.unternehmen
-      ? '<span class="story-company">' + escapeHtml(story.unternehmen) + '</span>'
+    // Etikett rechts oben: Unternehmen (Unternehmens-News) bzw. Land (Politik)
+    const tag = story.unternehmen || story.land;
+    const company = tag
+      ? '<span class="story-company">' + escapeHtml(tag) + '</span>'
       : '';
 
     const heute = story.datum_artikel === todayIso()

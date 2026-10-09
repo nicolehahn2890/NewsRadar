@@ -22,8 +22,8 @@ mit Claude Design erstellte Paket „NewsRadar Design System (Liquid Glass)".
   passend mitgeschaltet (`#eaf0f7` hell / `#0b1020` dunkel).
 - **Marken-/Kategorie-Farben** (theme-unabhängige CSS-Variablen):
   `--nr-violet #8b7cf0` (Marke + KI-Branche), `--nr-blue #5b8def`
-  (Unternehmen), `--nr-teal #2bb6c4` (Börse & Gold), `--nr-green #34c08a`
-  (Rex + „Heute"/frisch). Hintergrund-Basis hell `#eaf0f7` / dunkel `#0b1020`.
+  (Unternehmen), `--nr-teal #2bb6c4` (Börse & Gold), `--nr-rose #e0679a`
+  (Politik, seit Okt. 2026), `--nr-green #34c08a` (Rex + „Heute"/frisch). Hintergrund-Basis hell `#eaf0f7` / dunkel `#0b1020`.
 - **Glas-Material:** durchscheinende Flächen mit `backdrop-filter: blur`,
   iridiszierender Rand (`--glass-bevel`) und farbigem Schlagschatten. Genutzt
   über die Utility-Klassen — Komponenten kombinieren sie statt eigenes CSS:
@@ -40,7 +40,7 @@ mit Claude Design erstellte Paket „NewsRadar Design System (Liquid Glass)".
   `.nr-prism-text` einen Regenbogen-Verlauf trägt; Pixel-Rex im Header
   (SVG, viewBox 0 0 19 18, identisch mit dem App-Icon — siehe Skill `icon`,
   Farbe `#34c08a`) mit Radar-Ping (`.nr-radar`) und Bob-Animation; pro Section
-  ein farbiges Glas-Icon-Chip (Lucide-Style-SVGs: sparkles / building / trending-up).
+  ein farbiges Glas-Icon-Chip (Lucide-Style-SVGs: sparkles / building / trending-up / landmark).
 - **Features:** Hell/Dunkel-Umschalter (Glas-Segmented-Control oben),
   Quellen-Filter-Chips, grünes „Heute"-Badge bei Artikeln vom aktuellen Tag,
   Skeleton-Shimmer beim Laden, „Stand:"-Zeile im Footer,
@@ -61,8 +61,11 @@ README mit Mapping-Tabelle) lag im ZIP, das Nicole hochgeladen hat — sie ist
 - **Kein** `apple-mobile-web-app-capable` / Standalone-Modus einbauen
   (Nicole will normales Safari-Verhalten; separater Speicher wäre die Folge).
 - Story-Daten kommen NUR aus `newsletter_latest.json` — Struktur der Felder
-  (`titel`, `text`, `quelle`, `datum_artikel`, `unternehmen`) nicht ändern,
-  die schreibt der tägliche News-Agent (siehe CLAUDE.md).
+  (`titel`, `text`, `quelle`, `datum_artikel`, `unternehmen`, bei Politik
+  `land`) nicht ändern, die schreibt der tägliche News-Agent (siehe CLAUDE.md).
+  Sections: `ki_stories`, `unternehmen_stories`, `boerse_stories`,
+  `politik_stories`. Das Etikett oben rechts in der Karte zeigt `unternehmen`
+  oder ersatzweise `land`.
 
 ## Bekannte Stolperfallen (bereits gefixt — nicht wieder einbauen)
 

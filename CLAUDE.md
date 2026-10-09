@@ -80,6 +80,28 @@ Bevorzuge bei der Suche und Auswahl der Stories diese Quellen — in dieser Reih
 Andere seriöse Quellen (z.B. TechCrunch, The Verge, Axios, CNBC) sind nur
 zulässig, wenn keine der oben genannten Quellen zum Thema berichtet.
 
+**Zusätzlich nur für die Rubrik Politik** (`politik_stories`):
+- **USA:** Reuters, New York Times, Washington Post, Wall Street Journal,
+  Bloomberg, Politico, Associated Press (AP)
+- **Deutschland:** Tagesschau, Der Spiegel, FAZ, Süddeutsche Zeitung,
+  Handelsblatt, Die Zeit, Reuters
+
+### Suchstrategie (damit genug frische Treffer kommen)
+
+- Suche **gezielt auf den bevorzugten Quellen** mit `site:`-Filtern
+  (z.B. `site:reuters.com`, `site:bloomberg.com`, `site:tagesschau.de`).
+  Reine Datums-Suchen wie 'AI news October 8 2026' liefern fast nur
+  Aggregator- und SEO-Seiten — die taugen weder als Quelle noch zum
+  Datum-Belegen.
+- Wenn eine Suche im Modus `standard` dünn oder veraltet ist: dieselbe Suche
+  im Modus `extended` wiederholen, bevor du eine Section leer lässt.
+- Aggregator-Seiten (Blogs, die 'AI News today' sammeln) nie als `quelle`
+  angeben. Nutze sie höchstens als Hinweis und such dann die Originalquelle.
+- Webseiten direkt öffnen (WebFetch) ist in der Cloud-Umgebung oft durch die
+  Netzwerk-Regeln gesperrt (Fehler `ENOTFOUND` / `403`). Dann **nicht
+  aufgeben**: Fakten und Datum aus den Suchergebnissen mehrerer Treffer zum
+  selben Thema zusammensetzen.
+
 ## Paywall-Regel (sehr wichtig)
 
 Viele dieser Quellen sind hinter einer Bezahlschranke. **Trotzdem muss für
@@ -172,6 +194,45 @@ Suchbeispiele:
 - `tariffs sanctions market impact site:ft.com OR site:bloomberg.com`
 - `Fed rate decision site:reuters.com` (nur bei neuer Entwicklung)
 
+### 4. Politik (Section: `politik_stories`)
+
+Neue Rubrik auf Nicoles Wunsch (Oktober 2026). **Schwerpunkt USA und
+Deutschland.** EU- oder andere internationale Politik nur, wenn es ein
+wirklich großes Ereignis ist (z.B. Gipfel mit konkretem Ergebnis, Wahl in
+einem großen Land, Kriegs- oder Friedensentscheidung).
+
+Was rein gehört:
+- **USA:** Entscheidungen von Präsident, Weißem Haus, Kongress und Supreme
+  Court; Gesetze, Haushalt, Wahlen und Umfragen mit klarer Bewegung,
+  Personalwechsel in der Regierung, Außenpolitik der USA.
+- **Deutschland:** Entscheidungen von Bundesregierung, Bundestag, Bundesrat
+  und Bundesverfassungsgericht; Gesetze und Reformen (z.B. Rente, Steuern,
+  Migration, Bundeswehr), Koalitionsstreit mit konkretem Ergebnis,
+  Landtagswahlen, wichtige Umfragen.
+
+Regeln speziell für Politik:
+- **Neutral und sachlich.** Keine Meinung, keine Wertung, keine
+  Parteinahme. Berichte, was entschieden oder gesagt wurde, wer es gesagt hat
+  und was die konkreten Folgen sind. Kritik oder Lob nur als Zitat mit
+  Nennung, von wem es kommt.
+- **Konkrete Folgen erklären:** Was ändert sich für Bürger, Wirtschaft oder
+  Geldbeutel? Ab wann? Was passiert als Nächstes (Abstimmung, Inkrafttreten,
+  Gericht)?
+- **Abgrenzung zu Börse & Gold:** Politische Ereignisse, bei denen die
+  Marktreaktion der Kern ist (z.B. neue Zölle, die Aktien bewegen), gehören
+  in `boerse_stories`. Alles andere in `politik_stories`. **Dasselbe
+  Ereignis nie in beiden Rubriken.**
+- Dauerthemen (z.B. Haushaltsstreit, laufende Kriege, Koalitionsdebatten)
+  nur mit **neuem Fakt** — siehe 'Wiederholungen vermeiden'.
+- Zusätzliches Feld `land` pro Story: `USA`, `Deutschland`, `EU` oder
+  `International`. Es wird auf der Webseite als kleines Etikett angezeigt.
+
+Suchbeispiele:
+- `White House Congress news site:reuters.com OR site:apnews.com`
+- `Trump administration decision site:nytimes.com OR site:washingtonpost.com OR site:politico.com`
+- `Bundesregierung Bundestag Beschluss site:tagesschau.de OR site:spiegel.de`
+- `Koalition Gesetz Kabinett site:faz.net OR site:sueddeutsche.de OR site:zeit.de`
+
 ## Anzahl Stories pro Section
 
 **Maximalzahlen** (NICHT Mindestzahlen — lieber weniger, dafür frisch):
@@ -179,6 +240,8 @@ Suchbeispiele:
 - **KI-Branche:** bis zu 5 Stories
 - **Unternehmens-News:** bis zu 5 Stories
 - **Börse & Gold:** bis zu 3 Stories
+- **Politik:** bis zu 4 Stories (möglichst beide Länder abdecken, wenn es
+  in beiden etwas Frisches gibt — aber kein Länder-Quotenzwang)
 
 Wichtigste Story jeweils zuerst.
 
@@ -186,7 +249,7 @@ Wichtigste Story jeweils zuerst.
 nur 2 wirklich frische, relevante Stories findest, dann nimmst du auch nur 2
 auf. Eine Section darf auch leer bleiben, wenn an einem Tag nichts Frisches
 passiert ist (z.B. an einem Sonntag bei Börse & Gold). **Niemals** mit alten
-oder thematisch wiederholten Stories auffüllen, nur um auf 5/5/3 zu kommen.
+oder thematisch wiederholten Stories auffüllen, nur um auf 5/5/3/4 zu kommen.
 
 ## Aktualitäts-Regel (sehr wichtig)
 
@@ -226,7 +289,7 @@ Deshalb ist dieser Check ab sofort **Pflicht, bevor Stories ausgewählt werden**
    ```
    for c in $(git log --format=%h -7 -- newsletter_latest.json); do
      echo "=== $c ==="
-     git show $c:newsletter_latest.json | python3 -c "import json,sys; d=json.load(sys.stdin); [print(s['titel']) for sec in ('ki_stories','unternehmen_stories','boerse_stories') for s in d.get(sec,[])]"
+     git show $c:newsletter_latest.json | python3 -c "import json,sys; d=json.load(sys.stdin); [print(s['titel']) for sec in ('ki_stories','unternehmen_stories','boerse_stories','politik_stories') for s in d.get(sec,[])]"
    done
    ```
 
@@ -283,6 +346,8 @@ Bevor du committest, gehe alle Stories einmal durch und prüfe:
    Entwicklung, und macht der `text` klar, was daran neu ist?
 5. Ist keine `boerse_stories`-Story ein Allerwelts-Marktbericht ohne echte
    neue Nachricht?
+6. Sind die `politik_stories` neutral formuliert, haben sie ein `land`-Feld,
+   und steht keines ihrer Ereignisse zusätzlich in `boerse_stories`?
 
 Wenn eine dieser Prüfungen fehlschlägt: Story streichen oder durch eine
 frische, andere Story ersetzen — und lieber kürzer abgeben.
@@ -354,6 +419,15 @@ JSON-Struktur:
       "quelle": "Reuters",
       "datum_artikel": "2026-05-01"
     }
+  ],
+  "politik_stories": [
+    {
+      "titel": "Deutsche Schlagzeile",
+      "text": "4-7 Sätze deutsche Zusammenfassung.",
+      "quelle": "Tagesschau",
+      "datum_artikel": "2026-05-01",
+      "land": "Deutschland"
+    }
   ]
 }
 ```
@@ -379,6 +453,9 @@ Pflichtfelder pro Story:
 
 Zusätzlich bei `unternehmen_stories`:
 - `unternehmen` — Name des Unternehmens (z.B. "NVIDIA", "OpenAI")
+
+Zusätzlich bei `politik_stories`:
+- `land` — genau einer dieser Werte: `USA`, `Deutschland`, `EU`, `International`
 
 **Keine `url` mehr im Output** — die Verlinkung zum Originalartikel wurde
 entfernt, weil viele paywalled Artikel ohnehin nicht aufgehen.
