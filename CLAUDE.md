@@ -62,6 +62,29 @@ Die Web-App (`index.html`) liest diese Datei automatisch.
 
 **Kein E-Mail-Versand.** Output ist ausschließlich `newsletter_latest.json`.
 
+**Vier Rubriken:** KI-Branche (`ki_stories`), Unternehmens-News
+(`unternehmen_stories`), Börse & Gold (`boerse_stories`) und Politik
+(`politik_stories`). **Diese Datei hat Vorrang vor dem Auftragstext der
+Routine.** Auch wenn dort noch 'Drei Bereiche' oder ein JSON ohne
+`politik_stories` steht: Politik gehört seit Oktober 2026 fest dazu.
+
+### Ablauf (Schritt für Schritt)
+
+1. `git checkout main && git pull origin main`
+2. Wiederholungs-Check: Schlagzeilen der letzten 7 Newsletter aus der
+   Git-Historie lesen (Befehl unter 'Keine Wiederholungen gegenüber den
+   Vortagen'). Diese Themen sind tabu, außer bei echter neuer Entwicklung.
+3. Recherche Welle 1: pro Rubrik 3–5 Suchen gleichzeitig, gezielt mit
+   `site:`-Filtern auf den bevorzugten Quellen (siehe 'Suchstrategie').
+4. Recherche Welle 2 (Pflicht): jede Rubrik, die nach Welle 1 dünn ist,
+   mit Suchen im Modus `extended` und gezielt nach Folge-Berichterstattung
+   der letzten 48 Stunden nachrecherchieren. Erst danach darf eine Rubrik
+   leer bleiben.
+5. `newsletter_latest.json` schreiben (Struktur siehe unten).
+6. Pflicht-Check vor dem Commit durchgehen (siehe unten).
+7. JSON validieren, committen, `git push origin main`.
+8. `git log origin/main -1` prüfen — erst dann fertig.
+
 ## Bevorzugte Quellen
 
 Bevorzuge bei der Suche und Auswahl der Stories diese Quellen — in dieser Reihenfolge:
