@@ -1,58 +1,72 @@
 {
-  "datum": "Freitag, 9. Oktober 2026",
-  "generiert": "2026-10-09",
+  "datum": "Samstag, 10. Oktober 2026",
+  "generiert": "2026-10-10",
   "ki_stories": [
     {
-      "titel": "Google bringt universellen Gemini-Agenten für den Arbeitsplatz, der wie ein Kollege agiert",
-      "text": "Google hat am 8. Oktober einen neuen Gemini-KI-Agenten für Büro- und Unternehmenskunden vorgestellt. Laut Bloomberg soll der Agent im Arbeitsalltag wie ein Kollege auftreten und Aufgaben übernehmen. Damit verschärft Google den Wettbewerb um zahlende Firmenkunden mit OpenAI, Anthropic und Microsoft. Details zu Preis und Funktionsumfang konnte ich aus den öffentlich zugänglichen Teilen der Meldung nicht belegen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-08"
+      "titel": "KI-Speicherknappheit lässt PC-Markt im dritten Quartal um 20 Prozent einbrechen",
+      "text": "Die weltweiten PC-Auslieferungen sind im dritten Quartal 2026 laut Marktforscher IDC um 20,1 Prozent auf 62,7 Millionen Geräte gefallen, nach 78,5 Millionen im Vorjahr; der Konkurrent Omdia zählt sogar ein Minus von 21,2 Prozent. Hauptgrund ist die Knappheit bei Arbeitsspeicher (DRAM) und Flash-Speicher (NAND): KI-Rechenzentren saugen das Angebot auf, wodurch Laptops und Desktop-PCs deutlich teurer werden. Zusätzlich hatten Hersteller und Händler im ersten Halbjahr aus Angst vor Preiserhöhungen Lager aufgebaut und damit Nachfrage vorgezogen. Besonders hart traf es HP mit einem Rückgang von 30,9 Prozent auf 10,3 Millionen Geräte, Marktführer Lenovo lieferte 22,6 Prozent weniger aus. IDC erwartet für das Gesamtjahr ein Minus von 11,3 Prozent und für das vierte Quartal einen weiteren Einbruch um rund 20 Prozent. Für Verbraucher heißt das: Computer bleiben vorerst teuer, solange die KI-Branche den Speichermarkt dominiert.",
+      "quelle": "The Register",
+      "datum_artikel": "2026-10-09"
     },
     {
-      "titel": "KI-Konzerne ersticken an Chips und Rechenzentren: Bau ist schwerer als gedacht",
-      "text": "Eine Bloomberg-Meinungskolumne vom 8. Oktober argumentiert, Anleger würden gerade merken, dass die Rechen- und Energie-Infrastruktur hinter OpenAI, Anthropic und Co. viel schwerer zu bauen ist als ein Chatbot-Prompt. Genannt werden Engpässe bei Ausrüstung und Fachkräften, Widerstand in den Standortgemeinden, Baustopps und verzögerte Genehmigungen. Für die Branche heißt das: Das Tempo der KI-Expansion hängt zunehmend an physischen Hürden und nicht nur am Geld. Es handelt sich um eine Einschätzung der Kolumne, nicht um eine Tatsachenmeldung.",
+      "titel": "Andreessen Horowitz bewertet Jev-Entwickler TypeSafe wenige Wochen nach Start mit 7,5 Mrd. Dollar",
+      "text": "Das KI-Startup TypeSafe AI hat rund 870 Millionen Dollar bei einer Bewertung von 7,5 Milliarden Dollar eingesammelt, angeführt vom Wagniskapitalgeber Andreessen Horowitz (a16z); Sequoia Capital und der Frühinvestor DCVC sind ebenfalls dabei. Das Besondere: TypeSafes Modell Jev ist zwar ein Transformer, aber kein Sprachmodell – statt Text liefert es Wahrscheinlichkeiten, die das Unternehmen als 'kalibrierte Entscheidungen' bezeichnet, um Geschäftsabläufe zu automatisieren. Jev ist erst seit dem 15. September auf dem Markt und soll nach Firmenangaben binnen Tagen eine Million Nutzer erreicht haben; rund ein Drittel der Fortune-500-Konzerne nutze es bereits. Diese Zahlen sind Angaben des Unternehmens, Kundennamen nannte TypeSafe nicht. a16z-Partner Martin Casado zieht in den Verwaltungsrat ein. Die Finanzierung zeigt, dass Investoren trotz wachsender Sorgen um eine KI-Blase weiter hohe Summen auf neue Modellansätze jenseits klassischer Chatbots setzen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-08"
+      "datum_artikel": "2026-10-09"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Broadcom arrangiert über 50 Milliarden Dollar Finanzierung für OpenAIs Spezialchips",
-      "text": "Broadcom bereitet laut Wall Street Journal, über das Bloomberg am 7. Oktober berichtete, eine Finanzierung von mehr als 50 Milliarden Dollar vor, mit der OpenAI die gemeinsam entwickelten Spezialchips kaufen kann. Gesprochen wird demnach unter anderem mit Kreditgebern wie Apollo und Blackstone. Die Gespräche sind in einem frühen Stadium, die Summe kann sich noch ändern. Hintergrund ist die vor einem Jahr angekündigte Partnerschaft für 10 Gigawatt eigener OpenAI-Chips, deren Einsatz ab der zweiten Jahreshälfte 2026 bis Ende 2029 geplant ist. Es geht um Fremdfinanzierung, nicht um eine neue Beteiligung an OpenAI.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-07",
-      "unternehmen": "OpenAI"
+      "titel": "Nvidia-Partner Firmus sagt 5-Milliarden-Dollar-Börsengang in Australien ab",
+      "text": "Der australische KI-Rechenzentrumsbetreiber Firmus, an dem unter anderem Nvidia, Coatue, Blackstone und Jane Street beteiligt sind, hat seinen geplanten Börsengang über rund 5 Milliarden US-Dollar am 9. Oktober abgeblasen. Es wäre die zweitgrößte Neuemission in Australiens Geschichte gewesen. Firmus begründete den Schritt mit der Marktvolatilität, Berichten zufolge war aber vor allem die Nachfrage zu schwach: Der geplante Ausgabepreis von 11 australischen Dollar hätte eine Bewertung von 30,6 Milliarden US-Dollar bedeutet – fast das Dreifache der 10,5 Milliarden aus einer Finanzierungsrunde Anfang August. Investoren störten sich zudem an rund 30 Milliarden Dollar Schulden und daran, dass Firmus erst zwei Rechenzentren betreibt. Zuletzt hatte der Partner CDC Data Centres erklärt, ein gemeinsames 1,6-Gigawatt-Projekt sei nicht mehr auf Kurs. Firmus will nun privat Geld einsammeln und später an die Nasdaq gehen; der Rückzieher gilt als Warnsignal für die Finanzierung des KI-Rechenzentrumsbooms.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-09",
+      "unternehmen": "Firmus"
     },
     {
-      "titel": "Anthropic-Börsengang: Anleger fragen, wie das Risiko außer Kontrolle geratener KI zu bepreisen ist",
-      "text": "Ein Bloomberg-Newsletter vom 9. Oktober beschreibt, dass Investoren vor dem geplanten Mega-Börsengang von Anthropic vor einer neuen Frage stehen: Wie bewertet man das Risiko, dass eine KI Schaden anrichtet? Zuvor hatte das Wall Street Journal berichtet, Anthropic peile einen Börsengang im November an, der bis zu 100 Milliarden Dollar einbringen und das Unternehmen mit rund 2 Billionen Dollar bewerten könnte. Diese Zahlen sind vorläufig, endgültige Konditionen hat Anthropic nicht genannt. Einzelne Berichte halten auch eine Verschiebung auf die Zeit nach den US-Zwischenwahlen am 3. November für möglich.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-09",
-      "unternehmen": "Anthropic"
+      "titel": "Nvidia sagt US-Forschung Rechenleistung im Wert von 1 Milliarde Dollar über fünf Jahre zu",
+      "text": "Nvidia hat am 8. Oktober bei einer Veranstaltung in Washington angekündigt, in den nächsten fünf Jahren Leistungen im Wert von einer Milliarde Dollar für die US-Wissenschaft bereitzustellen. Profitieren sollen Hochschulen, nationale Forschungslabore und auf Behörden spezialisierte Cloud-Anbieter; Schwerpunkte sind Quantencomputing, Gesundheit und Energiesicherheit. Das Programm ist an die staatliche Genesis Mission der US-Regierung gekoppelt, bei deren zweiter Phase Nvidia unter anderem an Projekten zu Quantencomputern, Kernfusion und Mikroelektronik mitarbeitet. Nvidia spricht von Zusagen 'im Wert von' einer Milliarde – wie viel davon Geld und wie viel Rechenzeit und Hardware ist, bleibt offen. Gemessen an Nvidias jährlichen Forschungsausgaben im zweistelligen Milliardenbereich ist der Betrag überschaubar, politisch positioniert sich der Chipkonzern damit aber eng an der Seite Washingtons.",
+      "quelle": "NVIDIA (Pressemitteilung)",
+      "datum_artikel": "2026-10-08",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Bericht über schwächeren OpenAI-Umsatz schickt Oracle und Chipwerte nach unten, Nasdaq verliert 1,25 Prozent",
-      "text": "Die Financial Times berichtete am 8. Oktober, OpenAIs annualisierter Umsatz habe Ende September bei knapp 50 Milliarden Dollar gelegen, nicht bei den zuvor kolportierten rund 70 Milliarden. Ein Teil der Differenz geht laut Berichten auf unterschiedliche Rechenweisen zurück: Anthropic zählt Verkäufe über Cloud-Partner wie AWS und Google Cloud mit, OpenAI nicht. Die Aktie von Oracle fiel um mehr als 5 Prozent, Nvidia verlor knapp 3 Prozent, AMD fast 4 Prozent. Oracle gilt als besonders abhängig, weil OpenAI Berichten zufolge rund 45 Prozent des Auftragsbestands von 664 Milliarden Dollar ausmacht. Der Nasdaq Composite schloss 1,25 Prozent tiefer bei 27.193 Punkten, der S&P 500 verlor 0,47 Prozent auf 7.765 Punkte, der Dow legte 0,1 Prozent auf 51.232 Punkte zu. Bloomberg meldete am 9. Oktober, OpenAI rechne bis Jahresende mit 70 Milliarden Dollar annualisiertem Umsatz, getragen vom Firmengeschäft.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-10-08"
+      "titel": "SpaceX kauft Funkfrequenzen für rund 8 Mrd. Dollar: Funkturm-Aktien springen, Telekom-Konzerne fallen",
+      "text": "SpaceX hat sich von Grain Management landesweite Mobilfunkfrequenzen im 800-MHz-Band gesichert; laut Wall Street Journal zahlt Elon Musks Raumfahrtkonzern rund 8 Milliarden Dollar in bar, offiziell wurden keine Konditionen genannt. Anleger werten den Kauf als weiteren Schritt von Starlink hin zu einem eigenen Mobilfunkanbieter. Die Folge an der Börse am Freitag: Die Funkturm-Betreiber stiegen kräftig, weil SpaceX ein neuer Mieter auf ihren Masten werden könnte – Crown Castle legte um gut 11 bis 13 Prozent zu (stärkster Tagesgewinn seit März 2020), American Tower um rund 8 bis 9 Prozent, SBA Communications um gut 6 Prozent. Die etablierten Netzbetreiber Verizon, AT&T und T-Mobile verloren dagegen jeweils rund 6 Prozent, zusammen gingen mehrere Dutzend Milliarden Dollar Börsenwert verloren. Analysten von Bernstein mahnen, dass der Frequenzkauf SpaceX noch nicht zu Mietverträgen für Funkmasten verpflichtet.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-10-09"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Koalitionsausschuss ohne Durchbruch: Merz peilt Reformpaket jetzt bis Frühjahr 2027 an",
-      "text": "Die Spitzen von Union und SPD haben am 7. Oktober im Kanzleramt rund vier Stunden beraten, ohne neue Reformbeschlüsse zu verkünden. Eine Pressekonferenz gab es nicht, Ergebnisse sollten schriftlich folgen. Kanzler Friedrich Merz erklärte, er gehe nicht davon aus, dass das Reformpaket bis Weihnachten komplett umgesetzt wird, hoffe aber, es im Frühjahr nächsten Jahres in trockenen Tüchern zu haben. Ende August hatte die Koalition noch angepeilt, das Paket bis Ende 2026 parlamentarisch abzuschließen. Besonders bei der Rentenreform hakt es: Die SPD stellt die geplante Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren infrage. Auch bei Pflege und beim Bundeshaushalt 2027 bleiben Fragen offen. Basis der Arbeit bleiben der Koalitionsvertrag und die im Juli vereinbarten 34 Maßnahmen.",
-      "quelle": "Handelsblatt",
-      "datum_artikel": "2026-10-08",
-      "land": "Deutschland"
+      "titel": "Trump erlaubt Import von russischem Diesel – Selenskyj spricht von Schwäche",
+      "text": "Nach einem Telefonat mit Wladimir Putin hat US-Präsident Donald Trump am 9. Oktober verkündet, Russland werde Diesel auf den US- und Weltmarkt liefern: sofort mehr als 300.000 Tonnen, im November 500.000 Tonnen, danach eine Million und später womöglich bis zu drei Millionen Tonnen zusätzlich. Das US-Finanzministerium erteilte dafür eine befristete Ausnahmegenehmigung von den Russland-Sanktionen, die Verkauf und Import von russischem Diesel bis zum 7. April 2027 erlaubt. Ziel sei es, die stark gestiegenen Treibstoffpreise zu senken. Der ukrainische Präsident Wolodymyr Selenskyj nannte die Lockerung gegenüber Axios 'nicht fair und nicht ehrlich' und eine offensichtliche Schwäche, die Russland in die Hände spiele. Die Ankündigung fiel ausgerechnet in eine Zeit, in der ukrainische Unterhändler in Florida mit den US-Gesandten Witkoff und Kushner verhandelten, und sorgte auch bei europäischen Regierungen für Verärgerung. Ehemalige US-Beamte bezweifeln, dass Russland die genannten Mengen überhaupt liefern kann; wer den Diesel bezahlt und wann er ankommt, ließ das Weiße Haus offen.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-10-09",
+      "land": "USA"
     },
     {
-      "titel": "Iran-Konflikt: Widersprüchliche Signale aus Washington zu Verhandlungen und neuen Militäreinsätzen",
-      "text": "Laut CNBC sagte Präsident Donald Trump am 8. Oktober, er wolle kein Abkommen mit dem Iran. Zugleich berichtete NBC News, der Präsident und sein Sicherheitsteam hätten erörtert, in den kommenden Wochen großangelegte US-Militäreinsätze wieder aufzunehmen. Trump schrieb dagegen auf Truth Social, vor den Zwischenwahlen am 3. November werde es keine Militäraktion gegen den Iran geben, die Blockade bleibe aber bestehen. Parallel haben iranische Angriffe laut Berichten die Ölschiffe in der Straße von Hormus verlangsamt. Hohe Benzin- und Dieselpreise belasten die Umfragewerte des Präsidenten. Welche Linie gilt, ist aus den Meldungen nicht eindeutig zu erkennen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-08",
+      "titel": "Trump setzt Untersuchungsausschuss gegen Fed-Gouverneurin Lisa Cook ein",
+      "text": "Präsident Trump hat am 9. Oktober einen dreiköpfigen Untersuchungsausschuss eingesetzt, der Hypothekenbetrugs-Vorwürfe gegen Fed-Gouverneurin Lisa Cook prüfen und klären soll, ob es einen rechtlichen Grund für ihre Entlassung gibt. Dem Gremium gehören der Wirtschaftsberater des Präsidenten, die Chefin der Gleichstellungsbehörde EEOC und der Leiter des Ethikbüros der Regierung an. Cook soll am 5. November zu einer nicht öffentlichen Anhörung von höchstens vier Stunden im Weißen Haus erscheinen; ein Protokoll soll veröffentlicht werden. Hintergrund: Der Supreme Court hatte im Juni entschieden, dass Cook vorerst im Amt bleiben darf, weil Trump ihr bei der versuchten Entlassung nicht die gesetzlich vorgeschriebenen Verfahrensrechte gewährt hatte – über die Vorwürfe selbst urteilte das Gericht nicht. Cook bestreitet jedes Fehlverhalten und ist nicht angeklagt; ihre Anwälte Abbe Lowell und Norm Eisen äußerten 'große Zweifel', dass die Anhörung rechtmäßig sei. Der Fall gilt als Test, wie weit ein Präsident in die Unabhängigkeit der US-Notenbank eingreifen kann.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-09",
       "land": "USA"
+    },
+    {
+      "titel": "Kommentatorin Katie Zacharia wird neue Pressesprecherin des Weißen Hauses",
+      "text": "Präsident Trump hat am 9. Oktober die konservative Kommentatorin Katie Zacharia (41) zur neuen Pressesprecherin des Weißen Hauses ernannt. Der Posten war seit dem Abgang von Karoline Leavitt Ende August unbesetzt; die letzte formelle Pressekonferenz hatte Vizepräsident JD Vance am 3. September gegeben. Zacharia arbeitet derzeit als Kommunikationsberaterin bei Trumps Plattform Truth Social, war von Februar bis April 2026 Sprecherin des Heimatschutzministeriums und 2024 Pressesprecherin der Republikanischen Partei. Trump lobte ihre lückenlose Unterstützung, Zacharia selbst nannte das Amt die Ehre ihres Lebens. Mit der Besetzung kurz vor den Zwischenwahlen am 3. November bekommt das Weiße Haus wieder ein festes Gesicht für die täglichen Pressebriefings.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-09",
+      "land": "USA"
+    },
+    {
+      "titel": "Bundestag beschließt neues Produkthaftungsrecht: Auch Software und KI-Hersteller haften",
+      "text": "Der Bundestag hat am 8. Oktober die Modernisierung des Produkthaftungsrechts beschlossen; dafür stimmten CDU/CSU, SPD und Grüne, AfD und Linke enthielten sich, es gab eine Gegenstimme. Kern der Reform: Software gilt künftig unabhängig davon, wie sie bereitgestellt wird, als Produkt – damit haften erstmals auch Hersteller von KI-Systemen und Apps direkt für Schäden durch fehlerhafte Produkte, und zwar ohne Verschulden. Ausgenommen bleibt Open-Source-Software, die außerhalb einer Geschäftstätigkeit entwickelt wird. Mit dem Gesetz setzt Deutschland die EU-Richtlinie 2024/2853 um, die ab dem 9. Dezember 2026 gilt. Für Verbraucher bedeutet das, dass sie bei Schäden durch fehlerhafte Software oder KI leichter Ersatz verlangen können; der Bundesrat hatte zuvor auf mögliche Mehrkosten für Unternehmen hingewiesen, die Bundesregierung rechnet mit einer moderaten Belastung. Als Nächstes befasst sich der Bundesrat mit dem Gesetz.",
+      "quelle": "Deutscher Bundestag",
+      "datum_artikel": "2026-10-08",
+      "land": "Deutschland"
     }
   ]
 }
