@@ -1,45 +1,52 @@
 {
-  "datum": "Montag, 12. Oktober 2026",
-  "generiert": "2026-10-12",
-  "ki_stories": [],
+  "datum": "Dienstag, 13. Oktober 2026",
+  "generiert": "2026-10-13",
+  "ki_stories": [
+    {
+      "titel": "Meta stellt mit Muse Wonder seine ersten Frontier-Modelle vor",
+      "text": "Meta hat am Montag die Modelle Muse Wonder und Muse Wonder Full veröffentlicht, die ersten sogenannten Frontier-Modelle (Spitzenmodelle) aus dem Meta Superintelligence Lab. Laut Meta sind es die leistungsstärksten KI-Systeme, die der Konzern je gebaut hat; in eigenen Tests erreichen sie Werte auf dem Niveau von Anthropics Claude Fable 5.1 und OpenAIs GPT-6 Astra, unabhängig bestätigt ist das noch nicht. Neu ist eine 'aktive Gedächtnis'-Funktion, die sich Nutzerinformationen über längere Zeit merkt. Anders als frühere Llama-Modelle sind die Gewichte nicht frei verfügbar: Muse Wonder gibt es über die kostenpflichtige Programmierschnittstelle (API, rund 4 bzw. 20 Dollar pro Million Tokens) und in Abos für 20 oder 100 Dollar im Monat, Wonder Full ist den teureren Muse-Code-Tarifen vorbehalten. Trainiert wurden die Modelle im Rechenzentrum Prometheus in Ohio. Hintergrund: Metas KI-Assistent Muse kam seit dem Start am 8. September auf knapp 9 Millionen Downloads, das Wachstum flacht laut Berichten aber ab.",
+      "quelle": "Yahoo Tech",
+      "datum_artikel": "2026-10-12"
+    }
+  ],
   "unternehmen_stories": [
     {
-      "titel": "Amazon verhandelt über Kauf des KI-Start-ups Decart für rund 7 Milliarden Dollar",
-      "text": "Amazon führt laut einem Bericht des Wall Street Journal vom Sonntag fortgeschrittene Gespräche über die Übernahme des KI-Start-ups Decart. Der Kaufpreis soll bei etwa 7 Milliarden Dollar liegen. Eine Einigung könnte schon in den kommenden Tagen stehen, sofern die Gespräche nicht scheitern oder ein anderer Bieter auftaucht. Unterschrieben ist noch nichts. Decart entwickelt Software, mit der KI-Modelle auf unterschiedlichen Chips laufen können, etwa auf Nvidia-Grafikprozessoren, Googles TPUs und Amazons eigenen Trainium-Chips. Das ist wertvoll, weil Rechenleistung knapp ist und Firmen flexibel zwischen Chip-Anbietern wechseln wollen. Decart war im Mai bei einer Finanzierungsrunde über 300 Millionen Dollar noch mit 4 Milliarden Dollar bewertet worden. Laut Berichten hatte zuvor auch Anthropic einen Kauf für rund 6 Milliarden Dollar geprüft, sich dann aber zurückgezogen.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-10-11",
-      "unternehmen": "Amazon"
-    },
-    {
-      "titel": "Nvidia erwägt Übernahme oder größeren Einstieg beim KI-Entwickler Reflection AI",
-      "text": "Nvidia spricht laut Financial Times mit dem KI-Start-up Reflection AI darüber, entweder die Beteiligung auszubauen oder das Unternehmen ganz zu übernehmen. Die Gespräche sind in einem frühen Stadium. Möglich ist auch ein sogenannter Acqui-Hire: Nvidia würde dabei die Mitarbeiter übernehmen und die Technologie lizenzieren, was eine lange kartellrechtliche Prüfung umgehen kann. Ein Abschluss sei innerhalb von Wochen möglich, die Gespräche könnten aber auch scheitern. Nvidia hat laut FT bereits 800 Millionen Dollar in Reflection investiert. Das 2024 von früheren Google-DeepMind-Forschern gegründete Unternehmen entwickelt offene KI-Modelle (Open-Weight) und sammelte im April Geld bei einer Bewertung von 25 Milliarden Dollar vor der Finanzierungsrunde ein. Für Nvidia wäre Reflection ein amerikanisches Gegengewicht zu günstigen offenen Modellen aus China. Reflection wollte sich nicht äußern.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-10-10",
-      "unternehmen": "NVIDIA"
+      "titel": "Microsoft setzt mit neuem Chip Maia 300 auf eigene Hardware statt Nvidia",
+      "text": "Microsoft hat am Montag seinen KI-Chip der dritten Generation, Maia 300, vorgestellt und angekündigt, künftig den Großteil der KI-Anfragen (Inferenz, also das Beantworten von Nutzeranfragen) auf eigenen Chips laufen zu lassen. Dienste wie Microsoft 365 Copilot und GitHub Copilot sollen auf Maia umziehen. Nach Firmenangaben liefert der Chip 40 Prozent mehr KI-Leistung pro Stromeinheit als führende GPU-Systeme, ein Markt, den Nvidia dominiert. Gefertigt wird er von TSMC, die Produktion startet 2027 mit Einsätzen im Multi-Gigawatt-Maßstab. Für das Training großer Modelle bleibt Microsoft vorerst auf Nvidia- und AMD-Chips angewiesen; anders als Googles TPUs oder Amazons Trainium bietet Microsoft Maia bislang nicht für externe Cloud-Kunden an. Für Nvidia bedeutet der Schritt, dass einer der größten Abnehmer schrittweise unabhängiger wird.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-12",
+      "unternehmen": "Microsoft"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis steigt nach neuen Angriffen auf Riads Flughafen und einen Tanker – Brent über 105 Dollar",
-      "text": "Der Ölpreis ist zum Wochenstart gestiegen, weil neue Angriffe am Persischen Golf die Sorge um die Versorgung verstärken. Die Nordseesorte Brent legte am späten Sonntag (US-Zeit) um rund 0,7 Prozent auf etwa 105,50 Dollar je Barrel zu, die US-Sorte WTI notierte bei rund 92,40 Dollar. Auslöser: Die vom Iran unterstützten Huthi-Rebellen aus dem Jemen griffen am Wochenende erneut den internationalen Flughafen von Riad an, nachdem ein Angriff am Vortag laut Bloomberg 12 Menschen getötet hatte. Zudem traf laut der britischen Seefahrtsbehörde UKMTO eine Drohne einen Tanker nahe dem omanischen Hafen Sohar. Saudi-Arabien kündigte eine entschlossene Antwort an, US-Präsident Trump schloss eine Beteiligung der USA an Gegenschlägen nicht aus. Für Anleger heißt das: Steigende Energiekosten belasten Fluggesellschaften und Verbraucher und erschweren der Fed den Kampf gegen die Inflation – in dieser Woche kommen die US-Inflationsdaten für September.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-11"
+      "titel": "Chinas CXMT schickt Speicherchip-Aktien von Samsung, SK Hynix und Micron nach unten",
+      "text": "Der chinesische Speicherhersteller ChangXin Memory Technologies (CXMT) hat Fortschritte bei einer deutlich dichteren DRAM-Bauweise (4F²) gemeldet und will bis Ende 2026 erste Server-Speicher damit auf den Markt bringen. Daraufhin fielen am Montag Samsung Electronics um 3,6 Prozent auf 252.500 Won und SK Hynix um 3,4 Prozent, im Handelsverlauf zeitweise um rund 4 Prozent. In den USA verlor Micron etwa 4 bis 4,6 Prozent, Western Digital rund 2 Prozent; auch AMD gab nach und belastete den Nasdaq. Server-Speicher ist genau das Segment, das vom KI-Boom am stärksten profitiert hat, weshalb Anleger neue Konkurrenz aus China besonders sensibel aufnehmen. Analysten mahnen allerdings zur Vorsicht: Eine Ankündigung sei noch keine Massenproduktion, CXMT liege technologisch zwei bis drei Generationen zurück; Samsung plant eigene 4F²-Produkte erst um 2028.",
+      "quelle": "Investing.com",
+      "datum_artikel": "2026-10-12"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Gericht stoppt steuerfinanzierte TV-Werbespots des Heimatschutzministeriums mit Trump",
-      "text": "Eine Bundesrichterin in New York hat am Samstag per einstweiliger Verfügung die vom Heimatschutzministerium (DHS) bezahlten Fernsehspots gestoppt, in denen Präsident Trump auftritt. Richterin Jennifer Rochon untersagte dem Ministerium, weitere Mittel aus dem dafür vorgesehenen Budget von 20 Millionen Dollar auszugeben; rund 19 Millionen davon waren bereits verbraucht. Bereits gebuchte Sendeplätze, auch für Samstagabend, müssen storniert werden. Geklagt hatten unter anderem die Organisation Common Cause, eine Gewerkschaft und ein Kandidat für das Parlament von Alabama; sie werfen der Regierung vor, mit Steuergeld unzulässig Wahlkampf vor den Zwischenwahlen im November zu machen. Die Richterin sah gute Erfolgsaussichten für die Kläger. Das Justizministerium hatte argumentiert, die Verfügung sei unnötig, weil die Kampagne ohnehin am nächsten Tag ende; das Weiße Haus nannte die Spots üblich. Die Verfügung gilt zunächst 14 Tage, das eigentliche Verfahren läuft weiter.",
+      "titel": "Merz verspricht niedrigere Stromsteuer für alle Haushalte nach CDU-Krisenklausur",
+      "text": "Nach einer zweitägigen Krisenklausur der CDU-Spitze in Berlin hat Bundeskanzler Friedrich Merz am 12. Oktober angekündigt, die Stromsteuer für alle Verbraucher auf das europäische Mindestmaß zu senken. Seit Anfang 2026 gilt die niedrigere Stromsteuer bereits für produzierendes Gewerbe sowie Land- und Forstwirtschaft, private Haushalte gingen bisher leer aus, obwohl die Senkung im Koalitionsvertrag mit der SPD steht. Nach einer Schätzung würde ein Haushalt mit 3.500 Kilowattstunden Jahresverbrauch rund 81 Euro im Jahr sparen. Einen Termin gibt es noch nicht; die Finanzierung soll aus zusätzlichem Spielraum im Bundeshaushalt kommen und hängt laut Merz davon ab, dass sich das Wachstum festigt – die Regierung hatte ihre Prognose für 2026 von 0,5 auf 1,3 Prozent angehoben. Anlass der Klausur waren drei verlorene Landtagswahlen im September und sinkende Umfragewerte; Merz räumte eine Vertrauenskrise der Partei ein. Für die Umsetzung ist ein Gesetz nötig, das Bundestag und Bundesrat noch beschließen müssen.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-10-12",
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Bundesbeamte durchsuchen Haus der Abgeordneten Ilhan Omar",
+      "text": "Beamte der Ermittlungsbehörde Homeland Security Investigations haben am frühen Montagmorgen per Durchsuchungsbeschluss das Haus der demokratischen Kongressabgeordneten Ilhan Omar im Großraum Washington durchsucht. Das Justizministerium bestätigte lediglich einen Einsatz im Rahmen 'laufender strafrechtlicher Ermittlungen', ohne Omar namentlich zu nennen oder Details zu geben. Laut anonymen Quellen von Fox News geht es um mutmaßlichen Betrug bei Einwanderungsunterlagen, die ihr verstorbener Vater ausgefüllt hatte, als sie ein Kind war; offiziell bestätigt ist das nicht. Grenzschutzbeauftragter Tom Homan hatte bereits im September Ermittlungen gegen Omar bestätigt, Anklage wurde bislang nicht erhoben. Omar nannte die Durchsuchung die 'jüngste Eskalation' einer politischen Einschüchterungskampagne von Präsident Trump. Die Durchsuchung fällt in die Schlussphase vor den Zwischenwahlen (Midterms) Anfang November, bei denen Omar erneut kandidiert.",
       "quelle": "Associated Press (AP)",
-      "datum_artikel": "2026-10-11",
+      "datum_artikel": "2026-10-12",
       "land": "USA"
     },
     {
-      "titel": "US-Justizministerium ermittelt kartellrechtlich gegen fünf große TV-Sender",
-      "text": "Das US-Justizministerium hat bestätigt, dass es gegen die Fernsehsender ABC, CBS, CNN, NBC und Fox News wegen eines möglichen Verstoßes gegen das Kartellrecht (Sherman Act) ermittelt. Zuerst hatte die New York Times berichtet. Hintergrund: Die Sender hatten im September ihre gemeinsame Pool-Berichterstattung aus dem Weißen Haus für mehrere Tage ausgesetzt, nachdem die Regierung Journalisten von CNN, MS NOW und Politico den Zugang entzogen hatte. Nach einer einstweiligen Verfügung von Bundesrichter Timothy Kelly vom 24. September wurde der Zugang wiederhergestellt und die Sender nahmen die Pool-Berichterstattung wieder auf. Das Ministerium argumentiert, ein gemeinsamer Boykott von Wettbewerbern könne gegen das Kartellrecht verstoßen, und verschickte laut NBC am Freitag behördliche Auskunftsverlangen. Die Sender äußerten sich zunächst nicht im Detail. Anklagen gibt es bislang keine.",
-      "quelle": "New York Times",
-      "datum_artikel": "2026-10-10",
-      "land": "USA"
+      "titel": "Trump verkündet Energie-Waffenruhe im Ukraine-Krieg – Kiew und Moskau bestätigen nicht",
+      "text": "US-Präsident Donald Trump hat am Sonntag auf Truth Social eine sofort geltende Waffenruhe für Energieanlagen im Krieg zwischen Russland und der Ukraine verkündet. Weder Moskau noch Kiew bestätigten das; der ukrainische Präsident Selenskyj sagte, das sei 'neu für mich', und erklärte gegenüber Axios, die Ukraine sei bereit, wenn Trump das mit Putin ausgehandelt habe – man möge nur sagen, wann die Waffenruhe beginne. Kurz nach dem angeblichen Beginn griff Russland Kraftwerke in Charkiw und Kiew an. Die Ankündigung folgt auf den Streit um Trumps Diesel-Deal mit dem Kreml, den Selenskyj kritisiert hatte und nach dem Trump einen neuen ukrainischen Präsidenten gefordert hatte. Am Montag forderten Bundeskanzler Merz und Selenskyj Russland nach Angaben von Regierungssprecher Stefan Kornelius gemeinsam auf, einer Waffenruhe für die gesamte Energie-Infrastruktur zuzustimmen. Ein ähnlicher von Trump verkündeter Energie-Stopp Mitte September hatte nicht gehalten.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-10-12",
+      "land": "International"
     }
   ]
 }
