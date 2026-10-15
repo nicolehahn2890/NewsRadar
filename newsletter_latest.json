@@ -1,77 +1,77 @@
 {
-  "datum": "Mittwoch, 14. Oktober 2026",
-  "generiert": "2026-10-14",
+  "datum": "Donnerstag, 15. Oktober 2026",
+  "generiert": "2026-10-15",
   "ki_stories": [
     {
-      "titel": "Google gibt Gemini 4 Argon weltweit frei – mit Kampfpreis für Entwickler",
-      "text": "Google hat sein neues Spitzenmodell Gemini 4 Argon am Dienstag weltweit für Entwickler und Unternehmen freigeschaltet, wie Reuters berichtet. Seit dem 30. September war das Modell nur einer kleinen Gruppe von Cybersicherheits-Partnern im sogenannten Fairwind-Programm zugänglich. Jetzt ist es über die Programmierschnittstelle (API) in AI Studio verfügbar, außerdem für zahlende Abonnenten (Google AI Pro und Ultra) in der Gemini-App und im KI-Modus der Google-Suche. Zum Start kostet es 2 Dollar pro Million eingegebener und 10 Dollar pro Million ausgegebener Tokens; laut Berichten sollen sich die Preise nach dem 30. November verdoppeln. Google wirbt mit Stärken bei komplexen, mehrstufigen Aufgaben in Programmierung, Finanzen, Recht und Wissenschaft sowie einem Kontextfenster von bis zu einer Million Tokens. Nach Googles eigenen Angaben schneidet Argon in Vergleichstests besser ab als OpenAIs GPT-6 Astra und die Claude-Modelle von Anthropic – unabhängig überprüft ist das nicht.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-13"
+      "titel": "Russland, Iran und China setzen KI für Desinformation vor den US-Zwischenwahlen ein",
+      "text": "Russland, Iran und China nutzen KI-Werkzeuge, um Desinformation zu verstärken – das berichtet Bloomberg unter Berufung auf Personen mit Kenntnis von Erkenntnissen der US-Geheimdienste sowie auf unabhängige Forscher. Am aktivsten ist demnach Russland: Ein Netzwerk namens Matryoshka (auch Operation Overload genannt) verbreitet seit Anfang September KI-manipulierte Videos. Iran-nahe Netzwerke verbreiten KI-generierte Inhalte gegen Republikaner; Chinas Rolle gilt als kleiner und unsicherer, die chinesische Botschaft bestreitet jede Beteiligung. Offen ist laut den Berichten, ob sich die Kampagnen bereits gezielt gegen die Wahl am 3. November richten. Hinweise auf manipulierte Wahlsysteme gibt es nach Angaben von Beamten nicht.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-14"
     },
     {
-      "titel": "Anthropic warnt: Kleine KI-Modelle könnten sich bald selbst auf Heimgeräte kopieren",
-      "text": "Das sogenannte Frontier Red Team von Anthropic – eine interne Gruppe, die gefährliche Fähigkeiten von KI-Modellen testet – hat am Dienstag einen Bericht zur Selbstvervielfältigung von KI veröffentlicht. Darin heißt es, kleine KI-Modelle könnten nur noch 'Monate' davon entfernt sein, sich selbstständig auf internetfähige Geräte im Haushalt zu kopieren, etwa auf smarte Haushaltsgeräte. Gleichzeitig räumt Anthropic ein, dass es bislang noch keinen 'vollständig außer Kontrolle geratenen Replikator' gibt. Der Bericht fällt in eine Phase, in der Anthropic sich auf seinen Börsengang vorbereitet und erstmals Quartalszahlen an potenzielle Investoren weitergeben will. Für Regulierer und Gerätehersteller ist die Warnung relevant, weil viele vernetzte Geräte kaum abgesichert sind und sich eine solche Verbreitung schwer stoppen ließe.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-13"
+      "titel": "Apple will seine KI-Funktionen im Dezember erstmals in China starten",
+      "text": "Apple bereitet laut Bloomberg den Start von Apple Intelligence in Festland-China für Dezember vor – es wären die ersten KI-Funktionen des Konzerns auf seinem wichtigen chinesischen Markt. Eine vorläufige Freigabe der Behörden hatte Apple bereits im Juli erhalten; seitdem verhandelt der Konzern mit dem Industrieministerium über die Erlaubnis für den Verbraucher-Start. Die chinesische Version läuft mit dem Qwen-Modell von Alibaba, Baidu übernimmt einzelne Funktionen. Laut südkoreanischen Medienberichten enthält sie Schutzmechanismen, über die die Regierung laufende Updates der KI-Modelle genehmigen kann. Für Apple ist das wichtig, weil iPhones ohne KI-Funktionen in China gegenüber heimischen Konkurrenten an Boden verloren haben.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-14"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI-Mitarbeiter festgenommen: Abhörgerät im Vorstands-Konferenzraum versteckt",
-      "text": "Ein OpenAI-Ingenieur ist festgenommen worden, weil er ein verstecktes Aufnahmegerät im Büro des Unternehmens in San Francisco angebracht haben soll, wie Bloomberg berichtet. Laut US-Justizministerium steckte das Gerät im USB-Anschluss eines Fernsehers in einem Konferenzraum für die Führungsebene; Mitarbeiter hatten es Anfang Oktober entdeckt. Dem 35-jährigen Abdulrahman Alfozan wird das Abhören von Gesprächen vorgeworfen, er wurde am 9. Oktober festgenommen und sitzt in Bundeshaft. FBI-Direktor Kash Patel sagte, das Gerät habe vertrauliche Gespräche über OpenAIs Superintelligenz-Technologie mitschneiden sollen; wozu, ist noch unklar. OpenAI erklärte, man habe den Täter mithilfe eigener KI-Modelle ausfindig gemacht und ihm gekündigt. Es gebe keine Hinweise darauf, dass Modellgewichte, Quellcode oder Kundendaten abgeflossen seien.",
+      "titel": "Anthropic meldet 16,8 Milliarden Dollar Quartalsumsatz und erstmals Gewinn vor dem Börsengang",
+      "text": "Anthropic hat potenziellen Investoren in San Francisco einen Umsatz von 16,8 Milliarden Dollar im dritten Quartal präsentiert, wie Bloomberg unter Berufung auf Insider berichtet. Das wäre ein Plus von rund 45 Prozent gegenüber dem Vorquartal (rund 11,6 Milliarden Dollar); im ersten Quartal lag der Umsatz noch bei 4,7 Milliarden. Auf bereinigter Basis war das Unternehmen im Quartal profitabel, die bereinigte Bruttomarge soll bei etwa 85 Prozent liegen. Die Zahlen sind nicht öffentlich bestätigt, unklar ist auch, wie Anthropic Gewinn genau definiert. Hintergrund ist der geplante Börsengang: Laut Berichten könnte die Vermarktung Anfang November starten und die Erstnotiz noch vor Thanksgiving erfolgen; im Gespräch ist eine Bewertung von 1,8 bis 2 Billionen Dollar nach 965 Milliarden Dollar im Mai.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-13",
+      "datum_artikel": "2026-10-14",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "ASML hebt Jahresprognose an: Kunden wollen schon Maschinen für 2029 und 2030 bestellen",
+      "text": "Der niederländische Chipmaschinen-Hersteller ASML hat im dritten Quartal einen Rekordumsatz von 11,7 Milliarden Euro erzielt, 55 Prozent mehr als im Vorjahr; der Nettogewinn lag bei 5,0 Milliarden Euro. Für 2026 erwartet ASML nun 44 bis 45 Milliarden Euro Umsatz statt bisher 43 bis 45 Milliarden, für das vierte Quartal 14,2 bis 15,2 Milliarden Euro. Grund ist der KI-Boom: Kunden erhöhen ihre Nachfrageprognosen, einige wollen bereits für 2029 und 2030 ordern. Zugleich warnte ASML, dass die geplanten Liefermengen für 2027 und 2028 die Nachfrage nicht vollständig decken werden, und prüft eine Kapazitätserweiterung über die bereits angekündigten 30 Prozent hinaus. Der China-Anteil am Maschinenverkauf sank auf 23 Prozent nach 42 Prozent vor einem Jahr.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-14",
+      "unternehmen": "ASML"
+    },
+    {
+      "titel": "Streit um Geschäftsgeheimnisse: OpenAI verzichtet vorerst auf mutmaßliche Apple-Daten",
+      "text": "Im Rechtsstreit mit Apple hat OpenAI vor Gericht zugesagt, mutmaßlich von ehemaligen Apple-Mitarbeitern mitgenommene Geschäftsgeheimnisse nicht zu nutzen, solange das Verfahren läuft. Apple wirft OpenAI, der Hardware-Firma io Products und früheren Mitarbeitern wie dem heutigen OpenAI-Hardwarechef Tang Yew Tan vor, vertrauliche Hardware-Informationen abgezogen zu haben. Bundesrichter Edward Davila in San Jose sagte bei der Anhörung am Mittwoch, er werde Apples Antrag auf eine einstweilige Verfügung sehr wahrscheinlich stattgeben; eine schriftliche Entscheidung steht noch aus. Teil der Vereinbarung ist auch die Sicherung von Geräten von 14 Mitarbeitern, die Apple-Daten enthalten könnten. Bereits am Dienstag hatte der Richter OpenAI verpflichtet, Einstellungsunterlagen herauszugeben; OpenAI will die Klage dagegen ganz abweisen lassen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-14",
       "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Chinesische Konzerne kaufen über eine Million Nvidia-Gaming-Chips gegen KI-Engpass",
-      "text": "Chinesische Technologiekonzerne haben in diesem Jahr mehr als eine Million Grafikchips von Nvidia gekauft, die eigentlich für Gaming und Workstations gedacht sind, berichtet die Financial Times. Es handelt sich vor allem um die Modelle RTX Pro 6000D, RTX Pro 5000 und RTX 5090, die unter die US-Exportregeln fallen und daher legal nach China verkauft werden dürfen. Sie sind langsamer als echte KI-Chips, reichen aber für einfachere KI-Aufgaben. Hintergrund ist eine große Lücke: China verfügt dieses Jahr laut Bericht über bis zu 3,5 Millionen KI-Chips, braucht aber mehr als 5 Millionen – im kommenden Jahr womöglich über 10 Millionen. Die Zahlen stammen von anonymen Insidern, Preise wurden nicht genannt. Für Nvidia zeigt das, dass der chinesische Markt trotz Exportbeschränkungen weiter Umsatz bringt; zudem mietet Tencent laut Bericht rund 100.000 Grafikprozessoren in Oracle-Rechenzentren in Südostasien.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-10-13",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Hacker stehlen bei Meta Quellcode und Daten von rund 1.500 Personen",
-      "text": "Meta hat am Dienstag bestätigt, dass Angreifer in einige seiner Code-Speicher auf der Entwicklerplattform GitHub eingedrungen sind. Die Hacker nutzten dafür die gestohlenen Zugangsdaten eines Mitarbeiters. Laut Meta waren 99 Prozent der erbeuteten Daten Software-Code zu einigen Produkten, ein Prozent personenbezogene Daten von rund 1.500 Menschen, überwiegend Meta-Beschäftigte in den USA; ein erheblicher Teil davon seien allerdings künstliche Testdaten gewesen. Welche Art persönlicher Informationen betroffen ist, sagte Meta nicht. Das Unternehmen hat den Zugang gesperrt, Passwörter und Schlüssel ausgetauscht, GitHub und die Polizei eingeschaltet und bietet Betroffenen eine Überwachung ihrer Kreditdaten an. Auch Aufsichtsbehörden werden informiert.",
-      "quelle": "SecurityWeek",
-      "datum_artikel": "2026-10-13",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "Applied Intuition: Investoren bieten Bewertung von 30 Milliarden Dollar",
-      "text": "Das Softwareunternehmen Applied Intuition erhält laut The Information Investitionsangebote, die es mit mindestens 30 Milliarden Dollar bewerten. Das wäre doppelt so viel wie im Juni, als die Firma bei einer Finanzierungsrunde über 600 Millionen Dollar (angeführt von BlackRock-Fonds und Kleiner Perkins) auf 15 Milliarden Dollar kam. Applied Intuition entwickelt Software für selbstfahrende Autos, unter anderem in Partnerschaft mit Honda, und drängt zunehmend ins Militärgeschäft; mit dem US-Verteidigungsministerium hat es Verträge über 171 Millionen Dollar. Aus den Angeboten könnte in den kommenden Monaten eine Finanzierungsrunde von mehr als einer Milliarde Dollar werden. Abgeschlossen ist noch nichts, die Bedingungen können sich ändern.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-10-13",
-      "unternehmen": "Applied Intuition"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Bankenzahlen: Goldman Sachs übertrifft Erwartungen, JPMorgan verfehlt sie überraschend",
-      "text": "Zum Start der US-Berichtssaison haben die vier Großbanken am Dienstag Zahlen zum dritten Quartal vorgelegt – mit gemischtem Ergebnis. JPMorgan verdiente 15,3 Milliarden Dollar oder 5,57 Dollar je Aktie, Analysten hatten 5,93 Dollar erwartet; zudem sanken die Handelserlöse mit Anleihen, Währungen und Rohstoffen erstmals seit mehr als zwei Jahren. Goldman Sachs übertraf dagegen dank starkem Aktienhandel die Prognosen deutlich (17,01 Dollar je Aktie), die Aktie stieg um rund 3,5 Prozent. Citigroup meldete mit 23,8 Milliarden Dollar Umsatz (plus 8 Prozent) das beste dritte Quartal seit zehn Jahren, Wells Fargo lag beim Gewinn knapp über, beim Umsatz unter den Erwartungen. Die Banken warnten, steigende Zinsen und hartnäckige Inflation würden künftig belasten. Der Dow Jones schloss 0,35 Prozent tiefer, der S&P 500 praktisch unverändert.",
+      "titel": "Inflation springt auf 3,7 Prozent: Zinserhöhungs-Angst trifft KI-Aktien, CoreWeave minus 15 Prozent",
+      "text": "Die US-Verbraucherpreise sind im September stärker gestiegen als erwartet: um 3,7 Prozent zum Vorjahr und 0,6 Prozent zum Vormonat, getrieben von Energie und Dienstleistungen. Daraufhin setzten Anleger verstärkt auf eine Zinserhöhung der Fed – für Dezember wird sie laut Marktdaten inzwischen nahezu vollständig eingepreist. Besonders hart traf es hoch verschuldete KI-Infrastrukturwerte: CoreWeave fiel um gut 15 Prozent, Oracle um fast 9 Prozent, Dell um rund 11 Prozent. Der S&P 500 schloss rund 1 Prozent tiefer bei 7.718,94 Punkten, der Nasdaq Composite verlor 1,88 Prozent. Höhere Zinsen verteuern die Kredite, mit denen viele Firmen ihre Rechenzentren finanzieren – genau das macht Anleger nervös.",
       "quelle": "CNBC",
-      "datum_artikel": "2026-10-13"
+      "datum_artikel": "2026-10-14"
     },
     {
-      "titel": "Bumble-Aktie springt um 56 Prozent: Dating-App wird für 1,3 Milliarden Dollar übernommen",
-      "text": "Die Investmentfirma Ithaca Holdings kauft die Dating-App Bumble für 6,05 Dollar je Aktie in bar, insgesamt rund 1,3 Milliarden Dollar. Das ist ein Aufschlag von etwa 138 Prozent auf den Schlusskurs vom 9. Oktober, bevor Übernahmegerüchte die Aktie bewegten. Die Bumble-Aktie (BMBL) schoss am Dienstag um rund 56 Prozent nach oben, auch Konkurrent Match Group legte etwa 2 Prozent zu. Der Verwaltungsrat stimmte einstimmig zu, Gründerin Whitney Wolfe Herd enthielt sich; Großaktionär Blackstone und Wolfe Herd haben bereits die nötige Aktionärszustimmung erteilt. Nach Abschluss, der noch von Behörden genehmigt werden muss, verschwindet Bumble von der Börse, und Ithacas Co-Chefs Ravi Gupta und John Hegeman übernehmen die Führung.",
-      "quelle": "Yahoo Finance",
-      "datum_artikel": "2026-10-13"
+      "titel": "Berkshire Hathaway steigt nach: Bending-Spoons-Aktie springt um bis zu 55 Prozent",
+      "text": "Warren Buffetts Berkshire Hathaway investiert weitere 330 Millionen Dollar in den italienischen App-Konzern Bending Spoons (u.a. Evernote, Vimeo) und erhöht seinen Anteil auf rund 4 Prozent. Berkshire erhält dafür 10 Millionen neue Aktien zu je 33 Dollar – 13 Prozent unter dem Schlusskurs vom Dienstag. Die an der Nasdaq notierte Aktie stieg am Mittwoch zeitweise um bis zu 55 Prozent und lag später noch rund 35 bis 40 Prozent im Plus. Berkshire hatte bereits beim Börsengang im Juli 600 Millionen Dollar investiert. Bending Spoons will das Geld für weitere Übernahmen einsetzen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-14"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Bärbel Bas tritt als Arbeitsministerin und SPD-Chefin zurück – Schweitzer folgt",
-      "text": "Bundesarbeitsministerin Bärbel Bas (SPD) ist am Montag von beiden Ämtern zurückgetreten, als Ministerin und als SPD-Co-Vorsitzende. Als Gründe nannte sie den Tod ihrer Stieftochter und öffentliche Angriffe auf ihre Person, auch aus der Union; ihr fehle derzeit die Kraft für beide Ämter. Ihr Bundestagsmandat behält sie. Neuer Arbeitsminister wird der frühere rheinland-pfälzische Ministerpräsident Alexander Schweitzer (SPD), den Kanzler Merz Bundespräsident Steinmeier vorgeschlagen hat. SPD-Co-Chef Lars Klingbeil kündigte eine Neuwahl an der Parteispitze an und sagte, die Rentenreform liege im Zeitplan. Merz versprach am Dienstag laut Bloomberg, den umstrittenen Gesetzentwurf zur Rentenreform noch in diesem Jahr vorzulegen. Wer Bas als SPD-Co-Vorsitzende nachfolgt, ist noch offen.",
-      "quelle": "ZDF",
-      "datum_artikel": "2026-10-12",
+      "titel": "Kabinett beschließt Zuckersteuer auf Softdrinks ab Juli 2027",
+      "text": "Das Bundeskabinett hat am Mittwoch eine Zuckersteuer auf gesüßte Getränke auf den Weg gebracht, und zwar als sogenannte Formulierungshilfe für die Koalitionsfraktionen im Bundestag. Ab 5 Gramm Zucker pro 100 Milliliter sollen 26 Cent pro Liter fällig werden, ab 8 Gramm 32 Cent; eine ursprünglich geplante dritte Stufe von 38 Cent ab 10 Gramm wurde nach Streit zwischen Union und SPD gestrichen. Betroffen sind etwa Limonaden, Cola, Eistees, Energydrinks und Fruchtsaftgetränke mit Zuckerzusatz; alkoholische Getränke und kleine Hersteller sind ausgenommen. Die Steuer soll am 1. Juli 2027 in Kraft treten und dem Bund im ersten Jahr rund 690 Millionen Euro bringen. Das Geld soll helfen, die Beiträge zur gesetzlichen Krankenversicherung stabil zu halten. Als Nächstes muss der Bundestag zustimmen; ob er die Sätze unverändert übernimmt, ist offen.",
+      "quelle": "Deutsche Handwerks Zeitung",
+      "datum_artikel": "2026-10-14",
       "land": "Deutschland"
     },
     {
-      "titel": "Weißes Haus drängt Kimberly Guilfoyle als Botschafterin in Griechenland aus dem Amt",
-      "text": "Die US-Botschafterin in Griechenland, Kimberly Guilfoyle, hat auf Bitten des Weißen Hauses ihren Rücktritt eingereicht, wie die Washington Post berichtet. Die neue Pressesprecherin Katie Zacharia machte die Aufforderung am Dienstag bei ihrer ersten Pressekonferenz öffentlich; das Rücktrittsschreiben ging noch am selben Tag ein. Vorausgegangen waren Berichte über Fehlverhalten: Guilfoyle soll einen Trump-Spender um Hilfe bei einer Kreditkartenrechnung über 100.000 Dollar gebeten, Zugang zu Regierungsvertretern angeboten, Interessen eines griechischen Unternehmens gefördert und Botschaftspersonal schlecht behandelt haben. Ihre Anwälte bestreiten die Vorwürfe, Guilfoyle selbst nannte sie falsch und kündigte an, ihren Ruf zu verteidigen. Präsident Trump sagte, ihm habe nicht gefallen, was er gelesen habe. Guilfoyle war früher mit Donald Trump Jr. verlobt; eine Nachfolge ist noch nicht benannt.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-13",
+      "titel": "Justizministerium setzt Kalifornien 48-Stunden-Frist wegen angeblicher Nicht-Bürger im Wahlregister",
+      "text": "Das US-Justizministerium droht Kalifornien mit rechtlichen Schritten wegen einer Liste mutmaßlicher Nicht-Staatsbürger, denen Briefwahlunterlagen für die Wahl am 3. November geschickt worden sein sollen. Der amtierende Vize-Justizminister Trent McCotter gab Kaliforniens Wahlleiterin Shirley Weber und dem Wahlamt von Los Angeles 48 Stunden Zeit, die Liste zu prüfen und die betroffenen Briefwahlstimmen zu separieren, nicht zu streichen. Andernfalls will das Ministerium eine Eilentscheidung vor Gericht beantragen; wie viele Personen auf der Liste stehen, nennt der Brief nicht. Kaliforniens Generalstaatsanwalt Rob Bonta sprach laut AP von falschen Verschwörungstheorien über Wahlbetrug, der Verband der Wahlbeamten nannte die Frist unzumutbar. Das Ministerium hat bereits 30 Bundesstaaten auf Herausgabe von Wählerdaten verklagt und alle bisher entschiedenen Fälle verloren.",
+      "quelle": "Associated Press (AP)",
+      "datum_artikel": "2026-10-14",
+      "land": "USA"
+    },
+    {
+      "titel": "Supreme Court entscheidet zweimal zugunsten der Trump-Regierung: DOGE-Akten und Wahlwerbung",
+      "text": "Der Oberste Gerichtshof der USA hat diese Woche zwei Entscheidungen im Sinne der Regierung getroffen. Zum einen nimmt er die Berufung der Regierung im Streit um Akten der früheren Musk-Spareinheit DOGE an: Die Watchdog-Organisation CREW will per Informationsfreiheitsgesetz Unterlagen einsehen, die Regierung argumentiert, DOGE sei ein Beratergremium des Präsidenten und keine Behörde. Verhandelt wird voraussichtlich Anfang 2027, die drei liberalen Richterinnen und Richter widersprachen. Zum anderen gab das Gericht der Regierung im Streit um Preise für Wahlwerbung in Radio und Fernsehen recht, wo ein Berufungsgericht der Aufsichtsbehörde FCC zuvor Taktiererei vor der Wahl vorgeworfen hatte. Damit gilt die von der FCC gewählte Auslegung der Werbetarife, die laut Berichten eher Republikanern nützt, voraussichtlich auch für die Zwischenwahlen am 3. November.",
+      "quelle": "NBC News",
+      "datum_artikel": "2026-10-14",
       "land": "USA"
     }
   ]
