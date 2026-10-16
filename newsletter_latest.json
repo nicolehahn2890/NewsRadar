@@ -1,77 +1,58 @@
 {
-  "datum": "Donnerstag, 15. Oktober 2026",
-  "generiert": "2026-10-15",
+  "datum": "Freitag, 16. Oktober 2026",
+  "generiert": "2026-10-16",
   "ki_stories": [
     {
-      "titel": "Russland, Iran und China setzen KI für Desinformation vor den US-Zwischenwahlen ein",
-      "text": "Russland, Iran und China nutzen KI-Werkzeuge, um Desinformation zu verstärken – das berichtet Bloomberg unter Berufung auf Personen mit Kenntnis von Erkenntnissen der US-Geheimdienste sowie auf unabhängige Forscher. Am aktivsten ist demnach Russland: Ein Netzwerk namens Matryoshka (auch Operation Overload genannt) verbreitet seit Anfang September KI-manipulierte Videos. Iran-nahe Netzwerke verbreiten KI-generierte Inhalte gegen Republikaner; Chinas Rolle gilt als kleiner und unsicherer, die chinesische Botschaft bestreitet jede Beteiligung. Offen ist laut den Berichten, ob sich die Kampagnen bereits gezielt gegen die Wahl am 3. November richten. Hinweise auf manipulierte Wahlsysteme gibt es nach Angaben von Beamten nicht.",
+      "titel": "Meta gibt Muse Spark Open frei – die besten Modelle bleiben aber unter Verschluss",
+      "text": "Meta hat die sogenannten Gewichte (die internen Einstellungen, mit denen Entwickler ein Modell selbst betreiben und anpassen können) seines neuen Modells Muse Spark Open veröffentlicht. Nachdem der Konzern am Montag mit Muse Wonder seine ersten Frontier-Modelle vorgestellt hatte, folgt damit nun eine offene Variante. Laut Meta ist sie auf Programmieren und KI-Agenten ausgelegt, aber weniger leistungsfähig als Muse Wonder. Das Modell ist unter anderem über Hugging Face, Amazon SageMaker AI, Google Cloud und Anbieter wie Groq, Fireworks AI und Together AI erhältlich. Für Entwickler ist die Nutzung frei; Firmen, die es als gehosteten Dienst verkaufen und mehr als 20 Millionen Dollar Jahresumsatz machen, brauchen laut Berichten eine eigene Vereinbarung. Metas KI-Chef Alexandr Wang sagte Bloomberg, man werde aus Sicherheits- und Wettbewerbsgründen die stärksten Modelle grundsätzlich nicht offenlegen. Damit rückt Meta endgültig von seiner früheren Linie ab, die besten Modelle kostenlos zu verschenken.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-14"
-    },
-    {
-      "titel": "Apple will seine KI-Funktionen im Dezember erstmals in China starten",
-      "text": "Apple bereitet laut Bloomberg den Start von Apple Intelligence in Festland-China für Dezember vor – es wären die ersten KI-Funktionen des Konzerns auf seinem wichtigen chinesischen Markt. Eine vorläufige Freigabe der Behörden hatte Apple bereits im Juli erhalten; seitdem verhandelt der Konzern mit dem Industrieministerium über die Erlaubnis für den Verbraucher-Start. Die chinesische Version läuft mit dem Qwen-Modell von Alibaba, Baidu übernimmt einzelne Funktionen. Laut südkoreanischen Medienberichten enthält sie Schutzmechanismen, über die die Regierung laufende Updates der KI-Modelle genehmigen kann. Für Apple ist das wichtig, weil iPhones ohne KI-Funktionen in China gegenüber heimischen Konkurrenten an Boden verloren haben.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-14"
+      "datum_artikel": "2026-10-15"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic meldet 16,8 Milliarden Dollar Quartalsumsatz und erstmals Gewinn vor dem Börsengang",
-      "text": "Anthropic hat potenziellen Investoren in San Francisco einen Umsatz von 16,8 Milliarden Dollar im dritten Quartal präsentiert, wie Bloomberg unter Berufung auf Insider berichtet. Das wäre ein Plus von rund 45 Prozent gegenüber dem Vorquartal (rund 11,6 Milliarden Dollar); im ersten Quartal lag der Umsatz noch bei 4,7 Milliarden. Auf bereinigter Basis war das Unternehmen im Quartal profitabel, die bereinigte Bruttomarge soll bei etwa 85 Prozent liegen. Die Zahlen sind nicht öffentlich bestätigt, unklar ist auch, wie Anthropic Gewinn genau definiert. Hintergrund ist der geplante Börsengang: Laut Berichten könnte die Vermarktung Anfang November starten und die Erstnotiz noch vor Thanksgiving erfolgen; im Gespräch ist eine Bewertung von 1,8 bis 2 Billionen Dollar nach 965 Milliarden Dollar im Mai.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-14",
-      "unternehmen": "Anthropic"
+      "titel": "TSMC meldet sechsten Rekordgewinn in Folge – Aktie fällt trotzdem",
+      "text": "Der weltgrößte Chipauftragsfertiger TSMC hat im dritten Quartal einen Nettogewinn von 763,1 Milliarden Taiwan-Dollar erzielt, 68,7 Prozent mehr als im Vorjahr und über den Analystenerwartungen von rund 746 Milliarden. Der Umsatz lag bei 1,49 Billionen Taiwan-Dollar (rund 46,4 Milliarden US-Dollar). Für das vierte Quartal stellt TSMC 52,3 bis 54,3 Milliarden Dollar Umsatz in Aussicht und kündigte an, dass die Investitionen von 2026 bis 2028 deutlich höher ausfallen werden als in den drei Jahren davor. Die zweite Fabrik in Arizona ist fertig gebaut, dort werden nun Maschinen installiert; zudem prüft TSMC einen Standort in Texas. Treiber ist die anhaltend hohe Nachfrage nach KI-Chips, etwa von Nvidia. Die Aktie verlor dennoch rund 2 Prozent, weil der breite Ausverkauf bei KI-Werten wegen Sorgen um die Schulden von KI-Cloud-Anbietern auch TSMC mitriss.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-15",
+      "unternehmen": "TSMC"
     },
     {
-      "titel": "ASML hebt Jahresprognose an: Kunden wollen schon Maschinen für 2029 und 2030 bestellen",
-      "text": "Der niederländische Chipmaschinen-Hersteller ASML hat im dritten Quartal einen Rekordumsatz von 11,7 Milliarden Euro erzielt, 55 Prozent mehr als im Vorjahr; der Nettogewinn lag bei 5,0 Milliarden Euro. Für 2026 erwartet ASML nun 44 bis 45 Milliarden Euro Umsatz statt bisher 43 bis 45 Milliarden, für das vierte Quartal 14,2 bis 15,2 Milliarden Euro. Grund ist der KI-Boom: Kunden erhöhen ihre Nachfrageprognosen, einige wollen bereits für 2029 und 2030 ordern. Zugleich warnte ASML, dass die geplanten Liefermengen für 2027 und 2028 die Nachfrage nicht vollständig decken werden, und prüft eine Kapazitätserweiterung über die bereits angekündigten 30 Prozent hinaus. Der China-Anteil am Maschinenverkauf sank auf 23 Prozent nach 42 Prozent vor einem Jahr.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-14",
-      "unternehmen": "ASML"
-    },
-    {
-      "titel": "Streit um Geschäftsgeheimnisse: OpenAI verzichtet vorerst auf mutmaßliche Apple-Daten",
-      "text": "Im Rechtsstreit mit Apple hat OpenAI vor Gericht zugesagt, mutmaßlich von ehemaligen Apple-Mitarbeitern mitgenommene Geschäftsgeheimnisse nicht zu nutzen, solange das Verfahren läuft. Apple wirft OpenAI, der Hardware-Firma io Products und früheren Mitarbeitern wie dem heutigen OpenAI-Hardwarechef Tang Yew Tan vor, vertrauliche Hardware-Informationen abgezogen zu haben. Bundesrichter Edward Davila in San Jose sagte bei der Anhörung am Mittwoch, er werde Apples Antrag auf eine einstweilige Verfügung sehr wahrscheinlich stattgeben; eine schriftliche Entscheidung steht noch aus. Teil der Vereinbarung ist auch die Sicherung von Geräten von 14 Mitarbeitern, die Apple-Daten enthalten könnten. Bereits am Dienstag hatte der Richter OpenAI verpflichtet, Einstellungsunterlagen herauszugeben; OpenAI will die Klage dagegen ganz abweisen lassen.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAIs Rechenzentrums-Chef Sachin Katti geht – Nachfolger steht fest",
+      "text": "Sachin Katti, bei OpenAI für die Beschaffung von Rechenleistung zuständig, verlässt das Unternehmen zum 15. November, wie zuerst das Wall Street Journal berichtete. Katti kündigte auf LinkedIn an, etwas Eigenes aufbauen zu wollen, und bleibt OpenAI als Berater erhalten. Nachfolger wird Uday Ruddarraju, bisher Technikchef für den Bereich Compute, der direkt an OpenAI-Präsident Greg Brockman berichtet. Katti war erst Ende 2025 gekommen und hatte unter anderem am Rechenzentrumsprojekt Stargate und an großen Verträgen etwa mit Amazon Web Services mitgearbeitet. Der Abgang ist Teil einer Reihe von Führungswechseln: Zuvor hatten Fidji Simo ihren Wechsel in eine Beraterrolle angekündigt und Brad Lightcap das Unternehmen verlassen. Das Thema ist heikel, weil OpenAI bis 2030 rund 600 Milliarden Dollar für Rechenleistung ausgeben will und sich auf einen Börsengang vorbereitet.",
+      "quelle": "Wall Street Journal",
       "datum_artikel": "2026-10-14",
       "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Inflation springt auf 3,7 Prozent: Zinserhöhungs-Angst trifft KI-Aktien, CoreWeave minus 15 Prozent",
-      "text": "Die US-Verbraucherpreise sind im September stärker gestiegen als erwartet: um 3,7 Prozent zum Vorjahr und 0,6 Prozent zum Vormonat, getrieben von Energie und Dienstleistungen. Daraufhin setzten Anleger verstärkt auf eine Zinserhöhung der Fed – für Dezember wird sie laut Marktdaten inzwischen nahezu vollständig eingepreist. Besonders hart traf es hoch verschuldete KI-Infrastrukturwerte: CoreWeave fiel um gut 15 Prozent, Oracle um fast 9 Prozent, Dell um rund 11 Prozent. Der S&P 500 schloss rund 1 Prozent tiefer bei 7.718,94 Punkten, der Nasdaq Composite verlor 1,88 Prozent. Höhere Zinsen verteuern die Kredite, mit denen viele Firmen ihre Rechenzentren finanzieren – genau das macht Anleger nervös.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-14"
-    },
-    {
-      "titel": "Berkshire Hathaway steigt nach: Bending-Spoons-Aktie springt um bis zu 55 Prozent",
-      "text": "Warren Buffetts Berkshire Hathaway investiert weitere 330 Millionen Dollar in den italienischen App-Konzern Bending Spoons (u.a. Evernote, Vimeo) und erhöht seinen Anteil auf rund 4 Prozent. Berkshire erhält dafür 10 Millionen neue Aktien zu je 33 Dollar – 13 Prozent unter dem Schlusskurs vom Dienstag. Die an der Nasdaq notierte Aktie stieg am Mittwoch zeitweise um bis zu 55 Prozent und lag später noch rund 35 bis 40 Prozent im Plus. Berkshire hatte bereits beim Börsengang im Juli 600 Millionen Dollar investiert. Bending Spoons will das Geld für weitere Übernahmen einsetzen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-14"
+      "titel": "KI-Schuldenangst: CoreWeave-Kreditversicherungen auf Krisenniveau, Nikkei bricht um 4,9 Prozent ein",
+      "text": "Nachdem die CoreWeave-Aktie am Mittwoch um rund 15 Prozent eingebrochen war, hat sich die Sorge um die Schulden hinter dem KI-Boom am Donnerstag auf den Kreditmarkt und nach Asien ausgeweitet. Die Kreditausfallversicherungen (Credit Default Swaps, also Absicherungen gegen eine Pleite) auf CoreWeave stiegen auf Niveaus, die als Zeichen ernster finanzieller Not gelten; die Anleihe mit Laufzeit 2031 rentierte nahe 16 Prozent. Laut Reuters trägt der KI-Cloud-Anbieter rund 50 Milliarden Dollar Schulden. In Tokio fiel der Nikkei um etwa 4,9 Prozent, SoftBank verlor 9,3 Prozent, auch Tokyo Electron und Kioxia gaben deutlich nach. In den USA fielen zudem Dell und Hewlett Packard Enterprise erneut, nachdem Barclays beide wegen unklarer KI-Wachstumsaussichten herabgestuft hatte. Nvidia-Chef Jensen Huang, dessen Konzern rund 10 Prozent an CoreWeave hält, sagte, CoreWeaves Finanzlage verbessere sich und Nvidia sehe keinen Bedarf für eine Rettung; danach erholten sich Chipwerte teilweise, der Dow schloss rund 1,1 Prozent im Plus.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-15"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Kabinett beschließt Zuckersteuer auf Softdrinks ab Juli 2027",
-      "text": "Das Bundeskabinett hat am Mittwoch eine Zuckersteuer auf gesüßte Getränke auf den Weg gebracht, und zwar als sogenannte Formulierungshilfe für die Koalitionsfraktionen im Bundestag. Ab 5 Gramm Zucker pro 100 Milliliter sollen 26 Cent pro Liter fällig werden, ab 8 Gramm 32 Cent; eine ursprünglich geplante dritte Stufe von 38 Cent ab 10 Gramm wurde nach Streit zwischen Union und SPD gestrichen. Betroffen sind etwa Limonaden, Cola, Eistees, Energydrinks und Fruchtsaftgetränke mit Zuckerzusatz; alkoholische Getränke und kleine Hersteller sind ausgenommen. Die Steuer soll am 1. Juli 2027 in Kraft treten und dem Bund im ersten Jahr rund 690 Millionen Euro bringen. Das Geld soll helfen, die Beiträge zur gesetzlichen Krankenversicherung stabil zu halten. Als Nächstes muss der Bundestag zustimmen; ob er die Sätze unverändert übernimmt, ist offen.",
-      "quelle": "Deutsche Handwerks Zeitung",
-      "datum_artikel": "2026-10-14",
+      "titel": "Bundestag beschließt Reform der Notfallversorgung – im dritten Anlauf seit 2019",
+      "text": "Der Bundestag hat am Donnerstag die Reform der Notfallversorgung beschlossen, mit den Stimmen der Koalition aus Union und SPD sowie der Grünen; AfD und Linke enthielten sich. Kern sind sogenannte Integrierte Notfallzentren an Kliniken: Dort sollen die Notaufnahme des Krankenhauses, eine Notdienstpraxis der Kassenärzte und eine gemeinsame Ersteinschätzungsstelle zusammenarbeiten. Patienten sollen so schneller dorthin gelenkt werden, wo sie richtig versorgt werden, und Notaufnahmen von leichteren Fällen entlastet werden. Mit dem Gesetz wurden auch Korrekturen am Sparpaket für die Krankenkassen beschlossen; unter anderem fällt eine Kostenregelung zulasten von Haus- und Kinderärzten weg. Frühere Versuche einer solchen Reform waren seit 2019 zweimal gescheitert. Als Nächstes muss der Bundesrat zustimmen, der sich Berichten zufolge am 20. November abschließend damit befassen soll.",
+      "quelle": "Deutsches Ärzteblatt",
+      "datum_artikel": "2026-10-15",
       "land": "Deutschland"
     },
     {
-      "titel": "Justizministerium setzt Kalifornien 48-Stunden-Frist wegen angeblicher Nicht-Bürger im Wahlregister",
-      "text": "Das US-Justizministerium droht Kalifornien mit rechtlichen Schritten wegen einer Liste mutmaßlicher Nicht-Staatsbürger, denen Briefwahlunterlagen für die Wahl am 3. November geschickt worden sein sollen. Der amtierende Vize-Justizminister Trent McCotter gab Kaliforniens Wahlleiterin Shirley Weber und dem Wahlamt von Los Angeles 48 Stunden Zeit, die Liste zu prüfen und die betroffenen Briefwahlstimmen zu separieren, nicht zu streichen. Andernfalls will das Ministerium eine Eilentscheidung vor Gericht beantragen; wie viele Personen auf der Liste stehen, nennt der Brief nicht. Kaliforniens Generalstaatsanwalt Rob Bonta sprach laut AP von falschen Verschwörungstheorien über Wahlbetrug, der Verband der Wahlbeamten nannte die Frist unzumutbar. Das Ministerium hat bereits 30 Bundesstaaten auf Herausgabe von Wählerdaten verklagt und alle bisher entschiedenen Fälle verloren.",
-      "quelle": "Associated Press (AP)",
-      "datum_artikel": "2026-10-14",
-      "land": "USA"
+      "titel": "Verbrenner-Aus: SPD-Minister bieten Merz Kompromiss an – mit roter Linie bei 90 Prozent",
+      "text": "Umweltminister Carsten Schneider hat Kanzler Friedrich Merz in einem Schreiben, auch im Namen von Finanzminister Lars Klingbeil (beide SPD), einen Kompromiss beim geplanten EU-Verbrenner-Aus ab 2035 angeboten. Demnach soll das CO2-Reduktionsziel für Neuwagen von 100 auf 95 Prozent sinken; weitere fünf Prozent könnten durch in Europa hergestellten grünen und recycelten Stahl ausgeglichen werden. Eine Absenkung unter 90 Prozent lehnen die beiden Minister ausdrücklich ab. Im Gegenzug fordern sie industriepolitische Zusagen, etwa eine Quote von über 25 Prozent für grünen Stahl bei öffentlichen Ausschreibungen und Mittel für die Deutsche Bahn zum Kauf von grünem Stahl. Hintergrund: Merz hatte sich Anfang Oktober Berichten zufolge mit Frankreichs Präsident Macron auf eine noch weitergehende Lockerung auf 80 Prozent verständigt, im Tausch gegen strengere Made-in-Europe-Regeln. Ob sich die Bundesregierung auf eine gemeinsame Linie einigt, ist offen; über die Änderung des EU-Rechts müssen am Ende die EU-Staaten und das Europaparlament entscheiden.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-15",
+      "land": "Deutschland"
     },
     {
-      "titel": "Supreme Court entscheidet zweimal zugunsten der Trump-Regierung: DOGE-Akten und Wahlwerbung",
-      "text": "Der Oberste Gerichtshof der USA hat diese Woche zwei Entscheidungen im Sinne der Regierung getroffen. Zum einen nimmt er die Berufung der Regierung im Streit um Akten der früheren Musk-Spareinheit DOGE an: Die Watchdog-Organisation CREW will per Informationsfreiheitsgesetz Unterlagen einsehen, die Regierung argumentiert, DOGE sei ein Beratergremium des Präsidenten und keine Behörde. Verhandelt wird voraussichtlich Anfang 2027, die drei liberalen Richterinnen und Richter widersprachen. Zum anderen gab das Gericht der Regierung im Streit um Preise für Wahlwerbung in Radio und Fernsehen recht, wo ein Berufungsgericht der Aufsichtsbehörde FCC zuvor Taktiererei vor der Wahl vorgeworfen hatte. Damit gilt die von der FCC gewählte Auslegung der Werbetarife, die laut Berichten eher Republikanern nützt, voraussichtlich auch für die Zwischenwahlen am 3. November.",
-      "quelle": "NBC News",
-      "datum_artikel": "2026-10-14",
+      "titel": "Trump stoppt Hegseths Plan, die Hinrichtung des Fort-Hood-Attentäters live zu streamen",
+      "text": "Präsident Donald Trump hat einen Plan von Verteidigungsminister Pete Hegseth gekippt, die Hinrichtung des Fort-Hood-Attentäters Nidal Hasan live im Internet zu übertragen. Trump schrieb auf Truth Social, die Hinrichtung durch ein Erschießungskommando der Armee finde statt, werde aber nicht gestreamt; die Angehörigen der Opfer dürften auf Wunsch vor Ort zusehen. Der Plan war parteiübergreifend kritisiert worden, auch von republikanischen Senatoren; in einer Umfrage von Washington Post, ABC News und Ipsos sprachen sich 80 Prozent der Amerikaner gegen eine Live-Übertragung aus. Das Pentagon erklärte, Hegseth unterstütze die Entscheidung des Präsidenten. Reuters wertete den Schritt als ersten großen öffentlichen Bruch zwischen Trump und seinem engen Verbündeten. Hasan hatte 2009 auf dem Stützpunkt Fort Hood in Texas 13 Menschen getötet; die Hinrichtung ist für den 3. Dezember angesetzt.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-10-15",
       "land": "USA"
     }
   ]
