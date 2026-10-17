@@ -1,58 +1,76 @@
 {
-  "datum": "Freitag, 16. Oktober 2026",
-  "generiert": "2026-10-16",
+  "datum": "Samstag, 17. Oktober 2026",
+  "generiert": "2026-10-17",
   "ki_stories": [
     {
-      "titel": "Meta gibt Muse Spark Open frei – die besten Modelle bleiben aber unter Verschluss",
-      "text": "Meta hat die sogenannten Gewichte (die internen Einstellungen, mit denen Entwickler ein Modell selbst betreiben und anpassen können) seines neuen Modells Muse Spark Open veröffentlicht. Nachdem der Konzern am Montag mit Muse Wonder seine ersten Frontier-Modelle vorgestellt hatte, folgt damit nun eine offene Variante. Laut Meta ist sie auf Programmieren und KI-Agenten ausgelegt, aber weniger leistungsfähig als Muse Wonder. Das Modell ist unter anderem über Hugging Face, Amazon SageMaker AI, Google Cloud und Anbieter wie Groq, Fireworks AI und Together AI erhältlich. Für Entwickler ist die Nutzung frei; Firmen, die es als gehosteten Dienst verkaufen und mehr als 20 Millionen Dollar Jahresumsatz machen, brauchen laut Berichten eine eigene Vereinbarung. Metas KI-Chef Alexandr Wang sagte Bloomberg, man werde aus Sicherheits- und Wettbewerbsgründen die stärksten Modelle grundsätzlich nicht offenlegen. Damit rückt Meta endgültig von seiner früheren Linie ab, die besten Modelle kostenlos zu verschenken.",
+      "titel": "Anthropic legt Abgeordneten eigenen Entwurf für ein KI-Sicherheitsgesetz vor",
+      "text": "Anthropic hat US-Abgeordneten einen selbst formulierten Gesetzentwurf zur Sicherheit von KI-Systemen übergeben, wie Bloomberg unter Berufung auf Politico berichtet. Kern des Vorschlags: Die Regierung soll die Veröffentlichung eines KI-Modells stoppen dürfen, wenn festgestellt wird, dass es unmittelbar das Risiko birgt, mehr als 50 Menschen zu töten oder zu verletzen oder Schäden von über 1 Milliarde Dollar zu verursachen. Im Kongress liegen bereits mehrere konkurrierende Ansätze auf dem Tisch, etwa der Frontier Act der Abgeordneten Obernolte und Trahan sowie ein geplanter parteiübergreifender Senatsentwurf zu biologischen und nuklearen Risiken. Mit dem eigenen Text versucht Anthropic, die Debatte kurz vor seinem geplanten Börsengang aktiv mitzugestalten. Ob und in welcher Form der Vorschlag von Abgeordneten aufgegriffen wird, ist offen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-15"
+      "datum_artikel": "2026-10-16"
+    },
+    {
+      "titel": "Trumps KI-Taskforce startet 120-Tage-Prüfung von Cyber-, Bio- und Kontrollrisiken",
+      "text": "Die neue KI-Taskforce des Weißen Hauses hat sich bei ihrer ersten Sitzung am 15. Oktober darauf verständigt, drei Risikobereiche zu untersuchen: Cybersicherheit und Schutz kritischer Infrastruktur, Biosicherheit sowie die Frage, ob Entwickler ihre Modelle zuverlässig steuern können und wer haftet, wenn nicht. Den Bericht dazu soll der Wissenschaftsrat des Präsidenten (President's Council of Advisors on Science and Technology, PCAST) erstellen, berichtet Bloomberg. Mit der Sitzung beginnt eine Prüffrist von 120 Tagen. Bemerkenswert ist der Schritt, weil die Trump-Regierung bislang vor allem auf Deregulierung gesetzt hatte. Konkrete Vorschriften für KI-Firmen folgen daraus noch nicht, das Ergebnis könnte aber die Grundlage für spätere Regeln sein.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-16"
+    },
+    {
+      "titel": "Taiwan will Schmuggel von KI-Chips nach China unter Strafe stellen",
+      "text": "Taiwan will die Ausfuhr von KI-Servern und modernsten Halbleitern nach China deutlich strenger kontrollieren. Wirtschaftsminister Kung Ming-hsin sagte Bloomberg, nach Inkrafttreten der Regeln werde die Lieferung solcher Technik nach China eine Straftat nach dem Außenhandelsgesetz. Bisher ist das nicht strafbar, Schmuggler konnten nur wegen Nebendelikten wie Urkundenfälschung belangt werden, und die Kontrollen richteten sich im Wesentlichen nur gegen Huawei und SMIC. Kung begründete den Schritt mit Zusagen aus dem Handelsabkommen mit den USA. Einen Starttermin und die vollständige Liste der betroffenen Produkte gibt es noch nicht; betroffen sein dürften vor allem Server-Hersteller wie Gigabyte oder Asus.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-16"
+    },
+    {
+      "titel": "Schwab-Chef: Banken blockieren KI-Agenten, die Kundengeld verschieben wollen",
+      "text": "US-Finanzhäuser wehren sich gegen KI-Assistenten, die im Auftrag von Kunden Geld bewegen wollen. Der Chef von Charles Schwab sagte laut Bloomberg, sein Haus blockiere aktiv nicht autorisierte KI-Agenten, darunter Muse von Meta, wenn diese versuchen, Kundengelder zu transferieren. Hintergrund: Meta bewirbt Muse damit, dass der Agent selbstständig einkaufen, Formulare ausfüllen und Transaktionen erledigen kann. Anleger fürchten, dass solche Agenten Spargeld automatisch auf besser verzinste Konten umschichten und damit das Geschäft mit billigen Einlagen und trägen Kunden aushöhlen; Schwab- und LPL-Aktien waren deshalb zuletzt an einem Tag um mehr als 6 Prozent gefallen. Der Streit zeigt, dass die Frage, wer einem KI-Agenten Zugriff auf Konten gewährt, zu einem zentralen Konflikt zwischen Tech- und Finanzbranche wird.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-16"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "TSMC meldet sechsten Rekordgewinn in Folge – Aktie fällt trotzdem",
-      "text": "Der weltgrößte Chipauftragsfertiger TSMC hat im dritten Quartal einen Nettogewinn von 763,1 Milliarden Taiwan-Dollar erzielt, 68,7 Prozent mehr als im Vorjahr und über den Analystenerwartungen von rund 746 Milliarden. Der Umsatz lag bei 1,49 Billionen Taiwan-Dollar (rund 46,4 Milliarden US-Dollar). Für das vierte Quartal stellt TSMC 52,3 bis 54,3 Milliarden Dollar Umsatz in Aussicht und kündigte an, dass die Investitionen von 2026 bis 2028 deutlich höher ausfallen werden als in den drei Jahren davor. Die zweite Fabrik in Arizona ist fertig gebaut, dort werden nun Maschinen installiert; zudem prüft TSMC einen Standort in Texas. Treiber ist die anhaltend hohe Nachfrage nach KI-Chips, etwa von Nvidia. Die Aktie verlor dennoch rund 2 Prozent, weil der breite Ausverkauf bei KI-Werten wegen Sorgen um die Schulden von KI-Cloud-Anbietern auch TSMC mitriss.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-15",
-      "unternehmen": "TSMC"
+      "titel": "Anthropic nimmt Gespräche mit New Yorks Finanzkontrolleur auf, der den Börsengang bremsen will",
+      "text": "Anthropic hat Kontakt zu Mark Levine aufgenommen, dem Rechnungsprüfer (Comptroller) der Stadt New York, der die Pensionsfonds der Stadt verwaltet. Levine hatte am Mittwoch in einem Brief an Anthropic-Chef Dario Amodei gefordert, den für November erwarteten Börsengang zu verschieben, bis Fragen zu Sicherheit, Unternehmensführung und Entwicklungstempo geklärt seien. Er verwies auf Amodeis eigenes Plädoyer für langsameren KI-Fortschritt und auf rund 80 Seiten Risikohinweise im Börsenprospekt-Entwurf, der sogar katastrophale oder existenzielle Risiken nennt. Die Stadt ist derzeit nur mit etwa 7 Millionen Dollar indirekt investiert, nach einer Notierung würde das über Indexfonds aber stark steigen. Laut Medienberichten peilt Anthropic eine Bewertung von über 2 Billionen Dollar an; was in den Gesprächen besprochen wird, ist nicht bekannt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-16",
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "OpenAIs Rechenzentrums-Chef Sachin Katti geht – Nachfolger steht fest",
-      "text": "Sachin Katti, bei OpenAI für die Beschaffung von Rechenleistung zuständig, verlässt das Unternehmen zum 15. November, wie zuerst das Wall Street Journal berichtete. Katti kündigte auf LinkedIn an, etwas Eigenes aufbauen zu wollen, und bleibt OpenAI als Berater erhalten. Nachfolger wird Uday Ruddarraju, bisher Technikchef für den Bereich Compute, der direkt an OpenAI-Präsident Greg Brockman berichtet. Katti war erst Ende 2025 gekommen und hatte unter anderem am Rechenzentrumsprojekt Stargate und an großen Verträgen etwa mit Amazon Web Services mitgearbeitet. Der Abgang ist Teil einer Reihe von Führungswechseln: Zuvor hatten Fidji Simo ihren Wechsel in eine Beraterrolle angekündigt und Brad Lightcap das Unternehmen verlassen. Das Thema ist heikel, weil OpenAI bis 2030 rund 600 Milliarden Dollar für Rechenleistung ausgeben will und sich auf einen Börsengang vorbereitet.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-10-14",
-      "unternehmen": "OpenAI"
+      "titel": "Tesla zeigt neuen Roadster – Produktion erst 2028, Preis weiter offen",
+      "text": "Tesla hat am 15. Oktober bei Waco in Texas die Serienversion des zweiten Roadster vorgestellt, fast neun Jahre nach der ersten Präsentation 2017. Gezeigt wurden drei Varianten: Performance und Thrust als Zweisitzer sowie der Einsitzer Rocket, der nur auf Einladung erhältlich und nicht für die Straße zugelassen ist; Tesla verspricht rund 480 Kilometer Reichweite und über 370 km/h Spitze, die Vorführung nutzte mit SpaceX entwickelte Kaltgas-Düsen. Einen Kaufpreis nannte Elon Musk nicht, nur Reservierungsgebühren von 50.000 Dollar (Performance) und 250.000 Dollar (Thrust); gebaut werden soll ab 2028. Die Tesla-Aktie stieg am Freitag vorbörslich um fast 5 Prozent, SpaceX legte mit. Ursprünglich war der Roadster für 2020 zu einem Startpreis von 200.000 Dollar angekündigt, ausgeliefert wurde bis heute kein Fahrzeug.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-16",
+      "unternehmen": "Tesla"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "KI-Schuldenangst: CoreWeave-Kreditversicherungen auf Krisenniveau, Nikkei bricht um 4,9 Prozent ein",
-      "text": "Nachdem die CoreWeave-Aktie am Mittwoch um rund 15 Prozent eingebrochen war, hat sich die Sorge um die Schulden hinter dem KI-Boom am Donnerstag auf den Kreditmarkt und nach Asien ausgeweitet. Die Kreditausfallversicherungen (Credit Default Swaps, also Absicherungen gegen eine Pleite) auf CoreWeave stiegen auf Niveaus, die als Zeichen ernster finanzieller Not gelten; die Anleihe mit Laufzeit 2031 rentierte nahe 16 Prozent. Laut Reuters trägt der KI-Cloud-Anbieter rund 50 Milliarden Dollar Schulden. In Tokio fiel der Nikkei um etwa 4,9 Prozent, SoftBank verlor 9,3 Prozent, auch Tokyo Electron und Kioxia gaben deutlich nach. In den USA fielen zudem Dell und Hewlett Packard Enterprise erneut, nachdem Barclays beide wegen unklarer KI-Wachstumsaussichten herabgestuft hatte. Nvidia-Chef Jensen Huang, dessen Konzern rund 10 Prozent an CoreWeave hält, sagte, CoreWeaves Finanzlage verbessere sich und Nvidia sehe keinen Bedarf für eine Rettung; danach erholten sich Chipwerte teilweise, der Dow schloss rund 1,1 Prozent im Plus.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-15"
+      "titel": "Ölpreis über 110 Dollar verschärft KI-Ausverkauf: Nasdaq mit schwächster Woche seit Juni",
+      "text": "Zum Wochenschluss kam zum Ausverkauf bei KI-Aktien ein Ölpreisschock hinzu: Die Nordseesorte Brent stieg am Freitag erstmals seit Mai über 110 Dollar je Barrel und schloss bei 109,86 Dollar. Die Nasdaq fiel um rund 2,2 Prozent auf 26.138 Punkte, der S&P 500 um 1,1 Prozent auf 7.659 Punkte, der Dow nur um 0,4 Prozent. Der Halbleiterindex der Börse Philadelphia sank um 3,8 Prozent – der achte Verlusttag in Folge, die längste Serie seit 2008, mit zusammen rund 16 Prozent Minus; CoreWeave verlor weitere 13 Prozent und über 26 Prozent auf Wochensicht, der Angstindex VIX stieg erstmals seit vier Monaten über 22. Neu gegenüber den Vortagen ist vor allem die Sorge, dass teures Öl die bereits auf 3,7 Prozent gestiegene Inflation weiter antreibt und damit Zinserhöhungen wahrscheinlicher macht. Nvidia-Chef Jensen Huang versuchte zu beruhigen: Das alles werde vorübergehen, der langfristige Nutzen von KI bleibe.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-16"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Bundestag beschließt Reform der Notfallversorgung – im dritten Anlauf seit 2019",
-      "text": "Der Bundestag hat am Donnerstag die Reform der Notfallversorgung beschlossen, mit den Stimmen der Koalition aus Union und SPD sowie der Grünen; AfD und Linke enthielten sich. Kern sind sogenannte Integrierte Notfallzentren an Kliniken: Dort sollen die Notaufnahme des Krankenhauses, eine Notdienstpraxis der Kassenärzte und eine gemeinsame Ersteinschätzungsstelle zusammenarbeiten. Patienten sollen so schneller dorthin gelenkt werden, wo sie richtig versorgt werden, und Notaufnahmen von leichteren Fällen entlastet werden. Mit dem Gesetz wurden auch Korrekturen am Sparpaket für die Krankenkassen beschlossen; unter anderem fällt eine Kostenregelung zulasten von Haus- und Kinderärzten weg. Frühere Versuche einer solchen Reform waren seit 2019 zweimal gescheitert. Als Nächstes muss der Bundesrat zustimmen, der sich Berichten zufolge am 20. November abschließend damit befassen soll.",
-      "quelle": "Deutsches Ärzteblatt",
-      "datum_artikel": "2026-10-15",
+      "titel": "Bundestag beschließt höhere Tabaksteuer: Zigarettenschachtel bis 2030 bei rund 11 bis 12 Euro",
+      "text": "Der Bundestag hat am Donnerstagabend mit den Stimmen von CDU, CSU und SPD eine deutliche Erhöhung der Tabaksteuer beschlossen. Die Steuer steigt schrittweise von 2027 bis 2030; eine Schachtel mit 20 Zigaretten, die heute rund 8 Euro kostet, soll je nach Schätzung 2027 etwa 8,80 bis 9,10 Euro und 2030 rund 11,40 bis 11,80 Euro kosten. Für Zigarren, Zigarillos, Pfeifen- und Wasserpfeifentabak gelten die neuen Sätze ab 1. März 2027, Liquids für E-Zigaretten werden ab 2027 mit 38 Cent pro Milliliter besteuert, bis 2030 mit 44 Cent. Die Koalition hatte die Sätze per Änderungsantrag noch über den Regierungsentwurf hinaus angehoben; der Staat rechnet für 2027 bis 2030 mit insgesamt rund 11,7 Milliarden Euro Mehreinnahmen. Der Branchenverband der Tabakindustrie warnt vor mehr Schwarzmarkt. Abschließend muss sich noch der Bundesrat damit befassen, ein Einspruch gilt aber als unwahrscheinlich.",
+      "quelle": "ZDF",
+      "datum_artikel": "2026-10-16",
       "land": "Deutschland"
     },
     {
-      "titel": "Verbrenner-Aus: SPD-Minister bieten Merz Kompromiss an – mit roter Linie bei 90 Prozent",
-      "text": "Umweltminister Carsten Schneider hat Kanzler Friedrich Merz in einem Schreiben, auch im Namen von Finanzminister Lars Klingbeil (beide SPD), einen Kompromiss beim geplanten EU-Verbrenner-Aus ab 2035 angeboten. Demnach soll das CO2-Reduktionsziel für Neuwagen von 100 auf 95 Prozent sinken; weitere fünf Prozent könnten durch in Europa hergestellten grünen und recycelten Stahl ausgeglichen werden. Eine Absenkung unter 90 Prozent lehnen die beiden Minister ausdrücklich ab. Im Gegenzug fordern sie industriepolitische Zusagen, etwa eine Quote von über 25 Prozent für grünen Stahl bei öffentlichen Ausschreibungen und Mittel für die Deutsche Bahn zum Kauf von grünem Stahl. Hintergrund: Merz hatte sich Anfang Oktober Berichten zufolge mit Frankreichs Präsident Macron auf eine noch weitergehende Lockerung auf 80 Prozent verständigt, im Tausch gegen strengere Made-in-Europe-Regeln. Ob sich die Bundesregierung auf eine gemeinsame Linie einigt, ist offen; über die Änderung des EU-Rechts müssen am Ende die EU-Staaten und das Europaparlament entscheiden.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-15",
+      "titel": "Frühstartrente beschlossen: 10 Euro im Monat vom Staat für jedes Schulkind",
+      "text": "Der Bundestag hat am Freitag die sogenannte Frühstartrente beschlossen. Der Staat zahlt künftig für jedes Kind zwischen 6 und 18 Jahren mit Hauptwohnsitz in Deutschland 10 Euro im Monat in ein Depot zur privaten Altersvorsorge ein, über die gesamte Zeit also bis zu 1.440 Euro plus Erträge. Das Gesetz soll am 1. Januar 2027 in Kraft treten; für den Geburtsjahrgang 2020 fließt das Geld rückwirkend ab 2026. Ausgezahlt wird das angesparte Geld frühestens mit 65 Jahren. Die Bundesregierung will damit Kinder früh an den Kapitalmarkt heranführen und die private Vorsorge stärken. Als Nächstes muss der Bundesrat zustimmen.",
+      "quelle": "dpa",
+      "datum_artikel": "2026-10-16",
       "land": "Deutschland"
     },
     {
-      "titel": "Trump stoppt Hegseths Plan, die Hinrichtung des Fort-Hood-Attentäters live zu streamen",
-      "text": "Präsident Donald Trump hat einen Plan von Verteidigungsminister Pete Hegseth gekippt, die Hinrichtung des Fort-Hood-Attentäters Nidal Hasan live im Internet zu übertragen. Trump schrieb auf Truth Social, die Hinrichtung durch ein Erschießungskommando der Armee finde statt, werde aber nicht gestreamt; die Angehörigen der Opfer dürften auf Wunsch vor Ort zusehen. Der Plan war parteiübergreifend kritisiert worden, auch von republikanischen Senatoren; in einer Umfrage von Washington Post, ABC News und Ipsos sprachen sich 80 Prozent der Amerikaner gegen eine Live-Übertragung aus. Das Pentagon erklärte, Hegseth unterstütze die Entscheidung des Präsidenten. Reuters wertete den Schritt als ersten großen öffentlichen Bruch zwischen Trump und seinem engen Verbündeten. Hasan hatte 2009 auf dem Stützpunkt Fort Hood in Texas 13 Menschen getötet; die Hinrichtung ist für den 3. Dezember angesetzt.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-15",
+      "titel": "Nach nur fünf Tagen: Pressesprecherin Katie Zacharia verlässt das Weiße Haus",
+      "text": "Katie Zacharia ist nach nur fünf Tagen nicht mehr Pressesprecherin des Weißen Hauses. Zwei hochrangige Regierungsvertreter bestätigten am Freitag den Abgang; offiziell hieß es, sie sei im Übergang aus der Rolle, ein Nachfolger soll später benannt werden. Zacharia war erst vergangene Woche als Nachfolgerin von Karoline Leavitt vorgestellt worden, die Ende August ausgeschieden war. Ihre erste Pressekonferenz am Dienstag stieß auf Kritik, weil sie nur Fragen von Breitbart, Fox News und der Daily Mail zuließ; zudem wurde bekannt, dass sie die Anwaltsprüfung nicht bestanden hatte, obwohl sie als Juristin aufgetreten war. Präsident Trump sagte, er habe ihr gesagt: 'Wenn ich du wäre, würde ich es mir noch einmal überlegen.' Es ist die kürzeste Amtszeit eines Pressesprechers der jüngeren US-Geschichte – und das gut zwei Wochen vor den Zwischenwahlen am 3. November.",
+      "quelle": "Axios",
+      "datum_artikel": "2026-10-16",
       "land": "USA"
     }
   ]
