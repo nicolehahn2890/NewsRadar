@@ -1,76 +1,70 @@
 {
-  "datum": "Samstag, 17. Oktober 2026",
-  "generiert": "2026-10-17",
+  "datum": "Sonntag, 18. Oktober 2026",
+  "generiert": "2026-10-18",
   "ki_stories": [
     {
-      "titel": "Anthropic legt Abgeordneten eigenen Entwurf für ein KI-Sicherheitsgesetz vor",
-      "text": "Anthropic hat US-Abgeordneten einen selbst formulierten Gesetzentwurf zur Sicherheit von KI-Systemen übergeben, wie Bloomberg unter Berufung auf Politico berichtet. Kern des Vorschlags: Die Regierung soll die Veröffentlichung eines KI-Modells stoppen dürfen, wenn festgestellt wird, dass es unmittelbar das Risiko birgt, mehr als 50 Menschen zu töten oder zu verletzen oder Schäden von über 1 Milliarde Dollar zu verursachen. Im Kongress liegen bereits mehrere konkurrierende Ansätze auf dem Tisch, etwa der Frontier Act der Abgeordneten Obernolte und Trahan sowie ein geplanter parteiübergreifender Senatsentwurf zu biologischen und nuklearen Risiken. Mit dem eigenen Text versucht Anthropic, die Debatte kurz vor seinem geplanten Börsengang aktiv mitzugestalten. Ob und in welcher Form der Vorschlag von Abgeordneten aufgegriffen wird, ist offen.",
-      "quelle": "Bloomberg",
+      "titel": "137 Millionen Dollar für KI-Wahlwerbung – 70 Prozent der Spots ohne KI-Hinweis",
+      "text": "Kampagnen und politische Aktionskomitees (PACs) haben im US-Zwischenwahlkampf 2026 bereits mehr als 137 Millionen Dollar für Werbespots ausgegeben, die mit KI erzeugt oder bearbeitet wurden. Das zeigt eine Auswertung der New York Times auf Basis von Daten des Wesleyan Media Project und von AdImpact. Rund 70 Prozent dieser Spots weisen die Zuschauer nicht auf den KI-Einsatz hin, fast die Hälfte zeigt Deepfake-Darstellungen echter Politiker. Laut der Times stammen über 80 Prozent der Spots von republikanischen Kampagnen oder ihnen nahestehenden PACs. Zum Vergleich: Im Wahlzyklus 2024 fanden die Forscher noch weniger als 50.000 Dollar an Ausgaben für KI-Spots. Ein bundesweites Gesetz gibt es nicht; die Bundesstaaten haben einen Flickenteppich eigener Deepfake-Regeln geschaffen, von denen Gerichte einige wegen der Meinungsfreiheit gestoppt haben.",
+      "quelle": "New York Times",
       "datum_artikel": "2026-10-16"
     },
     {
-      "titel": "Trumps KI-Taskforce startet 120-Tage-Prüfung von Cyber-, Bio- und Kontrollrisiken",
-      "text": "Die neue KI-Taskforce des Weißen Hauses hat sich bei ihrer ersten Sitzung am 15. Oktober darauf verständigt, drei Risikobereiche zu untersuchen: Cybersicherheit und Schutz kritischer Infrastruktur, Biosicherheit sowie die Frage, ob Entwickler ihre Modelle zuverlässig steuern können und wer haftet, wenn nicht. Den Bericht dazu soll der Wissenschaftsrat des Präsidenten (President's Council of Advisors on Science and Technology, PCAST) erstellen, berichtet Bloomberg. Mit der Sitzung beginnt eine Prüffrist von 120 Tagen. Bemerkenswert ist der Schritt, weil die Trump-Regierung bislang vor allem auf Deregulierung gesetzt hatte. Konkrete Vorschriften für KI-Firmen folgen daraus noch nicht, das Ergebnis könnte aber die Grundlage für spätere Regeln sein.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAI startet ChatGPT Slides: Präsentationen direkt im Chat erstellen und gemeinsam bearbeiten",
+      "text": "OpenAI hat am 16. Oktober die neue Funktion ChatGPT Slides eingeführt. Damit lassen sich Präsentationen direkt in ChatGPT erzeugen und von mehreren Personen gleichzeitig bearbeiten. Die Funktion wird zunächst für zahlende Pro-, Business- und Enterprise-Nutzer im Browser und in der Desktop-App freigeschaltet. Im Browser können die Folien als PowerPoint-Datei (.pptx), als PDF oder nach Google Slides exportiert werden; in der Desktop-App öffnet man sie stattdessen direkt in PowerPoint oder Keynote. OpenAI greift damit Microsoft und Google in deren Kerngeschäft mit Büro-Software an. OpenAI selbst empfiehlt, exportierte Präsentationen vor der Nutzung auf Inhalt und Formatierung zu prüfen.",
+      "quelle": "OpenAI",
       "datum_artikel": "2026-10-16"
     },
     {
-      "titel": "Taiwan will Schmuggel von KI-Chips nach China unter Strafe stellen",
-      "text": "Taiwan will die Ausfuhr von KI-Servern und modernsten Halbleitern nach China deutlich strenger kontrollieren. Wirtschaftsminister Kung Ming-hsin sagte Bloomberg, nach Inkrafttreten der Regeln werde die Lieferung solcher Technik nach China eine Straftat nach dem Außenhandelsgesetz. Bisher ist das nicht strafbar, Schmuggler konnten nur wegen Nebendelikten wie Urkundenfälschung belangt werden, und die Kontrollen richteten sich im Wesentlichen nur gegen Huawei und SMIC. Kung begründete den Schritt mit Zusagen aus dem Handelsabkommen mit den USA. Einen Starttermin und die vollständige Liste der betroffenen Produkte gibt es noch nicht; betroffen sein dürften vor allem Server-Hersteller wie Gigabyte oder Asus.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-16"
-    },
-    {
-      "titel": "Schwab-Chef: Banken blockieren KI-Agenten, die Kundengeld verschieben wollen",
-      "text": "US-Finanzhäuser wehren sich gegen KI-Assistenten, die im Auftrag von Kunden Geld bewegen wollen. Der Chef von Charles Schwab sagte laut Bloomberg, sein Haus blockiere aktiv nicht autorisierte KI-Agenten, darunter Muse von Meta, wenn diese versuchen, Kundengelder zu transferieren. Hintergrund: Meta bewirbt Muse damit, dass der Agent selbstständig einkaufen, Formulare ausfüllen und Transaktionen erledigen kann. Anleger fürchten, dass solche Agenten Spargeld automatisch auf besser verzinste Konten umschichten und damit das Geschäft mit billigen Einlagen und trägen Kunden aushöhlen; Schwab- und LPL-Aktien waren deshalb zuletzt an einem Tag um mehr als 6 Prozent gefallen. Der Streit zeigt, dass die Frage, wer einem KI-Agenten Zugriff auf Konten gewährt, zu einem zentralen Konflikt zwischen Tech- und Finanzbranche wird.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-16"
+      "titel": "DeepSeek legt verbessertes Modell V4.1-Flash-1017 nach – frei verfügbar",
+      "text": "Der chinesische KI-Entwickler DeepSeek hat am 17. Oktober ein Update seines Modells V4.1-Flash veröffentlicht, das im September erstmals erschienen war. Die neue Version trägt den Namen V4.1-Flash-1017; laut DeepSeeks offiziellem Änderungsprotokoll bleiben API-Name und Preise unverändert. Die Modellgewichte wurden laut DeepSeek auf den Plattformen Hugging Face und ModelScope frei zugänglich gemacht. In einem Beitrag auf X werden deutliche Verbesserungen beim Programmieren und bei Agenten-Aufgaben genannt, etwa beim Test Terminal-Bench von 31,2 auf 42,3 Punkte – unabhängig überprüft sind diese Zahlen noch nicht. Das Update zeigt, wie schnell chinesische Anbieter mit offenen Modellen nachlegen und damit den Preisdruck auf westliche Anbieter hochhalten.",
+      "quelle": "DeepSeek",
+      "datum_artikel": "2026-10-17"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic nimmt Gespräche mit New Yorks Finanzkontrolleur auf, der den Börsengang bremsen will",
-      "text": "Anthropic hat Kontakt zu Mark Levine aufgenommen, dem Rechnungsprüfer (Comptroller) der Stadt New York, der die Pensionsfonds der Stadt verwaltet. Levine hatte am Mittwoch in einem Brief an Anthropic-Chef Dario Amodei gefordert, den für November erwarteten Börsengang zu verschieben, bis Fragen zu Sicherheit, Unternehmensführung und Entwicklungstempo geklärt seien. Er verwies auf Amodeis eigenes Plädoyer für langsameren KI-Fortschritt und auf rund 80 Seiten Risikohinweise im Börsenprospekt-Entwurf, der sogar katastrophale oder existenzielle Risiken nennt. Die Stadt ist derzeit nur mit etwa 7 Millionen Dollar indirekt investiert, nach einer Notierung würde das über Indexfonds aber stark steigen. Laut Medienberichten peilt Anthropic eine Bewertung von über 2 Billionen Dollar an; was in den Gesprächen besprochen wird, ist nicht bekannt.",
-      "quelle": "Bloomberg",
+      "titel": "Anthropic bietet Blackstone über 10 Prozent Zins für Milliarden-Kredit zur Chip-Finanzierung",
+      "text": "Anthropic hat dem Finanzinvestor Blackstone laut Financial Times einen Zinssatz (Kupon) von 10 Prozent auf 9 Milliarden Dollar nachrangige Schulden angeboten. Das Geld ist Teil eines rund 60 Milliarden Dollar schweren Finanzierungspakets namens Project North Star, mit dem etwa 1,5 Gigawatt an Googles KI-Chips (TPUs) bezahlt werden sollen. Rund 42 Milliarden Dollar davon sind vorrangige Schulden mit einer Garantie von Broadcom, etwa 18 Milliarden Dollar sind riskantere nachrangige Schulden, die durch Anthropics Leasingzahlungen für die Chips abgesichert sind. Inklusive Gebühren und Abschlägen läge die Rendite für Blackstone über 10 Prozent – deutlich mehr als die rund 7 Prozent, die vergleichbar bewertete Firmen am Anleihemarkt zahlen. Bei einer ähnlichen Finanzierung vor vier Monaten hatte Anthropic noch 8,5 Prozent gezahlt. Der hohe Zins zeigt, dass Geldgeber für die riesigen KI-Investitionen inzwischen deutlich mehr Risikoaufschlag verlangen.",
+      "quelle": "Financial Times",
       "datum_artikel": "2026-10-16",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "Tesla zeigt neuen Roadster – Produktion erst 2028, Preis weiter offen",
-      "text": "Tesla hat am 15. Oktober bei Waco in Texas die Serienversion des zweiten Roadster vorgestellt, fast neun Jahre nach der ersten Präsentation 2017. Gezeigt wurden drei Varianten: Performance und Thrust als Zweisitzer sowie der Einsitzer Rocket, der nur auf Einladung erhältlich und nicht für die Straße zugelassen ist; Tesla verspricht rund 480 Kilometer Reichweite und über 370 km/h Spitze, die Vorführung nutzte mit SpaceX entwickelte Kaltgas-Düsen. Einen Kaufpreis nannte Elon Musk nicht, nur Reservierungsgebühren von 50.000 Dollar (Performance) und 250.000 Dollar (Thrust); gebaut werden soll ab 2028. Die Tesla-Aktie stieg am Freitag vorbörslich um fast 5 Prozent, SpaceX legte mit. Ursprünglich war der Roadster für 2020 zu einem Startpreis von 200.000 Dollar angekündigt, ausgeliefert wurde bis heute kein Fahrzeug.",
-      "quelle": "CNBC",
+      "titel": "Anthropic mietet erstes Rechenzentrum in Kanada – Milliardenprojekt in Nova Scotia",
+      "text": "Anthropic hat seinen ersten Rechenzentrums-Vertrag in Kanada unterschrieben. Der Betreiber EverWind Fuels baut in Point Tupper auf der Kap-Breton-Insel in Nova Scotia einen Rechenzentrums-Campus, dessen erste Ausbaustufe Anthropic für mindestens 20 Jahre mietet. Die erste Phase mit 95 Megawatt Leistung soll Ende 2027 in Betrieb gehen, eine zweite mit weiteren 325 Megawatt 2028 – zusammen 420 Megawatt. EverWind beziffert die Gesamtinvestition auf rund 10 Milliarden kanadische Dollar inklusive Windparks und spricht von der größten privaten Investition in der Geschichte der Provinz. Anthropic sagt zu, die nötigen Netzausbauten selbst zu bezahlen und bestehende Stromkunden vor Preiserhöhungen zu schützen; den Wert des Mietvertrags nannten die Firmen nicht. Die Opposition in Nova Scotia kritisiert, das Projekt werde ohne Beratung und ohne gesetzliche Regeln durchgewinkt.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-10-16",
-      "unternehmen": "Tesla"
+      "unternehmen": "Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis über 110 Dollar verschärft KI-Ausverkauf: Nasdaq mit schwächster Woche seit Juni",
-      "text": "Zum Wochenschluss kam zum Ausverkauf bei KI-Aktien ein Ölpreisschock hinzu: Die Nordseesorte Brent stieg am Freitag erstmals seit Mai über 110 Dollar je Barrel und schloss bei 109,86 Dollar. Die Nasdaq fiel um rund 2,2 Prozent auf 26.138 Punkte, der S&P 500 um 1,1 Prozent auf 7.659 Punkte, der Dow nur um 0,4 Prozent. Der Halbleiterindex der Börse Philadelphia sank um 3,8 Prozent – der achte Verlusttag in Folge, die längste Serie seit 2008, mit zusammen rund 16 Prozent Minus; CoreWeave verlor weitere 13 Prozent und über 26 Prozent auf Wochensicht, der Angstindex VIX stieg erstmals seit vier Monaten über 22. Neu gegenüber den Vortagen ist vor allem die Sorge, dass teures Öl die bereits auf 3,7 Prozent gestiegene Inflation weiter antreibt und damit Zinserhöhungen wahrscheinlicher macht. Nvidia-Chef Jensen Huang versuchte zu beruhigen: Das alles werde vorübergehen, der langfristige Nutzen von KI bleibe.",
-      "quelle": "Bloomberg",
+      "titel": "Intel-Aktie fällt um 5,8 Prozent: TSMC greift Intels Chip-Verpackungsgeschäft an",
+      "text": "Die Intel-Aktie hat am Freitag 5,8 Prozent verloren und bei 89,85 Dollar geschlossen. Auslöser war vor allem eine Aussage von TSMC-Chef C.C. Wei: TSMC werde Kunden unterstützen, die bei Intels fortschrittlicher Chip-Verpackungstechnik EMIB-T nicht genug Kapazität bekommen. Damit tritt TSMC direkt gegen jenes Auftragsfertigungs-Geschäft an, mit dem Intel als Erstes Geld verdienen will – einen konkreten Kundenverlust gibt es bisher aber nicht. Zusätzlich belastete ein breiter Ausverkauf bei Chipwerten: AMD fiel um 5,95 Prozent, Arm um 6,94 Prozent. Außerdem waren bei einer Explosion in Intels Werk in Kiryat Gat in Israel am 14. Oktober zwei Arbeiter ums Leben gekommen; ob die Produktion betroffen ist, hat Intel bislang nicht gesagt. Am 29. Oktober legt Intel seine Quartalszahlen vor.",
+      "quelle": "Yahoo Finance",
       "datum_artikel": "2026-10-16"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Bundestag beschließt höhere Tabaksteuer: Zigarettenschachtel bis 2030 bei rund 11 bis 12 Euro",
-      "text": "Der Bundestag hat am Donnerstagabend mit den Stimmen von CDU, CSU und SPD eine deutliche Erhöhung der Tabaksteuer beschlossen. Die Steuer steigt schrittweise von 2027 bis 2030; eine Schachtel mit 20 Zigaretten, die heute rund 8 Euro kostet, soll je nach Schätzung 2027 etwa 8,80 bis 9,10 Euro und 2030 rund 11,40 bis 11,80 Euro kosten. Für Zigarren, Zigarillos, Pfeifen- und Wasserpfeifentabak gelten die neuen Sätze ab 1. März 2027, Liquids für E-Zigaretten werden ab 2027 mit 38 Cent pro Milliliter besteuert, bis 2030 mit 44 Cent. Die Koalition hatte die Sätze per Änderungsantrag noch über den Regierungsentwurf hinaus angehoben; der Staat rechnet für 2027 bis 2030 mit insgesamt rund 11,7 Milliarden Euro Mehreinnahmen. Der Branchenverband der Tabakindustrie warnt vor mehr Schwarzmarkt. Abschließend muss sich noch der Bundesrat damit befassen, ein Einspruch gilt aber als unwahrscheinlich.",
-      "quelle": "ZDF",
+      "titel": "Trump setzt vom Kongress beschlossene Russland-Sanktionen per Erlass außer Kraft",
+      "text": "Präsident Donald Trump hat am Freitag per Dekret (Executive Order) die neuen Russland-Sanktionen ausgesetzt, die der Kongress im Graham-Gesetz beschlossen hatte – zwei Tage bevor sie in Kraft treten sollten. Trump hatte das Gesetz am 18. September selbst unterschrieben. Ausgesetzt werden unter anderem Zölle von bis zu 500 Prozent auf russische Waren, Zölle von bis zu 100 Prozent auf große Käufer russischen Rohöls und Sanktionen gegen ausländische Banken, die mit russischen Staatsbanken Geschäfte machen. Trump begründete den Schritt mit dem nationalen Interesse der USA. Eine Woche zuvor hatte das Finanzministerium bereits den Import von russischem Diesel bis April erlaubt, um die gestiegenen Spritpreise zu senken. Der ukrainische Präsident Selenskyj warf Trump vor, Putin zu belohnen; der republikanische Senator Thom Tillis sagte, man könne argumentieren, dass der Präsident sich nicht an das Gesetz halte. Ältere Russland-Sanktionen aus früheren Erlassen bleiben bestehen.",
+      "quelle": "NBC News",
       "datum_artikel": "2026-10-16",
+      "land": "USA"
+    },
+    {
+      "titel": "Merz bei der Jungen Union: Rentenreform soll noch dieses Jahr ins Kabinett",
+      "text": "Bundeskanzler Friedrich Merz (CDU) hat beim Deutschlandtag der Jungen Union in Bonn am Samstag die Rentenreform als überfällig bezeichnet. Er will die Vorschläge der Rentenkommission so umsetzen, wie sie vorliegen – einschließlich des umstrittenen Endes der abschlagsfreien Rente nach 45 Beitragsjahren. Laut Handelsblatt strebt er einen Kabinettsbeschluss noch in diesem Jahr an, die erste Lesung im Bundestag vor dem Jahreswechsel und die Verabschiedung Anfang nächsten Jahres. Damit widerspricht Merz dem neuen Arbeitsminister Alexander Schweitzer (SPD), der die Rente nach 45 Beitragsjahren grundsätzlich erhalten will, auf den Koalitionsvertrag verweist und auf einen guten Kompromiss setzt. Merz warnte die SPD, es gebe Grenzen dessen, was er in der Koalition mittrage. Anders als im Vorjahr verlief der Auftritt weitgehend ohne offenen Streit; ein Delegierter forderte allerdings Merz' Rücktritt.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-10-17",
       "land": "Deutschland"
     },
     {
-      "titel": "Frühstartrente beschlossen: 10 Euro im Monat vom Staat für jedes Schulkind",
-      "text": "Der Bundestag hat am Freitag die sogenannte Frühstartrente beschlossen. Der Staat zahlt künftig für jedes Kind zwischen 6 und 18 Jahren mit Hauptwohnsitz in Deutschland 10 Euro im Monat in ein Depot zur privaten Altersvorsorge ein, über die gesamte Zeit also bis zu 1.440 Euro plus Erträge. Das Gesetz soll am 1. Januar 2027 in Kraft treten; für den Geburtsjahrgang 2020 fließt das Geld rückwirkend ab 2026. Ausgezahlt wird das angesparte Geld frühestens mit 65 Jahren. Die Bundesregierung will damit Kinder früh an den Kapitalmarkt heranführen und die private Vorsorge stärken. Als Nächstes muss der Bundesrat zustimmen.",
-      "quelle": "dpa",
-      "datum_artikel": "2026-10-16",
-      "land": "Deutschland"
-    },
-    {
-      "titel": "Nach nur fünf Tagen: Pressesprecherin Katie Zacharia verlässt das Weiße Haus",
-      "text": "Katie Zacharia ist nach nur fünf Tagen nicht mehr Pressesprecherin des Weißen Hauses. Zwei hochrangige Regierungsvertreter bestätigten am Freitag den Abgang; offiziell hieß es, sie sei im Übergang aus der Rolle, ein Nachfolger soll später benannt werden. Zacharia war erst vergangene Woche als Nachfolgerin von Karoline Leavitt vorgestellt worden, die Ende August ausgeschieden war. Ihre erste Pressekonferenz am Dienstag stieß auf Kritik, weil sie nur Fragen von Breitbart, Fox News und der Daily Mail zuließ; zudem wurde bekannt, dass sie die Anwaltsprüfung nicht bestanden hatte, obwohl sie als Juristin aufgetreten war. Präsident Trump sagte, er habe ihr gesagt: 'Wenn ich du wäre, würde ich es mir noch einmal überlegen.' Es ist die kürzeste Amtszeit eines Pressesprechers der jüngeren US-Geschichte – und das gut zwei Wochen vor den Zwischenwahlen am 3. November.",
-      "quelle": "Axios",
-      "datum_artikel": "2026-10-16",
+      "titel": "Trumps Wahlbetrugs-Taskforce nimmt statt Betrug frühere Ermittler gegen ihn ins Visier",
+      "text": "Die vom Weißen Haus eingesetzte Taskforce gegen Wahlbetrug hat laut Washington Post bislang keinen Wahlbetrug nachgewiesen. Stattdessen veröffentlicht sie Akten aus früheren Ermittlungen gegen Trump, etwa aus der Russland-Untersuchung von Sonderermittler Robert Mueller, dem Geheimdokumente-Verfahren von Jack Smith und Trumps erstem Amtsenthebungsverfahren. Trump-Verbündete sehen darin Belege für ein laufendes Verfahren in Florida, das den früheren Ermittlern eine Verschwörung vorwirft; dieses Verfahren ist durch mehrere Rücktritte im Anklageteam geschwächt. Rechtsexperten und frühere Ermittler sagten der Zeitung, die Akten zeigten normales, gerichtlich genehmigtes Vorgehen. Taskforce-Leiter John Solomon erklärt, seine Gruppe arbeite unabhängig und stimme sich nicht mit den Staatsanwälten in Florida ab.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-10-17",
       "land": "USA"
     }
   ]
