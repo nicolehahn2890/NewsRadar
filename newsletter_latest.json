@@ -1,70 +1,58 @@
 {
-  "datum": "Sonntag, 18. Oktober 2026",
-  "generiert": "2026-10-18",
+  "datum": "Montag, 19. Oktober 2026",
+  "generiert": "2026-10-19",
   "ki_stories": [
     {
-      "titel": "137 Millionen Dollar für KI-Wahlwerbung – 70 Prozent der Spots ohne KI-Hinweis",
-      "text": "Kampagnen und politische Aktionskomitees (PACs) haben im US-Zwischenwahlkampf 2026 bereits mehr als 137 Millionen Dollar für Werbespots ausgegeben, die mit KI erzeugt oder bearbeitet wurden. Das zeigt eine Auswertung der New York Times auf Basis von Daten des Wesleyan Media Project und von AdImpact. Rund 70 Prozent dieser Spots weisen die Zuschauer nicht auf den KI-Einsatz hin, fast die Hälfte zeigt Deepfake-Darstellungen echter Politiker. Laut der Times stammen über 80 Prozent der Spots von republikanischen Kampagnen oder ihnen nahestehenden PACs. Zum Vergleich: Im Wahlzyklus 2024 fanden die Forscher noch weniger als 50.000 Dollar an Ausgaben für KI-Spots. Ein bundesweites Gesetz gibt es nicht; die Bundesstaaten haben einen Flickenteppich eigener Deepfake-Regeln geschaffen, von denen Gerichte einige wegen der Meinungsfreiheit gestoppt haben.",
-      "quelle": "New York Times",
-      "datum_artikel": "2026-10-16"
-    },
-    {
-      "titel": "OpenAI startet ChatGPT Slides: Präsentationen direkt im Chat erstellen und gemeinsam bearbeiten",
-      "text": "OpenAI hat am 16. Oktober die neue Funktion ChatGPT Slides eingeführt. Damit lassen sich Präsentationen direkt in ChatGPT erzeugen und von mehreren Personen gleichzeitig bearbeiten. Die Funktion wird zunächst für zahlende Pro-, Business- und Enterprise-Nutzer im Browser und in der Desktop-App freigeschaltet. Im Browser können die Folien als PowerPoint-Datei (.pptx), als PDF oder nach Google Slides exportiert werden; in der Desktop-App öffnet man sie stattdessen direkt in PowerPoint oder Keynote. OpenAI greift damit Microsoft und Google in deren Kerngeschäft mit Büro-Software an. OpenAI selbst empfiehlt, exportierte Präsentationen vor der Nutzung auf Inhalt und Formatierung zu prüfen.",
-      "quelle": "OpenAI",
-      "datum_artikel": "2026-10-16"
-    },
-    {
-      "titel": "DeepSeek legt verbessertes Modell V4.1-Flash-1017 nach – frei verfügbar",
-      "text": "Der chinesische KI-Entwickler DeepSeek hat am 17. Oktober ein Update seines Modells V4.1-Flash veröffentlicht, das im September erstmals erschienen war. Die neue Version trägt den Namen V4.1-Flash-1017; laut DeepSeeks offiziellem Änderungsprotokoll bleiben API-Name und Preise unverändert. Die Modellgewichte wurden laut DeepSeek auf den Plattformen Hugging Face und ModelScope frei zugänglich gemacht. In einem Beitrag auf X werden deutliche Verbesserungen beim Programmieren und bei Agenten-Aufgaben genannt, etwa beim Test Terminal-Bench von 31,2 auf 42,3 Punkte – unabhängig überprüft sind diese Zahlen noch nicht. Das Update zeigt, wie schnell chinesische Anbieter mit offenen Modellen nachlegen und damit den Preisdruck auf westliche Anbieter hochhalten.",
-      "quelle": "DeepSeek",
-      "datum_artikel": "2026-10-17"
+      "titel": "Meta: Claude-Werkzeug löste Sperre des No-Kings-Kontos auf Instagram aus",
+      "text": "Meta hat am Samstag, 17. Oktober, das Instagram-Hauptkonto der No Kings Coalition für rund 90 Minuten gesperrt – ausgerechnet während des Aktionstags 'No Kings: Vote Early' mit knapp 3.000 Veranstaltungen zur frühen Stimmabgabe. Zunächst begründete Meta das mit ungewöhnlich hohem Aktivitätsvolumen, dann korrigierte Kommunikationschef Andy Stone die Erklärung: Ein Werkzeug auf Basis von Anthropics KI Claude habe Profile, Beiträge und Hashtags in heftigen Schüben mit etwa dem Vierfachen der normalen Rate abgerufen und so das automatische Sicherheitssystem ausgelöst. Eine automatische Überprüfung stellte das Konto nach etwa einer Stunde wieder her, die Verwaltungsrechte kehrten aber erst Stunden später zurück; Meta entschuldigte sich für den Fehler. Offen ist, welches konkrete Tool es war, wer es betrieben hat und ob es überhaupt mit No Kings zu tun hatte – eine Stellungnahme von Anthropic lag zunächst nicht vor. Die Organisatoren und die Gruppe Indivisible weisen die Erklärung zurück: Sie hätten an dem Tag kaum gepostet und fordern eine vollständige Aufklärung, weil eine Einschränkung von Wahlaufrufen mitten im Wahlkampf inakzeptabel sei. Der Fall zeigt, wie KI-Agenten, die massenhaft Webseiten lesen, mit den Schutzsystemen großer Plattformen kollidieren können.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-18"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic bietet Blackstone über 10 Prozent Zins für Milliarden-Kredit zur Chip-Finanzierung",
-      "text": "Anthropic hat dem Finanzinvestor Blackstone laut Financial Times einen Zinssatz (Kupon) von 10 Prozent auf 9 Milliarden Dollar nachrangige Schulden angeboten. Das Geld ist Teil eines rund 60 Milliarden Dollar schweren Finanzierungspakets namens Project North Star, mit dem etwa 1,5 Gigawatt an Googles KI-Chips (TPUs) bezahlt werden sollen. Rund 42 Milliarden Dollar davon sind vorrangige Schulden mit einer Garantie von Broadcom, etwa 18 Milliarden Dollar sind riskantere nachrangige Schulden, die durch Anthropics Leasingzahlungen für die Chips abgesichert sind. Inklusive Gebühren und Abschlägen läge die Rendite für Blackstone über 10 Prozent – deutlich mehr als die rund 7 Prozent, die vergleichbar bewertete Firmen am Anleihemarkt zahlen. Bei einer ähnlichen Finanzierung vor vier Monaten hatte Anthropic noch 8,5 Prozent gezahlt. Der hohe Zins zeigt, dass Geldgeber für die riesigen KI-Investitionen inzwischen deutlich mehr Risikoaufschlag verlangen.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-10-16",
+      "titel": "Anthropic legt mindestens 5 Prozent seiner Aktien in einen Gemeinwohl-Fonds",
+      "text": "Anthropic hat am Sonntag angekündigt, 5 Prozent seiner Aktien in einen neuen Anthropic Public Benefit Fund einzubringen – vorbehaltlich der Zustimmung der Aktionäre. Der Anteil soll mit dem Unternehmen wachsen: Für jede Wertsteigerung um 50 Prozent über einem (nicht genannten) Ausgangswert kann der Verwaltungsrat weitere 2 Prozent hinzufügen. Das Geld soll für große Spenden an gemeinnützige Organisationen, direkte Zahlungen an bestimmte Bevölkerungsgruppen oder für 'kühnere Ansätze' eingesetzt werden, um die Verdrängung von Arbeitsplätzen durch KI zu untersuchen und abzufedern; bisher hatte Anthropic dafür 200 Millionen Dollar zugesagt. Der Fonds wird als hundertprozentige Tochter-GmbH (LLC) und nicht als steuerbefreite Stiftung aufgebaut, seine Anteile dürfen ausdrücklich nicht für Lobbyarbeit oder Parteispenden genutzt werden. Die Ankündigung kommt kurz vor dem erwarteten Börsengang, der Berichten zufolge für November geplant ist; zuletzt hatte Anthropic 16,8 Milliarden Dollar Quartalsumsatz gemeldet. Bei der aktuell gehandelten Bewertung dürfte der Fondsanteil viele Milliarden Dollar wert sein.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-18",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "Anthropic mietet erstes Rechenzentrum in Kanada – Milliardenprojekt in Nova Scotia",
-      "text": "Anthropic hat seinen ersten Rechenzentrums-Vertrag in Kanada unterschrieben. Der Betreiber EverWind Fuels baut in Point Tupper auf der Kap-Breton-Insel in Nova Scotia einen Rechenzentrums-Campus, dessen erste Ausbaustufe Anthropic für mindestens 20 Jahre mietet. Die erste Phase mit 95 Megawatt Leistung soll Ende 2027 in Betrieb gehen, eine zweite mit weiteren 325 Megawatt 2028 – zusammen 420 Megawatt. EverWind beziffert die Gesamtinvestition auf rund 10 Milliarden kanadische Dollar inklusive Windparks und spricht von der größten privaten Investition in der Geschichte der Provinz. Anthropic sagt zu, die nötigen Netzausbauten selbst zu bezahlen und bestehende Stromkunden vor Preiserhöhungen zu schützen; den Wert des Mietvertrags nannten die Firmen nicht. Die Opposition in Nova Scotia kritisiert, das Projekt werde ohne Beratung und ohne gesetzliche Regeln durchgewinkt.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-16",
-      "unternehmen": "Anthropic"
+      "titel": "Microsoft steigt aus britischem Rechenzentrum aus – Nscales Börsengang wackelt",
+      "text": "Microsoft hat laut einem Bericht des Telegraph, den Bloomberg und Reuters am Sonntag aufgriffen, einen Vertrag mit dem KI-Cloud-Anbieter Nscale für ein geplantes Rechenzentrum in Loughton (Essex) gekündigt. Dort sollten rund 23.000 Nvidia-Chips für Microsoft laufen; einen Grund nannte der Bericht nicht, die Behörden haben Nscale aber mitgeteilt, dass ein Stromanschluss erst in den 2030er-Jahren zu erwarten sei. Gleichzeitig berichtet Bloomberg, dass Investoren beim geplanten Börsengang von Nscale Druck machen: Das von Nvidia unterstützte Unternehmen strebt eine Bewertung von rund 30 Milliarden Dollar an und will bis zu 3 Milliarden Dollar an der NYSE (Kürzel NSCL) einsammeln, mehrere Investoren halten aber nur 16 bis 19 Milliarden Dollar für realistisch. Als Gründe gelten der geplatzte Börsengang des australischen Rechenzentrumsbetreibers Firmus und die allgemeine Nervosität um die Finanzierung von KI-Infrastruktur. Brisant: Nscale erzielt laut Börsenprospekt rund 85 Prozent seiner Vertragsvolumen mit Microsoft und Anthropic. Nscale betont, die Beziehung zu Microsoft sei intakt und man wolle das Projekt mit alternativen Stromquellen fortsetzen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-18",
+      "unternehmen": "Microsoft"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Intel-Aktie fällt um 5,8 Prozent: TSMC greift Intels Chip-Verpackungsgeschäft an",
-      "text": "Die Intel-Aktie hat am Freitag 5,8 Prozent verloren und bei 89,85 Dollar geschlossen. Auslöser war vor allem eine Aussage von TSMC-Chef C.C. Wei: TSMC werde Kunden unterstützen, die bei Intels fortschrittlicher Chip-Verpackungstechnik EMIB-T nicht genug Kapazität bekommen. Damit tritt TSMC direkt gegen jenes Auftragsfertigungs-Geschäft an, mit dem Intel als Erstes Geld verdienen will – einen konkreten Kundenverlust gibt es bisher aber nicht. Zusätzlich belastete ein breiter Ausverkauf bei Chipwerten: AMD fiel um 5,95 Prozent, Arm um 6,94 Prozent. Außerdem waren bei einer Explosion in Intels Werk in Kiryat Gat in Israel am 14. Oktober zwei Arbeiter ums Leben gekommen; ob die Produktion betroffen ist, hat Intel bislang nicht gesagt. Am 29. Oktober legt Intel seine Quartalszahlen vor.",
-      "quelle": "Yahoo Finance",
-      "datum_artikel": "2026-10-16"
+      "titel": "Kospi bricht zum Wochenstart um bis zu 3,2 Prozent ein – Samsung und SK Hynix unter Druck",
+      "text": "Südkoreas Leitindex Kospi ist am Montagmorgen um bis zu 3,2 Prozent gefallen und eröffnete bei 5.488 Punkten, bevor er die Verluste auf rund 1,3 Prozent eingrenzte. Die Speicherchip-Riesen Samsung Electronics und SK Hynix verloren zeitweise jeweils mehr als 4 Prozent, der Nebenwerte-Index Kosdaq sogar 3,8 Prozent. Auslöser ist laut Bloomberg eine Mischung aus zwei Sorgen: Das neue, sparsamere DeepSeek-Modell nährt Zweifel an der künftigen Nachfrage nach teurem KI-Speicher, und die Angst um die Finanzierung der riesigen KI-Investitionen hält an. Beide Konzerne hatten bereits in der Vorwoche ihre stärksten Wochenverluste seit der Finanzkrise 2008 verbucht; US-Halbleiterwerte haben in acht Handelstagen in Folge rund 16 Prozent verloren. Privatanleger verkauften am Montag in großem Stil, während ausländische und institutionelle Investoren zukauften. In dieser Woche entscheiden die Quartalszahlen von Netflix (Dienstag), Tesla (Mittwoch) und Meta darüber, ob sich der KI-Handel stabilisiert.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-19"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump setzt vom Kongress beschlossene Russland-Sanktionen per Erlass außer Kraft",
-      "text": "Präsident Donald Trump hat am Freitag per Dekret (Executive Order) die neuen Russland-Sanktionen ausgesetzt, die der Kongress im Graham-Gesetz beschlossen hatte – zwei Tage bevor sie in Kraft treten sollten. Trump hatte das Gesetz am 18. September selbst unterschrieben. Ausgesetzt werden unter anderem Zölle von bis zu 500 Prozent auf russische Waren, Zölle von bis zu 100 Prozent auf große Käufer russischen Rohöls und Sanktionen gegen ausländische Banken, die mit russischen Staatsbanken Geschäfte machen. Trump begründete den Schritt mit dem nationalen Interesse der USA. Eine Woche zuvor hatte das Finanzministerium bereits den Import von russischem Diesel bis April erlaubt, um die gestiegenen Spritpreise zu senken. Der ukrainische Präsident Selenskyj warf Trump vor, Putin zu belohnen; der republikanische Senator Thom Tillis sagte, man könne argumentieren, dass der Präsident sich nicht an das Gesetz halte. Ältere Russland-Sanktionen aus früheren Erlassen bleiben bestehen.",
-      "quelle": "NBC News",
-      "datum_artikel": "2026-10-16",
+      "titel": "Selenskyj wirft Trump vor, die Ukraine zur Kapitulation zu drängen – Putin schlägt Gipfel mit Xi vor",
+      "text": "Der Streit zwischen Washington und Kiew hat sich am Wochenende deutlich verschärft. Nachdem Trump am Freitag vom Kongress beschlossene Russland-Sanktionen per Ausnahmeregel ausgesetzt hatte, griff die Ukraine in der Nacht zum Sonntag mit mehr als 1.000 Drohnen Russland an und traf unter anderem den Ölterminal in St. Petersburg. Trump warf Präsident Selenskyj daraufhin vor, er wolle den Krieg gar nicht beenden, und verteidigte den Kauf russischen Diesels als Mittel, die Gespräche mit Moskau am Laufen zu halten. Selenskyj sagte, Trump dränge die Ukraine zum Nachgeben, und verwies auf gedrosseltes Starlink und verzögerte Patriot-Lieferungen; er bot an, Angriffe auf russische Raffinerien einzustellen, wenn die USA mehr Patriot-Raketen liefern. Zugleich berichtet das Wall Street Journal, Putin habe in einem Telefonat am 9. Oktober einen Gipfel mit Trump und Chinas Präsident Xi Jinping im November vorgeschlagen – ohne Selenskyj. Der Kreml bestätigte Gespräche über ein Treffen, ein hoher US-Beamter sagte, Trump habe noch nicht zugestimmt. Selenskyj will nun per Video mit den Trump-Gesandten Witkoff und Kushner über Ort und Zeitpunkt neuer Verhandlungen sprechen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-18",
       "land": "USA"
     },
     {
-      "titel": "Merz bei der Jungen Union: Rentenreform soll noch dieses Jahr ins Kabinett",
-      "text": "Bundeskanzler Friedrich Merz (CDU) hat beim Deutschlandtag der Jungen Union in Bonn am Samstag die Rentenreform als überfällig bezeichnet. Er will die Vorschläge der Rentenkommission so umsetzen, wie sie vorliegen – einschließlich des umstrittenen Endes der abschlagsfreien Rente nach 45 Beitragsjahren. Laut Handelsblatt strebt er einen Kabinettsbeschluss noch in diesem Jahr an, die erste Lesung im Bundestag vor dem Jahreswechsel und die Verabschiedung Anfang nächsten Jahres. Damit widerspricht Merz dem neuen Arbeitsminister Alexander Schweitzer (SPD), der die Rente nach 45 Beitragsjahren grundsätzlich erhalten will, auf den Koalitionsvertrag verweist und auf einen guten Kompromiss setzt. Merz warnte die SPD, es gebe Grenzen dessen, was er in der Koalition mittrage. Anders als im Vorjahr verlief der Auftritt weitgehend ohne offenen Streit; ein Delegierter forderte allerdings Merz' Rücktritt.",
-      "quelle": "Handelsblatt",
-      "datum_artikel": "2026-10-17",
+      "titel": "Berlin: Linke, Grüne und SPD wollen koalieren – Junge Union und Söder fordern Konsequenzen im Bund",
+      "text": "In Berlin haben Linke, Grüne und SPD am Freitag ihre Sondierungsgespräche abgeschlossen und empfehlen Koalitionsverhandlungen; die Linke war bei der Wahl am 20. September stärkste Kraft geworden. Das Papier sieht unter anderem vor, private Wohnungskonzerne mit mehr als 10.000 Wohnungen in Berlin gegen Entschädigung zu vergesellschaften, gestützt auf Artikel 15 Grundgesetz; betroffen wären laut Linken-Spitzenkandidatin Elif Eralp rund 160.000 Wohnungen, ein Gesetz soll Mitte 2028 ins Abgeordnetenhaus. Mieterhöhungen bei landeseigenen Wohnungsunternehmen sollen auf 2 Prozent pro Jahr begrenzt werden. Grüne und SPD-Landesvorstand entscheiden an diesem Montag über den Start der Verhandlungen, die Linke auf einem Parteitag am 31. Oktober; Verhandlungen könnten Anfang November beginnen. Beim Deutschlandtag der Jungen Union in Bonn beschloss der CDU-Nachwuchs am Sonntag einstimmig, eine solche Landesregierung von Informationen des Bundesamts für Verfassungsschutz und des Bundeskriminalamts abzuschneiden. CSU-Chef Markus Söder stellte sich ausdrücklich dahinter und forderte eine 'Brandmauer nach links'; Eralp verwies dagegen auf mehr parlamentarische Kontrolle des Verfassungsschutzes im Sondierungspapier. Auch in der SPD gibt es Widerstand: 20 SPD-Bundestagsabgeordnete sprachen sich gegen Koalitionsgespräche mit der Berliner Linken aus.",
+      "quelle": "ZDF",
+      "datum_artikel": "2026-10-18",
       "land": "Deutschland"
     },
     {
-      "titel": "Trumps Wahlbetrugs-Taskforce nimmt statt Betrug frühere Ermittler gegen ihn ins Visier",
-      "text": "Die vom Weißen Haus eingesetzte Taskforce gegen Wahlbetrug hat laut Washington Post bislang keinen Wahlbetrug nachgewiesen. Stattdessen veröffentlicht sie Akten aus früheren Ermittlungen gegen Trump, etwa aus der Russland-Untersuchung von Sonderermittler Robert Mueller, dem Geheimdokumente-Verfahren von Jack Smith und Trumps erstem Amtsenthebungsverfahren. Trump-Verbündete sehen darin Belege für ein laufendes Verfahren in Florida, das den früheren Ermittlern eine Verschwörung vorwirft; dieses Verfahren ist durch mehrere Rücktritte im Anklageteam geschwächt. Rechtsexperten und frühere Ermittler sagten der Zeitung, die Akten zeigten normales, gerichtlich genehmigtes Vorgehen. Taskforce-Leiter John Solomon erklärt, seine Gruppe arbeite unabhängig und stimme sich nicht mit den Staatsanwälten in Florida ab.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-17",
+      "titel": "Umfrage vor den Zwischenwahlen: 71 Prozent der Amerikaner sehen ihr Land auf falschem Weg",
+      "text": "Gut zwei Wochen vor den US-Zwischenwahlen am 3. November zeigt eine neue Umfrage des NBC News Decision Desk eine tiefe Unzufriedenheit: 71 Prozent der Erwachsenen in den USA sagen, das Land sei auf dem falschen Weg – der höchste Wert in Trumps zweiter Amtszeit. Der Anteil derer, die Trumps Amtsführung ablehnen, stieg auf 66 Prozent. Auch weitere landesweite Umfragen sehen die Demokraten bei der Frage, welche Partei den Kongress führen soll, klar vorn; Fox News sagt in seinen Prognosen erstmals in diesem Wahlzyklus einen Sieg der Demokraten im Repräsentantenhaus voraus. Im Senat gelten unter anderem Iowa, Maine, Michigan, Ohio, Alaska und Texas als offen. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus und 35 der 100 Senatssitze. Trump tourt derzeit durchs Land, um die Republikaner zu mobilisieren, während steigende Inflation und Ölpreise über 110 Dollar die Stimmung belasten.",
+      "quelle": "NBC News",
+      "datum_artikel": "2026-10-18",
       "land": "USA"
     }
   ]
