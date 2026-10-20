@@ -1,59 +1,58 @@
 {
-  "datum": "Montag, 19. Oktober 2026",
-  "generiert": "2026-10-19",
+  "datum": "Dienstag, 20. Oktober 2026",
+  "generiert": "2026-10-20",
   "ki_stories": [
     {
-      "titel": "Meta: Claude-Werkzeug löste Sperre des No-Kings-Kontos auf Instagram aus",
-      "text": "Meta hat am Samstag, 17. Oktober, das Instagram-Hauptkonto der No Kings Coalition für rund 90 Minuten gesperrt – ausgerechnet während des Aktionstags 'No Kings: Vote Early' mit knapp 3.000 Veranstaltungen zur frühen Stimmabgabe. Zunächst begründete Meta das mit ungewöhnlich hohem Aktivitätsvolumen, dann korrigierte Kommunikationschef Andy Stone die Erklärung: Ein Werkzeug auf Basis von Anthropics KI Claude habe Profile, Beiträge und Hashtags in heftigen Schüben mit etwa dem Vierfachen der normalen Rate abgerufen und so das automatische Sicherheitssystem ausgelöst. Eine automatische Überprüfung stellte das Konto nach etwa einer Stunde wieder her, die Verwaltungsrechte kehrten aber erst Stunden später zurück; Meta entschuldigte sich für den Fehler. Offen ist, welches konkrete Tool es war, wer es betrieben hat und ob es überhaupt mit No Kings zu tun hatte – eine Stellungnahme von Anthropic lag zunächst nicht vor. Die Organisatoren und die Gruppe Indivisible weisen die Erklärung zurück: Sie hätten an dem Tag kaum gepostet und fordern eine vollständige Aufklärung, weil eine Einschränkung von Wahlaufrufen mitten im Wahlkampf inakzeptabel sei. Der Fall zeigt, wie KI-Agenten, die massenhaft Webseiten lesen, mit den Schutzsystemen großer Plattformen kollidieren können.",
+      "titel": "USA verbannen DeepSeek aus allen zivilen Bundesbehörden",
+      "text": "Die Trump-Regierung verbietet den zivilen US-Bundesbehörden, Produkte des chinesischen KI-Entwicklers DeepSeek zu kaufen, und verlangt, dass vorhandene DeepSeek-Software aus ihren IT-Systemen entfernt wird. Die Anordnung des Heimatschutzministeriums (DHS), unterzeichnet von Minister Markwayne Mullin, stützt sich auf ein Lieferketten-Sicherheitsgesetz von 2018 und wurde am Montag öffentlich. Sie gilt ausdrücklich auch für Produkte anderer Anbieter, die auf DeepSeek-Modellen aufbauen. Das DHS begründet den Schritt damit, dass DeepSeek mehrere Angriffswege biete und die Nutzung verwertbare Informationen über US-Bürger und Behörden liefern könnte. Für Privatleute und Unternehmen in den USA ändert sich nichts; bisher hatten nur einzelne Stellen wie NASA, Pentagon und Verkehrsministerium den Chatbot gesperrt. Der Schritt fällt in eine Phase, in der DeepSeeks neueste Modelle die Aktien von Chipherstellern in Asien erneut belasten.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-18"
+      "datum_artikel": "2026-10-19"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic legt mindestens 5 Prozent seiner Aktien in einen Gemeinwohl-Fonds",
-      "text": "Anthropic hat am Sonntag angekündigt, 5 Prozent seiner Aktien in einen neuen Anthropic Public Benefit Fund einzubringen – vorbehaltlich der Zustimmung der Aktionäre. Der Anteil soll mit dem Unternehmen wachsen: Für jede Wertsteigerung um 50 Prozent über einem (nicht genannten) Ausgangswert kann der Verwaltungsrat weitere 2 Prozent hinzufügen. Das Geld soll für große Spenden an gemeinnützige Organisationen, direkte Zahlungen an bestimmte Bevölkerungsgruppen oder für 'kühnere Ansätze' eingesetzt werden, um die Verdrängung von Arbeitsplätzen durch KI zu untersuchen und abzufedern; bisher hatte Anthropic dafür 200 Millionen Dollar zugesagt. Der Fonds wird als hundertprozentige Tochter-GmbH (LLC) und nicht als steuerbefreite Stiftung aufgebaut, seine Anteile dürfen ausdrücklich nicht für Lobbyarbeit oder Parteispenden genutzt werden. Die Ankündigung kommt kurz vor dem erwarteten Börsengang, der Berichten zufolge für November geplant ist; zuletzt hatte Anthropic 16,8 Milliarden Dollar Quartalsumsatz gemeldet. Bei der aktuell gehandelten Bewertung dürfte der Fondsanteil viele Milliarden Dollar wert sein.",
+      "titel": "Nach Microsofts Rückzug: Anthropic verhandelt mit Nscale über zweiten 45-Milliarden-Deal",
+      "text": "Anthropic steht laut Bloomberg in Gesprächen mit dem von Nvidia unterstützten Rechenzentrumsbetreiber Nscale über einen weiteren Rechenleistungs-Vertrag im Wert von fast 45 Milliarden Dollar. Er würde ein zweites Gebäude auf Nscales Monarch-Campus in West Virginia umfassen, mit 460 Megawatt Leistung und Nvidias kommenden Vera-Rubin-Chips. Bereits im August hatte Anthropic dort einen ersten Vertrag in gleicher Größenordnung über sechs Jahre geschlossen; zusätzlich soll Anthropic ein Vorkaufsrecht auf ein geplantes drittes Gebäude haben. Neu ist der Schritt, weil Nscale erst vor wenigen Tagen einen Rückschlag hinnehmen musste: Microsoft war als Ankerkunde eines britischen Nscale-Rechenzentrums ausgestiegen, was den geplanten US-Börsengang des Unternehmens in Frage stellte. Ein Abschluss könnte laut den Berichten innerhalb weniger Tage kommen, die Bedingungen können sich aber noch ändern; beide Firmen lehnten einen Kommentar ab.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-18",
+      "datum_artikel": "2026-10-19",
       "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Microsoft steigt aus britischem Rechenzentrum aus – Nscales Börsengang wackelt",
-      "text": "Microsoft hat laut einem Bericht des Telegraph, den Bloomberg und Reuters am Sonntag aufgriffen, einen Vertrag mit dem KI-Cloud-Anbieter Nscale für ein geplantes Rechenzentrum in Loughton (Essex) gekündigt. Dort sollten rund 23.000 Nvidia-Chips für Microsoft laufen; einen Grund nannte der Bericht nicht, die Behörden haben Nscale aber mitgeteilt, dass ein Stromanschluss erst in den 2030er-Jahren zu erwarten sei. Gleichzeitig berichtet Bloomberg, dass Investoren beim geplanten Börsengang von Nscale Druck machen: Das von Nvidia unterstützte Unternehmen strebt eine Bewertung von rund 30 Milliarden Dollar an und will bis zu 3 Milliarden Dollar an der NYSE (Kürzel NSCL) einsammeln, mehrere Investoren halten aber nur 16 bis 19 Milliarden Dollar für realistisch. Als Gründe gelten der geplatzte Börsengang des australischen Rechenzentrumsbetreibers Firmus und die allgemeine Nervosität um die Finanzierung von KI-Infrastruktur. Brisant: Nscale erzielt laut Börsenprospekt rund 85 Prozent seiner Vertragsvolumen mit Microsoft und Anthropic. Nscale betont, die Beziehung zu Microsoft sei intakt und man wolle das Projekt mit alternativen Stromquellen fortsetzen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-18",
-      "unternehmen": "Microsoft"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Kospi bricht zum Wochenstart um bis zu 3,2 Prozent ein – Samsung und SK Hynix unter Druck",
-      "text": "Südkoreas Leitindex Kospi ist am Montagmorgen um bis zu 3,2 Prozent gefallen und eröffnete bei 5.488 Punkten, bevor er die Verluste auf rund 1,3 Prozent eingrenzte. Die Speicherchip-Riesen Samsung Electronics und SK Hynix verloren zeitweise jeweils mehr als 4 Prozent, der Nebenwerte-Index Kosdaq sogar 3,8 Prozent. Auslöser ist laut Bloomberg eine Mischung aus zwei Sorgen: Das neue, sparsamere DeepSeek-Modell nährt Zweifel an der künftigen Nachfrage nach teurem KI-Speicher, und die Angst um die Finanzierung der riesigen KI-Investitionen hält an. Beide Konzerne hatten bereits in der Vorwoche ihre stärksten Wochenverluste seit der Finanzkrise 2008 verbucht; US-Halbleiterwerte haben in acht Handelstagen in Folge rund 16 Prozent verloren. Privatanleger verkauften am Montag in großem Stil, während ausländische und institutionelle Investoren zukauften. In dieser Woche entscheiden die Quartalszahlen von Netflix (Dienstag), Tesla (Mittwoch) und Meta darüber, ob sich der KI-Handel stabilisiert.",
+      "titel": "SoftBank: Kosten für Kreditausfall-Versicherung auf Vier-Jahres-Hoch",
+      "text": "Die Sorge um die Finanzierung des KI-Booms erreicht SoftBank: Die Prämie für fünfjährige Kreditausfall-Versicherungen (CDS) auf den japanischen Konzern stieg am Dienstag auf 432 Basispunkte, den höchsten Stand seit Anfang November 2022. Anleger begründen das mit dem Finanzierungsdruck durch SoftBanks KI-Wetten und einer möglichen großen Übernahme. Ein großer Teil von SoftBanks Vermögen steckt in Beteiligungen an Arm und OpenAI; zuletzt hatte der Konzern mit 11,1 Milliarden Dollar die weltweit größte Hochzins-Anleihe aller Zeiten begeben. Nachdem in der Vorwoche bereits die Absicherung von CoreWeave-Schulden auf Krisenniveau gestiegen war, trifft der Vertrauensverlust nun einen der größten Geldgeber der Branche. Steigende CDS-Prämien verteuern in der Regel künftige Kredite und gelten als Warnsignal für Anleihe- und Aktienanleger.",
       "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-20"
+    },
+    {
+      "titel": "Cleveland-Cliffs springt um rund 16 Prozent – bestes Quartal seit drei Jahren dank Stahlzöllen",
+      "text": "Die Aktie des US-Stahlkonzerns Cleveland-Cliffs ist am Montag um rund 16 Prozent auf etwa 14 Dollar gestiegen, nachdem das Unternehmen überraschend starke Zahlen für das dritte Quartal vorgelegt hatte. Das bereinigte operative Ergebnis (EBITDA) lag bei 612 Millionen Dollar und damit über der eigenen Prognose von 575 Millionen; der Umsatz von rund 5,6 Milliarden Dollar verfehlte die Erwartungen dagegen leicht. Für das vierte Quartal stellt der Konzern rund 715 Millionen Dollar EBITDA in Aussicht, für 2027 mehr als 4 Milliarden. Das Management führt die Erholung auf die US-Stahlzölle zurück: Die Importe lägen 35 bis 40 Prozent unter dem Niveau vor Einführung der Zölle. Auch die Konkurrenten Nucor und Steel Dynamics legten zu, während Cleveland-Cliffs in Kanada wegen Überangebots Verzinkungsanlagen auf unbestimmte Zeit stilllegt.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-10-19"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Selenskyj wirft Trump vor, die Ukraine zur Kapitulation zu drängen – Putin schlägt Gipfel mit Xi vor",
-      "text": "Der Streit zwischen Washington und Kiew hat sich am Wochenende deutlich verschärft. Nachdem Trump am Freitag vom Kongress beschlossene Russland-Sanktionen per Ausnahmeregel ausgesetzt hatte, griff die Ukraine in der Nacht zum Sonntag mit mehr als 1.000 Drohnen Russland an und traf unter anderem den Ölterminal in St. Petersburg. Trump warf Präsident Selenskyj daraufhin vor, er wolle den Krieg gar nicht beenden, und verteidigte den Kauf russischen Diesels als Mittel, die Gespräche mit Moskau am Laufen zu halten. Selenskyj sagte, Trump dränge die Ukraine zum Nachgeben, und verwies auf gedrosseltes Starlink und verzögerte Patriot-Lieferungen; er bot an, Angriffe auf russische Raffinerien einzustellen, wenn die USA mehr Patriot-Raketen liefern. Zugleich berichtet das Wall Street Journal, Putin habe in einem Telefonat am 9. Oktober einen Gipfel mit Trump und Chinas Präsident Xi Jinping im November vorgeschlagen – ohne Selenskyj. Der Kreml bestätigte Gespräche über ein Treffen, ein hoher US-Beamter sagte, Trump habe noch nicht zugestimmt. Selenskyj will nun per Video mit den Trump-Gesandten Witkoff und Kushner über Ort und Zeitpunkt neuer Verhandlungen sprechen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-18",
+      "titel": "Trump droht Europa mit Rückzug der USA – wegen fehlender Hilfe im Iran-Krieg",
+      "text": "US-Präsident Donald Trump hat am Montag auf seiner Plattform Truth Social und bei einem Wahlkampfauftritt in Kansas damit gedroht, dass die USA Europa den Rücken kehren könnten. Er stehe zu Europa, schrieb Trump, doch wenn der Kontinent nicht bald wieder auf Kurs komme, bleibe den USA keine Wahl, als zu gehen. Die NATO nannte er dabei nicht ausdrücklich, kritisierte aber, dass die europäischen Verbündeten die USA zu Beginn des Iran-Kriegs nicht unterstützt hätten; das sei ein Test gewesen, den man nicht vergessen könne. Zudem griff er die Migrationspolitik in Europa, besonders in Frankreich, scharf an. Am selben Tag sagte Trump, die USA könnten den Iran-Krieg jetzt verlassen, Iran werde keine Atomwaffe bekommen. Ähnliche Drohungen hatte Trump bereits rund um den NATO-Gipfel im Juli geäußert; konkrete Schritte für einen Abzug wurden bisher nicht angekündigt.",
+      "quelle": "Iran International",
+      "datum_artikel": "2026-10-19",
       "land": "USA"
     },
     {
-      "titel": "Berlin: Linke, Grüne und SPD wollen koalieren – Junge Union und Söder fordern Konsequenzen im Bund",
-      "text": "In Berlin haben Linke, Grüne und SPD am Freitag ihre Sondierungsgespräche abgeschlossen und empfehlen Koalitionsverhandlungen; die Linke war bei der Wahl am 20. September stärkste Kraft geworden. Das Papier sieht unter anderem vor, private Wohnungskonzerne mit mehr als 10.000 Wohnungen in Berlin gegen Entschädigung zu vergesellschaften, gestützt auf Artikel 15 Grundgesetz; betroffen wären laut Linken-Spitzenkandidatin Elif Eralp rund 160.000 Wohnungen, ein Gesetz soll Mitte 2028 ins Abgeordnetenhaus. Mieterhöhungen bei landeseigenen Wohnungsunternehmen sollen auf 2 Prozent pro Jahr begrenzt werden. Grüne und SPD-Landesvorstand entscheiden an diesem Montag über den Start der Verhandlungen, die Linke auf einem Parteitag am 31. Oktober; Verhandlungen könnten Anfang November beginnen. Beim Deutschlandtag der Jungen Union in Bonn beschloss der CDU-Nachwuchs am Sonntag einstimmig, eine solche Landesregierung von Informationen des Bundesamts für Verfassungsschutz und des Bundeskriminalamts abzuschneiden. CSU-Chef Markus Söder stellte sich ausdrücklich dahinter und forderte eine 'Brandmauer nach links'; Eralp verwies dagegen auf mehr parlamentarische Kontrolle des Verfassungsschutzes im Sondierungspapier. Auch in der SPD gibt es Widerstand: 20 SPD-Bundestagsabgeordnete sprachen sich gegen Koalitionsgespräche mit der Berliner Linken aus.",
-      "quelle": "ZDF",
-      "datum_artikel": "2026-10-18",
+      "titel": "Verteidigungsminister Hegseth überraschend bei Netanjahu – USA und Israel beraten über neue Iran-Angriffe",
+      "text": "US-Verteidigungsminister Pete Hegseth hat sich am Montag bei einem nicht angekündigten Besuch in Israel mit Premierminister Benjamin Netanjahu getroffen, wie Reuters unter Berufung auf einen Bericht von Axios meldet. Hintergrund sind Gespräche beider Länder über eine mögliche Wiederaufnahme größerer Kampfhandlungen gegen Iran, darunter ein gemeinsamer Einsatz gegen Atomanlagen und Militärstandorte. Präsident Trump hat einen solchen Einsatz bislang nicht genehmigt. Der Besuch fällt in die Woche vor der israelischen Parlamentswahl, einen Tag nachdem Trump Netanjahu öffentlich seine Unterstützung für die Wahl ausgesprochen hatte. Inhalte des Treffens wurden nicht bekannt; das Pentagon und Israels Botschaft in Washington äußerten sich zunächst nicht.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-19",
+      "land": "USA"
+    },
+    {
+      "titel": "Investitionsgipfel in Berlin: Merz wirbt um Kapital – Regierung schließt KI-Pakt mit Nvidia",
+      "text": "Bundeskanzler Friedrich Merz (CDU) hat am Montagabend in Berlin den Gipfel 'Invest in Germany' eröffnet, zu dem rund 200 Konzernchefs aus dem In- und Ausland erwartet wurden; am Dienstag folgt der Hauptkonferenztag. Merz rief die deutsche Wirtschaft auf, sich stärker der Künstlichen Intelligenz zu öffnen, und warb mit dem Satz, Deutschland sei offen für Investitionen und bereit, schneller zu wachsen. Das Forschungsministerium unterzeichnete eine gemeinsame Absichtserklärung mit dem US-Chipkonzern Nvidia, die Industriedaten für KI-Anwendungen besser nutzbar machen soll. Nvidia-Chef Jensen Huang, Stargast des Gipfels, hatte Deutschland zuvor einen deutlichen technologischen Rückstand attestiert und warnte auf der Bühne davor, deutsches Know-how herzugeben. Laut CNBC nannte Nvidia zudem vier deutsche Start-ups als Beteiligungsziele, darunter Agile Robots, als Teil seiner Investitionen von knapp 10 Milliarden Dollar in Europa. Der Gipfel soll private Investitionen anlocken, nachdem Merz nach mehreren Landtagswahl-Niederlagen unter Druck steht, Wachstum und Sozialreformen zu liefern.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-19",
       "land": "Deutschland"
-    },
-    {
-      "titel": "Umfrage vor den Zwischenwahlen: 71 Prozent der Amerikaner sehen ihr Land auf falschem Weg",
-      "text": "Gut zwei Wochen vor den US-Zwischenwahlen am 3. November zeigt eine neue Umfrage des NBC News Decision Desk eine tiefe Unzufriedenheit: 71 Prozent der Erwachsenen in den USA sagen, das Land sei auf dem falschen Weg – der höchste Wert in Trumps zweiter Amtszeit. Der Anteil derer, die Trumps Amtsführung ablehnen, stieg auf 66 Prozent. Auch weitere landesweite Umfragen sehen die Demokraten bei der Frage, welche Partei den Kongress führen soll, klar vorn; Fox News sagt in seinen Prognosen erstmals in diesem Wahlzyklus einen Sieg der Demokraten im Repräsentantenhaus voraus. Im Senat gelten unter anderem Iowa, Maine, Michigan, Ohio, Alaska und Texas als offen. Zur Wahl stehen alle 435 Sitze im Repräsentantenhaus und 35 der 100 Senatssitze. Trump tourt derzeit durchs Land, um die Republikaner zu mobilisieren, während steigende Inflation und Ölpreise über 110 Dollar die Stimmung belasten.",
-      "quelle": "NBC News",
-      "datum_artikel": "2026-10-18",
-      "land": "USA"
     }
   ]
 }
