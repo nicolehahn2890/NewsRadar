@@ -1,57 +1,96 @@
 {
-  "datum": "Dienstag, 20. Oktober 2026",
-  "generiert": "2026-10-20",
+  "datum": "Mittwoch, 21. Oktober 2026",
+  "generiert": "2026-10-21",
   "ki_stories": [
     {
-      "titel": "USA verbannen DeepSeek aus allen zivilen Bundesbehörden",
-      "text": "Die Trump-Regierung verbietet den zivilen US-Bundesbehörden, Produkte des chinesischen KI-Entwicklers DeepSeek zu kaufen, und verlangt, dass vorhandene DeepSeek-Software aus ihren IT-Systemen entfernt wird. Die Anordnung des Heimatschutzministeriums (DHS), unterzeichnet von Minister Markwayne Mullin, stützt sich auf ein Lieferketten-Sicherheitsgesetz von 2018 und wurde am Montag öffentlich. Sie gilt ausdrücklich auch für Produkte anderer Anbieter, die auf DeepSeek-Modellen aufbauen. Das DHS begründet den Schritt damit, dass DeepSeek mehrere Angriffswege biete und die Nutzung verwertbare Informationen über US-Bürger und Behörden liefern könnte. Für Privatleute und Unternehmen in den USA ändert sich nichts; bisher hatten nur einzelne Stellen wie NASA, Pentagon und Verkehrsministerium den Chatbot gesperrt. Der Schritt fällt in eine Phase, in der DeepSeeks neueste Modelle die Aktien von Chipherstellern in Asien erneut belasten.",
-      "quelle": "Bloomberg",
+      "titel": "Google-KI-Geheimnisse gestohlen: USA verhängen Sanktionen gegen fünf chinesische Firmen",
+      "text": "Das US-Außenministerium hat am 19. Oktober fünf chinesische Unternehmen mit Sanktionen belegt, die mit dem früheren Google-Ingenieur Linwei Ding in Verbindung stehen. Ding war im Januar 2026 von einer US-Jury in sieben Fällen wegen Diebstahls von Geschäftsgeheimnissen zu Googles KI-Infrastruktur verurteilt worden. Betroffen sind unter anderem Shanghai Zhisuan Technology, die Ding 2023 gegründet hatte, sowie der Investor MiraclePlus (Qiji Chuangtan) und drei mit ihm verbundene Fonds. Ihre Vermögen in den USA werden eingefroren, US-Personen und -Firmen dürfen keine Geschäfte mehr mit ihnen machen. Laut Außenministerium hatte Ding damit geworben, seine Firma könne Googles Supercomputer-Technik für KI nachbauen. China kritisierte die Sanktionen am Dienstag scharf und kündigte nicht näher genannte Gegenmaßnahmen an. Es ist bereits der zweite KI-Schlag Washingtons gegen China innerhalb weniger Tage, nach dem Verbot von DeepSeek in Bundesbehörden.",
+      "quelle": "Washington Times",
+      "datum_artikel": "2026-10-20"
+    },
+    {
+      "titel": "S&P warnt: Tech-Riesen haben vermutlich mehr versteckte KI-Schulden als bekannt",
+      "text": "Die Ratingagentur S&P Global geht davon aus, dass die großen Cloud-Konzerne mehr finanzielle Verpflichtungen rund um KI tragen, als sie offenlegen. Mark Habib, bei S&P zuständig für digitale Infrastruktur, verweist auf ein verflochtenes Finanzierungsgeflecht: Die Konzerne bürgen etwa für den Bau von Rechenzentren oder für Verpflichtungen kleinerer KI-Firmen, ohne dass dies vollständig in ihren Bilanzen auftaucht. Gemeint sind vor allem Amazon, Microsoft und Alphabet. Die sechs größten US-Hyperscaler (Amazon, Microsoft, Alphabet, Oracle, Meta, SpaceX) dürften zwischen 2025 und 2030 zusammen mehr als 7 Billionen Dollar in Rechenzentren und KI stecken. Eine Herabstufung der Kreditwürdigkeit hält S&P derzeit aber nicht für nötig. Die Warnung kommt zu einer Zeit, in der Anleihen von KI-Infrastruktur-Firmen wie CoreWeave bereits deutlich unter Druck stehen.",
+      "quelle": "BusinessDay",
+      "datum_artikel": "2026-10-19"
+    },
+    {
+      "titel": "KI-Chip-Startup Tenstorrent sammelt 1,5 Milliarden Dollar ein – Bewertung verdoppelt",
+      "text": "Tenstorrent, das KI-Chip-Unternehmen des bekannten Chipdesigners Jim Keller aus Santa Clara, hat am 19. Oktober eine Finanzierungsrunde über 1,5 Milliarden Dollar abgeschlossen. Das Unternehmen wird damit mit 6,2 Milliarden Dollar bewertet, gut doppelt so hoch wie bei der letzten Runde 2024 (rund 2,6 Milliarden). Angeführt wurde die Runde von Trace Capital und Innovation X, beteiligt sind unter anderem ARK Invest, Fidelity, T. Rowe Price und Morgan Stanley. Das Geld soll in die Massenfertigung der Galaxy-Server, neue Chip-Generationen und die offene RISC-V-Technik fließen. Laut Bloomberg hatte Tenstorrent Anfang 2026 Übernahmegespräche mit Intel und Qualcomm geführt; Keller entschied sich aber, eigenständig zu bleiben. Tenstorrent gilt als einer der Herausforderer von NVIDIA mit einer günstigeren, offenen Alternative.",
+      "quelle": "SiliconANGLE",
       "datum_artikel": "2026-10-19"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Nach Microsofts Rückzug: Anthropic verhandelt mit Nscale über zweiten 45-Milliarden-Deal",
-      "text": "Anthropic steht laut Bloomberg in Gesprächen mit dem von Nvidia unterstützten Rechenzentrumsbetreiber Nscale über einen weiteren Rechenleistungs-Vertrag im Wert von fast 45 Milliarden Dollar. Er würde ein zweites Gebäude auf Nscales Monarch-Campus in West Virginia umfassen, mit 460 Megawatt Leistung und Nvidias kommenden Vera-Rubin-Chips. Bereits im August hatte Anthropic dort einen ersten Vertrag in gleicher Größenordnung über sechs Jahre geschlossen; zusätzlich soll Anthropic ein Vorkaufsrecht auf ein geplantes drittes Gebäude haben. Neu ist der Schritt, weil Nscale erst vor wenigen Tagen einen Rückschlag hinnehmen musste: Microsoft war als Ankerkunde eines britischen Nscale-Rechenzentrums ausgestiegen, was den geplanten US-Börsengang des Unternehmens in Frage stellte. Ein Abschluss könnte laut den Berichten innerhalb weniger Tage kommen, die Bedingungen können sich aber noch ändern; beide Firmen lehnten einen Kommentar ab.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-19",
+      "titel": "Anthropics Börsenprospekt: 16,3 Mrd. Dollar Umsatz, aber 80,7 Mrd. Dollar Verlust im Halbjahr",
+      "text": "Das Wall Street Journal hat einen Entwurf von Anthropics Börsenprospekt (S-1) eingesehen, der erstmals Halbjahreszahlen offenlegt. Demnach machte Anthropic im ersten Halbjahr 2026 rund 16,3 Milliarden Dollar Umsatz, nach 1,1 Milliarden ein Jahr zuvor. Gleichzeitig steht ein Nettoverlust von 80,7 Milliarden Dollar in den Büchern, wovon allerdings rund 72 Milliarden auf buchhalterische Effekte aus Wandelanleihen und anderen Finanzierungen entfallen, also nicht als echtes Geld abgeflossen sind. Als Risiko nennt der Entwurf, dass rund ein Fünftel des Umsatzes von nur zwei Kunden stammt. Die Ausgaben für Rechenleistung lagen im Halbjahr bei fast 9 Milliarden Dollar, mehr als im gesamten Jahr 2025. Neu gegenüber der Vorwoche, als Anthropic Investoren 16,8 Milliarden Dollar Quartalsumsatz präsentiert hatte: Jetzt liegen erstmals Verlust- und Risikoangaben aus dem offiziellen Prospekt vor. Der Börsengang ist für Mitte November geplant; Anthropic wollte sich nicht äußern.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-10-20",
       "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "OpenAI will Milliarden-Finanzierung noch vor Anthropics Börsengang abschließen",
+      "text": "OpenAI drückt bei seiner neuen Finanzierungsrunde aufs Tempo, wie Reuters exklusiv unter Berufung auf zwei Insider berichtet. Das Unternehmen will Zusagen über rund 30 Milliarden Dollar einsammeln, bevor Anthropic Mitte November an die Börse geht – die Bewertung könnte dabei über 1,4 Billionen Dollar liegen. Bestehende Geldgeber wie SoftBank und der Staatsfonds MGX aus Abu Dhabi sind im Gespräch. Hintergrund: Beide KI-Firmen werben um dieselben Investoren, und OpenAI will deren Geld sichern, bevor Anthropic im Börsenprospekt mehr Zahlen offenlegt. Laut einem Insider hat OpenAI Investoren einen Jahresumsatz von 50 Milliarden Dollar gemeldet und erwartet 70 Milliarden bis Jahresende. Zuletzt war OpenAI im März nach einer 122-Milliarden-Runde mit 852 Milliarden Dollar bewertet worden; die neuen Konditionen sind noch nicht final.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-20",
+      "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "ByteDance, Alibaba und Tencent bestellen NVIDIA-Chips für über 35 Milliarden Dollar",
+      "text": "Die chinesischen Tech-Konzerne ByteDance, Alibaba und Tencent haben laut Reuters zusammen mehr als 3 Millionen Grafikkarten vom Typ NVIDIA RTX PRO 5500 bestellt – Listenpreis über 35 Milliarden Dollar, rund 11.400 Dollar pro Stück. Der Chip ist zwar schwächer als NVIDIAs Spitzenmodelle, gehört aber zu den stärksten, die unter den US-Exportregeln nach China verkauft werden dürfen. Insgesamt sollen chinesische Bestellungen sogar über 6 Millionen Stück liegen. NVIDIA hat Partnern laut einem Insider signalisiert, womöglich nur 5 bis 10 Prozent der gewünschten Mengen liefern zu können, und 2027 weltweit höchstens 3 Millionen dieser Karten zu produzieren. Neu gegenüber Berichten der Vorwoche über den Kauf von Gaming-Chips: Jetzt geht es um konkrete Großbestellungen der drei größten chinesischen Tech-Konzerne für Profi-Karten. Der Run zeigt, wie groß Chinas Hunger nach KI-Rechenleistung trotz der US-Beschränkungen ist.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-10-20",
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "Stromausfall legt Google Cloud in London lahm – Banken wie HSBC und Revolut betroffen",
+      "text": "Ein Stromproblem in einem Google-Rechenzentrum in London hat am Dienstag stundenlang zahlreiche Dienste in Großbritannien und Europa gestört. Betroffen war eine von drei Zonen der Londoner Google-Cloud-Region; die Störung begann gegen 8 Uhr mitteleuropäischer Zeit. Ausgefallen oder gestört waren unter anderem die Banken Lloyds, HSBC und Revolut, die Post Royal Mail, der Paketdienst DPD und der Telekomkonzern BT. Revolut betonte, Geld und Daten der Kunden seien sicher. Laut Bloomberg war das Problem für die meisten Kunden bis zum frühen Nachmittag behoben, einige wenige waren aber weiter betroffen. Google kündigte eine interne Untersuchung an. Der Vorfall zeigt erneut, wie stark Banken und Behörden inzwischen von wenigen Cloud-Anbietern abhängen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-20",
+      "unternehmen": "Google / Alphabet"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "SoftBank: Kosten für Kreditausfall-Versicherung auf Vier-Jahres-Hoch",
-      "text": "Die Sorge um die Finanzierung des KI-Booms erreicht SoftBank: Die Prämie für fünfjährige Kreditausfall-Versicherungen (CDS) auf den japanischen Konzern stieg am Dienstag auf 432 Basispunkte, den höchsten Stand seit Anfang November 2022. Anleger begründen das mit dem Finanzierungsdruck durch SoftBanks KI-Wetten und einer möglichen großen Übernahme. Ein großer Teil von SoftBanks Vermögen steckt in Beteiligungen an Arm und OpenAI; zuletzt hatte der Konzern mit 11,1 Milliarden Dollar die weltweit größte Hochzins-Anleihe aller Zeiten begeben. Nachdem in der Vorwoche bereits die Absicherung von CoreWeave-Schulden auf Krisenniveau gestiegen war, trifft der Vertrauensverlust nun einen der größten Geldgeber der Branche. Steigende CDS-Prämien verteuern in der Regel künftige Kredite und gelten als Warnsignal für Anleihe- und Aktienanleger.",
-      "quelle": "Bloomberg",
+      "titel": "Braze-Aktie springt um 51 Prozent: Salesforce kauft Marketing-Plattform für 5,66 Mrd. Dollar",
+      "text": "Salesforce übernimmt die Marketing-Software-Firma Braze für rund 5,66 Milliarden Dollar. Braze-Aktionäre erhalten 47,50 Dollar pro Aktie in bar – ein Aufschlag von rund 58 Prozent auf den Schlusskurs vom Vortag (30,04 Dollar). Die Braze-Aktie (BRZE) schoss daraufhin um mehr als 51 Prozent auf 45,57 Dollar nach oben. Salesforce will Braze, mit dessen Software Firmen Kunden per App, E-Mail und Push-Nachricht ansprechen, in seine Marketing Cloud und die KI-Agenten-Plattform Agentforce einbauen. Es ist die größte Marketing-Übernahme von Salesforce seit ExactTarget 2013 und folgt auf den Kauf der KI-Kundenservice-Firma Fin für 3,6 Milliarden Dollar Anfang des Jahres. Abgeschlossen werden soll der Deal im Geschäftsjahr 2028; Braze-Aktionäre und Behörden müssen noch zustimmen.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-10-20"
     },
     {
-      "titel": "Cleveland-Cliffs springt um rund 16 Prozent – bestes Quartal seit drei Jahren dank Stahlzöllen",
-      "text": "Die Aktie des US-Stahlkonzerns Cleveland-Cliffs ist am Montag um rund 16 Prozent auf etwa 14 Dollar gestiegen, nachdem das Unternehmen überraschend starke Zahlen für das dritte Quartal vorgelegt hatte. Das bereinigte operative Ergebnis (EBITDA) lag bei 612 Millionen Dollar und damit über der eigenen Prognose von 575 Millionen; der Umsatz von rund 5,6 Milliarden Dollar verfehlte die Erwartungen dagegen leicht. Für das vierte Quartal stellt der Konzern rund 715 Millionen Dollar EBITDA in Aussicht, für 2027 mehr als 4 Milliarden. Das Management führt die Erholung auf die US-Stahlzölle zurück: Die Importe lägen 35 bis 40 Prozent unter dem Niveau vor Einführung der Zölle. Auch die Konkurrenten Nucor und Steel Dynamics legten zu, während Cleveland-Cliffs in Kanada wegen Überangebots Verzinkungsanlagen auf unbestimmte Zeit stilllegt.",
+      "titel": "GM-Aktie fällt rund 7 Prozent – trotz besserer Zahlen und 20-Milliarden-Rückkauf",
+      "text": "General Motors hat im dritten Quartal mit 3,70 Dollar Gewinn je Aktie die Erwartungen der Analysten (3,63 Dollar) übertroffen. Trotzdem fiel die Aktie am Dienstag um bis zu rund 7 Prozent. Grund ist die Jahresprognose: GM engte die Spanne für den bereinigten Gewinn je Aktie auf 12,75 bis 13,75 Dollar ein – die Mitte (13,25 Dollar) liegt unter den 13,41 Dollar, die Analysten erwartet hatten. Zudem rechnet GM mit rund 2 Milliarden Dollar Mehrkosten durch teurere Rohstoffe, Logistik und Computerchips, am oberen Ende der bisherigen Schätzung. Positiv: Der Verwaltungsrat genehmigte ein mehrjähriges Aktienrückkaufprogramm über 20 Milliarden Dollar, und der erwartete freie Mittelzufluss wurde angehoben. Auch Ford-Aktien gaben im Sog nach.",
       "quelle": "CNBC",
-      "datum_artikel": "2026-10-19"
+      "datum_artikel": "2026-10-20"
+    },
+    {
+      "titel": "Netflix verfehlt Werbeziel – Aktie fällt nachbörslich um bis zu 6 Prozent",
+      "text": "Netflix hat am Dienstagabend Quartalszahlen vorgelegt und die Anleger enttäuscht. Der Gewinn je Aktie lag mit 87 Cent zwar über den erwarteten 82 Cent, der Umsatz stieg um rund 12 Prozent. Doch der Streamingdienst senkte sein Ziel für Werbeeinnahmen 2026 auf 2,7 Milliarden Dollar, nachdem zuvor 3 Milliarden angepeilt waren. Auch die Umsatzprognose für das vierte Quartal (13,44 Milliarden Dollar) blieb leicht unter den Analystenerwartungen von 13,51 Milliarden. Die Aktie verlor nachbörslich zwischen 4 und knapp 6 Prozent und notiert nahe dem tiefsten Stand seit einem Jahr; seit Jahresbeginn hat sie bereits rund 26 Prozent verloren. Erst vergangene Woche hatte Netflix die größten Stellenstreichungen seit 2022 verkündet und Top-Manager wie Inhaltechefin Bela Bajaria abgelöst.",
+      "quelle": "Variety",
+      "datum_artikel": "2026-10-20"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump droht Europa mit Rückzug der USA – wegen fehlender Hilfe im Iran-Krieg",
-      "text": "US-Präsident Donald Trump hat am Montag auf seiner Plattform Truth Social und bei einem Wahlkampfauftritt in Kansas damit gedroht, dass die USA Europa den Rücken kehren könnten. Er stehe zu Europa, schrieb Trump, doch wenn der Kontinent nicht bald wieder auf Kurs komme, bleibe den USA keine Wahl, als zu gehen. Die NATO nannte er dabei nicht ausdrücklich, kritisierte aber, dass die europäischen Verbündeten die USA zu Beginn des Iran-Kriegs nicht unterstützt hätten; das sei ein Test gewesen, den man nicht vergessen könne. Zudem griff er die Migrationspolitik in Europa, besonders in Frankreich, scharf an. Am selben Tag sagte Trump, die USA könnten den Iran-Krieg jetzt verlassen, Iran werde keine Atomwaffe bekommen. Ähnliche Drohungen hatte Trump bereits rund um den NATO-Gipfel im Juli geäußert; konkrete Schritte für einen Abzug wurden bisher nicht angekündigt.",
-      "quelle": "Iran International",
+      "titel": "Sicherheitsexperten beraten US-Bundesstaaten heimlich zu möglicher Einmischung in die Wahl",
+      "text": "Eine kleine Gruppe aktiver und ehemaliger US-Sicherheitsbeamter berät laut Washington Post seit Monaten vertraulich Bundesstaaten und Kongressabgeordnete. Thema ist die Frage, wie man reagieren soll, falls die Trump-Regierung in die Zwischenwahlen am 3. November eingreift. Die rund zehn Beteiligten haben Erfahrung im Verteidigungsministerium; laut Bericht wurden Vertreter aus etwa zehn Bundesstaaten beraten. Durchgespielt werden etwa Szenarien, in denen Soldaten oder Einwanderungsbeamte an Wahllokale geschickt oder Ergebnisse mit Betrugsvorwürfen angefochten werden. Die Beteiligten betonen, ihre Einschätzung beruhe auf eigener Analyse öffentlicher Aussagen und nicht auf Geheimdienstinformationen. Das Weiße Haus erklärte, es arbeite daran, die Wahlen zu schützen. Laut einer Umfrage von Washington Post, ABC und Ipsos zweifeln sieben von zehn Amerikanern daran, dass Trump eine Niederlage der Republikaner akzeptieren würde.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-10-20",
+      "land": "USA"
+    },
+    {
+      "titel": "Pentagon hält Weitergabe von Patriot-Raketen an die Ukraine auf",
+      "text": "Die Trump-Regierung verzögert laut Washington Post die Genehmigung, dass Partnerländer Patriot-Abfangraketen an die Ukraine weitergeben. Wer US-Waffen kauft, braucht für die Weitergabe an Drittstaaten eine Erlaubnis aus Washington. Verteidigungsminister Pete Hegseth hat die Anträge nicht abgelehnt, aber die nötigen Schritte zur Freigabe nicht abgeschlossen, berichten ein US-Beamter und drei weitere Insider. Andere Hilfen für die Ukraine genehmigt Hegseth weiterhin. Neu gegenüber Selenskyjs Vorwürfen vom Wochenende ist damit, wo die Lieferungen konkret hängen: bei der fehlenden Unterschrift im Pentagon für Lieferungen befreundeter Staaten. Ein ukrainischer Beamter sagte der Zeitung, es seien nur noch wenige Raketen übrig; Russland hatte Kiew am 18. und 19. Oktober mit ballistischen Raketen angegriffen. Eine Stellungnahme des Weißen Hauses lag zunächst nicht vor.",
+      "quelle": "Washington Post",
       "datum_artikel": "2026-10-19",
       "land": "USA"
     },
     {
-      "titel": "Verteidigungsminister Hegseth überraschend bei Netanjahu – USA und Israel beraten über neue Iran-Angriffe",
-      "text": "US-Verteidigungsminister Pete Hegseth hat sich am Montag bei einem nicht angekündigten Besuch in Israel mit Premierminister Benjamin Netanjahu getroffen, wie Reuters unter Berufung auf einen Bericht von Axios meldet. Hintergrund sind Gespräche beider Länder über eine mögliche Wiederaufnahme größerer Kampfhandlungen gegen Iran, darunter ein gemeinsamer Einsatz gegen Atomanlagen und Militärstandorte. Präsident Trump hat einen solchen Einsatz bislang nicht genehmigt. Der Besuch fällt in die Woche vor der israelischen Parlamentswahl, einen Tag nachdem Trump Netanjahu öffentlich seine Unterstützung für die Wahl ausgesprochen hatte. Inhalte des Treffens wurden nicht bekannt; das Pentagon und Israels Botschaft in Washington äußerten sich zunächst nicht.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-19",
-      "land": "USA"
-    },
-    {
-      "titel": "Investitionsgipfel in Berlin: Merz wirbt um Kapital – Regierung schließt KI-Pakt mit Nvidia",
-      "text": "Bundeskanzler Friedrich Merz (CDU) hat am Montagabend in Berlin den Gipfel 'Invest in Germany' eröffnet, zu dem rund 200 Konzernchefs aus dem In- und Ausland erwartet wurden; am Dienstag folgt der Hauptkonferenztag. Merz rief die deutsche Wirtschaft auf, sich stärker der Künstlichen Intelligenz zu öffnen, und warb mit dem Satz, Deutschland sei offen für Investitionen und bereit, schneller zu wachsen. Das Forschungsministerium unterzeichnete eine gemeinsame Absichtserklärung mit dem US-Chipkonzern Nvidia, die Industriedaten für KI-Anwendungen besser nutzbar machen soll. Nvidia-Chef Jensen Huang, Stargast des Gipfels, hatte Deutschland zuvor einen deutlichen technologischen Rückstand attestiert und warnte auf der Bühne davor, deutsches Know-how herzugeben. Laut CNBC nannte Nvidia zudem vier deutsche Start-ups als Beteiligungsziele, darunter Agile Robots, als Teil seiner Investitionen von knapp 10 Milliarden Dollar in Europa. Der Gipfel soll private Investitionen anlocken, nachdem Merz nach mehreren Landtagswahl-Niederlagen unter Druck steht, Wachstum und Sozialreformen zu liefern.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-19",
+      "titel": "Streit um Rente mit 63: Union bringt Kompromiss ins Spiel – SPD skeptisch",
+      "text": "Im Koalitionsstreit um die abschlagsfreie Rente nach 45 Beitragsjahren (umgangssprachlich Rente mit 63) diskutieren Unionspolitiker laut einem Bericht der Bild einen Kompromiss. Die Regelung soll demnach formal erhalten bleiben, Kindererziehungs- und Pflegezeiten sollen bei den 45 Jahren aber nicht mehr oder nur noch eingeschränkt zählen. Weil laut Rentenversicherung 98 Prozent der angerechneten Erziehungszeiten auf Frauen entfallen, müssten vor allem sie länger arbeiten, um die 45 Jahre zu erreichen. Die stellvertretende SPD-Fraktionschefin Dagmar Schmidt zeigte sich skeptisch: Kindererziehung gehöre für die SPD ausdrücklich zur Lebensleistung. Auch Pascal Reddig von der Jungen Gruppe der Union kritisierte, der Vorschlag benachteilige Frauen und entlaste die Rentenkasse kaum. Hintergrund: Kanzler Merz will die Rente mit 63 laut Vorschlag der Rentenkommission abschaffen, der neue SPD-Arbeitsminister Alexander Schweitzer will sie erhalten. Das Arbeitsministerium äußerte sich nicht; die Rentenreform soll noch 2026 ins Kabinett.",
+      "quelle": "Tagesspiegel",
+      "datum_artikel": "2026-10-20",
       "land": "Deutschland"
     }
   ]
