@@ -1,97 +1,78 @@
 {
-  "datum": "Mittwoch, 21. Oktober 2026",
-  "generiert": "2026-10-21",
+  "datum": "Donnerstag, 22. Oktober 2026",
+  "generiert": "2026-10-22",
   "ki_stories": [
     {
-      "titel": "Google-KI-Geheimnisse gestohlen: USA verhängen Sanktionen gegen fünf chinesische Firmen",
-      "text": "Das US-Außenministerium hat am 19. Oktober fünf chinesische Unternehmen mit Sanktionen belegt, die mit dem früheren Google-Ingenieur Linwei Ding in Verbindung stehen. Ding war im Januar 2026 von einer US-Jury in sieben Fällen wegen Diebstahls von Geschäftsgeheimnissen zu Googles KI-Infrastruktur verurteilt worden. Betroffen sind unter anderem Shanghai Zhisuan Technology, die Ding 2023 gegründet hatte, sowie der Investor MiraclePlus (Qiji Chuangtan) und drei mit ihm verbundene Fonds. Ihre Vermögen in den USA werden eingefroren, US-Personen und -Firmen dürfen keine Geschäfte mehr mit ihnen machen. Laut Außenministerium hatte Ding damit geworben, seine Firma könne Googles Supercomputer-Technik für KI nachbauen. China kritisierte die Sanktionen am Dienstag scharf und kündigte nicht näher genannte Gegenmaßnahmen an. Es ist bereits der zweite KI-Schlag Washingtons gegen China innerhalb weniger Tage, nach dem Verbot von DeepSeek in Bundesbehörden.",
-      "quelle": "Washington Times",
+      "titel": "Trump: Große Rechenzentren sollen eigenen Strom erzeugen und Anwohnern eine Dividende zahlen",
+      "text": "US-Präsident Donald Trump hat am Mittwoch auf Truth Social erklärt, neue und große KI-Rechenzentren seien von ihm verpflichtet, ihren Strom selbst zu erzeugen und überschüssige Energie an Gemeinden oder das Stromnetz abzugeben oder zu verkaufen. Zusätzlich sollen die Betreiber mit Anwohnern finanzielle Vereinbarungen aushandeln, eine Art Dividende für die betroffenen Gemeinden. Wie das umgesetzt werden soll und ob ein förmlicher Erlass folgt, ließ Trump offen. Hintergrund ist der wachsende Widerstand gegen Rechenzentren wegen steigender Strompreise, der kurz vor den Zwischenwahlen zum Wahlkampfthema geworden ist. Mehrere Bundesstaaten erwägen bereits Einschränkungen für neue Projekte; Amazon und Meta haben jeweils mindestens eine Milliarde Dollar für Standortgemeinden zugesagt. Kritiker wenden ein, dass viele KI-Rechenzentren ohnehin schon eigene Kraftwerke planen.",
+      "quelle": "Fox News",
+      "datum_artikel": "2026-10-21"
+    },
+    {
+      "titel": "Amodei verteidigt Anthropics Sicherheitskurs und China-Verkaufsstopp",
+      "text": "Anthropic-Chef Dario Amodei hat in einem fast 2.000 Wörter langen Beitrag auf X auf Vorwürfe reagiert, das Unternehmen weiche seine Sicherheitsversprechen auf. Auslöser war Kritik von Nathan Calvin von der Organisation Encode, der auf Rechenzentrums-Deals von über 500 Milliarden Dollar, geänderte Sicherheitsrichtlinien und den zunehmenden Einsatz von Claude bei der Entwicklung neuer Modelle verwies. Amodei listete neun Entscheidungen auf, die Anthropic nach eigener Darstellung Geld gekostet hätten, darunter die verzögerte Freigabe des Mythos-Modells und den Verkaufsstopp an Firmen unter Kontrolle der Volksrepublik China – auch über Drittländer. Anthropic sei das erste und bislang einzige führende KI-Labor mit einer solchen Beschränkung; unabhängig belegt ist diese Aussage nicht. Amodei räumte zugleich Fehler ein, etwa bei der Kommunikation des eigenen Entwurfs für ein KI-Sicherheitsgesetz, der vergangene Woche bekannt geworden war.",
+      "quelle": "The Next Web",
+      "datum_artikel": "2026-10-21"
+    },
+    {
+      "titel": "DeepSeek veröffentlicht DeepInfer: Gratis-Software soll KI-Betriebskosten senken",
+      "text": "Das chinesische KI-Labor DeepSeek hat mit DeepInfer ein frei verfügbares (Open-Source) Programm vorgestellt, mit dem sich seine Modelle effizienter und günstiger betreiben lassen sollen. Die Software zielt auf die sogenannte Inferenz, also den laufenden Betrieb von KI-Modellen nach dem Training, der bei Anbietern einen immer größeren Teil der Kosten ausmacht. DeepSeek setzt damit seine Strategie fort, Werkzeuge und Modelle offen zu teilen, und erhöht den Preisdruck auf US-Anbieter. Die Veröffentlichung kommt nur Tage, nachdem US-Bundesbehörden DeepSeek aus ihren Systemen verbannt haben. Für Unternehmen außerhalb der USA könnte das Angebot dennoch attraktiv sein, weil sich offene Modelle auf eigener Hardware betreiben lassen.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-10-20"
-    },
-    {
-      "titel": "S&P warnt: Tech-Riesen haben vermutlich mehr versteckte KI-Schulden als bekannt",
-      "text": "Die Ratingagentur S&P Global geht davon aus, dass die großen Cloud-Konzerne mehr finanzielle Verpflichtungen rund um KI tragen, als sie offenlegen. Mark Habib, bei S&P zuständig für digitale Infrastruktur, verweist auf ein verflochtenes Finanzierungsgeflecht: Die Konzerne bürgen etwa für den Bau von Rechenzentren oder für Verpflichtungen kleinerer KI-Firmen, ohne dass dies vollständig in ihren Bilanzen auftaucht. Gemeint sind vor allem Amazon, Microsoft und Alphabet. Die sechs größten US-Hyperscaler (Amazon, Microsoft, Alphabet, Oracle, Meta, SpaceX) dürften zwischen 2025 und 2030 zusammen mehr als 7 Billionen Dollar in Rechenzentren und KI stecken. Eine Herabstufung der Kreditwürdigkeit hält S&P derzeit aber nicht für nötig. Die Warnung kommt zu einer Zeit, in der Anleihen von KI-Infrastruktur-Firmen wie CoreWeave bereits deutlich unter Druck stehen.",
-      "quelle": "BusinessDay",
-      "datum_artikel": "2026-10-19"
-    },
-    {
-      "titel": "KI-Chip-Startup Tenstorrent sammelt 1,5 Milliarden Dollar ein – Bewertung verdoppelt",
-      "text": "Tenstorrent, das KI-Chip-Unternehmen des bekannten Chipdesigners Jim Keller aus Santa Clara, hat am 19. Oktober eine Finanzierungsrunde über 1,5 Milliarden Dollar abgeschlossen. Das Unternehmen wird damit mit 6,2 Milliarden Dollar bewertet, gut doppelt so hoch wie bei der letzten Runde 2024 (rund 2,6 Milliarden). Angeführt wurde die Runde von Trace Capital und Innovation X, beteiligt sind unter anderem ARK Invest, Fidelity, T. Rowe Price und Morgan Stanley. Das Geld soll in die Massenfertigung der Galaxy-Server, neue Chip-Generationen und die offene RISC-V-Technik fließen. Laut Bloomberg hatte Tenstorrent Anfang 2026 Übernahmegespräche mit Intel und Qualcomm geführt; Keller entschied sich aber, eigenständig zu bleiben. Tenstorrent gilt als einer der Herausforderer von NVIDIA mit einer günstigeren, offenen Alternative.",
-      "quelle": "SiliconANGLE",
-      "datum_artikel": "2026-10-19"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropics Börsenprospekt: 16,3 Mrd. Dollar Umsatz, aber 80,7 Mrd. Dollar Verlust im Halbjahr",
-      "text": "Das Wall Street Journal hat einen Entwurf von Anthropics Börsenprospekt (S-1) eingesehen, der erstmals Halbjahreszahlen offenlegt. Demnach machte Anthropic im ersten Halbjahr 2026 rund 16,3 Milliarden Dollar Umsatz, nach 1,1 Milliarden ein Jahr zuvor. Gleichzeitig steht ein Nettoverlust von 80,7 Milliarden Dollar in den Büchern, wovon allerdings rund 72 Milliarden auf buchhalterische Effekte aus Wandelanleihen und anderen Finanzierungen entfallen, also nicht als echtes Geld abgeflossen sind. Als Risiko nennt der Entwurf, dass rund ein Fünftel des Umsatzes von nur zwei Kunden stammt. Die Ausgaben für Rechenleistung lagen im Halbjahr bei fast 9 Milliarden Dollar, mehr als im gesamten Jahr 2025. Neu gegenüber der Vorwoche, als Anthropic Investoren 16,8 Milliarden Dollar Quartalsumsatz präsentiert hatte: Jetzt liegen erstmals Verlust- und Risikoangaben aus dem offiziellen Prospekt vor. Der Börsengang ist für Mitte November geplant; Anthropic wollte sich nicht äußern.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-10-20",
-      "unternehmen": "Anthropic"
+      "titel": "Meta wächst um 26 Prozent – Milliarden-Vergleich und KI-Ausgaben drücken den Gewinn",
+      "text": "Meta hat im dritten Quartal 64,6 Milliarden Dollar umgesetzt, 26 Prozent mehr als im Vorjahr und über den erwarteten rund 63,3 Milliarden. Belastet wurde das Ergebnis durch eine Sonderabgabe von 9,89 Milliarden Dollar für einen Vergleich mit US-Bundesstaaten im Streit um die Wirkung der Meta-Apps auf die psychische Gesundheit von Jugendlichen: Der Gewinn je Aktie lag bei 3,83 Dollar, ohne diesen Posten wären es 7,40 Dollar gewesen. Die Investitionen stiegen auf 34,9 Milliarden Dollar im Quartal (Vorjahr: 19,4 Milliarden), der freie Mittelzufluss (Free Cashflow) war mit minus 2,1 Milliarden Dollar negativ. Für das Gesamtjahr plant Meta nun 135 bis 145 Milliarden Dollar an Investitionen, für das vierte Quartal 73 bis 76 Milliarden Dollar Umsatz. Zudem kündigte der Konzern eine neue Aktiengattung ohne Stimmrecht (Class C) an. Die Aktie stieg nachbörslich um etwa 2,5 bis 5 Prozent.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-21",
+      "unternehmen": "Meta"
     },
     {
-      "titel": "OpenAI will Milliarden-Finanzierung noch vor Anthropics Börsengang abschließen",
-      "text": "OpenAI drückt bei seiner neuen Finanzierungsrunde aufs Tempo, wie Reuters exklusiv unter Berufung auf zwei Insider berichtet. Das Unternehmen will Zusagen über rund 30 Milliarden Dollar einsammeln, bevor Anthropic Mitte November an die Börse geht – die Bewertung könnte dabei über 1,4 Billionen Dollar liegen. Bestehende Geldgeber wie SoftBank und der Staatsfonds MGX aus Abu Dhabi sind im Gespräch. Hintergrund: Beide KI-Firmen werben um dieselben Investoren, und OpenAI will deren Geld sichern, bevor Anthropic im Börsenprospekt mehr Zahlen offenlegt. Laut einem Insider hat OpenAI Investoren einen Jahresumsatz von 50 Milliarden Dollar gemeldet und erwartet 70 Milliarden bis Jahresende. Zuletzt war OpenAI im März nach einer 122-Milliarden-Runde mit 852 Milliarden Dollar bewertet worden; die neuen Konditionen sind noch nicht final.",
+      "titel": "OpenAI verkauft seine Top-Modelle künftig auch über Google Cloud",
+      "text": "OpenAI wird seine leistungsstärksten KI-Modelle und den Programmier-Assistenten Codex in den kommenden Wochen auch über Google Cloud anbieten. Firmenkunden können die Modelle über den Google Cloud Marketplace kaufen und dafür bereits bestehende Ausgabenzusagen bei Google nutzen. Die Modelle sollen außerdem in Googles Entwicklungsumgebung Antigravity und in Gemini Agent verfügbar werden; zunächst läuft eine geschlossene Testphase mit ausgewählten Kunden. Damit ist OpenAI nach Microsoft Azure und Amazon AWS nun bei allen drei großen Cloud-Anbietern vertreten – ausgerechnet bei Google, dessen Gemini direkt mit ChatGPT konkurriert. Microsoft bleibt laut den Berichten der wichtigste Cloud-Partner von OpenAI. Der Schritt ist Teil von OpenAIs Vorstoß, mehr Umsatz mit Unternehmenskunden zu machen.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-10-20",
+      "datum_artikel": "2026-10-21",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "ByteDance, Alibaba und Tencent bestellen NVIDIA-Chips für über 35 Milliarden Dollar",
-      "text": "Die chinesischen Tech-Konzerne ByteDance, Alibaba und Tencent haben laut Reuters zusammen mehr als 3 Millionen Grafikkarten vom Typ NVIDIA RTX PRO 5500 bestellt – Listenpreis über 35 Milliarden Dollar, rund 11.400 Dollar pro Stück. Der Chip ist zwar schwächer als NVIDIAs Spitzenmodelle, gehört aber zu den stärksten, die unter den US-Exportregeln nach China verkauft werden dürfen. Insgesamt sollen chinesische Bestellungen sogar über 6 Millionen Stück liegen. NVIDIA hat Partnern laut einem Insider signalisiert, womöglich nur 5 bis 10 Prozent der gewünschten Mengen liefern zu können, und 2027 weltweit höchstens 3 Millionen dieser Karten zu produzieren. Neu gegenüber Berichten der Vorwoche über den Kauf von Gaming-Chips: Jetzt geht es um konkrete Großbestellungen der drei größten chinesischen Tech-Konzerne für Profi-Karten. Der Run zeigt, wie groß Chinas Hunger nach KI-Rechenleistung trotz der US-Beschränkungen ist.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-20",
-      "unternehmen": "NVIDIA"
+      "titel": "SpaceX-Umsatz steigt um 161 Prozent – Musk bringt Fusion mit Tesla ins Spiel",
+      "text": "SpaceX hat im dritten Quartal 14,6 Milliarden Dollar umgesetzt, 161 Prozent mehr als im Vorjahr und deutlich über den erwarteten 12,7 Milliarden. Der Nettogewinn lag bei 4,4 Milliarden Dollar nach einem Verlust von 1,05 Milliarden im Vorjahresquartal. Größter Umsatzbringer war erstmals die KI-Sparte Superintelligence mit 7,56 Milliarden Dollar (plus 830 Prozent). Elon Musk sagte, ein Zusammenschluss mit Tesla habe viel für sich; beide Verwaltungsräte hätten eigene Ausschüsse gebildet, Bedingungen gebe es aber noch keine. Die SpaceX-Aktie stieg am Mittwoch um rund 7 bis 10 Prozent und zog auch den Nasdaq nach oben. Tesla meldete am Abend 48 Cent Gewinn je Aktie bei 28,05 Milliarden Dollar Umsatz; die Aktie drehte nachbörslich aber ins Minus, nachdem Tesla erklärte, keine Fragen zur möglichen Fusion zu beantworten.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-21",
+      "unternehmen": "SpaceX"
     },
     {
-      "titel": "Stromausfall legt Google Cloud in London lahm – Banken wie HSBC und Revolut betroffen",
-      "text": "Ein Stromproblem in einem Google-Rechenzentrum in London hat am Dienstag stundenlang zahlreiche Dienste in Großbritannien und Europa gestört. Betroffen war eine von drei Zonen der Londoner Google-Cloud-Region; die Störung begann gegen 8 Uhr mitteleuropäischer Zeit. Ausgefallen oder gestört waren unter anderem die Banken Lloyds, HSBC und Revolut, die Post Royal Mail, der Paketdienst DPD und der Telekomkonzern BT. Revolut betonte, Geld und Daten der Kunden seien sicher. Laut Bloomberg war das Problem für die meisten Kunden bis zum frühen Nachmittag behoben, einige wenige waren aber weiter betroffen. Google kündigte eine interne Untersuchung an. Der Vorfall zeigt erneut, wie stark Banken und Behörden inzwischen von wenigen Cloud-Anbietern abhängen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-20",
-      "unternehmen": "Google / Alphabet"
+      "titel": "Gericht in New Mexico verurteilt Meta zu 25 Milliarden Dollar Strafe wegen Datenschutz-Täuschung",
+      "text": "Richter Francis Mathew im US-Bundesstaat New Mexico hat Meta zur Zahlung von 25 Milliarden Dollar verurteilt. Hintergrund ist der Cambridge-Analytica-Skandal: Geschworene hatten im September festgestellt, dass Meta Nutzer über den Schutz ihrer Daten auf Facebook getäuscht und damit mehr als 43 Millionen Mal gegen Verbraucherschutzgesetze verstoßen hatte. Rechnerisch wären bis zu 5.000 Dollar pro Verstoß und damit rund 220 Milliarden Dollar möglich gewesen; der Staat hatte 35 bis 40 Milliarden gefordert, Meta höchstens 3,4 Milliarden angeboten. Bis zur Zahlung fallen 15 Prozent Zinsen pro Jahr an. Generalstaatsanwalt Raúl Torrez sprach von einem der größten Urteile eines Bundesstaats gegen ein Unternehmen in der US-Geschichte; das Geld soll in die Bildung fließen. Meta kündigte an, in Berufung zu gehen.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-10-21",
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Braze-Aktie springt um 51 Prozent: Salesforce kauft Marketing-Plattform für 5,66 Mrd. Dollar",
-      "text": "Salesforce übernimmt die Marketing-Software-Firma Braze für rund 5,66 Milliarden Dollar. Braze-Aktionäre erhalten 47,50 Dollar pro Aktie in bar – ein Aufschlag von rund 58 Prozent auf den Schlusskurs vom Vortag (30,04 Dollar). Die Braze-Aktie (BRZE) schoss daraufhin um mehr als 51 Prozent auf 45,57 Dollar nach oben. Salesforce will Braze, mit dessen Software Firmen Kunden per App, E-Mail und Push-Nachricht ansprechen, in seine Marketing Cloud und die KI-Agenten-Plattform Agentforce einbauen. Es ist die größte Marketing-Übernahme von Salesforce seit ExactTarget 2013 und folgt auf den Kauf der KI-Kundenservice-Firma Fin für 3,6 Milliarden Dollar Anfang des Jahres. Abgeschlossen werden soll der Deal im Geschäftsjahr 2028; Braze-Aktionäre und Behörden müssen noch zustimmen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-20"
-    },
-    {
-      "titel": "GM-Aktie fällt rund 7 Prozent – trotz besserer Zahlen und 20-Milliarden-Rückkauf",
-      "text": "General Motors hat im dritten Quartal mit 3,70 Dollar Gewinn je Aktie die Erwartungen der Analysten (3,63 Dollar) übertroffen. Trotzdem fiel die Aktie am Dienstag um bis zu rund 7 Prozent. Grund ist die Jahresprognose: GM engte die Spanne für den bereinigten Gewinn je Aktie auf 12,75 bis 13,75 Dollar ein – die Mitte (13,25 Dollar) liegt unter den 13,41 Dollar, die Analysten erwartet hatten. Zudem rechnet GM mit rund 2 Milliarden Dollar Mehrkosten durch teurere Rohstoffe, Logistik und Computerchips, am oberen Ende der bisherigen Schätzung. Positiv: Der Verwaltungsrat genehmigte ein mehrjähriges Aktienrückkaufprogramm über 20 Milliarden Dollar, und der erwartete freie Mittelzufluss wurde angehoben. Auch Ford-Aktien gaben im Sog nach.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-20"
-    },
-    {
-      "titel": "Netflix verfehlt Werbeziel – Aktie fällt nachbörslich um bis zu 6 Prozent",
-      "text": "Netflix hat am Dienstagabend Quartalszahlen vorgelegt und die Anleger enttäuscht. Der Gewinn je Aktie lag mit 87 Cent zwar über den erwarteten 82 Cent, der Umsatz stieg um rund 12 Prozent. Doch der Streamingdienst senkte sein Ziel für Werbeeinnahmen 2026 auf 2,7 Milliarden Dollar, nachdem zuvor 3 Milliarden angepeilt waren. Auch die Umsatzprognose für das vierte Quartal (13,44 Milliarden Dollar) blieb leicht unter den Analystenerwartungen von 13,51 Milliarden. Die Aktie verlor nachbörslich zwischen 4 und knapp 6 Prozent und notiert nahe dem tiefsten Stand seit einem Jahr; seit Jahresbeginn hat sie bereits rund 26 Prozent verloren. Erst vergangene Woche hatte Netflix die größten Stellenstreichungen seit 2022 verkündet und Top-Manager wie Inhaltechefin Bela Bajaria abgelöst.",
-      "quelle": "Variety",
-      "datum_artikel": "2026-10-20"
+      "titel": "SAP übertrifft Erwartungen im Cloud-Geschäft – Aktie legt nachbörslich zu",
+      "text": "SAP hat am Mittwochabend Zahlen für das dritte Quartal vorgelegt, die über den Erwartungen der Analysten lagen. Der Cloud-Umsatz stieg währungsbereinigt um 25 Prozent auf 6,67 Milliarden Euro (erwartet: 6,59 Milliarden), der Konzernumsatz um 13 Prozent auf 10,3 Milliarden Euro. Das bereinigte Betriebsergebnis lag bei 3,03 Milliarden Euro, der Gewinn je Aktie bei 1,96 Euro statt der erwarteten 1,80 Euro. Der Auftragsbestand im Cloud-Geschäft (Current Cloud Backlog) wuchs um 26 Prozent auf 24,1 Milliarden Euro, und SAP sieht das Cloud-Wachstum für 2026 nun am oberen Ende der eigenen Prognose. In den USA gehandelte SAP-Papiere stiegen nachbörslich um gut 5 Prozent; die SAP-Aktie hatte schon vor den Zahlen 3,5 Prozent zugelegt und den DAX auf ein Vierwochenhoch von rund 25.645 Punkten mitgezogen. Der Finanzchef warnte allerdings vor möglichen Belastungen im Schlussquartal.",
+      "quelle": "wallstreet-online",
+      "datum_artikel": "2026-10-21"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Sicherheitsexperten beraten US-Bundesstaaten heimlich zu möglicher Einmischung in die Wahl",
-      "text": "Eine kleine Gruppe aktiver und ehemaliger US-Sicherheitsbeamter berät laut Washington Post seit Monaten vertraulich Bundesstaaten und Kongressabgeordnete. Thema ist die Frage, wie man reagieren soll, falls die Trump-Regierung in die Zwischenwahlen am 3. November eingreift. Die rund zehn Beteiligten haben Erfahrung im Verteidigungsministerium; laut Bericht wurden Vertreter aus etwa zehn Bundesstaaten beraten. Durchgespielt werden etwa Szenarien, in denen Soldaten oder Einwanderungsbeamte an Wahllokale geschickt oder Ergebnisse mit Betrugsvorwürfen angefochten werden. Die Beteiligten betonen, ihre Einschätzung beruhe auf eigener Analyse öffentlicher Aussagen und nicht auf Geheimdienstinformationen. Das Weiße Haus erklärte, es arbeite daran, die Wahlen zu schützen. Laut einer Umfrage von Washington Post, ABC und Ipsos zweifeln sieben von zehn Amerikanern daran, dass Trump eine Niederlage der Republikaner akzeptieren würde.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-20",
+      "titel": "Supreme Court stoppt Trumps Einschränkungen für transgeschlechtliche Häftlinge vorerst",
+      "text": "Der Oberste Gerichtshof der USA hat einen Eilantrag der Trump-Regierung abgelehnt. Die Regierung wollte durchsetzen, dass die Bundesgefängnisbehörde transgeschlechtlichen Häftlingen Hormonbehandlungen und bestimmte Operationen verweigern darf; ein Bundesrichter hatte das per einstweiliger Verfügung untersagt. Das Gericht begründete seine kurze Entscheidung nicht; nur die Richter Clarence Thomas und Samuel Alito hätten dem Antrag stattgegeben. Betroffen sind laut NBC rund 1.000 transgeschlechtliche Häftlinge in Bundesgefängnissen. Es ist eine der seltenen Niederlagen der Regierung vor dem Supreme Court, der ihr in mehr als zwei Dutzend Eilverfahren recht gegeben hatte. Die Verfügung bleibt in Kraft, während das eigentliche Verfahren in den unteren Instanzen weiterläuft.",
+      "quelle": "NBC News",
+      "datum_artikel": "2026-10-21",
       "land": "USA"
     },
     {
-      "titel": "Pentagon hält Weitergabe von Patriot-Raketen an die Ukraine auf",
-      "text": "Die Trump-Regierung verzögert laut Washington Post die Genehmigung, dass Partnerländer Patriot-Abfangraketen an die Ukraine weitergeben. Wer US-Waffen kauft, braucht für die Weitergabe an Drittstaaten eine Erlaubnis aus Washington. Verteidigungsminister Pete Hegseth hat die Anträge nicht abgelehnt, aber die nötigen Schritte zur Freigabe nicht abgeschlossen, berichten ein US-Beamter und drei weitere Insider. Andere Hilfen für die Ukraine genehmigt Hegseth weiterhin. Neu gegenüber Selenskyjs Vorwürfen vom Wochenende ist damit, wo die Lieferungen konkret hängen: bei der fehlenden Unterschrift im Pentagon für Lieferungen befreundeter Staaten. Ein ukrainischer Beamter sagte der Zeitung, es seien nur noch wenige Raketen übrig; Russland hatte Kiew am 18. und 19. Oktober mit ballistischen Raketen angegriffen. Eine Stellungnahme des Weißen Hauses lag zunächst nicht vor.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-19",
+      "titel": "Grenzmauer im Big-Bend-Gebiet: Regierung ruft Supreme Court an",
+      "text": "Die Trump-Regierung hat den Supreme Court gebeten, den Weiterbau der Grenzmauer in der Big-Bend-Region im Westen von Texas zu erlauben. Bundesrichterin Cardone hatte den Bau gestoppt und am Dienstag einen weiteren Antrag der Regierung auf Fortsetzung abgelehnt. Der Generalstaatsanwalt der Regierung (Solicitor General) nannte die Verfügung unbegründet und fordert das Gericht auf, den Fall direkt an sich zu ziehen und den Baustopp aufzuheben. Nach Angaben der Regierung kostet die Pause täglich mehr als 460.000 Dollar. Die Big-Bend-Region umfasst einen Nationalpark und ist wegen ihrer Landschaft und Natur besonders umstritten. Als Nächstes muss der Supreme Court entscheiden, ob er den Bau bis zum Ende des Verfahrens zulässt.",
+      "quelle": "Texas Public Radio",
+      "datum_artikel": "2026-10-21",
       "land": "USA"
-    },
-    {
-      "titel": "Streit um Rente mit 63: Union bringt Kompromiss ins Spiel – SPD skeptisch",
-      "text": "Im Koalitionsstreit um die abschlagsfreie Rente nach 45 Beitragsjahren (umgangssprachlich Rente mit 63) diskutieren Unionspolitiker laut einem Bericht der Bild einen Kompromiss. Die Regelung soll demnach formal erhalten bleiben, Kindererziehungs- und Pflegezeiten sollen bei den 45 Jahren aber nicht mehr oder nur noch eingeschränkt zählen. Weil laut Rentenversicherung 98 Prozent der angerechneten Erziehungszeiten auf Frauen entfallen, müssten vor allem sie länger arbeiten, um die 45 Jahre zu erreichen. Die stellvertretende SPD-Fraktionschefin Dagmar Schmidt zeigte sich skeptisch: Kindererziehung gehöre für die SPD ausdrücklich zur Lebensleistung. Auch Pascal Reddig von der Jungen Gruppe der Union kritisierte, der Vorschlag benachteilige Frauen und entlaste die Rentenkasse kaum. Hintergrund: Kanzler Merz will die Rente mit 63 laut Vorschlag der Rentenkommission abschaffen, der neue SPD-Arbeitsminister Alexander Schweitzer will sie erhalten. Das Arbeitsministerium äußerte sich nicht; die Rentenreform soll noch 2026 ins Kabinett.",
-      "quelle": "Tagesspiegel",
-      "datum_artikel": "2026-10-20",
-      "land": "Deutschland"
     }
   ]
 }
