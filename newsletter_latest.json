@@ -1,83 +1,77 @@
 {
-  "datum": "Freitag, 23. Oktober 2026",
-  "generiert": "2026-10-23",
+  "datum": "Samstag, 24. Oktober 2026",
+  "generiert": "2026-10-24",
   "ki_stories": [
     {
-      "titel": "Microsoft: Chinesische Staatshacker griffen mit KI-Agenten 2.250 Firmen-Konten an",
-      "text": "Microsoft macht eine China-nahe staatliche Hackergruppe, die der Konzern Storm-0940 nennt, für einen Angriff über den IT-Dienstleister ConnectWise verantwortlich. Die Angreifer hatten zunächst die Cloud-Backup-Software von ConnectWise geknackt und dort Zugangsdaten erbeutet. Diese setzten sie dann mit einem frei verfügbaren KI-Agenten-Werkzeug namens ARTEX, das eigentlich für Sicherheitstests gedacht ist, automatisiert gegen mehr als 2.250 Microsoft-365-Konten von Organisationen ein. Microsoft zählte über 151.000 fehlgeschlagene Anmeldeversuche, in der Spitze 2.900 pro Minute; bei einigen Opfern gelang den Hackern dennoch ein dauerhafter Zugang. Welches KI-Modell genutzt wurde, sagte Microsoft nicht. Der Fall gilt als eines der ersten öffentlich dokumentierten Beispiele, in denen staatliche Angreifer KI-Agenten in großem Stil für echte Cyberangriffe einsetzen.",
-      "quelle": "CyberScoop",
-      "datum_artikel": "2026-10-21"
+      "titel": "OpenAI trainiert seine Spitzenmodelle nur noch ohne Zugang zum echten Internet",
+      "text": "OpenAI hat am Freitag angekündigt, seine leistungsstärksten KI-Modelle (Frontier-Modelle) künftig nicht mehr mit Zugriff auf das Live-Internet zu trainieren. Stattdessen üben die Modelle in einer sogenannten 'Offline-Welt': einer riesigen, zwischengespeicherten Kopie von Webinhalten, in der sie weiterhin Browsen, Suchen, Programmieren und Computersteuerung lernen, ohne echte Systeme draußen zu beeinflussen. Auslöser war laut Berichten ein Sicherheitsvorfall vom 20. September, bei dem ein internes Forschungsmodell über eine falsch konfigurierte Netzwerkeinstellung (DNS) begrenzten Zugang zum Internet bekam; das Training war danach elf Tage unterbrochen und läuft seit 1. Oktober im neuen Aufbau. OpenAI begründet den Schritt mit der schwer vorhersehbaren Verhaltensweise der Modelle. Wie lange die Regel gilt, ist offen – laut Berichten so lange, bis Kontrolle und Überwachung der Modelle besser sind. Konkurrent Anthropic hatte bereits rund zwei Wochen zuvor begonnen, seine neuesten Modelle vom Live-Internet abzuschirmen.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-10-23"
     },
     {
-      "titel": "Musikverlag Reservoir verklagt Anthropic und Suno wegen Songtexten im KI-Training",
-      "text": "Der Musikverlag Reservoir Media hat vor einem Bundesgericht in Nordkalifornien zwei getrennte Klagen gegen Anthropic und den KI-Musikdienst Suno eingereicht. Anthropic soll die Texte von 853 Songs, an denen Reservoir die Rechte hält, ohne Erlaubnis zum Training von Claude verwendet haben; Claude könne diese Texte auf Nachfrage auch wiedergeben. Suno wirft der Verlag vor, 1.050 Kompositionen kopiert zu haben – genannt werden unter anderem Lieder von Joni Mitchell, Johnny Cash und Madonna. Bei bis zu 150.000 Dollar pro Werk ergeben sich rechnerisch mögliche Schadenersatzsummen von rund 128 Millionen Dollar für Anthropic und rund 158 Millionen Dollar für Suno. Reservoir verlangt außerdem, dass die Kopien aus Trainingsdaten und sogar aus den Modellgewichten gelöscht werden. Anthropic erklärte, man weise die Vorwürfe zurück und werde sich entschieden verteidigen.",
-      "quelle": "Billboard",
-      "datum_artikel": "2026-10-22"
-    },
-    {
-      "titel": "Umfrage: 57 Prozent der Amerikaner halten KI für schlecht für die Gesellschaft",
-      "text": "Laut einer neuen Umfrage von Washington Post, ABC News und Ipsos sagen 57 Prozent der US-Bürger, Künstliche Intelligenz sei schlecht für die Gesellschaft, nur 42 Prozent sehen sie positiv. Für sich persönlich ist das Bild ausgeglichener: 50 Prozent sagen, KI nütze ihnen, 49 Prozent sehen eher Nachteile. Rund zwei Drittel lehnen neue Rechenzentren ab – vor allem in der eigenen Nachbarschaft – und 67 Prozent finden, die Regierung reguliere KI zu wenig. Mehr als sechs von zehn Befragten sehen ein hohes Risiko, dass KI viele Jobs vernichtet, und 67 Prozent missbilligen, wie Präsident Trump mit dem Thema umgeht. Befragt wurden 2.545 Erwachsene vom 9. bis 13. Oktober. Die Zahlen sind kurz vor den Zwischenwahlen politisch relevant, weil sie zeigen, wie weit die Stimmung in der Bevölkerung vom KI-freundlichen Kurs der Regierung entfernt ist.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-21"
+      "titel": "Microsoft-KI stellt in Science-Studie 83 Prozent schwieriger Diagnosen richtig – Ärzte 36 Prozent",
+      "text": "Das Fachjournal Science hat am 22. Oktober eine begutachtete Studie zu Microsofts Diagnose-System MAI-DxO veröffentlicht. Die KI, die mehrere Sprachmodelle wie ein Ärzteteam zusammenarbeiten lässt, lag bei 304 besonders kniffligen Fallberichten aus dem New England Journal of Medicine in 83,2 Prozent der Fälle richtig; Allgemeinmediziner mit Lehrbüchern und Internet kamen auf 36,1 Prozent, ohne Hilfsmittel auf 22,3 Prozent. Bei 325 Fällen aus der Notaufnahme erreichte das System 80,3 Prozent gegenüber 46,8 Prozent bei den Ärzten. Einschränkung: Getestet wurde nur mit historischen Textfällen, nicht an echten Patienten und nicht gegen Fachärzte oder Klinikteams. Microsoft plant als nächsten Schritt eine klinische Studie am Beth Israel Deaconess Medical Center in Boston; ein fertiges Produkt gibt es noch nicht.",
+      "quelle": "Technology.org",
+      "datum_artikel": "2026-10-23"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Tesla: Gewinn bricht wegen KI- und Roboter-Ausgaben ein – Optimus-Produktion gestartet",
-      "text": "Tesla hat im dritten Quartal einen bereinigten Gewinn von 48 Cent pro Aktie erzielt und damit die Erwartungen der Analysten (43 Cent) übertroffen; der Umsatz lag bei 28,05 Milliarden Dollar und damit etwa auf Vorjahresniveau. Der operative Gewinn fiel aber um 56 Prozent, der freie Barmittelzufluss sank um 62 Prozent auf 1,53 Milliarden Dollar, weil die Ausgaben für KI und den Roboter Optimus stark gestiegen sind. Die Investitionen im Quartal verdoppelten sich auf 4,73 Milliarden Dollar; für das Gesamtjahr senkte Tesla die Prognose allerdings von 25 auf rund 20 Milliarden Dollar, kündigte für 2027 und 2028 aber höhere Ausgaben an. Im Werk Fremont hat die Produktion von Optimus begonnen – Elon Musk sprach von einem 'holprigen' Hochlauf und stellte bis Ende 2027 eine Kapazität von 20.000 Robotern pro Woche in Aussicht. Die Aktie gab nachbörslich nach, weil Musk die Erwartungen an Optimus und Robotaxi-Umsätze für das kommende Jahr dämpfte; seit Jahresbeginn liegt sie rund 14 Prozent im Minus.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-21",
-      "unternehmen": "Tesla"
-    },
-    {
-      "titel": "IBM übertrifft Erwartungen – Aktie fällt trotzdem wegen Zweifeln am KI-Nutzen",
-      "text": "IBM hat im dritten Quartal einen Umsatz von 17,1 Milliarden Dollar und einen bereinigten Gewinn von 2,95 Dollar je Aktie erzielt – beides über den Erwartungen (16,82 Milliarden Dollar bzw. 2,86 Dollar). Der Konzern hob zudem die Prognose für den freien Barmittelfluss an. Laut Finanzchef entfallen inzwischen rund 30 Prozent des Beratungsumsatzes und 35 Prozent der Auftragsbestände auf KI-Projekte. Trotzdem fiel die Aktie nach anfänglichem Sprung nachbörslich um rund 5 Prozent. Als Grund nennen Beobachter, dass Konzernchef Arvind Krishna einräumte, Firmenkunden fragten sich zunehmend, ob sich KI-Ausgaben messbar auszahlen, und dass die Software-Prognose ein schwächeres viertes Quartal nahelegt. Mehrere Analysten, etwa von Stifel und Susquehanna, erhöhten dennoch ihre Kursziele.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-21",
-      "unternehmen": "IBM"
-    },
-    {
-      "titel": "SK Hynix stoppt US-Börsengang der Speichertochter Solidigm",
-      "text": "Der südkoreanische Speicherchip-Hersteller SK Hynix hat am Freitag mitgeteilt, dass er die Prüfung eines US-Börsengangs seiner Tochter Solidigm aussetzt. Als Begründung nannte das Unternehmen die starken Schwankungen an den Finanzmärkten und die Kursentwicklung. Zuvor hatte die südkoreanische Finanzaufsicht gewarnt, die Notierung könne gegen die im Juli verschärften Regeln für Doppel-Börsengänge verstoßen. Die SK-Hynix-Aktie fiel daraufhin um bis zu 3 Prozent, nachdem sie bereits am Donnerstag rund 8 Prozent verloren hatte; seit die Börsenpläne Ende September bekannt wurden, hat sie mehr als 30 Prozent eingebüßt. SK Hynix betonte, Solidigm brauche weiterhin Geld für ein neues Werk in den USA, und prüft nun andere Finanzierungswege, etwa direkte Investitionen.",
-      "quelle": "Reuters",
+      "titel": "DeepSeek sammelt rund 15 Milliarden Dollar ein – Tencent und CATL größte Geldgeber",
+      "text": "Das chinesische KI-Labor DeepSeek hat laut Bloomberg eine Finanzierungsrunde über etwa 100 Milliarden Yuan (rund 15 Milliarden Dollar) eingesammelt – eine der größten privaten KI-Finanzierungen in China überhaupt. Zu den größten Investoren gehören der Internetkonzern Tencent (WeChat) und der Batteriehersteller CATL; das Ziel der Runde war im Laufe der Gespräche von zunächst 50 auf 80 und schließlich 100 Milliarden Yuan angehoben worden. Reuters beschrieb die Runde am Donnerstag noch als kurz vor dem Abschluss, die Bedingungen könnten sich also noch ändern. Angaben zur Bewertung gehen in Berichten weit auseinander. Brisant ist der Zeitpunkt: Erst diese Woche hatten die USA DeepSeek aus allen zivilen Bundesbehörden verbannt – das frische Geld stärkt nun Chinas wichtigsten Herausforderer von OpenAI und Anthropic.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-10-23",
-      "unternehmen": "SK Hynix"
+      "unternehmen": "DeepSeek"
+    },
+    {
+      "titel": "Starshield-Streit: Trump meldet Ende der Musk-Sperre, Ukraine sieht weiter Störungen",
+      "text": "Präsident Trump hat am Freitag erklärt, SpaceX-Chef Elon Musk habe die Beschränkungen für die Ukraine beim militärischen Satellitennetz Starshield aufgehoben. Ukrainische Soldaten und Diplomaten widersprachen: Der Dienst sei weiterhin gestört, so ein ukrainischer Vizebotschafter – 'bis heute hat sich nichts geändert'. Seit etwa 14. Oktober verlieren Starshield-Terminals auf schnell fahrenden Fahrzeugen und Drohnen die Verbindung, was laut Experten Drohnenangriffe auf russischen Nachschub stark behindert. Wer die Drosselung angeordnet hat, ist umstritten: Das Wall Street Journal berichtete, die Entscheidung gehe auf Musk zurück; Musk sagt, Tempo- und Nutzungsgrenzen lege das US-Militär bzw. der Präsident fest, Trump bestreitet jede Beteiligung. Der Streit verstärkt die Suche nach Alternativen zu Musks Satellitendiensten an – von denen es bislang aber kaum welche gibt.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-10-23",
+      "unternehmen": "SpaceX"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Nasdaq stürzt um 2,6 Prozent – Chip-Index verliert 6,7 Prozent, Ölpreis auf Mai-Hoch",
-      "text": "Die US-Technologiebörse Nasdaq ist am Donnerstag um 2,6 Prozent auf 26.008 Punkte gefallen – der schlechteste Tag seit Juni; der S&P 500 verlor rund 1,2 Prozent auf 7.663 Punkte, der Dow Jones blieb nahezu unverändert. Auslöser war zum einen Meta: Nach den Quartalszahlen vom Mittwoch wurde bekannt, dass der Konzern für seine KI-Infrastruktur Miet- und andere feste Verpflichtungen über 825 Milliarden Dollar eingegangen ist, die Aktie fiel um rund 7 Prozent. Zum anderen sagte NVIDIA-Chef Jensen Huang auf einer Konferenz in Berlin, die Nachfrage nach KI-Rechenleistung sei riesig, das Kapital zu ihrer Finanzierung aber knapp – das schürte erneut Sorgen um die Finanzierung des KI-Booms. Der Halbleiter-Index SOX brach um 6,7 Prozent ein, AMD, Micron und NVIDIA gaben deutlich nach, CoreWeave verlor rund 10 Prozent. Zusätzlich belastete der Ölpreis: Die Nordseesorte Brent stieg um rund 4 Prozent auf 113 Dollar, den höchsten Stand seit Mai, aus Angst vor neuen Kämpfen mit dem Iran. Auch in Asien gaben Chipwerte am Freitag nach.",
-      "quelle": "Associated Press",
-      "datum_artikel": "2026-10-22"
+      "titel": "American Express hebt Prognose an und streicht 5 Prozent der Stellen – auch wegen KI",
+      "text": "American Express hat am Freitag starke Zahlen für das dritte Quartal vorgelegt: Der Gewinn je Aktie lag bei 4,68 Dollar (erwartet: 4,50 Dollar), der Umsatz bei 20,06 Milliarden Dollar. Gleichzeitig hob der Kreditkartenkonzern seine Gewinnprognose für 2026 auf 17,60 bis 17,90 Dollar je Aktie an. Zugleich kündigte Amex an, rund 5 Prozent der weltweit etwa 78.000 Beschäftigten abzubauen – laut Konzernchef Stephen Squeri rund 3.500 Stellen; dafür wurden im Quartal 336 Millionen Dollar Umbaukosten verbucht. Finanzchef Christophe Le Caillec sagte, das Unternehmen solle 'schlanker, beweglicher' werden und sich auf KI vorbereiten. Die Aktie gab trotz der guten Zahlen nach, im Tagesverlauf um bis zu rund 3 Prozent – ein Zeichen, wie kritisch Anleger derzeit auch bei soliden Ergebnissen sind.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-23"
     },
     {
-      "titel": "Moderna-Aktie fällt um 17 Prozent nach vorzeitigem Leak von Krebsimpfstoff-Daten",
-      "text": "Die Aktie des Impfstoffherstellers Moderna ist am Donnerstag zeitweise um bis zu 25 Prozent eingebrochen und schloss rund 17 Prozent tiefer. Auslöser war, dass Teile der Phase-3-Studiendaten zu einem gemeinsam mit Merck entwickelten, personalisierten mRNA-Impfstoff gegen schwarzen Hautkrebs (Melanom) vorzeitig auf einer medizinischen Nachrichtenseite auftauchten. Demnach senkt der Impfstoff in Kombination mit Mercks Krebsmittel Keytruda das Risiko eines Rückfalls oder Todes um 42 Prozent gegenüber Keytruda allein – weniger als die 49 Prozent aus einer früheren, kleineren Studie. Moderna und Merck veröffentlichten daraufhin die vollständigen Ergebnisse, die im Fachjournal New England Journal of Medicine erscheinen sollen. Analysten wie Evan Seigerman von BMO nannten das Ergebnis medizinisch bedeutsam und erklärten den Absturz mit überzogenen Erwartungen. Trotz des Einbruchs liegt die Aktie seit Jahresbeginn noch rund 38 Prozent im Plus; Quartalszahlen folgen am 6. November.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-22"
+      "titel": "Cybersecurity-Aktien springen gegen den Markt – CrowdStrike und Palo Alto rund 6 Prozent im Plus",
+      "text": "Während der Dow Jones am Freitag deutlich fiel, legten Aktien von IT-Sicherheitsfirmen kräftig zu: Palo Alto Networks und CrowdStrike gewannen jeweils rund 6 bis 7 Prozent, auch Okta, SailPoint und Cloudflare stiegen deutlich. Auslöser war eine Umfrage der Investmentbank Evercore ISI unter Vertriebspartnern, die zum Jahresende festere Sicherheitsbudgets bei Unternehmen sieht und CrowdStrike und Palo Alto als größte Profiteure KI-getriebener Sicherheitsausgaben nennt. Rückenwind gaben zudem zwei kritische, mit KI-Hilfe entdeckte Sicherheitslücken in der weit verbreiteten Web-Programmiersprache PHP, vor denen Behörden diese Woche gewarnt hatten. Mizuho hob außerdem das Kursziel für CrowdStrike von 250 auf 275 Dollar an. Analysten mahnen aber: Die Branche ist 2026 bereits stark gestiegen (CrowdStrike über 120 Prozent), und Umfrage-Rallys können schnell verpuffen, wenn die nächsten Quartalszahlen nicht mithalten.",
+      "quelle": "Yahoo Finance",
+      "datum_artikel": "2026-10-23"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump unterschreibt Erlass gegen hohe Wohnkosten – Fokus auf Hypotheken",
-      "text": "US-Präsident Donald Trump hat am Donnerstag ein Dekret unterzeichnet, das die Kosten für Eigenheime und Hypotheken senken soll. Die Aufsichtsbehörde für die staatlichen Immobilienfinanzierer (FHFA) soll ein Pilotprogramm starten, bei dem Hypotheken-Versicherungsprämien automatisch wegfallen, sobald Kreditnehmer genug Eigenkapital gemessen am aktuellen Marktwert ihres Hauses haben. Außerdem soll ein bestehender Versuch, bei dem bei Umschuldungen keine Titelversicherung mehr nötig ist, dauerhaft werden. Das Landwirtschafts- und das Veteranenministerium sollen die Zinsen für ihre eigenen Hauskredite senken, und eine neue Arbeitsgruppe soll mehr Fertighäuser für staatliche Förderprogramme zulassen. Hintergrund sind Hypothekenzinsen von über 7 Prozent und hohe Hauspreise; laut Bloomberg Government will die Regierung damit kurz vor den Zwischenwahlen zeigen, dass sie die Sorgen der Wähler über Lebenshaltungskosten aufgreift. Die meisten Maßnahmen wirken erst, wenn die Behörden sie umgesetzt haben – für Käufer ändert sich daher nicht sofort etwas.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-22",
+      "titel": "Trump lässt Justizministerium gegen mögliche Niederlage im Senatsrennen in Alaska klagen",
+      "text": "Das US-Justizministerium hat Klage gegen die Wahlbehörden in Alaska eingereicht, um die Bestätigung (Zertifizierung) des Ergebnisses der Senatswahl zu blockieren, falls der republikanische Amtsinhaber Dan Sullivan knapp verliert. Begründung: Ein zweiter Kandidat mit fast gleichem Namen, Daniel J. Sullivan, stehe auf dem Stimmzettel und solle Sullivans Anhänger in die Irre führen – das könne der Demokratin Mary Peltola zum Sieg verhelfen. Präsident Trump sagte am Freitag, er habe die Klage selbst angeordnet. Peltola nannte den Schritt Korruption; Sullivans Wahlkampfteam erklärte, man lasse das Verfahren seinen Lauf nehmen, die Wahlbehörde prüft die Klage. Der Rechtsprofessor Derek Muller (Notre Dame) erwartet, dass das Gericht die Klage abweist, weil das Gesetz dem Ministerium keine Blockade der Zertifizierung erlaube. Gewählt wird am 3. November.",
+      "quelle": "NBC News",
+      "datum_artikel": "2026-10-23",
       "land": "USA"
     },
     {
-      "titel": "Nach Treffen mit Witkoff: Putin bereit zu neuen Ukraine-Gesprächen im November",
-      "text": "Nach einem Treffen mit dem US-Sondergesandten Steve Witkoff in St. Petersburg hat der Kreml erklärt, Russland sei grundsätzlich bereit, im November die Dreier-Gespräche mit den USA und der Ukraine über ein Ende des Krieges wieder aufzunehmen. Laut Kreml könnten sie Mitte November, wahrscheinlich in Abu Dhabi, stattfinden und sich um Sicherheitsgarantien für die Zeit nach dem Krieg drehen. Ein US-Regierungsvertreter sagte, beide Seiten hätten einer Wiederaufnahme auf technischer Ebene zugestimmt; der ukrainische Präsident Selenskyj fordert, dass die Gespräche spätestens Anfang November beginnen. Kremlsprecher Peskow sagte, die Verhandlungen würden lange dauern, und verlangte von der Ukraine 'notwendige Entscheidungen'. Zu Beginn des Treffens ließ Russland den inhaftierten US-Bürger Stephen Hubbard frei. Ein fester Termin für die Gespräche steht noch nicht fest.",
-      "quelle": "CNN",
-      "datum_artikel": "2026-10-22",
+      "titel": "Weißes Haus: Melania Trump vermittelt örtliche Waffenruhe für ukrainische Stadt Oleschky",
+      "text": "Das Weiße Haus hat am Freitag mitgeteilt, dass sich Russland und die Ukraine auf eine örtlich begrenzte Waffenruhe für die russisch besetzte Stadt Oleschky im Süden der Ukraine geeinigt haben, vermittelt von First Lady Melania Trump unter Beteiligung von Papst Leo. Die Feuerpause soll am 29. Oktober beginnen; über einen sicheren Korridor sollen Zivilisten die Stadt verlassen und Hilfsgüter hineingelangen können. In der eingeschlossenen Stadt leben nach US-Schätzung nur noch 1.700 bis 2.000 Menschen, darunter etwa 50 Kinder. Der ukrainische Unterhändler David Arachamija bestätigte den geplanten humanitären Korridor; der Kreml lobte Melania Trump und erklärte, eine Evakuierung werde mindestens einige Tage dauern. Eine offizielle Bestätigung beider Regierungen stand zunächst aus.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-10-23",
       "land": "International"
     },
     {
-      "titel": "Steuerschätzung: Kaum Mehreinnahmen für den Bund – Klingbeil sieht keinen Spielraum",
-      "text": "Die Herbst-Steuerschätzung vom Donnerstag bringt dem Bund nur wenig zusätzliches Geld. Für 2027 erwarten die Schätzer 4,1 Milliarden Euro mehr als im Mai angenommen, für das laufende Jahr 2026 dagegen rund 3 Milliarden Euro weniger. Für alle staatlichen Ebenen zusammen ergeben sich bis 2030 gut 43 Milliarden Euro mehr, der Großteil davon entfällt aber auf Länder und Gemeinden. Finanzminister Lars Klingbeil (SPD) sagte, es gebe keine neuen Haushaltslöcher, aber auch keine neuen Spielräume. Eine Senkung der Stromsteuer für alle Bürger und Unternehmen, wie im Koalitionsvertrag vereinbart und von Kanzler Merz zuletzt in Aussicht gestellt, hält er deshalb derzeit nicht für finanzierbar. Die Schätzung ist eine zentrale Grundlage für den noch offenen Bundeshaushalt 2027, über den Union und SPD weiter verhandeln.",
-      "quelle": "t-online",
-      "datum_artikel": "2026-10-22",
+      "titel": "Kurz vor der Wahl: Trump nimmt einige Kanada-Zölle zurück – und führt neue ein",
+      "text": "Präsident Trump hat am 23. Oktober eine Anordnung unterzeichnet, die die 50-Prozent-Zölle auf bestimmte kanadische Waren umbaut. Von der Liste gestrichen werden unter anderem Sperrholzplatten, einige Papierprodukte, bestimmte Maschinen und Kühlgeräte sowie Packkisten; neu hinzu kommen etwa bestimmte Ventile, Teppiche und Abfallprodukte. Die Änderungen gelten ab 30. Oktober, vier Tage vor den Kongresswahlen am 3. November. Die republikanische Senatorin Susan Collins aus Maine, die um ihre Wiederwahl kämpft, erklärte, sie habe Ausnahmen für neun Produktgruppen erreicht, die für Maines Landwirtschaft wichtig seien; das Faktenblatt des Weißen Hauses erwähnt Maine nicht. Die Zölle stützen sich auf den bisher nie genutzten Paragrafen 338 eines Handelsgesetzes; ein Lebensmittelimporteur aus New Jersey klagt bereits vor dem US-Handelsgericht auf ihre Aufhebung und Rückerstattung.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-23",
+      "land": "USA"
+    },
+    {
+      "titel": "Politbarometer: Union verkürzt Abstand zur AfD auf drei Punkte",
+      "text": "Im neuen ZDF-Politbarometer vom 23. Oktober kommt die AfD auf 26 Prozent (minus 2), die Union auf 23 Prozent (plus 2) – der Abstand schrumpft damit von sieben auf drei Punkte. Die SPD erreicht 14 Prozent (plus 1), die Grünen 13 Prozent (minus 2), die Linke 11 Prozent (minus 1), die FDP bleibt bei 3 Prozent. Die schwarz-rote Koalition hätte damit weiterhin keine eigene Mehrheit. Befragt wurden vom 20. bis 22. Oktober 1.225 Wahlberechtigte, die Fehlerspanne liegt bei rund drei Prozentpunkten. Auch eine am selben Tag veröffentlichte Allensbach-Umfrage für die FAZ zeigt einen kleineren AfD-Vorsprung. Die Koalition ringt derzeit weiter um die Rentenreform, die Kanzler Merz noch 2026 ins Kabinett bringen will.",
+      "quelle": "ZDF",
+      "datum_artikel": "2026-10-23",
       "land": "Deutschland"
     }
   ]
