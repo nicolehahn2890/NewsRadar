@@ -1,77 +1,70 @@
 {
-  "datum": "Samstag, 24. Oktober 2026",
-  "generiert": "2026-10-24",
+  "datum": "Sonntag, 25. Oktober 2026",
+  "generiert": "2026-10-25",
   "ki_stories": [
     {
-      "titel": "OpenAI trainiert seine Spitzenmodelle nur noch ohne Zugang zum echten Internet",
-      "text": "OpenAI hat am Freitag angekündigt, seine leistungsstärksten KI-Modelle (Frontier-Modelle) künftig nicht mehr mit Zugriff auf das Live-Internet zu trainieren. Stattdessen üben die Modelle in einer sogenannten 'Offline-Welt': einer riesigen, zwischengespeicherten Kopie von Webinhalten, in der sie weiterhin Browsen, Suchen, Programmieren und Computersteuerung lernen, ohne echte Systeme draußen zu beeinflussen. Auslöser war laut Berichten ein Sicherheitsvorfall vom 20. September, bei dem ein internes Forschungsmodell über eine falsch konfigurierte Netzwerkeinstellung (DNS) begrenzten Zugang zum Internet bekam; das Training war danach elf Tage unterbrochen und läuft seit 1. Oktober im neuen Aufbau. OpenAI begründet den Schritt mit der schwer vorhersehbaren Verhaltensweise der Modelle. Wie lange die Regel gilt, ist offen – laut Berichten so lange, bis Kontrolle und Überwachung der Modelle besser sind. Konkurrent Anthropic hatte bereits rund zwei Wochen zuvor begonnen, seine neuesten Modelle vom Live-Internet abzuschirmen.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-10-23"
-    },
-    {
-      "titel": "Microsoft-KI stellt in Science-Studie 83 Prozent schwieriger Diagnosen richtig – Ärzte 36 Prozent",
-      "text": "Das Fachjournal Science hat am 22. Oktober eine begutachtete Studie zu Microsofts Diagnose-System MAI-DxO veröffentlicht. Die KI, die mehrere Sprachmodelle wie ein Ärzteteam zusammenarbeiten lässt, lag bei 304 besonders kniffligen Fallberichten aus dem New England Journal of Medicine in 83,2 Prozent der Fälle richtig; Allgemeinmediziner mit Lehrbüchern und Internet kamen auf 36,1 Prozent, ohne Hilfsmittel auf 22,3 Prozent. Bei 325 Fällen aus der Notaufnahme erreichte das System 80,3 Prozent gegenüber 46,8 Prozent bei den Ärzten. Einschränkung: Getestet wurde nur mit historischen Textfällen, nicht an echten Patienten und nicht gegen Fachärzte oder Klinikteams. Microsoft plant als nächsten Schritt eine klinische Studie am Beth Israel Deaconess Medical Center in Boston; ein fertiges Produkt gibt es noch nicht.",
-      "quelle": "Technology.org",
+      "titel": "PHP2Shell: Von KI gefundene Sicherheitslücke führt zu Millionen Angriffen auf Webserver",
+      "text": "Zwei kritische Schwachstellen in der Programmiersprache PHP (CVE-2026-109618 und CVE-2026-109619), auf der ein Großteil aller Webseiten läuft, werden inzwischen massenhaft ausgenutzt. Gefunden wurden die Lücken mit Hilfe von KI-Werkzeugen, unter anderem durch die KI-Sicherheitsfirma Calif und den Cloud-Sicherheitsanbieter Wiz; der fehlerhafte Code existierte seit über zehn Jahren. Laut dem am 23. Oktober aktualisierten Lagebericht von Palo Alto Networks (Unit 42) drangen Angreifer bei einer europäischen Regierungsbehörde innerhalb von zwei Stunden bis zu Passwort-Hashes und Zwei-Faktor-Geheimnissen vor; Cloudflare zählte Millionen Angriffsversuche. Regierungsportale unter anderem in Deutschland, den Niederlanden, Frankreich, Dänemark und Finnland wurden vorsorglich vom Netz genommen, das FBI und die NSA riefen zum sofortigen Update auf. Abhilfe schaffen die PHP-Versionen 8.5.12, 8.4.27, 8.3.36 und 8.2.35; für die veralteten Versionen 5.x und 7.x gibt es keinen Patch. Der Fall gilt als Beispiel dafür, wie KI das Finden und Ausnutzen alter Programmierfehler stark beschleunigt.",
+      "quelle": "Palo Alto Networks Unit 42",
       "datum_artikel": "2026-10-23"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "DeepSeek sammelt rund 15 Milliarden Dollar ein – Tencent und CATL größte Geldgeber",
-      "text": "Das chinesische KI-Labor DeepSeek hat laut Bloomberg eine Finanzierungsrunde über etwa 100 Milliarden Yuan (rund 15 Milliarden Dollar) eingesammelt – eine der größten privaten KI-Finanzierungen in China überhaupt. Zu den größten Investoren gehören der Internetkonzern Tencent (WeChat) und der Batteriehersteller CATL; das Ziel der Runde war im Laufe der Gespräche von zunächst 50 auf 80 und schließlich 100 Milliarden Yuan angehoben worden. Reuters beschrieb die Runde am Donnerstag noch als kurz vor dem Abschluss, die Bedingungen könnten sich also noch ändern. Angaben zur Bewertung gehen in Berichten weit auseinander. Brisant ist der Zeitpunkt: Erst diese Woche hatten die USA DeepSeek aus allen zivilen Bundesbehörden verbannt – das frische Geld stärkt nun Chinas wichtigsten Herausforderer von OpenAI und Anthropic.",
-      "quelle": "Bloomberg",
+      "titel": "OpenAI senkt Bewertungsziel: bis zu 30 Mrd. Dollar bei 1,25 Billionen Dollar Bewertung",
+      "text": "OpenAI steht laut CNBC kurz vor einer Finanzierungsrunde von bis zu 30 Milliarden Dollar, angeführt von Investoren aus den Vereinigten Arabischen Emiraten und dem Hedgefonds Coatue. Neu gegenüber dem Stand vom Dienstag: Die Bewertung vor dem frischen Geld liegt nun bei 1,25 Billionen Dollar – Anfang Oktober hatte OpenAI potenziellen Geldgebern wie BlackRock und dem Emirate-Fonds MGX noch 1,4 Billionen Dollar genannt. Kommt die volle Summe zusammen, wäre OpenAI danach rund 1,28 Billionen Dollar wert, deutlich mehr als die 852 Milliarden Dollar vom März. Die Unterschriften sollen bis Ende kommender Woche vorliegen; Teil des Pakets könnte zusätzliche Rechenkapazität in den Emiraten sein. Die Runde gilt als Brückenfinanzierung vor einem möglichen Börsengang, für den OpenAI bereits im Juni vertrauliche Unterlagen eingereicht hat. Noch ist nichts unterschrieben, Größe und Bedingungen können sich ändern.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-10-23",
-      "unternehmen": "DeepSeek"
+      "unternehmen": "OpenAI"
     },
     {
-      "titel": "Starshield-Streit: Trump meldet Ende der Musk-Sperre, Ukraine sieht weiter Störungen",
-      "text": "Präsident Trump hat am Freitag erklärt, SpaceX-Chef Elon Musk habe die Beschränkungen für die Ukraine beim militärischen Satellitennetz Starshield aufgehoben. Ukrainische Soldaten und Diplomaten widersprachen: Der Dienst sei weiterhin gestört, so ein ukrainischer Vizebotschafter – 'bis heute hat sich nichts geändert'. Seit etwa 14. Oktober verlieren Starshield-Terminals auf schnell fahrenden Fahrzeugen und Drohnen die Verbindung, was laut Experten Drohnenangriffe auf russischen Nachschub stark behindert. Wer die Drosselung angeordnet hat, ist umstritten: Das Wall Street Journal berichtete, die Entscheidung gehe auf Musk zurück; Musk sagt, Tempo- und Nutzungsgrenzen lege das US-Militär bzw. der Präsident fest, Trump bestreitet jede Beteiligung. Der Streit verstärkt die Suche nach Alternativen zu Musks Satellitendiensten an – von denen es bislang aber kaum welche gibt.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-23",
-      "unternehmen": "SpaceX"
+      "titel": "NVIDIA als Geldgeber der KI-Branche vor erster großer Bewährungsprobe",
+      "text": "NVIDIA ist längst nicht mehr nur Chiphersteller, sondern auch einer der wichtigsten Finanziers der KI-Branche: Der Konzern hält Beteiligungen an Dutzenden Firmen, darunter OpenAI und Anthropic, sowie an sogenannten Neoclouds – Anbietern, die KI-Rechenleistung vermieten. Genau diese Neoclouds geraten nun unter Druck: CoreWeave, Nebius und IREN haben laut CNBC allein im Oktober jeweils mindestens 30 Prozent an Börsenwert verloren, gleichzeitig steigen die Renditen ihrer Anleihen, weil Anleger an der Finanzierbarkeit des KI-Ausbaus zweifeln. Bei CoreWeave hat NVIDIA sich sogar verpflichtet, bis 2032 nicht verkaufte Rechenkapazität abzunehmen. Für NVIDIA heißt das: Fallen die Kunden-Aktien, sinkt der Wert der eigenen Beteiligungen, und im schlimmsten Fall wackelt ein Teil der eigenen Chip-Nachfrage. NVIDIA-Chef Jensen Huang betont dagegen, die Nachfrage nach Neocloud-Kapazität sei weiterhin enorm.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-10-24",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "American Express hebt Prognose an und streicht 5 Prozent der Stellen – auch wegen KI",
-      "text": "American Express hat am Freitag starke Zahlen für das dritte Quartal vorgelegt: Der Gewinn je Aktie lag bei 4,68 Dollar (erwartet: 4,50 Dollar), der Umsatz bei 20,06 Milliarden Dollar. Gleichzeitig hob der Kreditkartenkonzern seine Gewinnprognose für 2026 auf 17,60 bis 17,90 Dollar je Aktie an. Zugleich kündigte Amex an, rund 5 Prozent der weltweit etwa 78.000 Beschäftigten abzubauen – laut Konzernchef Stephen Squeri rund 3.500 Stellen; dafür wurden im Quartal 336 Millionen Dollar Umbaukosten verbucht. Finanzchef Christophe Le Caillec sagte, das Unternehmen solle 'schlanker, beweglicher' werden und sich auf KI vorbereiten. Die Aktie gab trotz der guten Zahlen nach, im Tagesverlauf um bis zu rund 3 Prozent – ein Zeichen, wie kritisch Anleger derzeit auch bei soliden Ergebnissen sind.",
+      "titel": "China-Aktien: 3,5 Billionen Dollar Börsenwert seit Mai vernichtet – CSI 300 im Bärenmarkt",
+      "text": "Chinas Aktienmarkt, der zweitgrößte der Welt, hat seit seinem Hoch im Mai rund 3,5 Billionen Dollar an Wert verloren, wie Bloomberg-Daten zeigen. Der Leitindex CSI 300 ist in der vergangenen Woche nach zehn Verlustwochen in Folge in einen Bärenmarkt gerutscht, also mehr als 20 Prozent unter sein Hoch vom Juni gefallen. Laut Bloomberg wird der Ausverkauf zur Falle, weil die Wirtschaft schwach genug ist, um die Firmengewinne zu drücken, aber nicht schwach genug, um Peking zu großen neuen Konjunkturprogrammen zu bewegen. Ein Beispiel: Der Batteriehersteller CATL stürzte am Mittwoch um rund 12 Prozent ab, weil der Quartalsgewinn trotz 58,6 Prozent mehr Umsatz nur um 14,5 Prozent stieg. Analysten von Bloomberg Intelligence erwarten, dass staatlich gelenkte Fonds ihre Aktienkäufe ausweiten müssen – bezweifeln aber, dass das allein für eine nachhaltige Erholung reicht.",
       "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-25"
+    },
+    {
+      "titel": "SpaceX will vierter US-Mobilfunkanbieter werden – T-Mobile, AT&T und Verizon fallen",
+      "text": "Die Aktien der drei großen US-Mobilfunkkonzerne sind am Freitag deutlich gefallen: T-Mobile verlor rund 5 Prozent, AT&T rund 4 Prozent und Verizon rund 3 Prozent. Auslöser war ein Bloomberg-Bericht, wonach SpaceX mit Funkturm-Betreibern wie Crown Castle über die Nutzung von mindestens 80.000 Mobilfunkstandorten verhandelt – etwa die Hälfte aller eigens gebauten Funktürme in den USA. Damit könnte die Starlink-Mobilfunksparte zum vierten landesweiten Netzbetreiber werden. Die Turm-Besitzer profitierten: Crown Castle stieg nachbörslich um mehr als 9 Prozent, American Tower um gut 4 Prozent. Unterschrieben ist bislang nichts, und der bereits vereinbarte Kauf von landesweiten Funkfrequenzen durch SpaceX muss noch von der Telekom-Aufsicht FCC und dem Justizministerium genehmigt werden. Analysten erinnern daran, dass zuletzt DISH mit dem Versuch scheiterte, ein viertes Netz aufzubauen.",
+      "quelle": "Forbes",
       "datum_artikel": "2026-10-23"
     },
     {
-      "titel": "Cybersecurity-Aktien springen gegen den Markt – CrowdStrike und Palo Alto rund 6 Prozent im Plus",
-      "text": "Während der Dow Jones am Freitag deutlich fiel, legten Aktien von IT-Sicherheitsfirmen kräftig zu: Palo Alto Networks und CrowdStrike gewannen jeweils rund 6 bis 7 Prozent, auch Okta, SailPoint und Cloudflare stiegen deutlich. Auslöser war eine Umfrage der Investmentbank Evercore ISI unter Vertriebspartnern, die zum Jahresende festere Sicherheitsbudgets bei Unternehmen sieht und CrowdStrike und Palo Alto als größte Profiteure KI-getriebener Sicherheitsausgaben nennt. Rückenwind gaben zudem zwei kritische, mit KI-Hilfe entdeckte Sicherheitslücken in der weit verbreiteten Web-Programmiersprache PHP, vor denen Behörden diese Woche gewarnt hatten. Mizuho hob außerdem das Kursziel für CrowdStrike von 250 auf 275 Dollar an. Analysten mahnen aber: Die Branche ist 2026 bereits stark gestiegen (CrowdStrike über 120 Prozent), und Umfrage-Rallys können schnell verpuffen, wenn die nächsten Quartalszahlen nicht mithalten.",
-      "quelle": "Yahoo Finance",
+      "titel": "Dow verliert 653 Punkte: Huthi-Angriffe auf Saudi-Arabien treiben Brent auf 116 Dollar",
+      "text": "Der Dow Jones ist am Freitag um 652,82 Punkte oder 1,23 Prozent auf 52.215 Punkte gefallen, der S&P 500 gab 0,52 Prozent auf 7.623 Punkte nach. Neu gegenüber dem Ölpreisanstieg vom Donnerstag: Nach Angriffen der Huthi-Miliz in Saudi-Arabien schloss die Nordseesorte Brent bei 116,72 Dollar je Barrel – so hoch wie seit dem 29. April nicht mehr; US-Öl stieg über 100 Dollar. Anleger fürchten neue Lieferausfälle und ein Wiederaufflammen des Konflikts zwischen den USA und dem Iran. Energiewerte legten deshalb zu, der Ölausrüster SLB etwa um mehr als 7 Prozent, während die meisten anderen Branchen nachgaben. Zusätzlich belasteten anhaltende Zweifel, ob sich die hohen KI-Ausgaben der Tech-Konzerne auszahlen.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-10-23"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump lässt Justizministerium gegen mögliche Niederlage im Senatsrennen in Alaska klagen",
-      "text": "Das US-Justizministerium hat Klage gegen die Wahlbehörden in Alaska eingereicht, um die Bestätigung (Zertifizierung) des Ergebnisses der Senatswahl zu blockieren, falls der republikanische Amtsinhaber Dan Sullivan knapp verliert. Begründung: Ein zweiter Kandidat mit fast gleichem Namen, Daniel J. Sullivan, stehe auf dem Stimmzettel und solle Sullivans Anhänger in die Irre führen – das könne der Demokratin Mary Peltola zum Sieg verhelfen. Präsident Trump sagte am Freitag, er habe die Klage selbst angeordnet. Peltola nannte den Schritt Korruption; Sullivans Wahlkampfteam erklärte, man lasse das Verfahren seinen Lauf nehmen, die Wahlbehörde prüft die Klage. Der Rechtsprofessor Derek Muller (Notre Dame) erwartet, dass das Gericht die Klage abweist, weil das Gesetz dem Ministerium keine Blockade der Zertifizierung erlaube. Gewählt wird am 3. November.",
+      "titel": "Trump wählt vorzeitig in Florida und wirbt in Georgia – Debatte um Presseraum",
+      "text": "US-Präsident Donald Trump hat am Samstag in West Palm Beach (Florida) vorzeitig seine Stimme für die Zwischenwahlen am 3. November abgegeben und nach eigenen Angaben durchgehend Republikaner gewählt. Anschließend trat er bei einer Kundgebung in Georgia auf, um den republikanischen Senatskandidaten Mike Collins zu unterstützen, der gegen den demokratischen Amtsinhaber Jon Ossoff antritt, sowie den Gouverneurskandidaten Rick Jackson. In einem Beitrag in den sozialen Medien schrieb Trump, er könnte die Journalisten aus dem Pressebriefing-Raum des Weißen Hauses an einen anderen Ort verlegen. Am Sonntag ist ein weiterer Auftritt in Port Huron (Michigan) geplant. Bei einer Kundgebung in Fort Myers am Freitag hatte Trump zudem angedeutet, die USA könnten nach den Wahlen erneut militärisch gegen den Iran vorgehen.",
       "quelle": "NBC News",
-      "datum_artikel": "2026-10-23",
+      "datum_artikel": "2026-10-24",
       "land": "USA"
     },
     {
-      "titel": "Weißes Haus: Melania Trump vermittelt örtliche Waffenruhe für ukrainische Stadt Oleschky",
-      "text": "Das Weiße Haus hat am Freitag mitgeteilt, dass sich Russland und die Ukraine auf eine örtlich begrenzte Waffenruhe für die russisch besetzte Stadt Oleschky im Süden der Ukraine geeinigt haben, vermittelt von First Lady Melania Trump unter Beteiligung von Papst Leo. Die Feuerpause soll am 29. Oktober beginnen; über einen sicheren Korridor sollen Zivilisten die Stadt verlassen und Hilfsgüter hineingelangen können. In der eingeschlossenen Stadt leben nach US-Schätzung nur noch 1.700 bis 2.000 Menschen, darunter etwa 50 Kinder. Der ukrainische Unterhändler David Arachamija bestätigte den geplanten humanitären Korridor; der Kreml lobte Melania Trump und erklärte, eine Evakuierung werde mindestens einige Tage dauern. Eine offizielle Bestätigung beider Regierungen stand zunächst aus.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-23",
-      "land": "International"
-    },
-    {
-      "titel": "Kurz vor der Wahl: Trump nimmt einige Kanada-Zölle zurück – und führt neue ein",
-      "text": "Präsident Trump hat am 23. Oktober eine Anordnung unterzeichnet, die die 50-Prozent-Zölle auf bestimmte kanadische Waren umbaut. Von der Liste gestrichen werden unter anderem Sperrholzplatten, einige Papierprodukte, bestimmte Maschinen und Kühlgeräte sowie Packkisten; neu hinzu kommen etwa bestimmte Ventile, Teppiche und Abfallprodukte. Die Änderungen gelten ab 30. Oktober, vier Tage vor den Kongresswahlen am 3. November. Die republikanische Senatorin Susan Collins aus Maine, die um ihre Wiederwahl kämpft, erklärte, sie habe Ausnahmen für neun Produktgruppen erreicht, die für Maines Landwirtschaft wichtig seien; das Faktenblatt des Weißen Hauses erwähnt Maine nicht. Die Zölle stützen sich auf den bisher nie genutzten Paragrafen 338 eines Handelsgesetzes; ein Lebensmittelimporteur aus New Jersey klagt bereits vor dem US-Handelsgericht auf ihre Aufhebung und Rückerstattung.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-23",
+      "titel": "Obama wirbt in Detroit für Senatskandidat El-Sayed – Frühwahl in Michigan gestartet",
+      "text": "Der frühere US-Präsident Barack Obama ist am Samstag in Detroit für die Demokraten in Michigan aufgetreten – am ersten Tag der landesweiten persönlichen Frühwahl im Bundesstaat. Er unterstützte den Senatskandidaten Abdul El-Sayed und die Gouverneurskandidatin Jocelyn Benson. Laut Bloomberg kritisierte Obama einen aus seiner Sicht 'rückgratlosen Kongress' und machte Präsident Trump für Inflation und hohe Preise verantwortlich. Michigan gehört zu den umkämpften Bundesstaaten, in denen sich die Mehrheit im US-Senat entscheiden könnte; El-Sayeds republikanischer Gegner ist Mike Rogers. Umfragen zeigten zuletzt, dass El-Sayed bei schwarzen Wählern schwächer abschneidet als frühere demokratische Kandidaten – der Auftritt Obamas soll diese Gruppe mobilisieren. Gewählt wird am 3. November.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-25",
       "land": "USA"
     },
     {
-      "titel": "Politbarometer: Union verkürzt Abstand zur AfD auf drei Punkte",
-      "text": "Im neuen ZDF-Politbarometer vom 23. Oktober kommt die AfD auf 26 Prozent (minus 2), die Union auf 23 Prozent (plus 2) – der Abstand schrumpft damit von sieben auf drei Punkte. Die SPD erreicht 14 Prozent (plus 1), die Grünen 13 Prozent (minus 2), die Linke 11 Prozent (minus 1), die FDP bleibt bei 3 Prozent. Die schwarz-rote Koalition hätte damit weiterhin keine eigene Mehrheit. Befragt wurden vom 20. bis 22. Oktober 1.225 Wahlberechtigte, die Fehlerspanne liegt bei rund drei Prozentpunkten. Auch eine am selben Tag veröffentlichte Allensbach-Umfrage für die FAZ zeigt einen kleineren AfD-Vorsprung. Die Koalition ringt derzeit weiter um die Rentenreform, die Kanzler Merz noch 2026 ins Kabinett bringen will.",
+      "titel": "CSU-Parteitag: Söder nennt Koalition 'letzte Patrone der Demokratie', Merz beschwört Einheit",
+      "text": "Auf dem CSU-Parteitag in München haben CSU-Chef Markus Söder und Bundeskanzler Friedrich Merz (CDU) den Zusammenhalt der Union und der Koalition mit der SPD in den Mittelpunkt gestellt. Söder sagte am Freitag, die schwarz-rote Koalition dürfe nicht scheitern, sie sei womöglich die 'letzte Patrone der Demokratie'; eine Zusammenarbeit mit der AfD schloss er erneut aus. Zudem warb er für CSU-Politikerin Ilse Aigner als nächste Bundespräsidentin, betonte aber, entschieden werde 'woanders' – die Bundesversammlung wählt am 30. Januar 2027. Merz rief am Samstag vor rund 700 Delegierten zu schneller Umsetzung der Reformen auf und sagte, die Union werde kämpfen müssen. Zum Vorschlag Aigner äußerte er sich nicht. Hintergrund ist der Streit in der Koalition über Rente, Pflege und Haushalt, bei dem Merz Entscheidungen inzwischen erst für das Frühjahr 2027 erwartet.",
       "quelle": "ZDF",
-      "datum_artikel": "2026-10-23",
+      "datum_artikel": "2026-10-24",
       "land": "Deutschland"
     }
   ]
