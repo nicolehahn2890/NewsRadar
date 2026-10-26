@@ -1,71 +1,66 @@
 {
-  "datum": "Sonntag, 25. Oktober 2026",
-  "generiert": "2026-10-25",
+  "datum": "Montag, 26. Oktober 2026",
+  "generiert": "2026-10-26",
   "ki_stories": [
     {
-      "titel": "PHP2Shell: Von KI gefundene Sicherheitslücke führt zu Millionen Angriffen auf Webserver",
-      "text": "Zwei kritische Schwachstellen in der Programmiersprache PHP (CVE-2026-109618 und CVE-2026-109619), auf der ein Großteil aller Webseiten läuft, werden inzwischen massenhaft ausgenutzt. Gefunden wurden die Lücken mit Hilfe von KI-Werkzeugen, unter anderem durch die KI-Sicherheitsfirma Calif und den Cloud-Sicherheitsanbieter Wiz; der fehlerhafte Code existierte seit über zehn Jahren. Laut dem am 23. Oktober aktualisierten Lagebericht von Palo Alto Networks (Unit 42) drangen Angreifer bei einer europäischen Regierungsbehörde innerhalb von zwei Stunden bis zu Passwort-Hashes und Zwei-Faktor-Geheimnissen vor; Cloudflare zählte Millionen Angriffsversuche. Regierungsportale unter anderem in Deutschland, den Niederlanden, Frankreich, Dänemark und Finnland wurden vorsorglich vom Netz genommen, das FBI und die NSA riefen zum sofortigen Update auf. Abhilfe schaffen die PHP-Versionen 8.5.12, 8.4.27, 8.3.36 und 8.2.35; für die veralteten Versionen 5.x und 7.x gibt es keinen Patch. Der Fall gilt als Beispiel dafür, wie KI das Finden und Ausnutzen alter Programmierfehler stark beschleunigt.",
-      "quelle": "Palo Alto Networks Unit 42",
-      "datum_artikel": "2026-10-23"
+      "titel": "Apollo-Chefökonom: KI bringt Firmen außerhalb der Tech-Branche bisher nichts",
+      "text": "Torsten Slok, Chefökonom des Finanzinvestors Apollo, kommt in einer neuen Analyse zu dem Schluss, dass künstliche Intelligenz den Unternehmen außerhalb der Tech-Branche bislang praktisch keinen messbaren Nutzen gebracht hat. Als Maßstab nimmt er den Umsatz pro Mitarbeiter: Bei den sieben großen Tech-Konzernen (den sogenannten Magnificent 7, darunter Microsoft, Alphabet, Amazon und NVIDIA) steigt dieser Wert, bei den übrigen 493 Firmen im S&P 500 ist er dagegen flach. Das ist relevant, weil die enormen KI-Investitionen von Anlegern vor allem mit künftigen Produktivitätsgewinnen in der gesamten Wirtschaft gerechtfertigt werden. Die Analyse kommt zu einem heiklen Zeitpunkt: Diese Woche legen Microsoft, Alphabet und Amazon Quartalszahlen vor, und die Börse zweifelt zunehmend daran, ob sich die Milliardenausgaben für KI bald auszahlen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-25"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI senkt Bewertungsziel: bis zu 30 Mrd. Dollar bei 1,25 Billionen Dollar Bewertung",
-      "text": "OpenAI steht laut CNBC kurz vor einer Finanzierungsrunde von bis zu 30 Milliarden Dollar, angeführt von Investoren aus den Vereinigten Arabischen Emiraten und dem Hedgefonds Coatue. Neu gegenüber dem Stand vom Dienstag: Die Bewertung vor dem frischen Geld liegt nun bei 1,25 Billionen Dollar – Anfang Oktober hatte OpenAI potenziellen Geldgebern wie BlackRock und dem Emirate-Fonds MGX noch 1,4 Billionen Dollar genannt. Kommt die volle Summe zusammen, wäre OpenAI danach rund 1,28 Billionen Dollar wert, deutlich mehr als die 852 Milliarden Dollar vom März. Die Unterschriften sollen bis Ende kommender Woche vorliegen; Teil des Pakets könnte zusätzliche Rechenkapazität in den Emiraten sein. Die Runde gilt als Brückenfinanzierung vor einem möglichen Börsengang, für den OpenAI bereits im Juni vertrauliche Unterlagen eingereicht hat. Noch ist nichts unterschrieben, Größe und Bedingungen können sich ändern.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-23",
+      "titel": "Musk: SpaceX sichert sich 40 Milliarden Dollar Kredit für KI-Chips – und warnt vor Neocloud-Pleiten",
+      "text": "Elon Musk hat am Sonntag auf X erklärt, SpaceX habe eine Fremdfinanzierung über 40 Milliarden Dollar abgeschlossen, um Grafikprozessoren (GPUs) von NVIDIA für KI-Rechenzentren zu kaufen. Das Geld soll laut Musk überwiegend im ersten und zweiten Quartal 2027 fließen; möglich gemacht hätten das die gute Kreditwürdigkeit (Investment Grade) und die stabilen Einnahmen aus Starlink und dem Raketengeschäft. Laut früheren Berichten führt Goldman Sachs die Gespräche mit Investoren wie Apollo, und die Schulden sollen in einer Zweckgesellschaft außerhalb der SpaceX-Bilanz liegen; ob alle Konditionen bereits endgültig unterschrieben sind, ist laut Bloomberg noch nicht ganz klar. Zugleich warnte Musk, die Kreditmärkte seien für Firmen ohne nennenswerte Einnahmen außerhalb von KI-Rechenzentren praktisch geschlossen – er erwartet Pleiten und eine Konsolidierung unter den über 200 sogenannten Neoclouds (Anbieter, die KI-Rechenleistung vermieten, etwa CoreWeave oder Nebius). Die Aussage dürfte den Druck auf diese ohnehin stark gefallenen Aktien weiter erhöhen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-25",
+      "unternehmen": "SpaceX"
+    },
+    {
+      "titel": "Mit Rabatten bis zu 90 Prozent: OpenAI wirbt Anthropic große Programmier-Kunden ab",
+      "text": "OpenAI gewinnt laut einem Bericht von The Information mit kräftigen Preisnachlässen wichtige Firmenkunden von Anthropic, vor allem beim KI-gestützten Programmieren. Beim Personalsoftware-Anbieter Rippling lief im Mai noch 57 Prozent der Programmierarbeit über Anthropic-Modelle und 16 Prozent über OpenAI – inzwischen sind es 52 Prozent OpenAI und nur noch 18 Prozent Anthropic; Firmenchef Parker Conrad nennt die Kosten als Grund. Die Programmierplattform Replit verlagerte den Großteil ihrer KI-Ausgaben von über 100 Millionen Dollar pro Jahr zu OpenAI, nachdem OpenAI mehr als 30 Prozent Rabatt bot. Die oft genannten 90 Prozent beziehen sich auf die Kostenersparnis eines einzelnen Kunden (DataCamp), nicht auf eine offizielle Preissenkung; beide Firmen haben die Zahlen nicht bestätigt. Der Preiskampf kommt kurz vor Anthropics geplantem Börsengang im November und zeigt ein Risiko, das Anleger bei beiden Firmen sehen: Ihre Produkte sind für Kunden relativ leicht austauschbar.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-10-24",
       "unternehmen": "OpenAI"
     },
     {
-      "titel": "NVIDIA als Geldgeber der KI-Branche vor erster großer Bewährungsprobe",
-      "text": "NVIDIA ist längst nicht mehr nur Chiphersteller, sondern auch einer der wichtigsten Finanziers der KI-Branche: Der Konzern hält Beteiligungen an Dutzenden Firmen, darunter OpenAI und Anthropic, sowie an sogenannten Neoclouds – Anbietern, die KI-Rechenleistung vermieten. Genau diese Neoclouds geraten nun unter Druck: CoreWeave, Nebius und IREN haben laut CNBC allein im Oktober jeweils mindestens 30 Prozent an Börsenwert verloren, gleichzeitig steigen die Renditen ihrer Anleihen, weil Anleger an der Finanzierbarkeit des KI-Ausbaus zweifeln. Bei CoreWeave hat NVIDIA sich sogar verpflichtet, bis 2032 nicht verkaufte Rechenkapazität abzunehmen. Für NVIDIA heißt das: Fallen die Kunden-Aktien, sinkt der Wert der eigenen Beteiligungen, und im schlimmsten Fall wackelt ein Teil der eigenen Chip-Nachfrage. NVIDIA-Chef Jensen Huang betont dagegen, die Nachfrage nach Neocloud-Kapazität sei weiterhin enorm.",
-      "quelle": "CNBC",
+      "titel": "Volkswagen baut erstes Audi-Werk in den USA – rund 4 Milliarden Dollar für Georgia",
+      "text": "Volkswagen will in Macon im US-Bundesstaat Georgia das erste US-Werk der Marke Audi bauen. Laut Audi fließen rund 4 Milliarden Dollar in das Projekt, etwa 4.500 Arbeitsplätze sollen entstehen; gebaut werden sollen große SUVs wie Q7, Q8 und Q9, die Kapazität liegt bei rund 200.000 Fahrzeugen pro Jahr. Zusätzlich soll das im Bau befindliche Werk der VW-Tochter Scout Motors in South Carolina um etwa 25.000 Fahrzeuge pro Jahr erweitert werden. Präsident Trump stellte den Plan am Samstag bei einem Wahlkampfauftritt in Perry (Georgia) vor – laut Bloomberg ein politischer Erfolg für ihn kurz vor den Zwischenwahlen am 3. November. VW erhofft sich im Gegenzug Erleichterungen bei den US-Zöllen; über ein Gutschriftensystem für Autobauer, die ihre US-Produktion ausbauen, wird noch verhandelt. Wann der Bau beginnt, ist uneinheitlich berichtet: Trump sprach von nächstem Monat, Bloomberg von nächstem Jahr.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-10-24",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Volkswagen"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "China-Aktien: 3,5 Billionen Dollar Börsenwert seit Mai vernichtet – CSI 300 im Bärenmarkt",
-      "text": "Chinas Aktienmarkt, der zweitgrößte der Welt, hat seit seinem Hoch im Mai rund 3,5 Billionen Dollar an Wert verloren, wie Bloomberg-Daten zeigen. Der Leitindex CSI 300 ist in der vergangenen Woche nach zehn Verlustwochen in Folge in einen Bärenmarkt gerutscht, also mehr als 20 Prozent unter sein Hoch vom Juni gefallen. Laut Bloomberg wird der Ausverkauf zur Falle, weil die Wirtschaft schwach genug ist, um die Firmengewinne zu drücken, aber nicht schwach genug, um Peking zu großen neuen Konjunkturprogrammen zu bewegen. Ein Beispiel: Der Batteriehersteller CATL stürzte am Mittwoch um rund 12 Prozent ab, weil der Quartalsgewinn trotz 58,6 Prozent mehr Umsatz nur um 14,5 Prozent stieg. Analysten von Bloomberg Intelligence erwarten, dass staatlich gelenkte Fonds ihre Aktienkäufe ausweiten müssen – bezweifeln aber, dass das allein für eine nachhaltige Erholung reicht.",
+      "titel": "Goldman Sachs senkt Kospi-Kursziel um 25 Prozent – KI-Handel in Südkorea bricht ein",
+      "text": "Die Strategen von Goldman Sachs haben ihr Zwölf-Monats-Kursziel für den südkoreanischen Leitindex Kospi um ein Viertel gesenkt, von 12.000 auf 9.000 Punkte. Hintergrund ist der Absturz des Index um mehr als 35 Prozent seit seinem Hoch im Juni, nachdem der Kospi zuvor als einer der größten Gewinner des KI-Booms galt. Der Index hängt stark an den beiden Speicherchip-Herstellern Samsung Electronics und SK Hynix, die zusammen etwa die Hälfte seines Börsenwerts ausmachen und deren Kurse von der wachsenden Skepsis gegenüber den KI-Investitionen getroffen werden. Die Herabstufung kommt unmittelbar vor der wichtigsten Berichtswoche in Asien: Ab Montag legen rund 550 Unternehmen aus dem MSCI-Asien-Pazifik-Index Zahlen vor, darunter SK Hynix und Samsung – ihre Ausblicke gelten als Test, ob sich der KI-Handel wieder fängt.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-10-25"
-    },
-    {
-      "titel": "SpaceX will vierter US-Mobilfunkanbieter werden – T-Mobile, AT&T und Verizon fallen",
-      "text": "Die Aktien der drei großen US-Mobilfunkkonzerne sind am Freitag deutlich gefallen: T-Mobile verlor rund 5 Prozent, AT&T rund 4 Prozent und Verizon rund 3 Prozent. Auslöser war ein Bloomberg-Bericht, wonach SpaceX mit Funkturm-Betreibern wie Crown Castle über die Nutzung von mindestens 80.000 Mobilfunkstandorten verhandelt – etwa die Hälfte aller eigens gebauten Funktürme in den USA. Damit könnte die Starlink-Mobilfunksparte zum vierten landesweiten Netzbetreiber werden. Die Turm-Besitzer profitierten: Crown Castle stieg nachbörslich um mehr als 9 Prozent, American Tower um gut 4 Prozent. Unterschrieben ist bislang nichts, und der bereits vereinbarte Kauf von landesweiten Funkfrequenzen durch SpaceX muss noch von der Telekom-Aufsicht FCC und dem Justizministerium genehmigt werden. Analysten erinnern daran, dass zuletzt DISH mit dem Versuch scheiterte, ein viertes Netz aufzubauen.",
-      "quelle": "Forbes",
-      "datum_artikel": "2026-10-23"
-    },
-    {
-      "titel": "Dow verliert 653 Punkte: Huthi-Angriffe auf Saudi-Arabien treiben Brent auf 116 Dollar",
-      "text": "Der Dow Jones ist am Freitag um 652,82 Punkte oder 1,23 Prozent auf 52.215 Punkte gefallen, der S&P 500 gab 0,52 Prozent auf 7.623 Punkte nach. Neu gegenüber dem Ölpreisanstieg vom Donnerstag: Nach Angriffen der Huthi-Miliz in Saudi-Arabien schloss die Nordseesorte Brent bei 116,72 Dollar je Barrel – so hoch wie seit dem 29. April nicht mehr; US-Öl stieg über 100 Dollar. Anleger fürchten neue Lieferausfälle und ein Wiederaufflammen des Konflikts zwischen den USA und dem Iran. Energiewerte legten deshalb zu, der Ölausrüster SLB etwa um mehr als 7 Prozent, während die meisten anderen Branchen nachgaben. Zusätzlich belasteten anhaltende Zweifel, ob sich die hohen KI-Ausgaben der Tech-Konzerne auszahlen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-10-23"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump wählt vorzeitig in Florida und wirbt in Georgia – Debatte um Presseraum",
-      "text": "US-Präsident Donald Trump hat am Samstag in West Palm Beach (Florida) vorzeitig seine Stimme für die Zwischenwahlen am 3. November abgegeben und nach eigenen Angaben durchgehend Republikaner gewählt. Anschließend trat er bei einer Kundgebung in Georgia auf, um den republikanischen Senatskandidaten Mike Collins zu unterstützen, der gegen den demokratischen Amtsinhaber Jon Ossoff antritt, sowie den Gouverneurskandidaten Rick Jackson. In einem Beitrag in den sozialen Medien schrieb Trump, er könnte die Journalisten aus dem Pressebriefing-Raum des Weißen Hauses an einen anderen Ort verlegen. Am Sonntag ist ein weiterer Auftritt in Port Huron (Michigan) geplant. Bei einer Kundgebung in Fort Myers am Freitag hatte Trump zudem angedeutet, die USA könnten nach den Wahlen erneut militärisch gegen den Iran vorgehen.",
-      "quelle": "NBC News",
-      "datum_artikel": "2026-10-24",
-      "land": "USA"
+      "titel": "Dobrindt will Enteignung von Wohnungskonzernen per Bundesgesetz stark erschweren",
+      "text": "Bundesinnenminister Alexander Dobrindt (CSU) will Vergesellschaftungen von Wohnungen, wie sie Linke, Grüne und SPD in Berlin planen, mit einem Investitionsschutzgesetz deutlich erschweren. Laut den Eckpunkten seines Ministeriums soll eine Enteignung von Mietwohnungen nur noch möglich sein, wenn ihre zwingende Notwendigkeit ausdrücklich nachgewiesen ist und alle anderen Mittel gegen Wohnungsmangel und hohe Mieten ausgeschöpft sind. Entschädigt werden müsste dann sofort in Geld und zum Verkehrswert, ermittelt durch ein Gutachten. Die Berliner Parteien wollen laut ihrem Sondierungspapier Konzerne mit mehr als 10.000 Wohnungen vergesellschaften, insgesamt rund 160.000 Wohnungen, und rechnen mit Entschädigungen von etwa 16 Milliarden Euro. Dobrindt sprach in der Bild-Zeitung von einem willkürlichen linken Vergesellschaftungs-Fetisch; Linken-Chef Luigi Pantisano erwidert, ein solches Gesetz werde vor dem Bundesverfassungsgericht keinen Bestand haben. Die Bundesregierung hat sich grundsätzlich auf das Vorhaben verständigt, die Abstimmung innerhalb der Regierung läuft aber noch; Justizministerin Stefanie Hubig (SPD) nannte ein solches Sperrgesetz verfassungsrechtlich nicht trivial.",
+      "quelle": "ZDFheute",
+      "datum_artikel": "2026-10-25",
+      "land": "Deutschland"
     },
     {
-      "titel": "Obama wirbt in Detroit für Senatskandidat El-Sayed – Frühwahl in Michigan gestartet",
-      "text": "Der frühere US-Präsident Barack Obama ist am Samstag in Detroit für die Demokraten in Michigan aufgetreten – am ersten Tag der landesweiten persönlichen Frühwahl im Bundesstaat. Er unterstützte den Senatskandidaten Abdul El-Sayed und die Gouverneurskandidatin Jocelyn Benson. Laut Bloomberg kritisierte Obama einen aus seiner Sicht 'rückgratlosen Kongress' und machte Präsident Trump für Inflation und hohe Preise verantwortlich. Michigan gehört zu den umkämpften Bundesstaaten, in denen sich die Mehrheit im US-Senat entscheiden könnte; El-Sayeds republikanischer Gegner ist Mike Rogers. Umfragen zeigten zuletzt, dass El-Sayed bei schwarzen Wählern schwächer abschneidet als frühere demokratische Kandidaten – der Auftritt Obamas soll diese Gruppe mobilisieren. Gewählt wird am 3. November.",
-      "quelle": "Bloomberg",
+      "titel": "Umfrage: Nur 23 Prozent glauben, dass Schwarz-Rot bis 2029 durchhält",
+      "text": "Laut einer YouGov-Umfrage im Auftrag der Deutschen Presse-Agentur (dpa) unter 2.202 Wahlberechtigten glaubt nur knapp ein Viertel (23 Prozent), dass die Koalition aus Union und SPD unter Kanzler Friedrich Merz die volle Wahlperiode bis 2029 übersteht. 13 Prozent erwarten einen Bruch noch in diesem Jahr, 44 Prozent ein vorzeitiges Ende innerhalb der nächsten zwei Jahre. Auffällig ist die Skepsis im eigenen Lager: 53 Prozent der Unions-Anhänger rechnen mit einem vorzeitigen Aus, nur 32 Prozent mit einem Durchhalten bis 2029. Die Umfrage folgt auf das CSU-Wochenende, an dem Merz und CSU-Chef Markus Söder die Einheit der Koalition beschworen hatten. Konkrete Folgen hat die Umfrage nicht, sie zeigt aber, unter welchem Druck die Regierung bei anstehenden Streitthemen wie Rente und Haushalt steht.",
+      "quelle": "dpa",
+      "datum_artikel": "2026-10-25",
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Trump wirbt in Michigan für Rogers und greift Demokraten El-Sayed scharf an",
+      "text": "US-Präsident Donald Trump ist am Sonntag in Port Huron (Michigan) aufgetreten, um den republikanischen Senatskandidaten Mike Rogers zu unterstützen – einen Tag nach dem Auftritt von Ex-Präsident Barack Obama für dessen demokratischen Gegner Abdul El-Sayed. Laut CNN und Detroit News bezeichnete Trump El-Sayed, der Muslim ist, als 'Dschihadisten', nannte ihn 'Mohammed' und behauptete ohne Belege Verbindungen zu Terroristen. El-Sayed konterte mit den Worten 'I'll be Sen. Mohammed to you, bro' (sinngemäß: Für dich bin ich dann Senator Mohammed). Trump rief die Wähler in Michigan auf, so abzustimmen, als stünde er selbst auf dem Wahlzettel; mit dabei war auch die Rapperin Nicki Minaj. Das Rennen um den frei werdenden Sitz von Gary Peters ist eng und laut Bridge Michigan das teuerste Senatsrennen in der Geschichte des Bundesstaats; es könnte mit über die Mehrheit im US-Senat entscheiden. Gewählt wird am 3. November, am Montag will Trump in Mississippi für Senatorin Cindy Hyde-Smith werben.",
+      "quelle": "CNN",
       "datum_artikel": "2026-10-25",
       "land": "USA"
-    },
-    {
-      "titel": "CSU-Parteitag: Söder nennt Koalition 'letzte Patrone der Demokratie', Merz beschwört Einheit",
-      "text": "Auf dem CSU-Parteitag in München haben CSU-Chef Markus Söder und Bundeskanzler Friedrich Merz (CDU) den Zusammenhalt der Union und der Koalition mit der SPD in den Mittelpunkt gestellt. Söder sagte am Freitag, die schwarz-rote Koalition dürfe nicht scheitern, sie sei womöglich die 'letzte Patrone der Demokratie'; eine Zusammenarbeit mit der AfD schloss er erneut aus. Zudem warb er für CSU-Politikerin Ilse Aigner als nächste Bundespräsidentin, betonte aber, entschieden werde 'woanders' – die Bundesversammlung wählt am 30. Januar 2027. Merz rief am Samstag vor rund 700 Delegierten zu schneller Umsetzung der Reformen auf und sagte, die Union werde kämpfen müssen. Zum Vorschlag Aigner äußerte er sich nicht. Hintergrund ist der Streit in der Koalition über Rente, Pflege und Haushalt, bei dem Merz Entscheidungen inzwischen erst für das Frühjahr 2027 erwartet.",
-      "quelle": "ZDF",
-      "datum_artikel": "2026-10-24",
-      "land": "Deutschland"
     }
   ]
 }
