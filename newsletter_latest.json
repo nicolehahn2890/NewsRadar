@@ -1,66 +1,66 @@
 {
-  "datum": "Montag, 26. Oktober 2026",
-  "generiert": "2026-10-26",
+  "datum": "Dienstag, 27. Oktober 2026",
+  "generiert": "2026-10-27",
   "ki_stories": [
     {
-      "titel": "Apollo-Chefökonom: KI bringt Firmen außerhalb der Tech-Branche bisher nichts",
-      "text": "Torsten Slok, Chefökonom des Finanzinvestors Apollo, kommt in einer neuen Analyse zu dem Schluss, dass künstliche Intelligenz den Unternehmen außerhalb der Tech-Branche bislang praktisch keinen messbaren Nutzen gebracht hat. Als Maßstab nimmt er den Umsatz pro Mitarbeiter: Bei den sieben großen Tech-Konzernen (den sogenannten Magnificent 7, darunter Microsoft, Alphabet, Amazon und NVIDIA) steigt dieser Wert, bei den übrigen 493 Firmen im S&P 500 ist er dagegen flach. Das ist relevant, weil die enormen KI-Investitionen von Anlegern vor allem mit künftigen Produktivitätsgewinnen in der gesamten Wirtschaft gerechtfertigt werden. Die Analyse kommt zu einem heiklen Zeitpunkt: Diese Woche legen Microsoft, Alphabet und Amazon Quartalszahlen vor, und die Börse zweifelt zunehmend daran, ob sich die Milliardenausgaben für KI bald auszahlen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-25"
+      "titel": "OpenAI bringt GPT-6.1 Terra – schneller, genauer und halb so teuer",
+      "text": "OpenAI hat am Montag GPT-6.1 Terra veröffentlicht, das Upgrade des mittleren Modells in seiner Produktpalette. Die API-Preise liegen 50 Prozent unter denen des Vorgängers GPT-5.6 Terra, KI-Agenten sollen damit laut Berichten bis zu dreimal schneller arbeiten. In einem internen Test von OpenAI sank die Quote sachlicher Fehler bei niedrigem Rechenaufwand von 53,6 auf 16,7 Prozent. Das Modell ist ab sofort für Plus-, Pro-, Enterprise- und Edu-Kunden in ChatGPT Work und Codex sowie über die API verfügbar. Bereits Ende September war mit GPT-6.1 Sol das kleinere Modell der Familie erschienen; das größte Modell GPT-6.1 Astra hat OpenAI laut Wall Street Journal wegen Sicherheitsbedenken interner Forscher vorerst nicht veröffentlicht. Der Preisschnitt verschärft den Wettbewerb um Unternehmenskunden, nachdem OpenAI zuletzt bereits mit hohen Rabatten Programmier-Kunden von Anthropic abgeworben hatte.",
+      "quelle": "SiliconANGLE",
+      "datum_artikel": "2026-10-26"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Musk: SpaceX sichert sich 40 Milliarden Dollar Kredit für KI-Chips – und warnt vor Neocloud-Pleiten",
-      "text": "Elon Musk hat am Sonntag auf X erklärt, SpaceX habe eine Fremdfinanzierung über 40 Milliarden Dollar abgeschlossen, um Grafikprozessoren (GPUs) von NVIDIA für KI-Rechenzentren zu kaufen. Das Geld soll laut Musk überwiegend im ersten und zweiten Quartal 2027 fließen; möglich gemacht hätten das die gute Kreditwürdigkeit (Investment Grade) und die stabilen Einnahmen aus Starlink und dem Raketengeschäft. Laut früheren Berichten führt Goldman Sachs die Gespräche mit Investoren wie Apollo, und die Schulden sollen in einer Zweckgesellschaft außerhalb der SpaceX-Bilanz liegen; ob alle Konditionen bereits endgültig unterschrieben sind, ist laut Bloomberg noch nicht ganz klar. Zugleich warnte Musk, die Kreditmärkte seien für Firmen ohne nennenswerte Einnahmen außerhalb von KI-Rechenzentren praktisch geschlossen – er erwartet Pleiten und eine Konsolidierung unter den über 200 sogenannten Neoclouds (Anbieter, die KI-Rechenleistung vermieten, etwa CoreWeave oder Nebius). Die Aussage dürfte den Druck auf diese ohnehin stark gefallenen Aktien weiter erhöhen.",
+      "titel": "Anthropic reicht Börsenprospekt öffentlich ein – Handel an der Nasdaq unter dem Kürzel ANT",
+      "text": "Anthropic hat am Montag seinen Börsenprospekt (S-1) öffentlich bei der US-Börsenaufsicht SEC eingereicht und will an der Nasdaq unter dem Kürzel ANT gehandelt werden. Neu gegenüber den bisher bekannten Eckdaten: Konsortialführer sind Goldman Sachs und Morgan Stanley (insgesamt 24 Banken), die Gründer behalten über eine Doppel-Aktienstruktur 50,1 Prozent der Stimmrechte. Die Umsätze von 16,3 Milliarden Dollar im ersten Halbjahr stammen zu 80 Prozent aus nutzungsabhängigen Gebühren und zu 20 Prozent aus Abos; die Bruttomarge liegt bei rund 85 Prozent. Vom Halbjahresverlust über 80,7 Milliarden Dollar gehen 72,4 Milliarden auf Bewertungsänderungen bei Wandelanleihen zurück. Im Prospekt warnt Anthropic, KI könne 'katastrophale oder existenzielle' Risiken bergen, und nennt Konflikte mit der Trump-Regierung und dem Verteidigungsministerium als Risiko für Umsätze. Preisspanne, Aktienzahl und Termin des Börsengangs stehen noch nicht fest; Chipwerte wie Nvidia, Broadcom und AMD legten nach der Meldung um 2 bis 3 Prozent zu.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-25",
-      "unternehmen": "SpaceX"
+      "datum_artikel": "2026-10-26",
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "Mit Rabatten bis zu 90 Prozent: OpenAI wirbt Anthropic große Programmier-Kunden ab",
-      "text": "OpenAI gewinnt laut einem Bericht von The Information mit kräftigen Preisnachlässen wichtige Firmenkunden von Anthropic, vor allem beim KI-gestützten Programmieren. Beim Personalsoftware-Anbieter Rippling lief im Mai noch 57 Prozent der Programmierarbeit über Anthropic-Modelle und 16 Prozent über OpenAI – inzwischen sind es 52 Prozent OpenAI und nur noch 18 Prozent Anthropic; Firmenchef Parker Conrad nennt die Kosten als Grund. Die Programmierplattform Replit verlagerte den Großteil ihrer KI-Ausgaben von über 100 Millionen Dollar pro Jahr zu OpenAI, nachdem OpenAI mehr als 30 Prozent Rabatt bot. Die oft genannten 90 Prozent beziehen sich auf die Kostenersparnis eines einzelnen Kunden (DataCamp), nicht auf eine offizielle Preissenkung; beide Firmen haben die Zahlen nicht bestätigt. Der Preiskampf kommt kurz vor Anthropics geplantem Börsengang im November und zeigt ein Risiko, das Anleger bei beiden Firmen sehen: Ihre Produkte sind für Kunden relativ leicht austauschbar.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-10-24",
-      "unternehmen": "OpenAI"
+      "titel": "Meta will bis zu 95 Milliarden Dollar mit neuen Aktien einsammeln",
+      "text": "Meta plant die größte Aktienplatzierung seiner Geschichte: Bis zu 95 Milliarden Dollar sollen über den Verkauf von Stamm- und Vorzugsaktien hereinkommen, um den Ausbau der KI-Infrastruktur zu finanzieren. Zunächst sollen 35 Milliarden Dollar über eine von Banken begleitete Platzierung fließen, weitere 60 Milliarden später schrittweise über den Markt. Nvidia, AMD und Broadcom haben unverbindlich Interesse bekundet, Aktien für bis zu 5 Milliarden Dollar zu kaufen. Hintergrund: Meta hat seine Investitionsprognose für das Gesamtjahr auf 135 bis 145 Milliarden Dollar angehoben, der freie Cashflow war im dritten Quartal mit minus 2,1 Milliarden Dollar negativ. Für bestehende Aktionäre bedeutet das eine Verwässerung ihrer Anteile; die Aktie gab nach der Ankündigung um rund 1,5 Prozent nach.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-26",
+      "unternehmen": "Meta"
     },
     {
-      "titel": "Volkswagen baut erstes Audi-Werk in den USA – rund 4 Milliarden Dollar für Georgia",
-      "text": "Volkswagen will in Macon im US-Bundesstaat Georgia das erste US-Werk der Marke Audi bauen. Laut Audi fließen rund 4 Milliarden Dollar in das Projekt, etwa 4.500 Arbeitsplätze sollen entstehen; gebaut werden sollen große SUVs wie Q7, Q8 und Q9, die Kapazität liegt bei rund 200.000 Fahrzeugen pro Jahr. Zusätzlich soll das im Bau befindliche Werk der VW-Tochter Scout Motors in South Carolina um etwa 25.000 Fahrzeuge pro Jahr erweitert werden. Präsident Trump stellte den Plan am Samstag bei einem Wahlkampfauftritt in Perry (Georgia) vor – laut Bloomberg ein politischer Erfolg für ihn kurz vor den Zwischenwahlen am 3. November. VW erhofft sich im Gegenzug Erleichterungen bei den US-Zöllen; über ein Gutschriftensystem für Autobauer, die ihre US-Produktion ausbauen, wird noch verhandelt. Wann der Bau beginnt, ist uneinheitlich berichtet: Trump sprach von nächstem Monat, Bloomberg von nächstem Jahr.",
+      "titel": "Microsoft bietet rund 60.000 Beschäftigten Abfindungen an – etwa ein Viertel der Belegschaft",
+      "text": "Microsoft bietet rund 60.000 Mitarbeitern in den USA, Kanada, Indien und Großbritannien ein freiwilliges Ausscheiden gegen Abfindung an – das ist etwa ein Viertel bis knapp 30 Prozent der Belegschaft. Berechtigt sind Beschäftigte bis zur Ebene Vice President, unter anderem in den Bereichen Copilot, KI-Produkte, Finanzen, Personal, Xbox und Windows; Marketing, Firmenkundengeschäft und Sicherheit sind laut Reuters ausgenommen. Die Abfindung richtet sich nach der Betriebszugehörigkeit, die Entscheidung muss bis Anfang Dezember fallen, der Austritt erfolgt zum 31. Dezember. Bereits im April gab es ein ähnliches Programm für langjährige Mitarbeiter, im Juli strich Microsoft zudem 4.800 Stellen. Der Konzern will damit Kosten senken, um die enormen Ausgaben für KI und Rechenzentren abzufedern.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-24",
-      "unternehmen": "Volkswagen"
+      "datum_artikel": "2026-10-26",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "Broadcom organisiert 63-Milliarden-Dollar-Finanzierung für Anthropics KI-Chips",
+      "text": "Broadcom hat laut Bloomberg ein Finanzierungspaket über 63 Milliarden Dollar geschnürt, mit dem Chips für Anthropic bezahlt werden sollen. Beteiligt sind Bank of America, Citigroup, Morgan Stanley und der Finanzinvestor Blackstone. Über das Vorhaben war seit August verhandelt worden; Berichten zufolge besteht es aus einem von Broadcom teilweise garantierten vorrangigen Kredit und einer nachrangigen Tranche ohne Garantie, die Anthropics Leasing von Google-Chips (TPU) finanzieren. Schon im Juni hatten Broadcom, Apollo und Blackstone eine 35-Milliarden-Dollar-Erweiterung von Anthropics Rechenkapazität finanziert. Der Deal zeigt, wie stark der KI-Ausbau inzwischen über Schulden und Leasing-Konstruktionen statt über eigenes Geld der KI-Firmen bezahlt wird.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-10-26",
+      "unternehmen": "Broadcom"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Goldman Sachs senkt Kospi-Kursziel um 25 Prozent – KI-Handel in Südkorea bricht ein",
-      "text": "Die Strategen von Goldman Sachs haben ihr Zwölf-Monats-Kursziel für den südkoreanischen Leitindex Kospi um ein Viertel gesenkt, von 12.000 auf 9.000 Punkte. Hintergrund ist der Absturz des Index um mehr als 35 Prozent seit seinem Hoch im Juni, nachdem der Kospi zuvor als einer der größten Gewinner des KI-Booms galt. Der Index hängt stark an den beiden Speicherchip-Herstellern Samsung Electronics und SK Hynix, die zusammen etwa die Hälfte seines Börsenwerts ausmachen und deren Kurse von der wachsenden Skepsis gegenüber den KI-Investitionen getroffen werden. Die Herabstufung kommt unmittelbar vor der wichtigsten Berichtswoche in Asien: Ab Montag legen rund 550 Unternehmen aus dem MSCI-Asien-Pazifik-Index Zahlen vor, darunter SK Hynix und Samsung – ihre Ausblicke gelten als Test, ob sich der KI-Handel wieder fängt.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-25"
+      "titel": "Brasilien: Börse bricht nach Lulas Wiederwahl um fast 14 Prozent ein – Real stürzt ab",
+      "text": "Nach dem Sieg von Präsident Luiz Inácio Lula da Silva in der Stichwahl (51,8 zu 48,2 Prozent gegen Flávio Bolsonaro) sind Brasiliens Finanzmärkte am Montag eingebrochen. Der Leitindex Bovespa fiel im Tagesverlauf um rund 17 Prozent – laut Reuters der schwerste Tagesverlust seit 1998 – und schloss etwa 13,9 Prozent tiefer; die Börse B3 setzte den Handel nach einem Minus von 10 Prozent für 30 Minuten aus. Die Landeswährung Real verlor zeitweise 11 bis 12 Prozent und schloss rund 8 Prozent schwächer zum Dollar, die Kosten für die Absicherung gegen einen Staatsbankrott stiegen deutlich. Die Anleger hatten auf einen Bolsonaro-Sieg gesetzt, nachdem dieser die erste Runde angeführt hatte, und rechnen nun mit höheren Staatsausgaben und steigenden Zinsen. Zusätzliche Unsicherheit: Bolsonaro hat seine Niederlage nicht anerkannt und will das Ergebnis anfechten.",
+      "quelle": "Nikkei Asia",
+      "datum_artikel": "2026-10-26"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Dobrindt will Enteignung von Wohnungskonzernen per Bundesgesetz stark erschweren",
-      "text": "Bundesinnenminister Alexander Dobrindt (CSU) will Vergesellschaftungen von Wohnungen, wie sie Linke, Grüne und SPD in Berlin planen, mit einem Investitionsschutzgesetz deutlich erschweren. Laut den Eckpunkten seines Ministeriums soll eine Enteignung von Mietwohnungen nur noch möglich sein, wenn ihre zwingende Notwendigkeit ausdrücklich nachgewiesen ist und alle anderen Mittel gegen Wohnungsmangel und hohe Mieten ausgeschöpft sind. Entschädigt werden müsste dann sofort in Geld und zum Verkehrswert, ermittelt durch ein Gutachten. Die Berliner Parteien wollen laut ihrem Sondierungspapier Konzerne mit mehr als 10.000 Wohnungen vergesellschaften, insgesamt rund 160.000 Wohnungen, und rechnen mit Entschädigungen von etwa 16 Milliarden Euro. Dobrindt sprach in der Bild-Zeitung von einem willkürlichen linken Vergesellschaftungs-Fetisch; Linken-Chef Luigi Pantisano erwidert, ein solches Gesetz werde vor dem Bundesverfassungsgericht keinen Bestand haben. Die Bundesregierung hat sich grundsätzlich auf das Vorhaben verständigt, die Abstimmung innerhalb der Regierung läuft aber noch; Justizministerin Stefanie Hubig (SPD) nannte ein solches Sperrgesetz verfassungsrechtlich nicht trivial.",
-      "quelle": "ZDFheute",
-      "datum_artikel": "2026-10-25",
-      "land": "Deutschland"
-    },
-    {
-      "titel": "Umfrage: Nur 23 Prozent glauben, dass Schwarz-Rot bis 2029 durchhält",
-      "text": "Laut einer YouGov-Umfrage im Auftrag der Deutschen Presse-Agentur (dpa) unter 2.202 Wahlberechtigten glaubt nur knapp ein Viertel (23 Prozent), dass die Koalition aus Union und SPD unter Kanzler Friedrich Merz die volle Wahlperiode bis 2029 übersteht. 13 Prozent erwarten einen Bruch noch in diesem Jahr, 44 Prozent ein vorzeitiges Ende innerhalb der nächsten zwei Jahre. Auffällig ist die Skepsis im eigenen Lager: 53 Prozent der Unions-Anhänger rechnen mit einem vorzeitigen Aus, nur 32 Prozent mit einem Durchhalten bis 2029. Die Umfrage folgt auf das CSU-Wochenende, an dem Merz und CSU-Chef Markus Söder die Einheit der Koalition beschworen hatten. Konkrete Folgen hat die Umfrage nicht, sie zeigt aber, unter welchem Druck die Regierung bei anstehenden Streitthemen wie Rente und Haushalt steht.",
-      "quelle": "dpa",
-      "datum_artikel": "2026-10-25",
-      "land": "Deutschland"
-    },
-    {
-      "titel": "Trump wirbt in Michigan für Rogers und greift Demokraten El-Sayed scharf an",
-      "text": "US-Präsident Donald Trump ist am Sonntag in Port Huron (Michigan) aufgetreten, um den republikanischen Senatskandidaten Mike Rogers zu unterstützen – einen Tag nach dem Auftritt von Ex-Präsident Barack Obama für dessen demokratischen Gegner Abdul El-Sayed. Laut CNN und Detroit News bezeichnete Trump El-Sayed, der Muslim ist, als 'Dschihadisten', nannte ihn 'Mohammed' und behauptete ohne Belege Verbindungen zu Terroristen. El-Sayed konterte mit den Worten 'I'll be Sen. Mohammed to you, bro' (sinngemäß: Für dich bin ich dann Senator Mohammed). Trump rief die Wähler in Michigan auf, so abzustimmen, als stünde er selbst auf dem Wahlzettel; mit dabei war auch die Rapperin Nicki Minaj. Das Rennen um den frei werdenden Sitz von Gary Peters ist eng und laut Bridge Michigan das teuerste Senatsrennen in der Geschichte des Bundesstaats; es könnte mit über die Mehrheit im US-Senat entscheiden. Gewählt wird am 3. November, am Montag will Trump in Mississippi für Senatorin Cindy Hyde-Smith werben.",
+      "titel": "Berufungsgericht weist Trump-Regierung ab: 20.000 Briefwahlstimmen in Kalifornien bleiben",
+      "text": "Ein Bundesberufungsgericht (9th Circuit) hat am Montag mit 2 zu 1 Stimmen den Eilantrag des Justizministeriums abgewiesen, Kalifornien zum Aussortieren von rund 20.000 Briefwahlstimmen zu zwingen. Die Regierung hält die betroffenen Wähler für wahrscheinlich nicht wahlberechtigte Nicht-Staatsbürger; der Bezirk Los Angeles hatte kritisiert, dass unklar sei, wie die Liste erstellt wurde. Das Gericht entschied aus formalen Gründen: Das Ministerium habe der unteren Instanz keine ausreichende Gelegenheit gegeben, den Fall zu prüfen. Zwei der drei Richter äußerten jedoch auch inhaltliche Zweifel; Richter Mark Bennett schrieb, Bundesrecht verdränge nicht die vorrangige Zuständigkeit der Bundesstaaten für Wahlen. Der von Trump ernannte Richter Patrick Bumatay warnte in seinem abweichenden Votum, die Stimmzettel ließen sich später womöglich nicht mehr identifizieren. Der Fall geht nun zurück an Bezirksrichter David Carter, der am Dienstag verhandelt – eine Woche vor den Kongresswahlen am 3. November.",
       "quelle": "CNN",
-      "datum_artikel": "2026-10-25",
+      "datum_artikel": "2026-10-26",
       "land": "USA"
+    },
+    {
+      "titel": "Rentenreform verzögert sich: Bundestag soll erst 2027 entscheiden",
+      "text": "Die geplante große Rentenreform der schwarz-roten Koalition wird nicht mehr in diesem Jahr vom Bundestag beschlossen. Nach Berichten vom Montag will Kanzler Friedrich Merz (CDU), dass das Kabinett den Entwurf noch vor Weihnachten beschließt; die Abstimmung im Parlament ist nun für das erste Quartal bzw. Frühjahr 2027 vorgesehen. Kern der Reform ist eine neue gesetzliche Kapitalrente, für die nach den Vorschlägen der Rentenkommission ein zusätzlicher Beitrag von zwei Prozent gelten soll, den Arbeitgeber und Beschäftigte gemeinsam tragen. Größter Streitpunkt bleibt die abschlagsfreie Rente nach 45 Beitragsjahren: Der neue Arbeitsminister Alexander Schweitzer (SPD), seit 13. Oktober im Amt, betont, die Koalition habe sich auf deren grundsätzlichen Erhalt geeinigt. SPD-Fraktionschef Matthias Miersch nennt kein Datum und bittet um Zeit für den neuen Minister. Ein Inkrafttreten zum 1. Januar 2027 gilt damit als kaum noch realistisch.",
+      "quelle": "Stuttgarter Zeitung",
+      "datum_artikel": "2026-10-26",
+      "land": "Deutschland"
     }
   ]
 }
