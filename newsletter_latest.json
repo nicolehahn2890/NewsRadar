@@ -1,65 +1,58 @@
 {
-  "datum": "Samstag, 31. Oktober 2026",
-  "generiert": "2026-10-31",
+  "datum": "Sonntag, 1. November 2026",
+  "generiert": "2026-11-01",
   "ki_stories": [
     {
-      "titel": "OpenAI, Google, Microsoft und Anthropic wollen ein gemeinsames Opt-out gegen KI-Training respektieren",
-      "text": "Die vier großen KI-Anbieter OpenAI, Google, Microsoft und Anthropic haben am Freitag angekündigt, ein einheitliches Signal in der Datei robots.txt zu beachten, mit dem Webseiten-Betreiber der Nutzung ihrer Inhalte für das Training von KI-Modellen widersprechen können. Bisher mussten Seitenbetreiber jeden Crawler einzeln sperren, etwa über die Google-eigene Regel Google-Extended. Grundlage ist ein Entwurf bei der Internet-Standardisierungsorganisation IETF, der von einem Anthropic-Mitarbeiter stammt und noch kein offizieller Standard ist. Die Umsetzung erfolgt zeitversetzt: Microsoft nennt den 1. Februar 2027 als Ziel, Google das Jahr 2027, OpenAI spricht von 'den kommenden Monaten'. Wichtig: Das Signal gilt nur für künftiges Training – Inhalte, die bereits in bestehenden Trainingsdaten stecken, werden dadurch nicht entfernt, und das bloße Abrufen von Seiten (etwa für Suchantworten) wird nicht automatisch gesperrt. Für Verlage und Medienhäuser, die seit Jahren über die unbezahlte Nutzung ihrer Texte streiten, ist es dennoch der erste branchenweite Schritt hin zu einer einheitlichen Regel.",
-      "quelle": "OpenAI",
+      "titel": "Gefälschte Version der Claude-Code-Erweiterung installierte Hintertür auf Entwickler-Rechnern",
+      "text": "Eine manipulierte Version 2.1.313 der Claude-Code-Erweiterung für den Code-Editor VS Code ist am 29. Oktober über den alternativen Erweiterungs-Marktplatz Open VSX verbreitet worden. Laut Sicherheitsforschern enthielt sie rund 66 Zeilen Schadcode, der einen fremden SSH-Schlüssel (Zugangsschlüssel für Fernzugriff) einträgt, einen versteckten Tunnel nach außen öffnet und sich dauerhaft im System festsetzt – und zwar schon beim Start des Editors, ohne dass ein Chat mit Claude nötig ist. Der Editor Cursor, der Open VSX nutzt, gab an, die Version sei dort etwa elf Stunden lang verfügbar gewesen. Im offiziellen Visual-Studio-Marktplatz von Microsoft wurde bislang keine verseuchte Version gemeldet. Anthropic hat inzwischen eine saubere Version 2.1.314 veröffentlicht, der Steuerungsserver der Angreifer wurde vom Hoster abgeschaltet. Wichtig für Betroffene: Das Deinstallieren der Erweiterung entfernt die Hintertür nicht – Fachleute raten, das System auf fremde SSH-Schlüssel zu prüfen und alle Zugangsdaten zu wechseln. Wie der Schadcode in das Paket gelangte, ist noch unklar.",
+      "quelle": "Help Net Security",
       "datum_artikel": "2026-10-30"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI senkt Finanzierungsziel erneut – nur noch rund 20 statt 30 Milliarden Dollar",
-      "text": "OpenAI hat laut Financial Times das Ziel seiner laufenden Finanzierungsrunde um 10 Milliarden auf etwa 20 Milliarden Dollar gesenkt. Die Bewertung soll bei 1,25 Billionen Dollar liegen; ursprünglich hatte das Unternehmen 30 Milliarden bei einer Bewertung von 1,4 Billionen Dollar angepeilt. Nachdem bereits vor gut einer Woche die Bewertung gesenkt worden war, ist neu, dass nun auch das Volumen schrumpft: Einige Investoren haben ihre Zusagen reduziert, und der erste Abschluss der Runde soll sogar unter 20 Milliarden Dollar liegen. Hintergrund ist die Talfahrt der Tech-Aktien – der Nasdaq 100 hat seit seinem Rekord am 6. Oktober rund 10 Prozent verloren. Die Runde gilt als letzte Einstiegschance vor einem für 2027 erwarteten Börsengang. Zusätzlicher Druck kommt von Rivale Anthropic, der im November an die Börse will und um dieselben Großinvestoren wirbt.",
+      "titel": "Blackstone rechnet für Anthropic nach dem Börsengang nur noch mit Ramsch-Bonität",
+      "text": "Der Finanzinvestor Blackstone hat seinen Anlegern laut Financial Times mitgeteilt, dass Anthropic nach dem geplanten Börsengang voraussichtlich nur ein Kreditrating im oberen Ramschbereich (Doppel-B, also unterhalb von 'Investment Grade') erhalten wird. Bisher war Blackstone von einer soliden Investment-Grade-Einstufung ausgegangen. Hintergrund ist die 63-Milliarden-Dollar-Finanzierung für Anthropics KI-Chips: Blackstone-Fonds halten davon rund 9 Milliarden Dollar an nachrangigen Schulden mit Renditen über 10 Prozent, der vorrangige Teil von rund 42 Milliarden Dollar ist von Broadcom garantiert. Ein Ramsch-Rating würde Anthropics Kreditkosten erhöhen und den Kreis möglicher Käufer seiner Anleihen verkleinern, weil viele Pensionsfonds und Versicherer solche Papiere nur begrenzt halten dürfen. Die großen Ratingagenturen Moody's, S&P und Fitch haben Anthropic noch nicht offiziell bewertet; die kleinere Agentur Kroll vergab im Juni BB+. Der Nasdaq-Börsengang unter dem Kürzel ANT wird für Mitte bis Ende November erwartet.",
       "quelle": "Financial Times",
       "datum_artikel": "2026-10-30",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "Amazon kann sich bis zu 80 Milliarden Dollar gegen seine KI-Hardware leihen",
-      "text": "Amazon hat eine neue Lieferanten-Finanzierung eingerichtet, über die der Konzern bis zu 80 Milliarden Dollar leihen kann – abgesichert durch die Hardware, die er für seine KI-Rechenzentren kauft. Das geht aus dem Quartalsbericht hervor, den Amazon nach den Zahlen vom Donnerstag bei der Börsenaufsicht eingereicht hat. Die Kreditlinie kann von Anfang 2027 bis zum dritten Quartal 2028 abgerufen werden; die Geldgeber erhalten Sicherungsrechte an bestimmten gekauften Anlagen, welche genau, nennt Amazon nicht. Bisher hat Amazon seinen Ausbau aus dem Cashflow von AWS und dem Handelsgeschäft sowie mit Rekord-Anleihen bezahlt. Die gesamten künftigen Zahlungsverpflichtungen des Konzerns – inklusive Schulden, noch nicht begonnener Mietverträge und Ausrüstungskäufe – lagen Ende September bei 883 Milliarden Dollar. Die 80 Milliarden sind eine Obergrenze, kein bereits geliehener Betrag; an der Börse verstärkte die Nachricht dennoch die Sorge, dass die KI-Ausgaben der Tech-Riesen zunehmend auf Pump finanziert werden.",
-      "quelle": "Bloomberg",
+      "titel": "S&P senkt Ausblick für Meta auf negativ – KI-Ausgaben fressen das Geld auf",
+      "text": "Die Ratingagentur S&P Global hat den Ausblick für Metas Kreditnote AA- am 30. Oktober von stabil auf negativ gesenkt. Das ist noch keine Herabstufung, öffnet aber die Tür für eine solche in den nächsten ein bis zwei Jahren. Begründung: Meta könne seine riesigen KI-Investitionen schlechter zu Geld machen als die Konkurrenz, so S&P wörtlich. Die Agentur schätzt Metas Investitionen in diesem Jahr auf rund 140 Milliarden Dollar und 2027 auf über 225 Milliarden Dollar; der freie Mittelzufluss könnte 2027 laut Berichten auf minus 71 Milliarden Dollar fallen, die Verschuldung deutlich steigen. Meta widersprach: Man teile die Einschätzung zur KI-Monetarisierung respektvoll nicht und sehe große Geschäftschancen. Die Entscheidung kommt kurz nachdem Meta angekündigt hatte, bis zu 95 Milliarden Dollar über neue Aktien einzusammeln.",
+      "quelle": "Benzinga",
       "datum_artikel": "2026-10-30",
-      "unternehmen": "Amazon"
+      "unternehmen": "Meta"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Intel erlebt schlimmsten Börsentag seit 1974 – Chipwerte verlieren rund eine Billion Dollar",
-      "text": "Nachdem die Intel-Aktie am Donnerstagabend nachbörslich bereits eingebrochen war, folgte am Freitag im regulären Handel der Absturz: Das Papier schloss rund 28 bis 29 Prozent tiefer, zeitweise lag das Minus bei 30 Prozent. Laut Yahoo Finance war das der schlimmste Tag seit Juli 1974; Intel verlor damit rund 140 Milliarden Dollar an Börsenwert. Auslöser war die Prognose für das vierte Quartal: 15 bis 16 Milliarden Dollar Umsatz statt der erwarteten rund 17 Milliarden und ein bereinigter Gewinn von 0,25 Dollar je Aktie statt rund 0,43 Dollar – unter anderem wegen schwacher PC-Nachfrage, Lieferengpässen und eines Unfalls in Intels Fabrik in Israel, der etwa 300 Millionen Dollar Umsatz kosten soll. Der Ausverkauf griff auf die ganze Chipbranche über, die zusammen rund eine Billion Dollar an Wert verlor; der Nasdaq Composite fiel um 2,9 Prozent und beendete die Woche mit rund 2 Prozent Minus. Auch in Asien setzte sich die Flucht aus KI-Werten fort: Taiwans Leitindex Taiex schloss 2,5 Prozent tiefer und liegt mehr als 10 Prozent unter seinem Rekord vom 6. Oktober – knapp vor einer offiziellen Korrektur. Kommende Woche stehen mit den Apple-Zahlen am Montag, dem US-Arbeitsmarktbericht und den Kongresswahlen am Dienstag weitere große Belastungsproben an.",
-      "quelle": "Yahoo Finance",
+      "titel": "Reddit-Aktie bricht um 29 Prozent ein – Googles KI-Suche kostet Besucher",
+      "text": "Die Reddit-Aktie (RDDT) ist am Freitag um 29,2 Prozent auf 91,73 Dollar gefallen – der schlimmste Tag seit dem Börsengang 2024 und der größte Verlierer im S&P 500. Dabei hatte das Unternehmen im dritten Quartal eigentlich gut verdient: Der Umsatz stieg um 53 Prozent auf 895 Millionen Dollar, der bereinigte Gewinn je Aktie lag mit 1,40 Dollar über den Erwartungen. Anleger schreckte aber die Warnung auf, dass die Besucherzahlen über die Google-Suche 'deutlich' gesunken seien, weil Googles KI-Antworten Klicks abfangen. Reddit rechnet sogar damit, dass die täglichen Nutzer im vierten Quartal um einen niedrigen zweistelligen Prozentsatz schrumpfen könnten; die Umsatzprognose von 1,00 bis 1,03 Milliarden Dollar lag unter den erwarteten rund 1,05 Milliarden. Mehrere Banken, darunter KeyBanc, stuften die Aktie ab, mindestens elf senkten ihr Kursziel. Der Fall zeigt, wie KI-Suchmaschinen das Geschäftsmodell von Webseiten bedrohen, die von Google-Verkehr leben.",
+      "quelle": "Bloomberg",
       "datum_artikel": "2026-10-30"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Iran-Konflikt: Trump sagt, der Krieg werde 'sehr bald' enden – Iran meldet Minentreffer bei vier Tankern",
-      "text": "US-Präsident Donald Trump hat am Freitag erklärt, Iran wolle verhandeln, und vorhergesagt, der Konflikt werde 'sehr bald' enden. Zugleich bekräftigte er, Iran dürfe keine Atomwaffe bekommen. Am selben Tag behaupteten die iranischen Revolutionsgarden, vier Öltanker seien in der Straße von Hormus auf Minen gelaufen – das widerspricht der US-Darstellung, die Hauptschifffahrtsrouten seien geräumt; das US-Militärkommando CENTCOM wies die Angaben als falsch zurück. Unabhängig bestätigt hat den Vorfall bislang keine Seeschifffahrtsbehörde. Nach Berichten von CNN und CNBC stehen US-Streitkräfte bereit, binnen 96 Stunden nach einem Befehl neue Angriffe auf Iran zu beginnen; Trump hat aber angedeutet, mögliche Schläge erst nach den Kongresswahlen am 3. November zu entscheiden. Parallel versuchen Vermittler aus Katar, in Teheran ein Abkommen voranzubringen; eine iranische Antwort auf einen Brief von Vizepräsident JD Vance steht laut der Nachrichtenagentur Tasnim noch aus.",
-      "quelle": "CNBC",
+      "titel": "Richterin verbietet Trump-Regierung, Wahlhelfer vor den Kongresswahlen einzuschüchtern",
+      "text": "Die kalifornische Bundesrichterin Trina Thompson hat der Trump-Regierung vorläufig untersagt, Wahlbeamte in Bundesstaaten und Kommunen zu bedrohen oder unter Druck zu setzen. Die Anordnung gilt bis zum 16. November und damit über die Kongresswahlen am Dienstag, 3. November, hinaus. Anlass waren Briefe des Justizministeriums an Wahlbehörden in allen 50 Staaten, in denen mit Strafverfolgung gedroht wurde; geklagt hatten Gewerkschaften kalifornischer Wahlhelfer. Thompson schrieb, hochrangige Beamte von Justiz- und Heimatschutzministerium hätten versucht, Wahlhelfer einzuschüchtern, damit diese Wähler aus Registern streichen oder Stimmzettel mutmaßlich nicht wahlberechtigter Personen aussortieren. Die Regierung legte am Samstag Berufung ein, Präsident Trump kritisierte das Urteil öffentlich. Für die Wahl heißt das: Bis auf Weiteres dürfen Wahlhelfer Stimmen ohne Strafandrohung aus Washington auszählen – ein Berufungsgericht könnte das aber noch kippen.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-10-31",
+      "land": "USA"
+    },
+    {
+      "titel": "USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine – G20-Treffen ohne Abschlusserklärung",
+      "text": "Das US-Außenministerium hat am 30. Oktober den möglichen Verkauf von 500 Patriot-Abfangraketen vom modernsten Typ PAC-3 MSE an die Ukraine gebilligt, Wert rund 2,1 Milliarden Dollar. Bezahlt wird nicht mit US-Geld, sondern mit Beiträgen aus Deutschland, Kanada und Norwegen sowie einem EU-Kredit; Hersteller ist Lockheed Martin. Einen Liefertermin gibt es nicht – Präsident Selenskyj begrüßte die Genehmigung, warnte aber, die Lieferung könne Jahre dauern, und will einzelne Raketen vorab von Partnern bekommen. Zeitgleich trafen sich die G20-Außenminister unter Leitung von US-Außenminister Rubio in Atlanta. Weil die USA auch Russlands Außenminister Lawrow eingeladen hatten, wurde das übliche Gruppenfoto abgesagt; auch Bundesaußenminister Wadephul gehörte zu denen, die nicht mit Lawrow posieren wollten. Das Treffen endete nach zwei Tagen ohne gemeinsame Abschlusserklärung.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-10-30",
       "land": "USA"
     },
     {
-      "titel": "Endspurt vor den Kongresswahlen: Trump nimmt abgesagte Auftritte in Kansas und Iowa wieder auf",
-      "text": "Vier Tage vor den US-Kongresswahlen am Dienstag, 3. November, hat Präsident Trump seinen Wahlkampfplan erneut geändert. Einen Tag nachdem er Kundgebungen in Iowa und Kansas zugunsten von Telefon-Kundgebungen abgesagt hatte, setzte er die Auftritte wieder an. Auf die Frage eines Reuters-Reporters, ob Erschöpfung durch die Reisen eine Rolle gespielt habe, wies Trump das zurück. Am Freitagabend trat er in Daytona Beach in Florida auf und rief die Wähler auf, die Demokraten in die 'politische Bedeutungslosigkeit' zu schicken. Bei der Wahl werden alle 435 Sitze im Repräsentantenhaus und ein Teil des Senats neu vergeben; enge Rennen gelten unter anderem in Iowa und Michigan. Trumps Zustimmungswerte sind niedrig – eine Reuters/Ipsos-Umfrage von Mitte Oktober sah ihn bei 31 Prozent – was nach Einschätzung von Meinungsforschern Republikaner beunruhigt.",
-      "quelle": "CBS News",
-      "datum_artikel": "2026-10-30",
-      "land": "USA"
-    },
-    {
-      "titel": "Gericht bestätigt: Verfassungsschutz darf AfD Niedersachsen weiter verschärft beobachten",
-      "text": "Das Oberverwaltungsgericht Lüneburg hat am Donnerstag eine Beschwerde des AfD-Landesverbands Niedersachsen gegen seine Hochstufung durch den Verfassungsschutz zurückgewiesen. Damit bleibt die Partei vorläufig ein 'Beobachtungsobjekt von erheblicher Bedeutung' – der Verfassungsschutz darf sie also weiterhin intensiver überwachen. Es handelte sich um ein Eilverfahren; der Beschluss (Az. 11 ME 205/26) ist nicht anfechtbar und bestätigt eine Entscheidung des Verwaltungsgerichts Hannover vom Juni. Das Gericht verwies auf ein ethnisch geprägtes Volksverständnis im Landesverband, die systematische Herabwürdigung von Migranten, vor allem Muslimen, sowie Verbindungen ins rechtsextremistische Umfeld. AfD-Landesvize Stephan Bothe bedauerte die Entscheidung und warf dem Verfassungsschutz vor, politisch instrumentalisiert zu werden; die SPD sah die Einstufung bestätigt. Das eigentliche Hauptverfahren läuft weiter vor dem Verwaltungsgericht Hannover.",
-      "quelle": "Tagesspiegel",
-      "datum_artikel": "2026-10-29",
-      "land": "Deutschland"
-    },
-    {
-      "titel": "Jugendbewegung 'Gen Z regelt' demonstriert heute in über 30 Städten – Brandbrief an Merz",
-      "text": "Die Jugendbewegung 'Gen Z regelt' ruft für heute, Samstag, zu Demonstrationen in mehr als 30 deutschen Städten auf. Vorab hat sie einen offenen Brief an Bundeskanzler Friedrich Merz und die Bundesregierung veröffentlicht, den bis Donnerstagnachmittag mehr als 24.000 Menschen unterzeichnet hatten. Kritisiert werden marode Schulen, fehlende Lehrkräfte, steigende Lebenshaltungskosten, Wohnungsnot, die Wehrdienst-Pläne und Kürzungen in der Jugendhilfe; gefordert werden mehr Mitsprache und Investitionen in die Zukunft junger Menschen. Zu den ersten Unterzeichnern gehören Linken-Fraktionschefin Heidi Reichinnek und die Grünen-Abgeordnete Ricarda Lang. Bundesinnenminister Alexander Dobrindt (CSU) warnte vor einer Unterwanderung durch gewaltbereite Gruppen, die Polizei bezeichnete bisherige Schülerproteste als friedlich. In einer YouGov-Umfrage hielten 54 Prozent die Proteste für berechtigt, 28 Prozent nicht. Die Bundesschülerkonferenz grenzt sich ab und plant eine eigene Demonstration am 20. November.",
-      "quelle": "t-online",
-      "datum_artikel": "2026-10-30",
+      "titel": "Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
+      "text": "Die Berliner Linke hat auf ihrem Landesparteitag am Samstag mit breiter Mehrheit beschlossen, Koalitionsverhandlungen mit Grünen und SPD aufzunehmen – sechs Wochen nach der Abgeordnetenhauswahl. Grüne und SPD hatten bereits zugestimmt, die Verhandlungen sollen am Montag offiziell beginnen. Linke-Spitzenkandidatin Elif Eralp könnte damit die erste Regierende Bürgermeisterin ihrer Partei in Berlin werden. Ziel ist laut ZDF, bis zum Jahreswechsel eine neue Landesregierung zu bilden. Umstritten war in der Partei vor allem das Sondierungspapier, darunter die geplante Vergesellschaftung großer Wohnungskonzerne, die eine Mehrheit der Delegierten aber als Chance sah. Das Vorhaben dürfte auch bundespolitisch Streit auslösen, weil Bundesinnenminister Dobrindt solche Enteignungen per Bundesgesetz deutlich erschweren will.",
+      "quelle": "ZDF",
+      "datum_artikel": "2026-10-31",
       "land": "Deutschland"
     }
   ]
