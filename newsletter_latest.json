@@ -1,59 +1,38 @@
 {
-  "datum": "Sonntag, 1. November 2026",
-  "generiert": "2026-11-01",
+  "datum": "Montag, 2. November 2026",
+  "generiert": "2026-11-02",
   "ki_stories": [
     {
-      "titel": "Gefälschte Version der Claude-Code-Erweiterung installierte Hintertür auf Entwickler-Rechnern",
-      "text": "Eine manipulierte Version 2.1.313 der Claude-Code-Erweiterung für den Code-Editor VS Code ist am 29. Oktober über den alternativen Erweiterungs-Marktplatz Open VSX verbreitet worden. Laut Sicherheitsforschern enthielt sie rund 66 Zeilen Schadcode, der einen fremden SSH-Schlüssel (Zugangsschlüssel für Fernzugriff) einträgt, einen versteckten Tunnel nach außen öffnet und sich dauerhaft im System festsetzt – und zwar schon beim Start des Editors, ohne dass ein Chat mit Claude nötig ist. Der Editor Cursor, der Open VSX nutzt, gab an, die Version sei dort etwa elf Stunden lang verfügbar gewesen. Im offiziellen Visual-Studio-Marktplatz von Microsoft wurde bislang keine verseuchte Version gemeldet. Anthropic hat inzwischen eine saubere Version 2.1.314 veröffentlicht, der Steuerungsserver der Angreifer wurde vom Hoster abgeschaltet. Wichtig für Betroffene: Das Deinstallieren der Erweiterung entfernt die Hintertür nicht – Fachleute raten, das System auf fremde SSH-Schlüssel zu prüfen und alle Zugangsdaten zu wechseln. Wie der Schadcode in das Paket gelangte, ist noch unklar.",
-      "quelle": "Help Net Security",
-      "datum_artikel": "2026-10-30"
+      "titel": "Anthropic droht Nutzern, die Claude dauerhaft beschimpfen, mit Sperre",
+      "text": "Anthropic hat Anfang Oktober eine neue Regel in seine Nutzungsbedingungen aufgenommen, über die CNN am Sonntag ausführlich berichtet: Anhaltende, grundlose Beschimpfung der Claude-Modelle ist verboten, in extremen Fällen droht eine dauerhafte Sperre des Kontos. Ein Sprecher sagte CNN, das wichtigste Mittel bleibe aber, dass Claude solche Gespräche selbst beendet – eine Funktion, die es seit 2025 für seltene, extreme Fälle gibt. Ausdrücklich nicht gemeint seien Nutzer, die ihren Frust äußern, deutliche Kritik üben oder die Modelle zu Test- und Forschungszwecken herausfordern. Anthropic begründet den Schritt als vorsorgliche, kostengünstige Maßnahme mit Blick auf ein mögliches Unwohlsein des Modells, behauptet aber nicht, dass Claude ein Bewusstsein habe. Ein von CNN zitierter Professor des College of William and Mary sagte, der Tonfall könne die Antworten eines Modells zwar beeinflussen, das bedeute aber nicht, dass es echte Gefühle habe. Offen ist laut Kritikern, wie Anthropic im Einzelfall zwischen berechtigtem Ärger und mutwilliger Grausamkeit unterscheiden will.",
+      "quelle": "CNN",
+      "datum_artikel": "2026-11-01"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Blackstone rechnet für Anthropic nach dem Börsengang nur noch mit Ramsch-Bonität",
-      "text": "Der Finanzinvestor Blackstone hat seinen Anlegern laut Financial Times mitgeteilt, dass Anthropic nach dem geplanten Börsengang voraussichtlich nur ein Kreditrating im oberen Ramschbereich (Doppel-B, also unterhalb von 'Investment Grade') erhalten wird. Bisher war Blackstone von einer soliden Investment-Grade-Einstufung ausgegangen. Hintergrund ist die 63-Milliarden-Dollar-Finanzierung für Anthropics KI-Chips: Blackstone-Fonds halten davon rund 9 Milliarden Dollar an nachrangigen Schulden mit Renditen über 10 Prozent, der vorrangige Teil von rund 42 Milliarden Dollar ist von Broadcom garantiert. Ein Ramsch-Rating würde Anthropics Kreditkosten erhöhen und den Kreis möglicher Käufer seiner Anleihen verkleinern, weil viele Pensionsfonds und Versicherer solche Papiere nur begrenzt halten dürfen. Die großen Ratingagenturen Moody's, S&P und Fitch haben Anthropic noch nicht offiziell bewertet; die kleinere Agentur Kroll vergab im Juni BB+. Der Nasdaq-Börsengang unter dem Kürzel ANT wird für Mitte bis Ende November erwartet.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-10-30",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "S&P senkt Ausblick für Meta auf negativ – KI-Ausgaben fressen das Geld auf",
-      "text": "Die Ratingagentur S&P Global hat den Ausblick für Metas Kreditnote AA- am 30. Oktober von stabil auf negativ gesenkt. Das ist noch keine Herabstufung, öffnet aber die Tür für eine solche in den nächsten ein bis zwei Jahren. Begründung: Meta könne seine riesigen KI-Investitionen schlechter zu Geld machen als die Konkurrenz, so S&P wörtlich. Die Agentur schätzt Metas Investitionen in diesem Jahr auf rund 140 Milliarden Dollar und 2027 auf über 225 Milliarden Dollar; der freie Mittelzufluss könnte 2027 laut Berichten auf minus 71 Milliarden Dollar fallen, die Verschuldung deutlich steigen. Meta widersprach: Man teile die Einschätzung zur KI-Monetarisierung respektvoll nicht und sehe große Geschäftschancen. Die Entscheidung kommt kurz nachdem Meta angekündigt hatte, bis zu 95 Milliarden Dollar über neue Aktien einzusammeln.",
-      "quelle": "Benzinga",
-      "datum_artikel": "2026-10-30",
-      "unternehmen": "Meta"
+      "titel": "Altman auf Überraschungsbesuch in Südkorea – OpenAI sucht dringend mehr Speicherchips",
+      "text": "OpenAI-Chef Sam Altman ist unangekündigt nach Südkorea gereist, um sich mehr Speicherchips für die eigenen KI-Rechenzentren zu sichern. Am Samstag traf er laut Samsung rund 50 Top-Manager des Konzerns aus Elektronik, Finanzen und Biotech in Yongin, bereits am Freitag gab es ein Mittagessen mit SK-Group-Chef Chey Tae-won (SK Hynix ist einer der wichtigsten Hersteller von KI-Speicher). Begleitet wurde Altman laut Seoul Economic Daily von Richard Ho, der bei OpenAI die Entwicklung eigener KI-Chips leitet; nach Branchenkreisen könnte dieser Chip Samsungs neuen Hochleistungsspeicher HBM4 nutzen. Einen neuen Liefervertrag oder konkrete Mengen gaben die Unternehmen nicht bekannt. Hintergrund sind stark steigende Preise für Hochleistungsspeicher (HBM) und eine weltweite Knappheit – und dass OpenAI zuletzt sein Finanzierungsziel senken musste. Altman stand zudem in der Kritik, weil er in einem Podcast den Arbeitsspeicher in normalen PCs als 'ziemlich schrecklich' bezeichnet und damit eine Debatte über die Verteilung der knappen Chips ausgelöst hatte.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-02",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Reddit-Aktie bricht um 29 Prozent ein – Googles KI-Suche kostet Besucher",
-      "text": "Die Reddit-Aktie (RDDT) ist am Freitag um 29,2 Prozent auf 91,73 Dollar gefallen – der schlimmste Tag seit dem Börsengang 2024 und der größte Verlierer im S&P 500. Dabei hatte das Unternehmen im dritten Quartal eigentlich gut verdient: Der Umsatz stieg um 53 Prozent auf 895 Millionen Dollar, der bereinigte Gewinn je Aktie lag mit 1,40 Dollar über den Erwartungen. Anleger schreckte aber die Warnung auf, dass die Besucherzahlen über die Google-Suche 'deutlich' gesunken seien, weil Googles KI-Antworten Klicks abfangen. Reddit rechnet sogar damit, dass die täglichen Nutzer im vierten Quartal um einen niedrigen zweistelligen Prozentsatz schrumpfen könnten; die Umsatzprognose von 1,00 bis 1,03 Milliarden Dollar lag unter den erwarteten rund 1,05 Milliarden. Mehrere Banken, darunter KeyBanc, stuften die Aktie ab, mindestens elf senkten ihr Kursziel. Der Fall zeigt, wie KI-Suchmaschinen das Geschäftsmodell von Webseiten bedrohen, die von Google-Verkehr leben.",
+      "titel": "Kongresswahl am Dienstag: Was ein Machtwechsel für Tech- und Chipaktien bedeuten würde",
+      "text": "Vor der US-Kongresswahl am Dienstag, 3. November, spielen Analysten durch, wie das Ergebnis die ohnehin nervösen Märkte bewegen könnte. Umfragen und Wettmärkte deuten laut Bloomberg darauf hin, dass die Republikaner das Repräsentantenhaus verlieren, beim Senat ist der Ausgang offener. Ein Durchmarsch der Demokraten in beiden Kammern würde laut Bloomberg wahrscheinlich eine strengere Kontrolle der KI-Branche und des Rechenzentrumsausbaus bringen – etwa die Forderung, dass KI-Firmen mehr Stromkosten selbst tragen; als besonders betroffen gelten asiatische Zulieferer wie TSMC, Hon Hai (Foxconn), Quanta und Delta Electronics. Ein überraschender Sieg der Republikaner stünde dagegen für Kontinuität und könnte koreanischen und taiwanischen Chipwerten helfen. Morgan Stanleys Chefstratege Mike Wilson zählt die Wahl neben Sorgen um die KI-Ausgaben und knapper Liquidität zu den Ereignissen, die den S&P 500 kurzfristig bis auf etwa 7.100 Punkte drücken könnten, rund 9 Prozent unter dem Rekord. Er rät aber, Rücksetzer unabhängig vom Wahlausgang zum Kauf zu nutzen, weil Aktien nach Zwischenwahlen historisch meist gut laufen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-10-30"
+      "datum_artikel": "2026-11-01"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Richterin verbietet Trump-Regierung, Wahlhelfer vor den Kongresswahlen einzuschüchtern",
-      "text": "Die kalifornische Bundesrichterin Trina Thompson hat der Trump-Regierung vorläufig untersagt, Wahlbeamte in Bundesstaaten und Kommunen zu bedrohen oder unter Druck zu setzen. Die Anordnung gilt bis zum 16. November und damit über die Kongresswahlen am Dienstag, 3. November, hinaus. Anlass waren Briefe des Justizministeriums an Wahlbehörden in allen 50 Staaten, in denen mit Strafverfolgung gedroht wurde; geklagt hatten Gewerkschaften kalifornischer Wahlhelfer. Thompson schrieb, hochrangige Beamte von Justiz- und Heimatschutzministerium hätten versucht, Wahlhelfer einzuschüchtern, damit diese Wähler aus Registern streichen oder Stimmzettel mutmaßlich nicht wahlberechtigter Personen aussortieren. Die Regierung legte am Samstag Berufung ein, Präsident Trump kritisierte das Urteil öffentlich. Für die Wahl heißt das: Bis auf Weiteres dürfen Wahlhelfer Stimmen ohne Strafandrohung aus Washington auszählen – ein Berufungsgericht könnte das aber noch kippen.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-10-31",
+      "titel": "Alaska: Richterin weist Klage der Trump-Regierung gegen Senatswahl ab – Ministerium will in Berufung",
+      "text": "Eine Bundesrichterin in Alaska hat am Sonntag die Klage des US-Justizministeriums abgewiesen, mit der die Beglaubigung der Senatswahl in Alaska blockiert werden sollte, falls der republikanische Amtsinhaber Dan Sullivan gegen die Demokratin Mary Peltola verliert. Richterin Sharon Gleason begründete das mit fehlender Klagebefugnis der Regierung und ließ auch keine Nachbesserung der Klage zu. Das Ministerium wollte zudem Stimmzettel aussortieren lassen, auf denen ein weiterer Kandidat namens Daniel J. Sullivan gewählt wurde – dieser soll nach Vorwürfen gezielt aufgestellt worden sein, um Wähler zu verwirren. Dafür habe die Regierung keinen praktikablen Plan vorgelegt, so Gleason; kurzfristige Änderungen an Wahlregeln seien grundsätzlich unerwünscht. Peltolas Team begrüßte das Urteil, das Justizministerium kündigte Berufung beim 9. Bundesberufungsgericht an. Unabhängig davon laufen die strafrechtlichen Ermittlungen des Bundes und des Bundesstaats zu dem mutmaßlich angeworbenen Kandidaten weiter. Gewählt wird am Dienstag, 3. November.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-01",
       "land": "USA"
-    },
-    {
-      "titel": "USA genehmigen Verkauf von 500 Patriot-Raketen an die Ukraine – G20-Treffen ohne Abschlusserklärung",
-      "text": "Das US-Außenministerium hat am 30. Oktober den möglichen Verkauf von 500 Patriot-Abfangraketen vom modernsten Typ PAC-3 MSE an die Ukraine gebilligt, Wert rund 2,1 Milliarden Dollar. Bezahlt wird nicht mit US-Geld, sondern mit Beiträgen aus Deutschland, Kanada und Norwegen sowie einem EU-Kredit; Hersteller ist Lockheed Martin. Einen Liefertermin gibt es nicht – Präsident Selenskyj begrüßte die Genehmigung, warnte aber, die Lieferung könne Jahre dauern, und will einzelne Raketen vorab von Partnern bekommen. Zeitgleich trafen sich die G20-Außenminister unter Leitung von US-Außenminister Rubio in Atlanta. Weil die USA auch Russlands Außenminister Lawrow eingeladen hatten, wurde das übliche Gruppenfoto abgesagt; auch Bundesaußenminister Wadephul gehörte zu denen, die nicht mit Lawrow posieren wollten. Das Treffen endete nach zwei Tagen ohne gemeinsame Abschlusserklärung.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-10-30",
-      "land": "USA"
-    },
-    {
-      "titel": "Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-      "text": "Die Berliner Linke hat auf ihrem Landesparteitag am Samstag mit breiter Mehrheit beschlossen, Koalitionsverhandlungen mit Grünen und SPD aufzunehmen – sechs Wochen nach der Abgeordnetenhauswahl. Grüne und SPD hatten bereits zugestimmt, die Verhandlungen sollen am Montag offiziell beginnen. Linke-Spitzenkandidatin Elif Eralp könnte damit die erste Regierende Bürgermeisterin ihrer Partei in Berlin werden. Ziel ist laut ZDF, bis zum Jahreswechsel eine neue Landesregierung zu bilden. Umstritten war in der Partei vor allem das Sondierungspapier, darunter die geplante Vergesellschaftung großer Wohnungskonzerne, die eine Mehrheit der Delegierten aber als Chance sah. Das Vorhaben dürfte auch bundespolitisch Streit auslösen, weil Bundesinnenminister Dobrindt solche Enteignungen per Bundesgesetz deutlich erschweren will.",
-      "quelle": "ZDF",
-      "datum_artikel": "2026-10-31",
-      "land": "Deutschland"
     }
   ]
 }
