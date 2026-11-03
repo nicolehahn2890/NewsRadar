@@ -1,38 +1,71 @@
 {
-  "datum": "Montag, 2. November 2026",
-  "generiert": "2026-11-02",
+  "datum": "Dienstag, 3. November 2026",
+  "generiert": "2026-11-03",
   "ki_stories": [
     {
-      "titel": "Anthropic droht Nutzern, die Claude dauerhaft beschimpfen, mit Sperre",
-      "text": "Anthropic hat Anfang Oktober eine neue Regel in seine Nutzungsbedingungen aufgenommen, über die CNN am Sonntag ausführlich berichtet: Anhaltende, grundlose Beschimpfung der Claude-Modelle ist verboten, in extremen Fällen droht eine dauerhafte Sperre des Kontos. Ein Sprecher sagte CNN, das wichtigste Mittel bleibe aber, dass Claude solche Gespräche selbst beendet – eine Funktion, die es seit 2025 für seltene, extreme Fälle gibt. Ausdrücklich nicht gemeint seien Nutzer, die ihren Frust äußern, deutliche Kritik üben oder die Modelle zu Test- und Forschungszwecken herausfordern. Anthropic begründet den Schritt als vorsorgliche, kostengünstige Maßnahme mit Blick auf ein mögliches Unwohlsein des Modells, behauptet aber nicht, dass Claude ein Bewusstsein habe. Ein von CNN zitierter Professor des College of William and Mary sagte, der Tonfall könne die Antworten eines Modells zwar beeinflussen, das bedeute aber nicht, dass es echte Gefühle habe. Offen ist laut Kritikern, wie Anthropic im Einzelfall zwischen berechtigtem Ärger und mutwilliger Grausamkeit unterscheiden will.",
-      "quelle": "CNN",
-      "datum_artikel": "2026-11-01"
+      "titel": "Apple Intelligence startet im Dezember in China – mit KI von Alibaba",
+      "text": "Apple bringt seine KI-Funktionen Apple Intelligence im Dezember auf iPhones in Festland-China. Technisch steckt dort das Qwen-Modell des chinesischen Konzerns Alibaba dahinter: Es soll Siri, die Schreibwerkzeuge und die visuelle Bilderkennung unterstützen. Entwickler können die Funktionen ab dem 4. November in einer Testversion ausprobieren, für alle Nutzer kommt sie mit dem Update iOS 27.3 im Dezember. Die neue, stark überarbeitete Siri, die Apple im Sommer auf der Entwicklerkonferenz WWDC gezeigt hatte, ist in China zunächst nicht dabei. Nutzer müssen der Funktion ausdrücklich zustimmen; Alibaba sagt zu, die Anfragen nicht zum Training seiner Modelle zu verwenden. Die chinesische Internetbehörde hatte die Zusammenarbeit bereits im Juli genehmigt. Die Alibaba-Aktie stieg nach der Ankündigung um rund 6 Prozent; für Apple ist China einer der wichtigsten Märkte, in dem das iPhone bisher ohne KI-Funktionen auskommen musste.",
+      "quelle": "South China Morning Post",
+      "datum_artikel": "2026-11-02"
+    },
+    {
+      "titel": "OpenAI holt Werbe-Plattformen Magnite und PubMatic für ChatGPT-Anzeigen an Bord",
+      "text": "OpenAI hat laut The Information Verträge mit den Werbetechnik-Firmen Magnite und PubMatic abgeschlossen. Über deren Plattformen sollen Werbetreibende Anzeigenplätze in ChatGPT kaufen können, die OpenAI selbst nicht direkt verkauft – sie legen dort Budgets fest, geben Gebote ab und laden ihre Anzeigen hoch, OpenAI entscheidet aber weiterhin, wo die Werbung erscheint. Das Volumen ist bisher klein, soll aber schnell wachsen; wie die Einnahmen aufgeteilt werden, ist nicht bekannt. OpenAI hat die Berichte nicht offiziell bestätigt. Zuvor hatte OpenAI bereits mit Criteo, LiveRamp und Amazon Ads zusammengearbeitet; das ChatGPT-Werbegeschäft erreichte nach Firmenangaben im August eine Jahresrate von 1 Milliarde Dollar Umsatz und läuft inzwischen in 89 Ländern mit über 100.000 Werbekunden. Die Aktien von Magnite stiegen nach dem Bericht um bis zu 13 Prozent, PubMatic um fast 10 Prozent.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-11-02"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Altman auf Überraschungsbesuch in Südkorea – OpenAI sucht dringend mehr Speicherchips",
-      "text": "OpenAI-Chef Sam Altman ist unangekündigt nach Südkorea gereist, um sich mehr Speicherchips für die eigenen KI-Rechenzentren zu sichern. Am Samstag traf er laut Samsung rund 50 Top-Manager des Konzerns aus Elektronik, Finanzen und Biotech in Yongin, bereits am Freitag gab es ein Mittagessen mit SK-Group-Chef Chey Tae-won (SK Hynix ist einer der wichtigsten Hersteller von KI-Speicher). Begleitet wurde Altman laut Seoul Economic Daily von Richard Ho, der bei OpenAI die Entwicklung eigener KI-Chips leitet; nach Branchenkreisen könnte dieser Chip Samsungs neuen Hochleistungsspeicher HBM4 nutzen. Einen neuen Liefervertrag oder konkrete Mengen gaben die Unternehmen nicht bekannt. Hintergrund sind stark steigende Preise für Hochleistungsspeicher (HBM) und eine weltweite Knappheit – und dass OpenAI zuletzt sein Finanzierungsziel senken musste. Altman stand zudem in der Kritik, weil er in einem Podcast den Arbeitsspeicher in normalen PCs als 'ziemlich schrecklich' bezeichnet und damit eine Debatte über die Verteilung der knappen Chips ausgelöst hatte.",
-      "quelle": "CNBC",
+      "titel": "Anthropic legt Quartalszahlen vor: 17 Milliarden Dollar Umsatz, aber wieder Verlust",
+      "text": "Nachdem Anthropic vor einer Woche seinen Börsenprospekt veröffentlicht hatte, hat das Unternehmen am Montag eine aktualisierte Fassung mit den Zahlen für das dritte Quartal bei der US-Börsenaufsicht SEC eingereicht. Der Umsatz lag bei rund 17 Milliarden Dollar, mehr als zehnmal so viel wie ein Jahr zuvor (1,4 Milliarden). Das Wachstum hat sich aber deutlich verlangsamt: Gegenüber dem Vorquartal (11,6 Milliarden) waren es rund 47 Prozent, nach 144 Prozent im zweiten Quartal. Statt eines operativen Gewinns von 974 Millionen Dollar im Vorquartal steht nun ein operativer Verlust von 567 Millionen – vor allem wegen 5 Milliarden Dollar für kurzfristig angemietete Rechenleistung; Preissenkungen und Rabatte kosteten zusätzlich rund 600 Millionen Umsatz. Insgesamt hat Anthropic Zahlungsverpflichtungen von rund 895 Milliarden Dollar, fast alles für Rechenzentren und Chips. Der Börsengang an der Nasdaq unter dem Kürzel ANT ist für Ende November geplant.",
+      "quelle": "Fortune",
       "datum_artikel": "2026-11-02",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Größter Deal des Jahres: Marvell kauft Lumentum für 115 Milliarden Dollar",
+      "text": "Vergangene Woche war erst von Verhandlungen die Rede, nun ist es offiziell: Der Chipkonzern Marvell übernimmt den Laser- und Optikspezialisten Lumentum für rund 115 Milliarden Dollar inklusive Schulden – laut Bloomberg die größte Übernahme des Jahres 2026. Bezahlt wird komplett in Aktien: Lumentum-Aktionäre bekommen 4,5 Marvell-Aktien pro Lumentum-Aktie, das entspricht einem Aufschlag von knapp 24 Prozent auf den Kurs vor den ersten Gerüchten. Danach gehören den Marvell-Aktionären rund 67 Prozent des gemeinsamen Unternehmens. Ziel ist, im Geschäft mit Bauteilen für KI-Rechenzentren gegen den größeren Rivalen Broadcom anzutreten. Die Börse reagierte skeptisch: Marvell fiel am Montag um fast 13 Prozent, Lumentum um 18 Prozent. Der Abschluss ist erst für die erste Hälfte 2028 geplant; scheitert der Deal an den Kartellbehörden, muss Marvell 3,2 Milliarden Dollar Strafe zahlen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-02",
+      "unternehmen": "Marvell"
+    },
+    {
+      "titel": "Oracle will 20 Milliarden Dollar für KI-Ausbau einsammeln – Aktie fällt deutlich",
+      "text": "Der Software- und Cloud-Konzern Oracle hat am Montag angekündigt, sich 20 Milliarden Dollar frisches Geld für den Bau von KI-Rechenzentren zu besorgen: 10 Milliarden über neue Aktien und weitere 10 Milliarden über Anleihen mit Laufzeiten von 2029 bis 2046. Laut Berichten sollen die neuen Aktien mit rund 11 Prozent Abschlag auf den Börsenkurs verkauft werden, was die Anteile der bisherigen Aktionäre verwässert. Die Oracle-Aktie verlor am Montag rund 8 Prozent, das entspricht über 60 Milliarden Dollar Börsenwert; seit Jahresbeginn lag sie schon vorher rund 33 Prozent im Minus. Die Summe hatte Oracle auf seinem Investorentag vergangene Woche bereits als Obergrenze genannt. Hintergrund der Nervosität: Die Ratingagentur S&P hatte Oracles Bonität schon im Juli auf BBB- gesenkt, nur noch eine Stufe über Ramsch-Niveau, und viele Anleger sorgen sich über die hohe Verschuldung durch die KI-Investitionen.",
+      "quelle": "Quartz",
+      "datum_artikel": "2026-11-02",
+      "unternehmen": "Oracle"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Kongresswahl am Dienstag: Was ein Machtwechsel für Tech- und Chipaktien bedeuten würde",
-      "text": "Vor der US-Kongresswahl am Dienstag, 3. November, spielen Analysten durch, wie das Ergebnis die ohnehin nervösen Märkte bewegen könnte. Umfragen und Wettmärkte deuten laut Bloomberg darauf hin, dass die Republikaner das Repräsentantenhaus verlieren, beim Senat ist der Ausgang offener. Ein Durchmarsch der Demokraten in beiden Kammern würde laut Bloomberg wahrscheinlich eine strengere Kontrolle der KI-Branche und des Rechenzentrumsausbaus bringen – etwa die Forderung, dass KI-Firmen mehr Stromkosten selbst tragen; als besonders betroffen gelten asiatische Zulieferer wie TSMC, Hon Hai (Foxconn), Quanta und Delta Electronics. Ein überraschender Sieg der Republikaner stünde dagegen für Kontinuität und könnte koreanischen und taiwanischen Chipwerten helfen. Morgan Stanleys Chefstratege Mike Wilson zählt die Wahl neben Sorgen um die KI-Ausgaben und knapper Liquidität zu den Ereignissen, die den S&P 500 kurzfristig bis auf etwa 7.100 Punkte drücken könnten, rund 9 Prozent unter dem Rekord. Er rät aber, Rücksetzer unabhängig vom Wahlausgang zum Kauf zu nutzen, weil Aktien nach Zwischenwahlen historisch meist gut laufen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-01"
+      "titel": "Ölpreis bricht um über 7 Prozent ein – Hoffnung auf Gespräche mit dem Iran",
+      "text": "Der Ölpreis ist am Montag so stark gefallen wie seit Monaten nicht mehr: Die Nordsee-Sorte Brent verlor rund 7,5 Prozent und schloss bei etwa 104,80 Dollar je Fass. Auslöser waren Gespräche zwischen iranischen und katarischen Vertretern, die Hoffnung auf ein Ende des Kriegs zwischen den USA, Israel und dem Iran weckten. Irans Außenminister sagte, die Verhandlungen über eine Wiederöffnung der Straße von Hormus – eine der wichtigsten Öl-Transportrouten der Welt – liefen noch, eine Einigung gebe es aber nicht. US-Präsident Trump signalisierte, der Diplomatie mehr Zeit zu geben, drohte aber zugleich weiter mit militärischem Druck. Der Ölpreis-Rutsch ließ die Aktienmärkte zunächst steigen, im späteren Handel zogen Tech-Werte die Indizes aber wieder nach unten: Der Nasdaq schloss 1,1 Prozent tiefer, der Dow Jones dagegen 0,4 Prozent höher. Analysten betonen, dass das Ölangebot weiter unter Vorkriegsniveau liegt – der Preis bleibt also trotz des Einbruchs hoch.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-02"
+    },
+    {
+      "titel": "Apple übertrifft Erwartungen im ersten Quartal unter Chef Ternus – Aktie trotzdem tiefer",
+      "text": "Apple hat am Montagabend Zahlen für sein viertes Geschäftsquartal vorgelegt – die ersten unter dem neuen Chef John Ternus, der im September auf Tim Cook gefolgt war. Der Umsatz stieg um 12 Prozent auf 114,5 Milliarden Dollar, mehr als die erwarteten 113,4 Milliarden; der Gewinn je Aktie lag mit 2,10 Dollar ebenfalls über den Prognosen (1,99 Dollar). Das iPhone brachte 57,6 Milliarden Dollar ein, darin sind schon die ersten acht Verkaufstage des iPhone 18 Pro enthalten. Schwächer liefen dagegen iPad (minus 10 Prozent), Wearables wie die Apple Watch (minus 8 Prozent) und das China-Geschäft. Die Aktie, die schon im regulären Handel fast 2 Prozent verloren hatte, fiel nachbörslich um weitere knapp 3 Prozent auf rund 329 Dollar. Anleger störten sich vor allem an steigenden Kosten für Speicherchips, Lieferengpässen und einer Prognose für die Gewinnmarge, die unter den Erwartungen lag.",
+      "quelle": "Forbes",
+      "datum_artikel": "2026-11-02"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Alaska: Richterin weist Klage der Trump-Regierung gegen Senatswahl ab – Ministerium will in Berufung",
-      "text": "Eine Bundesrichterin in Alaska hat am Sonntag die Klage des US-Justizministeriums abgewiesen, mit der die Beglaubigung der Senatswahl in Alaska blockiert werden sollte, falls der republikanische Amtsinhaber Dan Sullivan gegen die Demokratin Mary Peltola verliert. Richterin Sharon Gleason begründete das mit fehlender Klagebefugnis der Regierung und ließ auch keine Nachbesserung der Klage zu. Das Ministerium wollte zudem Stimmzettel aussortieren lassen, auf denen ein weiterer Kandidat namens Daniel J. Sullivan gewählt wurde – dieser soll nach Vorwürfen gezielt aufgestellt worden sein, um Wähler zu verwirren. Dafür habe die Regierung keinen praktikablen Plan vorgelegt, so Gleason; kurzfristige Änderungen an Wahlregeln seien grundsätzlich unerwünscht. Peltolas Team begrüßte das Urteil, das Justizministerium kündigte Berufung beim 9. Bundesberufungsgericht an. Unabhängig davon laufen die strafrechtlichen Ermittlungen des Bundes und des Bundesstaats zu dem mutmaßlich angeworbenen Kandidaten weiter. Gewählt wird am Dienstag, 3. November.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-01",
+      "titel": "USA wählen heute ein neues Repräsentantenhaus und ein Drittel des Senats",
+      "text": "In den USA finden heute, am 3. November, die Kongresswahlen zur Halbzeit von Präsident Trumps Amtszeit statt. Gewählt werden alle 435 Sitze im Repräsentantenhaus und gut ein Drittel der Sitze im Senat; für eine Mehrheit im Repräsentantenhaus sind 218 Sitze nötig. Die letzten Umfragen der New York Times und des Siena College vom Montag sehen die Demokraten in allen sieben besonders umkämpften Senatsrennen vorn, darunter Michigan (53 zu 42 Prozent), Texas (50 zu 43), Maine (51 zu 45) und Ohio (49 zu 44); in Iowa ist es mit 48 zu 47 Prozent sehr knapp. Laut NBC News brauchen die Demokraten für die Mehrheit im Repräsentantenhaus nur drei zusätzliche Sitze, allerdings hatten die Republikaner in mehreren Bundesstaaten Wahlkreise neu zugeschnitten. Präsident Trump geht laut der Times mit der zweitniedrigsten Zustimmungsrate eines Präsidenten vor Halbzeitwahlen seit 1946 in die Abstimmung. Gewinnen die Demokraten eine der beiden Kammern, könnten sie Gesetze der Regierung blockieren und Untersuchungen einleiten. Erste Ergebnisse werden in der Nacht zu Mittwoch (europäischer Zeit) erwartet; knappe Rennen können sich wegen der Briefwahl-Auszählung über Tage ziehen.",
+      "quelle": "New York Times",
+      "datum_artikel": "2026-11-02",
       "land": "USA"
+    },
+    {
+      "titel": "Merz legt sich fest: Nächstes Staatsoberhaupt soll eine Frau werden",
+      "text": "Bundeskanzler Friedrich Merz hat bei einem internen Treffen der CDU-Kreisvorsitzenden in Berlin gesagt, die Nachfolge von Bundespräsident Frank-Walter Steinmeier müsse eine Frau antreten. Er werde der Partei eine gemeinsame Kandidatin der politischen Mitte vorschlagen; den Namen will er laut Berichten spätestens in der Sitzung des CDU-Präsidiums am kommenden Montag nennen. In Medien werden unter anderem Bundestagspräsidentin Julia Klöckner, Bildungsministerin Karin Prien, die frühere Parteichefin Annegret Kramp-Karrenbauer und die hessische CDU-Fraktionschefin Ines Claus genannt – bestätigt ist davon nichts. Die CSU wirbt dagegen für die bayerische Landtagspräsidentin Ilse Aigner, die laut Berichten auch Unterstützung aus Teilen von SPD und Grünen hat. Steinmeiers zweite und letzte Amtszeit endet im März 2027; gewählt wird das Staatsoberhaupt von der Bundesversammlung aus Bundestagsabgeordneten und Vertretern der Länder.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-02",
+      "land": "Deutschland"
     }
   ]
 }
