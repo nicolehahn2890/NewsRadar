@@ -1,69 +1,75 @@
 {
-  "datum": "Dienstag, 3. November 2026",
-  "generiert": "2026-11-03",
+  "datum": "Mittwoch, 4. November 2026",
+  "generiert": "2026-11-04",
   "ki_stories": [
     {
-      "titel": "Apple Intelligence startet im Dezember in China – mit KI von Alibaba",
-      "text": "Apple bringt seine KI-Funktionen Apple Intelligence im Dezember auf iPhones in Festland-China. Technisch steckt dort das Qwen-Modell des chinesischen Konzerns Alibaba dahinter: Es soll Siri, die Schreibwerkzeuge und die visuelle Bilderkennung unterstützen. Entwickler können die Funktionen ab dem 4. November in einer Testversion ausprobieren, für alle Nutzer kommt sie mit dem Update iOS 27.3 im Dezember. Die neue, stark überarbeitete Siri, die Apple im Sommer auf der Entwicklerkonferenz WWDC gezeigt hatte, ist in China zunächst nicht dabei. Nutzer müssen der Funktion ausdrücklich zustimmen; Alibaba sagt zu, die Anfragen nicht zum Training seiner Modelle zu verwenden. Die chinesische Internetbehörde hatte die Zusammenarbeit bereits im Juli genehmigt. Die Alibaba-Aktie stieg nach der Ankündigung um rund 6 Prozent; für Apple ist China einer der wichtigsten Märkte, in dem das iPhone bisher ohne KI-Funktionen auskommen musste.",
-      "quelle": "South China Morning Post",
-      "datum_artikel": "2026-11-02"
+      "titel": "China plant umfassende KI-Sicherheitsregeln – vom Training bis zum Einsatz",
+      "text": "Chinas oberste Wirtschaftsplanungsbehörde NDRC hat am Dienstag angekündigt, die KI-Gesetzgebung zu beschleunigen. Behördenvertreter Wang Ruomeng beschrieb ein Regelwerk, das den gesamten Lebenszyklus von KI-Modellen abdecken soll – inklusive Daten, Rechenleistung und Algorithmen – samt Sicherheitsstandards und ethischen Leitlinien. Entwickler und Betreiber sollen ihr Risikomanagement ausbauen und Sicherheitsrisiken, Vorfälle und Schwachstellen offenlegen; betroffen wären laut Berichten auch Anbieter wie DeepSeek, Moonshot und Alibaba. Bloomberg wertet den Plan als eine der umfassendsten Vorgaben weltweit gegen den Kontrollverlust über leistungsfähige KI, ausgelöst durch Sicherheitspannen bei KI-Firmen international. Zugleich will Peking die Folgen von KI für Arbeitsplätze beobachten und betroffene Beschäftigte absichern, die KI-Entwicklung aber weiter fördern. Einen Gesetzestext oder Zeitplan gibt es noch nicht.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-03"
     },
     {
-      "titel": "OpenAI holt Werbe-Plattformen Magnite und PubMatic für ChatGPT-Anzeigen an Bord",
-      "text": "OpenAI hat laut The Information Verträge mit den Werbetechnik-Firmen Magnite und PubMatic abgeschlossen. Über deren Plattformen sollen Werbetreibende Anzeigenplätze in ChatGPT kaufen können, die OpenAI selbst nicht direkt verkauft – sie legen dort Budgets fest, geben Gebote ab und laden ihre Anzeigen hoch, OpenAI entscheidet aber weiterhin, wo die Werbung erscheint. Das Volumen ist bisher klein, soll aber schnell wachsen; wie die Einnahmen aufgeteilt werden, ist nicht bekannt. OpenAI hat die Berichte nicht offiziell bestätigt. Zuvor hatte OpenAI bereits mit Criteo, LiveRamp und Amazon Ads zusammengearbeitet; das ChatGPT-Werbegeschäft erreichte nach Firmenangaben im August eine Jahresrate von 1 Milliarde Dollar Umsatz und läuft inzwischen in 89 Ländern mit über 100.000 Werbekunden. Die Aktien von Magnite stiegen nach dem Bericht um bis zu 13 Prozent, PubMatic um fast 10 Prozent.",
+      "titel": "Anthropic lässt Claude eigene Chips mitentwerfen – Aktien von Synopsys und Cadence fallen",
+      "text": "Laut einem Bericht von The Information hat Anthropic Investoren vor dem Börsengang erklärt, dass es seine eigenen Claude-Modelle für Ingenieurs- und Designarbeit an seinen selbst entwickelten KI-Chips einsetzt. Die Aktien der Chipdesign-Softwarehersteller Synopsys und Cadence Design Systems fielen daraufhin am Dienstag zeitweise um bis zu rund 4 Prozent. Anleger befürchten, dass große KI-Labore künftig weniger auf die etablierten Design-Programme (Electronic Design Automation) angewiesen sein oder sogar selbst damit konkurrieren könnten. Auch OpenAI hatte zuvor erklärt, seinen eigenen Chip mit Broadcom und internen KI-Systemen in nur neun Monaten entworfen zu haben. Anthropic hat allerdings nicht angekündigt, seine Chipdesign-Fähigkeiten als Produkt verkaufen zu wollen.",
       "quelle": "The Information",
-      "datum_artikel": "2026-11-02"
+      "datum_artikel": "2026-11-03"
+    },
+    {
+      "titel": "Digital-Gipfel: Merz will Deutschland bis 2030 zur KI-Nation machen",
+      "text": "Auf dem Digital-Gipfel der Bundesregierung am 2. und 3. November in Berlin haben Bundeskanzler Friedrich Merz (CDU) und Digitalminister Karsten Wildberger ein gemeinsames Zielbild vorgestellt: Deutschland soll bis 2030 eine KI-Nation werden. Ein ressortübergreifender Ergebnisbericht bündelt 18 Schlüsselmaßnahmen mit messbaren Zielen; unter anderem soll die KI-Rechenkapazität bis 2030 vervierfacht werden, und es sollen Investitionen von bis zu 200 Milliarden Euro mobilisiert werden. Wildberger kündigte zudem eine Zusammenarbeit mit Kanada beim Aufbau eines KI-Sicherheitsinstituts in Deutschland an. Er forderte einfachere EU-Regeln, damit KI in Maschinen und Robotik nicht durch Doppelregulierung gebremst wird. Merz sagte, Deutschland und Europa müssten digitale Technologien deutlich schneller entwickeln und tatsächlich nutzen. Konkrete Gesetzesbeschlüsse oder Fristen über die 2030-Ziele hinaus wurden noch nicht genannt.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-11-03"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic legt Quartalszahlen vor: 17 Milliarden Dollar Umsatz, aber wieder Verlust",
-      "text": "Nachdem Anthropic vor einer Woche seinen Börsenprospekt veröffentlicht hatte, hat das Unternehmen am Montag eine aktualisierte Fassung mit den Zahlen für das dritte Quartal bei der US-Börsenaufsicht SEC eingereicht. Der Umsatz lag bei rund 17 Milliarden Dollar, mehr als zehnmal so viel wie ein Jahr zuvor (1,4 Milliarden). Das Wachstum hat sich aber deutlich verlangsamt: Gegenüber dem Vorquartal (11,6 Milliarden) waren es rund 47 Prozent, nach 144 Prozent im zweiten Quartal. Statt eines operativen Gewinns von 974 Millionen Dollar im Vorquartal steht nun ein operativer Verlust von 567 Millionen – vor allem wegen 5 Milliarden Dollar für kurzfristig angemietete Rechenleistung; Preissenkungen und Rabatte kosteten zusätzlich rund 600 Millionen Umsatz. Insgesamt hat Anthropic Zahlungsverpflichtungen von rund 895 Milliarden Dollar, fast alles für Rechenzentren und Chips. Der Börsengang an der Nasdaq unter dem Kürzel ANT ist für Ende November geplant.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-11-02",
+      "titel": "AMD übertrifft Erwartungen – Rechenzentrums-Umsatz verdoppelt sich fast, Aktie nachbörslich plus 8 Prozent",
+      "text": "AMD hat am Dienstagabend Rekordzahlen für das dritte Quartal vorgelegt: Der Umsatz stieg um 45 Prozent auf 13,4 Milliarden Dollar, der bereinigte Gewinn je Aktie lag bei 2,09 Dollar. Analysten hatten nur mit 13,06 Milliarden Dollar Umsatz und 1,94 Dollar Gewinn je Aktie gerechnet. Das Rechenzentrums-Geschäft mit KI-Chips wuchs um rund 97 Prozent und macht inzwischen fast zwei Drittel des Umsatzes aus, während das Geschäft mit PC- und Gaming-Chips um 8 Prozent auf 3,7 Milliarden Dollar schrumpfte. Finanzchefin Jean Hu stellte für das vierte Quartal weiter beschleunigtes Wachstum in Aussicht. Die Aktie, die seit Jahresbeginn rund 125 Prozent zugelegt hat, stieg nachbörslich um rund 8 Prozent auf etwa 520 Dollar.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-03",
+      "unternehmen": "AMD"
+    },
+    {
+      "titel": "Anthropic-Börsengang: Investoren drängen auf niedrigere Bewertung von 1,5 bis 1,6 Billionen Dollar",
+      "text": "Nachdem Anthropic am Montag in seinem aktualisierten Börsenprospekt rund 17 Milliarden Dollar Quartalsumsatz offengelegt hatte, drängen große institutionelle Investoren nun laut Wall Street Journal auf eine niedrigere Bewertung. Statt der zuletzt diskutierten rund 2 Billionen Dollar halten sie etwa 1,5 bis 1,6 Billionen für angemessen, einige sogar nur 1,4 bis 1,5 Billionen. Als Gründe nennen sie das deutlich verlangsamte Wachstum (plus 47 Prozent zum Vorquartal nach 144 Prozent im zweiten Quartal), Rechenzentrums-Verpflichtungen von rund 895 Milliarden Dollar bis 2045 und die schwankenden Märkte. Anthropic hat noch keinen Zielwert festgelegt. Die Roadshow könnte bereits nächste Woche starten, der Börsengang an der Nasdaq unter dem Kürzel ANT ist für die Woche vor Thanksgiving geplant; verkauft werden sollen Aktien für rund 100 Milliarden Dollar.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-11-03",
       "unternehmen": "Anthropic"
     },
     {
-      "titel": "Größter Deal des Jahres: Marvell kauft Lumentum für 115 Milliarden Dollar",
-      "text": "Vergangene Woche war erst von Verhandlungen die Rede, nun ist es offiziell: Der Chipkonzern Marvell übernimmt den Laser- und Optikspezialisten Lumentum für rund 115 Milliarden Dollar inklusive Schulden – laut Bloomberg die größte Übernahme des Jahres 2026. Bezahlt wird komplett in Aktien: Lumentum-Aktionäre bekommen 4,5 Marvell-Aktien pro Lumentum-Aktie, das entspricht einem Aufschlag von knapp 24 Prozent auf den Kurs vor den ersten Gerüchten. Danach gehören den Marvell-Aktionären rund 67 Prozent des gemeinsamen Unternehmens. Ziel ist, im Geschäft mit Bauteilen für KI-Rechenzentren gegen den größeren Rivalen Broadcom anzutreten. Die Börse reagierte skeptisch: Marvell fiel am Montag um fast 13 Prozent, Lumentum um 18 Prozent. Der Abschluss ist erst für die erste Hälfte 2028 geplant; scheitert der Deal an den Kartellbehörden, muss Marvell 3,2 Milliarden Dollar Strafe zahlen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-02",
-      "unternehmen": "Marvell"
-    },
-    {
-      "titel": "Oracle will 20 Milliarden Dollar für KI-Ausbau einsammeln – Aktie fällt deutlich",
-      "text": "Der Software- und Cloud-Konzern Oracle hat am Montag angekündigt, sich 20 Milliarden Dollar frisches Geld für den Bau von KI-Rechenzentren zu besorgen: 10 Milliarden über neue Aktien und weitere 10 Milliarden über Anleihen mit Laufzeiten von 2029 bis 2046. Laut Berichten sollen die neuen Aktien mit rund 11 Prozent Abschlag auf den Börsenkurs verkauft werden, was die Anteile der bisherigen Aktionäre verwässert. Die Oracle-Aktie verlor am Montag rund 8 Prozent, das entspricht über 60 Milliarden Dollar Börsenwert; seit Jahresbeginn lag sie schon vorher rund 33 Prozent im Minus. Die Summe hatte Oracle auf seinem Investorentag vergangene Woche bereits als Obergrenze genannt. Hintergrund der Nervosität: Die Ratingagentur S&P hatte Oracles Bonität schon im Juli auf BBB- gesenkt, nur noch eine Stufe über Ramsch-Niveau, und viele Anleger sorgen sich über die hohe Verschuldung durch die KI-Investitionen.",
-      "quelle": "Quartz",
-      "datum_artikel": "2026-11-02",
-      "unternehmen": "Oracle"
+      "titel": "Palantir knackt erstmals 2-Milliarden-Marke und hebt Prognose – Aktie fällt trotzdem",
+      "text": "Palantir hat im dritten Quartal 2,31 Milliarden Dollar umgesetzt, 96 Prozent mehr als im Vorjahr und deutlich über der eigenen Prognose von rund 2,16 Milliarden Dollar. Erstmals übertraf das Geschäft mit US-Unternehmenskunden die Umsätze mit der US-Regierung; der bereinigte operative Gewinn lag bei 1,43 Milliarden Dollar (Marge 62 Prozent). Die Jahresprognose hob Palantir auf rund 8,53 Milliarden Dollar Umsatz an, nach zuvor 8,15 Milliarden. Dennoch drehte die Aktie nach anfänglichen Gewinnen ins Minus und schloss am Dienstag rund 2 Prozent tiefer. Analysten verweisen auf die bereits sehr hohe Bewertung und hohe Erwartungen; Chef Alex Karp nannte Europa weiterhin einen Bremsklotz.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-03",
+      "unternehmen": "Palantir"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis bricht um über 7 Prozent ein – Hoffnung auf Gespräche mit dem Iran",
-      "text": "Der Ölpreis ist am Montag so stark gefallen wie seit Monaten nicht mehr: Die Nordsee-Sorte Brent verlor rund 7,5 Prozent und schloss bei etwa 104,80 Dollar je Fass. Auslöser waren Gespräche zwischen iranischen und katarischen Vertretern, die Hoffnung auf ein Ende des Kriegs zwischen den USA, Israel und dem Iran weckten. Irans Außenminister sagte, die Verhandlungen über eine Wiederöffnung der Straße von Hormus – eine der wichtigsten Öl-Transportrouten der Welt – liefen noch, eine Einigung gebe es aber nicht. US-Präsident Trump signalisierte, der Diplomatie mehr Zeit zu geben, drohte aber zugleich weiter mit militärischem Druck. Der Ölpreis-Rutsch ließ die Aktienmärkte zunächst steigen, im späteren Handel zogen Tech-Werte die Indizes aber wieder nach unten: Der Nasdaq schloss 1,1 Prozent tiefer, der Dow Jones dagegen 0,4 Prozent höher. Analysten betonen, dass das Ölangebot weiter unter Vorkriegsniveau liegt – der Preis bleibt also trotz des Einbruchs hoch.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-02"
+      "titel": "Ölpreis steigt wieder über 105 Dollar – USA greifen iranische Insel Qeshm an",
+      "text": "Nach dem Einbruch um mehr als 7 Prozent am Montag, als die USA und Iran Gesprächsbereitschaft signalisiert hatten, ist der Ölpreis am Dienstag wieder gestiegen. Auslöser war ein Bericht des Wall Street Journal, wonach US-Streitkräfte in der Nacht auf Dienstag Ziele auf der iranischen Insel Qeshm in der Straße von Hormus angegriffen haben. US-Vertreter sprachen von begrenzten, defensiven Schlägen, um Angriffe Irans auf Handelsschiffe und US-Einheiten zu verhindern. Die Nordseesorte Brent stieg auf rund 105 bis 107 Dollar je Barrel, die US-Sorte WTI auf etwa 97 bis 98 Dollar. Analysten zufolge ist damit ein Teil des Risikoaufschlags zurück im Preis; ob es zu Verhandlungen mit Teheran kommt, bleibt offen.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-03"
     },
     {
-      "titel": "Apple übertrifft Erwartungen im ersten Quartal unter Chef Ternus – Aktie trotzdem tiefer",
-      "text": "Apple hat am Montagabend Zahlen für sein viertes Geschäftsquartal vorgelegt – die ersten unter dem neuen Chef John Ternus, der im September auf Tim Cook gefolgt war. Der Umsatz stieg um 12 Prozent auf 114,5 Milliarden Dollar, mehr als die erwarteten 113,4 Milliarden; der Gewinn je Aktie lag mit 2,10 Dollar ebenfalls über den Prognosen (1,99 Dollar). Das iPhone brachte 57,6 Milliarden Dollar ein, darin sind schon die ersten acht Verkaufstage des iPhone 18 Pro enthalten. Schwächer liefen dagegen iPad (minus 10 Prozent), Wearables wie die Apple Watch (minus 8 Prozent) und das China-Geschäft. Die Aktie, die schon im regulären Handel fast 2 Prozent verloren hatte, fiel nachbörslich um weitere knapp 3 Prozent auf rund 329 Dollar. Anleger störten sich vor allem an steigenden Kosten für Speicherchips, Lieferengpässen und einer Prognose für die Gewinnmarge, die unter den Erwartungen lag.",
-      "quelle": "Forbes",
-      "datum_artikel": "2026-11-02"
+      "titel": "Shopify-Aktie fällt um 7,6 Prozent – KI-Kosten drücken die Marge",
+      "text": "Die Aktie des Onlinehandels-Plattformanbieters Shopify ist am Dienstag nach Vorlage der Quartalszahlen um rund 7,6 Prozent gefallen. Zwar stieg der Umsatz um 32 Prozent, doch Teile der Ergebnisse blieben hinter den Erwartungen der Analysten zurück. Vor allem belastete, dass Shopify einen Rückgang der Gewinnmarge offenlegte, den das Unternehmen mit höheren Ausgaben für KI begründete. Der Fall zeigt, dass Anleger derzeit genau darauf achten, ob KI-Investitionen die Profitabilität von Softwarefirmen schmälern.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-11-03"
     }
   ],
   "politik_stories": [
     {
-      "titel": "USA wählen heute ein neues Repräsentantenhaus und ein Drittel des Senats",
-      "text": "In den USA finden heute, am 3. November, die Kongresswahlen zur Halbzeit von Präsident Trumps Amtszeit statt. Gewählt werden alle 435 Sitze im Repräsentantenhaus und gut ein Drittel der Sitze im Senat; für eine Mehrheit im Repräsentantenhaus sind 218 Sitze nötig. Die letzten Umfragen der New York Times und des Siena College vom Montag sehen die Demokraten in allen sieben besonders umkämpften Senatsrennen vorn, darunter Michigan (53 zu 42 Prozent), Texas (50 zu 43), Maine (51 zu 45) und Ohio (49 zu 44); in Iowa ist es mit 48 zu 47 Prozent sehr knapp. Laut NBC News brauchen die Demokraten für die Mehrheit im Repräsentantenhaus nur drei zusätzliche Sitze, allerdings hatten die Republikaner in mehreren Bundesstaaten Wahlkreise neu zugeschnitten. Präsident Trump geht laut der Times mit der zweitniedrigsten Zustimmungsrate eines Präsidenten vor Halbzeitwahlen seit 1946 in die Abstimmung. Gewinnen die Demokraten eine der beiden Kammern, könnten sie Gesetze der Regierung blockieren und Untersuchungen einleiten. Erste Ergebnisse werden in der Nacht zu Mittwoch (europäischer Zeit) erwartet; knappe Rennen können sich wegen der Briefwahl-Auszählung über Tage ziehen.",
-      "quelle": "New York Times",
-      "datum_artikel": "2026-11-02",
+      "titel": "US-Kongresswahl: Demokraten auf Kurs zur Mehrheit im Repräsentantenhaus – Senat noch offen",
+      "text": "Bei der Kongresswahl am Dienstag zeichnet sich nach ersten Auszählungen ab, dass die Demokraten die Mehrheit im Repräsentantenhaus von den Republikanern übernehmen; die Wahl-Analysten von CNBC und anderen Sendern sehen sie klar vorn, ein endgültiges Ergebnis kann laut AP aber bis zu einer Woche dauern. Im Senat, wo die Republikaner bisher 53 zu 47 Sitze halten, gewannen die Demokraten laut AP-Hochrechnungen North Carolina (Roy Cooper) und laut CNN auch South Carolina (Annie Andrews) hinzu und verteidigten Georgia (Jon Ossoff) sowie New Hampshire (Chris Pappas). Die Republikanerin Ashley Moody behielt ihren Sitz in Florida. Für eine Senatsmehrheit brauchen die Demokraten netto vier zusätzliche Sitze; Rennen wie Texas, Michigan und Maine waren zunächst noch nicht entschieden, die Kontrolle über den Senat könnte laut AP Tage offen bleiben. Ein demokratisch geführtes Repräsentantenhaus könnte Gesetzesvorhaben von Präsident Trump ab Januar blockieren und eigene Untersuchungen einleiten.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-11-04",
       "land": "USA"
     },
     {
-      "titel": "Merz legt sich fest: Nächstes Staatsoberhaupt soll eine Frau werden",
-      "text": "Bundeskanzler Friedrich Merz hat bei einem internen Treffen der CDU-Kreisvorsitzenden in Berlin gesagt, die Nachfolge von Bundespräsident Frank-Walter Steinmeier müsse eine Frau antreten. Er werde der Partei eine gemeinsame Kandidatin der politischen Mitte vorschlagen; den Namen will er laut Berichten spätestens in der Sitzung des CDU-Präsidiums am kommenden Montag nennen. In Medien werden unter anderem Bundestagspräsidentin Julia Klöckner, Bildungsministerin Karin Prien, die frühere Parteichefin Annegret Kramp-Karrenbauer und die hessische CDU-Fraktionschefin Ines Claus genannt – bestätigt ist davon nichts. Die CSU wirbt dagegen für die bayerische Landtagspräsidentin Ilse Aigner, die laut Berichten auch Unterstützung aus Teilen von SPD und Grünen hat. Steinmeiers zweite und letzte Amtszeit endet im März 2027; gewählt wird das Staatsoberhaupt von der Bundesversammlung aus Bundestagsabgeordneten und Vertretern der Länder.",
-      "quelle": "Bloomberg",
+      "titel": "Spritpreisdeckel: Reiches Gesetzentwurf sieht hohe Hürden vor – SPD übt Kritik",
+      "text": "Das Bundeswirtschaftsministerium unter Katherina Reiche (CDU) hat einen ersten Entwurf für ein Kraftstoffhöchstpreisgesetz vorgelegt, der sich noch in der regierungsinternen Frühkoordinierung befindet. Hintergrund ist eine Einigung von Bund und Ländern, die Spritpreise nach dem Iran-Krieg zu begrenzen; der Deckel soll spätestens Anfang 2027 gelten können. Laut Entwurf greift ein Höchstpreis aber nur, wenn die Preise in Deutschland drei Wochen in Folge jeweils um mehr als fünf Prozentpunkte stärker steigen als im Durchschnitt der übrigen EU-Staaten. Eine konkrete Preisgrenze steht nicht im Entwurf, sie soll bei Bedarf per Verordnung festgelegt werden; Länder könnten regional abweichende Höchstpreise bestimmen, Tankstellen drohen bei Verstößen Bußgelder bis 100.000 Euro. Die SPD kritisiert, der Entwurf bleibe deutlich hinter ihren Vorstellungen zurück, der Tankstellenverband bft hält einen staatlichen Preisdeckel grundsätzlich für nicht funktionsfähig. Für Autofahrer ändert sich vorerst nichts – als Nächstes muss sich die Koalition auf einen gemeinsamen Kabinettsentwurf einigen.",
+      "quelle": "Handelsblatt",
       "datum_artikel": "2026-11-02",
       "land": "Deutschland"
     }
