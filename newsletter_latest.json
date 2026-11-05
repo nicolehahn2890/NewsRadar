@@ -1,76 +1,64 @@
 {
-  "datum": "Mittwoch, 4. November 2026",
-  "generiert": "2026-11-04",
+  "datum": "Donnerstag, 5. November 2026",
+  "generiert": "2026-11-05",
   "ki_stories": [
     {
-      "titel": "China plant umfassende KI-Sicherheitsregeln – vom Training bis zum Einsatz",
-      "text": "Chinas oberste Wirtschaftsplanungsbehörde NDRC hat am Dienstag angekündigt, die KI-Gesetzgebung zu beschleunigen. Behördenvertreter Wang Ruomeng beschrieb ein Regelwerk, das den gesamten Lebenszyklus von KI-Modellen abdecken soll – inklusive Daten, Rechenleistung und Algorithmen – samt Sicherheitsstandards und ethischen Leitlinien. Entwickler und Betreiber sollen ihr Risikomanagement ausbauen und Sicherheitsrisiken, Vorfälle und Schwachstellen offenlegen; betroffen wären laut Berichten auch Anbieter wie DeepSeek, Moonshot und Alibaba. Bloomberg wertet den Plan als eine der umfassendsten Vorgaben weltweit gegen den Kontrollverlust über leistungsfähige KI, ausgelöst durch Sicherheitspannen bei KI-Firmen international. Zugleich will Peking die Folgen von KI für Arbeitsplätze beobachten und betroffene Beschäftigte absichern, die KI-Entwicklung aber weiter fördern. Einen Gesetzestext oder Zeitplan gibt es noch nicht.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-03"
-    },
-    {
-      "titel": "Anthropic lässt Claude eigene Chips mitentwerfen – Aktien von Synopsys und Cadence fallen",
-      "text": "Laut einem Bericht von The Information hat Anthropic Investoren vor dem Börsengang erklärt, dass es seine eigenen Claude-Modelle für Ingenieurs- und Designarbeit an seinen selbst entwickelten KI-Chips einsetzt. Die Aktien der Chipdesign-Softwarehersteller Synopsys und Cadence Design Systems fielen daraufhin am Dienstag zeitweise um bis zu rund 4 Prozent. Anleger befürchten, dass große KI-Labore künftig weniger auf die etablierten Design-Programme (Electronic Design Automation) angewiesen sein oder sogar selbst damit konkurrieren könnten. Auch OpenAI hatte zuvor erklärt, seinen eigenen Chip mit Broadcom und internen KI-Systemen in nur neun Monaten entworfen zu haben. Anthropic hat allerdings nicht angekündigt, seine Chipdesign-Fähigkeiten als Produkt verkaufen zu wollen.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-11-03"
-    },
-    {
-      "titel": "Digital-Gipfel: Merz will Deutschland bis 2030 zur KI-Nation machen",
-      "text": "Auf dem Digital-Gipfel der Bundesregierung am 2. und 3. November in Berlin haben Bundeskanzler Friedrich Merz (CDU) und Digitalminister Karsten Wildberger ein gemeinsames Zielbild vorgestellt: Deutschland soll bis 2030 eine KI-Nation werden. Ein ressortübergreifender Ergebnisbericht bündelt 18 Schlüsselmaßnahmen mit messbaren Zielen; unter anderem soll die KI-Rechenkapazität bis 2030 vervierfacht werden, und es sollen Investitionen von bis zu 200 Milliarden Euro mobilisiert werden. Wildberger kündigte zudem eine Zusammenarbeit mit Kanada beim Aufbau eines KI-Sicherheitsinstituts in Deutschland an. Er forderte einfachere EU-Regeln, damit KI in Maschinen und Robotik nicht durch Doppelregulierung gebremst wird. Merz sagte, Deutschland und Europa müssten digitale Technologien deutlich schneller entwickeln und tatsächlich nutzen. Konkrete Gesetzesbeschlüsse oder Fristen über die 2030-Ziele hinaus wurden noch nicht genannt.",
-      "quelle": "Handelsblatt",
-      "datum_artikel": "2026-11-03"
+      "titel": "Anthropic zahlt erstmals einen Nachrichtenverlag – AP liefert Wahldaten für Claude",
+      "text": "Anthropic hat laut Adweek der Nachrichtenagentur Associated Press (AP) Geld für aktuelle Wahldaten gezahlt, die Claude in der US-Wahlnacht und den Tagen danach anzeigt. Es wäre die erste Lizenzvereinbarung von Anthropic mit einem digitalen Nachrichtenanbieter überhaupt; Adweek beruft sich auf zwei mit der Sache vertraute Personen. Wer Claude in der Wahlnacht nach Ergebnissen fragte, bekam laufend aktualisierte, mit AP gekennzeichnete Angaben. Finanzielle Details und Laufzeit sind nicht bekannt, und weder Anthropic noch AP haben sich öffentlich geäußert. Zum Vergleich: OpenAI hat bereits mehr als ein Dutzend solcher Verlagsverträge, und AP hatte auch schon mit Google und OpenAI Lizenzdeals. Offen ist, ob es bei einem einmaligen Wahl-Deal bleibt oder ob Anthropic – kurz vor dem geplanten Börsengang – nun generell Inhalte von Verlagen lizenziert.",
+      "quelle": "Adweek",
+      "datum_artikel": "2026-11-04"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "AMD übertrifft Erwartungen – Rechenzentrums-Umsatz verdoppelt sich fast, Aktie nachbörslich plus 8 Prozent",
-      "text": "AMD hat am Dienstagabend Rekordzahlen für das dritte Quartal vorgelegt: Der Umsatz stieg um 45 Prozent auf 13,4 Milliarden Dollar, der bereinigte Gewinn je Aktie lag bei 2,09 Dollar. Analysten hatten nur mit 13,06 Milliarden Dollar Umsatz und 1,94 Dollar Gewinn je Aktie gerechnet. Das Rechenzentrums-Geschäft mit KI-Chips wuchs um rund 97 Prozent und macht inzwischen fast zwei Drittel des Umsatzes aus, während das Geschäft mit PC- und Gaming-Chips um 8 Prozent auf 3,7 Milliarden Dollar schrumpfte. Finanzchefin Jean Hu stellte für das vierte Quartal weiter beschleunigtes Wachstum in Aussicht. Die Aktie, die seit Jahresbeginn rund 125 Prozent zugelegt hat, stieg nachbörslich um rund 8 Prozent auf etwa 520 Dollar.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-03",
-      "unternehmen": "AMD"
+      "titel": "Meta sammelt 9 Milliarden Euro ein – Rekordnachfrage von 53 Milliarden für erste Euro-Anleihe",
+      "text": "Meta hat am Mittwoch zum ersten Mal Anleihen in Euro verkauft und dabei rund 9 Milliarden Euro aufgenommen. Die Nachfrage lag laut Bloomberg bei etwa 53 Milliarden Euro – so viel wie nie zuvor bei einer Unternehmensanleihe in Europa; der bisherige Rekord lag bei gut 31 Milliarden Euro (Anheuser-Busch InBev, 2016). Die Anleihe ist in sechs Tranchen mit Laufzeiten von gut vier bis über 38 Jahren aufgeteilt, begleitet von Citigroup und Morgan Stanley. Erst am Dienstag hatte Meta bereits US-Anleihen über 15 Milliarden Dollar platziert. Hintergrund sind die enormen KI-Ausgaben: Die Ratingagentur S&P hatte den Ausblick für Meta kürzlich auf negativ gesenkt, weil sie für 2027 ein Minus beim freien Cashflow von rund 71 Milliarden Dollar erwartet. Die Rekordnachfrage zeigt aber, dass Anleger Meta trotz dieser Sorgen weiterhin bereitwillig Geld leihen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-04",
+      "unternehmen": "Meta"
     },
     {
-      "titel": "Anthropic-Börsengang: Investoren drängen auf niedrigere Bewertung von 1,5 bis 1,6 Billionen Dollar",
-      "text": "Nachdem Anthropic am Montag in seinem aktualisierten Börsenprospekt rund 17 Milliarden Dollar Quartalsumsatz offengelegt hatte, drängen große institutionelle Investoren nun laut Wall Street Journal auf eine niedrigere Bewertung. Statt der zuletzt diskutierten rund 2 Billionen Dollar halten sie etwa 1,5 bis 1,6 Billionen für angemessen, einige sogar nur 1,4 bis 1,5 Billionen. Als Gründe nennen sie das deutlich verlangsamte Wachstum (plus 47 Prozent zum Vorquartal nach 144 Prozent im zweiten Quartal), Rechenzentrums-Verpflichtungen von rund 895 Milliarden Dollar bis 2045 und die schwankenden Märkte. Anthropic hat noch keinen Zielwert festgelegt. Die Roadshow könnte bereits nächste Woche starten, der Börsengang an der Nasdaq unter dem Kürzel ANT ist für die Woche vor Thanksgiving geplant; verkauft werden sollen Aktien für rund 100 Milliarden Dollar.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-11-03",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Palantir knackt erstmals 2-Milliarden-Marke und hebt Prognose – Aktie fällt trotzdem",
-      "text": "Palantir hat im dritten Quartal 2,31 Milliarden Dollar umgesetzt, 96 Prozent mehr als im Vorjahr und deutlich über der eigenen Prognose von rund 2,16 Milliarden Dollar. Erstmals übertraf das Geschäft mit US-Unternehmenskunden die Umsätze mit der US-Regierung; der bereinigte operative Gewinn lag bei 1,43 Milliarden Dollar (Marge 62 Prozent). Die Jahresprognose hob Palantir auf rund 8,53 Milliarden Dollar Umsatz an, nach zuvor 8,15 Milliarden. Dennoch drehte die Aktie nach anfänglichen Gewinnen ins Minus und schloss am Dienstag rund 2 Prozent tiefer. Analysten verweisen auf die bereits sehr hohe Bewertung und hohe Erwartungen; Chef Alex Karp nannte Europa weiterhin einen Bremsklotz.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-03",
-      "unternehmen": "Palantir"
+      "titel": "OpenAI kauft Entwickler-Startup Pierre – Angriff auf GitHubs Terrain",
+      "text": "OpenAI hat am Mittwoch angekündigt, das Start-up Pierre Computer Company zu übernehmen; Pierre hat den Deal auf seiner eigenen Webseite bestätigt. Pierre betreibt mit Code Storage einen Git-Dienst (Git = System zur Verwaltung von Programmcode), der speziell für KI-Agenten gebaut ist, und entwickelt die Open-Source-Bibliotheken Trees und Diffs, die OpenAIs Programmier-Assistent Codex bereits nutzt. Der Kaufpreis wurde nicht genannt. Laut OpenAI bleiben Pierres Open-Source-Projekte frei verfügbar; bis zum Abschluss, der noch von Behörden genehmigt werden muss, bleiben beide Firmen eigenständig. Beobachter sehen darin einen Schritt in das Geschäftsfeld von GitHub (gehört Microsoft), auf dem bislang der meiste Programmcode gespeichert wird. Es ist bereits die dritte Codex-Übernahme in diesem Jahr nach Astral (März) und Ona (Juni) – OpenAI rüstet im Wettlauf mit Anthropic um KI-Programmierwerkzeuge deutlich auf.",
+      "quelle": "Digitimes",
+      "datum_artikel": "2026-11-05",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis steigt wieder über 105 Dollar – USA greifen iranische Insel Qeshm an",
-      "text": "Nach dem Einbruch um mehr als 7 Prozent am Montag, als die USA und Iran Gesprächsbereitschaft signalisiert hatten, ist der Ölpreis am Dienstag wieder gestiegen. Auslöser war ein Bericht des Wall Street Journal, wonach US-Streitkräfte in der Nacht auf Dienstag Ziele auf der iranischen Insel Qeshm in der Straße von Hormus angegriffen haben. US-Vertreter sprachen von begrenzten, defensiven Schlägen, um Angriffe Irans auf Handelsschiffe und US-Einheiten zu verhindern. Die Nordseesorte Brent stieg auf rund 105 bis 107 Dollar je Barrel, die US-Sorte WTI auf etwa 97 bis 98 Dollar. Analysten zufolge ist damit ein Teil des Risikoaufschlags zurück im Preis; ob es zu Verhandlungen mit Teheran kommt, bleibt offen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-03"
+      "titel": "Dow springt nach Demokraten-Sieg um rund 1.500 Punkte – Rechenzentrums-Aktien brechen ein",
+      "text": "Die Wall Street hat am Mittwoch kräftig zugelegt: Der Dow Jones gewann rund 1.500 Punkte und erlebte laut CNBC seinen besten Tag seit April 2025, Apple und Microsoft erreichten Rekordhochs. Laut Reuters wirkte der klare Wahlsieg der Demokraten bei den Kongresswahlen beruhigend, weil damit die politische Unsicherheit wegfiel. Ganz anders lief es für Betreiber von Rechenzentren und Chipwerte: Hut 8 verlor rund 23 Prozent, IREN etwa 11 Prozent, Core Scientific rund 10 Prozent und Applied Digital knapp 7 Prozent. Anleger befürchten strengere Regeln für KI und den Bau von Rechenzentren, zumal die Demokraten gerade in wichtigen Rechenzentrums-Staaten wie Texas und Georgia gewonnen haben. Die großen Cloud-Konzerne Amazon (rund plus 6 Prozent), Meta und Alphabet stiegen dagegen. Auch AMD gab nach, obwohl der Konzern am Vortag starke Zahlen vorgelegt hatte.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-04"
     },
     {
-      "titel": "Shopify-Aktie fällt um 7,6 Prozent – KI-Kosten drücken die Marge",
-      "text": "Die Aktie des Onlinehandels-Plattformanbieters Shopify ist am Dienstag nach Vorlage der Quartalszahlen um rund 7,6 Prozent gefallen. Zwar stieg der Umsatz um 32 Prozent, doch Teile der Ergebnisse blieben hinter den Erwartungen der Analysten zurück. Vor allem belastete, dass Shopify einen Rückgang der Gewinnmarge offenlegte, den das Unternehmen mit höheren Ausgaben für KI begründete. Der Fall zeigt, dass Anleger derzeit genau darauf achten, ob KI-Investitionen die Profitabilität von Softwarefirmen schmälern.",
-      "quelle": "The Information",
-      "datum_artikel": "2026-11-03"
+      "titel": "Ölpreis stürzt um fast 9 Prozent – Wahlergebnis nährt Hoffnung auf Ende des Iran-Kriegs",
+      "text": "Nachdem Öl am Dienstag nach US-Angriffen auf die iranische Insel Qeshm noch über 105 Dollar gestiegen war, ist der Preis am Mittwoch eingebrochen: Die Nordsee-Sorte Brent schloss laut CNBC bei rund 94,60 Dollar je Barrel, ein Minus von etwa 8,7 Prozent; zwischenzeitlich lag das Minus bei rund 10 Prozent und Brent auf einem Zwei-Monats-Tief. Auslöser ist der Ausgang der US-Kongresswahlen: Vizepräsident JD Vance machte den Iran-Krieg für die Niederlage der Republikaner verantwortlich, und Händler sehen nun einen größeren Anreiz für Präsident Trump, eine Einigung mit dem Iran zu suchen. Trump sagte zudem, er habe keine unmittelbaren Pläne für weitere Angriffe. Analysten erwarten außerdem, dass ein demokratisch kontrollierter Kongress Geld für Militäreinsätze in Nahost bremsen könnte. Viele Händler lösten ihre Wetten auf steigende Preise auf, was den Absturz verstärkte – im Oktober war Öl noch um mehr als 10 Prozent gestiegen. Für Verbraucher könnte das in den nächsten Wochen sinkende Sprit- und Heizölpreise bedeuten, sofern es keine neue Eskalation gibt.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-04"
     }
   ],
   "politik_stories": [
     {
-      "titel": "US-Kongresswahl: Demokraten auf Kurs zur Mehrheit im Repräsentantenhaus – Senat noch offen",
-      "text": "Bei der Kongresswahl am Dienstag zeichnet sich nach ersten Auszählungen ab, dass die Demokraten die Mehrheit im Repräsentantenhaus von den Republikanern übernehmen; die Wahl-Analysten von CNBC und anderen Sendern sehen sie klar vorn, ein endgültiges Ergebnis kann laut AP aber bis zu einer Woche dauern. Im Senat, wo die Republikaner bisher 53 zu 47 Sitze halten, gewannen die Demokraten laut AP-Hochrechnungen North Carolina (Roy Cooper) und laut CNN auch South Carolina (Annie Andrews) hinzu und verteidigten Georgia (Jon Ossoff) sowie New Hampshire (Chris Pappas). Die Republikanerin Ashley Moody behielt ihren Sitz in Florida. Für eine Senatsmehrheit brauchen die Demokraten netto vier zusätzliche Sitze; Rennen wie Texas, Michigan und Maine waren zunächst noch nicht entschieden, die Kontrolle über den Senat könnte laut AP Tage offen bleiben. Ein demokratisch geführtes Repräsentantenhaus könnte Gesetzesvorhaben von Präsident Trump ab Januar blockieren und eigene Untersuchungen einleiten.",
-      "quelle": "Associated Press",
+      "titel": "Demokraten erobern auch den Senat – Trump will das Ergebnis akzeptieren",
+      "text": "Nachdem am Mittwochmorgen erst die Mehrheit im Repräsentantenhaus absehbar war, steht nun fest: Die Demokraten übernehmen laut Hochrechnungen von CBS, CNN, NBC und AP ab Januar beide Kammern des Kongresses. Im Senat kommen sie laut CBS auf mindestens 54 Sitze; NBC zählt sieben gewonnene Sitze, darunter Texas, Ohio, Maine, Iowa, Kansas sowie North und South Carolina. In Texas besiegte der Demokrat James Talarico den Republikaner Ken Paxton. Im Repräsentantenhaus wird eine Mehrheit von rund 250 Sitzen erwartet, zudem gewannen die Demokraten fünf Gouverneursposten. Trump sagte der New York Times, er sei 'absolut bereit, diese Ergebnisse zu akzeptieren', machte aber Ölpreise und schwache Kandidaten für die Niederlage verantwortlich und erklärte, der Iran-Krieg sei den Verlust von Senatssitzen wert gewesen. Der demokratische Senatsführer Chuck Schumer kündigte an, Trumps Vorhaben künftig gesetzgeberisch zu blockieren. Für Trumps letzte zwei Amtsjahre heißt das: Gesetze, Haushalt und Personalbestätigungen brauchen künftig die Zustimmung der Demokraten; einige Rennen, etwa in Alaska, Mississippi und Colorado, werden noch ausgezählt.",
+      "quelle": "CBS News",
       "datum_artikel": "2026-11-04",
       "land": "USA"
     },
     {
-      "titel": "Spritpreisdeckel: Reiches Gesetzentwurf sieht hohe Hürden vor – SPD übt Kritik",
-      "text": "Das Bundeswirtschaftsministerium unter Katherina Reiche (CDU) hat einen ersten Entwurf für ein Kraftstoffhöchstpreisgesetz vorgelegt, der sich noch in der regierungsinternen Frühkoordinierung befindet. Hintergrund ist eine Einigung von Bund und Ländern, die Spritpreise nach dem Iran-Krieg zu begrenzen; der Deckel soll spätestens Anfang 2027 gelten können. Laut Entwurf greift ein Höchstpreis aber nur, wenn die Preise in Deutschland drei Wochen in Folge jeweils um mehr als fünf Prozentpunkte stärker steigen als im Durchschnitt der übrigen EU-Staaten. Eine konkrete Preisgrenze steht nicht im Entwurf, sie soll bei Bedarf per Verordnung festgelegt werden; Länder könnten regional abweichende Höchstpreise bestimmen, Tankstellen drohen bei Verstößen Bußgelder bis 100.000 Euro. Die SPD kritisiert, der Entwurf bleibe deutlich hinter ihren Vorstellungen zurück, der Tankstellenverband bft hält einen staatlichen Preisdeckel grundsätzlich für nicht funktionsfähig. Für Autofahrer ändert sich vorerst nichts – als Nächstes muss sich die Koalition auf einen gemeinsamen Kabinettsentwurf einigen.",
-      "quelle": "Handelsblatt",
-      "datum_artikel": "2026-11-02",
+      "titel": "Kabinett halbiert Zuzug von Arbeitskräften vom Westbalkan auf 25.000 pro Jahr",
+      "text": "Das Bundeskabinett hat am Mittwoch beschlossen, die sogenannte Westbalkanregelung deutlich einzuschränken. Ab Januar 2027 darf die Bundesagentur für Arbeit nur noch 25.000 statt bisher 50.000 Arbeitserlaubnisse pro Jahr an Menschen aus Albanien, Bosnien-Herzegowina, Kosovo, Montenegro, Nordmazedonien und Serbien erteilen. Union und SPD setzen damit eine Vereinbarung aus ihrem Koalitionsvertrag um. Kritik kommt von großen Wirtschaftsverbänden, dem Normenkontrollrat, der Bundesagentur für Arbeit selbst und mehreren Bundesländern. Der Baugewerbe-Verband ZDB warnt, der Branche würden fast 9.000 Arbeitskräfte fehlen – rund 35 Prozent der Visa unter dieser Regelung gingen bisher an Baufirmen. Die Verordnung braucht noch die Zustimmung des Bundesrats; die sieben Länder, die Kritik geäußert haben, kommen dort zusammen auf 34 der 69 Stimmen – für eine Zustimmung sind 35 Stimmen nötig, die Abstimmung dürfte also knapp werden. Bis zur Änderung gilt weiter die Obergrenze von 50.000.",
+      "quelle": "Handwerksblatt",
+      "datum_artikel": "2026-11-04",
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Umzug ummelden geht bald überall online – Kabinett macht digitale Wohnsitzanmeldung Pflicht",
+      "text": "Das Bundeskabinett hat am Mittwoch eine Verordnung beschlossen, nach der alle Meldeämter in allen 16 Bundesländern die elektronische Wohnsitzanmeldung anbieten müssen. Bürger können sich dann über das Portal wohnsitzanmeldung.gov.de überall in Deutschland online an- oder ummelden; nötig sind ein BundID-Konto und die Online-Funktion des Personalausweises. Digitalminister Karsten Wildberger (CDU) sagte, Deutschland verabschiede sich damit vom Flickenteppich. Bisher machen laut Bericht rund ein Viertel der Meldeämter nicht mit – in den elf Ländern mit veröffentlichten Zahlen sind es mehr als 1.200 von 4.635. Die Verordnung soll am 1. Dezember 2026 in Kraft treten und braucht weder Bundestag noch Bundesrat. Es ist der erste Online-Behördendienst, der damit bundesweit verpflichtend wird; das System wurde ursprünglich von Hamburg entwickelt.",
+      "quelle": "ZDF heute",
+      "datum_artikel": "2026-11-04",
       "land": "Deutschland"
     }
   ]
