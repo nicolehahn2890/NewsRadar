@@ -1,64 +1,70 @@
 {
-  "datum": "Donnerstag, 5. November 2026",
-  "generiert": "2026-11-05",
+  "datum": "Freitag, 6. November 2026",
+  "generiert": "2026-11-06",
   "ki_stories": [
     {
-      "titel": "Anthropic zahlt erstmals einen Nachrichtenverlag – AP liefert Wahldaten für Claude",
-      "text": "Anthropic hat laut Adweek der Nachrichtenagentur Associated Press (AP) Geld für aktuelle Wahldaten gezahlt, die Claude in der US-Wahlnacht und den Tagen danach anzeigt. Es wäre die erste Lizenzvereinbarung von Anthropic mit einem digitalen Nachrichtenanbieter überhaupt; Adweek beruft sich auf zwei mit der Sache vertraute Personen. Wer Claude in der Wahlnacht nach Ergebnissen fragte, bekam laufend aktualisierte, mit AP gekennzeichnete Angaben. Finanzielle Details und Laufzeit sind nicht bekannt, und weder Anthropic noch AP haben sich öffentlich geäußert. Zum Vergleich: OpenAI hat bereits mehr als ein Dutzend solcher Verlagsverträge, und AP hatte auch schon mit Google und OpenAI Lizenzdeals. Offen ist, ob es bei einem einmaligen Wahl-Deal bleibt oder ob Anthropic – kurz vor dem geplanten Börsengang – nun generell Inhalte von Verlagen lizenziert.",
-      "quelle": "Adweek",
-      "datum_artikel": "2026-11-04"
+      "titel": "Briten geben über 1 Milliarde Pfund pro Jahr für KI-Abos aus – Claude holt gegenüber ChatGPT stark auf",
+      "text": "Laut einem Bloomberg-Bericht über eine neue Studie der Ökonomen Datta, Lambert und Schneider geben Verbraucher in Großbritannien inzwischen mehr als 1 Milliarde Pfund (rund 1,4 Milliarden Dollar) pro Jahr für bezahlte KI-Abos aus. Grundlage sind anonymisierte Daten von 14 Millionen britischen Bank- und Kartenkonten. Die Zahl der zahlenden Nutzer hat sich seit Anfang 2024 etwa jedes Jahr verdoppelt und lag im Juni 2026 bei 5,1 Prozent der Erwachsenen, also rund 2,8 Millionen Menschen. Auffällig ist die Verschiebung zwischen den Anbietern: Der Anteil von Anthropics Claude an den Abo-Ausgaben stieg zwischen Dezember 2025 und Juli 2026 von 7,4 auf 29,4 Prozent, während ChatGPT von 73,5 auf 52,5 Prozent fiel. Ein Teil des Zuwachses kommt daher, dass Claude-Kunden häufiger teure Tarife buchen: 6,2 Prozent zahlen 80 Pfund oder mehr im Monat, bei ChatGPT sind es nur 0,3 Prozent. Einschränkung: Die Studie erfasst nur direkt bezahlte Abos, nicht Firmenlizenzen oder kostenlose Nutzung.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-05"
+    },
+    {
+      "titel": "USA drehen Chinas KI-Firmen den Zugang zu NVIDIA-Chips im Ausland ab – Moonshot weicht nach Europa aus",
+      "text": "Chinesische KI-Entwickler verlieren einen wichtigen Umweg zu modernen US-Chips: Bisher mieteten sie Rechenleistung mit NVIDIA-Chips in Rechenzentren außerhalb Chinas, vor allem in Südostasien. Nach Berichten vom 5. November erhöht Washington den Druck auf diese Anbieter deutlich, was besonders Rechenzentrums-Betreiber in Südostasien trifft, die ihre Kapazitäten gezielt für chinesische Kunden gebaut hatten. Laut CNBC hat das chinesische KI-Labor Moonshot AI, dem das Weiße Haus vorwirft, sich in Ostasien per Fernzugriff NVIDIA-Spitzenchips beschafft zu haben, inzwischen Zugang über Rechenzentren in Europa gesucht. Zusätzlich läuft am 9. November die Aussetzung der sogenannten Affiliates-Regel des US-Handelsministeriums aus, die Exportbeschränkungen auf Tochterfirmen chinesischer Konzerne ausweiten würde. Peking reagiert, indem es heimische Firmen stärker zu chinesischen Chips drängt.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-05"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Meta sammelt 9 Milliarden Euro ein – Rekordnachfrage von 53 Milliarden für erste Euro-Anleihe",
-      "text": "Meta hat am Mittwoch zum ersten Mal Anleihen in Euro verkauft und dabei rund 9 Milliarden Euro aufgenommen. Die Nachfrage lag laut Bloomberg bei etwa 53 Milliarden Euro – so viel wie nie zuvor bei einer Unternehmensanleihe in Europa; der bisherige Rekord lag bei gut 31 Milliarden Euro (Anheuser-Busch InBev, 2016). Die Anleihe ist in sechs Tranchen mit Laufzeiten von gut vier bis über 38 Jahren aufgeteilt, begleitet von Citigroup und Morgan Stanley. Erst am Dienstag hatte Meta bereits US-Anleihen über 15 Milliarden Dollar platziert. Hintergrund sind die enormen KI-Ausgaben: Die Ratingagentur S&P hatte den Ausblick für Meta kürzlich auf negativ gesenkt, weil sie für 2027 ein Minus beim freien Cashflow von rund 71 Milliarden Dollar erwartet. Die Rekordnachfrage zeigt aber, dass Anleger Meta trotz dieser Sorgen weiterhin bereitwillig Geld leihen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-04",
-      "unternehmen": "Meta"
-    },
-    {
-      "titel": "OpenAI kauft Entwickler-Startup Pierre – Angriff auf GitHubs Terrain",
-      "text": "OpenAI hat am Mittwoch angekündigt, das Start-up Pierre Computer Company zu übernehmen; Pierre hat den Deal auf seiner eigenen Webseite bestätigt. Pierre betreibt mit Code Storage einen Git-Dienst (Git = System zur Verwaltung von Programmcode), der speziell für KI-Agenten gebaut ist, und entwickelt die Open-Source-Bibliotheken Trees und Diffs, die OpenAIs Programmier-Assistent Codex bereits nutzt. Der Kaufpreis wurde nicht genannt. Laut OpenAI bleiben Pierres Open-Source-Projekte frei verfügbar; bis zum Abschluss, der noch von Behörden genehmigt werden muss, bleiben beide Firmen eigenständig. Beobachter sehen darin einen Schritt in das Geschäftsfeld von GitHub (gehört Microsoft), auf dem bislang der meiste Programmcode gespeichert wird. Es ist bereits die dritte Codex-Übernahme in diesem Jahr nach Astral (März) und Ona (Juni) – OpenAI rüstet im Wettlauf mit Anthropic um KI-Programmierwerkzeuge deutlich auf.",
-      "quelle": "Digitimes",
+      "titel": "OpenAI verspricht: Wir zahlen den Strom für unsere Rechenzentren selbst – Reaktion auf Wähler-Unmut",
+      "text": "OpenAI hat am 5. November einen sogenannten National Community Compact veröffentlicht, also eine freiwillige Selbstverpflichtung gegenüber den Gemeinden, in denen es Rechenzentren baut. Kern: OpenAI will bei eigenen Rechenzentrums-Standorten alle Strom- und Netzausbaukosten selbst tragen, damit die Stromrechnungen der Anwohner nicht steigen. Außerdem verzichtet das Unternehmen künftig auf Verschwiegenheitsvereinbarungen (NDAs) mit Behördenvertretern und will Wasser- und Energieverbrauch öffentlich machen. Vor großen Investitionen sollen finanzielle Garantien andere Stromkunden schützen, falls ein Projekt verschoben oder abgesagt wird. Der Schritt kommt zwei Tage nach den US-Wahlen, bei denen in mehreren Orten über Rechenzentren abgestimmt wurde und der Widerstand gegen den KI-Ausbau sichtbar war. Kritiker merken an, dass die Zusage nicht einklagbar ist und nicht automatisch für Standorte von Partnerfirmen gilt.",
+      "quelle": "Quartz",
       "datum_artikel": "2026-11-05",
       "unternehmen": "OpenAI"
+    },
+    {
+      "titel": "Google bürgt für Anthropics 19-Milliarden-Dollar-Mietvertrag für Rechenzentrum in Kentucky",
+      "text": "Der Rechenzentrums-Betreiber TeraWulf hat am 4. November offengelegt, dass Google eine Kreditgarantie für Mietverpflichtungen von Anthropic übernimmt. Es geht um rund 19 Milliarden Dollar an vertraglich vereinbarten Mieten für drei Gebäude auf einem Campus in Hawesville, Kentucky, mit etwa 401 Megawatt Rechenleistung. Zahlt Anthropic die Miete nicht, kann Google selbst als Mieter einspringen oder gegen eine Ablösesumme einen Anteil an der Projektgesellschaft übernehmen. Die Garantie entfällt, sobald Anthropic mindestens drei Monate lang eine gute Kreditnote (Investment Grade) hat. Hintergrund: Anthropic hat bislang keine solche Investment-Grade-Bonität, weshalb Geldgeber für den Bau zusätzliche Sicherheiten verlangen; Google ist zugleich großer Anthropic-Investor. Die TeraWulf-Aktie fiel trotzdem um rund 4 Prozent, weil das Unternehmen bis zur Fertigstellung auf 4 bis 4,5 Milliarden Dollar Baukosten selbst sitzt.",
+      "quelle": "CoinDesk",
+      "datum_artikel": "2026-11-05",
+      "unternehmen": "Google / Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Dow springt nach Demokraten-Sieg um rund 1.500 Punkte – Rechenzentrums-Aktien brechen ein",
-      "text": "Die Wall Street hat am Mittwoch kräftig zugelegt: Der Dow Jones gewann rund 1.500 Punkte und erlebte laut CNBC seinen besten Tag seit April 2025, Apple und Microsoft erreichten Rekordhochs. Laut Reuters wirkte der klare Wahlsieg der Demokraten bei den Kongresswahlen beruhigend, weil damit die politische Unsicherheit wegfiel. Ganz anders lief es für Betreiber von Rechenzentren und Chipwerte: Hut 8 verlor rund 23 Prozent, IREN etwa 11 Prozent, Core Scientific rund 10 Prozent und Applied Digital knapp 7 Prozent. Anleger befürchten strengere Regeln für KI und den Bau von Rechenzentren, zumal die Demokraten gerade in wichtigen Rechenzentrums-Staaten wie Texas und Georgia gewonnen haben. Die großen Cloud-Konzerne Amazon (rund plus 6 Prozent), Meta und Alphabet stiegen dagegen. Auch AMD gab nach, obwohl der Konzern am Vortag starke Zahlen vorgelegt hatte.",
+      "titel": "Kehrtwende nach Wahl-Rally: Nasdaq stürzt um 5,5 Prozent, Chipwerte brechen ein – Kospi mit Handelsstopp",
+      "text": "Nachdem der Dow Jones am Mittwoch nach dem Wahlsieg der Demokraten noch um rund 1.500 Punkte gestiegen war, kam am Donnerstag, 5. November, der Absturz: Der Dow fiel um etwa 1.800 Punkte (minus 3,4 Prozent), der S&P 500 um rund 4,4 Prozent – sein schlechtester Tag seit April 2025 – und die Nasdaq um 5,5 Prozent. Damit liegt die Nasdaq knapp 12 Prozent unter ihrem Rekord und ist offiziell in einer Korrektur. Auslöser war die Sorge, dass der von Demokraten kontrollierte Kongress den Bau von KI-Rechenzentren stärker regulieren könnte; NVIDIA und Qualcomm verloren jeweils mehr als 9 Prozent, Qualcomm zusätzlich wegen eines schwachen Ausblicks. Der Chip-Index der Philadelphia-Börse fiel laut Fox Business um mehr als 12 Prozent, der Angstindex VIX sprang um rund 70 Prozent. Am Freitagmorgen setzte sich der Ausverkauf in Asien fort: Der südkoreanische Kospi stürzte um mehr als 8 Prozent unter 5.000 Punkte, der Handel wurde per Notbremse kurz ausgesetzt; Samsung verlor rund 9, SK Hynix rund 11 Prozent.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-11-04"
+      "datum_artikel": "2026-11-05"
     },
     {
-      "titel": "Ölpreis stürzt um fast 9 Prozent – Wahlergebnis nährt Hoffnung auf Ende des Iran-Kriegs",
-      "text": "Nachdem Öl am Dienstag nach US-Angriffen auf die iranische Insel Qeshm noch über 105 Dollar gestiegen war, ist der Preis am Mittwoch eingebrochen: Die Nordsee-Sorte Brent schloss laut CNBC bei rund 94,60 Dollar je Barrel, ein Minus von etwa 8,7 Prozent; zwischenzeitlich lag das Minus bei rund 10 Prozent und Brent auf einem Zwei-Monats-Tief. Auslöser ist der Ausgang der US-Kongresswahlen: Vizepräsident JD Vance machte den Iran-Krieg für die Niederlage der Republikaner verantwortlich, und Händler sehen nun einen größeren Anreiz für Präsident Trump, eine Einigung mit dem Iran zu suchen. Trump sagte zudem, er habe keine unmittelbaren Pläne für weitere Angriffe. Analysten erwarten außerdem, dass ein demokratisch kontrollierter Kongress Geld für Militäreinsätze in Nahost bremsen könnte. Viele Händler lösten ihre Wetten auf steigende Preise auf, was den Absturz verstärkte – im Oktober war Öl noch um mehr als 10 Prozent gestiegen. Für Verbraucher könnte das in den nächsten Wochen sinkende Sprit- und Heizölpreise bedeuten, sofern es keine neue Eskalation gibt.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-04"
+      "titel": "Bank of England erhöht erstmals seit 2023 die Zinsen – auf 4 Prozent",
+      "text": "Die britische Notenbank hat am 5. November ihren Leitzins um 0,25 Prozentpunkte auf 4 Prozent angehoben – die erste Erhöhung seit August 2023. Im geldpolitischen Ausschuss stimmten acht Mitglieder dafür, ein Mitglied wollte sogar auf 4,25 Prozent gehen. Begründung: Der Krieg im Nahen Osten hat Öl und Gas verteuert, die Inflation liegt bei 3,5 Prozent statt der angepeilten 2 Prozent und könnte bis Mitte 2027 auf etwa 5 Prozent steigen. Notenbankchef Andrew Bailey sagte, dies sei nicht der Beginn einer unvermeidlich langen Serie von Erhöhungen, schloss weitere Schritte aber nicht aus, solange der Iran-Krieg nicht beendet ist. Für britische Kreditnehmer werden Hypotheken und Kredite damit teurer; die nächste Zinsentscheidung steht am 17. Dezember an.",
+      "quelle": "Bank of England",
+      "datum_artikel": "2026-11-05"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Demokraten erobern auch den Senat – Trump will das Ergebnis akzeptieren",
-      "text": "Nachdem am Mittwochmorgen erst die Mehrheit im Repräsentantenhaus absehbar war, steht nun fest: Die Demokraten übernehmen laut Hochrechnungen von CBS, CNN, NBC und AP ab Januar beide Kammern des Kongresses. Im Senat kommen sie laut CBS auf mindestens 54 Sitze; NBC zählt sieben gewonnene Sitze, darunter Texas, Ohio, Maine, Iowa, Kansas sowie North und South Carolina. In Texas besiegte der Demokrat James Talarico den Republikaner Ken Paxton. Im Repräsentantenhaus wird eine Mehrheit von rund 250 Sitzen erwartet, zudem gewannen die Demokraten fünf Gouverneursposten. Trump sagte der New York Times, er sei 'absolut bereit, diese Ergebnisse zu akzeptieren', machte aber Ölpreise und schwache Kandidaten für die Niederlage verantwortlich und erklärte, der Iran-Krieg sei den Verlust von Senatssitzen wert gewesen. Der demokratische Senatsführer Chuck Schumer kündigte an, Trumps Vorhaben künftig gesetzgeberisch zu blockieren. Für Trumps letzte zwei Amtsjahre heißt das: Gesetze, Haushalt und Personalbestätigungen brauchen künftig die Zustimmung der Demokraten; einige Rennen, etwa in Alaska, Mississippi und Colorado, werden noch ausgezählt.",
-      "quelle": "CBS News",
-      "datum_artikel": "2026-11-04",
+      "titel": "Nach dem Wahlsieg: Demokraten kündigen breite Untersuchungen gegen Trump-Regierung und -Familie an",
+      "text": "Nachdem die Demokraten bei der Wahl am Dienstag beide Kammern des Kongresses gewonnen haben, bereiten sie eine Welle von Untersuchungen vor. Der Abgeordnete Jamie Raskin, der voraussichtlich den Justizausschuss des Repräsentantenhauses leiten wird, nannte als Themen die Geschäfte der Trump-Familie, darunter Kryptowährungs-Deals, eine mögliche Politisierung von Justizministerium und FBI, Begnadigungen durch Trump sowie mögliche Korruption bei Regierungsaufträgen. Auch Trumps Schwiegersohn Jared Kushner steht wegen seiner Rolle als Sondergesandter und seiner privaten Geschäfte im Fokus. Ab Januar, wenn der neue Kongress zusammentritt, haben die Demokraten in beiden Kammern die Macht, Zeugen und Unterlagen per Vorladung (Subpoena) zu erzwingen. Laut The Hill signalisieren Regierungsvertreter bereits, dass sie die Untersuchungen bremsen wollen; mehrere Beamte haben sich nach dem Bericht bereits anwaltlich beraten lassen.",
+      "quelle": "The Hill",
+      "datum_artikel": "2026-11-05",
       "land": "USA"
     },
     {
-      "titel": "Kabinett halbiert Zuzug von Arbeitskräften vom Westbalkan auf 25.000 pro Jahr",
-      "text": "Das Bundeskabinett hat am Mittwoch beschlossen, die sogenannte Westbalkanregelung deutlich einzuschränken. Ab Januar 2027 darf die Bundesagentur für Arbeit nur noch 25.000 statt bisher 50.000 Arbeitserlaubnisse pro Jahr an Menschen aus Albanien, Bosnien-Herzegowina, Kosovo, Montenegro, Nordmazedonien und Serbien erteilen. Union und SPD setzen damit eine Vereinbarung aus ihrem Koalitionsvertrag um. Kritik kommt von großen Wirtschaftsverbänden, dem Normenkontrollrat, der Bundesagentur für Arbeit selbst und mehreren Bundesländern. Der Baugewerbe-Verband ZDB warnt, der Branche würden fast 9.000 Arbeitskräfte fehlen – rund 35 Prozent der Visa unter dieser Regelung gingen bisher an Baufirmen. Die Verordnung braucht noch die Zustimmung des Bundesrats; die sieben Länder, die Kritik geäußert haben, kommen dort zusammen auf 34 der 69 Stimmen – für eine Zustimmung sind 35 Stimmen nötig, die Abstimmung dürfte also knapp werden. Bis zur Änderung gilt weiter die Obergrenze von 50.000.",
-      "quelle": "Handwerksblatt",
-      "datum_artikel": "2026-11-04",
-      "land": "Deutschland"
+      "titel": "Trump gibt republikanischen Kandidaten und Fox News die Schuld an der Wahlniederlage",
+      "text": "Nachdem er zunächst angekündigt hatte, das Wahlergebnis zu akzeptieren, hat sich Präsident Trump nun zu den Gründen der republikanischen Niederlage geäußert. In einem Telefonat mit Fox News sagte er, er sehe die Ergebnisse nicht als Schlag gegen sich selbst; schuld seien schwache Kandidaten. Zudem machte er laut NPR und The Hill den Sender Fox News mitverantwortlich, weil dieser zu positiv über die Demokraten berichtet habe. Den Demokraten bescheinigte er, sie hätten 'einen guten Job gemacht'. CNN weist darauf hin, dass Trump viele der unterlegenen Kandidaten selbst ausgewählt und unterstützt hatte; ein Vertreter des Weißen Hauses erklärte dagegen, Trump habe für viele Kandidaten besser geworben als diese selbst. Ab Januar muss Trump in seinen letzten zwei Amtsjahren mit einem Kongress regieren, den die Opposition kontrolliert.",
+      "quelle": "NPR",
+      "datum_artikel": "2026-11-05",
+      "land": "USA"
     },
     {
-      "titel": "Umzug ummelden geht bald überall online – Kabinett macht digitale Wohnsitzanmeldung Pflicht",
-      "text": "Das Bundeskabinett hat am Mittwoch eine Verordnung beschlossen, nach der alle Meldeämter in allen 16 Bundesländern die elektronische Wohnsitzanmeldung anbieten müssen. Bürger können sich dann über das Portal wohnsitzanmeldung.gov.de überall in Deutschland online an- oder ummelden; nötig sind ein BundID-Konto und die Online-Funktion des Personalausweises. Digitalminister Karsten Wildberger (CDU) sagte, Deutschland verabschiede sich damit vom Flickenteppich. Bisher machen laut Bericht rund ein Viertel der Meldeämter nicht mit – in den elf Ländern mit veröffentlichten Zahlen sind es mehr als 1.200 von 4.635. Die Verordnung soll am 1. Dezember 2026 in Kraft treten und braucht weder Bundestag noch Bundesrat. Es ist der erste Online-Behördendienst, der damit bundesweit verpflichtend wird; das System wurde ursprünglich von Hamburg entwickelt.",
-      "quelle": "ZDF heute",
-      "datum_artikel": "2026-11-04",
+      "titel": "Bundestag beschließt Führerscheinreform – Theorie teils online, kürzere Prüfung ab Juli 2027",
+      "text": "Der Bundestag hat am Donnerstag mit den Stimmen von CDU/CSU und SPD den ersten Teil einer Reform der Fahrausbildung beschlossen; AfD, Grüne und Linke stimmten dagegen, weil ihnen die Änderungen nicht weit genug gehen. Geändert werden vor allem das Straßenverkehrsgesetz und das Fahrlehrergesetz: Theorieunterricht soll teilweise online stattfinden können, die praktische Pkw-Prüfung soll 40 Minuten dauern, mit mindestens 25 Minuten reiner Fahrzeit. Fahrschulen müssen künftig ihre Preise und Bestehensquoten online veröffentlichen, damit Fahrschüler besser vergleichen können. Eine Experimentierklausel soll erlauben, dass Fahrschüler nach bestandener Theorieprüfung unter Anleitung von Angehörigen auf öffentlichen Straßen üben – Fahrlehrerverbände lehnen das ab. Ziel der Koalition ist es, den Führerschein billiger zu machen; um wie viel, ist aber offen. Die Neuregelungen sollen im Wesentlichen am 1. Juli 2027 in Kraft treten, vorher muss noch der Bundesrat zustimmen.",
+      "quelle": "Tagesspiegel (dpa)",
+      "datum_artikel": "2026-11-05",
       "land": "Deutschland"
     }
   ]
