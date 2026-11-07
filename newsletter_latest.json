@@ -1,70 +1,64 @@
 {
-  "datum": "Freitag, 6. November 2026",
-  "generiert": "2026-11-06",
+  "datum": "Samstag, 7. November 2026",
+  "generiert": "2026-11-07",
   "ki_stories": [
     {
-      "titel": "Briten geben über 1 Milliarde Pfund pro Jahr für KI-Abos aus – Claude holt gegenüber ChatGPT stark auf",
-      "text": "Laut einem Bloomberg-Bericht über eine neue Studie der Ökonomen Datta, Lambert und Schneider geben Verbraucher in Großbritannien inzwischen mehr als 1 Milliarde Pfund (rund 1,4 Milliarden Dollar) pro Jahr für bezahlte KI-Abos aus. Grundlage sind anonymisierte Daten von 14 Millionen britischen Bank- und Kartenkonten. Die Zahl der zahlenden Nutzer hat sich seit Anfang 2024 etwa jedes Jahr verdoppelt und lag im Juni 2026 bei 5,1 Prozent der Erwachsenen, also rund 2,8 Millionen Menschen. Auffällig ist die Verschiebung zwischen den Anbietern: Der Anteil von Anthropics Claude an den Abo-Ausgaben stieg zwischen Dezember 2025 und Juli 2026 von 7,4 auf 29,4 Prozent, während ChatGPT von 73,5 auf 52,5 Prozent fiel. Ein Teil des Zuwachses kommt daher, dass Claude-Kunden häufiger teure Tarife buchen: 6,2 Prozent zahlen 80 Pfund oder mehr im Monat, bei ChatGPT sind es nur 0,3 Prozent. Einschränkung: Die Studie erfasst nur direkt bezahlte Abos, nicht Firmenlizenzen oder kostenlose Nutzung.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-05"
+      "titel": "Trump: '100 Prozent für Superintelligenz' – trotz Wählerunmut über KI und Rechenzentren",
+      "text": "US-Präsident Donald Trump hat sich am Freitag in einem Beitrag auf Truth Social demonstrativ hinter die KI-Branche gestellt. Er sei '100 Prozent für Superintelligenz', nannte die Technologie 'Gold' und kündigte an, mit Bundesstaaten zusammenzuarbeiten, die KI fördern; Landespolitiker, die sich dagegenstellen, bezeichnete er als töricht. Die Äußerung kommt wenige Tage nach der Kongresswahl, bei der laut einer NBC-Nachwahlbefragung 56 Prozent der Wähler KI und Rechenzentren als entscheidenden oder wichtigen Faktor für ihre Stimmabgabe nannten. Vor allem der Widerstand gegen neue Rechenzentren vor Ort (Strompreise, Flächenverbrauch) spielte eine Rolle. Laut einer CNBC-Umfrage lehnen 63 Prozent der registrierten Wähler ein KI-Rechenzentrum im Umkreis von 10 Meilen um ihren Wohnort ab, nur 13 Prozent befürworten es. Eine Kursänderung der Regierung in der KI-Politik ist damit vorerst nicht zu erwarten.",
+      "quelle": "The Daily Signal",
+      "datum_artikel": "2026-11-06"
     },
     {
-      "titel": "USA drehen Chinas KI-Firmen den Zugang zu NVIDIA-Chips im Ausland ab – Moonshot weicht nach Europa aus",
-      "text": "Chinesische KI-Entwickler verlieren einen wichtigen Umweg zu modernen US-Chips: Bisher mieteten sie Rechenleistung mit NVIDIA-Chips in Rechenzentren außerhalb Chinas, vor allem in Südostasien. Nach Berichten vom 5. November erhöht Washington den Druck auf diese Anbieter deutlich, was besonders Rechenzentrums-Betreiber in Südostasien trifft, die ihre Kapazitäten gezielt für chinesische Kunden gebaut hatten. Laut CNBC hat das chinesische KI-Labor Moonshot AI, dem das Weiße Haus vorwirft, sich in Ostasien per Fernzugriff NVIDIA-Spitzenchips beschafft zu haben, inzwischen Zugang über Rechenzentren in Europa gesucht. Zusätzlich läuft am 9. November die Aussetzung der sogenannten Affiliates-Regel des US-Handelsministeriums aus, die Exportbeschränkungen auf Tochterfirmen chinesischer Konzerne ausweiten würde. Peking reagiert, indem es heimische Firmen stärker zu chinesischen Chips drängt.",
-      "quelle": "CNBC",
+      "titel": "Visa-Test: KI-Einkaufsagenten scheitern in fast der Hälfte der Fälle",
+      "text": "Der Zahlungsdienstleister Visa hat in einem ersten Vergleichstest 22 KI-Modelle von 12 Anbietern als Einkaufsagenten antreten lassen – mit 15 typischen Shopping-Aufgaben. Im Schnitt erledigten die Agenten nur 57,2 Prozent der Aufgaben korrekt. Am besten schnitten je ein Agent von Google (Gemini) und Meta mit rund 82 Prozent ab, ein Claude-Agent von Anthropic erreichte 76 Prozent, ein OpenAI-Agent landete mit 64 Prozent auf Platz sechs; das schwächste Modell kam nur auf rund 29 Prozent. Teurere Modelle waren im Schnitt deutlich besser (67 gegenüber 50 Prozent). Auffällig: In mehr als der Hälfte der Fehlversuche kauften die Agenten trotzdem etwas – oft ein Produkt, das nicht zu den Vorgaben passte. Visa betont, dass ungeklärt ist, wer bei falschen oder unautorisierten KI-Käufen haftet; getestet wurde nur die Produktsuche, nicht der Bezahlvorgang.",
+      "quelle": "Fortune",
       "datum_artikel": "2026-11-05"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI verspricht: Wir zahlen den Strom für unsere Rechenzentren selbst – Reaktion auf Wähler-Unmut",
-      "text": "OpenAI hat am 5. November einen sogenannten National Community Compact veröffentlicht, also eine freiwillige Selbstverpflichtung gegenüber den Gemeinden, in denen es Rechenzentren baut. Kern: OpenAI will bei eigenen Rechenzentrums-Standorten alle Strom- und Netzausbaukosten selbst tragen, damit die Stromrechnungen der Anwohner nicht steigen. Außerdem verzichtet das Unternehmen künftig auf Verschwiegenheitsvereinbarungen (NDAs) mit Behördenvertretern und will Wasser- und Energieverbrauch öffentlich machen. Vor großen Investitionen sollen finanzielle Garantien andere Stromkunden schützen, falls ein Projekt verschoben oder abgesagt wird. Der Schritt kommt zwei Tage nach den US-Wahlen, bei denen in mehreren Orten über Rechenzentren abgestimmt wurde und der Widerstand gegen den KI-Ausbau sichtbar war. Kritiker merken an, dass die Zusage nicht einklagbar ist und nicht automatisch für Standorte von Partnerfirmen gilt.",
-      "quelle": "Quartz",
-      "datum_artikel": "2026-11-05",
+      "titel": "OpenAI sammelt 11 Milliarden Dollar bei 1,25 Billionen Dollar Bewertung ein – weniger als geplant",
+      "text": "OpenAI hat einen ersten Teil seiner neuen Finanzierungsrunde abgeschlossen: Rund 11 Milliarden Dollar sind bereits geflossen, bei einer Bewertung von 1,25 Billionen Dollar, wie Bloomberg am Freitag berichtete. Der Rest der Runde, die insgesamt auf bis zu 20 Milliarden Dollar anwachsen könnte, soll in den kommenden Wochen folgen. Ursprünglich wollte OpenAI 30 Milliarden Dollar oder mehr bei einer Bewertung von 1,4 Billionen Dollar einsammeln, hat die Pläne aber wegen des Kurseinbruchs bei KI-Aktien zurückgeschraubt. Zu den Geldgebern gehört unter anderem Coatue Management; zudem arbeitet OpenAI mit Investmentbanken daran, Geld bei vermögenden Privatanlegern einzusammeln. Zum Vergleich: Im März war OpenAI bei einer Runde über 122 Milliarden Dollar mit 852 Milliarden Dollar bewertet worden. Das Geld fließt vor allem in Rechenzentren; die Runde gilt als Zwischenfinanzierung vor einem möglichen Börsengang 2027.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-06",
       "unternehmen": "OpenAI"
-    },
-    {
-      "titel": "Google bürgt für Anthropics 19-Milliarden-Dollar-Mietvertrag für Rechenzentrum in Kentucky",
-      "text": "Der Rechenzentrums-Betreiber TeraWulf hat am 4. November offengelegt, dass Google eine Kreditgarantie für Mietverpflichtungen von Anthropic übernimmt. Es geht um rund 19 Milliarden Dollar an vertraglich vereinbarten Mieten für drei Gebäude auf einem Campus in Hawesville, Kentucky, mit etwa 401 Megawatt Rechenleistung. Zahlt Anthropic die Miete nicht, kann Google selbst als Mieter einspringen oder gegen eine Ablösesumme einen Anteil an der Projektgesellschaft übernehmen. Die Garantie entfällt, sobald Anthropic mindestens drei Monate lang eine gute Kreditnote (Investment Grade) hat. Hintergrund: Anthropic hat bislang keine solche Investment-Grade-Bonität, weshalb Geldgeber für den Bau zusätzliche Sicherheiten verlangen; Google ist zugleich großer Anthropic-Investor. Die TeraWulf-Aktie fiel trotzdem um rund 4 Prozent, weil das Unternehmen bis zur Fertigstellung auf 4 bis 4,5 Milliarden Dollar Baukosten selbst sitzt.",
-      "quelle": "CoinDesk",
-      "datum_artikel": "2026-11-05",
-      "unternehmen": "Google / Anthropic"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Kehrtwende nach Wahl-Rally: Nasdaq stürzt um 5,5 Prozent, Chipwerte brechen ein – Kospi mit Handelsstopp",
-      "text": "Nachdem der Dow Jones am Mittwoch nach dem Wahlsieg der Demokraten noch um rund 1.500 Punkte gestiegen war, kam am Donnerstag, 5. November, der Absturz: Der Dow fiel um etwa 1.800 Punkte (minus 3,4 Prozent), der S&P 500 um rund 4,4 Prozent – sein schlechtester Tag seit April 2025 – und die Nasdaq um 5,5 Prozent. Damit liegt die Nasdaq knapp 12 Prozent unter ihrem Rekord und ist offiziell in einer Korrektur. Auslöser war die Sorge, dass der von Demokraten kontrollierte Kongress den Bau von KI-Rechenzentren stärker regulieren könnte; NVIDIA und Qualcomm verloren jeweils mehr als 9 Prozent, Qualcomm zusätzlich wegen eines schwachen Ausblicks. Der Chip-Index der Philadelphia-Börse fiel laut Fox Business um mehr als 12 Prozent, der Angstindex VIX sprang um rund 70 Prozent. Am Freitagmorgen setzte sich der Ausverkauf in Asien fort: Der südkoreanische Kospi stürzte um mehr als 8 Prozent unter 5.000 Punkte, der Handel wurde per Notbremse kurz ausgesetzt; Samsung verlor rund 9, SK Hynix rund 11 Prozent.",
+      "titel": "Überraschend starker US-Arbeitsmarkt: 165.000 neue Jobs – Zinserhöhung im Dezember wird wahrscheinlicher",
+      "text": "Die US-Wirtschaft hat im Oktober 165.000 neue Stellen geschaffen, mehr als doppelt so viele wie erwartet (Prognosen lagen bei rund 60.000 bis 70.000). Die Arbeitslosenquote sank auf 4,1 Prozent, die Zahlen für August und September wurden zusammen um 84.000 Stellen nach oben korrigiert, die Löhne stiegen binnen eines Jahres um 3,1 Prozent. An den Terminmärkten stieg danach die Wahrscheinlichkeit einer Zinserhöhung der US-Notenbank Fed auf ihrer Sitzung am 8. und 9. Dezember auf rund 80 Prozent (vorher etwa 75 Prozent), wie Reuters unter Berufung auf LSEG-Daten berichtete. Wegen steigender Anleihezinsen gab der Dow Jones um 0,5 Prozent nach, während Nasdaq (plus 1,1 Prozent) und S&P 500 (plus 0,3 Prozent auf 7.376 Punkte) sich nach dem Einbruch vom Donnerstag etwas erholten. Auf Wochensicht bleibt ein deutliches Minus: Nasdaq minus 3,4 Prozent, S&P 500 minus 2,7 Prozent. Vor der Fed-Entscheidung kommen noch die Inflationsdaten für Oktober und der November-Arbeitsmarktbericht.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-11-05"
-    },
-    {
-      "titel": "Bank of England erhöht erstmals seit 2023 die Zinsen – auf 4 Prozent",
-      "text": "Die britische Notenbank hat am 5. November ihren Leitzins um 0,25 Prozentpunkte auf 4 Prozent angehoben – die erste Erhöhung seit August 2023. Im geldpolitischen Ausschuss stimmten acht Mitglieder dafür, ein Mitglied wollte sogar auf 4,25 Prozent gehen. Begründung: Der Krieg im Nahen Osten hat Öl und Gas verteuert, die Inflation liegt bei 3,5 Prozent statt der angepeilten 2 Prozent und könnte bis Mitte 2027 auf etwa 5 Prozent steigen. Notenbankchef Andrew Bailey sagte, dies sei nicht der Beginn einer unvermeidlich langen Serie von Erhöhungen, schloss weitere Schritte aber nicht aus, solange der Iran-Krieg nicht beendet ist. Für britische Kreditnehmer werden Hypotheken und Kredite damit teurer; die nächste Zinsentscheidung steht am 17. Dezember an.",
-      "quelle": "Bank of England",
-      "datum_artikel": "2026-11-05"
+      "datum_artikel": "2026-11-06"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Nach dem Wahlsieg: Demokraten kündigen breite Untersuchungen gegen Trump-Regierung und -Familie an",
-      "text": "Nachdem die Demokraten bei der Wahl am Dienstag beide Kammern des Kongresses gewonnen haben, bereiten sie eine Welle von Untersuchungen vor. Der Abgeordnete Jamie Raskin, der voraussichtlich den Justizausschuss des Repräsentantenhauses leiten wird, nannte als Themen die Geschäfte der Trump-Familie, darunter Kryptowährungs-Deals, eine mögliche Politisierung von Justizministerium und FBI, Begnadigungen durch Trump sowie mögliche Korruption bei Regierungsaufträgen. Auch Trumps Schwiegersohn Jared Kushner steht wegen seiner Rolle als Sondergesandter und seiner privaten Geschäfte im Fokus. Ab Januar, wenn der neue Kongress zusammentritt, haben die Demokraten in beiden Kammern die Macht, Zeugen und Unterlagen per Vorladung (Subpoena) zu erzwingen. Laut The Hill signalisieren Regierungsvertreter bereits, dass sie die Untersuchungen bremsen wollen; mehrere Beamte haben sich nach dem Bericht bereits anwaltlich beraten lassen.",
-      "quelle": "The Hill",
-      "datum_artikel": "2026-11-05",
+      "titel": "Stephen Miller wird neuer Stabschef im Weißen Haus – Susie Wiles muss gehen",
+      "text": "US-Präsident Donald Trump hat am Freitag auf Truth Social angekündigt, dass sein bisheriger Vize-Stabschef Stephen Miller ab Montag, 9. November, Stabschef des Weißen Hauses wird. Er löst Susie Wiles ab, die das Amt 21 Monate innehatte und laut Trump künftig für seine politische Organisation arbeiten soll. Der Wechsel folgt nur wenige Tage auf die Kongresswahl, bei der die Republikaner die Mehrheit in beiden Kammern verloren haben. Miller, 41, gehört seit dem Wahlkampf 2016 zu Trumps engsten Beratern und gilt als Architekt seiner harten Migrationspolitik. Er ist damit der jüngste Stabschef seit Hamilton Jordan unter Präsident Jimmy Carter. Miller schrieb auf X, es sei ihm eine Ehre, diese Aufgabe zu übernehmen. Der Stabschef steuert den Ablauf im Weißen Haus und entscheidet maßgeblich mit, wer Zugang zum Präsidenten hat.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-11-06",
       "land": "USA"
     },
     {
-      "titel": "Trump gibt republikanischen Kandidaten und Fox News die Schuld an der Wahlniederlage",
-      "text": "Nachdem er zunächst angekündigt hatte, das Wahlergebnis zu akzeptieren, hat sich Präsident Trump nun zu den Gründen der republikanischen Niederlage geäußert. In einem Telefonat mit Fox News sagte er, er sehe die Ergebnisse nicht als Schlag gegen sich selbst; schuld seien schwache Kandidaten. Zudem machte er laut NPR und The Hill den Sender Fox News mitverantwortlich, weil dieser zu positiv über die Demokraten berichtet habe. Den Demokraten bescheinigte er, sie hätten 'einen guten Job gemacht'. CNN weist darauf hin, dass Trump viele der unterlegenen Kandidaten selbst ausgewählt und unterstützt hatte; ein Vertreter des Weißen Hauses erklärte dagegen, Trump habe für viele Kandidaten besser geworben als diese selbst. Ab Januar muss Trump in seinen letzten zwei Amtsjahren mit einem Kongress regieren, den die Opposition kontrolliert.",
-      "quelle": "NPR",
-      "datum_artikel": "2026-11-05",
+      "titel": "Bericht über möglichen Rücktritt: Rubio dementiert, will bis Ende der Amtszeit bleiben",
+      "text": "Bloomberg berichtete am Freitag unter Berufung auf ungenannte Quellen, Außenminister Marco Rubio erwäge nach der Wahlniederlage der Republikaner, die Regierung zu verlassen; er habe mit dem Weißen Haus über einen Rückzug gesprochen und sei gebeten worden zu bleiben. Das Außenministerium wies den Bericht scharf zurück: Ein Sprecher nannte ihn 'frei erfunden', der Minister habe nicht über einen Abschied gesprochen. Rubio selbst sagte der New York Times, es sei 'immer sein Plan' gewesen, bis zum Ende von Trumps Amtszeit zu dienen; Fragen zu seiner politischen Zukunft ließ er offen. Rubio ist zugleich Nationaler Sicherheitsberater und gilt als möglicher Präsidentschaftskandidat der Republikaner für 2028. Am selben Tag hatte Trump erklärt, er halte an Verteidigungsminister Pete Hegseth fest, obwohl viele Wähler mit dem Iran-Krieg unzufrieden sind.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-06",
       "land": "USA"
     },
     {
-      "titel": "Bundestag beschließt Führerscheinreform – Theorie teils online, kürzere Prüfung ab Juli 2027",
-      "text": "Der Bundestag hat am Donnerstag mit den Stimmen von CDU/CSU und SPD den ersten Teil einer Reform der Fahrausbildung beschlossen; AfD, Grüne und Linke stimmten dagegen, weil ihnen die Änderungen nicht weit genug gehen. Geändert werden vor allem das Straßenverkehrsgesetz und das Fahrlehrergesetz: Theorieunterricht soll teilweise online stattfinden können, die praktische Pkw-Prüfung soll 40 Minuten dauern, mit mindestens 25 Minuten reiner Fahrzeit. Fahrschulen müssen künftig ihre Preise und Bestehensquoten online veröffentlichen, damit Fahrschüler besser vergleichen können. Eine Experimentierklausel soll erlauben, dass Fahrschüler nach bestandener Theorieprüfung unter Anleitung von Angehörigen auf öffentlichen Straßen üben – Fahrlehrerverbände lehnen das ab. Ziel der Koalition ist es, den Führerschein billiger zu machen; um wie viel, ist aber offen. Die Neuregelungen sollen im Wesentlichen am 1. Juli 2027 in Kraft treten, vorher muss noch der Bundesrat zustimmen.",
-      "quelle": "Tagesspiegel (dpa)",
-      "datum_artikel": "2026-11-05",
+      "titel": "Ilse Aigner soll erste Bundespräsidentin werden – Union einigt sich auf CSU-Politikerin",
+      "text": "Die Union will die CSU-Politikerin Ilse Aigner als Kandidatin für das Amt des Bundespräsidenten aufstellen. Nachdem Kanzler Friedrich Merz (CDU) sich Anfang der Woche festgelegt hatte, dass das nächste Staatsoberhaupt eine Frau sein soll, hat nun auch die CDU die 61-jährige Präsidentin des Bayerischen Landtags unterstützt. Die offizielle Entscheidung der Parteigremien soll am Montag verkündet werden. Laut Tagesspiegel signalisieren auch SPD und Grüne breite Unterstützung, wobei die Grünen zuvor Merz für das Verfahren kritisiert hatten. Aigner wäre die erste Frau an der Spitze des Staates. Amtsinhaber Frank-Walter Steinmeier (SPD) darf nach zwei Amtszeiten nicht erneut antreten; seine Amtszeit endet im März 2027, gewählt wird von der Bundesversammlung.",
+      "quelle": "Tagesspiegel",
+      "datum_artikel": "2026-11-06",
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Bundestag verschärft Strafen für K.-o.-Tropfen – mindestens fünf Jahre Haft",
+      "text": "Der Bundestag hat am Freitag beschlossen, dass der Einsatz von K.-o.-Tropfen bei Vergewaltigungen oder Raubtaten künftig mit mindestens fünf Jahren Haft bestraft wird – bisher galten drei Jahre. Solche Substanzen werden im Strafgesetzbuch damit rechtlich wie Waffen oder Messer als gefährliches Mittel eingestuft. Anlass ist ein Urteil des Bundesgerichtshofs von 2024, wonach K.-o.-Tropfen nicht als gefährliches Werkzeug galten. Dafür stimmten Union, SPD, Grüne und Linke, die AfD enthielt sich. Die Opferorganisation 'Kein Opfer' kritisiert die Änderung als weitgehend symbolisch, weil die meisten Täter nie ermittelt würden; die Polizeigewerkschaft DPolG begrüßt das Gesetz, hält die höhere Strafe allein aber nicht für ausreichend. Als Nächstes muss sich der Bundesrat damit befassen.",
+      "quelle": "Legal Tribune Online",
+      "datum_artikel": "2026-11-06",
       "land": "Deutschland"
     }
   ]
