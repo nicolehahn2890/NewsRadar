@@ -1,65 +1,59 @@
 {
-  "datum": "Samstag, 7. November 2026",
-  "generiert": "2026-11-07",
+  "datum": "Sonntag, 8. November 2026",
+  "generiert": "2026-11-08",
   "ki_stories": [
     {
-      "titel": "Trump: '100 Prozent für Superintelligenz' – trotz Wählerunmut über KI und Rechenzentren",
-      "text": "US-Präsident Donald Trump hat sich am Freitag in einem Beitrag auf Truth Social demonstrativ hinter die KI-Branche gestellt. Er sei '100 Prozent für Superintelligenz', nannte die Technologie 'Gold' und kündigte an, mit Bundesstaaten zusammenzuarbeiten, die KI fördern; Landespolitiker, die sich dagegenstellen, bezeichnete er als töricht. Die Äußerung kommt wenige Tage nach der Kongresswahl, bei der laut einer NBC-Nachwahlbefragung 56 Prozent der Wähler KI und Rechenzentren als entscheidenden oder wichtigen Faktor für ihre Stimmabgabe nannten. Vor allem der Widerstand gegen neue Rechenzentren vor Ort (Strompreise, Flächenverbrauch) spielte eine Rolle. Laut einer CNBC-Umfrage lehnen 63 Prozent der registrierten Wähler ein KI-Rechenzentrum im Umkreis von 10 Meilen um ihren Wohnort ab, nur 13 Prozent befürworten es. Eine Kursänderung der Regierung in der KI-Politik ist damit vorerst nicht zu erwarten.",
-      "quelle": "The Daily Signal",
+      "titel": "OpenAI startet GPT-6 Cyber – KI fand 81 schwere Sicherheitslücken in Firefox",
+      "text": "OpenAI hat am 5. November das Sicherheitsmodell GPT-6 Cyber vorgestellt, eine Spezialversion für die Suche nach Software-Schwachstellen. Nach Angaben von OpenAI fand das Modell 81 bisher unbekannte, schwerwiegende Lücken im Browser Firefox, für die Mozilla bereits Updates ausliefert. Im Linux-Betriebssystemkern meldete es 2.308 mögliche Fehler, von denen 1.724 nachgestellt werden konnten; für 948 davon baute die KI funktionierende Angriffe, mit denen man sich auf einem Rechner höhere Rechte verschaffen kann. OpenAI stuft das Modell selbst als 'kritisch' für die Cybersicherheit ein und gibt es deshalb nur an ausgewählte, geprüfte Sicherheitsteams im Programm Daybreak Red frei. Die Zahlen stammen von OpenAI und sind laut Unternehmen nicht unabhängig geprüft; Kritiker merken an, dass bisher weniger als ein Viertel der gefundenen Lücken behoben ist. Das zeigt, wie stark KI das Finden von Sicherheitslücken beschleunigt – für Verteidiger wie potenziell auch für Angreifer.",
+      "quelle": "BleepingComputer",
       "datum_artikel": "2026-11-06"
-    },
-    {
-      "titel": "Visa-Test: KI-Einkaufsagenten scheitern in fast der Hälfte der Fälle",
-      "text": "Der Zahlungsdienstleister Visa hat in einem ersten Vergleichstest 22 KI-Modelle von 12 Anbietern als Einkaufsagenten antreten lassen – mit 15 typischen Shopping-Aufgaben. Im Schnitt erledigten die Agenten nur 57,2 Prozent der Aufgaben korrekt. Am besten schnitten je ein Agent von Google (Gemini) und Meta mit rund 82 Prozent ab, ein Claude-Agent von Anthropic erreichte 76 Prozent, ein OpenAI-Agent landete mit 64 Prozent auf Platz sechs; das schwächste Modell kam nur auf rund 29 Prozent. Teurere Modelle waren im Schnitt deutlich besser (67 gegenüber 50 Prozent). Auffällig: In mehr als der Hälfte der Fehlversuche kauften die Agenten trotzdem etwas – oft ein Produkt, das nicht zu den Vorgaben passte. Visa betont, dass ungeklärt ist, wer bei falschen oder unautorisierten KI-Käufen haftet; getestet wurde nur die Produktsuche, nicht der Bezahlvorgang.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-11-05"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "OpenAI sammelt 11 Milliarden Dollar bei 1,25 Billionen Dollar Bewertung ein – weniger als geplant",
-      "text": "OpenAI hat einen ersten Teil seiner neuen Finanzierungsrunde abgeschlossen: Rund 11 Milliarden Dollar sind bereits geflossen, bei einer Bewertung von 1,25 Billionen Dollar, wie Bloomberg am Freitag berichtete. Der Rest der Runde, die insgesamt auf bis zu 20 Milliarden Dollar anwachsen könnte, soll in den kommenden Wochen folgen. Ursprünglich wollte OpenAI 30 Milliarden Dollar oder mehr bei einer Bewertung von 1,4 Billionen Dollar einsammeln, hat die Pläne aber wegen des Kurseinbruchs bei KI-Aktien zurückgeschraubt. Zu den Geldgebern gehört unter anderem Coatue Management; zudem arbeitet OpenAI mit Investmentbanken daran, Geld bei vermögenden Privatanlegern einzusammeln. Zum Vergleich: Im März war OpenAI bei einer Runde über 122 Milliarden Dollar mit 852 Milliarden Dollar bewertet worden. Das Geld fließt vor allem in Rechenzentren; die Runde gilt als Zwischenfinanzierung vor einem möglichen Börsengang 2027.",
+      "titel": "Anthropic-Börsengang: Käufer reden die Bewertung auf bis zu 1,1 Billionen Dollar herunter",
+      "text": "Nachdem am Mittwoch berichtet worden war, dass Investoren eine Bewertung von 1,5 bis 1,6 Billionen Dollar verlangen, ist die Erwartung nun weiter gefallen. Laut Bloomberg sprechen mögliche Käufer der Anthropic-Aktie inzwischen über 1,2 bis 1,3 Billionen Dollar, ein Teil sogar nur über 1,1 Billionen Dollar. Anfang Oktober waren noch bis zu 2 Billionen Dollar im Gespräch. Auslöser ist der Einbruch der Technologiewerte nach der US-Wahl: Der Nasdaq 100 hatte am Donnerstag rund 6 Prozent verloren. Feste Konditionen gibt es noch nicht. Die Werbetour bei Investoren (Roadshow) sollte ursprünglich in der Woche ab 9. November beginnen, der Börsenstart unter dem Kürzel ANT an der Nasdaq ist für die Woche ab 16. November geplant. Bei einer privaten Finanzierungsrunde im Mai war Anthropic mit 965 Milliarden Dollar bewertet worden.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-11-06",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Microsoft beendet Mietvertrag für KI-Rechenleistung bei Oracle – Oracle-Aktie unter Druck",
+      "text": "Microsoft lässt laut Bloomberg einen 2023 geschlossenen Vertrag auslaufen, mit dem es KI-Rechenleistung aus der Oracle-Cloud gemietet hatte. Die Server wurden damals für die KI-Funktionen der Suchmaschine Bing gebraucht und sind in den vergangenen Monaten schrittweise abgeschaltet worden. Als Grund gilt, dass die darin verbauten älteren NVIDIA-Chips nicht mehr Microsofts Anforderungen entsprechen. Microsoft wollte sich nicht äußern; Oracle betont, die Nachfrage sei stark und Verlängerungen würden zu höheren Preisen abgeschlossen. Die Oracle-Aktie fiel zeitweise um mehr als 5 Prozent. Betroffen ist nur dieser eine Mietvertrag – laufende Bauprojekte und andere Kooperationen der beiden Konzerne sind laut Bericht nicht berührt. Der Vorgang passt aber zu Berichten, wonach Microsoft seine Verträge mit externen Rechenzentrumsanbietern insgesamt überprüft.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-06",
+      "unternehmen": "Microsoft"
+    },
+    {
+      "titel": "US-Geheimdienstbericht: Chinas Staatssicherheit soll Spionin auf NVIDIA-Chef Jensen Huang angesetzt haben",
+      "text": "Laut einem US-Geheimdienstpapier, über das die Financial Times berichtet, soll Chinas Ministerium für Staatssicherheit die Managerin Alice Huang angeworben haben, um Informationen über NVIDIA-Chef Jensen Huang zu sammeln. Sie arbeitet für den Cloud-Anbieter Megaspeed aus Singapur, einen großen NVIDIA-Kunden, den das US-Handelsministerium verdächtigt, chinesischen Firmen beim Umgehen der Exportverbote für KI-Chips geholfen zu haben. Das Papier behauptet laut FT auch eine romantische Beziehung zwischen den beiden; unklar ist, ob die Anwerbung vor oder nach dem Geschäftskontakt stattfand. NVIDIA erklärte, Huangs Kontakte zu ihr seien 'nicht ungewöhnlich' gewesen, das Unternehmen teile keine geheimen Informationen mit Kunden, und Vorwürfe über umgeleitete Chips seien untersucht und widerlegt worden. Alice Huang war für eine Stellungnahme nicht erreichbar. Die Vorwürfe stammen aus einem durchgesickerten Dokument und sind nicht unabhängig bestätigt.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-11-07",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Überraschend starker US-Arbeitsmarkt: 165.000 neue Jobs – Zinserhöhung im Dezember wird wahrscheinlicher",
-      "text": "Die US-Wirtschaft hat im Oktober 165.000 neue Stellen geschaffen, mehr als doppelt so viele wie erwartet (Prognosen lagen bei rund 60.000 bis 70.000). Die Arbeitslosenquote sank auf 4,1 Prozent, die Zahlen für August und September wurden zusammen um 84.000 Stellen nach oben korrigiert, die Löhne stiegen binnen eines Jahres um 3,1 Prozent. An den Terminmärkten stieg danach die Wahrscheinlichkeit einer Zinserhöhung der US-Notenbank Fed auf ihrer Sitzung am 8. und 9. Dezember auf rund 80 Prozent (vorher etwa 75 Prozent), wie Reuters unter Berufung auf LSEG-Daten berichtete. Wegen steigender Anleihezinsen gab der Dow Jones um 0,5 Prozent nach, während Nasdaq (plus 1,1 Prozent) und S&P 500 (plus 0,3 Prozent auf 7.376 Punkte) sich nach dem Einbruch vom Donnerstag etwas erholten. Auf Wochensicht bleibt ein deutliches Minus: Nasdaq minus 3,4 Prozent, S&P 500 minus 2,7 Prozent. Vor der Fed-Entscheidung kommen noch die Inflationsdaten für Oktober und der November-Arbeitsmarktbericht.",
-      "quelle": "Reuters",
+      "titel": "Axon-Aktie stürzt um rund 18 Prozent ab – schwache Zahlen und gesenkte Prognose",
+      "text": "Die Aktie des Taser- und Bodycam-Herstellers Axon (AXON) ist am Freitag um rund 17 bis 18 Prozent eingebrochen und war damit der größte Verlierer im S&P 500. Das Unternehmen verdiente im dritten Quartal bereinigt 1,72 Dollar je Aktie, Analysten hatten rund 1,90 Dollar erwartet; der Umsatz stieg zwar um 28 Prozent auf rund 909 Millionen Dollar, lag aber ebenfalls unter den Erwartungen. Zudem senkte Axon die Umsatzprognose für 2026 auf 3,61 bis 3,63 Milliarden Dollar (vorher bis zu 3,725 Milliarden), vor allem weil Drohnenabwehr-Aufträge der US-Regierung über rund 130 Millionen Dollar ins Jahr 2027 rutschen. Die Aktie steht damit auf dem tiefsten Stand seit über zwei Jahren und rund 64 Prozent unter ihrem Rekordhoch. Gleichzeitig kündigte Axon an, weitere 1,2 Milliarden Dollar in den Drohnenhersteller Skydio zu investieren und seinen Anteil auf 37 Prozent zu erhöhen.",
+      "quelle": "Investing.com",
       "datum_artikel": "2026-11-06"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Stephen Miller wird neuer Stabschef im Weißen Haus – Susie Wiles muss gehen",
-      "text": "US-Präsident Donald Trump hat am Freitag auf Truth Social angekündigt, dass sein bisheriger Vize-Stabschef Stephen Miller ab Montag, 9. November, Stabschef des Weißen Hauses wird. Er löst Susie Wiles ab, die das Amt 21 Monate innehatte und laut Trump künftig für seine politische Organisation arbeiten soll. Der Wechsel folgt nur wenige Tage auf die Kongresswahl, bei der die Republikaner die Mehrheit in beiden Kammern verloren haben. Miller, 41, gehört seit dem Wahlkampf 2016 zu Trumps engsten Beratern und gilt als Architekt seiner harten Migrationspolitik. Er ist damit der jüngste Stabschef seit Hamilton Jordan unter Präsident Jimmy Carter. Miller schrieb auf X, es sei ihm eine Ehre, diese Aufgabe zu übernehmen. Der Stabschef steuert den Ablauf im Weißen Haus und entscheidet maßgeblich mit, wer Zugang zum Präsidenten hat.",
-      "quelle": "Associated Press",
-      "datum_artikel": "2026-11-06",
+      "titel": "USA greifen erneut Ziele im Iran an – Trump spricht von Fortschritten bei Gesprächen",
+      "text": "Die USA haben am Freitag erneut Ziele im Iran angegriffen – es sind die ersten Angriffe seit der Kongresswahl am Dienstag. Präsident Trump bezeichnete die Aktion als 'klein': Ziel sei eine Flugabwehranlage auf der Insel Qeshm nahe der Straße von Hormus gewesen, die man in wenigen Minuten ausgeschaltet habe; es sei 'kein Krieg'. Iranisches Staatsfernsehen meldete Explosionen und den Abschuss einer US-Drohne, was das US-Militär bestritt. Gleichzeitig sagte Trump, es gebe 'viele Fortschritte' in den Verhandlungen mit Teheran, die Katar vermittelt. Laut Reuters prüft der Iran neue Vorschläge Katars; Teheran verlangt unter anderem ein Ende der US-Blockade seiner Häfen, die Aufhebung von Sanktionen und Entschädigungen. Ob die USA größere Angriffe wieder aufnehmen, hat Trump offengelassen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-07",
       "land": "USA"
     },
     {
-      "titel": "Bericht über möglichen Rücktritt: Rubio dementiert, will bis Ende der Amtszeit bleiben",
-      "text": "Bloomberg berichtete am Freitag unter Berufung auf ungenannte Quellen, Außenminister Marco Rubio erwäge nach der Wahlniederlage der Republikaner, die Regierung zu verlassen; er habe mit dem Weißen Haus über einen Rückzug gesprochen und sei gebeten worden zu bleiben. Das Außenministerium wies den Bericht scharf zurück: Ein Sprecher nannte ihn 'frei erfunden', der Minister habe nicht über einen Abschied gesprochen. Rubio selbst sagte der New York Times, es sei 'immer sein Plan' gewesen, bis zum Ende von Trumps Amtszeit zu dienen; Fragen zu seiner politischen Zukunft ließ er offen. Rubio ist zugleich Nationaler Sicherheitsberater und gilt als möglicher Präsidentschaftskandidat der Republikaner für 2028. Am selben Tag hatte Trump erklärt, er halte an Verteidigungsminister Pete Hegseth fest, obwohl viele Wähler mit dem Iran-Krieg unzufrieden sind.",
-      "quelle": "Bloomberg",
+      "titel": "Richterin stoppt Bau von Trumps 75-Meter-Triumphbogen – kurz nach der Genehmigung",
+      "text": "Eine Bundesrichterin in Washington hat den Bau des von Präsident Trump geplanten, rund 250 Fuß (etwa 75 Meter) hohen Triumphbogens am Memorial Circle nahe dem Nationalfriedhof Arlington vorläufig gestoppt. Richterin Tanya Chutkan erließ eine einstweilige Verfügung für 14 Tage – nur rund eine Stunde, nachdem die zuständige Planungskommission (National Capital Planning Commission) das Projekt endgültig genehmigt hatte. Geklagt hat die Hauptstadt Washington D.C.; die Richterin verwies unter anderem auf Probleme für Verkehr und Rettungsdienste. Eine weitere Klage von Vietnam-Veteranen argumentiert, Trump habe nicht die nötige Zustimmung des Kongresses eingeholt. Die Regierung hält dagegen, der Kongress habe ein Denkmal an diesem Ort schon vor Jahrzehnten erlaubt. Wie es nach den 14 Tagen weitergeht, entscheidet das Gericht in den laufenden Verfahren.",
+      "quelle": "Axios",
       "datum_artikel": "2026-11-06",
       "land": "USA"
-    },
-    {
-      "titel": "Ilse Aigner soll erste Bundespräsidentin werden – Union einigt sich auf CSU-Politikerin",
-      "text": "Die Union will die CSU-Politikerin Ilse Aigner als Kandidatin für das Amt des Bundespräsidenten aufstellen. Nachdem Kanzler Friedrich Merz (CDU) sich Anfang der Woche festgelegt hatte, dass das nächste Staatsoberhaupt eine Frau sein soll, hat nun auch die CDU die 61-jährige Präsidentin des Bayerischen Landtags unterstützt. Die offizielle Entscheidung der Parteigremien soll am Montag verkündet werden. Laut Tagesspiegel signalisieren auch SPD und Grüne breite Unterstützung, wobei die Grünen zuvor Merz für das Verfahren kritisiert hatten. Aigner wäre die erste Frau an der Spitze des Staates. Amtsinhaber Frank-Walter Steinmeier (SPD) darf nach zwei Amtszeiten nicht erneut antreten; seine Amtszeit endet im März 2027, gewählt wird von der Bundesversammlung.",
-      "quelle": "Tagesspiegel",
-      "datum_artikel": "2026-11-06",
-      "land": "Deutschland"
-    },
-    {
-      "titel": "Bundestag verschärft Strafen für K.-o.-Tropfen – mindestens fünf Jahre Haft",
-      "text": "Der Bundestag hat am Freitag beschlossen, dass der Einsatz von K.-o.-Tropfen bei Vergewaltigungen oder Raubtaten künftig mit mindestens fünf Jahren Haft bestraft wird – bisher galten drei Jahre. Solche Substanzen werden im Strafgesetzbuch damit rechtlich wie Waffen oder Messer als gefährliches Mittel eingestuft. Anlass ist ein Urteil des Bundesgerichtshofs von 2024, wonach K.-o.-Tropfen nicht als gefährliches Werkzeug galten. Dafür stimmten Union, SPD, Grüne und Linke, die AfD enthielt sich. Die Opferorganisation 'Kein Opfer' kritisiert die Änderung als weitgehend symbolisch, weil die meisten Täter nie ermittelt würden; die Polizeigewerkschaft DPolG begrüßt das Gesetz, hält die höhere Strafe allein aber nicht für ausreichend. Als Nächstes muss sich der Bundesrat damit befassen.",
-      "quelle": "Legal Tribune Online",
-      "datum_artikel": "2026-11-06",
-      "land": "Deutschland"
     }
   ]
 }
