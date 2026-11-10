@@ -1,64 +1,63 @@
 {
-  "datum": "Montag, 9. November 2026",
-  "generiert": "2026-11-09",
+  "datum": "Dienstag, 10. November 2026",
+  "generiert": "2026-11-10",
   "ki_stories": [
     {
-      "titel": "Bericht: US-Handelsministerium ließ chinesische Briefkastenfirmen NVIDIA-H200-Chips verbauen",
-      "text": "Laut einer Recherche der New York Times hat das US-Handelsministerium mehrere chinesische Firmen genehmigt, die NVIDIAs H200-KI-Chips zu KI-Servern zusammenbauen dürfen, obwohl sie deutliche Merkmale von Briefkastenfirmen aufweisen. Unter der Pekinger Geschäftsadresse einer der genehmigten Firmen, New Matrix, fanden Reporter nur ein leerstehendes Büro im Rohbau; eine weitere genehmigte Firma ist der Serverhersteller Maginfra. Beide sind nicht als Endkunden zugelassen, sondern sollen die Chips für nicht näher genannte Abnehmer verbauen. Nach Darstellung der Zeitung soll die Liste der genehmigten Firmen rund zwei Dutzend Namen umfassen, einige mit Verbindungen zu Firmen, die die USA mit Sanktionen belegt haben; diese Angaben sind von anderen Medien bislang nicht unabhängig bestätigt. Hintergrund: Präsident Trump hatte den Verkauf von H200-Chips nach China im Dezember 2025 erlaubt. Kritiker wie die frühere China-Direktorin im Nationalen Sicherheitsrat, Liza Tobin, warnen, weder das Ministerium noch NVIDIA prüften ausreichend, wo die Chips am Ende landen. Für NVIDIA ist das Geschäft finanziell klein – H200-Lieferungen nach China machen weniger als 1 Prozent des Rechenzentrumsumsatzes aus.",
-      "quelle": "New York Times",
-      "datum_artikel": "2026-11-07"
+      "titel": "Anthropic bringt Claude Fable 5.2 und Mythos 5.2 – schneller und billiger vor dem Börsengang",
+      "text": "Anthropic hat am Montag zwei neue KI-Modelle vorgestellt: Claude Fable 5.2 und Claude Mythos 5.2. Laut Unternehmen arbeiten sie bis zu 30 Prozent schneller als die Vorgänger der Version 5.1. Der Preis liegt bei 8 Dollar pro Million Eingabe-Tokens und 40 Dollar pro Million Ausgabe-Tokens – günstiger als bei früheren Fable- und Mythos-Versionen; Fortune zufolge unterbietet Anthropic damit OpenAIs GPT-6 Astra. Fable 5.2 ist sofort auf allen Plattformen verfügbar, auch über Amazon Web Services, Google Cloud und Microsoft Azure. Das stärkere Mythos 5.2 bekommen dagegen nur Organisationen, die Anthropic über Prüfprogramme für Cybersicherheit und Biowissenschaften zugelassen hat. Laut CNBC sind es die ersten Spitzenmodelle, seit Chef Dario Amodei ein langsameres Tempo in der KI-Entwicklung gefordert hatte; Anthropic betont umfangreiche Sicherheitstests. Der Start fällt in die Phase kurz vor dem geplanten Börsengang, in der Anthropic im Wettbewerb mit OpenAI, Google und Meta Stärke zeigen will.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-09"
     },
     {
-      "titel": "Apple-Chef Ternus drückt bei KI aufs Tempo – mehr als nur ein besseres Siri",
-      "text": "Apples neuer Konzernchef John Ternus drängt laut Bloomberg-Reporter Mark Gurman (Newsletter Power On) darauf, KI-Funktionen deutlich schneller ins iPhone und andere Geräte zu bringen. Ternus habe Software-Chef Craig Federighi aufgefordert, die Planung zu beschleunigen und über die ohnehin nötigen Verbesserungen an der Sprachassistentin Siri rasch hinauszugehen. Apple gilt bei generativer KI seit Längerem als Nachzügler gegenüber Google, OpenAI und Anthropic und setzt in einzelnen Märkten auf Partner – in China etwa startet Apple Intelligence im Dezember mit KI von Alibaba. Der Vorstoß zeigt, dass Ternus, der das Unternehmen erst seit Kurzem führt, KI zur Chefsache macht. Konkrete neue Produkte oder Termine nennt der Bericht nicht.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-08"
+      "titel": "Meta startet Muse Ember – sein kleinstes und billigstes KI-Modell für Agenten",
+      "text": "Metas Forschungsabteilung Meta Superintelligence Labs hat am Montag Muse Ember veröffentlicht, das kleinste und günstigste Modell der Muse-Familie. Es soll die vielen einfachen Routineschritte übernehmen, die KI-Agenten ständig ausführen, etwa Werkzeug-Aufrufe oder das Herausziehen von Daten aus Dokumenten. Der Preis liegt bei 10 Cent pro Million Eingabe-Tokens und 50 Cent pro Million Ausgabe-Tokens; oberhalb von 200.000 Tokens Kontext verdreifacht er sich laut Tests. Muse Ember ist nur über Metas eigene Schnittstelle (Meta Model API) und Muse Code nutzbar, die Modellgewichte werden nicht veröffentlicht. Meta sieht es als Arbeitspferd neben dem großen Modell Muse Wonder: Das große Modell legt Regeln fest, Ember setzt sie massenhaft um. Nach Metas eigenen Benchmark-Angaben liegt Ember auf dem Niveau von Claude Haiku 5.5 bei niedrigeren Kosten, unabhängige Tests sehen es beim Programmieren aber dahinter. Der Start fiel bewusst auf denselben Tag wie Anthropics neue Modelle.",
+      "quelle": "TechCrunch",
+      "datum_artikel": "2026-11-09"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Spionage-Affäre: NVIDIA-Aufsichtsrat leitet Untersuchung gegen Jensen Huang ein – Huang gesteht Affäre",
-      "text": "Neue Entwicklung nach dem Bericht vom Wochenende, wonach US-Geheimdienste eine mutmaßliche chinesische Spionin auf NVIDIA-Chef Jensen Huang angesetzt haben sollen: Der Aufsichtsrat von NVIDIA hat am Sonntag eine unabhängige Untersuchung gegen den 63-Jährigen eingeleitet. Ein Ausschuss unabhängiger Aufsichtsräte mit externen Anwälten soll klären, ob Huang Ziel einer ausländischen Geheimdienstoperation war; im Mittelpunkt steht seine Beziehung zu Alice Huang (nicht verwandt), einer früheren Managerin der Firma Megaspeed. In einer internen E-Mail an die Belegschaft räumte Huang eine außereheliche Affäre ein, sinngemäß: Er sei seiner Frau untreu gewesen und habe ihr und den Kindern wehgetan; er übernehme die volle Verantwortung und werde voll kooperieren. Huang bleibt während der Untersuchung Chef, der Aufsichtsrat sieht nach eigenen Angaben keine Hinweise, dass nationale Sicherheit oder Firmengeheimnisse betroffen sind, und nennt keinen Zeitplan. China weist die Spionagevorwürfe zurück. Analyst Dan Ives (Wedbush) sprach von einem 'blauen Auge' und hält eine Ablösung je nach Ergebnis für ein echtes Risiko, erwartet aber kurzfristig keinen Wechsel. Am 17. November legt NVIDIA Quartalszahlen vor.",
-      "quelle": "New York Times",
-      "datum_artikel": "2026-11-08",
-      "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "Anthropic kauft Gas-Generatoren für 3,4 Milliarden Dollar – eigener Strom für Rechenzentren",
-      "text": "Anthropic hat laut Financial Times rund 3,4 Milliarden Dollar für schwere Gas-Generatoren mit zusammen 1,7 Gigawatt Leistung gezahlt – etwa so viel wie mehrere große Kraftwerksblöcke. Das Unternehmen übernahm dafür Bestellungen beim Hersteller Caterpillar, die der texanische Energieanbieter OnePWR Solutions vor rund zwei Jahren aufgegeben hatte, aber nicht mehr finanzieren konnte; OnePWR selbst wurde nicht gekauft. Der Vertrag wurde laut FT Ende September unterschrieben, wo die Generatoren eingesetzt werden, ist unbekannt. Hintergrund ist der Engpass bei Stromanschlüssen für KI-Rechenzentren: Im Börsenprospekt schreibt Anthropic selbst, dass einige geplante Standorte auf eigene Gaskraftwerke vor Ort angewiesen sind, was Risiken bei Brennstoffpreisen und -versorgung mit sich bringt. Weder Anthropic noch OnePWR äußerten sich; Reuters konnte den Bericht zunächst nicht unabhängig bestätigen. Der Deal kommt mitten in der Vorbereitung von Anthropics Börsengang.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-11-08",
-      "unternehmen": "Anthropic"
+      "titel": "Google stellt zwei neue KI-Chips vor – AMD liefert Prozessoren, Aktie springt um 13 Prozent",
+      "text": "Google Cloud hat am Montag zwei neue Systeme seiner hauseigenen KI-Chips (TPU) angekündigt: TPU 8tx und TPU 8i Max. Der TPU 8tx ist eine abgesicherte Variante für vertrauliche KI-Anwendungen, etwa bei Banken, Behörden oder anderen regulierten Kunden – es ist Googles erstes Cloud-TPU-System mit hardwareseitig geschützter Datenverarbeitung (Confidential Computing). Der TPU 8i Max packt zwei TPU-8i-Chips in ein Gehäuse und verdoppelt damit Rechenleistung und Speicherbandbreite. Überraschend: Als Hauptprozessoren für den TPU 8tx setzt Google auf EPYC-Chips von AMD, obwohl der Konzern seine Top-Systeme erst in diesem Jahr auf eigene Prozessoren umgestellt hatte. Die AMD-Aktie schloss nach der Nachricht und einer Kaufempfehlung von Oppenheimer gut 13 Prozent höher bei 508,58 Dollar. Die neuen Systeme sollen 2027 verfügbar sein; den Wert des Auftrags nannten beide Firmen nicht. Google baut damit seine Alternative zu NVIDIAs KI-Beschleunigern weiter aus.",
+      "quelle": "Data Center Knowledge",
+      "datum_artikel": "2026-11-09",
+      "unternehmen": "Google / Alphabet"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Nikkei nach Absturz in den Bärenmarkt – am Montag Erholung um gut 2 Prozent",
-      "text": "Japans Leitindex Nikkei 225 war am Freitag um rund 6 Prozent eingebrochen und lag damit mehr als 20 Prozent unter seinem Rekordhoch vom Juni – Börsianer sprechen ab dieser Schwelle von einem Bärenmarkt. Auslöser waren Zweifel an der Nachfrage nach KI-Chips, die vor allem die technologielastigen Börsen in Japan und Taiwan trafen; Taiwans Leitindex erlebte den stärksten Wochenverlust seit zwei Jahrzehnten. Am Montagmorgen setzte laut Reuters eine Gegenbewegung ein: Der Nikkei stieg um etwa 2,5 Prozent, Taiwan ebenfalls um rund 2,5 Prozent, der breite MSCI-Index für Asien-Pazifik ohne Japan um 0,8 Prozent, nachdem er in der Vorwoche 4,6 Prozent verloren hatte. Belastend wirkt weiter die Untersuchung gegen NVIDIA-Chef Jensen Huang, die laut Bloomberg den Tech-Ausverkauf verlängern könnte. Wichtige nächste Termine für die KI-Werte sind die Zahlen von CoreWeave am Dienstag und von NVIDIA am 17. November.",
+      "titel": "Ölpreis fällt um über 5 Prozent – Hoffnung auf Iran-Einigung beschert Wall Street kräftige Erholung",
+      "text": "Der Preis für die Ölsorte Brent ist am Montag um rund 5,6 Prozent auf knapp 93 Dollar je Barrel gefallen; Anfang des Monats lag er noch über 112 Dollar. Auslöser waren Aussagen von Präsident Trump, neue Angriffe auf den Iran seien sehr unwahrscheinlich, sowie ein Bericht der israelischen Zeitung Israel Hayom, wonach Teheran seine Forderung fallen gelassen habe, die Straße von Hormus zu kontrollieren und Durchfahrtsgebühren zu kassieren. Irans Sicherheitschef wies Berichte über Verhandlungen allerdings als Falschmeldung zurück. An der Wall Street stiegen der Dow Jones um gut 2,1 Prozent, der S&P 500 um rund 2,3 Prozent und der Nasdaq um etwa 2,7 Prozent – getragen von zuvor stark abgestraften Chip- und KI-Werten. Billigeres Öl drückte auch die Inflationserwartungen: Die aus Anleihen abgeleitete 10-Jahres-Inflationserwartung fiel auf ein Dreimonatstief von 2,2 Prozent. Analysten warnen, dass Angriffe auf Schiffe rund um Hormus weitergehen und die Erholung schnell kippen kann.",
       "quelle": "Reuters",
+      "datum_artikel": "2026-11-09"
+    },
+    {
+      "titel": "Coherent-Aktie springt um rund 18 Prozent – Umsatz wächst fast um die Hälfte",
+      "text": "Der Laser- und Optik-Spezialist Coherent war am Montag mit einem Plus von rund 18 Prozent auf etwa 228 Dollar der stärkste Wert im S&P 500. Grund waren Quartalszahlen über den Erwartungen: Der Umsatz stieg im Jahresvergleich um fast 50 Prozent auf 2,37 Milliarden Dollar, der bereinigte Gewinn je Aktie lag mit 2,09 Dollar rund 6 Prozent über der Prognose der Analysten. Zudem hob Coherent sein Wachstumsziel für das Geschäftsjahr 2027 auf über 60 Prozent an. Das Unternehmen liefert optische Bauteile, über die Daten in KI-Rechenzentren übertragen werden. Mehrere Banken bestätigten ihre Kaufempfehlungen, Northland stufte die Aktie hoch. Zusätzlichen Schub gibt die geplante Übernahme des Konkurrenten Lumentum durch Marvell: Damit wäre Coherent der größte verbleibende unabhängige Anbieter in diesem Markt. Einige Analysten sehen die Aktie nach dem Sprung allerdings als teuer bewertet.",
+      "quelle": "Investing.com",
       "datum_artikel": "2026-11-09"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Repräsentantenhaus vor Abstimmung über Amtsenthebung von Verteidigungsminister Hegseth",
-      "text": "Im US-Repräsentantenhaus zeichnet sich für diese Woche eine Abstimmung über ein Amtsenthebungsverfahren (Impeachment) gegen Verteidigungsminister Pete Hegseth ab. Der republikanische Abgeordnete Thomas Massie will die Abstimmung über seinen Antrag erzwingen, der Hegseth vorwirft, sich beim Iran-Krieg über den Kongress hinweggesetzt zu haben. Demokraten-Fraktionschef Hakeem Jeffries kündigte an, er sei ein 'klares Ja'; die republikanische Führung rechnet laut Axios mit genug Abweichlern in den eigenen Reihen, damit der Antrag eine Mehrheit bekommt. Präsident Trump stellte sich am Sonntag erneut demonstrativ hinter Hegseth und will an ihm festhalten. Hegseth selbst nennt das Verfahren eine Farce eines 'verbitterten, geschlagenen Abgeordneten'. Selbst bei einem Impeachment im Repräsentantenhaus wäre für eine Absetzung eine Zwei-Drittel-Mehrheit im Senat nötig, was als sehr unwahrscheinlich gilt.",
-      "quelle": "Axios",
+      "titel": "Trump im '60 Minutes'-Interview: Abschiebepolitik war 'zu hart' – keine Eskalation im Iran geplant",
+      "text": "In seinem ersten großen Interview nach der Niederlage der Republikaner bei den Kongresswahlen hat Präsident Trump am Sonntag in der CBS-Sendung '60 Minutes' über die Gründe gesprochen. Er sagte, die Wähler hätten den Iran-Krieg und die damit verbundenen hohen Benzinpreise abgelehnt; seine weitreichende Abschiebepolitik sei 'zu hart' gewesen und habe ihm geschadet. Auf die Frage, ob er den Krieg nach der Wahl ausweiten wolle, sagte Trump, das habe er nicht vor – das iranische Atommaterial sei unter Tonnen von Gestein begraben. Verteidigungsminister Pete Hegseth stärkte er den Rücken und wies die Rufe nach einer Amtsenthebung zurück; CNN berichtet zugleich, Trump habe Berater gefragt, ob Hegseth im Amt bleiben solle. Außerdem zeigte sich Trump offen für eine Zusammenarbeit mit den Demokraten, die künftig beide Kammern des Kongresses kontrollieren. Zur Künstlichen Intelligenz sagte er, er habe nichts gegen Leitplanken, wolle aber nicht hinter China zurückfallen. Im Repräsentantenhaus steht in dieser Woche die Abstimmung über den Amtsenthebungsantrag gegen Hegseth an.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-11-08",
       "land": "USA"
     },
     {
-      "titel": "Unionsfraktionschef Frei: 'Die Plastiksteuer machen wir nicht' – SPD widerspricht",
-      "text": "Unionsfraktionschef Thorsten Frei (CDU) hat die von der Bundesregierung geplante Plastiksteuer im ZDF für erledigt erklärt: Sie sei ökonomisch wie ökologisch falsch, die Koalition werde sie nicht umsetzen. Nach einem ersten Entwurf des SPD-geführten Umweltministeriums sollten ab Juli 2027 für jede Tonne Kunststoff in Verpackungen 550 Euro fällig werden; Finanzminister Lars Klingbeil (SPD) plant mit Einnahmen von rund 670 Millionen Euro 2027 und etwa 1,5 Milliarden Euro ab 2028, unter anderem um Deutschlands Beitrag zur EU-Plastikabgabe zu bezahlen. Zuvor hatten rund zwei Dutzend Unionsabgeordnete angekündigt, die Steuer nicht mitzutragen. SPD-Fraktionschef Matthias Miersch hält dagegen, das Thema sei nicht vom Tisch. Fällt die Steuer weg, entsteht ein neues Loch im Haushalt 2027. Endgültig entschieden wird in der sogenannten Bereinigungssitzung des Haushaltsausschusses am Donnerstag, 12. November; der Bundestag soll den Haushalt in der Woche ab 24. November beschließen. Die ebenfalls umstrittene Zuckersteuer gilt weiterhin als wahrscheinlich.",
-      "quelle": "ZDF",
-      "datum_artikel": "2026-11-08",
-      "land": "Deutschland"
+      "titel": "Supreme Court erlaubt Weiterbau der Grenzmauer im Big-Bend-Gebiet in Texas",
+      "text": "Der Oberste Gerichtshof der USA hat am Montag eine Anordnung einer unteren Instanz vorläufig aufgehoben, die den Bau von Grenzanlagen in der Big-Bend-Region in Texas gestoppt hatte. Bundesrichterin Kathleen Cardone in El Paso hatte den Bau Anfang Oktober untersagt, weil die Regierung sich wohl zu Unrecht auf eine Ausnahme von Umweltgesetzen berufen habe; Big Bend sei kein Gebiet mit besonders vielen illegalen Grenzübertritten. Die Trump-Regierung war daraufhin direkt vor den Supreme Court gezogen. Mit der Entscheidung darf der Bau weitergehen, solange die Klage läuft. Ein endgültiges Urteil darüber, ob die weitreichende Aussetzung von Umweltgesetzen rechtmäßig ist, ist das aber nicht, betont die klagende Umweltorganisation Center for Biological Diversity. Big Bend ist eine dünn besiedelte Wüsten- und Canyonlandschaft mit einem Nationalpark am Rio Grande.",
+      "quelle": "SCOTUSblog",
+      "datum_artikel": "2026-11-09",
+      "land": "USA"
     },
     {
-      "titel": "Umfrage: AfD bei 29 Prozent, Union fällt auf 19 Prozent",
-      "text": "In der neuen INSA-Umfrage für die Bild am Sonntag kommt die AfD auf 29 Prozent und liegt damit 10 Punkte vor CDU/CSU, die auf 19 Prozent fällt. Dahinter folgen Grüne mit 15, SPD mit 14 und Linke mit 10 Prozent; FDP 5, BSW 3, Sonstige 5 Prozent. Gegenüber der vorherigen INSA-Umfrage vom 3. November gewinnt die AfD einen Punkt hinzu, die Union verliert einen. Union und SPD kämen zusammen nur noch auf 33 Prozent. Die Umfrage wurde vom 2. bis 6. November erhoben – in einer Woche, in der die Koalition über Rentenreform, Haushalt und neue Steuern streitet.",
-      "quelle": "Bild am Sonntag (INSA)",
-      "datum_artikel": "2026-11-07",
+      "titel": "Merz zum 9. November: Antisemitismus ist 'heute allgegenwärtig'",
+      "text": "Zum Jahrestag der Novemberpogrome von 1938 hat Bundeskanzler Friedrich Merz (CDU) am Montag bei einem Festakt in der Münchner Ohel-Jakob-Synagoge alle in Deutschland lebenden Menschen aufgefordert, gegen Antisemitismus einzutreten. Dazu gehöre auch ein Bekenntnis zu Israel, sagte Merz. Antisemitismus sei heute allgegenwärtig. Auf der Plattform X erinnerte der Kanzler zudem an die drei historischen Ereignisse des 9. November – die Ausrufung der Republik 1918, die Pogromnacht 1938 und den Mauerfall vor 37 Jahren. Seine Botschaft dort: 'Freiheit und Demokratie sind nie selbstverständlich. Schützen wir sie – in Deutschland und Europa.' Konkrete neue Maßnahmen kündigte Merz nicht an.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-11-09",
       "land": "Deutschland"
     }
   ]
