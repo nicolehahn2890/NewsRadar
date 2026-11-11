@@ -1,64 +1,77 @@
 {
-  "datum": "Dienstag, 10. November 2026",
-  "generiert": "2026-11-10",
+  "datum": "Mittwoch, 11. November 2026",
+  "generiert": "2026-11-11",
   "ki_stories": [
     {
-      "titel": "Anthropic bringt Claude Fable 5.2 und Mythos 5.2 – schneller und billiger vor dem Börsengang",
-      "text": "Anthropic hat am Montag zwei neue KI-Modelle vorgestellt: Claude Fable 5.2 und Claude Mythos 5.2. Laut Unternehmen arbeiten sie bis zu 30 Prozent schneller als die Vorgänger der Version 5.1. Der Preis liegt bei 8 Dollar pro Million Eingabe-Tokens und 40 Dollar pro Million Ausgabe-Tokens – günstiger als bei früheren Fable- und Mythos-Versionen; Fortune zufolge unterbietet Anthropic damit OpenAIs GPT-6 Astra. Fable 5.2 ist sofort auf allen Plattformen verfügbar, auch über Amazon Web Services, Google Cloud und Microsoft Azure. Das stärkere Mythos 5.2 bekommen dagegen nur Organisationen, die Anthropic über Prüfprogramme für Cybersicherheit und Biowissenschaften zugelassen hat. Laut CNBC sind es die ersten Spitzenmodelle, seit Chef Dario Amodei ein langsameres Tempo in der KI-Entwicklung gefordert hatte; Anthropic betont umfangreiche Sicherheitstests. Der Start fällt in die Phase kurz vor dem geplanten Börsengang, in der Anthropic im Wettbewerb mit OpenAI, Google und Meta Stärke zeigen will.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-09"
+      "titel": "Anthropic greift Microsoft und Google an: Claude bekommt Tabellen, Whiteboards und Meeting-Assistent",
+      "text": "Anthropic hat am Dienstag eine eigene Büro-Software-Palette rund um Claude vorgestellt – kurz vor dem Start seiner Börsen-Roadshow. Claude Sheets ist ein Tabellenprogramm (Beta), in dem Teams gemeinsam mit Claude mehrseitige Tabellen mit Formeln und Auswahllisten bauen und als Excel-Datei exportieren können. Claude Whiteboards ist eine gemeinsame Brainstorming-Tafel, die Claude zu Zeitplänen mit Verantwortlichen ordnen kann; beide stehen in allen Bezahl-Tarifen im Web, auf dem Desktop und mobil bereit. Das bisherige Dashboards-Werkzeug heißt nun Claude Data und ist allgemein verfügbar. Claude Meetings, das an Google-Meet-Besprechungen teilnimmt und daraus Pläne und Aufgaben macht, startet nur eingeschränkt für Team- und Enterprise-Kunden; Claude gibt sich dabei im Chat als Teilnehmer zu erkennen, und Administratoren müssen Meetings mit externen Gästen erst freigeben. Damit tritt Anthropic direkt gegen Microsoft Office und Google Workspace an – die Microsoft-Aktie gab am Dienstag laut Yahoo Finance rund 2 Prozent nach, was dort unter anderem mit diesem Vorstoß begründet wird.",
+      "quelle": "Yahoo Finance",
+      "datum_artikel": "2026-11-10"
     },
     {
-      "titel": "Meta startet Muse Ember – sein kleinstes und billigstes KI-Modell für Agenten",
-      "text": "Metas Forschungsabteilung Meta Superintelligence Labs hat am Montag Muse Ember veröffentlicht, das kleinste und günstigste Modell der Muse-Familie. Es soll die vielen einfachen Routineschritte übernehmen, die KI-Agenten ständig ausführen, etwa Werkzeug-Aufrufe oder das Herausziehen von Daten aus Dokumenten. Der Preis liegt bei 10 Cent pro Million Eingabe-Tokens und 50 Cent pro Million Ausgabe-Tokens; oberhalb von 200.000 Tokens Kontext verdreifacht er sich laut Tests. Muse Ember ist nur über Metas eigene Schnittstelle (Meta Model API) und Muse Code nutzbar, die Modellgewichte werden nicht veröffentlicht. Meta sieht es als Arbeitspferd neben dem großen Modell Muse Wonder: Das große Modell legt Regeln fest, Ember setzt sie massenhaft um. Nach Metas eigenen Benchmark-Angaben liegt Ember auf dem Niveau von Claude Haiku 5.5 bei niedrigeren Kosten, unabhängige Tests sehen es beim Programmieren aber dahinter. Der Start fiel bewusst auf denselben Tag wie Anthropics neue Modelle.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-11-09"
+      "titel": "Googles stärkstes Modell Gemini 4 Carbon ist jetzt für alle zahlenden Kunden verfügbar",
+      "text": "Google hat sein Spitzenmodell Gemini 4 Carbon am 10. November allgemein freigegeben. Vorgestellt worden war es bereits am 28. Oktober, zunächst aber nur für Cyber-Sicherheitsexperten und ausgewählte Partner. Jetzt können alle zahlenden Entwickler und Unternehmen es über Google AI Studio und Gemini für Unternehmen nutzen; zudem wird es für Abonnenten von Google AI Ultra in der Gemini-App, in Antigravity und im KI-Modus der Google-Suche ausgerollt. Google beschreibt Carbon als besonders stark bei Cybersicherheit und langen, mehrstufigen Projekten; das Kontextfenster umfasst laut Google-Cloud-Dokumentation rund 1 Million Tokens. Zum Start kostet es 2 Dollar pro Million Eingabe- und 10 Dollar pro Million Ausgabe-Tokens – so viel wie das kleinere Gemini 4 Argon; wann dieser Einführungspreis endet, hat Google nicht gesagt. Der breite Start erhöht den Druck auf OpenAI und Anthropic im Wettlauf um Unternehmenskunden.",
+      "quelle": "Google Blog",
+      "datum_artikel": "2026-11-10"
+    },
+    {
+      "titel": "OpenAI holt Unternehmen in ChatGPT – Firmen können eigene Profile und KI-Agenten anlegen",
+      "text": "OpenAI hat am Dienstag eine Beta-Funktion namens Businesses in ChatGPT gestartet. Unternehmen können über einen sogenannten Business Hub ihr Firmenprofil in ChatGPT beanspruchen, Angaben wie Öffnungszeiten oder Angebote selbst pflegen und auswerten, wie Nutzer ihr Geschäft in ChatGPT wahrnehmen und suchen. Berechtigte US-Firmen können zudem einen eigenen Business Agent einrichten, der im Namen des Unternehmens mit Kundinnen und Kunden in ChatGPT interagiert. OpenAI will das Programm später auf weitere Länder und Branchen ausweiten. Der Schritt ist relevant, weil ChatGPT damit stärker zur Konkurrenz für Google-Unternehmensprofile und lokale Suche wird – und OpenAI sich eine weitere mögliche Einnahmequelle über Firmenkunden erschließt.",
+      "quelle": "Seeking Alpha",
+      "datum_artikel": "2026-11-10"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Google stellt zwei neue KI-Chips vor – AMD liefert Prozessoren, Aktie springt um 13 Prozent",
-      "text": "Google Cloud hat am Montag zwei neue Systeme seiner hauseigenen KI-Chips (TPU) angekündigt: TPU 8tx und TPU 8i Max. Der TPU 8tx ist eine abgesicherte Variante für vertrauliche KI-Anwendungen, etwa bei Banken, Behörden oder anderen regulierten Kunden – es ist Googles erstes Cloud-TPU-System mit hardwareseitig geschützter Datenverarbeitung (Confidential Computing). Der TPU 8i Max packt zwei TPU-8i-Chips in ein Gehäuse und verdoppelt damit Rechenleistung und Speicherbandbreite. Überraschend: Als Hauptprozessoren für den TPU 8tx setzt Google auf EPYC-Chips von AMD, obwohl der Konzern seine Top-Systeme erst in diesem Jahr auf eigene Prozessoren umgestellt hatte. Die AMD-Aktie schloss nach der Nachricht und einer Kaufempfehlung von Oppenheimer gut 13 Prozent höher bei 508,58 Dollar. Die neuen Systeme sollen 2027 verfügbar sein; den Wert des Auftrags nannten beide Firmen nicht. Google baut damit seine Alternative zu NVIDIAs KI-Beschleunigern weiter aus.",
-      "quelle": "Data Center Knowledge",
-      "datum_artikel": "2026-11-09",
-      "unternehmen": "Google / Alphabet"
+      "titel": "Anthropic legt Preisspanne für Börsengang fest: 70 bis 78 Dollar je Aktie, Bewertung bis 1,4 Billionen",
+      "text": "Anthropic hat am 10. November seine Börsen-Roadshow gestartet und die Preisspanne festgelegt: 825 Millionen Aktien sollen zu 70 bis 78 Dollar angeboten werden, davon 801,4 Millionen neue Aktien und 23,6 Millionen aus dem Bestand bisheriger Eigentümer. Am oberen Ende würde Anthropic bis zu 64,4 Milliarden Dollar einnehmen; die Bewertung läge vollständig verwässert bei rund 1,3 bis 1,4 Billionen Dollar. Zusätzlich wollen sieben strategische Partner, darunter Google und NVIDIA, für 26 Milliarden Dollar stimmrechtslose Aktien zum Ausgabepreis kaufen. Ungewöhnlich: Rund 20 Prozent der Aktien sollen an Privatanleger gehen, üblich sind 5 bis 10 Prozent. Laut CNBC soll der Preis am 18. November festgelegt werden und der Handel am 19. November beginnen – das ist aber noch nicht offiziell bestätigt. Gegenüber dem bisherigen Stand (Investoren hatten zuletzt auf eine Bewertung von bis zu 1,1 Billionen gedrängt) liegen damit erstmals konkrete Zahlen vor; die Spanne bleibt deutlich unter den rund 2 Billionen, die vor einigen Wochen im Gespräch waren.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-10",
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "NVIDIA: Trump bestätigt FBI-Ermittlungen zu Huang-Affäre – Aktie fällt zweiten Tag in Folge kräftig",
+      "text": "Nachdem NVIDIAs Aufsichtsrat am Montag eine interne Untersuchung zur Affäre von Konzernchef Jensen Huang mit einer mutmaßlichen chinesischen Spionin eingeleitet hatte, ist der Fall weiter eskaliert. Präsident Trump sagte, das FBI befasse sich mit der Angelegenheit; er glaube aber nicht, dass Huang etwas falsch gemacht habe – Huang habe ihm gesagt, er habe nicht gewusst, dass die Frau eine Spionin sei. Die Aktie verlor am Dienstag weitere rund 5,5 Prozent, nachdem sie schon am Montag um mehr als 4 Prozent gefallen war. Zudem reichten Aktionäre eine Sammelklage gegen NVIDIA und Huang ein. Der Aufsichtsrat erklärt, es gebe keinen Hinweis, dass nationale Sicherheit oder Firmengeheimnisse betroffen seien; Huang bleibt während der Untersuchung im Amt. Analyst Dan Ives (Wedbush) schätzt die Wahrscheinlichkeit, dass Huang als Chef abgelöst wird, auf etwa 15 Prozent.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-10",
+      "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Ölpreis fällt um über 5 Prozent – Hoffnung auf Iran-Einigung beschert Wall Street kräftige Erholung",
-      "text": "Der Preis für die Ölsorte Brent ist am Montag um rund 5,6 Prozent auf knapp 93 Dollar je Barrel gefallen; Anfang des Monats lag er noch über 112 Dollar. Auslöser waren Aussagen von Präsident Trump, neue Angriffe auf den Iran seien sehr unwahrscheinlich, sowie ein Bericht der israelischen Zeitung Israel Hayom, wonach Teheran seine Forderung fallen gelassen habe, die Straße von Hormus zu kontrollieren und Durchfahrtsgebühren zu kassieren. Irans Sicherheitschef wies Berichte über Verhandlungen allerdings als Falschmeldung zurück. An der Wall Street stiegen der Dow Jones um gut 2,1 Prozent, der S&P 500 um rund 2,3 Prozent und der Nasdaq um etwa 2,7 Prozent – getragen von zuvor stark abgestraften Chip- und KI-Werten. Billigeres Öl drückte auch die Inflationserwartungen: Die aus Anleihen abgeleitete 10-Jahres-Inflationserwartung fiel auf ein Dreimonatstief von 2,2 Prozent. Analysten warnen, dass Angriffe auf Schiffe rund um Hormus weitergehen und die Erholung schnell kippen kann.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-09"
+      "titel": "US-Inflation überraschend hoch – Markt rechnet jetzt fest mit Zinserhöhung der Fed im Dezember",
+      "text": "Die US-Verbraucherpreise sind im Oktober um 0,4 Prozent gegenüber dem Vormonat gestiegen, erwartet worden waren 0,3 Prozent. Auch die Kerninflation ohne Energie und Lebensmittel lag mit 0,3 Prozent über der Prognose von 0,2 Prozent. Laut dem FedWatch-Tool der Börse CME preisen Anleger nun eine Zinserhöhung um 0,25 Prozentpunkte im Dezember mit rund 85 Prozent Wahrscheinlichkeit ein, eine größere um 0,5 Punkte mit 15 Prozent. Fed-Gouverneur Christopher Waller signalisierte Unterstützung für eine Erhöhung; die Dallas-Fed-Chefin Lorie Logan sieht Bedarf für zwei weitere Schritte. Die Wall Street schloss im Minus: Dow minus 0,3 Prozent, S&P 500 minus 0,4 Prozent, Nasdaq minus 0,7 Prozent. Nach dem starken Arbeitsmarktbericht von vergangener Woche liefern die Preisdaten nun den zweiten harten Beleg für eine Zinswende nach oben; die Fed entscheidet am 9. Dezember.",
+      "quelle": "CBS News",
+      "datum_artikel": "2026-11-10"
     },
     {
-      "titel": "Coherent-Aktie springt um rund 18 Prozent – Umsatz wächst fast um die Hälfte",
-      "text": "Der Laser- und Optik-Spezialist Coherent war am Montag mit einem Plus von rund 18 Prozent auf etwa 228 Dollar der stärkste Wert im S&P 500. Grund waren Quartalszahlen über den Erwartungen: Der Umsatz stieg im Jahresvergleich um fast 50 Prozent auf 2,37 Milliarden Dollar, der bereinigte Gewinn je Aktie lag mit 2,09 Dollar rund 6 Prozent über der Prognose der Analysten. Zudem hob Coherent sein Wachstumsziel für das Geschäftsjahr 2027 auf über 60 Prozent an. Das Unternehmen liefert optische Bauteile, über die Daten in KI-Rechenzentren übertragen werden. Mehrere Banken bestätigten ihre Kaufempfehlungen, Northland stufte die Aktie hoch. Zusätzlichen Schub gibt die geplante Übernahme des Konkurrenten Lumentum durch Marvell: Damit wäre Coherent der größte verbleibende unabhängige Anbieter in diesem Markt. Einige Analysten sehen die Aktie nach dem Sprung allerdings als teuer bewertet.",
-      "quelle": "Investing.com",
-      "datum_artikel": "2026-11-09"
+      "titel": "Infineon mit Rekordquartal und kräftigem Ausblick – Aktie springt an die DAX-Spitze",
+      "text": "Der Münchner Chiphersteller Infineon hat sein Geschäftsjahr mit einem Rekordquartal abgeschlossen: Der Umsatz stieg im vierten Quartal um 19 Prozent auf 4,71 Milliarden Euro, das Segmentergebnis um 56 Prozent auf 1,12 Milliarden Euro. Für das neue Geschäftsjahr 2027 erwartet Infineon ein Umsatzplus von mehr als 20 Prozent auf rund 20 Milliarden Euro und eine um etwa 5 Prozentpunkte höhere Marge. Allein Leistungshalbleiter für KI-Rechenzentren sollen rund 4 Milliarden Euro beitragen. Die Aktie legte laut Reuters um mehr als 5 Prozent zu und war damit größter Gewinner im DAX, der sich seinem Rekordhoch näherte. Einziger Wermutstropfen: Der bereinigte Gewinn je Aktie lag im Quartal knapp unter den Erwartungen, und der freie Cashflow soll 2027 wegen Investitionen von 3,0 bis 3,5 Milliarden Euro nur bei rund 1,8 Milliarden Euro liegen. Die Dividende soll 0,38 Euro je Aktie betragen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-10"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump im '60 Minutes'-Interview: Abschiebepolitik war 'zu hart' – keine Eskalation im Iran geplant",
-      "text": "In seinem ersten großen Interview nach der Niederlage der Republikaner bei den Kongresswahlen hat Präsident Trump am Sonntag in der CBS-Sendung '60 Minutes' über die Gründe gesprochen. Er sagte, die Wähler hätten den Iran-Krieg und die damit verbundenen hohen Benzinpreise abgelehnt; seine weitreichende Abschiebepolitik sei 'zu hart' gewesen und habe ihm geschadet. Auf die Frage, ob er den Krieg nach der Wahl ausweiten wolle, sagte Trump, das habe er nicht vor – das iranische Atommaterial sei unter Tonnen von Gestein begraben. Verteidigungsminister Pete Hegseth stärkte er den Rücken und wies die Rufe nach einer Amtsenthebung zurück; CNN berichtet zugleich, Trump habe Berater gefragt, ob Hegseth im Amt bleiben solle. Außerdem zeigte sich Trump offen für eine Zusammenarbeit mit den Demokraten, die künftig beide Kammern des Kongresses kontrollieren. Zur Künstlichen Intelligenz sagte er, er habe nichts gegen Leitplanken, wolle aber nicht hinter China zurückfallen. Im Repräsentantenhaus steht in dieser Woche die Abstimmung über den Amtsenthebungsantrag gegen Hegseth an.",
+      "titel": "Repräsentantenhaus stoppt Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth knapp",
+      "text": "Das US-Repräsentantenhaus hat am Dienstag mit 211 zu 204 Stimmen beschlossen, die acht Anklagepunkte gegen Verteidigungsminister Pete Hegseth an den republikanisch geführten Justizausschuss zu überweisen – damit ist das Verfahren vorerst gestoppt. Eingebracht hatte sie am Montag der Republikaner Thomas Massie; er wirft Hegseth unter anderem vor, mit fortgesetzten Angriffen auf Iran und im Jemen gegen das Kriegsvollmachten-Gesetz von 1973 verstoßen zu haben. Massie stimmte als einziger Republikaner gegen die Überweisung. Bei den Republikanern fehlten acht, bei den Demokraten elf Abgeordnete. Hegseth hatte die Anklage als Schein-Verfahren bezeichnet. Das Thema ist aber nicht endgültig erledigt: Ab Januar haben die Demokraten nach ihrem Wahlsieg die Mehrheit im Repräsentantenhaus und haben bereits umfangreiche Untersuchungen zum Pentagon angekündigt.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-11-08",
+      "datum_artikel": "2026-11-10",
       "land": "USA"
     },
     {
-      "titel": "Supreme Court erlaubt Weiterbau der Grenzmauer im Big-Bend-Gebiet in Texas",
-      "text": "Der Oberste Gerichtshof der USA hat am Montag eine Anordnung einer unteren Instanz vorläufig aufgehoben, die den Bau von Grenzanlagen in der Big-Bend-Region in Texas gestoppt hatte. Bundesrichterin Kathleen Cardone in El Paso hatte den Bau Anfang Oktober untersagt, weil die Regierung sich wohl zu Unrecht auf eine Ausnahme von Umweltgesetzen berufen habe; Big Bend sei kein Gebiet mit besonders vielen illegalen Grenzübertritten. Die Trump-Regierung war daraufhin direkt vor den Supreme Court gezogen. Mit der Entscheidung darf der Bau weitergehen, solange die Klage läuft. Ein endgültiges Urteil darüber, ob die weitreichende Aussetzung von Umweltgesetzen rechtmäßig ist, ist das aber nicht, betont die klagende Umweltorganisation Center for Biological Diversity. Big Bend ist eine dünn besiedelte Wüsten- und Canyonlandschaft mit einem Nationalpark am Rio Grande.",
-      "quelle": "SCOTUSblog",
-      "datum_artikel": "2026-11-09",
-      "land": "USA"
-    },
-    {
-      "titel": "Merz zum 9. November: Antisemitismus ist 'heute allgegenwärtig'",
-      "text": "Zum Jahrestag der Novemberpogrome von 1938 hat Bundeskanzler Friedrich Merz (CDU) am Montag bei einem Festakt in der Münchner Ohel-Jakob-Synagoge alle in Deutschland lebenden Menschen aufgefordert, gegen Antisemitismus einzutreten. Dazu gehöre auch ein Bekenntnis zu Israel, sagte Merz. Antisemitismus sei heute allgegenwärtig. Auf der Plattform X erinnerte der Kanzler zudem an die drei historischen Ereignisse des 9. November – die Ausrufung der Republik 1918, die Pogromnacht 1938 und den Mauerfall vor 37 Jahren. Seine Botschaft dort: 'Freiheit und Demokratie sind nie selbstverständlich. Schützen wir sie – in Deutschland und Europa.' Konkrete neue Maßnahmen kündigte Merz nicht an.",
-      "quelle": "Handelsblatt",
-      "datum_artikel": "2026-11-09",
+      "titel": "Haushalt 2027: Koalition ringt auf den letzten Metern – Streit um Stromsteuer, Wohngeld und kalte Progression",
+      "text": "Zwei Tage vor der entscheidenden Sitzung des Haushaltsausschusses haben sich Union und SPD noch nicht auf den Bundeshaushalt 2027 geeinigt. Eine Verhandlungsrunde am Montag blieb ohne Ergebnis, auch am Dienstag zeichnete sich bei mehreren Punkten keine Einigung ab; laut Bild verhaken sich die Fachpolitiker bei rund zehn Vorhaben. Hauptstreitpunkt ist die von Kanzler Merz gewünschte Senkung der Stromsteuer für alle, die rund 5 Milliarden Euro pro Jahr kosten würde – Finanzminister Klingbeil (SPD) lehnt sie ohne Gegenfinanzierung ab. Offen sind außerdem der volle Ausgleich der kalten Progression bei der Einkommensteuer und Einsparungen beim Wohngeld; die Plastiksteuer gilt nach dem Nein der Unionsfraktion als wahrscheinlich gekippt. Klingbeil plant mit Ausgaben von 555,4 Milliarden Euro. Die sogenannte Bereinigungssitzung des Haushaltsausschusses beginnt am Donnerstag, 12. November; der Bundestag soll den Etat vom 24. bis 27. November beschließen.",
+      "quelle": "taz",
+      "datum_artikel": "2026-11-10",
       "land": "Deutschland"
+    },
+    {
+      "titel": "Erste Friedensgespräche seit neun Monaten: Russland und Ukraine verhandeln in Abu Dhabi",
+      "text": "Russland und die Ukraine haben am 10. November in Abu Dhabi erstmals seit Februar wieder unter Vermittlung der USA direkt verhandelt. Die US-Seite wird von den Trump-Gesandten Steve Witkoff und Jared Kushner geführt, die Ukraine von Rustem Umerow, Russland von Wladimir Medinski. Die Gespräche sind auf zwei Tage angesetzt und drehen sich vor allem um Sicherheitsgarantien; die erste Runde dauerte laut der russischen Agentur RIA Nowosti fast vier Stunden. Präsident Selenskyj nannte den ersten Tag konstruktiv und recht substanziell, US-Außenminister Rubio sprach von einem sehr produktiven Treffen. Größter Streitpunkt bleiben Gebietsfragen; Russland lehnt zudem weiterhin eine Waffenruhe ab und setzt seine Angriffe auf ukrainische Städte fort. Ein Ergebnis des zweiten Verhandlungstags lag bei Redaktionsschluss noch nicht vor.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-11-10",
+      "land": "International"
     }
   ]
 }
