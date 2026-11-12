@@ -1,77 +1,52 @@
 {
-  "datum": "Mittwoch, 11. November 2026",
-  "generiert": "2026-11-11",
+  "datum": "Donnerstag, 12. November 2026",
+  "generiert": "2026-11-12",
   "ki_stories": [
     {
-      "titel": "Anthropic greift Microsoft und Google an: Claude bekommt Tabellen, Whiteboards und Meeting-Assistent",
-      "text": "Anthropic hat am Dienstag eine eigene Büro-Software-Palette rund um Claude vorgestellt – kurz vor dem Start seiner Börsen-Roadshow. Claude Sheets ist ein Tabellenprogramm (Beta), in dem Teams gemeinsam mit Claude mehrseitige Tabellen mit Formeln und Auswahllisten bauen und als Excel-Datei exportieren können. Claude Whiteboards ist eine gemeinsame Brainstorming-Tafel, die Claude zu Zeitplänen mit Verantwortlichen ordnen kann; beide stehen in allen Bezahl-Tarifen im Web, auf dem Desktop und mobil bereit. Das bisherige Dashboards-Werkzeug heißt nun Claude Data und ist allgemein verfügbar. Claude Meetings, das an Google-Meet-Besprechungen teilnimmt und daraus Pläne und Aufgaben macht, startet nur eingeschränkt für Team- und Enterprise-Kunden; Claude gibt sich dabei im Chat als Teilnehmer zu erkennen, und Administratoren müssen Meetings mit externen Gästen erst freigeben. Damit tritt Anthropic direkt gegen Microsoft Office und Google Workspace an – die Microsoft-Aktie gab am Dienstag laut Yahoo Finance rund 2 Prozent nach, was dort unter anderem mit diesem Vorstoß begründet wird.",
-      "quelle": "Yahoo Finance",
-      "datum_artikel": "2026-11-10"
-    },
-    {
-      "titel": "Googles stärkstes Modell Gemini 4 Carbon ist jetzt für alle zahlenden Kunden verfügbar",
-      "text": "Google hat sein Spitzenmodell Gemini 4 Carbon am 10. November allgemein freigegeben. Vorgestellt worden war es bereits am 28. Oktober, zunächst aber nur für Cyber-Sicherheitsexperten und ausgewählte Partner. Jetzt können alle zahlenden Entwickler und Unternehmen es über Google AI Studio und Gemini für Unternehmen nutzen; zudem wird es für Abonnenten von Google AI Ultra in der Gemini-App, in Antigravity und im KI-Modus der Google-Suche ausgerollt. Google beschreibt Carbon als besonders stark bei Cybersicherheit und langen, mehrstufigen Projekten; das Kontextfenster umfasst laut Google-Cloud-Dokumentation rund 1 Million Tokens. Zum Start kostet es 2 Dollar pro Million Eingabe- und 10 Dollar pro Million Ausgabe-Tokens – so viel wie das kleinere Gemini 4 Argon; wann dieser Einführungspreis endet, hat Google nicht gesagt. Der breite Start erhöht den Druck auf OpenAI und Anthropic im Wettlauf um Unternehmenskunden.",
-      "quelle": "Google Blog",
-      "datum_artikel": "2026-11-10"
-    },
-    {
-      "titel": "OpenAI holt Unternehmen in ChatGPT – Firmen können eigene Profile und KI-Agenten anlegen",
-      "text": "OpenAI hat am Dienstag eine Beta-Funktion namens Businesses in ChatGPT gestartet. Unternehmen können über einen sogenannten Business Hub ihr Firmenprofil in ChatGPT beanspruchen, Angaben wie Öffnungszeiten oder Angebote selbst pflegen und auswerten, wie Nutzer ihr Geschäft in ChatGPT wahrnehmen und suchen. Berechtigte US-Firmen können zudem einen eigenen Business Agent einrichten, der im Namen des Unternehmens mit Kundinnen und Kunden in ChatGPT interagiert. OpenAI will das Programm später auf weitere Länder und Branchen ausweiten. Der Schritt ist relevant, weil ChatGPT damit stärker zur Konkurrenz für Google-Unternehmensprofile und lokale Suche wird – und OpenAI sich eine weitere mögliche Einnahmequelle über Firmenkunden erschließt.",
-      "quelle": "Seeking Alpha",
-      "datum_artikel": "2026-11-10"
+      "titel": "Anthropic: Eigene KI beschleunigt die Forschung so stark, dass eine zentrale Sicherheitsschwelle als erreicht gilt",
+      "text": "Anthropic hat in seinem zweiten überarbeiteten Börsenprospekt (S-1/A), der am 10. November bei der US-Börsenaufsicht SEC eingereicht wurde, erklärt: Das Unternehmen betrachtet die Schwelle für KI-gestützte Forschung (AI R&D) aus seiner eigenen Sicherheitsrichtlinie, der Responsible Scaling Policy, als erreicht. Gemeint ist grob, dass KI die Geschwindigkeit des KI-Fortschritts etwa verdoppelt, weil sie große Teile der Forschungsarbeit selbst automatisiert. Die Einschätzung stützt sich laut Bericht auf erwartete künftige Modelle, nicht auf bereits beobachtete Fähigkeiten heutiger Modelle. Noch in der ersten Prospekt-Fassung vom 2. November hatte Anthropic nur geschrieben, die Schwelle könne 'unmittelbar bevorstehen'. Das Unternehmen prüft nun strengere Regeln, etwa dass Menschen bestimmte Forschungsentscheidungen ausdrücklich prüfen und freigeben müssen, und will weitere Berichte dazu veröffentlichen. Die Offenlegung kommt eine Woche vor dem geplanten Börsengang: Der Ausgabepreis soll am 18. November festgelegt werden, der Handel an der Nasdaq unter dem Kürzel 'ANT' am 19. November beginnen.",
+      "quelle": "Fortune",
+      "datum_artikel": "2026-11-11"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic legt Preisspanne für Börsengang fest: 70 bis 78 Dollar je Aktie, Bewertung bis 1,4 Billionen",
-      "text": "Anthropic hat am 10. November seine Börsen-Roadshow gestartet und die Preisspanne festgelegt: 825 Millionen Aktien sollen zu 70 bis 78 Dollar angeboten werden, davon 801,4 Millionen neue Aktien und 23,6 Millionen aus dem Bestand bisheriger Eigentümer. Am oberen Ende würde Anthropic bis zu 64,4 Milliarden Dollar einnehmen; die Bewertung läge vollständig verwässert bei rund 1,3 bis 1,4 Billionen Dollar. Zusätzlich wollen sieben strategische Partner, darunter Google und NVIDIA, für 26 Milliarden Dollar stimmrechtslose Aktien zum Ausgabepreis kaufen. Ungewöhnlich: Rund 20 Prozent der Aktien sollen an Privatanleger gehen, üblich sind 5 bis 10 Prozent. Laut CNBC soll der Preis am 18. November festgelegt werden und der Handel am 19. November beginnen – das ist aber noch nicht offiziell bestätigt. Gegenüber dem bisherigen Stand (Investoren hatten zuletzt auf eine Bewertung von bis zu 1,1 Billionen gedrängt) liegen damit erstmals konkrete Zahlen vor; die Spanne bleibt deutlich unter den rund 2 Billionen, die vor einigen Wochen im Gespräch waren.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-10",
-      "unternehmen": "Anthropic"
+      "titel": "NVIDIA-Aufsichtsrat berät über Absetzung von Jensen Huang – Aktie bricht nachbörslich um rund 8 Prozent ein",
+      "text": "Nachdem am Dienstag bekannt geworden war, dass das FBI sich mit der Affäre von NVIDIA-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin befasst, hat sich die Krise am Mittwoch deutlich verschärft. Das Wall Street Journal berichtete, der Aufsichtsrat bereite die Absetzung des Firmengründers vor und wolle noch am Mittwochabend zusammenkommen; Reuters bestätigte das Treffen über eine Quelle. Auslöser war ein Bericht der New York Times über eine zweite außereheliche Beziehung Huangs, diesmal mit einer leitenden Managerin des eigenen Konzerns. Laut Semafor favorisieren einige Aufsichtsräte Finanzchefin Colette Kress als Übergangschefin, laut Bloomberg wurde bereits eine externe Personalberatung für die Suche nach einem neuen Konzernchef eingeschaltet. Die Aktie hatte im regulären Handel noch 2,9 Prozent auf 173,73 Dollar zugelegt, fiel nachbörslich aber um rund 8 Prozent auf etwa 160 Dollar; seit Beginn der internen Untersuchung am 8. November hat NVIDIA über 450 Milliarden Dollar an Börsenwert verloren. Analysten wie Gil Luria (D.A. Davidson) warnen, dass NVIDIA keinen Nachfolgeplan hat. Eine Entscheidung des Aufsichtsrats war bei Redaktionsschluss noch nicht bekannt.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-11-11",
+      "unternehmen": "NVIDIA"
     },
     {
-      "titel": "NVIDIA: Trump bestätigt FBI-Ermittlungen zu Huang-Affäre – Aktie fällt zweiten Tag in Folge kräftig",
-      "text": "Nachdem NVIDIAs Aufsichtsrat am Montag eine interne Untersuchung zur Affäre von Konzernchef Jensen Huang mit einer mutmaßlichen chinesischen Spionin eingeleitet hatte, ist der Fall weiter eskaliert. Präsident Trump sagte, das FBI befasse sich mit der Angelegenheit; er glaube aber nicht, dass Huang etwas falsch gemacht habe – Huang habe ihm gesagt, er habe nicht gewusst, dass die Frau eine Spionin sei. Die Aktie verlor am Dienstag weitere rund 5,5 Prozent, nachdem sie schon am Montag um mehr als 4 Prozent gefallen war. Zudem reichten Aktionäre eine Sammelklage gegen NVIDIA und Huang ein. Der Aufsichtsrat erklärt, es gebe keinen Hinweis, dass nationale Sicherheit oder Firmengeheimnisse betroffen seien; Huang bleibt während der Untersuchung im Amt. Analyst Dan Ives (Wedbush) schätzt die Wahrscheinlichkeit, dass Huang als Chef abgelöst wird, auf etwa 15 Prozent.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-10",
-      "unternehmen": "NVIDIA"
+      "titel": "OpenAI knackt erstmals 10 Milliarden Dollar Quartalsumsatz – Verluste schrumpfen",
+      "text": "OpenAI hat im dritten Quartal 2026 erstmals mehr als 10 Milliarden Dollar Umsatz in einem einzigen Quartal erzielt, berichtet Bloomberg unter Berufung auf informierte Personen. Zum Vergleich: Im zweiten Quartal waren es laut Wall Street Journal noch 6,7 Milliarden Dollar, im ersten 5,7 Milliarden. Gleichzeitig hat sich die Verlustquote verbessert: Die bereinigte operative Marge lag bei minus 109 Prozent, nach minus 150 Prozent im zweiten Quartal. OpenAI gibt also immer noch deutlich mehr aus, als es einnimmt, vor allem für Rechenzentren und Chips. Die Zahlen sind wichtig, weil OpenAI – das zuletzt bei einer Bewertung von 1,25 Billionen Dollar Geld eingesammelt hat – sich mit Anthropic einen Wettlauf um Investoren liefert, das kommende Woche an die Börse geht. Offiziell bestätigt hat OpenAI die Zahlen nicht.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-11",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Inflation überraschend hoch – Markt rechnet jetzt fest mit Zinserhöhung der Fed im Dezember",
-      "text": "Die US-Verbraucherpreise sind im Oktober um 0,4 Prozent gegenüber dem Vormonat gestiegen, erwartet worden waren 0,3 Prozent. Auch die Kerninflation ohne Energie und Lebensmittel lag mit 0,3 Prozent über der Prognose von 0,2 Prozent. Laut dem FedWatch-Tool der Börse CME preisen Anleger nun eine Zinserhöhung um 0,25 Prozentpunkte im Dezember mit rund 85 Prozent Wahrscheinlichkeit ein, eine größere um 0,5 Punkte mit 15 Prozent. Fed-Gouverneur Christopher Waller signalisierte Unterstützung für eine Erhöhung; die Dallas-Fed-Chefin Lorie Logan sieht Bedarf für zwei weitere Schritte. Die Wall Street schloss im Minus: Dow minus 0,3 Prozent, S&P 500 minus 0,4 Prozent, Nasdaq minus 0,7 Prozent. Nach dem starken Arbeitsmarktbericht von vergangener Woche liefern die Preisdaten nun den zweiten harten Beleg für eine Zinswende nach oben; die Fed entscheidet am 9. Dezember.",
-      "quelle": "CBS News",
-      "datum_artikel": "2026-11-10"
-    },
-    {
-      "titel": "Infineon mit Rekordquartal und kräftigem Ausblick – Aktie springt an die DAX-Spitze",
-      "text": "Der Münchner Chiphersteller Infineon hat sein Geschäftsjahr mit einem Rekordquartal abgeschlossen: Der Umsatz stieg im vierten Quartal um 19 Prozent auf 4,71 Milliarden Euro, das Segmentergebnis um 56 Prozent auf 1,12 Milliarden Euro. Für das neue Geschäftsjahr 2027 erwartet Infineon ein Umsatzplus von mehr als 20 Prozent auf rund 20 Milliarden Euro und eine um etwa 5 Prozentpunkte höhere Marge. Allein Leistungshalbleiter für KI-Rechenzentren sollen rund 4 Milliarden Euro beitragen. Die Aktie legte laut Reuters um mehr als 5 Prozent zu und war damit größter Gewinner im DAX, der sich seinem Rekordhoch näherte. Einziger Wermutstropfen: Der bereinigte Gewinn je Aktie lag im Quartal knapp unter den Erwartungen, und der freie Cashflow soll 2027 wegen Investitionen von 3,0 bis 3,5 Milliarden Euro nur bei rund 1,8 Milliarden Euro liegen. Die Dividende soll 0,38 Euro je Aktie betragen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-10"
+      "titel": "Siemens Energy mit Rekordjahr und starkem Ausblick – Aktie springt fast 11 Prozent an die DAX-Spitze",
+      "text": "Siemens Energy hat am Mittwoch Zahlen für das Geschäftsjahr 2026 (bis Ende September) vorgelegt und die Aktie damit um 10,8 Prozent an die Spitze des DAX getrieben. Der Umsatz stieg auf rund 44,2 Milliarden Euro, vergleichbar gerechnet ein Plus von 15,5 Prozent; die Gewinnmarge vor Sondereffekten hat sich auf 12,4 Prozent mehr als verdoppelt, der Nettogewinn lag bei gut 4,1 Milliarden Euro. Für das laufende Geschäftsjahr erwartet der Energietechnik-Konzern 14 bis 16 Prozent Umsatzwachstum, eine Marge von ebenfalls 14 bis 16 Prozent, einen freien Mittelzufluss von rund 10 Milliarden Euro (nach 8,8 Milliarden) und einen Gewinn von rund 5 Milliarden Euro. Zudem stellte Siemens Energy neue Ziele bis 2030 mit mehr Wachstum, höheren Margen und weiteren Aktienrückkäufen in Aussicht. Hintergrund ist die hohe Nachfrage nach Gasturbinen und Netztechnik, unter anderem für KI-Rechenzentren. Der DAX schloss 1,2 Prozent höher bei 26.662,77 Punkten, nur knapp unter seinem Rekordhoch.",
+      "quelle": "dpa-AFX",
+      "datum_artikel": "2026-11-11"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Repräsentantenhaus stoppt Amtsenthebungsverfahren gegen Verteidigungsminister Hegseth knapp",
-      "text": "Das US-Repräsentantenhaus hat am Dienstag mit 211 zu 204 Stimmen beschlossen, die acht Anklagepunkte gegen Verteidigungsminister Pete Hegseth an den republikanisch geführten Justizausschuss zu überweisen – damit ist das Verfahren vorerst gestoppt. Eingebracht hatte sie am Montag der Republikaner Thomas Massie; er wirft Hegseth unter anderem vor, mit fortgesetzten Angriffen auf Iran und im Jemen gegen das Kriegsvollmachten-Gesetz von 1973 verstoßen zu haben. Massie stimmte als einziger Republikaner gegen die Überweisung. Bei den Republikanern fehlten acht, bei den Demokraten elf Abgeordnete. Hegseth hatte die Anklage als Schein-Verfahren bezeichnet. Das Thema ist aber nicht endgültig erledigt: Ab Januar haben die Demokraten nach ihrem Wahlsieg die Mehrheit im Repräsentantenhaus und haben bereits umfangreiche Untersuchungen zum Pentagon angekündigt.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-10",
-      "land": "USA"
-    },
-    {
-      "titel": "Haushalt 2027: Koalition ringt auf den letzten Metern – Streit um Stromsteuer, Wohngeld und kalte Progression",
-      "text": "Zwei Tage vor der entscheidenden Sitzung des Haushaltsausschusses haben sich Union und SPD noch nicht auf den Bundeshaushalt 2027 geeinigt. Eine Verhandlungsrunde am Montag blieb ohne Ergebnis, auch am Dienstag zeichnete sich bei mehreren Punkten keine Einigung ab; laut Bild verhaken sich die Fachpolitiker bei rund zehn Vorhaben. Hauptstreitpunkt ist die von Kanzler Merz gewünschte Senkung der Stromsteuer für alle, die rund 5 Milliarden Euro pro Jahr kosten würde – Finanzminister Klingbeil (SPD) lehnt sie ohne Gegenfinanzierung ab. Offen sind außerdem der volle Ausgleich der kalten Progression bei der Einkommensteuer und Einsparungen beim Wohngeld; die Plastiksteuer gilt nach dem Nein der Unionsfraktion als wahrscheinlich gekippt. Klingbeil plant mit Ausgaben von 555,4 Milliarden Euro. Die sogenannte Bereinigungssitzung des Haushaltsausschusses beginnt am Donnerstag, 12. November; der Bundestag soll den Etat vom 24. bis 27. November beschließen.",
-      "quelle": "taz",
-      "datum_artikel": "2026-11-10",
+      "titel": "Haushalt 2027: Koalition einigt sich – Zuckersteuer verschoben, Plastiksteuer gestrichen, Stromsteuer bleibt offen",
+      "text": "Nach tagelangem Ringen haben sich Union und SPD am späten Mittwochabend auf mehrere Streitpunkte im Bundeshaushalt 2027 geeinigt. Vorgestellt wurde das Paket von Unionsfraktionschef Thorsten Frei, SPD-Fraktionschef Matthias Miersch und CSU-Landesgruppenchef Alexander Hoffmann. Die geplante Zuckersteuer auf stark gesüßte Getränke kommt erst Anfang 2028 statt Mitte 2027; die Union begründete das damit, dass Hersteller Zeit für neue Rezepturen brauchen. Die Plastiksteuer auf Kunststoffverpackungen kommt 2027 nicht, dem Bund fehlen dadurch rund 670 Millionen Euro an geplanten Einnahmen. Die geplante Kürzung beim Kinderzuschlag für Familien mit geringem Einkommen wird zurückgenommen; laut Berichten erhalten damit knapp drei Millionen armutsgefährdete Kinder weiter 25 Euro mehr im Monat. Keine Einigung gab es bei der von Kanzler Merz gewünschten Senkung der Stromsteuer für alle Haushalte und Unternehmen sowie beim Ausgleich der kalten Progression – Frei sagte, das sei 'bislang nicht gelungen', die Senkung solle aber später kommen, etwa Anfang 2028. Als Nächstes legt der Haushaltsausschuss in seiner sogenannten Bereinigungssitzung die endgültigen Zahlen fest, danach stimmt der Bundestag ab.",
+      "quelle": "Tagesspiegel",
+      "datum_artikel": "2026-11-11",
       "land": "Deutschland"
     },
     {
-      "titel": "Erste Friedensgespräche seit neun Monaten: Russland und Ukraine verhandeln in Abu Dhabi",
-      "text": "Russland und die Ukraine haben am 10. November in Abu Dhabi erstmals seit Februar wieder unter Vermittlung der USA direkt verhandelt. Die US-Seite wird von den Trump-Gesandten Steve Witkoff und Jared Kushner geführt, die Ukraine von Rustem Umerow, Russland von Wladimir Medinski. Die Gespräche sind auf zwei Tage angesetzt und drehen sich vor allem um Sicherheitsgarantien; die erste Runde dauerte laut der russischen Agentur RIA Nowosti fast vier Stunden. Präsident Selenskyj nannte den ersten Tag konstruktiv und recht substanziell, US-Außenminister Rubio sprach von einem sehr produktiven Treffen. Größter Streitpunkt bleiben Gebietsfragen; Russland lehnt zudem weiterhin eine Waffenruhe ab und setzt seine Angriffe auf ukrainische Städte fort. Ein Ergebnis des zweiten Verhandlungstags lag bei Redaktionsschluss noch nicht vor.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-11-10",
-      "land": "International"
+      "titel": "Überraschung in Mississippi: Demokrat Scott Colom gewinnt Senatssitz – Demokraten bauen Mehrheit aus",
+      "text": "Der Demokrat Scott Colom hat die Senatswahl im US-Bundesstaat Mississippi gewonnen, wie die Nachrichtenagentur AP am Mittwoch nach über einer Woche Auszählung meldete. Er besiegte die republikanische Amtsinhaberin Cindy Hyde-Smith mit einem Vorsprung von rund 4.600 Stimmen; entscheidend waren nachgezählte Brief-, Abwesenheits- und Ersatzstimmzettel. Hyde-Smith räumte ihre Niederlage am Mittwochabend ein. Das Rennen galt vorab als sicher republikanisch – Colom wird nun voraussichtlich der erste schwarze Senator Mississippis seit der Zeit nach dem Bürgerkrieg. Laut CBS News ist es der achte Senatssitz, den die Demokraten bei der Wahl vom 3. November den Republikanern abgenommen haben; ihre Mehrheit im Senat wächst laut NBC News damit auf 55 Sitze. Offen ist noch das Rennen in Alaska, bei einem Sieg dort kämen die Demokraten auf 56 zu 44. Die neue Mehrheit übernimmt im Januar die Kontrolle im Kongress.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-11-11",
+      "land": "USA"
     }
   ]
 }
