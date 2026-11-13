@@ -1,51 +1,77 @@
 {
-  "datum": "Donnerstag, 12. November 2026",
-  "generiert": "2026-11-12",
+  "datum": "Freitag, 13. November 2026",
+  "generiert": "2026-11-13",
   "ki_stories": [
     {
-      "titel": "Anthropic: Eigene KI beschleunigt die Forschung so stark, dass eine zentrale Sicherheitsschwelle als erreicht gilt",
-      "text": "Anthropic hat in seinem zweiten überarbeiteten Börsenprospekt (S-1/A), der am 10. November bei der US-Börsenaufsicht SEC eingereicht wurde, erklärt: Das Unternehmen betrachtet die Schwelle für KI-gestützte Forschung (AI R&D) aus seiner eigenen Sicherheitsrichtlinie, der Responsible Scaling Policy, als erreicht. Gemeint ist grob, dass KI die Geschwindigkeit des KI-Fortschritts etwa verdoppelt, weil sie große Teile der Forschungsarbeit selbst automatisiert. Die Einschätzung stützt sich laut Bericht auf erwartete künftige Modelle, nicht auf bereits beobachtete Fähigkeiten heutiger Modelle. Noch in der ersten Prospekt-Fassung vom 2. November hatte Anthropic nur geschrieben, die Schwelle könne 'unmittelbar bevorstehen'. Das Unternehmen prüft nun strengere Regeln, etwa dass Menschen bestimmte Forschungsentscheidungen ausdrücklich prüfen und freigeben müssen, und will weitere Berichte dazu veröffentlichen. Die Offenlegung kommt eine Woche vor dem geplanten Börsengang: Der Ausgabepreis soll am 18. November festgelegt werden, der Handel an der Nasdaq unter dem Kürzel 'ANT' am 19. November beginnen.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-11-11"
+      "titel": "Google startet Gemini Decision 1 – ein Modell, das bis zu 1.000 Ja/Nein-Fragen auf einmal beantwortet",
+      "text": "Google DeepMind hat die neue Gemini Decisions API mit dem Modell Gemini Decision 1 freigeschaltet. Das Modell ist nicht zum Schreiben von Texten gedacht, sondern für geschlossene Entscheidungen: Ja/Nein-Fragen, Multiple-Choice oder Bewertungen nach festen Kriterien. Pro Anfrage kann es bis zu 1.000 Fragen zum selben Material beantworten, laut Google in etwa einer Viertelsekunde. Der Preis liegt bei 0,10 Dollar pro Million Eingabe-Token, Ausgaben kosten nichts – laut Google rund fünfmal billiger als Gemini 3.5 Flash-Lite. Einsatzzwecke sind etwa die Auswahl des richtigen Werkzeugs durch KI-Agenten, Regel-Prüfungen oder die Weiterleitung von Anfragen an das passende Modell; Google nutzt die Technik nach eigenen Angaben bereits intern. Entwickler können die API über Google AI Studio auch kostenlos testen; technische Details wie Modellgröße hat Google nicht veröffentlicht.",
+      "quelle": "VentureBeat",
+      "datum_artikel": "2026-11-12"
+    },
+    {
+      "titel": "Kehrtwende: OpenAI unterstützt nun Gesetze gegen KI-Chip-Lieferungen nach China",
+      "text": "OpenAI hat US-Abgeordneten in dieser Woche signalisiert, dass es ein überparteiliches Gesetzespaket unterstützt, das Chinas Zugang zu KI-Chips und Chip-Fertigungsanlagen einschränken soll. Das berichten Bloomberg und Punchbowl News unter Berufung auf Insider; genannt werden unter anderem der Chip Security Act, der MATCH Act und der AI OVERWATCH Act. Noch im Oktober hatte Politico berichtet, OpenAI habe aufgehört, sich für strengere Exportkontrollen starkzumachen – was als Zugeständnis an NVIDIA galt. Rivale Anthropic unterstützt die Gesetze schon länger. Der Rückenwind für die Vorhaben im Kongress wächst seit den Berichten über eine mutmaßliche chinesische Spionage-Affäre um NVIDIA-Chef Jensen Huang. Offen ist, wann die Gesetze zur Abstimmung kommen und ob sie an das Verteidigungsgesetz angehängt werden.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-12"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA-Aufsichtsrat berät über Absetzung von Jensen Huang – Aktie bricht nachbörslich um rund 8 Prozent ein",
-      "text": "Nachdem am Dienstag bekannt geworden war, dass das FBI sich mit der Affäre von NVIDIA-Chef Jensen Huang mit einer mutmaßlichen chinesischen Spionin befasst, hat sich die Krise am Mittwoch deutlich verschärft. Das Wall Street Journal berichtete, der Aufsichtsrat bereite die Absetzung des Firmengründers vor und wolle noch am Mittwochabend zusammenkommen; Reuters bestätigte das Treffen über eine Quelle. Auslöser war ein Bericht der New York Times über eine zweite außereheliche Beziehung Huangs, diesmal mit einer leitenden Managerin des eigenen Konzerns. Laut Semafor favorisieren einige Aufsichtsräte Finanzchefin Colette Kress als Übergangschefin, laut Bloomberg wurde bereits eine externe Personalberatung für die Suche nach einem neuen Konzernchef eingeschaltet. Die Aktie hatte im regulären Handel noch 2,9 Prozent auf 173,73 Dollar zugelegt, fiel nachbörslich aber um rund 8 Prozent auf etwa 160 Dollar; seit Beginn der internen Untersuchung am 8. November hat NVIDIA über 450 Milliarden Dollar an Börsenwert verloren. Analysten wie Gil Luria (D.A. Davidson) warnen, dass NVIDIA keinen Nachfolgeplan hat. Eine Entscheidung des Aufsichtsrats war bei Redaktionsschluss noch nicht bekannt.",
-      "quelle": "Wall Street Journal",
-      "datum_artikel": "2026-11-11",
+      "titel": "Jensen Huang tritt als NVIDIA-Chef zurück – Finanzchefin Colette Kress übernimmt übergangsweise",
+      "text": "Nachdem am Mittwoch bekannt geworden war, dass der Aufsichtsrat über seine Absetzung berät, ist Jensen Huang am Donnerstag mit sofortiger Wirkung als Präsident und CEO von NVIDIA zurückgetreten und hat auch den Aufsichtsrat verlassen. Huang hatte das Unternehmen vor 33 Jahren mitgegründet. Interimschefin wird Finanzchefin Colette Kress, die ihren CFO-Posten behält, während der Aufsichtsrat interne und externe Kandidaten für die dauerhafte Nachfolge prüft. NVIDIA nannte offiziell keinen Grund; Hintergrund sind Berichte über außereheliche Affären Huangs und Ermittlungen, ob er Ziel einer ausländischen Geheimdienstoperation war. Die Aktie brach zum Handelsstart um mehr als 13 Prozent ein und schloss laut CNBC gut 4 Prozent im Minus. Präsident Trump nannte den Fall eine 'schreckliche Sache'.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-12",
       "unternehmen": "NVIDIA"
     },
     {
-      "titel": "OpenAI knackt erstmals 10 Milliarden Dollar Quartalsumsatz – Verluste schrumpfen",
-      "text": "OpenAI hat im dritten Quartal 2026 erstmals mehr als 10 Milliarden Dollar Umsatz in einem einzigen Quartal erzielt, berichtet Bloomberg unter Berufung auf informierte Personen. Zum Vergleich: Im zweiten Quartal waren es laut Wall Street Journal noch 6,7 Milliarden Dollar, im ersten 5,7 Milliarden. Gleichzeitig hat sich die Verlustquote verbessert: Die bereinigte operative Marge lag bei minus 109 Prozent, nach minus 150 Prozent im zweiten Quartal. OpenAI gibt also immer noch deutlich mehr aus, als es einnimmt, vor allem für Rechenzentren und Chips. Die Zahlen sind wichtig, weil OpenAI – das zuletzt bei einer Bewertung von 1,25 Billionen Dollar Geld eingesammelt hat – sich mit Anthropic einen Wettlauf um Investoren liefert, das kommende Woche an die Börse geht. Offiziell bestätigt hat OpenAI die Zahlen nicht.",
+      "titel": "Anthropic-Börsengang mehrfach überzeichnet – Banken prüfen höheren Ausgabepreis",
+      "text": "Für den Börsengang von Anthropic liegen nach Bloomberg-Informationen bereits ein Mehrfaches der angebotenen Aktien an Bestellungen vor, vor allem durch große Ankerinvestoren; andere Berichte sprechen von rund sechsfacher Überzeichnung. Anfang der Woche hatte Anthropic eine Preisspanne von 70 bis 78 Dollar für 825 Millionen Aktien festgelegt – neu ist nun, dass die Banken wegen der hohen Nachfrage einen Preis über dieser Spanne erwägen. Offiziell geändert ist die Spanne bisher nicht. Der Preis soll am 18. November festgelegt werden, der erste Handelstag an der Nasdaq (Kürzel ANT) ist für den 19. November geplant. Mit insgesamt bis zu rund 90 Milliarden Dollar wäre es der größte Börsengang der Geschichte; Privatanleger dürften bei dieser Nachfrage nur kleine oder gar keine Zuteilungen bekommen.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-11-11",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Anthropic"
+    },
+    {
+      "titel": "Cisco mit Rekordquartal: Umsatz plus 24 Prozent, KI-Aufträge von 9 Milliarden Dollar",
+      "text": "Der Netzwerkausrüster Cisco hat im ersten Quartal seines Geschäftsjahres 2027 einen Rekordumsatz von 18,5 Milliarden Dollar erzielt, 24 Prozent mehr als vor einem Jahr. Der bereinigte Gewinn je Aktie stieg um 40 Prozent auf 1,40 Dollar und lag über den Analystenschätzungen von rund 1,33 Dollar. Treiber ist die Nachfrage nach Netzwerktechnik für KI-Rechenzentren: Cisco erwartet für das Geschäftsjahr KI-Infrastruktur-Aufträge von 9 Milliarden Dollar, mehr als doppelt so viel wie im Vorjahr; die Produktbestellungen insgesamt stiegen um 32 Prozent. Für das Gesamtjahr peilt Cisco nun 74,8 bis 75,8 Milliarden Dollar Umsatz an. Die Aktie gab nachbörslich trotzdem leicht um gut 1 Prozent nach, nachdem sie im regulären Handel um 1,2 Prozent auf 102 Dollar gestiegen war.",
+      "quelle": "Investing.com",
+      "datum_artikel": "2026-11-12",
+      "unternehmen": "Cisco"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Siemens Energy mit Rekordjahr und starkem Ausblick – Aktie springt fast 11 Prozent an die DAX-Spitze",
-      "text": "Siemens Energy hat am Mittwoch Zahlen für das Geschäftsjahr 2026 (bis Ende September) vorgelegt und die Aktie damit um 10,8 Prozent an die Spitze des DAX getrieben. Der Umsatz stieg auf rund 44,2 Milliarden Euro, vergleichbar gerechnet ein Plus von 15,5 Prozent; die Gewinnmarge vor Sondereffekten hat sich auf 12,4 Prozent mehr als verdoppelt, der Nettogewinn lag bei gut 4,1 Milliarden Euro. Für das laufende Geschäftsjahr erwartet der Energietechnik-Konzern 14 bis 16 Prozent Umsatzwachstum, eine Marge von ebenfalls 14 bis 16 Prozent, einen freien Mittelzufluss von rund 10 Milliarden Euro (nach 8,8 Milliarden) und einen Gewinn von rund 5 Milliarden Euro. Zudem stellte Siemens Energy neue Ziele bis 2030 mit mehr Wachstum, höheren Margen und weiteren Aktienrückkäufen in Aussicht. Hintergrund ist die hohe Nachfrage nach Gasturbinen und Netztechnik, unter anderem für KI-Rechenzentren. Der DAX schloss 1,2 Prozent höher bei 26.662,77 Punkten, nur knapp unter seinem Rekordhoch.",
-      "quelle": "dpa-AFX",
-      "datum_artikel": "2026-11-11"
+      "titel": "Zehnjährige US-Rendite springt über 5 Prozent – Anleger rechnen mit weiteren Fed-Zinserhöhungen",
+      "text": "Als der US-Anleihemarkt am Donnerstag nach dem Feiertag Veterans Day wieder öffnete, stieg die Rendite zehnjähriger Staatsanleihen um mehr als 12 Basispunkte auf rund 5,10 bis 5,13 Prozent. Es war die erste Gelegenheit für Anleihehändler, auf die überraschend hohen Inflationsdaten vom Dienstag zu reagieren; dazu kam ein steigender Ölpreis. Am Markt wird nun mit weiteren Zinserhöhungen der Fed gerechnet. Höhere Anleiherenditen verteuern Kredite und Hypotheken und machen Aktien im Vergleich weniger attraktiv. Die US-Börsen schlossen im Minus: der S&P 500 fiel um 0,35 Prozent auf 7.592 Punkte, die Nasdaq um 0,39 Prozent, die Nebenwerte im Russell 2000 sogar um 1,7 Prozent.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-12"
+    },
+    {
+      "titel": "Corteva-Aktie stürzt um rund 20 Prozent ab – Brasilien-Flaute halbiert die Prognose",
+      "text": "Der US-Agrarchemie- und Saatgutkonzern Corteva hat am Donnerstag den wohl größten Tagesverlust seiner Börsengeschichte erlitten: Die Aktie fiel um rund 20 Prozent, zeitweise bis zu 24 Prozent, auf den tiefsten Stand seit über einem Jahr. Auslöser war eine drastisch gesenkte Jahresprognose: Statt 3,60 bis 3,80 Dollar bereinigtem Gewinn je Aktie erwartet Corteva für 2026 nur noch 76 bis 80 Cent. Im dritten Quartal lag der Umsatz mit 1,59 Milliarden Dollar deutlich unter den erwarteten 1,77 Milliarden. Grund ist vor allem Brasilien: Landwirte sind knapp bei Kasse, Kredite sind teuer und die Händlerlager voll, die Umsätze in Lateinamerika brachen um 31 Prozent ein. Der Konzernchef warnte, dass die Schwäche in Brasilien länger anhalten werde.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-12"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Haushalt 2027: Koalition einigt sich – Zuckersteuer verschoben, Plastiksteuer gestrichen, Stromsteuer bleibt offen",
-      "text": "Nach tagelangem Ringen haben sich Union und SPD am späten Mittwochabend auf mehrere Streitpunkte im Bundeshaushalt 2027 geeinigt. Vorgestellt wurde das Paket von Unionsfraktionschef Thorsten Frei, SPD-Fraktionschef Matthias Miersch und CSU-Landesgruppenchef Alexander Hoffmann. Die geplante Zuckersteuer auf stark gesüßte Getränke kommt erst Anfang 2028 statt Mitte 2027; die Union begründete das damit, dass Hersteller Zeit für neue Rezepturen brauchen. Die Plastiksteuer auf Kunststoffverpackungen kommt 2027 nicht, dem Bund fehlen dadurch rund 670 Millionen Euro an geplanten Einnahmen. Die geplante Kürzung beim Kinderzuschlag für Familien mit geringem Einkommen wird zurückgenommen; laut Berichten erhalten damit knapp drei Millionen armutsgefährdete Kinder weiter 25 Euro mehr im Monat. Keine Einigung gab es bei der von Kanzler Merz gewünschten Senkung der Stromsteuer für alle Haushalte und Unternehmen sowie beim Ausgleich der kalten Progression – Frei sagte, das sei 'bislang nicht gelungen', die Senkung solle aber später kommen, etwa Anfang 2028. Als Nächstes legt der Haushaltsausschuss in seiner sogenannten Bereinigungssitzung die endgültigen Zahlen fest, danach stimmt der Bundestag ab.",
-      "quelle": "Tagesspiegel",
+      "titel": "Bundestag erlaubt Behörden aktive Abwehr von Cyberangriffen – auch auf Server im Ausland",
+      "text": "Der Bundestag hat am Donnerstag das Gesetz zur Stärkung der Cybersicherheit beschlossen. Union und SPD stimmten dafür, AfD, Grüne und Linke dagegen. Erstmals dürfen Bundeskriminalamt und Bundespolizei bei Cyberangriffen aktiv eingreifen: Sie können Datenverkehr umleiten, angreifende IT-Systeme einschränken und Server auch im Ausland lahmlegen; als letztes Mittel dürfen sie auf die Systeme der Angreifer zugreifen und dort Daten auslesen, löschen oder verändern. Innenminister Alexander Dobrindt (CSU) betont, es handle sich nicht um einen klassischen Hackback, sondern ziele nur auf die Server, von denen Angriffe ausgehen. Kritiker aus der Opposition und Fachverbände bemängeln unklare Zuständigkeiten und fehlende Kontrolle. In einem Begleitbeschluss wird die Regierung aufgefordert, das Nationale Cyberabwehrzentrum zur zentralen Plattform auszubauen.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-12",
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Kabinett beschließt strategische Gasreserve – neue Gasumlage für Verbraucher ab 2027",
+      "text": "Das Bundeskabinett hat am Mittwoch einen Gesetzentwurf von Wirtschaftsministerin Katherina Reiche (CDU) für eine strategische Gasreserve beschlossen. Sie soll die bisherigen Füllstandsvorgaben für Gasspeicher aus der Zeit von Robert Habeck ablösen. Die Reserve darf nur genutzt werden, wenn die Notfallstufe beim Gas ausgerufen ist, etwa bei Sabotage – sie soll laut Reiche gegen Krisen absichern, nicht gegen hohe Preise. Finanziert wird sie über eine Umlage, die Gaskunden ab 2027 zahlen; die einmaligen Aufbaukosten werden auf 1,26 bis 1,81 Milliarden Euro geschätzt. Zusätzlich sollen Gasversorger zu Vorsorge für den Winter verpflichtet werden. Als Nächstes muss der Bundestag über den Entwurf beraten.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-11-11",
       "land": "Deutschland"
     },
     {
-      "titel": "Überraschung in Mississippi: Demokrat Scott Colom gewinnt Senatssitz – Demokraten bauen Mehrheit aus",
-      "text": "Der Demokrat Scott Colom hat die Senatswahl im US-Bundesstaat Mississippi gewonnen, wie die Nachrichtenagentur AP am Mittwoch nach über einer Woche Auszählung meldete. Er besiegte die republikanische Amtsinhaberin Cindy Hyde-Smith mit einem Vorsprung von rund 4.600 Stimmen; entscheidend waren nachgezählte Brief-, Abwesenheits- und Ersatzstimmzettel. Hyde-Smith räumte ihre Niederlage am Mittwochabend ein. Das Rennen galt vorab als sicher republikanisch – Colom wird nun voraussichtlich der erste schwarze Senator Mississippis seit der Zeit nach dem Bürgerkrieg. Laut CBS News ist es der achte Senatssitz, den die Demokraten bei der Wahl vom 3. November den Republikanern abgenommen haben; ihre Mehrheit im Senat wächst laut NBC News damit auf 55 Sitze. Offen ist noch das Rennen in Alaska, bei einem Sieg dort kämen die Demokraten auf 56 zu 44. Die neue Mehrheit übernimmt im Januar die Kontrolle im Kongress.",
-      "quelle": "Associated Press",
-      "datum_artikel": "2026-11-11",
+      "titel": "Trump gibt Senats-Republikanern Mitschuld an Wahlniederlage – fordert erneut Ende des Filibusters",
+      "text": "US-Präsident Donald Trump hat den Republikanern im Senat vorgeworfen, die Partei bei den Wahlen Anfang November wichtige Siege gekostet zu haben. Grund sei, dass sie sich weigerten, den Filibuster abzuschaffen – die Regel, nach der die meisten Gesetze 60 der 100 Stimmen im Senat brauchen. Trump will damit den SAVE America Act durchsetzen, der für alle Wähler einen Nachweis der Staatsbürgerschaft und einen Ausweis vorschreiben würde; er nannte das Scheitern des Gesetzes 'verheerend'. Mehrheitsführer John Thune lehnt eine Regeländerung weiter ab und sagt, dafür fehlten die Stimmen; die Senats-Republikaner hatten ihn erst kürzlich als Fraktionschef bestätigt. Da die Demokraten im Januar die Mehrheit im Kongress übernehmen, bleibt den Republikanern für das Vorhaben nur noch die laufende Sitzungsperiode.",
+      "quelle": "The Hill",
+      "datum_artikel": "2026-11-12",
       "land": "USA"
     }
   ]
