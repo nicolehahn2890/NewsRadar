@@ -1,77 +1,77 @@
 {
-  "datum": "Freitag, 13. November 2026",
-  "generiert": "2026-11-13",
+  "datum": "Samstag, 14. November 2026",
+  "generiert": "2026-11-14",
   "ki_stories": [
     {
-      "titel": "Google startet Gemini Decision 1 – ein Modell, das bis zu 1.000 Ja/Nein-Fragen auf einmal beantwortet",
-      "text": "Google DeepMind hat die neue Gemini Decisions API mit dem Modell Gemini Decision 1 freigeschaltet. Das Modell ist nicht zum Schreiben von Texten gedacht, sondern für geschlossene Entscheidungen: Ja/Nein-Fragen, Multiple-Choice oder Bewertungen nach festen Kriterien. Pro Anfrage kann es bis zu 1.000 Fragen zum selben Material beantworten, laut Google in etwa einer Viertelsekunde. Der Preis liegt bei 0,10 Dollar pro Million Eingabe-Token, Ausgaben kosten nichts – laut Google rund fünfmal billiger als Gemini 3.5 Flash-Lite. Einsatzzwecke sind etwa die Auswahl des richtigen Werkzeugs durch KI-Agenten, Regel-Prüfungen oder die Weiterleitung von Anfragen an das passende Modell; Google nutzt die Technik nach eigenen Angaben bereits intern. Entwickler können die API über Google AI Studio auch kostenlos testen; technische Details wie Modellgröße hat Google nicht veröffentlicht.",
+      "titel": "Google startet Gemini 4 Hydrogen – schnelles Modell für Programmieren und KI-Agenten",
+      "text": "Google hat Gemini 4 Hydrogen veröffentlicht, ein auf Tempo ausgelegtes Modell, das Gemini 3.8 Flash ablöst und vor allem für alltägliches Programmieren und Agenten-Aufgaben gedacht ist. Laut Google erledigt es Aufgaben in der Standardeinstellung etwa 2,5-mal so schnell wie der Vorgänger. Beim unabhängigen Intelligence Index von Artificial Analysis kommt Hydrogen auf 51 Punkte, Flash lag bei 31; einem Bericht zufolge schneidet es sogar besser ab als das größere Modell Gemini 4 Argon, das erst vier Wochen alt ist. Billiger ist es allerdings nicht: Über die Programmierschnittstelle (API) kostet es 1,50 Dollar pro Million Eingabe-Tokens und 7,50 Dollar pro Million Ausgabe-Tokens, etwa doppelt so viel wie der aktuelle Einführungspreis von Flash. Zusätzlich hat Google in seinem Entwickler-Werkzeug Antigravity einen 'Orchestrator' eingebaut: Das Spitzenmodell Carbon koordiniert, während mehrere Hydrogen-Agenten Teilaufgaben ausführen und prüfen. Hydrogen wird in der Gemini-App, in der Google-Suche, in AI Studio und für Geschäftskunden ausgerollt.",
       "quelle": "VentureBeat",
-      "datum_artikel": "2026-11-12"
+      "datum_artikel": "2026-11-13"
     },
     {
-      "titel": "Kehrtwende: OpenAI unterstützt nun Gesetze gegen KI-Chip-Lieferungen nach China",
-      "text": "OpenAI hat US-Abgeordneten in dieser Woche signalisiert, dass es ein überparteiliches Gesetzespaket unterstützt, das Chinas Zugang zu KI-Chips und Chip-Fertigungsanlagen einschränken soll. Das berichten Bloomberg und Punchbowl News unter Berufung auf Insider; genannt werden unter anderem der Chip Security Act, der MATCH Act und der AI OVERWATCH Act. Noch im Oktober hatte Politico berichtet, OpenAI habe aufgehört, sich für strengere Exportkontrollen starkzumachen – was als Zugeständnis an NVIDIA galt. Rivale Anthropic unterstützt die Gesetze schon länger. Der Rückenwind für die Vorhaben im Kongress wächst seit den Berichten über eine mutmaßliche chinesische Spionage-Affäre um NVIDIA-Chef Jensen Huang. Offen ist, wann die Gesetze zur Abstimmung kommen und ob sie an das Verteidigungsgesetz angehängt werden.",
+      "titel": "Reuters: China plant KI-Rechenzentren für 3,2 Milliarden Dollar mit gesperrten NVIDIA-Chips",
+      "text": "Die Nachrichtenagentur Reuters hat mehr als 150 chinesische Ausschreibungen, Investitionspläne, Verträge und Firmenmitteilungen ausgewertet. Ergebnis: Projekte und Ausrüstungsverträge im Wert von über 23 Milliarden Yuan (rund 3,2 Milliarden Dollar) sind rund um NVIDIA-Chips der Typen H100, H200 und H800 geplant oder gebaut, deren Export nach China die USA beschränken. Beispiele sind ein geplantes Rechenzentrum in der Provinz Fujian im Wert von 6,2 Milliarden Yuan (rund 873 Millionen Dollar) und ein Projekt eines Staatskonzerns in Shaanxi über 3 Milliarden Yuan. Wichtig: Die Summe umfasst das gesamte Projekt inklusive Gebäude und Strom, nicht nur die Chips – und die Dokumente belegen nicht, dass alle Chips tatsächlich beschafft oder Gesetze gebrochen wurden. Der Bericht kommt zu einem heiklen Zeitpunkt: NVIDIA steckt nach dem Rücktritt von Jensen Huang wegen seiner Verbindung zu einer mutmaßlichen chinesischen Spionin ohnehin in der Krise, und in Washington wächst der Druck für schärfere Chip-Exportgesetze.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-13"
+    },
+    {
+      "titel": "KI-Taskforce des Weißen Hauses: 12 Monate Haftungsschutz für Firmen, die Cyber-Vorfälle melden",
+      "text": "Die KI-Taskforce des Weißen Hauses hat bei ihrer Sitzung am Donnerstag den US-Behörden empfohlen, Unternehmen mindestens zwölf Monate lang von regulatorischer Haftung zu befreien, wenn sie KI-bezogene Sicherheitslücken und Cyber-Vorfälle in gutem Glauben melden. Die Frist soll je nach Risikolage verlängert werden können. Gleichzeitig soll ein freiwilliger Meldekanal entstehen: Die Regierung wertet die Meldungen aus und gibt Abwehr-Informationen an die Industrie zurück. Außerdem unterstützt die Taskforce eine langfristige Verlängerung des Cybersecurity Information Sharing Act von 2015, der beim Austausch von Bedrohungsdaten Haftungsschutz bietet und bald ausläuft. Die Empfehlung ist nicht bindend – sie greift nur, wenn die einzelnen Behörden sie umsetzen, und offen ist noch, welche Aufsichtsbehörden das wann tun. Hintergrund ist die Sorge, dass immer leistungsfähigere KI-Modelle für Hackerangriffe genutzt werden und Firmen Vorfälle aus Angst vor Strafen verschweigen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-12"
+      "datum_artikel": "2026-11-14"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Jensen Huang tritt als NVIDIA-Chef zurück – Finanzchefin Colette Kress übernimmt übergangsweise",
-      "text": "Nachdem am Mittwoch bekannt geworden war, dass der Aufsichtsrat über seine Absetzung berät, ist Jensen Huang am Donnerstag mit sofortiger Wirkung als Präsident und CEO von NVIDIA zurückgetreten und hat auch den Aufsichtsrat verlassen. Huang hatte das Unternehmen vor 33 Jahren mitgegründet. Interimschefin wird Finanzchefin Colette Kress, die ihren CFO-Posten behält, während der Aufsichtsrat interne und externe Kandidaten für die dauerhafte Nachfolge prüft. NVIDIA nannte offiziell keinen Grund; Hintergrund sind Berichte über außereheliche Affären Huangs und Ermittlungen, ob er Ziel einer ausländischen Geheimdienstoperation war. Die Aktie brach zum Handelsstart um mehr als 13 Prozent ein und schloss laut CNBC gut 4 Prozent im Minus. Präsident Trump nannte den Fall eine 'schreckliche Sache'.",
+      "titel": "Weltweiter Ausfall bei Microsoft 365: Outlook und Teams rund einen Tag gestört – Microsoft entschuldigt sich",
+      "text": "Eine der größten Störungen der vergangenen Jahre hat ab Donnerstagmittag (US-Ostküstenzeit) Outlook, Teams, Exchange Online, SharePoint und den KI-Assistenten Copilot von Microsoft weltweit lahmgelegt; der Ausfall zog sich bis in den Freitag hinein. Microsoft entschuldigte sich am Freitag mit den Worten, man bedauere es zutiefst ('deeply sorry'). Als Ursache nannte der Konzern einen Fehler aus einem früheren Ausbau der Netzwerkkapazität, der erst durch eine spätere Netzwerkänderung zum Vorschein kam – ausdrücklich keinen Cyberangriff und keine KI oder KI-Agenten. Die eigentliche Ursache sei behoben, Microsoft arbeite aber noch daran, aufgestaute E-Mails zuzustellen und den Datenverkehr neu zu verteilen. Ein ausführlicher Untersuchungsbericht ist angekündigt, einen Termin dafür gibt es noch nicht. Für Microsoft ist der Ausfall heikel, weil das Unternehmen Firmenkunden gerade verstärkt Copilot und KI-Agenten verkaufen will, die auf genau dieser Infrastruktur laufen.",
       "quelle": "CNBC",
-      "datum_artikel": "2026-11-12",
-      "unternehmen": "NVIDIA"
+      "datum_artikel": "2026-11-13",
+      "unternehmen": "Microsoft"
     },
     {
-      "titel": "Anthropic-Börsengang mehrfach überzeichnet – Banken prüfen höheren Ausgabepreis",
-      "text": "Für den Börsengang von Anthropic liegen nach Bloomberg-Informationen bereits ein Mehrfaches der angebotenen Aktien an Bestellungen vor, vor allem durch große Ankerinvestoren; andere Berichte sprechen von rund sechsfacher Überzeichnung. Anfang der Woche hatte Anthropic eine Preisspanne von 70 bis 78 Dollar für 825 Millionen Aktien festgelegt – neu ist nun, dass die Banken wegen der hohen Nachfrage einen Preis über dieser Spanne erwägen. Offiziell geändert ist die Spanne bisher nicht. Der Preis soll am 18. November festgelegt werden, der erste Handelstag an der Nasdaq (Kürzel ANT) ist für den 19. November geplant. Mit insgesamt bis zu rund 90 Milliarden Dollar wäre es der größte Börsengang der Geschichte; Privatanleger dürften bei dieser Nachfrage nur kleine oder gar keine Zuteilungen bekommen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-11",
-      "unternehmen": "Anthropic"
+      "titel": "Nscale braucht mehr Geld für 45-Milliarden-Deal mit Anthropic – Börsengang wackelt",
+      "text": "Der britische Rechenzentrumsbetreiber Nscale, an dem NVIDIA beteiligt ist, braucht laut einer neuen Pflichtmitteilung zusätzliches Kapital, um seine Verpflichtungen für 2027 zu erfüllen, berichtet die Financial Times. Hintergrund: Nscale hat für einen Vertrag über rund 45 Milliarden Dollar mit Anthropic – Anthropic mietet Rechenleistung in einem Rechenzentrum in West Virginia, das Ende 2027 starten soll – NVIDIA-Chips bestellt. Laut Börsenprospekt hat Nscale für die Finanzierung dieses Ausbaus keine verbindlichen Zusagen und rund 24 Milliarden Dollar an offenen Bestellungen für noch nicht gelieferte Ausrüstung; Ende Juni lagen nur 1,48 Milliarden Dollar in der Kasse, 2025 lag der Umsatz bei 33 Millionen Dollar. Damit steht der geplante Börsengang in New York infrage, bei dem Nscale eine Bewertung von 30 bis 35 Milliarden Dollar anstrebte. Der Fall zeigt ein wachsendes Risiko im KI-Boom: Riesige Rechenzentrums-Verträge stehen auf finanziell dünnem Fundament.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-11-13",
+      "unternehmen": "Nscale"
     },
     {
-      "titel": "Cisco mit Rekordquartal: Umsatz plus 24 Prozent, KI-Aufträge von 9 Milliarden Dollar",
-      "text": "Der Netzwerkausrüster Cisco hat im ersten Quartal seines Geschäftsjahres 2027 einen Rekordumsatz von 18,5 Milliarden Dollar erzielt, 24 Prozent mehr als vor einem Jahr. Der bereinigte Gewinn je Aktie stieg um 40 Prozent auf 1,40 Dollar und lag über den Analystenschätzungen von rund 1,33 Dollar. Treiber ist die Nachfrage nach Netzwerktechnik für KI-Rechenzentren: Cisco erwartet für das Geschäftsjahr KI-Infrastruktur-Aufträge von 9 Milliarden Dollar, mehr als doppelt so viel wie im Vorjahr; die Produktbestellungen insgesamt stiegen um 32 Prozent. Für das Gesamtjahr peilt Cisco nun 74,8 bis 75,8 Milliarden Dollar Umsatz an. Die Aktie gab nachbörslich trotzdem leicht um gut 1 Prozent nach, nachdem sie im regulären Handel um 1,2 Prozent auf 102 Dollar gestiegen war.",
-      "quelle": "Investing.com",
-      "datum_artikel": "2026-11-12",
-      "unternehmen": "Cisco"
+      "titel": "SpaceX baut Bild- und Video-KI Grok Imagine fast komplett ab – Fokus auf Programmier-Tools",
+      "text": "SpaceX, zu dem seit der Fusion im Februar auch Elon Musks KI-Firma xAI gehört, hat in der vergangenen Woche rund 60 Mitarbeiter des Teams hinter Grok Imagine entlassen, berichtet The Information unter Berufung auf Insider. Grok Imagine ist die Funktion des Chatbots Grok, die Bilder und Videos erzeugt. Nur eine Handvoll Beschäftigte soll bleiben, um das Produkt am Leben zu halten. Stattdessen setzt das Unternehmen Prioritäten auf KI-Werkzeuge zum Programmieren und auf den Grok Bot. Es ist nicht der erste Einschnitt: Schon nach der Fusion war ein Teil des Imagine-Teams gestrichen worden, und seit Februar haben mehr als 50 Forscher und Ingenieure die KI-Sparte verlassen. Der Schwenk zeigt, dass auch Musk sein Geld dorthin lenkt, wo Anbieter wie Anthropic und OpenAI derzeit die größten Umsätze machen: KI für Software-Entwicklung.",
+      "quelle": "The Information",
+      "datum_artikel": "2026-11-13",
+      "unternehmen": "SpaceX / xAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Zehnjährige US-Rendite springt über 5 Prozent – Anleger rechnen mit weiteren Fed-Zinserhöhungen",
-      "text": "Als der US-Anleihemarkt am Donnerstag nach dem Feiertag Veterans Day wieder öffnete, stieg die Rendite zehnjähriger Staatsanleihen um mehr als 12 Basispunkte auf rund 5,10 bis 5,13 Prozent. Es war die erste Gelegenheit für Anleihehändler, auf die überraschend hohen Inflationsdaten vom Dienstag zu reagieren; dazu kam ein steigender Ölpreis. Am Markt wird nun mit weiteren Zinserhöhungen der Fed gerechnet. Höhere Anleiherenditen verteuern Kredite und Hypotheken und machen Aktien im Vergleich weniger attraktiv. Die US-Börsen schlossen im Minus: der S&P 500 fiel um 0,35 Prozent auf 7.592 Punkte, die Nasdaq um 0,39 Prozent, die Nebenwerte im Russell 2000 sogar um 1,7 Prozent.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-12"
-    },
-    {
-      "titel": "Corteva-Aktie stürzt um rund 20 Prozent ab – Brasilien-Flaute halbiert die Prognose",
-      "text": "Der US-Agrarchemie- und Saatgutkonzern Corteva hat am Donnerstag den wohl größten Tagesverlust seiner Börsengeschichte erlitten: Die Aktie fiel um rund 20 Prozent, zeitweise bis zu 24 Prozent, auf den tiefsten Stand seit über einem Jahr. Auslöser war eine drastisch gesenkte Jahresprognose: Statt 3,60 bis 3,80 Dollar bereinigtem Gewinn je Aktie erwartet Corteva für 2026 nur noch 76 bis 80 Cent. Im dritten Quartal lag der Umsatz mit 1,59 Milliarden Dollar deutlich unter den erwarteten 1,77 Milliarden. Grund ist vor allem Brasilien: Landwirte sind knapp bei Kasse, Kredite sind teuer und die Händlerlager voll, die Umsätze in Lateinamerika brachen um 31 Prozent ein. Der Konzernchef warnte, dass die Schwäche in Brasilien länger anhalten werde.",
+      "titel": "Chip-Ausverkauf greift über: AMD verliert rund 10 Prozent, Broadcom fast 7 Prozent",
+      "text": "Nach dem Rücktritt von NVIDIA-Chef Jensen Huang am Donnerstag hat sich der Kursrutsch am Freitag auf die ganze Chipbranche ausgeweitet – das ist die neue Entwicklung gegenüber den Vortagen, als vor allem NVIDIA selbst fiel. AMD verlor laut Reuters rund 10 Prozent, Broadcom 6,7 Prozent, der Branchenindex Philadelphia Semiconductor gab um etwa 6 Prozent nach. NVIDIA selbst fiel um gut 2 Prozent, der Börsenwert rutschte unter 4 Billionen Dollar und die Aktie steuert auf die sechste Verlustwoche in Folge zu. Auch Cloud-Anbieter, die KI-Rechenleistung vermieten, standen unter Druck. Der Nasdaq schloss rund 0,9 Prozent tiefer, der S&P 500 gab etwa 0,4 Prozent nach, der Dow Jones legte leicht zu; über die ganze Woche liegen die Indizes dennoch im Plus. Zusätzlich drückten neue Erzeugerpreisdaten: Die Großhandelspreise stiegen im Oktober um 0,3 Prozent zum Vormonat, auf Jahressicht aber auf rund 6,5 Prozent – den höchsten Wert seit 2022. Nächste Woche stehen mit den NVIDIA-Quartalszahlen und dem Börsengang von Anthropic zwei große Tests für die KI-Aktien an.",
       "quelle": "Reuters",
-      "datum_artikel": "2026-11-12"
+      "datum_artikel": "2026-11-13"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Bundestag erlaubt Behörden aktive Abwehr von Cyberangriffen – auch auf Server im Ausland",
-      "text": "Der Bundestag hat am Donnerstag das Gesetz zur Stärkung der Cybersicherheit beschlossen. Union und SPD stimmten dafür, AfD, Grüne und Linke dagegen. Erstmals dürfen Bundeskriminalamt und Bundespolizei bei Cyberangriffen aktiv eingreifen: Sie können Datenverkehr umleiten, angreifende IT-Systeme einschränken und Server auch im Ausland lahmlegen; als letztes Mittel dürfen sie auf die Systeme der Angreifer zugreifen und dort Daten auslesen, löschen oder verändern. Innenminister Alexander Dobrindt (CSU) betont, es handle sich nicht um einen klassischen Hackback, sondern ziele nur auf die Server, von denen Angriffe ausgehen. Kritiker aus der Opposition und Fachverbände bemängeln unklare Zuständigkeiten und fehlende Kontrolle. In einem Begleitbeschluss wird die Regierung aufgefordert, das Nationale Cyberabwehrzentrum zur zentralen Plattform auszubauen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-12",
+      "titel": "Bundestag beschließt Geheimdienstreform – BND und Verfassungsschutz bekommen deutlich mehr Befugnisse",
+      "text": "Der Bundestag hat am Freitag die Reform des Nachrichtendienstrechts beschlossen, die Innenminister Alexander Dobrindt (CSU) eine 'Jahrhundertreform' nennt. 309 Abgeordnete stimmten dafür, 190 dagegen, 71 enthielten sich: Union und SPD votierten mit Ja, AfD und Linke mit Nein, die Grünen enthielten sich. Der Auslandsgeheimdienst BND erhält erstmals operative Befugnisse und darf zum Beispiel im Ausland Server staatlicher Hackergruppen lahmlegen. Der Verfassungsschutz darf unter bestimmten Bedingungen heimlich Wohnungen betreten und gegen Sprengstoff oder Waffen vorgehen; Festnahmen und offene Durchsuchungen bleiben aber der Polizei vorbehalten. Die Bundesregierung begründet die Reform mit Terrorgefahr und Hackerangriffen. Die Opposition wirft ihr vor, die Trennung von Polizei und Geheimdiensten aufzuweichen; die Linke spricht von einer neuen 'Geheimpolizei'. Zusätzlich hat der Bundestag angekündigt, mit einem eigenen Gesetz die parlamentarische Kontrolle der Dienste zu stärken. Die Reform ist von dem bereits am Donnerstag beschlossenen Cybersicherheitsgesetz für BKA und Bundespolizei zu unterscheiden.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-11-13",
       "land": "Deutschland"
     },
     {
-      "titel": "Kabinett beschließt strategische Gasreserve – neue Gasumlage für Verbraucher ab 2027",
-      "text": "Das Bundeskabinett hat am Mittwoch einen Gesetzentwurf von Wirtschaftsministerin Katherina Reiche (CDU) für eine strategische Gasreserve beschlossen. Sie soll die bisherigen Füllstandsvorgaben für Gasspeicher aus der Zeit von Robert Habeck ablösen. Die Reserve darf nur genutzt werden, wenn die Notfallstufe beim Gas ausgerufen ist, etwa bei Sabotage – sie soll laut Reiche gegen Krisen absichern, nicht gegen hohe Preise. Finanziert wird sie über eine Umlage, die Gaskunden ab 2027 zahlen; die einmaligen Aufbaukosten werden auf 1,26 bis 1,81 Milliarden Euro geschätzt. Zusätzlich sollen Gasversorger zu Vorsorge für den Winter verpflichtet werden. Als Nächstes muss der Bundestag über den Entwurf beraten.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-11",
-      "land": "Deutschland"
+      "titel": "Trump zieht Vance aus den Iran-Verhandlungen ab: 'Wir brauchen keinen Deal mit Iran'",
+      "text": "US-Präsident Donald Trump hat Vizepräsident JD Vance, der bisher die Iran-Verhandlungen geführt hatte, von dieser Aufgabe abgezogen. In einem Beitrag auf seiner Plattform Truth Social schrieb Trump am Donnerstag, Vance solle sich nun voll auf angebliche Korruption und Kriminalität in demokratisch regierten Städten und Bundesstaaten konzentrieren, und fügte hinzu: 'Wir brauchen keinen Deal mit Iran.' Vance hatte im April in Islamabad verhandelt und an der Absichtserklärung mit Iran vom Juni mitgewirkt. Gleichzeitig sagte Trump, neue Angriffe auf Iran seien derzeit 'ziemlich unwahrscheinlich'; auf Bitten der Golfstaaten halte er sich zurück. Wenige Stunden später behaupteten Irans Revolutionsgarden, ein US-Frühwarnradar in Bahrain zerstört zu haben – das US-Militär widersprach und erklärte, es habe zwei iranische Angriffsdrohnen abgeschossen, ohne Schäden oder Verletzte. Ob die Diplomatie damit beendet ist, ist offen: Einige Beobachter werten den Schritt als Ende der Gespräche, andere als Wechsel zu reinem wirtschaftlichem Druck, wie ihn Außenminister Marco Rubio und Finanzminister Scott Bessent bevorzugen sollen.",
+      "quelle": "Al Jazeera",
+      "datum_artikel": "2026-11-13",
+      "land": "USA"
     },
     {
-      "titel": "Trump gibt Senats-Republikanern Mitschuld an Wahlniederlage – fordert erneut Ende des Filibusters",
-      "text": "US-Präsident Donald Trump hat den Republikanern im Senat vorgeworfen, die Partei bei den Wahlen Anfang November wichtige Siege gekostet zu haben. Grund sei, dass sie sich weigerten, den Filibuster abzuschaffen – die Regel, nach der die meisten Gesetze 60 der 100 Stimmen im Senat brauchen. Trump will damit den SAVE America Act durchsetzen, der für alle Wähler einen Nachweis der Staatsbürgerschaft und einen Ausweis vorschreiben würde; er nannte das Scheitern des Gesetzes 'verheerend'. Mehrheitsführer John Thune lehnt eine Regeländerung weiter ab und sagt, dafür fehlten die Stimmen; die Senats-Republikaner hatten ihn erst kürzlich als Fraktionschef bestätigt. Da die Demokraten im Januar die Mehrheit im Kongress übernehmen, bleibt den Republikanern für das Vorhaben nur noch die laufende Sitzungsperiode.",
-      "quelle": "The Hill",
-      "datum_artikel": "2026-11-12",
+      "titel": "Weißes Haus bestätigt: Trump trifft nächste Woche Xi und Putin gemeinsam in China",
+      "text": "Das Weiße Haus hat bestätigt, dass US-Präsident Donald Trump nächste Woche nach Shenzhen in China reist, wo am 18. und 19. November der Gipfel der Asien-Pazifik-Wirtschaftsgemeinschaft APEC stattfindet. Geplant sind ein bilaterales Treffen mit Arbeitsessen mit Chinas Staatschef Xi Jinping am Donnerstag sowie ein Dreiertreffen mit Xi und Russlands Präsident Wladimir Putin – ein historisch seltenes Format. Trump will dabei nach eigenen Angaben unter anderem über die Verringerung von Atomwaffen sprechen; laut US-Regierungsvertretern soll auch Iran Thema sein, die Ukraine dagegen nicht. Ein konkretes Abkommen erwartet Washington nach Angaben von Regierungsvertretern nicht. Für Trump ist es das vierte Treffen mit Xi seit seiner Rückkehr ins Amt; zuvor hatte China Anfang November nur bestätigt, dass über ein solches Treffen gesprochen werde. Zum genauen Reiseablauf gibt es in den Berichten unterschiedliche Angaben.",
+      "quelle": "Japan Times",
+      "datum_artikel": "2026-11-14",
       "land": "USA"
     }
   ]
