@@ -1,76 +1,63 @@
 {
-  "datum": "Samstag, 14. November 2026",
-  "generiert": "2026-11-14",
+  "datum": "Sonntag, 15. November 2026",
+  "generiert": "2026-11-15",
   "ki_stories": [
     {
-      "titel": "Google startet Gemini 4 Hydrogen – schnelles Modell für Programmieren und KI-Agenten",
-      "text": "Google hat Gemini 4 Hydrogen veröffentlicht, ein auf Tempo ausgelegtes Modell, das Gemini 3.8 Flash ablöst und vor allem für alltägliches Programmieren und Agenten-Aufgaben gedacht ist. Laut Google erledigt es Aufgaben in der Standardeinstellung etwa 2,5-mal so schnell wie der Vorgänger. Beim unabhängigen Intelligence Index von Artificial Analysis kommt Hydrogen auf 51 Punkte, Flash lag bei 31; einem Bericht zufolge schneidet es sogar besser ab als das größere Modell Gemini 4 Argon, das erst vier Wochen alt ist. Billiger ist es allerdings nicht: Über die Programmierschnittstelle (API) kostet es 1,50 Dollar pro Million Eingabe-Tokens und 7,50 Dollar pro Million Ausgabe-Tokens, etwa doppelt so viel wie der aktuelle Einführungspreis von Flash. Zusätzlich hat Google in seinem Entwickler-Werkzeug Antigravity einen 'Orchestrator' eingebaut: Das Spitzenmodell Carbon koordiniert, während mehrere Hydrogen-Agenten Teilaufgaben ausführen und prüfen. Hydrogen wird in der Gemini-App, in der Google-Suche, in AI Studio und für Geschäftskunden ausgerollt.",
-      "quelle": "VentureBeat",
+      "titel": "OpenAI startet ChatGPT Wallet – KI-Agenten dürfen jetzt selbst einkaufen",
+      "text": "OpenAI hat am Freitag ChatGPT Wallet eingeführt, eine digitale Brieftasche, mit der die KI-Agenten von ChatGPT (genannt 'dots') Einkäufe im Namen der Nutzer erledigen können. Die Agenten helfen bei der Produktauswahl und schließen den Kauf anschließend selbst ab. Zum Start gibt es die Funktion nur für ChatGPT-Pro-Abonnenten in den USA ab 18 Jahren mit Karten von Amex, Mastercard oder Visa. Statt der echten Kartennummer werden Platzhalter-Codes (Tokens) genutzt, sodass die Agenten die Kartendaten nie sehen; jeder Kauf muss derzeit per Face ID oder Fingerabdruck bestätigt werden. Später sollen Nutzer Käufe innerhalb fester Grenzen wie Ausgabelimits vorab freigeben können, einen Termin dafür nennt OpenAI aber nicht. Hürden bleiben: Einige Händler sperren KI-Agenten, allen voran Amazon, das Kunden zu seinem eigenen Assistenten Alexa lenken will. OpenAI verlangt zunächst keine Provision auf die Umsätze.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-11-13"
-    },
-    {
-      "titel": "Reuters: China plant KI-Rechenzentren für 3,2 Milliarden Dollar mit gesperrten NVIDIA-Chips",
-      "text": "Die Nachrichtenagentur Reuters hat mehr als 150 chinesische Ausschreibungen, Investitionspläne, Verträge und Firmenmitteilungen ausgewertet. Ergebnis: Projekte und Ausrüstungsverträge im Wert von über 23 Milliarden Yuan (rund 3,2 Milliarden Dollar) sind rund um NVIDIA-Chips der Typen H100, H200 und H800 geplant oder gebaut, deren Export nach China die USA beschränken. Beispiele sind ein geplantes Rechenzentrum in der Provinz Fujian im Wert von 6,2 Milliarden Yuan (rund 873 Millionen Dollar) und ein Projekt eines Staatskonzerns in Shaanxi über 3 Milliarden Yuan. Wichtig: Die Summe umfasst das gesamte Projekt inklusive Gebäude und Strom, nicht nur die Chips – und die Dokumente belegen nicht, dass alle Chips tatsächlich beschafft oder Gesetze gebrochen wurden. Der Bericht kommt zu einem heiklen Zeitpunkt: NVIDIA steckt nach dem Rücktritt von Jensen Huang wegen seiner Verbindung zu einer mutmaßlichen chinesischen Spionin ohnehin in der Krise, und in Washington wächst der Druck für schärfere Chip-Exportgesetze.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-13"
-    },
-    {
-      "titel": "KI-Taskforce des Weißen Hauses: 12 Monate Haftungsschutz für Firmen, die Cyber-Vorfälle melden",
-      "text": "Die KI-Taskforce des Weißen Hauses hat bei ihrer Sitzung am Donnerstag den US-Behörden empfohlen, Unternehmen mindestens zwölf Monate lang von regulatorischer Haftung zu befreien, wenn sie KI-bezogene Sicherheitslücken und Cyber-Vorfälle in gutem Glauben melden. Die Frist soll je nach Risikolage verlängert werden können. Gleichzeitig soll ein freiwilliger Meldekanal entstehen: Die Regierung wertet die Meldungen aus und gibt Abwehr-Informationen an die Industrie zurück. Außerdem unterstützt die Taskforce eine langfristige Verlängerung des Cybersecurity Information Sharing Act von 2015, der beim Austausch von Bedrohungsdaten Haftungsschutz bietet und bald ausläuft. Die Empfehlung ist nicht bindend – sie greift nur, wenn die einzelnen Behörden sie umsetzen, und offen ist noch, welche Aufsichtsbehörden das wann tun. Hintergrund ist die Sorge, dass immer leistungsfähigere KI-Modelle für Hackerangriffe genutzt werden und Firmen Vorfälle aus Angst vor Strafen verschweigen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-14"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "Weltweiter Ausfall bei Microsoft 365: Outlook und Teams rund einen Tag gestört – Microsoft entschuldigt sich",
-      "text": "Eine der größten Störungen der vergangenen Jahre hat ab Donnerstagmittag (US-Ostküstenzeit) Outlook, Teams, Exchange Online, SharePoint und den KI-Assistenten Copilot von Microsoft weltweit lahmgelegt; der Ausfall zog sich bis in den Freitag hinein. Microsoft entschuldigte sich am Freitag mit den Worten, man bedauere es zutiefst ('deeply sorry'). Als Ursache nannte der Konzern einen Fehler aus einem früheren Ausbau der Netzwerkkapazität, der erst durch eine spätere Netzwerkänderung zum Vorschein kam – ausdrücklich keinen Cyberangriff und keine KI oder KI-Agenten. Die eigentliche Ursache sei behoben, Microsoft arbeite aber noch daran, aufgestaute E-Mails zuzustellen und den Datenverkehr neu zu verteilen. Ein ausführlicher Untersuchungsbericht ist angekündigt, einen Termin dafür gibt es noch nicht. Für Microsoft ist der Ausfall heikel, weil das Unternehmen Firmenkunden gerade verstärkt Copilot und KI-Agenten verkaufen will, die auf genau dieser Infrastruktur laufen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-13",
-      "unternehmen": "Microsoft"
-    },
-    {
-      "titel": "Nscale braucht mehr Geld für 45-Milliarden-Deal mit Anthropic – Börsengang wackelt",
-      "text": "Der britische Rechenzentrumsbetreiber Nscale, an dem NVIDIA beteiligt ist, braucht laut einer neuen Pflichtmitteilung zusätzliches Kapital, um seine Verpflichtungen für 2027 zu erfüllen, berichtet die Financial Times. Hintergrund: Nscale hat für einen Vertrag über rund 45 Milliarden Dollar mit Anthropic – Anthropic mietet Rechenleistung in einem Rechenzentrum in West Virginia, das Ende 2027 starten soll – NVIDIA-Chips bestellt. Laut Börsenprospekt hat Nscale für die Finanzierung dieses Ausbaus keine verbindlichen Zusagen und rund 24 Milliarden Dollar an offenen Bestellungen für noch nicht gelieferte Ausrüstung; Ende Juni lagen nur 1,48 Milliarden Dollar in der Kasse, 2025 lag der Umsatz bei 33 Millionen Dollar. Damit steht der geplante Börsengang in New York infrage, bei dem Nscale eine Bewertung von 30 bis 35 Milliarden Dollar anstrebte. Der Fall zeigt ein wachsendes Risiko im KI-Boom: Riesige Rechenzentrums-Verträge stehen auf finanziell dünnem Fundament.",
+      "titel": "NVIDIA-Nachfolge: Aufsichtsrat soll Arm-Chef Rene Haas angesprochen haben",
+      "text": "Einen Tag nach dem Rücktritt von Jensen Huang hat der NVIDIA-Aufsichtsrat laut Financial Times den Chef des Chipdesigners Arm, Rene Haas, als möglichen neuen Konzernchef angesprochen. Haas arbeitete sieben Jahre bei NVIDIA, bevor er 2013 zu Arm wechselte, und hat laut FT weiter gute Kontakte zu Huang und einigen Aufsichtsräten; er sei aber nur einer von mehreren Kandidaten. NVIDIA widersprach teilweise: Die Suche sei in einem frühen Stadium, man wähle gerade erst eine Personalberatung aus und habe noch keinen Kandidaten formell kontaktiert. Laut Wired fordern zugleich mehr als 1.600 Kommentare in einem internen Mitarbeiterforum, Huang zurückzuholen. Neu ist auch politischer Druck: Der Vorsitzende des Banken-Ausschusses im US-Senat, Tim Scott, verlangt, dass Huang und Handelsminister Howard Lutnick im Dezember zu den Sicherheitsbedenken rund um NVIDIA aussagen – sonst drohen Vorladungen. Übergangschefin bleibt Finanzchefin Colette Kress; am 17. November legt NVIDIA Quartalszahlen vor.",
       "quelle": "Financial Times",
       "datum_artikel": "2026-11-13",
-      "unternehmen": "Nscale"
+      "unternehmen": "NVIDIA"
     },
     {
-      "titel": "SpaceX baut Bild- und Video-KI Grok Imagine fast komplett ab – Fokus auf Programmier-Tools",
-      "text": "SpaceX, zu dem seit der Fusion im Februar auch Elon Musks KI-Firma xAI gehört, hat in der vergangenen Woche rund 60 Mitarbeiter des Teams hinter Grok Imagine entlassen, berichtet The Information unter Berufung auf Insider. Grok Imagine ist die Funktion des Chatbots Grok, die Bilder und Videos erzeugt. Nur eine Handvoll Beschäftigte soll bleiben, um das Produkt am Leben zu halten. Stattdessen setzt das Unternehmen Prioritäten auf KI-Werkzeuge zum Programmieren und auf den Grok Bot. Es ist nicht der erste Einschnitt: Schon nach der Fusion war ein Teil des Imagine-Teams gestrichen worden, und seit Februar haben mehr als 50 Forscher und Ingenieure die KI-Sparte verlassen. Der Schwenk zeigt, dass auch Musk sein Geld dorthin lenkt, wo Anbieter wie Anthropic und OpenAI derzeit die größten Umsätze machen: KI für Software-Entwicklung.",
-      "quelle": "The Information",
+      "titel": "OpenAI löst eigenes Robotik-Team auf – die großen Modelle sollen Roboter steuern",
+      "text": "OpenAI hat sein eigenständiges Robotik-Team aufgelöst und die Mitarbeiter auf andere Bereiche verteilt, wie ein Sprecher dem Magazin Fortune am Freitag bestätigte. Die Robotik-Forschung wandert unter Forschungschef Mark Chen, die angewandte Robotik und die Hardware-Arbeit in die Produktsparte von Präsident Greg Brockman. Begründung von OpenAI: Die allgemeinen Spitzenmodelle wie GPT-6 Astra könnten Robotik-Aufgaben inzwischen selbst übernehmen, ein eigenes Team sei dafür nicht mehr nötig. Das Unternehmen betont, Robotik bleibe ein zentraler Teil der langfristigen Strategie, der Umbau solle den Fortschritt beschleunigen. OpenAI hatte schon 2020 ein früheres Robotik-Team eingestellt und erst 2024 ein neues aufgebaut, unter anderem in Partnerschaft mit dem Humanoiden-Startup Figure.",
+      "quelle": "Fortune",
       "datum_artikel": "2026-11-13",
-      "unternehmen": "SpaceX / xAI"
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Chip-Ausverkauf greift über: AMD verliert rund 10 Prozent, Broadcom fast 7 Prozent",
-      "text": "Nach dem Rücktritt von NVIDIA-Chef Jensen Huang am Donnerstag hat sich der Kursrutsch am Freitag auf die ganze Chipbranche ausgeweitet – das ist die neue Entwicklung gegenüber den Vortagen, als vor allem NVIDIA selbst fiel. AMD verlor laut Reuters rund 10 Prozent, Broadcom 6,7 Prozent, der Branchenindex Philadelphia Semiconductor gab um etwa 6 Prozent nach. NVIDIA selbst fiel um gut 2 Prozent, der Börsenwert rutschte unter 4 Billionen Dollar und die Aktie steuert auf die sechste Verlustwoche in Folge zu. Auch Cloud-Anbieter, die KI-Rechenleistung vermieten, standen unter Druck. Der Nasdaq schloss rund 0,9 Prozent tiefer, der S&P 500 gab etwa 0,4 Prozent nach, der Dow Jones legte leicht zu; über die ganze Woche liegen die Indizes dennoch im Plus. Zusätzlich drückten neue Erzeugerpreisdaten: Die Großhandelspreise stiegen im Oktober um 0,3 Prozent zum Vormonat, auf Jahressicht aber auf rund 6,5 Prozent – den höchsten Wert seit 2022. Nächste Woche stehen mit den NVIDIA-Quartalszahlen und dem Börsengang von Anthropic zwei große Tests für die KI-Aktien an.",
+      "titel": "US-Notenbank warnt: KI-Euphorie ist größtes Risiko für die Finanzstabilität",
+      "text": "Die US-Notenbank Fed hat am Freitag ihren halbjährlichen Finanzstabilitätsbericht vorgelegt und darin künstliche Intelligenz als zentrale Gefahr für die Märkte benannt. Die Aktienbewertungen seien weiter hoch, unter anderem wegen der Begeisterung der Anleger für 'Superintelligenz'; den Druck bei den Bewertungen stuft die Fed als erhöht ein. Laut Berichten nannten 87 Prozent der befragten Marktteilnehmer KI als größtes Risiko, nach 50 Prozent im Frühjahr. Sorgen macht der Fed auch die schnell wachsende Verschuldung für Rechenzentren, die laut Berichten bereits über 680 Milliarden Dollar liegt. Ein unerwarteter Gewinneinbruch bei Unternehmen könnte Kurse drücken, Kredite verteuern und die Investitionen bremsen. Der Bericht kommt in einer Woche, in der die Chipwerte nach dem NVIDIA-Beben stark unter Druck standen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-13"
+    },
+    {
+      "titel": "Cerebras-Aktie springt zweistellig – Microsoft wird Kunde, Prognose angehoben",
+      "text": "Die Aktie des KI-Chipherstellers Cerebras (CBRS) ist am Freitag zeitweise um mehr als 14 Prozent gestiegen und schloss rund 11 Prozent höher – entgegen dem Trend bei Chipwerten, die nach dem NVIDIA-Chefwechsel schwach waren. Auslöser waren die Quartalszahlen: Der Umsatz stieg um 55 Prozent auf 210,8 Millionen Dollar, bei einem Verlust von 161,2 Millionen Dollar. Zudem gab Cerebras bekannt, dass Microsoft im Oktober einen Cloud-Vertrag unterschrieben hat – nach AWS und Oracle der dritte große Cloud-Anbieter als Kunde; Details sollen erst nächstes Jahr folgen. Die Umsatzprognose für 2026 hob das Unternehmen auf 940 bis 960 Millionen Dollar an (zuvor 880 bis 890 Millionen), 2027 soll sich der Umsatz verdreifachen. Trotz des Sprungs liegt die Aktie noch weit unter dem Ausgabepreis von 185 Dollar beim Börsengang im Mai.",
       "quelle": "Reuters",
       "datum_artikel": "2026-11-13"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Bundestag beschließt Geheimdienstreform – BND und Verfassungsschutz bekommen deutlich mehr Befugnisse",
-      "text": "Der Bundestag hat am Freitag die Reform des Nachrichtendienstrechts beschlossen, die Innenminister Alexander Dobrindt (CSU) eine 'Jahrhundertreform' nennt. 309 Abgeordnete stimmten dafür, 190 dagegen, 71 enthielten sich: Union und SPD votierten mit Ja, AfD und Linke mit Nein, die Grünen enthielten sich. Der Auslandsgeheimdienst BND erhält erstmals operative Befugnisse und darf zum Beispiel im Ausland Server staatlicher Hackergruppen lahmlegen. Der Verfassungsschutz darf unter bestimmten Bedingungen heimlich Wohnungen betreten und gegen Sprengstoff oder Waffen vorgehen; Festnahmen und offene Durchsuchungen bleiben aber der Polizei vorbehalten. Die Bundesregierung begründet die Reform mit Terrorgefahr und Hackerangriffen. Die Opposition wirft ihr vor, die Trennung von Polizei und Geheimdiensten aufzuweichen; die Linke spricht von einer neuen 'Geheimpolizei'. Zusätzlich hat der Bundestag angekündigt, mit einem eigenen Gesetz die parlamentarische Kontrolle der Dienste zu stärken. Die Reform ist von dem bereits am Donnerstag beschlossenen Cybersicherheitsgesetz für BKA und Bundespolizei zu unterscheiden.",
-      "quelle": "Handelsblatt",
+      "titel": "Bundeshaushalt 2027 steht: Haushaltsausschuss stimmt nach Nachtsitzung zu",
+      "text": "Der Haushaltsausschuss des Bundestags hat in der Nacht zu Freitag den Bundeshaushalt 2027 beschlossen. Nach der sogenannten Bereinigungssitzung, in der über rund 2.000 Änderungsanträge abgestimmt wurde und die erst gegen 6 Uhr morgens endete, stimmten CDU/CSU und SPD dafür, AfD, Grüne und Linke dagegen. Der Etat sieht Ausgaben von rund 555 Milliarden Euro vor; im Kernhaushalt sind knapp 119 Milliarden Euro neue Kredite eingeplant, vor allem wegen der Verteidigungsausgaben. Gekürzt wird unter anderem das Programm 'Demokratie leben': Das Budget sinkt um rund 20 Millionen auf etwa 170 Millionen Euro, statt bisher rund 600 sollen nur noch 150 Projekte gefördert werden – Kritiker wie die Amadeu Antonio Stiftung warnen vor einem Rückbau vor allem in Ostdeutschland. Weiter offen ist die von der CDU geforderte Senkung der Stromsteuer, die im Etat nicht finanziert ist; SPD-Fraktionschef Matthias Miersch sieht vor dem Koalitionsausschuss am Dienstag aber 'Bewegung' bei der Union. Der Bundestag berät den Haushalt ab dem 24. November abschließend.",
+      "quelle": "ZDF heute",
       "datum_artikel": "2026-11-13",
       "land": "Deutschland"
     },
     {
-      "titel": "Trump zieht Vance aus den Iran-Verhandlungen ab: 'Wir brauchen keinen Deal mit Iran'",
-      "text": "US-Präsident Donald Trump hat Vizepräsident JD Vance, der bisher die Iran-Verhandlungen geführt hatte, von dieser Aufgabe abgezogen. In einem Beitrag auf seiner Plattform Truth Social schrieb Trump am Donnerstag, Vance solle sich nun voll auf angebliche Korruption und Kriminalität in demokratisch regierten Städten und Bundesstaaten konzentrieren, und fügte hinzu: 'Wir brauchen keinen Deal mit Iran.' Vance hatte im April in Islamabad verhandelt und an der Absichtserklärung mit Iran vom Juni mitgewirkt. Gleichzeitig sagte Trump, neue Angriffe auf Iran seien derzeit 'ziemlich unwahrscheinlich'; auf Bitten der Golfstaaten halte er sich zurück. Wenige Stunden später behaupteten Irans Revolutionsgarden, ein US-Frühwarnradar in Bahrain zerstört zu haben – das US-Militär widersprach und erklärte, es habe zwei iranische Angriffsdrohnen abgeschossen, ohne Schäden oder Verletzte. Ob die Diplomatie damit beendet ist, ist offen: Einige Beobachter werten den Schritt als Ende der Gespräche, andere als Wechsel zu reinem wirtschaftlichem Druck, wie ihn Außenminister Marco Rubio und Finanzminister Scott Bessent bevorzugen sollen.",
-      "quelle": "Al Jazeera",
-      "datum_artikel": "2026-11-13",
+      "titel": "Supreme Court prüft Trumps Asyl-Stopp an der Grenze zu Mexiko",
+      "text": "Der Oberste Gerichtshof der USA hat am Freitag angekündigt, über die Rechtmäßigkeit von Trumps Asyl-Beschränkungen an der Südgrenze zu entscheiden. Es geht um eine Anordnung vom ersten Tag seiner zweiten Amtszeit, die eine 'Invasion' an der Grenze erklärte und illegal eingereisten Migranten das Recht auf einen Asylantrag nimmt. Ein Bundesrichter und ein Berufungsgericht hatten die Regelung für unzulässig erklärt, sie bleibt aber in Kraft, solange das Verfahren läuft. Die mündliche Verhandlung ist für den 9. Dezember angesetzt, ein Urteil wird bis Juni oder Juli 2027 erwartet. Zusätzlich bittet die Regierung den Supreme Court in einem anderen Verfahren, die Macht von Bundesrichtern weiter zu beschneiden: Sie sollen Behördenentscheidungen nicht mehr landesweit aufheben dürfen. Ob das Gericht diesen Fall annimmt, soll Anfang nächsten Jahres entschieden werden.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-14",
       "land": "USA"
     },
     {
-      "titel": "Weißes Haus bestätigt: Trump trifft nächste Woche Xi und Putin gemeinsam in China",
-      "text": "Das Weiße Haus hat bestätigt, dass US-Präsident Donald Trump nächste Woche nach Shenzhen in China reist, wo am 18. und 19. November der Gipfel der Asien-Pazifik-Wirtschaftsgemeinschaft APEC stattfindet. Geplant sind ein bilaterales Treffen mit Arbeitsessen mit Chinas Staatschef Xi Jinping am Donnerstag sowie ein Dreiertreffen mit Xi und Russlands Präsident Wladimir Putin – ein historisch seltenes Format. Trump will dabei nach eigenen Angaben unter anderem über die Verringerung von Atomwaffen sprechen; laut US-Regierungsvertretern soll auch Iran Thema sein, die Ukraine dagegen nicht. Ein konkretes Abkommen erwartet Washington nach Angaben von Regierungsvertretern nicht. Für Trump ist es das vierte Treffen mit Xi seit seiner Rückkehr ins Amt; zuvor hatte China Anfang November nur bestätigt, dass über ein solches Treffen gesprochen werde. Zum genauen Reiseablauf gibt es in den Berichten unterschiedliche Angaben.",
-      "quelle": "Japan Times",
+      "titel": "Landesweiter Flugstopp in den USA – Verkehrsminister macht veraltete Technik verantwortlich",
+      "text": "Die US-Flugaufsicht FAA hat am Freitagnachmittag für rund vier Stunden alle Flüge im Land am Boden gehalten, nachdem die Kommunikation in allen 22 Flugsicherungszentren ausgefallen war. Verkehrsminister Sean Duffy führte den Ausfall auf veraltete Kommunikationstechnik zurück, deren Router mit Daten überlastet waren; zuvor hatte der Dienstleister L3Harris an dem System im Zuge einer Umstellung von Kupfer- auf Glasfaserleitungen gearbeitet. Ob ein Fehler des Dienstleisters oder defekte Geräte schuld waren, ist laut Duffy noch unklar. Heimatschutzminister Markwayne Mullin sagte, es gebe keine Hinweise auf einen Cyberangriff. Spekulationen über das neue KI-Verkehrssystem SMART, das erst am 10. November in allen Zentren eingeführt worden war, wiesen Duffy und der Hersteller zurück. Duffy nannte die Lage einen Notfall und forderte vom Kongress mehr Geld für die Modernisierung der Flugsicherung.",
+      "quelle": "CNBC",
       "datum_artikel": "2026-11-14",
       "land": "USA"
     }
