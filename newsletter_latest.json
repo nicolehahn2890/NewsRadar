@@ -1,65 +1,45 @@
 {
-  "datum": "Sonntag, 15. November 2026",
-  "generiert": "2026-11-15",
-  "ki_stories": [
-    {
-      "titel": "OpenAI startet ChatGPT Wallet – KI-Agenten dürfen jetzt selbst einkaufen",
-      "text": "OpenAI hat am Freitag ChatGPT Wallet eingeführt, eine digitale Brieftasche, mit der die KI-Agenten von ChatGPT (genannt 'dots') Einkäufe im Namen der Nutzer erledigen können. Die Agenten helfen bei der Produktauswahl und schließen den Kauf anschließend selbst ab. Zum Start gibt es die Funktion nur für ChatGPT-Pro-Abonnenten in den USA ab 18 Jahren mit Karten von Amex, Mastercard oder Visa. Statt der echten Kartennummer werden Platzhalter-Codes (Tokens) genutzt, sodass die Agenten die Kartendaten nie sehen; jeder Kauf muss derzeit per Face ID oder Fingerabdruck bestätigt werden. Später sollen Nutzer Käufe innerhalb fester Grenzen wie Ausgabelimits vorab freigeben können, einen Termin dafür nennt OpenAI aber nicht. Hürden bleiben: Einige Händler sperren KI-Agenten, allen voran Amazon, das Kunden zu seinem eigenen Assistenten Alexa lenken will. OpenAI verlangt zunächst keine Provision auf die Umsätze.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-13"
-    }
-  ],
+  "datum": "Montag, 16. November 2026",
+  "generiert": "2026-11-16",
+  "ki_stories": [],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA-Nachfolge: Aufsichtsrat soll Arm-Chef Rene Haas angesprochen haben",
-      "text": "Einen Tag nach dem Rücktritt von Jensen Huang hat der NVIDIA-Aufsichtsrat laut Financial Times den Chef des Chipdesigners Arm, Rene Haas, als möglichen neuen Konzernchef angesprochen. Haas arbeitete sieben Jahre bei NVIDIA, bevor er 2013 zu Arm wechselte, und hat laut FT weiter gute Kontakte zu Huang und einigen Aufsichtsräten; er sei aber nur einer von mehreren Kandidaten. NVIDIA widersprach teilweise: Die Suche sei in einem frühen Stadium, man wähle gerade erst eine Personalberatung aus und habe noch keinen Kandidaten formell kontaktiert. Laut Wired fordern zugleich mehr als 1.600 Kommentare in einem internen Mitarbeiterforum, Huang zurückzuholen. Neu ist auch politischer Druck: Der Vorsitzende des Banken-Ausschusses im US-Senat, Tim Scott, verlangt, dass Huang und Handelsminister Howard Lutnick im Dezember zu den Sicherheitsbedenken rund um NVIDIA aussagen – sonst drohen Vorladungen. Übergangschefin bleibt Finanzchefin Colette Kress; am 17. November legt NVIDIA Quartalszahlen vor.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-11-13",
+      "titel": "NVIDIA: US-Finanzminister Bessent fordert radikalen Umbau – Huang denkt laut FT über Rückkehr nach",
+      "text": "Nachdem am Freitag bekannt wurde, dass der NVIDIA-Aufsichtsrat Arm-Chef Rene Haas als möglichen Nachfolger angesprochen hat, erhöht nun die US-Regierung den Druck. Finanzminister Scott Bessent sagte am Sonntag, NVIDIA brauche eine 'dramatische Neuaufstellung' und solle einen Chef von außerhalb holen. Wäre NVIDIA eine Bank, würden nach seinen Worten viele Manager wegen der mangelhaften Kontrolle von Chip-Exporten entfernt; Aufsichtsrat und externe Anwälte sollen binnen zehn Tagen Antworten liefern, ob der Konzern wusste, an wen er verkauft (Stichwort: der mutmaßlich chinesische Zwischenhändler Megaspeed). Gleichzeitig berichtet die Financial Times, dass Ex-Chef Jensen Huang mit Vertrauten über eine Rückkehr spricht und eine Gruppe von Silicon-Valley-Managern dafür werben will, auch beim Weißen Haus. Der Aufsichtsrat hat nach eigenen Angaben noch keine Personalberatung beauftragt und keine Kandidaten formell angesprochen; Finanzchefin Colette Kress führt den Konzern übergangsweise. Am Dienstag, 17. November, legt NVIDIA die ersten Quartalszahlen ohne Huang vor – Analysten erwarten rund 109 Milliarden Dollar Umsatz.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-15",
       "unternehmen": "NVIDIA"
-    },
-    {
-      "titel": "OpenAI löst eigenes Robotik-Team auf – die großen Modelle sollen Roboter steuern",
-      "text": "OpenAI hat sein eigenständiges Robotik-Team aufgelöst und die Mitarbeiter auf andere Bereiche verteilt, wie ein Sprecher dem Magazin Fortune am Freitag bestätigte. Die Robotik-Forschung wandert unter Forschungschef Mark Chen, die angewandte Robotik und die Hardware-Arbeit in die Produktsparte von Präsident Greg Brockman. Begründung von OpenAI: Die allgemeinen Spitzenmodelle wie GPT-6 Astra könnten Robotik-Aufgaben inzwischen selbst übernehmen, ein eigenes Team sei dafür nicht mehr nötig. Das Unternehmen betont, Robotik bleibe ein zentraler Teil der langfristigen Strategie, der Umbau solle den Fortschritt beschleunigen. OpenAI hatte schon 2020 ein früheres Robotik-Team eingestellt und erst 2024 ein neues aufgebaut, unter anderem in Partnerschaft mit dem Humanoiden-Startup Figure.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-11-13",
-      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "US-Notenbank warnt: KI-Euphorie ist größtes Risiko für die Finanzstabilität",
-      "text": "Die US-Notenbank Fed hat am Freitag ihren halbjährlichen Finanzstabilitätsbericht vorgelegt und darin künstliche Intelligenz als zentrale Gefahr für die Märkte benannt. Die Aktienbewertungen seien weiter hoch, unter anderem wegen der Begeisterung der Anleger für 'Superintelligenz'; den Druck bei den Bewertungen stuft die Fed als erhöht ein. Laut Berichten nannten 87 Prozent der befragten Marktteilnehmer KI als größtes Risiko, nach 50 Prozent im Frühjahr. Sorgen macht der Fed auch die schnell wachsende Verschuldung für Rechenzentren, die laut Berichten bereits über 680 Milliarden Dollar liegt. Ein unerwarteter Gewinneinbruch bei Unternehmen könnte Kurse drücken, Kredite verteuern und die Investitionen bremsen. Der Bericht kommt in einer Woche, in der die Chipwerte nach dem NVIDIA-Beben stark unter Druck standen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-13"
-    },
-    {
-      "titel": "Cerebras-Aktie springt zweistellig – Microsoft wird Kunde, Prognose angehoben",
-      "text": "Die Aktie des KI-Chipherstellers Cerebras (CBRS) ist am Freitag zeitweise um mehr als 14 Prozent gestiegen und schloss rund 11 Prozent höher – entgegen dem Trend bei Chipwerten, die nach dem NVIDIA-Chefwechsel schwach waren. Auslöser waren die Quartalszahlen: Der Umsatz stieg um 55 Prozent auf 210,8 Millionen Dollar, bei einem Verlust von 161,2 Millionen Dollar. Zudem gab Cerebras bekannt, dass Microsoft im Oktober einen Cloud-Vertrag unterschrieben hat – nach AWS und Oracle der dritte große Cloud-Anbieter als Kunde; Details sollen erst nächstes Jahr folgen. Die Umsatzprognose für 2026 hob das Unternehmen auf 940 bis 960 Millionen Dollar an (zuvor 880 bis 890 Millionen), 2027 soll sich der Umsatz verdreifachen. Trotz des Sprungs liegt die Aktie noch weit unter dem Ausgabepreis von 185 Dollar beim Börsengang im Mai.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-13"
+      "titel": "Japans Wirtschaft schrumpft überraschend – Nikkei startet mit Verlusten in die Woche",
+      "text": "Japans Wirtschaftsleistung ist im dritten Quartal (Juli bis September) nach einer ersten Schätzung der Regierung aufs Jahr hochgerechnet um 0,1 Prozent gesunken – Ökonomen hatten ein Plus von 0,3 Prozent erwartet. Es ist der erste Rückgang seit vier Quartalen; das Vorquartal wurde auf plus 1,7 Prozent nach oben korrigiert. Hauptgründe: Der private Konsum fiel um 0,3 Prozent, weil die Inflation die Haushalte belastet, und die Importe stiegen um 2,5 Prozent. Unternehmensinvestitionen legten dagegen mit 1,6 Prozent stärker zu als erwartet. Der Nikkei 225 eröffnete am Montag je nach Zeitpunkt zwischen 0,6 und 1,5 Prozent im Minus, auch Südkoreas Kospi gab nach. Der Yen notierte bei rund 159,80 je Dollar; Regierungsvertreter warnten erneut vor spekulativen Bewegungen, was als Hinweis auf mögliche Stützungskäufe gilt. Trotz der Schwäche rechnen viele Ökonomen weiter mit einer Zinserhöhung der Bank of Japan im Dezember.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-16"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Bundeshaushalt 2027 steht: Haushaltsausschuss stimmt nach Nachtsitzung zu",
-      "text": "Der Haushaltsausschuss des Bundestags hat in der Nacht zu Freitag den Bundeshaushalt 2027 beschlossen. Nach der sogenannten Bereinigungssitzung, in der über rund 2.000 Änderungsanträge abgestimmt wurde und die erst gegen 6 Uhr morgens endete, stimmten CDU/CSU und SPD dafür, AfD, Grüne und Linke dagegen. Der Etat sieht Ausgaben von rund 555 Milliarden Euro vor; im Kernhaushalt sind knapp 119 Milliarden Euro neue Kredite eingeplant, vor allem wegen der Verteidigungsausgaben. Gekürzt wird unter anderem das Programm 'Demokratie leben': Das Budget sinkt um rund 20 Millionen auf etwa 170 Millionen Euro, statt bisher rund 600 sollen nur noch 150 Projekte gefördert werden – Kritiker wie die Amadeu Antonio Stiftung warnen vor einem Rückbau vor allem in Ostdeutschland. Weiter offen ist die von der CDU geforderte Senkung der Stromsteuer, die im Etat nicht finanziert ist; SPD-Fraktionschef Matthias Miersch sieht vor dem Koalitionsausschuss am Dienstag aber 'Bewegung' bei der Union. Der Bundestag berät den Haushalt ab dem 24. November abschließend.",
+      "titel": "Chip-Exporte nach China: Handelsminister Lutnick unter Druck – Anhörung im Senat angesetzt",
+      "text": "US-Handelsminister Howard Lutnick muss sich vor dem Bankenausschuss des Senats zu seiner Rolle bei NVIDIA-Chipexporten nach China erklären; als Termin wird der 10. Dezember genannt. Hintergrund: Finanzminister Scott Bessent hatte öffentlich kritisiert, das Handelsministerium habe monatelang gezögert, den Zwischenhändler Megaspeed auf die schwarze Liste für Exporte zu setzen – das Ministerium habe dabei 'den Stift in der Hand'. Das Handelsministerium bestreitet Berichte über einen Streit der beiden Minister im Lageraum des Weißen Hauses und sagt, Lutnick habe sich freiwillig zur Aussage bereit erklärt. Abgeordnete beider Parteien verlangen Aufklärung, was Lutnick wann wusste; der demokratische Senator Chris Van Hollen fordert seine Entlassung. Die Senatoren Elizabeth Warren und Ron Wyden haben Lutnick aufgefordert, alle Unterlagen zu den Exportentscheidungen aufzubewahren. Das Weiße Haus erklärte, Präsident Trump habe 'volles Vertrauen' in seinen Minister.",
+      "quelle": "CNN",
+      "datum_artikel": "2026-11-15",
+      "land": "USA"
+    },
+    {
+      "titel": "Nach dem landesweiten Flugstopp: Verkehrsminister Duffy fordert 50 Milliarden Dollar vom Kongress",
+      "text": "Nach dem vierstündigen Stopp aller Flüge in den USA am Freitag geht es nun ums Geld: Verkehrsminister Sean Duffy verlangt vom Kongress 50 Milliarden Dollar als Notfallmittel für die Erneuerung der Flugsicherung – am Donnerstag hatte er in einem Brief noch 30 Milliarden genannt. Die 12,5 Milliarden Dollar, die der Kongress im vergangenen Jahr bewilligt hatte, reichten nicht, sagte Duffy; eine genaue Aufstellung soll in dieser Woche folgen. Als Ursache nannte er am Samstag entweder defekte Technik oder menschliches Versagen beim Austausch alter Kupfer-Telefonleitungen durch einen Auftragnehmer. Präsident Trump forderte den Kongress am Sonntag auf, das Geld rasch zu bewilligen. Demokraten verweisen laut Washington Post darauf, dass bereits bewilligte Milliarden noch gar nicht ausgegeben seien; Senator Chris Van Hollen nannte es 'ziemlich dreist', dem Kongress die Schuld zu geben. Das Thema dürfte die laufenden Haushaltsverhandlungen im Kongress zusätzlich belasten.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-11-15",
+      "land": "USA"
+    },
+    {
+      "titel": "Mecklenburg-Vorpommern: Rot-Rot-Grün besiegelt – Schwesig stellt sich heute zur Wiederwahl",
+      "text": "Rund acht Wochen nach der Landtagswahl steht in Mecklenburg-Vorpommern die neue Landesregierung aus SPD, Linken und Grünen. Am Freitag und Samstag stimmten alle drei Parteien auf Parteitagen dem Koalitionsvertrag zu, ohne Gegenstimmen; die SPD-Delegierten votierten in Güstrow einstimmig. Anschließend unterzeichneten die Parteispitzen den Vertrag. Das Bündnis hat 39 der 71 Sitze im Landtag; einzige Oppositionspartei ist die AfD mit 32 Abgeordneten. Ministerpräsidentin Manuela Schwesig (SPD) betonte, mit dieser Koalition werde es keine Zusammenarbeit mit der AfD geben. Am Montag soll Schwesig im Schweriner Landtag erneut zur Ministerpräsidentin gewählt werden; danach ernennt sie ihre Ministerinnen und Minister, die anschließend vereidigt werden.",
       "quelle": "ZDF heute",
-      "datum_artikel": "2026-11-13",
+      "datum_artikel": "2026-11-14",
       "land": "Deutschland"
-    },
-    {
-      "titel": "Supreme Court prüft Trumps Asyl-Stopp an der Grenze zu Mexiko",
-      "text": "Der Oberste Gerichtshof der USA hat am Freitag angekündigt, über die Rechtmäßigkeit von Trumps Asyl-Beschränkungen an der Südgrenze zu entscheiden. Es geht um eine Anordnung vom ersten Tag seiner zweiten Amtszeit, die eine 'Invasion' an der Grenze erklärte und illegal eingereisten Migranten das Recht auf einen Asylantrag nimmt. Ein Bundesrichter und ein Berufungsgericht hatten die Regelung für unzulässig erklärt, sie bleibt aber in Kraft, solange das Verfahren läuft. Die mündliche Verhandlung ist für den 9. Dezember angesetzt, ein Urteil wird bis Juni oder Juli 2027 erwartet. Zusätzlich bittet die Regierung den Supreme Court in einem anderen Verfahren, die Macht von Bundesrichtern weiter zu beschneiden: Sie sollen Behördenentscheidungen nicht mehr landesweit aufheben dürfen. Ob das Gericht diesen Fall annimmt, soll Anfang nächsten Jahres entschieden werden.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-14",
-      "land": "USA"
-    },
-    {
-      "titel": "Landesweiter Flugstopp in den USA – Verkehrsminister macht veraltete Technik verantwortlich",
-      "text": "Die US-Flugaufsicht FAA hat am Freitagnachmittag für rund vier Stunden alle Flüge im Land am Boden gehalten, nachdem die Kommunikation in allen 22 Flugsicherungszentren ausgefallen war. Verkehrsminister Sean Duffy führte den Ausfall auf veraltete Kommunikationstechnik zurück, deren Router mit Daten überlastet waren; zuvor hatte der Dienstleister L3Harris an dem System im Zuge einer Umstellung von Kupfer- auf Glasfaserleitungen gearbeitet. Ob ein Fehler des Dienstleisters oder defekte Geräte schuld waren, ist laut Duffy noch unklar. Heimatschutzminister Markwayne Mullin sagte, es gebe keine Hinweise auf einen Cyberangriff. Spekulationen über das neue KI-Verkehrssystem SMART, das erst am 10. November in allen Zentren eingeführt worden war, wiesen Duffy und der Hersteller zurück. Duffy nannte die Lage einen Notfall und forderte vom Kongress mehr Geld für die Modernisierung der Flugsicherung.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-14",
-      "land": "USA"
     }
   ]
 }
