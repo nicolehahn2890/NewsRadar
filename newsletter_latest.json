@@ -1,45 +1,71 @@
 {
-  "datum": "Montag, 16. November 2026",
-  "generiert": "2026-11-16",
-  "ki_stories": [],
+  "datum": "Dienstag, 17. November 2026",
+  "generiert": "2026-11-17",
+  "ki_stories": [
+    {
+      "titel": "Trump-Regierung will über 20 KI-Firmen zu nationalen Champions erklären",
+      "text": "Die US-Regierung plant laut Wall Street Journal, mehr als zwei Dutzend amerikanische KI-Unternehmen offiziell zu 'nationalen Champions' zu ernennen – darunter NVIDIA, Amazon, Microsoft, OpenAI und Anthropic. Ziel ist es, diesen Firmen beim Verkauf ins Ausland zu helfen und sie gegen chinesische Konkurrenten wie Huawei in Stellung zu bringen. Dafür sollen US-Chips, KI-Modelle und dazugehörige Technik zu Paketen für ausländische Regierungen und Unternehmen gebündelt werden. Handelsminister Howard Lutnick soll die Liste vorstellen, möglicherweise schon innerhalb einer Woche; der Termin könnte sich aber verschieben. Offiziell bestätigt hat die Regierung den Plan noch nicht, auch welche konkreten Vorteile das Etikett bringt, ist offen. Bemerkenswert ist, dass Anthropic auf der Liste stehen soll, obwohl die Regierung dem Unternehmen zuletzt eher kritisch gegenüberstand.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-11-15"
+    },
+    {
+      "titel": "Alibaba bringt Qwen4-Max – neues Spitzenmodell soll pro Aufgabe rund zwei Drittel billiger sein",
+      "text": "Der chinesische Konzern Alibaba hat am Montag sein neues Flaggschiff-KI-Modell Qwen4-Max vorgestellt. Laut Berichten kostet eine typische Aufgabe damit nur noch rund 3,27 Dollar statt zuvor 10,02 Dollar – also etwa zwei Drittel weniger als beim Vorgänger. Das Modell ist nicht frei verfügbar (keine offenen Gewichte), sondern nur über Alibabas Cloud nutzbar. Im unabhängigen Vergleichsindex von Artificial Analysis erreicht es 43 Punkte – neun mehr als der Vorgänger, aber deutlich hinter Anthropics Claude Opus 5.5 mit 59 Punkten. Die Börse reagierte verhalten: Die Aktie stieg in Hongkong nur um rund 1 Prozent, bei früheren Modell-Starts gab es deutlich größere Sprünge. Am Donnerstag legt Alibaba Quartalszahlen vor, in denen das neue Modell aber noch keine Rolle spielt.",
+      "quelle": "Yahoo Finance",
+      "datum_artikel": "2026-11-16"
+    }
+  ],
   "unternehmen_stories": [
     {
-      "titel": "NVIDIA: US-Finanzminister Bessent fordert radikalen Umbau – Huang denkt laut FT über Rückkehr nach",
-      "text": "Nachdem am Freitag bekannt wurde, dass der NVIDIA-Aufsichtsrat Arm-Chef Rene Haas als möglichen Nachfolger angesprochen hat, erhöht nun die US-Regierung den Druck. Finanzminister Scott Bessent sagte am Sonntag, NVIDIA brauche eine 'dramatische Neuaufstellung' und solle einen Chef von außerhalb holen. Wäre NVIDIA eine Bank, würden nach seinen Worten viele Manager wegen der mangelhaften Kontrolle von Chip-Exporten entfernt; Aufsichtsrat und externe Anwälte sollen binnen zehn Tagen Antworten liefern, ob der Konzern wusste, an wen er verkauft (Stichwort: der mutmaßlich chinesische Zwischenhändler Megaspeed). Gleichzeitig berichtet die Financial Times, dass Ex-Chef Jensen Huang mit Vertrauten über eine Rückkehr spricht und eine Gruppe von Silicon-Valley-Managern dafür werben will, auch beim Weißen Haus. Der Aufsichtsrat hat nach eigenen Angaben noch keine Personalberatung beauftragt und keine Kandidaten formell angesprochen; Finanzchefin Colette Kress führt den Konzern übergangsweise. Am Dienstag, 17. November, legt NVIDIA die ersten Quartalszahlen ohne Huang vor – Analysten erwarten rund 109 Milliarden Dollar Umsatz.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-15",
+      "titel": "NVIDIA vor erster Bilanz ohne Huang – Aufsichtsrat dementiert Gespräche über Rückkehr",
+      "text": "NVIDIA legt heute (Dienstag) nach US-Börsenschluss seine Zahlen für das dritte Geschäftsquartal vor – die ersten seit dem Rücktritt von Firmengründer Jensen Huang als Chef. Analysten erwarten laut LSEG einen Umsatz von 109,1 Milliarden Dollar (plus 91 Prozent) und einen Gewinn von 2,47 Dollar je Aktie. Präsentieren wird Interimschefin Colette Kress, bisher Finanzchefin. Neu gegenüber dem FT-Bericht vom Wochenende, wonach Huang über eine Rückkehr nachdenkt: Laut CNBC konzentriert sich der Aufsichtsrat auf eine Ermittlung zur nationalen Sicherheit gegen Huang und führt keine Gespräche über sein Comeback. Die Aktie fiel am Montag um 4,1 Prozent auf 156,14 Dollar, den tiefsten Stand seit Juli 2025, und verliert seit sechs Wochen in Folge – die längste Serie seit 2012. OpenAI-Chef Sam Altman sagte am Montag laut Bloomberg, die KI-Branche werde trotz des Wirbels 'gut zurechtkommen', weil die Nachfrage weiter steige.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-16",
       "unternehmen": "NVIDIA"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Japans Wirtschaft schrumpft überraschend – Nikkei startet mit Verlusten in die Woche",
-      "text": "Japans Wirtschaftsleistung ist im dritten Quartal (Juli bis September) nach einer ersten Schätzung der Regierung aufs Jahr hochgerechnet um 0,1 Prozent gesunken – Ökonomen hatten ein Plus von 0,3 Prozent erwartet. Es ist der erste Rückgang seit vier Quartalen; das Vorquartal wurde auf plus 1,7 Prozent nach oben korrigiert. Hauptgründe: Der private Konsum fiel um 0,3 Prozent, weil die Inflation die Haushalte belastet, und die Importe stiegen um 2,5 Prozent. Unternehmensinvestitionen legten dagegen mit 1,6 Prozent stärker zu als erwartet. Der Nikkei 225 eröffnete am Montag je nach Zeitpunkt zwischen 0,6 und 1,5 Prozent im Minus, auch Südkoreas Kospi gab nach. Der Yen notierte bei rund 159,80 je Dollar; Regierungsvertreter warnten erneut vor spekulativen Bewegungen, was als Hinweis auf mögliche Stützungskäufe gilt. Trotz der Schwäche rechnen viele Ökonomen weiter mit einer Zinserhöhung der Bank of Japan im Dezember.",
-      "quelle": "CNBC",
+      "titel": "KI-Nervosität vor NVIDIA-Zahlen: Nasdaq fällt 2,5 Prozent, Angstbarometer VIX springt",
+      "text": "Die Wall Street ist am Montag kräftig eingebrochen: Der S&P 500 verlor 1,9 Prozent (dritter Verlusttag in Folge), die Technologiebörse Nasdaq 2,5 Prozent und der Dow Jones 739 Punkte bzw. 1,4 Prozent. Der VIX, der die Angst der Anleger misst, stieg um 19 Prozent. Besonders hart traf es Chip- und Netzwerkwerte: Ciena fiel um 9 Prozent, Sandisk und Lumentum um je 8,5 Prozent, Micron um 7,6 Prozent. Auslöser sind die Unsicherheit nach dem Führungswechsel bei NVIDIA, höhere Zinsen und Sorgen über schwächeres Wachstum nach den Midterm-Wahlen. Auch in Asien gab es Verluste: Der Nikkei fiel um 2,4 Prozent, Südkoreas Kospi sogar um rund 3,6 Prozent, während der DAX sich mit kleinen Abschlägen nahe seinem Rekordhoch hielt. Entscheidend für die weitere Richtung sind diese Woche die NVIDIA-Zahlen (Dienstagabend) und der Börsengang von Anthropic.",
+      "quelle": "Reuters",
+      "datum_artikel": "2026-11-16"
+    },
+    {
+      "titel": "Übernahmeangebot von Québecor: Telus-Aktie springt um 29 Prozent",
+      "text": "Der kanadische Telekomkonzern Telus hat am Montag bestätigt, ein unaufgefordertes, unverbindliches Übernahmeangebot des Konkurrenten Québecor erhalten zu haben. Telus-Aktionäre sollen pro Aktie 6,35 Kanadische Dollar in bar plus 0,17 Québecor-Aktien bekommen – insgesamt rund 19,45 Kanadische Dollar je Aktie, laut Québecor etwa 60 Prozent Aufschlag; der Gesamtwert liegt laut CBC bei rund 31 Milliarden Kanadischen Dollar. Die Telus-Aktie schoss daraufhin um 29 Prozent nach oben. Der Telus-Verwaltungsrat hält das Angebot in der jetzigen Form aber für unzureichend, weil die Aktionäre das Kursrisiko der Québecor-Aktie während einer langen behördlichen Prüfung tragen müssten. Ein unabhängiger Sonderausschuss prüft das Angebot nun mit Beratern und sucht parallel nach anderen Optionen. Ein Zusammenschluss würde die kanadische Telekom-Landschaft deutlich verändern.",
+      "quelle": "CBC",
       "datum_artikel": "2026-11-16"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Chip-Exporte nach China: Handelsminister Lutnick unter Druck – Anhörung im Senat angesetzt",
-      "text": "US-Handelsminister Howard Lutnick muss sich vor dem Bankenausschuss des Senats zu seiner Rolle bei NVIDIA-Chipexporten nach China erklären; als Termin wird der 10. Dezember genannt. Hintergrund: Finanzminister Scott Bessent hatte öffentlich kritisiert, das Handelsministerium habe monatelang gezögert, den Zwischenhändler Megaspeed auf die schwarze Liste für Exporte zu setzen – das Ministerium habe dabei 'den Stift in der Hand'. Das Handelsministerium bestreitet Berichte über einen Streit der beiden Minister im Lageraum des Weißen Hauses und sagt, Lutnick habe sich freiwillig zur Aussage bereit erklärt. Abgeordnete beider Parteien verlangen Aufklärung, was Lutnick wann wusste; der demokratische Senator Chris Van Hollen fordert seine Entlassung. Die Senatoren Elizabeth Warren und Ron Wyden haben Lutnick aufgefordert, alle Unterlagen zu den Exportentscheidungen aufzubewahren. Das Weiße Haus erklärte, Präsident Trump habe 'volles Vertrauen' in seinen Minister.",
-      "quelle": "CNN",
-      "datum_artikel": "2026-11-15",
-      "land": "USA"
-    },
-    {
-      "titel": "Nach dem landesweiten Flugstopp: Verkehrsminister Duffy fordert 50 Milliarden Dollar vom Kongress",
-      "text": "Nach dem vierstündigen Stopp aller Flüge in den USA am Freitag geht es nun ums Geld: Verkehrsminister Sean Duffy verlangt vom Kongress 50 Milliarden Dollar als Notfallmittel für die Erneuerung der Flugsicherung – am Donnerstag hatte er in einem Brief noch 30 Milliarden genannt. Die 12,5 Milliarden Dollar, die der Kongress im vergangenen Jahr bewilligt hatte, reichten nicht, sagte Duffy; eine genaue Aufstellung soll in dieser Woche folgen. Als Ursache nannte er am Samstag entweder defekte Technik oder menschliches Versagen beim Austausch alter Kupfer-Telefonleitungen durch einen Auftragnehmer. Präsident Trump forderte den Kongress am Sonntag auf, das Geld rasch zu bewilligen. Demokraten verweisen laut Washington Post darauf, dass bereits bewilligte Milliarden noch gar nicht ausgegeben seien; Senator Chris Van Hollen nannte es 'ziemlich dreist', dem Kongress die Schuld zu geben. Das Thema dürfte die laufenden Haushaltsverhandlungen im Kongress zusätzlich belasten.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-11-15",
-      "land": "USA"
-    },
-    {
-      "titel": "Mecklenburg-Vorpommern: Rot-Rot-Grün besiegelt – Schwesig stellt sich heute zur Wiederwahl",
-      "text": "Rund acht Wochen nach der Landtagswahl steht in Mecklenburg-Vorpommern die neue Landesregierung aus SPD, Linken und Grünen. Am Freitag und Samstag stimmten alle drei Parteien auf Parteitagen dem Koalitionsvertrag zu, ohne Gegenstimmen; die SPD-Delegierten votierten in Güstrow einstimmig. Anschließend unterzeichneten die Parteispitzen den Vertrag. Das Bündnis hat 39 der 71 Sitze im Landtag; einzige Oppositionspartei ist die AfD mit 32 Abgeordneten. Ministerpräsidentin Manuela Schwesig (SPD) betonte, mit dieser Koalition werde es keine Zusammenarbeit mit der AfD geben. Am Montag soll Schwesig im Schweriner Landtag erneut zur Ministerpräsidentin gewählt werden; danach ernennt sie ihre Ministerinnen und Minister, die anschließend vereidigt werden.",
-      "quelle": "ZDF heute",
-      "datum_artikel": "2026-11-14",
+      "titel": "Merz kündigt vollständige Senkung der Stromsteuer an – Koalitionsausschuss soll heute entscheiden",
+      "text": "Bundeskanzler Friedrich Merz (CDU) hat am Montag bei einem gemeinsamen Auftritt mit CSU-Chef Markus Söder angekündigt, dass der Koalitionsausschuss am heutigen Dienstag die Senkung der Stromsteuer beschließen werde – mit den Worten 'Wir werden uns morgen einigen'. Geplant ist, die Stromsteuer ab 2027 vollständig auf das europäische Mindestmaß zu senken, und zwar auch für Privathaushalte, nicht nur für Industrie und Landwirtschaft. Bei den Haushaltsverhandlungen Mitte November war diese Frage noch offen geblieben und hatte in der Union für Unmut gesorgt. Merz sagte, er habe mit SPD-Chef und Finanzminister Lars Klingbeil gesprochen; die Entlastung müsse aber seriös und dauerhaft gegenfinanziert werden. Söder betonte, es gehe um die Glaubwürdigkeit der Koalition. Die Union will im Ausschuss zudem über die kalte Progression und eine Einkommensteuerreform sprechen.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-11-16",
       "land": "Deutschland"
+    },
+    {
+      "titel": "Schwesig im ersten Wahlgang als Ministerpräsidentin von Mecklenburg-Vorpommern bestätigt",
+      "text": "Nach der Unterzeichnung des Koalitionsvertrags von SPD, Linken und Grünen hat der Landtag in Schwerin Manuela Schwesig (SPD) am Montag erneut zur Ministerpräsidentin gewählt. Sie erhielt im ersten Wahlgang 39 von 68 abgegebenen Stimmen – genau so viele, wie die rot-rot-grüne Koalition Abgeordnete hat; nötig waren 36. 29 Abgeordnete stimmten gegen sie, was der Zahl der anwesenden AfD-Abgeordneten entsprach. Schwesig regiert damit weitere fünf Jahre. Sie sagte, sie nehme die Wahl 'sehr gerne an' und freue sich auf die Arbeit für das Land. Schwesig gilt im Streit um die künftige Führung der Bundes-SPD als Schlüsselfigur; seit einiger Zeit wird spekuliert, ob sie auch SPD-Bundesvorsitzende werden könnte.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-11-16",
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Supreme Court lässt Marylands Waffenverbot an Schulen, Parks und Behörden bestehen",
+      "text": "Das Oberste Gericht der USA hat es am Montag abgelehnt, sich mit einer Klage gegen Marylands Waffengesetz zu befassen. Damit bleibt ein Urteil der Vorinstanz bestehen, das das Verbot erlaubt, Schusswaffen an sogenannten sensiblen Orten zu tragen – etwa an Schulen, in Parks und in Regierungsgebäuden. Waffenrechts-Befürworter hatten argumentiert, das Verbot verletze den zweiten Verfassungszusatz, der das Recht auf Waffenbesitz schützt. Das Gericht entschied die Grundsatzfrage aber nicht, ob das Gesetz verfassungsgemäß ist, sondern nahm den Fall nur nicht an. Richter Clarence Thomas schrieb in einer eigenen Stellungnahme, er sei skeptisch, ob Marylands Beschränkungen rechtmäßig seien. Für ähnliche Gesetze in anderen Bundesstaaten bleibt die Rechtslage damit vorerst offen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-16",
+      "land": "USA"
+    },
+    {
+      "titel": "Trump beim ersten Quad-Gipfel seit zwei Jahren in Manila – Ukraine soll bei Treffen mit Xi und Putin Thema sein",
+      "text": "US-Präsident Donald Trump trifft am heutigen Dienstag in Manila die Regierungschefs von Indien, Japan und Australien zum Gipfel der sogenannten Quad-Gruppe – das erste Treffen dieser Runde seit September 2024. Die vier Länder stimmen sich vor allem über Sicherheit im Indopazifik ab, also als Gegengewicht zu China. Ein eigenes Zweiergespräch mit Indiens Premier Narendra Modi ist laut Berichten nicht geplant. Direkt im Anschluss ist für Donnerstag, den 19. November, in Shenzhen ein Dreiertreffen mit Chinas Präsident Xi Jinping und Russlands Präsident Wladimir Putin am Rande des APEC-Gipfels angesetzt, das bereits vergangene Woche angekündigt worden war. Neu ist: Trump sagte am Montag, er wolle dort auch über Russlands Krieg in der Ukraine sprechen. Weitere Themen sollen der Nahe Osten, nukleare Abrüstung und die Spannungen zwischen Washington und Peking sein.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-11-16",
+      "land": "USA"
     }
   ]
 }
