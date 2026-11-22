@@ -1,85 +1,58 @@
 {
-  "datum": "Samstag, 21. November 2026",
-  "generiert": "2026-11-21",
+  "datum": "Sonntag, 22. November 2026",
+  "generiert": "2026-11-22",
   "ki_stories": [
     {
-      "titel": "Google lässt Gemini den Mac bedienen – KI-Agent steuert Apps, Dateien und Webseiten",
-      "text": "Google hat am Donnerstag die Funktion Computer Use in der Gemini-App für den Mac gestartet. Der KI-Agent kann damit selbstständig lokale Dateien, Desktop-Programme und Webseiten bedienen; er arbeitet in einem separaten Fenster im Hintergrund mit Live-Vorschau, und Nutzer können ihn jederzeit anhalten und Aktionen vorab freigeben. Verfügbar ist das zunächst nur in den USA, auf Englisch und für zahlende Privatkunden der Abos Google AI Plus, Pro oder Ultra – Firmen- und Schulkonten sind ausgeschlossen. Voraussetzung ist ein Mac mit Apple-Chip und macOS Sequoia 15.0 oder neuer. Google kommt damit relativ spät: OpenAI, Anthropic und Meta bieten ähnliche Agenten in ihren Desktop-Apps bereits an. Google warnt in der eigenen Dokumentation vor dem Risiko sogenannter Prompt Injection, also versteckter Befehle auf Webseiten, die den Agenten manipulieren können. Pläne für Windows oder weitere Länder hat Google noch nicht genannt.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-11-19"
+      "titel": "Mathematiker mit KI-Hilfe: Neuer Beweis zur Navier-Stokes-Gleichung soll Millennium-Problem lösen",
+      "text": "Der NYU-Mathematiker Tristan Buckmaster und Levent Alpöge, der bei Anthropic arbeitet, haben am 20. November einen Beweis veröffentlicht, wonach die 3D-Navier-Stokes-Gleichungen auch ohne äußere Kraft in endlicher Zeit 'explodieren' können (finite-time blow-up). Genau diese Variante ohne äußeren Antrieb ist Gegenstand des Millennium-Problems des Clay-Instituts, für das eine Million Dollar Preisgeld ausgesetzt ist. Laut den Autoren waren KI-Modelle von Anthropic stark beteiligt: Sie sollen den ersten Beweis geschrieben haben, der dann über mehrere Runden mit den Modellen überarbeitet wurde; dazu gibt es eine Formalisierung in der Beweissprache Lean mit rund 600.000 Zeilen. OpenAI hatte im September einen ähnlichen Beweis vorgelegt, der aber nach Kritik von Fachleuten nur für den Fall mit äußerer Kraft gilt. Wichtig: Der Beweis ist noch nicht unabhängig geprüft, und ein nötiges numerisches Zertifikat ist noch nicht veröffentlicht. Bestätigt sich das Ergebnis, wäre es einer der bisher größten Belege dafür, dass KI echte Spitzenforschung in der Mathematik leisten kann.",
+      "quelle": "Scientific American",
+      "datum_artikel": "2026-11-20"
     },
     {
-      "titel": "Apple baut eigenen KI-Agenten, der Apps steuert, im Web surft und programmiert",
-      "text": "Apple arbeitet laut Bloomberg an einem eigenen KI-Agenten, der für Nutzer Geräte bedienen, Apps steuern, im Internet surfen und Code schreiben soll. Grundlage der Recherche sind Stellenanzeigen, in denen Apple etwa eine Führungskraft für einen 'proaktiven, agentischen KI-Assistenten' sucht. Ein Start wurde intern frühestens für Ende 2027 erwogen, die Entwicklung steht aber noch am Anfang. Treiber ist demnach der neue Apple-Chef John Ternus, der Software-Chef Craig Federighi zu mehr Tempo und Mut bei KI drängt. Gleichzeitig macht Apple es laut Bloomberg konkurrierenden KI-Agenten schwerer, die volle Kontrolle über Macs zu übernehmen – Apple begründet das mit Kundenschutz, Kritiker sehen darin eine Bremse für die Konkurrenz. Nach dem Bericht fielen die Aktien von Meta und Anthropic im nachbörslichen Handel. Offen ist, welches KI-Modell den Agenten antreiben soll.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-19"
-    },
-    {
-      "titel": "Trump beim APEC-Gipfel: Keine strenge Regulierung, die die KI-Branche bremst",
-      "text": "US-Präsident Donald Trump hat beim APEC-Gipfel im chinesischen Shenzhen vor einer strengen Regulierung von Künstlicher Intelligenz gewarnt. Jede 'robuste' Regulierung von KI – Trump spricht von Superintelligenz (SI) – würde die Entwicklung ersticken, sagte er laut Bloomberg vor den versammelten Staats- und Regierungschefs. KI sei 'fast vollständig gut', habe aber auch 'schlechte Elemente', die sorgfältig gesteuert werden müssten. Die Kritik richtet sich nach Einschätzung von Beobachtern vor allem gegen internationale Regelwerke zur KI-Aufsicht, nicht gegen einzelne US-Bundesstaaten. Bemerkenswert ist der Zeitpunkt: Erst wenige Tage zuvor hatte die US-Regierung den Zugang chinesischer Firmen zu modernen KI-Chips über Rechenzentren im Ausland weiter eingeschränkt. Die USA setzen also auf freie Hand für die eigene Branche bei gleichzeitig harter Exportkontrolle gegenüber China.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-19"
+      "titel": "Trump will US-Firmen den Bau von Rechenzentren im Ausland verbieten",
+      "text": "Präsident Donald Trump hat am Freitag auf seiner ersten Pressekonferenz nach der Asienreise angekündigt, US-Unternehmen nicht mehr zu erlauben, Rechenzentren außerhalb der USA zu bauen. Wer es trotzdem tue, müsse mit einer 'gewaltigen Steuer' rechnen, sagte Trump; als Begründung nannte er den Wettlauf mit China. Wie das Verbot rechtlich umgesetzt werden soll, blieb offen – es gibt weder einen Steuersatz noch einen Zeitplan oder einen schriftlichen Erlass, und laut Berichten war die Ankündigung selbst für Teile seines Stabs neu. Betroffen wären vor allem Konzerne wie Microsoft, Amazon, Google und Meta sowie Rechenzentrumsbetreiber wie Equinix und Digital Realty, die weltweit KI-Rechenzentren betreiben oder planen. Bis konkrete Regeln vorliegen, herrscht für die Branche Unsicherheit über laufende Auslandsprojekte, etwa in Europa und am Golf.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-20"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SEC nimmt NVIDIAs Buchhaltung ins Visier – Aktie bricht um rund 14 Prozent ein",
-      "text": "Die Ermittler der US-Börsenaufsicht SEC prüfen laut Reuters mögliche Probleme in der Buchhaltung von NVIDIA. Das berichteten zwei mit der Sache vertraute Personen; wann die Untersuchung begann und welche Punkte genau geprüft werden, ist noch unklar. Neu gegenüber dem Stand vom Wochenbeginn: Das Wall Street Journal hatte am Dienstag nur berichtet, dass geprüft werde, ob NVIDIAs Angaben Anleger in die Irre geführt haben – nun geht es ausdrücklich um die Rechnungslegung. Schon bei den Quartalszahlen hatte NVIDIA den ausführlichen Quartalsbericht (10-Q) verschoben und auf eine laufende Untersuchung durch einen unabhängigen Ausschuss des Aufsichtsrats verwiesen. Die Aktie fiel am Freitag um rund 14 Prozent, der stärkste Tagesverlust seit dem DeepSeek-Schock. Wichtig: Eine Untersuchung ist kein Beweis für Fehlverhalten, viele SEC-Prüfungen enden ohne Folgen. Parallel prüft das US-Justizministerium NVIDIAs 12,9-Milliarden-Dollar-Deal mit Hugging Face kartellrechtlich.",
-      "quelle": "Reuters",
+      "titel": "Anthropic-Aktie rutscht am zweiten Handelstag fast auf den Ausgabepreis",
+      "text": "Nach dem Rekord-Börsengang mit einem Plus von 17 Prozent am ersten Tag ist die Anthropic-Aktie am Freitag, dem zweiten Handelstag, deutlich gefallen. Im Tagestief kostete sie nur noch 83,05 Dollar – gerade 5 Cent über dem Ausgabepreis von 83 Dollar. Danach erholte sie sich und schloss bei 88,30 Dollar, rund 9 Prozent unter dem Schlusskurs vom Donnerstag (97,17 Dollar). Auslöser war vor allem der breite Ausverkauf bei KI- und Chipwerten, der am selben Tag auch NVIDIA und den Nasdaq schwer belastete – der Rückgang spiegelt also eher die Marktstimmung als Nachrichten zu Anthropic selbst. Laut Börsenprospekt halten Amazon (14,6 Prozent) und Google (13,4 Prozent) zusammen rund 28 Prozent an Anthropic, allerdings ohne Stimmrechte. Ob die Aktie sich über dem Ausgabepreis halten kann, gilt nun als wichtiger Stimmungstest für den gesamten KI-Sektor.",
+      "quelle": "Fortune",
       "datum_artikel": "2026-11-20",
-      "unternehmen": "NVIDIA"
+      "unternehmen": "Anthropic"
     },
     {
-      "titel": "CrowdStrike verhandelt über Übernahme von Zscaler – möglicher Mega-Deal der Cybersicherheit",
-      "text": "Der Cybersicherheitskonzern CrowdStrike verhandelt laut Bloomberg und Reuters über eine Übernahme des Konkurrenten Zscaler. Zusammen kommen beide Unternehmen auf einen Börsenwert von rund 265 Milliarden Dollar; es wäre einer der größten Deals der Branchengeschichte. Die Gespräche laufen noch, ein Abschluss ist laut den Quellen nicht sicher und die Verhandlungen könnten auch scheitern. Beide Firmen haben die Gespräche nicht bestätigt. Die Zscaler-Aktie stieg nachbörslich um rund 16 bis 18 Prozent, CrowdStrike verlor etwa 8 Prozent – Anleger fürchten offenbar einen hohen Kaufpreis. CrowdStrike ist vor allem für den Schutz von Endgeräten bekannt, Zscaler für Cloud-Sicherheit im Firmennetz; beide arbeiten bereits als Partner zusammen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-20",
-      "unternehmen": "CrowdStrike / Zscaler"
-    },
-    {
-      "titel": "SpaceX leiht sich 32 Milliarden Dollar – abgesichert mit KI-Chips",
-      "text": "SpaceX hat laut Bloomberg Schulden in Höhe von 32 Milliarden Dollar aufgenommen, die mit KI-Chips als Sicherheit hinterlegt sind. Organisiert wurde der Deal von Goldman Sachs und Apollo; die Anleger verlangen Zinsen von über 8 Prozent. Die Anleihe ist Teil einer Gesamtfinanzierung von mehr als 40 Milliarden Dollar, zu der auch Bankkredite gehören. Mit dem Geld finanziert Elon Musks Konzern, zu dem seit der Fusion auch xAI mit dem Chatbot Grok gehört, den Ausbau seiner KI-Rechenzentren. Die hohen Zinsen zeigen, dass Kreditgeber das Risiko solcher chipbasierten Finanzierungen kritisch sehen – laut Berichten verlangten sie zusätzliche Schutzklauseln für den Fall, dass sie die Chips verwerten müssen. Die SpaceX-Aktie fiel am Freitag im allgemeinen KI-Ausverkauf um rund 7,7 Prozent.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-19",
-      "unternehmen": "SpaceX / xAI"
+      "titel": "Großstörung bei OpenAI: Bis zu 75 Prozent der ChatGPT-Anfragen schlugen fehl",
+      "text": "Am Samstag, 21. November, ist bei OpenAI über dreieinhalb Stunden ein Großteil der Anfragen gescheitert (zwischen 1:48 und 5:21 Uhr kalifornischer Zeit, also etwa 10:48 bis 14:21 Uhr in Wien). Auf dem Höhepunkt lag die Fehlerquote bei ChatGPT – für zahlende wie für kostenlose Nutzer – bei 75 Prozent, betroffen war auch die Schnittstelle für Entwickler (API). Laut OpenAIs eigenem Störungsbericht fielen bei einer geplanten Wartung beide Datenbank-Kopien eines zentralen Dienstes aus, der die Anmeldung im gesamten OpenAI-System abwickelt. OpenAI hat ähnliche Wartungsarbeiten vorerst gestoppt und eine Umschaltmöglichkeit eingebaut, um den Verkehr künftig schneller umzuleiten. In einem Nutzerforum wird zudem von einer zweiten Welle mit eingefrorenen Chats berichtet, die OpenAI bisher nicht offiziell bestätigt hat. Für OpenAI ist das heikel, weil immer mehr Unternehmen ihre Abläufe auf ChatGPT und die API stützen.",
+      "quelle": "OpenAI",
+      "datum_artikel": "2026-11-21",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "KI-Ausverkauf: S&P 500 und Dow in der Korrektur, Nasdaq verliert alle Jahresgewinne",
-      "text": "Die Talfahrt an der Wall Street hat sich am Freitag dramatisch beschleunigt. Nachdem der Dow Jones am Donnerstag erstmals seit Mai unter 50.000 Punkte gefallen war, rutschten S&P 500 und Dow nun offiziell in eine Korrektur – also mehr als 10 Prozent unter ihr Rekordhoch. Der S&P 500 fiel um 3,7 Prozent auf 6.910 Punkte, es war der siebte Verlusttag in Folge und mit rund 8,6 Prozent Minus die schlechteste Woche seit April 2025. Die Nasdaq brach um 5,3 Prozent ein und liegt damit im Minus für das Jahr 2026, der Dow verlor 1,9 Prozent auf 48.147 Punkte. Auslöser sind Zweifel, ob die enormen KI-Investitionen und Bewertungen gerechtfertigt sind; neben NVIDIA (rund minus 14 Prozent) fielen Broadcom, Western Digital und Seagate jeweils um mehr als 12 Prozent. Auch die frisch gelistete Anthropic-Aktie gab an ihrem zweiten Handelstag rund 9 Prozent ab und näherte sich zeitweise dem Ausgabepreis von 83 Dollar. Ein Stratege von BNP Paribas sprach von 'Panikverkäufen'.",
+      "titel": "Gold erlebt schlechteste Woche seit März – Preis fällt rund 9 Prozent auf etwa 3.500 Dollar",
+      "text": "Der Goldpreis ist in dieser Woche um rund 9 Prozent eingebrochen – der stärkste Wochenverlust seit März. Am Freitag fiel die Feinunze zeitweise auf etwa 3.503 bis 3.514 Dollar, den tiefsten Stand seit September 2025; vom Rekordhoch im Januar 2026 hat Gold damit mehr als 30 Prozent verloren. Hauptgrund sind die Erwartungen weiterer Zinserhöhungen der US-Notenbank: Die Terminmärkte preisen eine Anhebung um 0,25 Prozentpunkte bei der Fed-Sitzung im Dezember mit rund 90 bis 97 Prozent Wahrscheinlichkeit ein. Höhere Zinsen machen das zinslose Gold unattraktiver, dazu kamen ein starker Dollar und Zwangsverkäufe von Anlegern, die wegen des KI-Ausverkaufs an den Aktienmärkten Geld brauchten. Nächster wichtiger Termin ist der US-Inflationsindex PCE in der kommenden, wegen Thanksgiving verkürzten Börsenwoche.",
       "quelle": "Bloomberg",
       "datum_artikel": "2026-11-20"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump droht der künftigen Demokraten-Mehrheit mit Vetos – bietet aber Zusammenarbeit an",
-      "text": "US-Präsident Donald Trump hat bei seiner ersten Pressekonferenz seit den Kongresswahlen vom 3. November angekündigt, Gesetze der Demokraten mit seinem Veto zu blockieren, sobald diese im Januar 2027 beide Kammern des Kongresses übernehmen. Laut Reuters bezeichnete er das Vetorecht als 'extreme Macht' und sagte, die Drohung werde die Demokraten zu gemäßigteren Positionen bewegen. Gleichzeitig lobte er die demokratischen Anführer Chuck Schumer und Hakeem Jeffries als 'klug' und zeigte sich offen für Kompromisse, etwa bei Gesundheitspolitik und Filmproduktion. Das Fachblatt Roll Call merkt an, dass die von Trump genannten Themen kaum mit den Prioritäten der Demokraten übereinstimmen. Die Demokraten planen unter anderem Untersuchungen zu Finanzgeschäften der Familie Trump und zur Einwanderungspolitik, was das Verhältnis zusätzlich belasten dürfte. Bis zum Amtsantritt des neuen Kongresses am 3. Januar haben die Republikaner noch die Mehrheit.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-20",
+      "titel": "Trump verpflichtet Bundes-Auftragnehmer, Anfragen des Kongresses mit dem Weißen Haus abzustimmen",
+      "text": "Präsident Trump hat am späten Freitag eine Verfügung (Executive Order) unterzeichnet, nach der Firmen mit Regierungsaufträgen und deren Subunternehmer das Weiße Haus einbeziehen müssen, wenn der Kongress Informationen von ihnen verlangt. Unterlagen, die die Regierung als vertraulich einstuft, sollen sie zurückhalten. Wer sich nicht daran hält, kann laut der Verfügung bestehende Aufträge verlieren und von künftigen Bundesaufträgen ausgeschlossen werden. Begründet wird die Anordnung damit, dass der Kongress nur mit einem gültigen gesetzgeberischen Zweck Informationen verlangen dürfe. Die Verfügung gilt als Reaktion auf die angekündigten Untersuchungen der Demokraten, die im Januar die Mehrheit im Kongress übernehmen. Der Demokrat Robert Garcia, künftiger Ausschussvorsitzender, nannte sie einen 'offenen Angriff' auf das Kontrollrecht des Kongresses. Juristen erwarten Klagen, vor allem falls Firmen Informationen zurückhalten sollen, die per Vorladung (subpoena) angefordert werden.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-21",
       "land": "USA"
     },
     {
-      "titel": "US-Senat lehnt Beschränkung von Trumps Befugnissen im Iran-Krieg knapp ab",
-      "text": "Der US-Senat hat am Donnerstag mit 51 zu 48 Stimmen eine Resolution abgelehnt, die Präsident Trump verpflichtet hätte, vor weiteren Angriffen auf den Iran die Zustimmung des Kongresses einzuholen. Mit den Demokraten stimmten die drei Republikaner Lisa Murkowski, Susan Collins und Rand Paul; der Demokrat John Fetterman stimmte dagegen. Es war die erste Abstimmung zur Iran-Politik seit den Wahlen vom 3. November, bei denen die Demokraten Mehrheiten in beiden Kammern gewonnen haben, und bereits die 21. Abstimmung über eine solche Kriegsvollmachten-Resolution seit Kriegsbeginn. Die Resolution wäre ohnehin weitgehend symbolisch gewesen: Eine ähnliche Resolution hatte Anfang des Jahres beide Kammern passiert, wurde von der Regierung aber als rechtlich nicht bindend ignoriert. Als Nächstes steht der Haushalt an: Bis 11. Dezember muss ein Finanzierungspaket stehen, und der demokratische Fraktionschef Hakeem Jeffries signalisierte, Mittel für Iran-Einsätze nicht blockieren zu wollen.",
-      "quelle": "Reuters",
-      "datum_artikel": "2026-11-19",
-      "land": "USA"
-    },
-    {
-      "titel": "Bundesrat billigt Notfallreform: Neue Notfallzentren und eine 116117 rund um die Uhr",
-      "text": "Der Bundesrat hat am Freitag die Reform der Notfallversorgung passieren lassen, die der Bundestag am 15. Oktober beschlossen hatte. Ein Antrag, den Vermittlungsausschuss anzurufen, fand keine Mehrheit – nur das Saarland und Niedersachsen wollten das. Kern der Reform sind Integrierte Notfallzentren (INZ) an Krankenhäusern, in denen Klinik-Notaufnahme und Notdienstpraxis der niedergelassenen Ärzte zusammenarbeiten; dazu kommen eigene Zentren für Kinder und Jugendliche. Die Bereitschaftsdienst-Nummer 116117 wird mit dem Notruf 112 vernetzt und soll als Akutleitstelle rund um die Uhr erreichbar sein, auch per Video. Für Patienten soll das bedeuten: schnellere Ersteinschätzung und weniger überfüllte Notaufnahmen; einen Anspruch auf Hausbesuch auf Wunsch gibt es aber nicht. Die Bundesregierung sagte den Ländern in einer Protokollerklärung Nachbesserungen zu, unter anderem bei der Finanzierung des Rettungsdienstes und der Standortwahl der Zentren. Viele Regelungen treten erst später in Kraft; Krankenhausträger zweifeln, ob das Geld reicht.",
-      "quelle": "Deutsches Ärzteblatt",
-      "datum_artikel": "2026-11-20",
-      "land": "Deutschland"
-    },
-    {
-      "titel": "Führerscheinreform: Bundesrat billigt ersten Teil – Ausbildung soll digitaler werden",
-      "text": "Der Bundesrat hat am Freitag dem ersten Teil der Führerscheinreform zugestimmt: dem geänderten Fahrlehrergesetz, das der Bundestag am 5. November beschlossen hatte. Ziel der Bundesregierung ist, den Führerschein günstiger und die Ausbildung moderner zu machen, etwa durch Lernen per App. Ob der Führerschein für Fahrschüler tatsächlich billiger wird, ist laut mehreren Berichten aber nicht gesichert. Der zweite Teil, eine Verordnung zur Modernisierung der Fahrschulausbildung, ist noch nicht entschieden und soll in einer späteren Bundesratssitzung behandelt werden. Als Termin für das Inkrafttreten wird der 1. Juli 2027 genannt. Die Sitzung war zugleich die erste unter dem neuen Bundesratspräsidenten Hendrik Wüst (CDU), der seine Antrittsrede hielt.",
-      "quelle": "dpa",
-      "datum_artikel": "2026-11-20",
-      "land": "Deutschland"
+      "titel": "EU-Haushalt: Merz lehnt Kompromiss von Ratspräsident Costa als zu teuer ab",
+      "text": "Im Streit um den EU-Finanzrahmen für 2028 bis 2034 hat EU-Ratspräsident António Costa einen Kompromiss vorgelegt, der rund 204 Milliarden Euro weniger vorsieht als der Vorschlag der EU-Kommission von knapp 2 Billionen Euro. Zusätzlich schlägt Costa neue Eigeneinnahmen der EU vor, darunter eine Digitalsteuer für große Tech-Konzerne mit mehr als 50 Millionen Euro Digitalumsatz in der EU. Bundeskanzler Friedrich Merz nannte den Vorschlag einen ersten Schritt, das Volumen sei aber weiterhin zu hoch; ein EU-Haushalt, der um über 40 Prozent wachse, passe nicht in diese Zeit. Er sei aber bereit, an einem realistischen und bezahlbaren Haushalt mitzuarbeiten, und eine Einigung sei bis Jahresende nötig. Laut ZDF lehnt auch Frankreich den Vorschlag ab. Der Haushalt braucht die Zustimmung aller 27 EU-Staaten und des EU-Parlaments; Costa will die Staats- und Regierungschefs beim nächsten Gipfel Ende November in Brüssel darüber beraten lassen.",
+      "quelle": "Handelsblatt",
+      "datum_artikel": "2026-11-21",
+      "land": "EU"
     }
   ]
 }
