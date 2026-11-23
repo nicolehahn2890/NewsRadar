@@ -1,58 +1,45 @@
 {
-  "datum": "Sonntag, 22. November 2026",
-  "generiert": "2026-11-22",
-  "ki_stories": [
-    {
-      "titel": "Mathematiker mit KI-Hilfe: Neuer Beweis zur Navier-Stokes-Gleichung soll Millennium-Problem lösen",
-      "text": "Der NYU-Mathematiker Tristan Buckmaster und Levent Alpöge, der bei Anthropic arbeitet, haben am 20. November einen Beweis veröffentlicht, wonach die 3D-Navier-Stokes-Gleichungen auch ohne äußere Kraft in endlicher Zeit 'explodieren' können (finite-time blow-up). Genau diese Variante ohne äußeren Antrieb ist Gegenstand des Millennium-Problems des Clay-Instituts, für das eine Million Dollar Preisgeld ausgesetzt ist. Laut den Autoren waren KI-Modelle von Anthropic stark beteiligt: Sie sollen den ersten Beweis geschrieben haben, der dann über mehrere Runden mit den Modellen überarbeitet wurde; dazu gibt es eine Formalisierung in der Beweissprache Lean mit rund 600.000 Zeilen. OpenAI hatte im September einen ähnlichen Beweis vorgelegt, der aber nach Kritik von Fachleuten nur für den Fall mit äußerer Kraft gilt. Wichtig: Der Beweis ist noch nicht unabhängig geprüft, und ein nötiges numerisches Zertifikat ist noch nicht veröffentlicht. Bestätigt sich das Ergebnis, wäre es einer der bisher größten Belege dafür, dass KI echte Spitzenforschung in der Mathematik leisten kann.",
-      "quelle": "Scientific American",
-      "datum_artikel": "2026-11-20"
-    },
-    {
-      "titel": "Trump will US-Firmen den Bau von Rechenzentren im Ausland verbieten",
-      "text": "Präsident Donald Trump hat am Freitag auf seiner ersten Pressekonferenz nach der Asienreise angekündigt, US-Unternehmen nicht mehr zu erlauben, Rechenzentren außerhalb der USA zu bauen. Wer es trotzdem tue, müsse mit einer 'gewaltigen Steuer' rechnen, sagte Trump; als Begründung nannte er den Wettlauf mit China. Wie das Verbot rechtlich umgesetzt werden soll, blieb offen – es gibt weder einen Steuersatz noch einen Zeitplan oder einen schriftlichen Erlass, und laut Berichten war die Ankündigung selbst für Teile seines Stabs neu. Betroffen wären vor allem Konzerne wie Microsoft, Amazon, Google und Meta sowie Rechenzentrumsbetreiber wie Equinix und Digital Realty, die weltweit KI-Rechenzentren betreiben oder planen. Bis konkrete Regeln vorliegen, herrscht für die Branche Unsicherheit über laufende Auslandsprojekte, etwa in Europa und am Golf.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-20"
-    }
-  ],
+  "datum": "Montag, 23. November 2026",
+  "generiert": "2026-11-23",
+  "ki_stories": [],
   "unternehmen_stories": [
     {
-      "titel": "Anthropic-Aktie rutscht am zweiten Handelstag fast auf den Ausgabepreis",
-      "text": "Nach dem Rekord-Börsengang mit einem Plus von 17 Prozent am ersten Tag ist die Anthropic-Aktie am Freitag, dem zweiten Handelstag, deutlich gefallen. Im Tagestief kostete sie nur noch 83,05 Dollar – gerade 5 Cent über dem Ausgabepreis von 83 Dollar. Danach erholte sie sich und schloss bei 88,30 Dollar, rund 9 Prozent unter dem Schlusskurs vom Donnerstag (97,17 Dollar). Auslöser war vor allem der breite Ausverkauf bei KI- und Chipwerten, der am selben Tag auch NVIDIA und den Nasdaq schwer belastete – der Rückgang spiegelt also eher die Marktstimmung als Nachrichten zu Anthropic selbst. Laut Börsenprospekt halten Amazon (14,6 Prozent) und Google (13,4 Prozent) zusammen rund 28 Prozent an Anthropic, allerdings ohne Stimmrechte. Ob die Aktie sich über dem Ausgabepreis halten kann, gilt nun als wichtiger Stimmungstest für den gesamten KI-Sektor.",
-      "quelle": "Fortune",
-      "datum_artikel": "2026-11-20",
-      "unternehmen": "Anthropic"
-    },
-    {
-      "titel": "Großstörung bei OpenAI: Bis zu 75 Prozent der ChatGPT-Anfragen schlugen fehl",
-      "text": "Am Samstag, 21. November, ist bei OpenAI über dreieinhalb Stunden ein Großteil der Anfragen gescheitert (zwischen 1:48 und 5:21 Uhr kalifornischer Zeit, also etwa 10:48 bis 14:21 Uhr in Wien). Auf dem Höhepunkt lag die Fehlerquote bei ChatGPT – für zahlende wie für kostenlose Nutzer – bei 75 Prozent, betroffen war auch die Schnittstelle für Entwickler (API). Laut OpenAIs eigenem Störungsbericht fielen bei einer geplanten Wartung beide Datenbank-Kopien eines zentralen Dienstes aus, der die Anmeldung im gesamten OpenAI-System abwickelt. OpenAI hat ähnliche Wartungsarbeiten vorerst gestoppt und eine Umschaltmöglichkeit eingebaut, um den Verkehr künftig schneller umzuleiten. In einem Nutzerforum wird zudem von einer zweiten Welle mit eingefrorenen Chats berichtet, die OpenAI bisher nicht offiziell bestätigt hat. Für OpenAI ist das heikel, weil immer mehr Unternehmen ihre Abläufe auf ChatGPT und die API stützen.",
-      "quelle": "OpenAI",
+      "titel": "Amazon kurz vor Kauf des KI-Startups Decart für rund 7,5 Milliarden Dollar",
+      "text": "Amazon steht laut Financial Times in fortgeschrittenen Gesprächen über die Übernahme des KI-Startups Decart für rund 7,5 Milliarden Dollar. Der Deal ist noch nicht angekündigt und kann laut Bericht noch scheitern; ein Teil des Preises soll aus erfolgsabhängigen Zahlungen bestehen. Decart wurde 2023 von drei israelischen Ingenieuren gegründet und war erst im Mai nach einer Finanzierungsrunde über 300 Millionen Dollar, an der sich auch NVIDIA beteiligte, mit rund 4 Milliarden Dollar bewertet. Die Software des Startups sorgt dafür, dass KI-Modelle, die für NVIDIA-Chips gebaut wurden, auch auf anderen Chips laufen. Für Amazon wäre das ein Baustein, um die eigenen AWS-Chips attraktiver zu machen und die Abhängigkeit von NVIDIA zu verringern. Das Wall Street Journal hatte bereits im Oktober über Gespräche mit einem Volumen von knapp 7 Milliarden Dollar berichtet.",
+      "quelle": "Financial Times",
       "datum_artikel": "2026-11-21",
-      "unternehmen": "OpenAI"
+      "unternehmen": "Amazon"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Gold erlebt schlechteste Woche seit März – Preis fällt rund 9 Prozent auf etwa 3.500 Dollar",
-      "text": "Der Goldpreis ist in dieser Woche um rund 9 Prozent eingebrochen – der stärkste Wochenverlust seit März. Am Freitag fiel die Feinunze zeitweise auf etwa 3.503 bis 3.514 Dollar, den tiefsten Stand seit September 2025; vom Rekordhoch im Januar 2026 hat Gold damit mehr als 30 Prozent verloren. Hauptgrund sind die Erwartungen weiterer Zinserhöhungen der US-Notenbank: Die Terminmärkte preisen eine Anhebung um 0,25 Prozentpunkte bei der Fed-Sitzung im Dezember mit rund 90 bis 97 Prozent Wahrscheinlichkeit ein. Höhere Zinsen machen das zinslose Gold unattraktiver, dazu kamen ein starker Dollar und Zwangsverkäufe von Anlegern, die wegen des KI-Ausverkaufs an den Aktienmärkten Geld brauchten. Nächster wichtiger Termin ist der US-Inflationsindex PCE in der kommenden, wegen Thanksgiving verkürzten Börsenwoche.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-20"
+      "titel": "KI-Ausverkauf erreicht Asien: Kospi rutscht am Montag weiter ab, Samsung und SK Hynix im Minus",
+      "text": "Nach dem Einbruch an der Wall Street am Freitag setzt sich der Ausverkauf bei KI- und Chipwerten zum Wochenstart in Asien fort. Der südkoreanische Leitindex Kospi fiel am Montagmorgen um rund 2,7 Prozent auf etwa 4.740 Punkte, nachdem er bereits am Freitag 5,2 Prozent verloren hatte und mit 4.869,96 Punkten auf dem tiefsten Stand seit Mitte Januar geschlossen hatte. Samsung Electronics gaben zum Start rund 3,4 Prozent nach, SK Hynix rund 2,3 Prozent; die beiden Konzerne waren schon für etwa zwei Drittel des Freitagsverlusts verantwortlich. Analysten begründen das mit wachsenden Zweifeln an den hohen KI-Investitionen; in einer Umfrage der Bank of America halten 53 Prozent der Fondsmanager KI-Aktien bereits für eine Blase. Zusätzlicher Druck droht durch Kredite, mit denen Privatanleger die beiden Aktien gekauft haben (geschätzt knapp 7 Billionen Won), weil fallende Kurse Zwangsverkäufe auslösen können. In den USA liegt der S&P 500 laut Reuters rund 8 Prozent unter seinem Rekordhoch vom 6. Oktober, der Technologiesektor sogar fast 19 Prozent. In der verkürzten Thanksgiving-Woche (Börse am Donnerstag geschlossen) schauen Anleger nun auf die PCE-Inflationsdaten, die zweite Schätzung des US-Wachstums und die Zahlen von Dell, HP und Workday.",
+      "quelle": "Korea Times",
+      "datum_artikel": "2026-11-23"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump verpflichtet Bundes-Auftragnehmer, Anfragen des Kongresses mit dem Weißen Haus abzustimmen",
-      "text": "Präsident Trump hat am späten Freitag eine Verfügung (Executive Order) unterzeichnet, nach der Firmen mit Regierungsaufträgen und deren Subunternehmer das Weiße Haus einbeziehen müssen, wenn der Kongress Informationen von ihnen verlangt. Unterlagen, die die Regierung als vertraulich einstuft, sollen sie zurückhalten. Wer sich nicht daran hält, kann laut der Verfügung bestehende Aufträge verlieren und von künftigen Bundesaufträgen ausgeschlossen werden. Begründet wird die Anordnung damit, dass der Kongress nur mit einem gültigen gesetzgeberischen Zweck Informationen verlangen dürfe. Die Verfügung gilt als Reaktion auf die angekündigten Untersuchungen der Demokraten, die im Januar die Mehrheit im Kongress übernehmen. Der Demokrat Robert Garcia, künftiger Ausschussvorsitzender, nannte sie einen 'offenen Angriff' auf das Kontrollrecht des Kongresses. Juristen erwarten Klagen, vor allem falls Firmen Informationen zurückhalten sollen, die per Vorladung (subpoena) angefordert werden.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-21",
+      "titel": "Trump mischt sich in Machtkampf der Senats-Demokraten ein: Zusammenarbeit mit Schumer 'sehr schwer'",
+      "text": "US-Präsident Donald Trump hat sich am Sonntag in den Führungsstreit der Demokraten im Senat eingeschaltet. Auf seiner Plattform Truth Social schrieb er, es werde für ihn sehr schwer, mit Chuck Schumer zusammenzuarbeiten, falls dieser Mehrheitsführer im Senat werde. Eine ausdrückliche Unterstützung für Schumers Herausforderer, den Senator Chris Van Hollen aus Maryland, sprach Trump nicht aus. Hintergrund: Nach den Zwischenwahlen stellen die Demokraten künftig die Mehrheit im Senat, und Van Hollen fordert Schumer um den Posten des Fraktionschefs heraus. Die geheime Abstimmung ist für den 1. Dezember angesetzt; nach öffentlichen Zählungen, die die Washington Post zitiert, unterstützen bislang 16 Senatoren Schumer und 6 Van Hollen. Der künftige Mehrheitsführer bestimmt, welche Gesetze im Senat zur Abstimmung kommen – und damit, wie Trump in seinen letzten zwei Amtsjahren mit dem Kongress verhandeln muss.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-11-22",
       "land": "USA"
     },
     {
-      "titel": "EU-Haushalt: Merz lehnt Kompromiss von Ratspräsident Costa als zu teuer ab",
-      "text": "Im Streit um den EU-Finanzrahmen für 2028 bis 2034 hat EU-Ratspräsident António Costa einen Kompromiss vorgelegt, der rund 204 Milliarden Euro weniger vorsieht als der Vorschlag der EU-Kommission von knapp 2 Billionen Euro. Zusätzlich schlägt Costa neue Eigeneinnahmen der EU vor, darunter eine Digitalsteuer für große Tech-Konzerne mit mehr als 50 Millionen Euro Digitalumsatz in der EU. Bundeskanzler Friedrich Merz nannte den Vorschlag einen ersten Schritt, das Volumen sei aber weiterhin zu hoch; ein EU-Haushalt, der um über 40 Prozent wachse, passe nicht in diese Zeit. Er sei aber bereit, an einem realistischen und bezahlbaren Haushalt mitzuarbeiten, und eine Einigung sei bis Jahresende nötig. Laut ZDF lehnt auch Frankreich den Vorschlag ab. Der Haushalt braucht die Zustimmung aller 27 EU-Staaten und des EU-Parlaments; Costa will die Staats- und Regierungschefs beim nächsten Gipfel Ende November in Brüssel darüber beraten lassen.",
+      "titel": "Haushaltswoche im Bundestag: Etat 2027 soll Freitag beschlossen werden – Klingbeil sieht Stromsteuer-Senkung finanziert",
+      "text": "Ab Dienstag berät der Bundestag vier Tage lang abschließend über den Bundeshaushalt 2027, die namentliche Schlussabstimmung ist für Freitag, den 27. November, geplant. Der Haushaltsausschuss hatte den Etat Mitte November mit Ausgaben von rund 560,9 Milliarden Euro gebilligt, etwa 5,5 Milliarden Euro mehr als im Regierungsentwurf. Offen war dabei die Gegenfinanzierung der von der Koalition beschlossenen Senkung der Stromsteuer für alle ab 2027, die rund 5,4 Milliarden Euro kostet. Finanzminister Lars Klingbeil (SPD) sagte nun laut Handelsblatt, die Finanzierung dafür sei sichergestellt; die Frage soll auch im Koalitionsausschuss am Dienstag Thema sein, eine Lösung könnte per Änderungsantrag noch in die Haushaltsberatungen einfließen. Höhepunkt der Woche ist am Mittwoch die Generaldebatte, in der Kanzler Friedrich Merz (CDU) spricht. Die Grünen kritisieren den Haushalt scharf und sprechen von Haushaltstricks.",
       "quelle": "Handelsblatt",
       "datum_artikel": "2026-11-21",
-      "land": "EU"
+      "land": "Deutschland"
+    },
+    {
+      "titel": "Weltklimakonferenz COP31 scheitert erstmals seit 2009 ohne Abschlusserklärung",
+      "text": "Die UN-Klimakonferenz COP31 im türkischen Antalya ist am Sonntag ohne gemeinsame Abschlusserklärung zu Ende gegangen – das erste Mal seit 2009. Knapp 40 Staaten, darunter die EU-Länder, Großbritannien, Panama und Pazifik-Inselstaaten wie Vanuatu und die Marshallinseln, lehnten den Entwurf ab, weil er keinen Ausstieg aus fossilen Brennstoffen erwähnte. Da die Konferenz nahezu Einstimmigkeit verlangt, reichte das, um eine Einigung zu verhindern. Konferenzpräsident Murat Kurum erklärte nach dem gescheiterten vierten Entwurf, es werde keinen weiteren geben; der australische Klimaminister Chris Bowen sprach von unüberbrückbaren roten Linien. Auch bei Geld für die Anpassung an den Klimawandel gab es kaum Fortschritte. UN-Generalsekretär António Guterres zeigte sich tief enttäuscht.",
+      "quelle": "CBS News",
+      "datum_artikel": "2026-11-22",
+      "land": "International"
     }
   ]
 }
