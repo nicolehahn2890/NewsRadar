@@ -1,44 +1,71 @@
 {
-  "datum": "Montag, 23. November 2026",
-  "generiert": "2026-11-23",
-  "ki_stories": [],
+  "datum": "Dienstag, 24. November 2026",
+  "generiert": "2026-11-24",
+  "ki_stories": [
+    {
+      "titel": "OpenAI-Chefwissenschaftler Pachocki fordert branchenweite Obergrenzen für immer stärkere KI",
+      "text": "Jakub Pachocki, Chefwissenschaftler von OpenAI, hat am Sonntag in einem Essay vorgeschlagen, dass sich alle KI-Entwickler auf gemeinsame Grenzen für immer leistungsfähigere Modelle einigen. Als einheitlicher Maßstab für den Fortschritt soll die sogenannte Perplexity dienen – eine Kennzahl dafür, wie gut ein Modell Text vorhersagt. Die Firmen sollen sich verpflichten, vereinbarte Fähigkeitsschwellen erst zu überschreiten, wenn neue Überwachungs- und Sicherheitsmechanismen bereitstehen. Wo die erste Grenze liegen und ab wann sie gelten soll, lässt Pachocki offen. OpenAI-Chef Sam Altman nannte den Text auf X 'das Wichtigste, was OpenAI seit Langem veröffentlicht hat'. Ob Konkurrenten wie Google, Anthropic oder Meta mitziehen, ist bislang unklar.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-22"
+    },
+    {
+      "titel": "Trump will mit China gemeinsame Leitplanken für KI aufstellen",
+      "text": "US-Präsident Donald Trump hat angekündigt, mit China an gemeinsamen Regeln (joint guardrails) für Künstliche Intelligenz zu arbeiten – eine Abkehr von seiner bisherigen Linie, die vor allem auf Wettbewerb und Exportkontrollen setzte. Laut Semafor kommt der Vorstoß nach einer Gegenbewegung gegen die Tech-Branche, die zu den Verlusten der Republikaner bei den Zwischenwahlen beigetragen haben soll. Was die Leitplanken konkret regeln sollen, wie sie durchgesetzt werden und nach welchem Zeitplan verhandelt wird, hat Trump nicht gesagt. Finanzminister Scott Bessent hatte im Mai erklärt, Gespräche mit Peking sollten vor allem verhindern, dass KI-Modelle in die Hände nichtstaatlicher Gruppen gelangen. Beobachter verweisen auf einen Widerspruch: Gleichzeitig verschärft Washington die Regeln für KI-Chip-Lieferungen und Rechenzentren im Ausland.",
+      "quelle": "Semafor",
+      "datum_artikel": "2026-11-22"
+    }
+  ],
   "unternehmen_stories": [
     {
-      "titel": "Amazon kurz vor Kauf des KI-Startups Decart für rund 7,5 Milliarden Dollar",
-      "text": "Amazon steht laut Financial Times in fortgeschrittenen Gesprächen über die Übernahme des KI-Startups Decart für rund 7,5 Milliarden Dollar. Der Deal ist noch nicht angekündigt und kann laut Bericht noch scheitern; ein Teil des Preises soll aus erfolgsabhängigen Zahlungen bestehen. Decart wurde 2023 von drei israelischen Ingenieuren gegründet und war erst im Mai nach einer Finanzierungsrunde über 300 Millionen Dollar, an der sich auch NVIDIA beteiligte, mit rund 4 Milliarden Dollar bewertet. Die Software des Startups sorgt dafür, dass KI-Modelle, die für NVIDIA-Chips gebaut wurden, auch auf anderen Chips laufen. Für Amazon wäre das ein Baustein, um die eigenen AWS-Chips attraktiver zu machen und die Abhängigkeit von NVIDIA zu verringern. Das Wall Street Journal hatte bereits im Oktober über Gespräche mit einem Volumen von knapp 7 Milliarden Dollar berichtet.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-11-21",
-      "unternehmen": "Amazon"
+      "titel": "Kehrtwende bei NVIDIA: Jensen Huang ist zurück als Chef – Aktie springt um rund 31 Prozent",
+      "text": "Der Aufsichtsrat von NVIDIA hat Jensen Huang am Montag einstimmig wieder als Präsident, Vorstandschef und Mitglied des Boards eingesetzt, mit sofortiger Wirkung. Huang war am 12. November zurückgetreten, Finanzchefin Colette Kress führte den Konzern seither übergangsweise; noch am 17. November hatte das Board eine Rückkehr ausgeschlossen. Nun erklärte es, man sei von Huangs Aufrichtigkeit und Führungsfähigkeit überzeugt und habe auch Rückmeldungen von höchster Ebene der US-Regierung erhalten – Präsident Trump hatte mehrfach öffentlich Huangs Rückkehr gefordert. Laut NVIDIA war Huang Ziel einer ausländischen Geheimdienstaktion; ein Ausschuss unabhängiger Direktoren ermittelt weiter und soll die Untersuchung abschließen. Die Aktie stieg am Montag um rund 31 Prozent auf etwa 166 Dollar.",
+      "quelle": "CNBC",
+      "datum_artikel": "2026-11-23",
+      "unternehmen": "NVIDIA"
+    },
+    {
+      "titel": "Jetzt offiziell: CrowdStrike kauft Zscaler für 43,9 Milliarden Dollar",
+      "text": "Nachdem am Freitag erst Verhandlungen bekannt geworden waren, haben CrowdStrike und Zscaler am Montag die Übernahme offiziell vereinbart. Es ist ein reiner Aktientausch im Wert von rund 43,9 Milliarden Dollar: Jede Zscaler-Aktie wird in 1,135 CrowdStrike-Aktien getauscht, das entspricht etwa 260 Dollar je Aktie auf Basis des Schlusskurses vom 20. November. Die bisherigen CrowdStrike-Aktionäre halten danach rund 84 Prozent, die von Zscaler knapp 16 Prozent. George Kurtz bleibt Chef des kombinierten Konzerns, Zscaler-Gründer Jay Chaudhry führt das Zscaler-Geschäft und zieht ins Board ein. CrowdStrike will so Netzwerksicherheit in seine Falcon-Plattform holen und rund 8.000 Zscaler-Kunden erreichen; der Abschluss wird nach Prüfung durch die Behörden in der zweiten Jahreshälfte 2028 erwartet. Die CrowdStrike-Aktie gehörte am Montag zu den größten Verlierern im S&P 500.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-23",
+      "unternehmen": "CrowdStrike"
+    },
+    {
+      "titel": "Abhör-Affäre bei OpenAI: Ex-Ingenieur hat laut Anklage wohl Geschäftsgeheimnisse mitgeschnitten",
+      "text": "US-Staatsanwälte werfen dem früheren OpenAI-Ingenieur Abdulrahman Alfozan vor, mit einem versteckten Aufnahmegerät in einem Konferenzraum der Chefetage in San Francisco wahrscheinlich Geschäftsgeheimnisse abgefangen zu haben. Bei ihm sei zudem ein Foto gefunden worden, das offenbar ein Vertragsentwurf (term sheet) für eine mögliche strategische Partnerschaft zeigt. Das Gerät steckte laut Anklage in einem USB-Anschluss hinter einem Fernseher. In einem Schriftsatz vom Montag fordern die Ankläger, dass Alfozan bis zum Prozess in Haft bleibt, weil Fluchtgefahr bestehe – er sei vor seiner Festnahme nur wenige Tage von einer Ausreise nach Saudi-Arabien entfernt gewesen. Sein Anwalt bestreitet, dass es Beweise für Spionage oder Diebstahl von Geschäftsgeheimnissen gibt.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-23",
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "KI-Ausverkauf erreicht Asien: Kospi rutscht am Montag weiter ab, Samsung und SK Hynix im Minus",
-      "text": "Nach dem Einbruch an der Wall Street am Freitag setzt sich der Ausverkauf bei KI- und Chipwerten zum Wochenstart in Asien fort. Der südkoreanische Leitindex Kospi fiel am Montagmorgen um rund 2,7 Prozent auf etwa 4.740 Punkte, nachdem er bereits am Freitag 5,2 Prozent verloren hatte und mit 4.869,96 Punkten auf dem tiefsten Stand seit Mitte Januar geschlossen hatte. Samsung Electronics gaben zum Start rund 3,4 Prozent nach, SK Hynix rund 2,3 Prozent; die beiden Konzerne waren schon für etwa zwei Drittel des Freitagsverlusts verantwortlich. Analysten begründen das mit wachsenden Zweifeln an den hohen KI-Investitionen; in einer Umfrage der Bank of America halten 53 Prozent der Fondsmanager KI-Aktien bereits für eine Blase. Zusätzlicher Druck droht durch Kredite, mit denen Privatanleger die beiden Aktien gekauft haben (geschätzt knapp 7 Billionen Won), weil fallende Kurse Zwangsverkäufe auslösen können. In den USA liegt der S&P 500 laut Reuters rund 8 Prozent unter seinem Rekordhoch vom 6. Oktober, der Technologiesektor sogar fast 19 Prozent. In der verkürzten Thanksgiving-Woche (Börse am Donnerstag geschlossen) schauen Anleger nun auf die PCE-Inflationsdaten, die zweite Schätzung des US-Wachstums und die Zahlen von Dell, HP und Workday.",
-      "quelle": "Korea Times",
+      "titel": "Größte Rally seit April 2025: Nasdaq springt um 6,5 Prozent, Micron und Dell zweistellig im Plus",
+      "text": "Nach dem KI-Ausverkauf der Vorwoche haben die US-Börsen am Montag ihren stärksten Tag seit April 2025 erlebt. Die Nasdaq legte um 6,5 Prozent auf 24.089 Punkte zu, der S&P 500 um 4,7 Prozent auf 7.237 Punkte und der Dow Jones um rund 3 Prozent auf 49.595 Punkte; damit endete eine Serie von sieben Verlusttagen beim S&P 500 in Folge. Auslöser war die Rückkehr von Jensen Huang an die NVIDIA-Spitze, die Sorgen um die KI-Investitionen dämpfte. Besonders stark stiegen Chip- und Hardwarewerte: Micron gewann rund 19 Prozent, Dell etwa 22 Prozent. Die Gewinne machen gut die Hälfte der Verluste der Vorwoche wett. Nur Energie- und Basiskonsumwerte schlossen im Minus, der Ölpreis fiel auf ein Dreimonatstief – und am Terminmarkt wird weiter fest mit einer Zinserhöhung der Fed im Dezember gerechnet.",
+      "quelle": "Washington Post",
       "datum_artikel": "2026-11-23"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump mischt sich in Machtkampf der Senats-Demokraten ein: Zusammenarbeit mit Schumer 'sehr schwer'",
-      "text": "US-Präsident Donald Trump hat sich am Sonntag in den Führungsstreit der Demokraten im Senat eingeschaltet. Auf seiner Plattform Truth Social schrieb er, es werde für ihn sehr schwer, mit Chuck Schumer zusammenzuarbeiten, falls dieser Mehrheitsführer im Senat werde. Eine ausdrückliche Unterstützung für Schumers Herausforderer, den Senator Chris Van Hollen aus Maryland, sprach Trump nicht aus. Hintergrund: Nach den Zwischenwahlen stellen die Demokraten künftig die Mehrheit im Senat, und Van Hollen fordert Schumer um den Posten des Fraktionschefs heraus. Die geheime Abstimmung ist für den 1. Dezember angesetzt; nach öffentlichen Zählungen, die die Washington Post zitiert, unterstützen bislang 16 Senatoren Schumer und 6 Van Hollen. Der künftige Mehrheitsführer bestimmt, welche Gesetze im Senat zur Abstimmung kommen – und damit, wie Trump in seinen letzten zwei Amtsjahren mit dem Kongress verhandeln muss.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-11-22",
+      "titel": "Schweigegeld-Urteil: Berufungsgericht gibt Trump neue Chance, den Fall vor ein Bundesgericht zu bringen",
+      "text": "Das Bundesberufungsgericht für den zweiten Bezirk (Second Circuit) in New York hat am Montag eine Entscheidung aufgehoben, die Trumps Schweigegeld-Fall beim New Yorker Staatsgericht belassen hatte. Die Richter erklärten, die Vorinstanz habe zu Unrecht angenommen, dass ein Wechsel an ein Bundesgericht nach einer Verurteilung grundsätzlich ausgeschlossen sei. Ein Bundesrichter in Manhattan soll nun zügig entscheiden, ob der Fall dorthin wechselt; dort könnte Trump die Einstellung unter Berufung auf die präsidentielle Immunität beantragen. Der bisher zuständige Richter Alvin Hellerstein ist im Oktober gestorben, wer übernimmt, ist offen. Der Schuldspruch der Geschworenen bleibt vorerst bestehen, Trumps separate Berufung vor dem Staatsgericht ist aber faktisch eingefroren. Trumps Anwälte begrüßten die Entscheidung, die Staatsanwaltschaft Manhattan äußerte sich nicht; der Streit könnte am Ende vor dem Supreme Court landen.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-11-23",
       "land": "USA"
     },
     {
-      "titel": "Haushaltswoche im Bundestag: Etat 2027 soll Freitag beschlossen werden – Klingbeil sieht Stromsteuer-Senkung finanziert",
-      "text": "Ab Dienstag berät der Bundestag vier Tage lang abschließend über den Bundeshaushalt 2027, die namentliche Schlussabstimmung ist für Freitag, den 27. November, geplant. Der Haushaltsausschuss hatte den Etat Mitte November mit Ausgaben von rund 560,9 Milliarden Euro gebilligt, etwa 5,5 Milliarden Euro mehr als im Regierungsentwurf. Offen war dabei die Gegenfinanzierung der von der Koalition beschlossenen Senkung der Stromsteuer für alle ab 2027, die rund 5,4 Milliarden Euro kostet. Finanzminister Lars Klingbeil (SPD) sagte nun laut Handelsblatt, die Finanzierung dafür sei sichergestellt; die Frage soll auch im Koalitionsausschuss am Dienstag Thema sein, eine Lösung könnte per Änderungsantrag noch in die Haushaltsberatungen einfließen. Höhepunkt der Woche ist am Mittwoch die Generaldebatte, in der Kanzler Friedrich Merz (CDU) spricht. Die Grünen kritisieren den Haushalt scharf und sprechen von Haushaltstricks.",
+      "titel": "Nach Aiwangers Tod: Tobias Gotthardt wird Bayerns Wirtschaftsminister, Glauber Vize-Regierungschef",
+      "text": "Die Freien Wähler haben die Nachfolge des Anfang November überraschend verstorbenen Hubert Aiwanger geregelt. Neuer bayerischer Wirtschaftsminister soll der bisherige Staatssekretär Tobias Gotthardt (49) aus der Oberpfalz werden, der das Ministerium bereits kommissarisch führt. Umweltminister Thorsten Glauber wird stellvertretender Ministerpräsident, Digitalminister Fabian Mehring soll Parteichef werden; Gotthardts Staatssekretärsposten übernimmt Felix Locke. Das entschieden Landesvorstand und Landtagsfraktion am Montag in einer gemeinsamen Sitzung in München. Formell muss Ministerpräsident Markus Söder (CSU) Gotthardt noch ernennen und der Landtag zustimmen; Söder folgt in solchen Fällen üblicherweise den Vorschlägen des Koalitionspartners. Gotthardt kündigte an, den Kurs des Ministeriums fortzusetzen – knapp zwei Jahre vor der nächsten Landtagswahl.",
       "quelle": "Handelsblatt",
-      "datum_artikel": "2026-11-21",
+      "datum_artikel": "2026-11-23",
       "land": "Deutschland"
     },
     {
-      "titel": "Weltklimakonferenz COP31 scheitert erstmals seit 2009 ohne Abschlusserklärung",
-      "text": "Die UN-Klimakonferenz COP31 im türkischen Antalya ist am Sonntag ohne gemeinsame Abschlusserklärung zu Ende gegangen – das erste Mal seit 2009. Knapp 40 Staaten, darunter die EU-Länder, Großbritannien, Panama und Pazifik-Inselstaaten wie Vanuatu und die Marshallinseln, lehnten den Entwurf ab, weil er keinen Ausstieg aus fossilen Brennstoffen erwähnte. Da die Konferenz nahezu Einstimmigkeit verlangt, reichte das, um eine Einigung zu verhindern. Konferenzpräsident Murat Kurum erklärte nach dem gescheiterten vierten Entwurf, es werde keinen weiteren geben; der australische Klimaminister Chris Bowen sprach von unüberbrückbaren roten Linien. Auch bei Geld für die Anpassung an den Klimawandel gab es kaum Fortschritte. UN-Generalsekretär António Guterres zeigte sich tief enttäuscht.",
-      "quelle": "CBS News",
-      "datum_artikel": "2026-11-22",
+      "titel": "Selenskyj fordert vor Nato-Parlamentariern in Berlin den Beitritt der Ukraine – Rutte: keine Einigkeit",
+      "text": "Zum Abschluss der 72. Jahrestagung der Parlamentarischen Versammlung der Nato, die erstmals seit 26 Jahren in Berlin stattfand, hat der ukrainische Präsident Wolodymyr Selenskyj per Video erneut die Aufnahme seines Landes in das Bündnis gefordert. Eine Mitgliedschaft sei für die Sicherheit Europas besser als Garantien, die der Beistandsklausel nach Artikel 5 nur ähneln, sagte er und fragte die Abgeordneten: 'Warum nicht laut sagen, was so viele denken?' Nato-Generalsekretär Mark Rutte sagte, es gebe für die Ukraine eine entsprechende Perspektive, derzeit aber keine Einstimmigkeit unter den Mitgliedern. Auch Außenminister Johann Wadephul sprach vor der Versammlung, die von Bundestag und Bundesrat ausgerichtet wurde. Hintergrund sind laufende US-Gespräche über Sicherheitsgarantien für die Ukraine, die Moskau ablehnt, sofern sie auf eine Nato-Mitgliedschaft hinauslaufen.",
+      "quelle": "Euronews",
+      "datum_artikel": "2026-11-23",
       "land": "International"
     }
   ]
