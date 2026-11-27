@@ -1,70 +1,78 @@
 {
-  "datum": "Donnerstag, 26. November 2026",
-  "generiert": "2026-11-26",
+  "datum": "Freitag, 27. November 2026",
+  "generiert": "2026-11-27",
   "ki_stories": [
     {
-      "titel": "Nach dem CIA-Hack mit dem KI-Werkzeug Artex meldet auch die US-Finanzaufsicht FinCEN einen Einbruch",
-      "text": "Am Dienstag wurde bekannt, dass Hacker in ein nicht geheimes Analyse-System für öffentlich zugängliche Informationen eingedrungen sind. Dieses System nutzen der Geheimdienst CIA, die Geodaten-Behörde NGA und das Büro der Geheimdienstkoordinatorin (ODNI). Nach Informationen der New York Times vermuten die Ermittler, dass die Angreifer Artex benutzt haben. Das ist ein kostenloses KI-Werkzeug, das ein chinesischer Entwickler im Juli eigentlich zur Abwehr von Cyberangriffen veröffentlicht hatte und das mit handelsüblichen KI-Modellen arbeitet. Das FBI hatte schon elf Tage vorher gewarnt, dass Kriminelle Artex seit mindestens August für Angriffe nutzen. Am Mittwoch meldete dann FinCEN, die Behörde des US-Finanzministeriums gegen Finanzkriminalität, einen unbefugten Zugriff auf einen kleinen Teil ihrer Systeme. Einige Dienste wurden vorsorglich abgeschaltet und Meldefristen für Banken verlängert. Ob die beiden Angriffe zusammenhängen und wer dahintersteckt, ist bisher offen. Geheime Daten waren nach Angaben der Behörden nicht betroffen.",
-      "quelle": "New York Times",
-      "datum_artikel": "2026-11-25"
+      "titel": "Nach neuen US-Exportregeln: NVIDIA stoppt Server-Lieferungen nach Malaysia, Singapur, Thailand und Indonesien",
+      "text": "NVIDIA hat seine Fertigungspartner angewiesen, keine Server mit NVIDIA-Chips mehr nach Malaysia, Singapur, Thailand und Indonesien auszuliefern, berichtet die Financial Times. Laut drei mit der Sache vertrauten Personen haben Dell und Supermicro Kunden in diesen Ländern bereits mitgeteilt, dass NVIDIA ihre Bestellungen nicht freigibt. Hintergrund ist eine neue US-Regel für KI-Chips, die seit dem 19. November gilt: Sie soll Umwege schließen, über die chinesische Firmen an Hochleistungschips kommen – inklusive der Möglichkeit, Top-Chips in Rechenzentren im Ausland nur zu mieten. Unklar ist, ob der Stopp nur vorübergehend ist, bis NVIDIA geprüft hat, ob die Partner in der Region die neuen Auflagen erfüllen. Für Südostasien, das zuletzt zu einem der wichtigsten Standorte für neue KI-Rechenzentren geworden ist, kann das den Ausbau spürbar bremsen. NVIDIA und die Partner haben sich zunächst nicht geäußert.",
+      "quelle": "Financial Times",
+      "datum_artikel": "2026-11-26"
     },
     {
-      "titel": "Nach Warnungen von KI-Insidern fordern US-Demokraten Grenzen für die Entwicklung neuer Modelle",
-      "text": "Am Dienstag hatte Axios berichtet, dass Beschäftigte von OpenAI und Anthropic bezweifeln, dass sich ihre stärksten noch unveröffentlichten Modelle sicher herausbringen lassen. Neu ist jetzt die politische Reaktion. Mehrere Demokraten verlangen nicht nur Regeln für den Einsatz von KI, sondern für deren Entwicklung selbst. Senator Bernie Sanders forderte, die Entwicklung besonders fortschrittlicher KI sofort zu stoppen. Senator Mark Kelly verlangte unabhängige Prüfer direkt in den Unternehmen und verglich KI mit Atomwaffen, für die es längst strenge Schutzregeln gebe. Auch Marylands Gouverneur Wes Moore, ein möglicher Präsidentschaftskandidat für 2028, und der Abgeordnete Greg Casar äußerten sich. Ein OpenAI-Sprecher sagte, die Firma habe neue Sicherheitsregeln eingeführt, die ihre Veröffentlichungen verlangsamen könnten. Weil die Demokraten ab Januar beide Kammern des Kongresses kontrollieren, könnten aus den Forderungen echte Gesetzentwürfe werden.",
-      "quelle": "Axios",
-      "datum_artikel": "2026-11-25"
+      "titel": "KI-Hedgefonds Situational Awareness verliert im dritten Quartal 65 Prozent",
+      "text": "Der KI-Hedgefonds Situational Awareness des früheren OpenAI-Forschers Leopold Aschenbrenner hat im dritten Quartal nach Gebühren rund 65 Prozent verloren, berichtet das Wall Street Journal unter Berufung auf einen Investorenbrief. Der Fonds hatte mit geliehenem Geld massiv auf KI-Aktien gesetzt und wäre schon im Juli nach einem KI-Ausverkauf beinahe zusammengebrochen. Trotz des Einbruchs liegt er für das Jahr bis Ende September immer noch rund 88,5 Prozent im Plus. Aschenbrenner kündigte an, das Portfolio umgebaut zu haben und einen erfahrenen Chef-Risikomanager einzustellen; Leerverkäufe und Kredithebel will er künftig nur noch in kleinerem Umfang nutzen. Der Fall gilt als Gradmesser dafür, wie stark die jüngsten Schwankungen bei KI-Aktien auch spezialisierte Profi-Investoren treffen.",
+      "quelle": "Wall Street Journal",
+      "datum_artikel": "2026-11-26"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SpaceX darf bis zu eine Million Satelliten für KI-Rechenzentren im All starten",
-      "text": "Die US-Telekom-Behörde FCC hat am Mittwoch den Plan von SpaceX für ein Netz namens Starmind genehmigt. Es soll aus bis zu einer Million solarbetriebener Satelliten bestehen, die im Weltraum KI-Berechnungen durchführen. Laut FCC-Chef Brendan Carr hat die Behörde damit zum ersten Mal Rechenzentren im Orbit zugelassen. Die Erlaubnis gilt aber nur teilweise und mit Auflagen. Für Satelliten oberhalb von 600 Kilometern muss SpaceX erst weitere Pläne gegen Weltraumschrott vorlegen. Über eine Ausnahme von der Pflicht, ausgediente Satelliten in der Atmosphäre verglühen zu lassen, hat die FCC noch nicht entschieden. SpaceX hat sieben Jahre Zeit für den ersten Satelliten und 14 Jahre für das ganze Netz. Das Unternehmen selbst rechnet mit einem Start ab 2028. Amazon hatte sich gegen den Antrag gestellt. Blue Origin wartet laut Bloomberg noch auf die Entscheidung über seinen eigenen, ähnlichen Antrag.",
+      "titel": "SAP erwägt Abbau von mindestens 10.000 Stellen für KI-Umbau",
+      "text": "Der Softwarekonzern SAP prüft laut Bloomberg, mindestens 10.000 Stellen zu streichen, um sein Geschäft stärker auf KI auszurichten. Das wären mindestens 9 Prozent der weltweit gut 110.000 Beschäftigten. Alle Abteilungen sollen mögliche Kürzungen benennen, im Fokus stehen vor allem Produktentwicklung und Vertrieb. Die Pläne sind noch nicht mit den Arbeitnehmervertretern besprochen, die endgültige Zahl kann sich daher noch ändern. SAP erklärte nur, man überprüfe die Organisation laufend, und wollte konkrete Pläne nicht kommentieren. Bereits 2024 hatte SAP ein Umbauprogramm mit am Ende 9.000 bis 10.000 betroffenen Stellen aufgelegt; Softwareaktien weltweit stehen derzeit unter Druck, weil Anleger fürchten, dass KI klassische Software ersetzt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-25",
-      "unternehmen": "SpaceX"
+      "datum_artikel": "2026-11-26",
+      "unternehmen": "SAP"
     },
     {
-      "titel": "Nadella: Microsofts eigene KI-Modelle dürfen OpenAI und Anthropic ruhig hinterherhinken",
-      "text": "Microsoft-Chef Satya Nadella hat auf dem DealBook Summit der New York Times offen erklärt, wie Microsoft bei KI sparen will. Die hauseigenen MAI-Modelle dürfen bis zu drei bis sechs Monate hinter den Spitzenmodellen von OpenAI und Anthropic liegen, wenn sie dafür nur 5 bis 20 Prozent der Rechenleistung brauchen. Ein halbes Jahr zurück sei ein sehr guter Platz, sagte er sinngemäß. Der Assistent Copilot entscheidet schon heute bei jeder Aufgabe selbst, ob er ein Modell von OpenAI, von Anthropic oder von Microsoft nutzt. Die meisten Nutzer lassen diese Wahl laut Nadella auf Automatik. Wie viel der Anfragen tatsächlich bei den günstigeren MAI-Modellen landen, sagte er nicht. Die Aussagen zeigen, dass Microsoft unabhängiger von OpenAI werden und die stark steigenden KI-Kosten drücken will.",
-      "quelle": "New York Times",
+      "titel": "Amazon und Meta verhandeln über Freigabe von Metas Einkaufs-Agent Muse",
+      "text": "Amazon und Meta sprechen laut einem Bericht des Magazins Fortune darüber, Amazons Sperre für Metas KI-Einkaufsassistenten Muse aufzuheben. Amazon hatte Muse im September vom eigenen Online-Shop ausgesperrt und auf Verstöße gegen die Nutzungsbedingungen verwiesen – Nutzer bekommen beim Bezahlen bis heute eine Fehlermeldung. In mehreren Gesprächsrunden geht es vor allem darum, wie Suchergebnisse angezeigt werden und was mit Werbung passiert: Amazon fürchtet, dass fremde KI-Agenten sein lukratives Werbegeschäft aushöhlen. Eine Einigung müssten Amazon-Chef Andy Jassy und Meta-Chef Mark Zuckerberg persönlich absegnen. Meta arbeitet für Muse bereits mit Händlern wie Walmart, Best Buy und Shopify zusammen. Beide Konzerne haben den Bericht nicht kommentiert, eine Einigung gibt es noch nicht.",
+      "quelle": "TechCrunch",
       "datum_artikel": "2026-11-25",
-      "unternehmen": "Microsoft"
+      "unternehmen": "Amazon"
+    },
+    {
+      "titel": "Stimmen-KI ElevenLabs strebt Bewertung von 33 Milliarden Dollar an",
+      "text": "Das KI-Start-up ElevenLabs, das künstliche Stimmen und Sprach-Agenten entwickelt, führt laut Bloomberg erste Gespräche über eine neue Finanzierungsrunde mit einer angepeilten Bewertung von 33 Milliarden Dollar. Die Runde soll Anfang 2027 starten, die Gespräche sind laut den Insidern noch in einem frühen Stadium. Zum Vergleich: Im Februar 2026 war ElevenLabs noch mit 11 Milliarden Dollar bewertet, bei einem Mitarbeiter-Aktienverkauf im Sommer mit rund 22 Milliarden Dollar. Damit würde sich der Wert des Unternehmens binnen eines Jahres etwa verdreifachen – und das, obwohl KI-Aktien an der Börse gerade stark unter Druck stehen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-25",
+      "unternehmen": "ElevenLabs"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Jetzt offiziell: USA schlagen neue Zölle gegen 14 Handelspartner vor – EU, Japan und China betroffen",
-      "text": "Am Dienstag war erst bekannt geworden, dass neue Zölle vorbereitet werden. Am Mittwoch hat die US-Regierung den Plan nun offiziell vorgelegt. Betroffen sind China, die EU, Japan, Südkorea, Taiwan, die Schweiz, Indien, Vietnam, Thailand, Singapur, Malaysia, Indonesien, Kambodscha und Bangladesch. Mexiko und Norwegen sind vorerst ausgenommen. Grundlage ist ein Handelsgesetz von 1974 (Section 301), nachdem der Supreme Court die bisherigen fast weltweiten Zölle gekippt hatte. Für die EU, Japan und Südkorea sind Berichten zufolge 15 Prozent vorgesehen, die auf bis zu 20 Prozent steigen könnten. Für China nannte Handelsbeauftragter Jamieson Greer 20 Prozent, möglich sind bis zu 40 Prozent, falls keine Einigung gelingt. Greer sagte, die Zölle würden wohl erst in einigen Monaten greifen. China nannte die Begründung falsch. Zusammen mit den Inflationsdaten belastete die Ankündigung am Mittwoch die Märkte, der S&P 500 fiel zwischenzeitlich um mehr als 3 Prozent.",
-      "quelle": "Washington Post",
-      "datum_artikel": "2026-11-25"
-    },
-    {
-      "titel": "US-Inflation steigt auf 3,8 Prozent – Märkte rechnen fest mit Zinserhöhung im Dezember",
-      "text": "Der von der US-Notenbank Fed bevorzugte Preismaßstab PCE ist im Oktober auf 3,8 Prozent gestiegen, fast doppelt so hoch wie das Ziel der Fed von 2 Prozent. Die Kernrate ohne Energie und Lebensmittel kletterte von 3,1 auf 3,3 Prozent. Das ist mehr als die erwarteten 3,2 Prozent und der höchste Wert seit fast drei Jahren. Gleichzeitig wuchs die US-Wirtschaft im dritten Quartal hochgerechnet um 4,3 Prozent. An den Märkten gilt eine Zinserhöhung um 0,25 Prozentpunkte bei der Fed-Sitzung im Dezember inzwischen als sicher. Der Leitzins liegt derzeit bei 3,75 bis 4 Prozent. Am Mittwoch stürzten Chipwerte zunächst ab, AMD, Micron und Marvell verloren zeitweise rund 9 Prozent oder mehr. Bis zum Handelsschluss holten die Börsen das meiste wieder auf: Der S&P 500 schloss nur 0,25 Prozent im Minus, der Dow Jones sogar leicht im Plus. Heute bleibt die Wall Street wegen Thanksgiving geschlossen.",
-      "quelle": "CNBC",
-      "datum_artikel": "2026-11-25"
-    },
-    {
-      "titel": "Pipeline-Übernahme: Targa verhandelt über Kauf von Kinetik – Aktie springt nachbörslich",
-      "text": "Der US-Pipelinebetreiber Targa Resources verhandelt laut Bloomberg über die Übernahme des kleineren Konkurrenten Kinetik Holdings. Beide Firmen betreiben Leitungen für Öl und Gas im Permian-Becken in Texas, dem wichtigsten Ölfördergebiet der USA. Eine Einigung könnte schon nächste Woche kommen, entschieden ist aber noch nichts, auch ein anderer Bieter ist möglich. Kinetik ist an der Börse rund 8,9 Milliarden Dollar wert, Targa rund 61,5 Milliarden Dollar. Die Kinetik-Aktie stieg nach Handelsschluss am Mittwoch je nach Zeitpunkt um 7 bis 11,5 Prozent, die Targa-Aktie fiel um rund 3 Prozent. Kinetik hatte im September begonnen, einen möglichen Verkauf zu prüfen. Es wäre ein weiterer Schritt im Zusammenschluss-Trend unter den Pipelinebetreibern in der Region.",
+      "titel": "Nasdaq 100 rutscht kurz in den Bärenmarkt – am Feiertag erholen sich Europa und Asien kräftig",
+      "text": "Der Technologieindex Nasdaq 100 ist am Mittwoch zeitweise um rund 4,7 Prozent eingebrochen und lag damit mehr als 20 Prozent unter seinem Rekord vom 6. Oktober – das ist die Schwelle zum sogenannten Bärenmarkt, erstmals seit April 2025. Auslöser waren laut Bloomberg die neuen US-Zollpläne, hartnäckige Inflation und der anhaltende Ausverkauf bei KI-Aktien. Bis zum Handelsschluss holte der Index den Großteil der Verluste wieder auf. Am Donnerstag, als die US-Börsen wegen Thanksgiving geschlossen waren, setzte in Europa und Asien eine kräftige Erholung ein: Der DAX schloss gut 2 Prozent höher über 25.000 Punkten, in Tokio sprangen SoftBank um gut 7 und der Speicherchip-Hersteller Kioxia um rund 12,6 Prozent. Heute folgt in New York ein verkürzter Handelstag, der zeigen dürfte, ob die Erholung trägt.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-25"
+      "datum_artikel": "2026-11-26"
+    },
+    {
+      "titel": "Kreditausfall-Versicherung für SoftBank so teuer wie seit 2022 nicht mehr",
+      "text": "Die Kosten, um sich gegen einen Zahlungsausfall von SoftBank abzusichern, sind auf den höchsten Stand seit Oktober 2022 gestiegen. Die fünfjährigen Kreditausfall-Swaps (Credit Default Swaps, eine Art Versicherung gegen Pleite) kletterten laut Bloomberg auf 516 Basispunkte, also erstmals seit rund vier Jahren über 500. Grund sind Zweifel an SoftBanks riesigen KI-Wetten: Allein bei OpenAI hat der Konzern von Masayoshi Son inzwischen rund 64,6 Milliarden Dollar zugesagt, finanziert zu großen Teilen mit Schulden. Die Aktie war am Mittwoch in Tokio um fast 15 Prozent eingebrochen und liegt rund 38 Prozent unter ihrem Hoch vom Juni. Am Donnerstag erholte sie sich zwar wieder um gut 7 Prozent, der Anleihemarkt bleibt aber nervös. Ein Signal für eine akute Pleitegefahr ist das nicht, wohl aber dafür, dass Investoren das Risiko des KI-Ausbaus auf Pump höher einschätzen.",
+      "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-26"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Generaldebatte zum Haushalt 2027: Merz sagt 'Wir haben das Geld nicht mehr für alles'",
-      "text": "In der Haushaltswoche des Bundestags hat Bundeskanzler Friedrich Merz am Mittwoch den Etat 2027 verteidigt. Mit rund 560 Milliarden Euro ist er der größte in der Geschichte der Bundesrepublik. Merz nannte ihn vertretbar, räumte aber ein, die Aufstellung habe 'sicher keinen Schönheitspreis verdient'. Er kündigte weitere Reformen und Einsparungen an und sagte, die Verteidigungsausgaben müssten künftig wieder aus dem normalen Haushalt bezahlt werden. AfD-Chefin Alice Weidel nannte den Haushalt ein Dokument von Sozialismus und Verarmung, Linken-Fraktionschefin Heidi Reichinnek nannte ihn 'blass und kalt'. Auch aus der SPD kam Kritik: SPD-Fraktionschef Matthias Miersch betonte, Fragen zu großen Vermögen und Erbschaften seien nicht vom Tisch. Die SPD-Haushälterin Wiebke Esdar warf Merz vor, die Stromsteuersenkung erst nach Abschluss der Verhandlungen durchgedrückt zu haben. Die Schlussabstimmung ist für Freitag geplant, die Koalition hat nur zwölf Stimmen Mehrheit.",
-      "quelle": "Tagesspiegel",
-      "datum_artikel": "2026-11-25",
-      "land": "Deutschland"
+      "titel": "Trump nennt Wachstumszahlen vor der Wahl 'gefälscht' und fordert Untersuchung des Handelsministeriums",
+      "text": "US-Präsident Donald Trump hat an Thanksgiving die Wirtschaftsdaten des eigenen Handelsministeriums angegriffen. Anlass: Die Statistikbehörde BEA hatte am Mittwoch das Wirtschaftswachstum im dritten Quartal von zunächst gemeldeten 3,4 auf 4,3 Prozent (aufs Jahr hochgerechnet) nach oben korrigiert. Trump schrieb auf Truth Social, die vor den Zwischenwahlen veröffentlichten niedrigeren Zahlen seien gefälscht gewesen, und verlangte eine Untersuchung – Belege legte er nicht vor. Solche Korrekturen sind üblich, weil die Behörde ihre ersten Schätzungen mit neuen Daten regelmäßig überarbeitet. Bereits im vergangenen Jahr hatte Trump nach einem schwachen Arbeitsmarktbericht eine leitende Beamtin des Arbeitsministeriums entlassen und ihr ohne Belege Manipulation vorgeworfen. Das Handelsministerium äußerte sich zunächst nicht.",
+      "quelle": "Associated Press",
+      "datum_artikel": "2026-11-26",
+      "land": "USA"
     },
     {
-      "titel": "Vance: NVIDIA-Chef Huang braucht keine Begnadigung – Kongress plant trotzdem Befragung",
-      "text": "Nachdem NVIDIAs Aufsichtsgremium Jensen Huang am Montag auf Drängen des Weißen Hauses als Chef zurückgeholt hatte, wächst in Washington die Kritik. Vizepräsident JD Vance sagte am Mittwoch, Huang brauche keine Begnadigung durch Präsident Trump. Justizministerium und Sicherheitsbehörden hätten ihm versichert, dass gegen Huang nicht ermittelt werde, und er habe keine Hinweise auf eine Straftat gesehen. Trump sagte, eine Begnadigung sei 'immer eine Option', aber wohl nicht nötig. Huang war am 12. November zurückgetreten, nachdem er mehrere Affären eingeräumt hatte, darunter mit einer chinesischen Managerin, der die US-Regierung Verbindungen zu Geheimdiensten vorwirft. Abgeordnete beider Parteien wollen nun Fragen zu möglichen Sicherheitsrisiken und zur Einhaltung der Exportregeln klären. Huang soll am 3. Dezember hinter verschlossenen Türen von Abgeordneten des Repräsentantenhauses befragt werden. Laut Berichten hielt Trump selbst Millionen Dollar in NVIDIA-Aktien, als er sich für Huangs Rückkehr einsetzte.",
-      "quelle": "Associated Press",
-      "datum_artikel": "2026-11-25",
+      "titel": "Thanksgiving-Anruf bei Soldaten: Trump sieht Sieg gegen Iran 'in Reichweite'",
+      "text": "Bei seinen traditionellen Thanksgiving-Telefonaten mit US-Soldaten hat Präsident Trump von seinem Anwesen Mar-a-Lago aus erklärt, ein Sieg im Krieg gegen Iran sei 'in Reichweite'. Wann es so weit sei, bestimme er selbst, sagte er einer Armee-Einheit. Zugleich äußerte er Zweifel, ob Teheran bereit sei, ein Abkommen zur Beendigung des Krieges zu schließen; die USA gäben Iran 'jede Chance, einen Deal zu machen'. Gegenüber der Marine bezeichnete er die US-Seeblockade gegen Iran als die erfolgreichste der Geschichte, ohne das zu begründen. Kritiker warfen Trump vor, die Lage der Soldaten, die die Feiertage fern ihrer Familien verbringen, nicht ernst genug zu nehmen. Konkrete neue Schritte in den Verhandlungen kündigte er nicht an.",
+      "quelle": "CBS News",
+      "datum_artikel": "2026-11-26",
       "land": "USA"
+    },
+    {
+      "titel": "Streit um Rente mit 63: Union bietet 'Respekt-Rente' an – SPD lehnt ab",
+      "text": "In der Koalition ist ein neuer Kompromissvorschlag zur abschlagsfreien Rente nach 45 Beitragsjahren (umgangssprachlich 'Rente mit 63') auf Widerstand gestoßen. Die Union schlägt eine sogenannte 'Respekt-Rente' vor: Ohne Abschläge in Rente gehen dürfte nach 45 Jahren nur noch, wer im Schnitt höchstens 70 Prozent des Durchschnittseinkommens verdient hat; Besserverdiener müssten auf den darüber liegenden Teil ihrer Rentenansprüche die üblichen Abschläge hinnehmen. Ursprünglich wollte die Union die Regel ganz abschaffen, die Rentenkommission hatte stattdessen eine Härtefallregel ('Schutzrente') empfohlen. SPD-Rentenexpertin Annika Klose kritisiert, damit würde praktisch jeder mit mehr als rund 3.000 Euro brutto trotz 45 Beitragsjahren Abschläge zahlen; die SPD wolle Anerkennung der Lebensleistung, keine Almosen. Auch in der Union gibt es Stimmen, denen der Vorschlag zu weit geht. Die Bundesregierung will die Rentenreform eigentlich noch vor Weihnachten im Kabinett beschließen – eine Einigung steht weiter aus.",
+      "quelle": "t-online",
+      "datum_artikel": "2026-11-26",
+      "land": "Deutschland"
     }
   ]
 }
