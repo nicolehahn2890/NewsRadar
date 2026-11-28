@@ -1,78 +1,57 @@
 {
-  "datum": "Freitag, 27. November 2026",
-  "generiert": "2026-11-27",
+  "datum": "Samstag, 28. November 2026",
+  "generiert": "2026-11-28",
   "ki_stories": [
     {
-      "titel": "Nach neuen US-Exportregeln: NVIDIA stoppt Server-Lieferungen nach Malaysia, Singapur, Thailand und Indonesien",
-      "text": "NVIDIA hat seine Fertigungspartner angewiesen, keine Server mit NVIDIA-Chips mehr nach Malaysia, Singapur, Thailand und Indonesien auszuliefern, berichtet die Financial Times. Laut drei mit der Sache vertrauten Personen haben Dell und Supermicro Kunden in diesen Ländern bereits mitgeteilt, dass NVIDIA ihre Bestellungen nicht freigibt. Hintergrund ist eine neue US-Regel für KI-Chips, die seit dem 19. November gilt: Sie soll Umwege schließen, über die chinesische Firmen an Hochleistungschips kommen – inklusive der Möglichkeit, Top-Chips in Rechenzentren im Ausland nur zu mieten. Unklar ist, ob der Stopp nur vorübergehend ist, bis NVIDIA geprüft hat, ob die Partner in der Region die neuen Auflagen erfüllen. Für Südostasien, das zuletzt zu einem der wichtigsten Standorte für neue KI-Rechenzentren geworden ist, kann das den Ausbau spürbar bremsen. NVIDIA und die Partner haben sich zunächst nicht geäußert.",
-      "quelle": "Financial Times",
-      "datum_artikel": "2026-11-26"
-    },
-    {
-      "titel": "KI-Hedgefonds Situational Awareness verliert im dritten Quartal 65 Prozent",
-      "text": "Der KI-Hedgefonds Situational Awareness des früheren OpenAI-Forschers Leopold Aschenbrenner hat im dritten Quartal nach Gebühren rund 65 Prozent verloren, berichtet das Wall Street Journal unter Berufung auf einen Investorenbrief. Der Fonds hatte mit geliehenem Geld massiv auf KI-Aktien gesetzt und wäre schon im Juli nach einem KI-Ausverkauf beinahe zusammengebrochen. Trotz des Einbruchs liegt er für das Jahr bis Ende September immer noch rund 88,5 Prozent im Plus. Aschenbrenner kündigte an, das Portfolio umgebaut zu haben und einen erfahrenen Chef-Risikomanager einzustellen; Leerverkäufe und Kredithebel will er künftig nur noch in kleinerem Umfang nutzen. Der Fall gilt als Gradmesser dafür, wie stark die jüngsten Schwankungen bei KI-Aktien auch spezialisierte Profi-Investoren treffen.",
-      "quelle": "Wall Street Journal",
+      "titel": "Neue US-Chipregeln bremsen Chinas KI: Z.ai verschiebt wohl sein Top-Modell GLM-5.5",
+      "text": "Das chinesische KI-Unternehmen Z.ai (früher Zhipu) hat laut Reuters den geplanten Start seines neuen Spitzenmodells GLM-5.5 im November verpasst. Zwei mit der Sache vertraute Personen sagten Reuters, das Modell mit rund 3 Billionen Parametern könne sich bis ins erste Quartal 2027 oder später verzögern. Als Gründe gelten die neue US-Exportregel, die seit 19. November auch die Anmietung großer Rechenkapazitäten im Ausland (ab etwa 750 H100-Chips) genehmigungspflichtig macht, sowie stärkere Schutzmaßnahmen westlicher Anbieter gegen das Abschöpfen ihrer Modelle (Distillation). Auch der Konkurrent Moonshot AI rechnet laut Reuters damit, dass sich der Abstand zu seinem nächsten Modell Kimi K4 verdoppeln könnte, womöglich bis Mitte 2027. Z.ai selbst hat keine Verschiebung angekündigt und auf Anfragen nicht reagiert. Der Fall zeigt erstmals konkret, wie die verschärften US-Regeln das Tempo chinesischer KI-Entwicklung bremsen könnten.",
+      "quelle": "Reuters",
       "datum_artikel": "2026-11-26"
     }
   ],
   "unternehmen_stories": [
     {
-      "titel": "SAP erwägt Abbau von mindestens 10.000 Stellen für KI-Umbau",
-      "text": "Der Softwarekonzern SAP prüft laut Bloomberg, mindestens 10.000 Stellen zu streichen, um sein Geschäft stärker auf KI auszurichten. Das wären mindestens 9 Prozent der weltweit gut 110.000 Beschäftigten. Alle Abteilungen sollen mögliche Kürzungen benennen, im Fokus stehen vor allem Produktentwicklung und Vertrieb. Die Pläne sind noch nicht mit den Arbeitnehmervertretern besprochen, die endgültige Zahl kann sich daher noch ändern. SAP erklärte nur, man überprüfe die Organisation laufend, und wollte konkrete Pläne nicht kommentieren. Bereits 2024 hatte SAP ein Umbauprogramm mit am Ende 9.000 bis 10.000 betroffenen Stellen aufgelegt; Softwareaktien weltweit stehen derzeit unter Druck, weil Anleger fürchten, dass KI klassische Software ersetzt.",
+      "titel": "Trotz Exportverbot: NVIDIAs neueste Blackwell-Chips tauchen in Shanghaier Rechenzentrum auf",
+      "text": "Bloomberg hat in einem Rechenzentrum in Shanghai ein komplettes GB300-NVL72-Rack mit NVIDIAs neuesten Blackwell-Chips aufgespürt, obwohl deren Export nach China eine US-Lizenz erfordert. Über eine Seriennummer in einer öffentlichen Garantie-Datenbank ließ sich das Rack dem taiwanischen Hersteller Gigabyte zuordnen. Die Betreiberfirma Shanghai Shuoyao hat das Gerät laut Behördenunterlagen als Sicherheit für einen Kredit über 96 Millionen Yuan (rund 14 Millionen Dollar) eingesetzt; sie hat enge Verbindungen zur Singapurer Firma Megaspeed und zur Geschäftsfrau Alice Huang, gegen die die USA wegen Chip-Schmuggels ermitteln. Neu gegenüber den Vortagen: Nachdem die USA Megaspeed am Dienstag auf die schwarze Liste gesetzt hatten, ist dies der erste Nachweis der aktuellsten Blackwell-Generation in China – bisher waren dort nur ältere Chips gefunden worden. Wie die Hardware nach China kam, konnte Bloomberg nicht klären; NVIDIA und Megaspeed reagierten nicht auf Anfragen. Für NVIDIA erhöht das den Druck in Washington, wo der Kongress ohnehin eine Befragung zu dem Fall plant.",
       "quelle": "Bloomberg",
+      "datum_artikel": "2026-11-27"
+    },
+    {
+      "titel": "Abrechnungsfehler bei GPT-6.2: ChatGPT-Nutzer stoßen bis zu 40 Prozent schneller an ihr Limit",
+      "text": "OpenAI hat eingeräumt, beim Start von GPT-6.2 die Nutzung der Modelle Astra und Sol für die meisten Kunden zu niedrig berechnet zu haben. Thibault Sottiaux von OpenAI erklärte auf der Plattform X, der Fehler sei behoben – dieselbe Arbeit verbrauche nun mehr vom Kontingent des jeweiligen Abos. Konkret erreichen Astra-Nutzer ihr Limit jetzt rund 40 Prozent schneller als in der Vorwoche, Sol-Nutzer etwa 25 Prozent schneller. Rückwirkend berechnet OpenAI nichts nach; Abonnenten der Tarife Go, Plus, Pro und Business erhalten als Ausgleich eine zusätzliche Kontingent-Rücksetzung. Andere Modelle sind nicht betroffen, die Preislisten bleiben unverändert. Parallel beginnt OpenAI, die Bereiche Chat und Work in ChatGPT für einige Pro-Kunden zusammenzulegen, die dann aus einem gemeinsamen Kontingent schöpfen.",
+      "quelle": "InfoWorld",
       "datum_artikel": "2026-11-26",
-      "unternehmen": "SAP"
-    },
-    {
-      "titel": "Amazon und Meta verhandeln über Freigabe von Metas Einkaufs-Agent Muse",
-      "text": "Amazon und Meta sprechen laut einem Bericht des Magazins Fortune darüber, Amazons Sperre für Metas KI-Einkaufsassistenten Muse aufzuheben. Amazon hatte Muse im September vom eigenen Online-Shop ausgesperrt und auf Verstöße gegen die Nutzungsbedingungen verwiesen – Nutzer bekommen beim Bezahlen bis heute eine Fehlermeldung. In mehreren Gesprächsrunden geht es vor allem darum, wie Suchergebnisse angezeigt werden und was mit Werbung passiert: Amazon fürchtet, dass fremde KI-Agenten sein lukratives Werbegeschäft aushöhlen. Eine Einigung müssten Amazon-Chef Andy Jassy und Meta-Chef Mark Zuckerberg persönlich absegnen. Meta arbeitet für Muse bereits mit Händlern wie Walmart, Best Buy und Shopify zusammen. Beide Konzerne haben den Bericht nicht kommentiert, eine Einigung gibt es noch nicht.",
-      "quelle": "TechCrunch",
-      "datum_artikel": "2026-11-25",
-      "unternehmen": "Amazon"
-    },
-    {
-      "titel": "Stimmen-KI ElevenLabs strebt Bewertung von 33 Milliarden Dollar an",
-      "text": "Das KI-Start-up ElevenLabs, das künstliche Stimmen und Sprach-Agenten entwickelt, führt laut Bloomberg erste Gespräche über eine neue Finanzierungsrunde mit einer angepeilten Bewertung von 33 Milliarden Dollar. Die Runde soll Anfang 2027 starten, die Gespräche sind laut den Insidern noch in einem frühen Stadium. Zum Vergleich: Im Februar 2026 war ElevenLabs noch mit 11 Milliarden Dollar bewertet, bei einem Mitarbeiter-Aktienverkauf im Sommer mit rund 22 Milliarden Dollar. Damit würde sich der Wert des Unternehmens binnen eines Jahres etwa verdreifachen – und das, obwohl KI-Aktien an der Börse gerade stark unter Druck stehen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-25",
-      "unternehmen": "ElevenLabs"
+      "unternehmen": "OpenAI"
     }
   ],
   "boerse_stories": [
     {
-      "titel": "Nasdaq 100 rutscht kurz in den Bärenmarkt – am Feiertag erholen sich Europa und Asien kräftig",
-      "text": "Der Technologieindex Nasdaq 100 ist am Mittwoch zeitweise um rund 4,7 Prozent eingebrochen und lag damit mehr als 20 Prozent unter seinem Rekord vom 6. Oktober – das ist die Schwelle zum sogenannten Bärenmarkt, erstmals seit April 2025. Auslöser waren laut Bloomberg die neuen US-Zollpläne, hartnäckige Inflation und der anhaltende Ausverkauf bei KI-Aktien. Bis zum Handelsschluss holte der Index den Großteil der Verluste wieder auf. Am Donnerstag, als die US-Börsen wegen Thanksgiving geschlossen waren, setzte in Europa und Asien eine kräftige Erholung ein: Der DAX schloss gut 2 Prozent höher über 25.000 Punkten, in Tokio sprangen SoftBank um gut 7 und der Speicherchip-Hersteller Kioxia um rund 12,6 Prozent. Heute folgt in New York ein verkürzter Handelstag, der zeigen dürfte, ob die Erholung trägt.",
+      "titel": "Lula macht Bankchef Trabuco zum Finanzminister – Brasiliens Börse springt um rund 6 Prozent",
+      "text": "Brasiliens Präsident Luiz Inácio Lula da Silva hat Luiz Carlos Trabuco, den Verwaltungsratschef der Großbank Bradesco, zum neuen Finanzminister ernannt. Investoren werten die Wahl als Signal, dass die Regierung künftig stärker auf Haushaltsdisziplin setzt. Der Leitindex Ibovespa stieg laut Bloomberg um 6,1 Prozent, der größte Tagesgewinn seit Anfang Oktober; die Landeswährung Real legte deutlich zu und verbesserte sich laut AP von 5,88 auf 5,53 pro Dollar. Besonders stark gewannen Banken und Einzelhändler, in New York sprangen etwa XP um rund 18 und Bradesco um rund 15 Prozent. Einige Analysten warnen allerdings, die Rally sei noch keine dauerhafte Wende, und linke Unterstützer Lulas werfen der Regierung vor, sich dem Druck der Märkte zu beugen.",
       "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-26"
+      "datum_artikel": "2026-11-27"
     },
     {
-      "titel": "Kreditausfall-Versicherung für SoftBank so teuer wie seit 2022 nicht mehr",
-      "text": "Die Kosten, um sich gegen einen Zahlungsausfall von SoftBank abzusichern, sind auf den höchsten Stand seit Oktober 2022 gestiegen. Die fünfjährigen Kreditausfall-Swaps (Credit Default Swaps, eine Art Versicherung gegen Pleite) kletterten laut Bloomberg auf 516 Basispunkte, also erstmals seit rund vier Jahren über 500. Grund sind Zweifel an SoftBanks riesigen KI-Wetten: Allein bei OpenAI hat der Konzern von Masayoshi Son inzwischen rund 64,6 Milliarden Dollar zugesagt, finanziert zu großen Teilen mit Schulden. Die Aktie war am Mittwoch in Tokio um fast 15 Prozent eingebrochen und liegt rund 38 Prozent unter ihrem Hoch vom Juni. Am Donnerstag erholte sie sich zwar wieder um gut 7 Prozent, der Anleihemarkt bleibt aber nervös. Ein Signal für eine akute Pleitegefahr ist das nicht, wohl aber dafür, dass Investoren das Risiko des KI-Ausbaus auf Pump höher einschätzen.",
-      "quelle": "Bloomberg",
-      "datum_artikel": "2026-11-26"
+      "titel": "FDA verschiebt Entscheidung über Nierenmittel – Vertex-Aktie verliert rund 10 Milliarden Dollar an Wert",
+      "text": "Die Aktie des US-Biotechkonzerns Vertex Pharmaceuticals (VRTX) ist am Freitag um 5 bis 7 Prozent gefallen, zeitweise sogar um mehr als 10 Prozent. Auslöser: Die US-Arzneimittelbehörde FDA hat ihre Entscheidung über das Medikament povetacicept gegen die Nierenerkrankung IgA-Nephropathie vom 30. November 2026 auf spätestens 28. Februar 2027 verschoben. Die FDA stufte Antworten von Vertex auf eine späte Nachfrage als wesentliche Änderung des Antrags ein, was eine Verlängerung um bis zu drei Monate erlaubt. Der Kursrutsch kostete laut Berichten rund 10 Milliarden Dollar Börsenwert, während der Konkurrent Vera Therapeutics kräftig zulegte. Analysten von William Blair und Citi sehen die Zulassung dennoch als wahrscheinlich an, weil die FDA nur verlängert und keine Ablehnung (Complete Response Letter) ausgesprochen hat.",
+      "quelle": "Seeking Alpha",
+      "datum_artikel": "2026-11-27"
     }
   ],
   "politik_stories": [
     {
-      "titel": "Trump nennt Wachstumszahlen vor der Wahl 'gefälscht' und fordert Untersuchung des Handelsministeriums",
-      "text": "US-Präsident Donald Trump hat an Thanksgiving die Wirtschaftsdaten des eigenen Handelsministeriums angegriffen. Anlass: Die Statistikbehörde BEA hatte am Mittwoch das Wirtschaftswachstum im dritten Quartal von zunächst gemeldeten 3,4 auf 4,3 Prozent (aufs Jahr hochgerechnet) nach oben korrigiert. Trump schrieb auf Truth Social, die vor den Zwischenwahlen veröffentlichten niedrigeren Zahlen seien gefälscht gewesen, und verlangte eine Untersuchung – Belege legte er nicht vor. Solche Korrekturen sind üblich, weil die Behörde ihre ersten Schätzungen mit neuen Daten regelmäßig überarbeitet. Bereits im vergangenen Jahr hatte Trump nach einem schwachen Arbeitsmarktbericht eine leitende Beamtin des Arbeitsministeriums entlassen und ihr ohne Belege Manipulation vorgeworfen. Das Handelsministerium äußerte sich zunächst nicht.",
-      "quelle": "Associated Press",
-      "datum_artikel": "2026-11-26",
-      "land": "USA"
-    },
-    {
-      "titel": "Thanksgiving-Anruf bei Soldaten: Trump sieht Sieg gegen Iran 'in Reichweite'",
-      "text": "Bei seinen traditionellen Thanksgiving-Telefonaten mit US-Soldaten hat Präsident Trump von seinem Anwesen Mar-a-Lago aus erklärt, ein Sieg im Krieg gegen Iran sei 'in Reichweite'. Wann es so weit sei, bestimme er selbst, sagte er einer Armee-Einheit. Zugleich äußerte er Zweifel, ob Teheran bereit sei, ein Abkommen zur Beendigung des Krieges zu schließen; die USA gäben Iran 'jede Chance, einen Deal zu machen'. Gegenüber der Marine bezeichnete er die US-Seeblockade gegen Iran als die erfolgreichste der Geschichte, ohne das zu begründen. Kritiker warfen Trump vor, die Lage der Soldaten, die die Feiertage fern ihrer Familien verbringen, nicht ernst genug zu nehmen. Konkrete neue Schritte in den Verhandlungen kündigte er nicht an.",
-      "quelle": "CBS News",
-      "datum_artikel": "2026-11-26",
-      "land": "USA"
-    },
-    {
-      "titel": "Streit um Rente mit 63: Union bietet 'Respekt-Rente' an – SPD lehnt ab",
-      "text": "In der Koalition ist ein neuer Kompromissvorschlag zur abschlagsfreien Rente nach 45 Beitragsjahren (umgangssprachlich 'Rente mit 63') auf Widerstand gestoßen. Die Union schlägt eine sogenannte 'Respekt-Rente' vor: Ohne Abschläge in Rente gehen dürfte nach 45 Jahren nur noch, wer im Schnitt höchstens 70 Prozent des Durchschnittseinkommens verdient hat; Besserverdiener müssten auf den darüber liegenden Teil ihrer Rentenansprüche die üblichen Abschläge hinnehmen. Ursprünglich wollte die Union die Regel ganz abschaffen, die Rentenkommission hatte stattdessen eine Härtefallregel ('Schutzrente') empfohlen. SPD-Rentenexpertin Annika Klose kritisiert, damit würde praktisch jeder mit mehr als rund 3.000 Euro brutto trotz 45 Beitragsjahren Abschläge zahlen; die SPD wolle Anerkennung der Lebensleistung, keine Almosen. Auch in der Union gibt es Stimmen, denen der Vorschlag zu weit geht. Die Bundesregierung will die Rentenreform eigentlich noch vor Weihnachten im Kabinett beschließen – eine Einigung steht weiter aus.",
-      "quelle": "t-online",
-      "datum_artikel": "2026-11-26",
+      "titel": "Bundestag beschließt Haushalt 2027: 555,9 Milliarden Euro Ausgaben, Stromsteuer sinkt",
+      "text": "Nach der Haushaltswoche und der Generaldebatte am Mittwoch hat der Bundestag am Freitag den Bundeshaushalt 2027 endgültig beschlossen. Bei der namentlichen Abstimmung stimmten laut Agenturberichten 317 Abgeordnete der Koalition aus CDU/CSU und SPD dafür, 260 dagegen. Der Etat von Finanzminister Lars Klingbeil (SPD) sieht Ausgaben von 555,9 Milliarden Euro vor, rund 31 Milliarden mehr als 2026; die Neuverschuldung steigt laut ZDF auf über 210 Milliarden Euro, damit ist etwa jeder dritte Euro schuldenfinanziert. Der Haushaltsausschuss hatte die Investitionen im Kernhaushalt zuvor um 5,58 Milliarden auf 61,85 Milliarden Euro erhöht. Mit dem ebenfalls beschlossenen Haushaltsbegleitgesetz wird die Stromsteuer ab Anfang 2027 gesenkt. Die Opposition wirft Klingbeil vor, den Etat mit Buchungstricks zusammengestellt zu haben; Klingbeil verteidigt die Schulden mit Ausgaben für Verteidigung und Investitionen. Als Nächstes muss sich der Bundesrat mit dem Haushalt befassen.",
+      "quelle": "ZDFheute",
+      "datum_artikel": "2026-11-27",
       "land": "Deutschland"
+    },
+    {
+      "titel": "Vor dem Machtwechsel im Kongress: Trump-Vertraute setzen Sondersitzung für Bauprojekte an",
+      "text": "Mark Paoletta, Vorsitzender der National Capital Planning Commission und Mitarbeiter des Weißen Hauses, hat laut Washington Post für den 31. Dezember eine Sondersitzung einberufen. Dort sollen mehrere von Präsident Trump geplante Bauprojekte in Washington endgültig genehmigt werden, darunter Vorhaben im East und West Potomac Park sowie ein neuer Anstrich des Eisenhower Executive Office Building neben dem Weißen Haus. Hintergrund ist der Zeitplan: Wenn im Januar der neue Kongress zusammentritt, übernehmen Demokraten die beiden Sitze in der zwölfköpfigen Kommission, die bisher republikanische Abgeordnete innehaben. Dann droht ein Patt von 6 zu 6, und bei Gleichstand dürfen Projekte laut den Regeln der Kommission nicht vorankommen. Trump hat das Gremium mit Verbündeten besetzt, die bereits seinen umstrittenen Ballsaal am Weißen Haus genehmigt hatten; mehrere Mitglieder haben angekündigt, gegen die Projekte zu stimmen.",
+      "quelle": "Washington Post",
+      "datum_artikel": "2026-11-27",
+      "land": "USA"
     }
   ]
 }
